@@ -1,0 +1,143 @@
+# The First Commandment — titled scripture sets
+# Each entry: a topical title + the set of Bible references it gathers.
+# Refs use human citations; book codes resolve against ~/matt/bible.
+# Titles derive from the source catechism-reference groupings.
+
+1:
+  title: "God Alone as Judge"
+  refs: !!set
+    ? "Luke 12:13-14"
+
+2:
+  title: "Trusting God Above Created Things"
+  refs: !!set
+    ? "Isaiah 45:20"
+    ? "Proverbs 11:28"
+    ? "Matthew 10:37"
+
+3:
+  title: "Worship God Alone"
+  refs: !!set
+    ? "Isaiah 42:8"
+    ? "Matthew 4:10"
+    ? "Romans 1:22-23"
+    ? "1 Corinthians 8:4"
+
+4:
+  title: "Fear, Love, and Trust in God"
+  refs: !!set
+    ? "Psalm 111:10"
+    ? "Deuteronomy 6:5"
+    ? "Proverbs 3:5"
+
+5:
+  title: "The One True God of All Nations"
+  refs: !!set
+    ? "Psalm 22:27"
+    ? "Acts 17:28-29"
+    ? "1 Corinthians 8:5-6"
+
+6:
+  title: "Fearing God Above All"
+  refs: !!set
+    ? "Proverbs 8:13"
+    ? "Matthew 10:28"
+    ? "Psalm 96:4-13"
+
+7:
+  title: "Loving God Above All"
+  refs: !!set
+    ? "Psalm 73:25-26"
+    ? "John 14:15"
+    ? "Mark 10:17-27"
+
+8:
+  title: "Trusting God Above All"
+  refs: !!set
+    ? "Isaiah 30:15"
+    ? "1 Peter 5:6-7"
+    ? "Philippians 4:5-6"
+    ? "Proverbs 3:5-10"
+    ? "Psalm 115:4"
+    ? "Luke 23:46"
+
+9:
+  title: "Idols of Pride and Self"
+  refs: !!set
+    ? "Genesis 11:1-9"
+    ? "Luke 18:9-14"
+    ? "Luke 18:18-24"
+    ? "1 Corinthians 6:12-20"
+    ? "Matthew 10:37-39"
+
+10:
+  title: "The Idolatry of the Heart"
+  refs: !!set
+    ? "Matthew 6:19"
+    ? "Matthew 6:21"
+    ? "Exodus 32:1-10"
+    ? "Romans 1:18-25"
+    ? "Ephesians 5:5"
+
+11:
+  title: "Seeking God First"
+  refs: !!set
+    ? "Matthew 6:33"
+    ? "Deuteronomy 30:19-20"
+    ? "Proverbs 11:28"
+
+12:
+  title: "No One Is Without Sin"
+  refs: !!set
+    ? "Ecclesiastes 7:20"
+    ? "1 John 1:8"
+
+13:
+  title: "God the Holy Trinity"
+  refs: !!set
+    ? "Genesis 1:1-3"
+    ? "Matthew 3:16-17"
+    ? "John 1:1-3"
+    ? "Matthew 28:19"
+    ? "2 Corinthians 13:14"
+    ? "Numbers 6:24-26"
+
+14:
+  title: "The Attributes of God"
+  refs: !!set
+    ? "Psalm 145:9"
+    ? "Psalm 116:5"
+    ? "2 Timothy 2:13"
+    ? "John 4:24"
+    ? "1 Timothy 1:17"
+    ? "Malachi 3:6"
+    ? "Matthew 19:26"
+    ? "Psalm 139:1-4"
+    ? "Jeremiah 23:24"
+    ? "Isaiah 6:3"
+    ? "Deuteronomy 32:4"
+    ? "1 John 4:8"
+
+15:
+  title: "The First Commandment"
+  refs: !!set
+    ? "Exodus 20:1-3"
+    ? "John 3:16"
+    ? "Exodus 20:4"
+    ? "Exodus 20:5"
+
+16:
+  title: "Unbelief and False Worship"
+  refs: !!set
+    ? "Romans 1:16-25"
+    ? "John 5:19-23"
+    ? "John 5:39-47"
+    ? "John 10:22-30"
+    ? "1 Samuel 28"
+    ? "Psalm 14:1"
+    ? "Psalm 53:1"
+
+17:
+  title: "The Two Ways"
+  refs: !!set
+    ? "Psalm 1"
