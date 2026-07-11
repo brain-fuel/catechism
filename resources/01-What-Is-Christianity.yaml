@@ -1,0 +1,121 @@
+# What Is Christianity — titled scripture sets
+# Each entry: a topical title + the set of Bible references it gathers.
+# Refs use human citations; book codes resolve against ~/matt/bible.
+# Titles derive from the source catechism-reference groupings.
+
+1:
+  title: "The Way: Salvation in Christ Alone"
+  refs: !!set
+    ? "John 14:6"
+    ? "Acts 4:12"
+    ? "1 John 5:11-12"
+    ? "Acts 9:2"
+    ? "Acts 24:14"
+    ? "Acts 11:26"
+
+2:
+  title: "The Holy Trinity"
+  refs: !!set
+    ? "John 17:3"
+    ? "Matthew 28:19"
+    ? "Matthew 3:13-17"
+
+3:
+  title: "Adoption as God's Children"
+  refs: !!set
+    ? "Romans 6:23"
+    ? "John 3:16"
+    ? "Galatians 4:4-5"
+
+4:
+  title: "The Holy Spirit Creates Faith and Confession"
+  refs: !!set
+    ? "Romans 8:15"
+    ? "Romans 10:10"
+    ? "1 Corinthians 6:11"
+    ? "1 Corinthians 12:3"
+
+5:
+  title: "Jesus Is Lord"
+  refs: !!set
+    ? "John 20:28"
+    ? "Romans 6:23"
+    ? "Romans 10:9"
+    ? "Romans 10:13"
+    ? "Luke 6:46"
+    ? "Colossians 2:6-7"
+    ? "Joel 2:32"
+
+6:
+  title: "The Purpose of Holy Scripture"
+  refs: !!set
+    ? "John 5:39"
+    ? "John 20:31"
+    ? "Luke 24:27"
+    ? "2 Timothy 3:15"
+    ? "1 John 1:1-2"
+
+7:
+  title: "The Inspiration and Authority of Scripture"
+  refs: !!set
+    ? "Hebrews 1:1-2"
+    ? "Ephesians 2:19-20"
+    ? "2 Timothy 3:16-17"
+    ? "2 Peter 1:21"
+
+8:
+  title: "The Authority and Power of God's Word"
+  refs: !!set
+    ? "Matthew 4:4"
+    ? "Matthew 4:7"
+    ? "Matthew 4:10"
+    ? "Matthew 19:4"
+    ? "John 10:35"
+    ? "Matthew 5:22"
+    ? "Matthew 5:28"
+    ? "Matthew 5:32"
+    ? "John 6:47"
+    ? "John 5:47"
+    ? "John 6:63"
+    ? "John 8:31-32"
+    ? "Luke 10:16"
+    ? "John 14:26"
+    ? "Acts 1:8"
+    ? "2 Peter 1:16-21"
+    ? "1 John 1:1-4"
+    ? "Isaiah 55:10-11"
+
+9:
+  title: "Receiving God's Word"
+  refs: !!set
+    ? "Psalm 119:73"
+    ? "Matthew 22:37"
+    ? "Acts 17:11"
+
+10:
+  title: "Holding Fast to Sound Doctrine"
+  refs: !!set
+    ? "Romans 3:4"
+    ? "2 Corinthians 10:5"
+    ? "Colossians 2:8"
+    ? "2 Timothy 4:3-4"
+    ? "2 Peter 3:15-16"
+    ? "Hebrews 4:15"
+    ? "2 Peter 1:20-21"
+
+11:
+  title: "Rightly Handling the Word of Truth"
+  refs: !!set
+    ? "2 Timothy 2:15"
+
+12:
+  title: "Rightly Dividing Law and Gospel"
+  refs: !!set
+    ? "Romans 3:20"
+    ? "John 6:63"
+    ? "Romans 1:16"
+
+13:
+  title: "Self-Examination Before the Lord's Supper"
+  refs: !!set
+    ? "1 Corinthians 11:28"
