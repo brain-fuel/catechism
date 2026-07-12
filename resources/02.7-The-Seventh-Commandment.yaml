@@ -1,0 +1,100 @@
+# The Seventh Commandment — titled scripture sets
+# Each entry: a topical title + the set of Bible references it gathers.
+# Refs use human citations; book codes resolve against ~/matt/bible.
+# Titles derive from the source catechism-reference groupings.
+
+1:
+  title: "Zacchaeus Makes Restitution"
+  refs: !!set
+    ? "Luke 19:1-10"
+
+2:
+  title: "Generosity"
+  refs: !!set
+    ? "Psalm 104:14-15"
+    ? "Proverbs 14:21"
+    ? "2 Corinthians 8:1-7"
+
+3:
+  title: "The Thief's Heart"
+  refs: !!set
+    ? "John 12:6"
+
+4:
+  title: "Honest Labor"
+  refs: !!set
+    ? "Ephesians 4:28"
+    ? "2 Thessalonians 3:6-8"
+
+5:
+  title: "Honesty and Fair Dealing"
+  refs: !!set
+    ? "Psalm 37:21"
+    ? "Leviticus 19:36"
+    ? "2 Kings 5:19-25"
+
+6:
+  title: "Making Restitution"
+  refs: !!set
+    ? "Exodus 22:14"
+
+7:
+  title: "Protecting a Neighbor's Property"
+  refs: !!set
+    ? "Philippians 2:4"
+    ? "Exodus 23:4-5"
+    ? "Genesis 13:8-12"
+    ? "Genesis 14:12-16"
+    ? "Deuteronomy 22:1"
+    ? "Deuteronomy 22:4"
+
+8:
+  title: "God Provides the Harvest"
+  refs: !!set
+    ? "Psalm 65:9"
+    ? "Deuteronomy 8:7-10"
+    ? "Psalm 65"
+
+9:
+  title: "Inheritance and Instruction"
+  refs: !!set
+    ? "Hebrews 11:20"
+    ? "Proverbs 1:8"
+
+10:
+  title: "Work and Diligence"
+  refs: !!set
+    ? "2 Thessalonians 3:10-12"
+    ? "Ephesians 4:28"
+
+11:
+  title: "Providing for One's Household"
+  refs: !!set
+    ? "1 Timothy 5:8"
+
+12:
+  title: "Giving to the Poor"
+  refs: !!set
+    ? "Matthew 5:42"
+    ? "1 John 3:17"
+    ? "Hebrews 13:16"
+    ? "Proverbs 17:5"
+    ? "Leviticus 19:9-10"
+
+13:
+  title: "Supporting Gospel Workers"
+  refs: !!set
+    ? "1 Corinthians 9:14"
+    ? "Galatians 6:6"
+
+14:
+  title: "Stewardship of Creation"
+  refs: !!set
+    ? "Genesis 2:15"
+    ? "Deuteronomy 22:6"
+    ? "Leviticus 25:3-5"
+
+15:
+  title: "The Blessing of the Generous"
+  refs: !!set
+    ? "Psalm 112"
