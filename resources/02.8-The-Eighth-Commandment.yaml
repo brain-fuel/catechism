@@ -1,0 +1,75 @@
+# The Eighth Commandment — titled scripture sets
+# Each entry: a topical title + the set of Bible references it gathers.
+# Refs use human citations; book codes resolve against ~/matt/bible.
+# Titles derive from the source catechism-reference groupings.
+
+1:
+  title: "Speaking Well of Others"
+  refs: !!set
+    ? "Mark 14:3-9"
+
+2:
+  title: "A Good Name"
+  refs: !!set
+    ? "Proverbs 22:1"
+    ? "Ecclesiastes 7:1"
+
+3:
+  title: "False Witness and Lying"
+  refs: !!set
+    ? "Matthew 26:59-61"
+    ? "Colossians 3:9"
+    ? "1 Kings 21:13"
+    ? "2 Kings 5:19-27"
+
+4:
+  title: "Betrayal and Slander"
+  refs: !!set
+    ? "Proverbs 11:13"
+    ? "1 Samuel 22:6-19"
+    ? "Matthew 26:14-16"
+
+5:
+  title: "Slander and Deceit"
+  refs: !!set
+    ? "James 4:11"
+    ? "Zechariah 8:17"
+    ? "2 Samuel 15:1-6"
+
+6:
+  title: "Defending the Accused"
+  refs: !!set
+    ? "Proverbs 31:8-9"
+    ? "Luke 7:36-50"
+
+7:
+  title: "Speaking Up for Others"
+  refs: !!set
+    ? "Luke 7:4-5"
+    ? "1 Samuel 19:1-7"
+    ? "Mark 12:41-44"
+
+8:
+  title: "Love Covers and Believes the Best"
+  refs: !!set
+    ? "1 Peter 4:8"
+    ? "Ephesians 4:15"
+    ? "1 Corinthians 13:7"
+    ? "Acts 5:33-39"
+
+9:
+  title: "Faithful Correction"
+  refs: !!set
+    ? "1 Thessalonians 5:14"
+    ? "2 Samuel 12:1-14"
+    ? "Ephesians 4:11-16"
+
+10:
+  title: "The Midwives Fear God"
+  refs: !!set
+    ? "Exodus 1:15-20"
+
+11:
+  title: "God, Contend for Me"
+  refs: !!set
+    ? "Psalm 35"
