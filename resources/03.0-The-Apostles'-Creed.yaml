@@ -1,0 +1,49 @@
+# The Apostles' Creed — titled scripture sets
+# Each entry: a topical title + the set of Bible references it gathers.
+# Refs use human citations; book codes resolve against ~/matt/bible.
+# Titles derive from the source catechism-reference groupings.
+
+1:
+  title: "From Law to Faith"
+  refs: !!set
+    ? "Romans 2:15"
+    ? "Romans 3:19-22"
+
+2:
+  title: "God Known in Creation and Conscience"
+  refs: !!set
+    ? "Psalm 19:1"
+    ? "Acts 14:17"
+    ? "Romans 1:20"
+    ? "Romans 2:15"
+
+3:
+  title: "The Holy Trinity"
+  refs: !!set
+    ? "Matthew 28:19"
+    ? "2 Corinthians 13:14"
+
+4:
+  title: "Father, Son, and Spirit"
+  refs: !!set
+    ? "John 3:16"
+    ? "John 15:26"
+    ? "Romans 8:9"
+
+5:
+  title: "The Work of the Triune God"
+  refs: !!set
+    ? "Deuteronomy 32:6"
+    ? "1 John 1:7"
+    ? "Galatians 3:5"
+
+6:
+  title: "One God, Varied Gifts"
+  refs: !!set
+    ? "1 Corinthians 12:4-6"
+
+7:
+  title: "Adopted by the Triune God"
+  refs: !!set
+    ? "Galatians 4:4-6"
+    ? "Ephesians 1:1-13"
