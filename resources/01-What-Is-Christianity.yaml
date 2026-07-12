@@ -1,8 +1,3 @@
-# What Is Christianity — titled scripture sets
-# Each entry: a topical title + the set of Bible references it gathers.
-# Refs use human citations; book codes resolve against ~/matt/bible.
-# Titles derive from the source catechism-reference groupings.
-
 1:
   title: "The Way: Salvation in Christ Alone"
   refs: !!set

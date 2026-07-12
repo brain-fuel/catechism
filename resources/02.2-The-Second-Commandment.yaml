@@ -1,8 +1,3 @@
-# The Second Commandment — titled scripture sets
-# Each entry: a topical title + the set of Bible references it gathers.
-# Refs use human citations; book codes resolve against ~/matt/bible.
-# Titles derive from the source catechism-reference groupings.
-
 1:
   title: "Magnifying the Lord"
   refs: !!set
