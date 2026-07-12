@@ -1,0 +1,73 @@
+# The Fourth Commandment — titled scripture sets
+# Each entry: a topical title + the set of Bible references it gathers.
+# Refs use human citations; book codes resolve against ~/matt/bible.
+# Titles derive from the source catechism-reference groupings.
+
+1:
+  title: "Christ's Care for His Mother"
+  refs: !!set
+    ? "John 19:25-27"
+
+2:
+  title: "Listen to Your Father"
+  refs: !!set
+    ? "Proverbs 23:22"
+
+3:
+  title: "The Wise Son Honors His Parents"
+  refs: !!set
+    ? "Proverbs 15:20"
+
+4:
+  title: "Rebellion Against Parents"
+  refs: !!set
+    ? "Deuteronomy 21:18-21"
+    ? "1 Samuel 2:12-25"
+    ? "2 Samuel 15:10-11"
+
+5:
+  title: "Do Not Withhold from Parents"
+  refs: !!set
+    ? "Mark 7:10-12"
+
+6:
+  title: "Providing for Parents"
+  refs: !!set
+    ? "John 19:25-27"
+    ? "Genesis 47:11-12"
+
+7:
+  title: "Obedience to Authority"
+  refs: !!set
+    ? "Ephesians 6:1-3"
+    ? "Hebrews 13:17"
+    ? "Romans 13:1"
+
+8:
+  title: "Honoring Elders and Rulers"
+  refs: !!set
+    ? "Luke 2:51"
+    ? "Leviticus 19:32"
+    ? "Proverbs 23:22-24"
+    ? "1 Timothy 2:1-4"
+    ? "Titus 3:1"
+
+9:
+  title: "Obeying God Above Men"
+  refs: !!set
+    ? "Acts 5:29"
+    ? "Ephesians 6:1"
+    ? "Matthew 22:21"
+    ? "1 Peter 2:18-19"
+    ? "1 Samuel 20:30-34"
+
+10:
+  title: "The Fourth Commandment"
+  refs: !!set
+    ? "Ephesians 6:3"
+    ? "Exodus 20:12"
+
+11:
+  title: "Children Are a Heritage"
+  refs: !!set
+    ? "Psalm 127"
