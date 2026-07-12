@@ -1,0 +1,177 @@
+# The Apostles' Creed, First Article (Part 1) — titled scripture sets
+# Each entry: a topical title + the set of Bible references it gathers.
+# Refs use human citations; book codes resolve against ~/matt/bible.
+# Titles derive from the source catechism-reference groupings.
+
+1:
+  title: "The Creation of Man"
+  refs: !!set
+    ? "Genesis 2:7-25"
+
+2:
+  title: "God Our Father"
+  refs: !!set
+    ? "John 3:16"
+    ? "Galatians 4:4-6"
+    ? "Acts 17:28-29"
+
+3:
+  title: "Maker of Heaven and Earth"
+  refs: !!set
+    ? "Genesis 1:1"
+    ? "2 Kings 19:15"
+    ? "Psalm 115:15-16"
+    ? "Job 38-41"
+    ? "Isaiah 36-37"
+
+4:
+  title: "The Renewal of Creation"
+  refs: !!set
+    ? "1 Peter 3:13"
+    ? "Revelation 21:5"
+    ? "1 John 1:1-3"
+    ? "Romans 8:18-23"
+
+5:
+  title: "All Things Created Through Christ"
+  refs: !!set
+    ? "Colossians 1:16"
+
+6:
+  title: "God Preserves All"
+  refs: !!set
+    ? "Nehemiah 9:6"
+
+7:
+  title: "God Formed Me"
+  refs: !!set
+    ? "Psalm 139:13-14"
+    ? "James 1:17-18"
+    ? "Psalm 100"
+    ? "Job 10:8-11"
+
+8:
+  title: "God Provides for His Creatures"
+  refs: !!set
+    ? "Acts 17:26-27"
+    ? "Genesis 1:30"
+    ? "Genesis 2:19"
+    ? "Matthew 6:26"
+    ? "Psalm 65:5-7"
+    ? "Psalm 95:4-5"
+
+9:
+  title: "The Breath of Life"
+  refs: !!set
+    ? "Genesis 2:7"
+    ? "Ecclesiastes 11:5"
+
+10:
+  title: "Body and Soul Belong to God"
+  refs: !!set
+    ? "Genesis 1:27"
+    ? "Psalm 103:1"
+    ? "Romans 12:1"
+    ? "1 Corinthians 6:19-20"
+    ? "Matthew 22:37"
+
+11:
+  title: "Created by God's Word"
+  refs: !!set
+    ? "Genesis 1:1"
+    ? "Genesis 1:3"
+    ? "Genesis 1:31"
+    ? "Psalm 33:6"
+    ? "Psalm 33:9"
+    ? "Genesis 1"
+    ? "Exodus 31:17"
+    ? "Hebrews 11:3"
+    ? "2 Peter 3:5-7"
+
+12:
+  title: "Made in God's Image, Redeemed in Christ"
+  refs: !!set
+    ? "Genesis 1:26-27"
+    ? "John 1:14"
+    ? "John 1:16"
+    ? "Philippians 2:5-7"
+    ? "Ephesians 1:7"
+    ? "Hebrews 9:12"
+
+13:
+  title: "The Image Marred by Sin"
+  refs: !!set
+    ? "Genesis 5:3"
+    ? "1 Corinthians 2:14"
+    ? "Genesis 9:6"
+    ? "James 3:9"
+
+14:
+  title: "Renewed in God's Image"
+  refs: !!set
+    ? "Colossians 3:10"
+    ? "Ephesians 4:24"
+    ? "2 Corinthians 3:18"
+
+15:
+  title: "God's Creatures and Messengers"
+  refs: !!set
+    ? "Genesis 2:19"
+    ? "Genesis 1:20"
+    ? "Nehemiah 9:6"
+    ? "Luke 1:1-20"
+    ? "Luke 1:26-38"
+    ? "Matthew 1:18-21"
+    ? "Luke 24:4-7"
+    ? "Acts 1:10-11"
+
+16:
+  title: "All Creation Praises God"
+  refs: !!set
+    ? "Psalm 104:31"
+    ? "Psalm 150:6"
+    ? "Genesis 1:29"
+    ? "Genesis 9:3"
+    ? "Psalm 148"
+
+17:
+  title: "The Ministry of Angels"
+  refs: !!set
+    ? "Luke 1:13"
+    ? "Luke 1:26-28"
+    ? "Psalm 91:11-12"
+    ? "Hebrews 1:14"
+    ? "Luke 2:13-14"
+    ? "Psalm 103:20-21"
+    ? "2 Kings 6:15-17"
+    ? "2 Kings 19:35"
+    ? "Acts 12:5-11"
+    ? "Daniel 7:10"
+
+18:
+  title: "The Fallen Angels"
+  refs: !!set
+    ? "Jude 6"
+    ? "John 8:44"
+    ? "Ephesians 6:12"
+    ? "1 Peter 5:8-9"
+    ? "Mark 4:15"
+    ? "Mark 5:9"
+    ? "Genesis 3:1-5"
+    ? "Job 2"
+    ? "Matthew 4:1-11"
+    ? "2 Peter 2:4"
+
+19:
+  title: "Worship God, Not Angels"
+  refs: !!set
+    ? "Philippians 3:20-21"
+    ? "Colossians 2:18"
+    ? "Revelation 22:8-9"
+    ? "Psalm 91:9-12"
+    ? "Matthew 18:10"
+
+20:
+  title: "Refuge in the Lord"
+  refs: !!set
+    ? "Psalm 11"
