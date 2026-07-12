@@ -1,0 +1,130 @@
+# The Second Commandment — titled scripture sets
+# Each entry: a topical title + the set of Bible references it gathers.
+# Refs use human citations; book codes resolve against ~/matt/bible.
+# Titles derive from the source catechism-reference groupings.
+
+1:
+  title: "Magnifying the Lord"
+  refs: !!set
+    ? "Luke 1:39-56"
+
+2:
+  title: "God Reveals His Name"
+  refs: !!set
+    ? "Exodus 3:13-15"
+
+3:
+  title: "Salvation in the Name of Jesus"
+  refs: !!set
+    ? "Matthew 1:21"
+    ? "1 Corinthians 12:3"
+    ? "Philippians 2:10-11"
+    ? "Romans 10:13"
+    ? "Joel 2:32"
+
+4:
+  title: "The LORD Our God"
+  refs: !!set
+    ? "Psalm 9:16"
+    ? "Isaiah 44:24"
+    ? "Exodus 20:2"
+
+5:
+  title: "Calling on the Name of the Lord"
+  refs: !!set
+    ? "Genesis 4:26"
+    ? "Luke 11:2"
+
+6:
+  title: "Proclaiming God's Name"
+  refs: !!set
+    ? "Isaiah 12:4"
+    ? "Matthew 28:19-20"
+
+7:
+  title: "The Second Commandment"
+  refs: !!set
+    ? "Exodus 20:7"
+
+8:
+  title: "Misusing God's Name: Cursing and Sorcery"
+  refs: !!set
+    ? "James 3:8-10"
+    ? "Acts 19:11-20"
+    ? "Luke 9:51-55"
+    ? "Acts 23:12-15"
+    ? "Deuteronomy 18:10-12"
+
+9:
+  title: "False Swearing and Lying by God's Name"
+  refs: !!set
+    ? "Matthew 7:21"
+    ? "Jeremiah 23:31-32"
+    ? "Matthew 26:69-74"
+    ? "Leviticus 19:12"
+    ? "Matthew 5:33-37"
+
+10:
+  title: "Prayer in Jesus' Name"
+  refs: !!set
+    ? "John 16:23"
+    ? "1 Timothy 2:1"
+    ? "Luke 11:1-4"
+
+11:
+  title: "Calling on God in Trouble"
+  refs: !!set
+    ? "Psalm 50:15"
+    ? "Isaiah 36-37"
+    ? "Matthew 27:38-49"
+
+12:
+  title: "Praise and Thanksgiving"
+  refs: !!set
+    ? "Psalm 150:2"
+    ? "Psalm 118:1"
+    ? "Psalm 136"
+    ? "Psalm 138"
+    ? "Luke 1:46-55"
+    ? "Luke 1:58-79"
+
+13:
+  title: "Faithfully Speaking God's Word"
+  refs: !!set
+    ? "Jeremiah 23:28"
+    ? "John 17:11-19"
+
+14:
+  title: "Acting in God's Name"
+  refs: !!set
+    ? "Matthew 28:19"
+    ? "John 14:13-14"
+
+15:
+  title: "Unwholesome Speech"
+  refs: !!set
+    ? "Ephesians 5:4"
+    ? "Matthew 15:11"
+
+16:
+  title: "Speaking Truth"
+  refs: !!set
+    ? "Ephesians 4:25"
+    ? "Matthew 5:37"
+
+17:
+  title: "Oaths and Vows"
+  refs: !!set
+    ? "Leviticus 19:12"
+    ? "Numbers 30:2"
+    ? "Romans 13:1"
+    ? "Judges 11:30-40"
+    ? "Mark 14:60-62"
+    ? "Romans 1:9"
+    ? "2 Corinthians 1:23"
+    ? "Galatians 1:20"
+
+18:
+  title: "Praise the Name of the LORD"
+  refs: !!set
+    ? "Psalm 135"
