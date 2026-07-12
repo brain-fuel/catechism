@@ -1,0 +1,129 @@
+# The Fifth Commandment — titled scripture sets
+# Each entry: a topical title + the set of Bible references it gathers.
+# Refs use human citations; book codes resolve against ~/matt/bible.
+# Titles derive from the source catechism-reference groupings.
+
+1:
+  title: "The Good Samaritan"
+  refs: !!set
+    ? "Luke 10:25-37"
+
+2:
+  title: "Bloodshed and Murder"
+  refs: !!set
+    ? "Psalm 10:8"
+    ? "Genesis 4:8"
+    ? "2 Samuel 11:15"
+
+3:
+  title: "Malice and Cruelty"
+  refs: !!set
+    ? "Proverbs 24:1-2"
+    ? "Ephesians 4:31-32"
+    ? "Genesis 37:33-35"
+    ? "Exodus 1"
+    ? "Exodus 5"
+
+4:
+  title: "Neglecting the Needy"
+  refs: !!set
+    ? "Deuteronomy 15:11"
+    ? "Matthew 25:42-43"
+
+5:
+  title: "Anger and Hatred"
+  refs: !!set
+    ? "Matthew 5:22"
+    ? "Romans 12:19"
+    ? "1 John 4:19-21"
+
+6:
+  title: "Mercy Toward Enemies"
+  refs: !!set
+    ? "Romans 12:20"
+    ? "Genesis 14:12-16"
+    ? "1 Samuel 26:1-12"
+    ? "Luke 10:33-35"
+
+7:
+  title: "Defending and Forgiving"
+  refs: !!set
+    ? "Proverbs 31:8-9"
+    ? "Genesis 45:1-16"
+
+8:
+  title: "Compassion and Kindness"
+  refs: !!set
+    ? "Ephesians 4:32"
+    ? "Colossians 3:12-14"
+    ? "Matthew 15:32"
+    ? "Luke 17:11-19"
+
+9:
+  title: "The Sanctity of Life"
+  refs: !!set
+    ? "Genesis 9:5-6"
+    ? "Matthew 22:39"
+    ? "Mark 10:45"
+    ? "1 Peter 1:18-19"
+    ? "Exodus 22:26-27"
+    ? "Matthew 5:42-45"
+
+10:
+  title: "Life in the Womb"
+  refs: !!set
+    ? "Jeremiah 1:5"
+    ? "Psalm 139:16"
+    ? "Luke 1:41-44"
+
+11:
+  title: "My Times Are in God's Hands"
+  refs: !!set
+    ? "Psalm 31:14-15"
+
+12:
+  title: "Not Provoking Family"
+  refs: !!set
+    ? "Colossians 3:19"
+    ? "Colossians 3:21"
+
+13:
+  title: "The Body as God's Temple"
+  refs: !!set
+    ? "1 Corinthians 6:19-20"
+
+14:
+  title: "One Human Family"
+  refs: !!set
+    ? "Acts 17:26"
+    ? "James 2:1"
+    ? "1 John 3:15"
+    ? "Revelation 5:9"
+
+15:
+  title: "Fearfully Made"
+  refs: !!set
+    ? "Psalm 139:13-14"
+    ? "1 Corinthians 6:19-20"
+
+16:
+  title: "God's Way of Escape"
+  refs: !!set
+    ? "1 Corinthians 10:13"
+
+17:
+  title: "Forgiveness for the Guilty"
+  refs: !!set
+    ? "Psalm 103:10-12"
+    ? "Psalm 130:3-4"
+    ? "1 John 1:7-2:2"
+
+18:
+  title: "The Sword of Authority"
+  refs: !!set
+    ? "Romans 13:4"
+
+19:
+  title: "God Hears the Afflicted"
+  refs: !!set
+    ? "Psalm 10"
