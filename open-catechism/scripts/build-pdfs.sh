@@ -2,6 +2,7 @@
 set -eu
 
 work=$(mktemp -d "$PWD/dist/pdf-editions.XXXXXX")
+trap 'rm -rf "$work"' EXIT HUP INT TERM
 mkdir -p "$work/full" "$work/short" "$work/passages"
 
 normalize() {
@@ -25,6 +26,8 @@ for src in "$work/full"/*.md; do
   PASSAGE_INPUT="$src" PASSAGE_SHORT="$work/short/$base" PASSAGE_COMPANION="$work/passages/$base" go run ./cmd/passage-editions
   if test ! -s "$work/passages/$base"; then rm "$work/passages/$base"; fi
 done
+
+! grep -RqF 'Read this passage in the accompanying' "$work/short"
 
 build_pdf() {
   out=$1; edition=$2; shift 2

@@ -13,7 +13,7 @@ function emit(block,   clean,n,parts,words,lines,first,cite,i) {
     cite = first
     sub(/^> \*\*/, "", cite)
     sub(/\*\*$/, "", cite)
-    printf "> **%s**\n>\n> Read this passage in the accompanying *Scripture Passages* volume.\n", cite >> short
+    printf "> **%s**\n", cite >> short
     if (omitted == 0) printf "# %s: Longer Scripture Passages\n\n", title >> companion
     printf "## %s\n\n%s\n\n", cite, block >> companion
     omitted++
