@@ -18,7 +18,7 @@ Answer: When someone takes God as witness and avenger, in order thereby to confi
 Answer: No; when the honour of God and our duty of faithfulness toward the government, or the need of our neighbour and our own, require it; and likewise at the command of a judge, we may take an oath and thereby confirm the truth.
 
 > **Deut. 6:13**  
-> Thou shalt fear the Lord thy God, and serve him, and shalt swear by his name.
+> Thou shalt fear Yahweh thy God, and serve him, and shalt swear by his name.
 
 > **Jer. 4:2**  
 > Then thou shalt swear, The Lord liveth, in truth, in judgment, and in righteousness.
@@ -35,7 +35,7 @@ Answer: No; when the honour of God and our duty of faithfulness toward the gover
 Answer: Those which are made by the name of God unlawfully, needlessly, in vain matters, deceitfully, in drunkenness, and in wrath.
 
 > **Lev. 19:12**  
-> Ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: for I am the Lord.
+> Ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: for I am Yahweh.
 
 > **James 5:12**  
 > But above all things, my brethren, swear not any other oath: but let your speech be yea, when it is yea; and nay, when it is nay; lest ye fall into hypocrisy.
@@ -55,7 +55,7 @@ Answer: It is, not only when someone by the help of the devil does harm to his n
 
 **What is commanded in the second commandment?**
 
-Answer: That we hold the name of the Lord in honour, which comes to pass when we call upon it in need, pray for help and blessing, thank and praise God for all his good deeds.
+Answer: That we hold the name of Yahweh in honour, which comes to pass when we call upon it in need, pray for help and blessing, thank and praise God for all his good deeds.
 
 > **Ps. 50:15**  
 > Call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.
@@ -86,7 +86,7 @@ Answer: First, in the Old Testament, the seventh day, which was Saturday, was ap
 > God blessed the seventh day and sanctified it: because that in it he had rested from all his work which he had created and (perfectly) made.
 
 > **Exod. 20:10**  
-> The seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work.
+> The seventh day is the sabbath of Yahweh thy God: in it thou shalt not do any work.
 
 > **Acts 20:7**  
 > And upon the first day of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.
@@ -101,7 +101,7 @@ As the head of the family should teach them in a simple way to his household.
 
 ### The First Commandment
 
-I am the Lord thy God. Thou shalt have no other gods before me!
+I am Yahweh thy God. Thou shalt have no other gods before me!
 
 **What does this mean?**
 
@@ -109,7 +109,7 @@ Answer: We should fear and love God above all things, and trust in Him alone.
 
 ### The Second Commandment
 
-Thou shalt not take the name of the Lord thy God in vain, for the Lord will not hold him guiltless that taketh His name in vain.
+Thou shalt not take the name of Yahweh thy God in vain, for Yahweh will not hold him guiltless that taketh His name in vain.
 
 **What does this mean?**
 
@@ -181,7 +181,7 @@ Answer: We should fear and love God, so that we do not draw away or entice from 
 
 **What does God say of all these commandments?**
 
-Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
+Answer: Thus saith Yahweh: I Yahweh thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
 
 **What does this mean?**
 
@@ -214,9 +214,9 @@ References: [1 Corinthians 12:3](#passage-1-corinthians-12-3), [Joel 2:32](#pass
 
 <a id="rg-02-2-the-second-commandment-004"></a>
 
-### The LORD Our God
+### Yahweh Our God
 
-These passages locate **the lord our god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Yahweh our God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 20:2](#passage-exodus-20-2), [Isaiah 44:24](#passage-isaiah-44-24), [Psalm 9:16](#passage-psalm-9-16)
 

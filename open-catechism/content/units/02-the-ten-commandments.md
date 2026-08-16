@@ -65,7 +65,7 @@ As the head of the family should teach them in a simple way to his household.
 
 ### The First Commandment
 
-I am the Lord thy God. Thou shalt have no other gods before me!
+I am Yahweh thy God. Thou shalt have no other gods before me!
 
 **What does this mean?**
 
@@ -73,7 +73,7 @@ Answer: We should fear and love God above all things, and trust in Him alone.
 
 ### The Second Commandment
 
-Thou shalt not take the name of the Lord thy God in vain, for the Lord will not hold him guiltless that taketh His name in vain.
+Thou shalt not take the name of Yahweh thy God in vain, for Yahweh will not hold him guiltless that taketh His name in vain.
 
 **What does this mean?**
 
@@ -145,7 +145,7 @@ Answer: We should fear and love God, so that we do not draw away or entice from 
 
 **What does God say of all these commandments?**
 
-Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
+Answer: Thus saith Yahweh: I Yahweh thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
 
 **What does this mean?**
 
@@ -304,7 +304,7 @@ References: [John 8:34](#passage-john-8-34), [Romans 7:14-25](#passage-romans-7-
 
 ### Matthew 22:36-40
 
-**22:36** Master, which is the great commandment in the law? **22:37** Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. **22:38** This is the first and great commandment. **22:39** And the second is like unto it, Thou shalt love thy neighbour as thyself. **22:40** On these two commandments hang all the law and the prophets.
+**22:36** Master, which is the great commandment in the law? **22:37** Jesus said unto him, Thou shalt love Yahweh thy God with all thy heart, and with all thy soul, and with all thy mind. **22:38** This is the first and great commandment. **22:39** And the second is like unto it, Thou shalt love thy neighbour as thyself. **22:40** On these two commandments hang all the law and the prophets.
 
 <a id="passage-romans-2-14-16"></a>
 

@@ -60,7 +60,7 @@ As the head of the family should teach them in a simple way to his household.
 
 ### The First Commandment
 
-I am the Lord thy God. Thou shalt have no other gods before me!
+I am Yahweh thy God. Thou shalt have no other gods before me!
 
 **What does this mean?**
 
@@ -68,7 +68,7 @@ Answer: We should fear and love God above all things, and trust in Him alone.
 
 ### The Second Commandment
 
-Thou shalt not take the name of the Lord thy God in vain, for the Lord will not hold him guiltless that taketh His name in vain.
+Thou shalt not take the name of Yahweh thy God in vain, for Yahweh will not hold him guiltless that taketh His name in vain.
 
 **What does this mean?**
 
@@ -140,7 +140,7 @@ Answer: We should fear and love God, so that we do not draw away or entice from 
 
 **What does God say of all these commandments?**
 
-Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
+Answer: Thus saith Yahweh: I Yahweh thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
 
 **What does this mean?**
 
@@ -305,7 +305,7 @@ References: [Psalm 10](#passage-psalm-10)
 
 ### Luke 10:25-37
 
-**10:25** And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life? **10:26** He said unto him, What is written in the law? how readest thou? **10:27** And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself. **10:28** And he said unto him, Thou hast answered right: this do, and thou shalt live. **10:29** But he, willing to justify himself, said unto Jesus, And who is my neighbour? **10:30** And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead. **10:31** And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side. **10:32** And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side. **10:33** But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him, **10:34** And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him. **10:35** And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee. **10:36** Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves? **10:37** And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.
+**10:25** And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life? **10:26** He said unto him, What is written in the law? how readest thou? **10:27** And he answering said, Thou shalt love Yahweh thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself. **10:28** And he said unto him, Thou hast answered right: this do, and thou shalt live. **10:29** But he, willing to justify himself, said unto Jesus, And who is my neighbour? **10:30** And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead. **10:31** And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side. **10:32** And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side. **10:33** But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him, **10:34** And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him. **10:35** And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee. **10:36** Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves? **10:37** And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.
 
 <a id="passage-2-samuel-11-15"></a>
 

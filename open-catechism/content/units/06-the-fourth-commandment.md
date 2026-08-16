@@ -77,7 +77,7 @@ Answer: In all things that are not against the Word of God and a good conscience
 Answer: That they shall prosper and become long-lived upon the earth.
 
 > **Deut. 5:16**  
-> Honour thy father and thy mother, as the Lord thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the Lord thy God giveth thee.
+> Honour thy father and thy mother, as Yahweh thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which Yahweh thy God giveth thee.
 
 > **Eph. 6:3**  
 > See question 40.
@@ -97,7 +97,7 @@ As the head of the family should teach them in a simple way to his household.
 
 ### The First Commandment
 
-I am the Lord thy God. Thou shalt have no other gods before me!
+I am Yahweh thy God. Thou shalt have no other gods before me!
 
 **What does this mean?**
 
@@ -105,7 +105,7 @@ Answer: We should fear and love God above all things, and trust in Him alone.
 
 ### The Second Commandment
 
-Thou shalt not take the name of the Lord thy God in vain, for the Lord will not hold him guiltless that taketh His name in vain.
+Thou shalt not take the name of Yahweh thy God in vain, for Yahweh will not hold him guiltless that taketh His name in vain.
 
 **What does this mean?**
 
@@ -177,7 +177,7 @@ Answer: We should fear and love God, so that we do not draw away or entice from 
 
 **What does God say of all these commandments?**
 
-Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
+Answer: Thus saith Yahweh: I Yahweh thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
 
 **What does this mean?**
 

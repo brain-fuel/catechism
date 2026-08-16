@@ -480,7 +480,7 @@ References: [1 Corinthians 11:28](#passage-1-corinthians-11-28)
 
 ### Matthew 4:7
 
-**4:7** Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God.
+**4:7** Jesus said unto him, It is written again, Thou shalt not tempt Yahweh thy God.
 
 <a id="passage-matthew-5-22"></a>
 
@@ -510,7 +510,7 @@ References: [1 Corinthians 11:28](#passage-1-corinthians-11-28)
 
 ### Matthew 22:37
 
-**22:37** Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+**22:37** Jesus said unto him, Thou shalt love Yahweh thy God with all thy heart, and with all thy soul, and with all thy mind.
 
 <a id="passage-psalm-119-73"></a>
 

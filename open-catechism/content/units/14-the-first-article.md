@@ -14,7 +14,7 @@ title: "God the Father and Creation: The First Article"
 Answer: No; He alone is one, but in the being of the Godhead there are three persons: the Father, the Son, and the Holy Ghost, and they are called the Holy Trinity, or the Threefold Unity.
 
 > **Deut. 6:4**  
-> Hear, O Israel: The Lord our God is one Lord.
+> Hear, O Israel: Yahweh our God is one Yahweh.
 
 > **1 John 5:7**  
 > There are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
@@ -928,7 +928,7 @@ References: [Psalm 107](#passage-psalm-107)
 
 ### Matthew 22:37
 
-**22:37** Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+**22:37** Jesus said unto him, Thou shalt love Yahweh thy God with all thy heart, and with all thy soul, and with all thy mind.
 
 <a id="passage-psalm-103-1"></a>
 
@@ -1252,7 +1252,7 @@ References: [Psalm 107](#passage-psalm-107)
 
 ### Matthew 4:1-11
 
-**4:1** Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. **4:2** And when he had fasted forty days and forty nights, he was afterward an hungred. **4:3** And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread. **4:4** But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. **4:5** Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple, **4:6** And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone. **4:7** Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God. **4:8** Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them; **4:9** And saith unto him, All these things will I give thee, if thou wilt fall down and worship me. **4:10** Thou shalt worship Yahweh thy God, and him only shalt thou serve. **4:11** Then the devil leaveth him, and, behold, angels came and ministered unto him.
+**4:1** Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. **4:2** And when he had fasted forty days and forty nights, he was afterward an hungred. **4:3** And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread. **4:4** But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. **4:5** Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple, **4:6** And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone. **4:7** Jesus said unto him, It is written again, Thou shalt not tempt Yahweh thy God. **4:8** Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them; **4:9** And saith unto him, All these things will I give thee, if thou wilt fall down and worship me. **4:10** Thou shalt worship Yahweh thy God, and him only shalt thou serve. **4:11** Then the devil leaveth him, and, behold, angels came and ministered unto him.
 
 <a id="passage-colossians-2-18"></a>
 

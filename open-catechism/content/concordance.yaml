@@ -11,4 +11,15 @@ changes:
     category: Divine Name concordance
     reason: Restore the Hebrew proper name in the reading layer.
     evidence: Westminster Hebrew morphology at pinned source commit.
-
+  - source_id: catechism-commandment-formulas
+    before: Lord thy God / the Lord will not hold him guiltless
+    after: Yahweh thy God / Yahweh will not hold him guiltless
+    category: Divine Name concordance
+    reason: The catechism quotes the Decalogue at Hebrew H3068 loci.
+    evidence: Exodus 20:2,7 and Deuteronomy 5:6,11 in the pinned Hebrew dataset.
+  - source_id: scripture-nt-deuteronomy-quotations
+    before: Lord thy God
+    after: Yahweh thy God
+    category: Divine Name concordance
+    reason: Restore the Divine Name in direct New Testament quotations of Deuteronomy.
+    evidence: Manually approved Matthew 4:7, Matthew 22:37, and Luke 10:27 registry entries.

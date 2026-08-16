@@ -56,7 +56,7 @@ Answer: With heart and mouth, in spirit and in truth, that is: according to God'
 Answer: None other than the true and most high God in heaven, whereby the worship of all angels, saints, and also of the Virgin Mary is shut out.
 
 > **Matt. 4:10**  
-> Jesus saith unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and Him only shalt thou serve.
+> Jesus saith unto him, Get thee hence, Satan: for it is written, Thou shalt worship Yahweh thy God, and Him only shalt thou serve.
 
 > **Ps. 50:15**  
 > See question 2.

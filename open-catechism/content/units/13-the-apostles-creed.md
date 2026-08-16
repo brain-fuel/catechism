@@ -90,7 +90,7 @@ Answer: God, according to His being, is a Spirit, eternal, almighty, righteous, 
 > I know that Thou canst do all things.
 
 > **Dan. 9:14**  
-> The Lord our God is righteous in all His works which He doeth.
+> Yahweh our God is righteous in all His works which He doeth.
 
 > **Ps. 139:1,8,9,10**  
 > Lord, Thou hast searched me, and known me. If I ascend up into heaven, Thou art there; if I make my bed in hell, behold, Thou art there also. If I take the wings of the morning, and dwell in the uttermost parts of the sea, even there shall Thy hand lead me, and Thy right hand shall hold me.

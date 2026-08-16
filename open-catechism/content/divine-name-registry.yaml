@@ -18,6 +18,33 @@ entries:
     classification: adapted quotation
     rationale: Jesus' formulaic citation preserves the divine-name locus despite verbal adaptation.
     review_state: approved
+  - nt_reference: Matthew 4:7
+    nt_token: Lord
+    lxx_reference: Deuteronomy 6:16
+    lxx_token: κύριον
+    mt_reference: Deuteronomy 6:16
+    h_number: H3068
+    classification: direct quotation
+    rationale: Jesus quotes Deuteronomy 6:16, where the corresponding Hebrew locus reads YHWH.
+    review_state: approved
+  - nt_reference: Matthew 22:37
+    nt_token: Lord
+    lxx_reference: Deuteronomy 6:5
+    lxx_token: κύριον
+    mt_reference: Deuteronomy 6:5
+    h_number: H3068
+    classification: direct quotation
+    rationale: Jesus quotes the Shema's command to love YHWH; the user approved restoration in this formula.
+    review_state: approved
+  - nt_reference: Luke 10:27
+    nt_token: Lord
+    lxx_reference: Deuteronomy 6:5
+    lxx_token: κύριον
+    mt_reference: Deuteronomy 6:5
+    h_number: H3068
+    classification: direct quotation
+    rationale: The lawyer recites Deuteronomy 6:5, where the corresponding Hebrew locus reads YHWH.
+    review_state: approved
   - nt_reference: Matthew 22:44
     nt_token: Lord
     lxx_reference: Psalm 109:1
@@ -27,4 +54,3 @@ entries:
     classification: direct quotation
     rationale: The first Lord corresponds to YHWH; the second is the distinct human/messianic title.
     review_state: approved
-

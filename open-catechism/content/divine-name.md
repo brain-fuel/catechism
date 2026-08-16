@@ -29,6 +29,18 @@ The Greek formula quotes Isaiah 40:3, where the corresponding Hebrew locus reads
 
 Jesus’ formulaic citation preserves the divine-name locus despite verbal adaptation. The reading text therefore has: “Thou shalt worship Yahweh thy God, and him only shalt thou serve.”
 
+## Matthew 4:7
+
+Jesus quotes Deuteronomy 6:16, whose corresponding Hebrew locus contains H3068. The reading text therefore has: “Thou shalt not tempt Yahweh thy God.”
+
+## Matthew 22:37
+
+Jesus quotes the command in Deuteronomy 6:5 to love YHWH. The reading text therefore has: “Thou shalt love Yahweh thy God with all thy heart.”
+
+## Luke 10:27
+
+The lawyer recites the same command from Deuteronomy 6:5. The reading text therefore has: “Thou shalt love Yahweh thy God with all thy heart.”
+
 ## Matthew 22:44
 
 - **English token:** Lord
