@@ -17,6 +17,12 @@ changes:
     category: Divine Name concordance
     reason: The catechism quotes the Decalogue at Hebrew H3068 loci.
     evidence: Exodus 20:2,7 and Deuteronomy 5:6,11 in the pinned Hebrew dataset.
+  - source_id: catechism-decalogue-reading-text
+    before: Historic paraphrased English commandment formulas.
+    after: KJV wording of Exodus 20, with Yahweh at H3068 loci and the Lutheran division of the Ninth and Tenth Commandments retained.
+    category: Scripture reading-text concordance
+    reason: Use the KJV as the default English wording wherever the Commandments themselves are printed.
+    evidence: Exodus 20:2-17 in the vendored KJV and Hebrew datasets.
   - source_id: scripture-nt-deuteronomy-quotations
     before: Lord thy God
     after: Yahweh thy God

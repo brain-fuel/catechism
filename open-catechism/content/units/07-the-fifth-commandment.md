@@ -65,7 +65,7 @@ As the head of the family should teach them in a simple way to his household.
 
 ### The First Commandment
 
-I am Yahweh thy God. Thou shalt have no other gods before me!
+I am Yahweh thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me.
 
 **What does this mean?**
 
@@ -73,7 +73,7 @@ Answer: We should fear and love God above all things, and trust in Him alone.
 
 ### The Second Commandment
 
-Thou shalt not take the name of Yahweh thy God in vain, for Yahweh will not hold him guiltless that taketh His name in vain.
+Thou shalt not take the name of Yahweh thy God in vain; for Yahweh will not hold him guiltless that taketh his name in vain.
 
 **What does this mean?**
 
@@ -81,7 +81,7 @@ Answer: We should fear and love God, so that we do not curse, swear, practice wi
 
 ### The Third Commandment
 
-Remember the Sabbath day, to keep it holy.
+Remember the sabbath day, to keep it holy.
 
 **What does this mean?**
 
@@ -89,7 +89,7 @@ Answer: We should fear and love God, so that we do not despise preaching and His
 
 ### The Fourth Commandment
 
-Thou shalt honor thy father and thy mother, that it may be well with thee and that thou mayest live long upon the earth.
+Honour thy father and thy mother: that thy days may be long upon the land which Yahweh thy God giveth thee.
 
 **What does this mean?**
 
@@ -121,7 +121,7 @@ Answer: We should fear and love God, so that we do not take our neighbor's money
 
 ### The Eighth Commandment
 
-Thou shalt not bear false witness against thy neighbor.
+Thou shalt not bear false witness against thy neighbour.
 
 **What does this mean?**
 
@@ -129,7 +129,7 @@ Answer: We should fear and love God, so that we do not lie about our neighbor, n
 
 ### The Ninth Commandment
 
-Thou shalt not covet thy neighbor's house.
+Thou shalt not covet thy neighbour’s house.
 
 **What does this mean?**
 
@@ -137,7 +137,7 @@ Answer: We should fear and love God, so that we do not by craft seek after our n
 
 ### The Tenth Commandment
 
-Thou shalt not covet thy neighbor's wife, nor his manservant, nor his maidservant, nor his cattle, nor his beast of burden, nor anything that is his.
+Thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.
 
 **What does this mean?**
 
