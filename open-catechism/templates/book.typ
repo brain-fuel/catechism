@@ -23,6 +23,7 @@
   show emph: set text(style: "italic")
   show raw: set text(font: "Atkinson Hyperlegible")
   show quote.where(block: true): it => block(
+    width: 100%,
     inset: (left: 0.9em, right: 0.35em, y: 0.5em),
     stroke: (left: 1.5pt + rgb("72551b")),
     fill: rgb("f7f1e5"),

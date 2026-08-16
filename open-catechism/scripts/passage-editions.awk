@@ -1,4 +1,4 @@
-function emit(block,   clean,n,parts,words,lines,first,cite,i) {
+function emit(block,   clean,n,parts,words,lines,first,cite,i,verses,rest) {
   if (block == "") return
   clean = block
   gsub(/<[^>]*>/, " ", clean)
@@ -7,9 +7,15 @@ function emit(block,   clean,n,parts,words,lines,first,cite,i) {
   n = split(clean, parts, /[[:space:]]+/)
   words = 0
   for (i = 1; i <= n; i++) if (parts[i] != "") words++
+  verses = 0
+  rest = block
+  while (match(rest, /\*\*[0-9]+:[0-9]+\*\*/)) {
+    verses++
+    rest = substr(rest, RSTART + RLENGTH)
+  }
   split(block, lines, /\n/)
   first = lines[1]
-  if (words > 50 && first ~ /^> \*\*[^*]+\*\*$/) {
+  if (words > 50 && (verses == 0 || verses > 2) && first ~ /^> \*\*[^*]+\*\*$/) {
     cite = first
     sub(/^> \*\*/, "", cite)
     sub(/\*\*$/, "", cite)

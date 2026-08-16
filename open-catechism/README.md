@@ -9,6 +9,7 @@ From this directory, run:
 
 ```sh
 make generate
+make serve
 go run ./cmd/open-catechism sources sync
 go run ./cmd/open-catechism validate
 go run ./cmd/open-catechism coverage
@@ -29,8 +30,9 @@ synchronization.
 Each printable is built as a three-file family:
 
 - the standard PDF contains every Scripture passage in place;
-- the `-short.pdf` edition keeps passages of 50 words or fewer in place and
-  replaces longer passages with their citations and a pointer to its companion;
+- the `-short.pdf` edition keeps passages of 50 words or fewer, or passages
+  of no more than two verses, in place; only passages exceeding both limits
+  are replaced with their citations;
 - the matching `-passages.pdf` companion contains those longer passages in full,
   grouped by unit and citation.
 
@@ -42,6 +44,10 @@ project-local `open-catechism` theme. Unit numbers indicate sequence; doctrinal
 titles—not generic unit labels—name links, pages, and browser titles.
 Scripture cited by a teaching section is printed there as an inline blockquote,
 not deferred to a reference section.
+
+Use `make serve` for local preview. It runs the pinned Hugo v0.164.0 with full
+rebuilds and one render worker, avoiding the v0.165.0 live-render buffer crash
+affecting long Markdown pages.
 
 ## Editorial policy
 

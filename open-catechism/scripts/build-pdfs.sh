@@ -42,7 +42,7 @@ build_pdf() {
 }
 
 complete() { out=$1; shift; build_pdf "$out" "Svebilius/Laine Edition · Complete Text" "$@"; }
-short() { out=$1; shift; build_pdf "${out}-short" "Short Reading Edition · Passages over 50 words referenced" "$@"; }
+short() { out=$1; shift; build_pdf "${out}-short" "Short Reading Edition · Passages over 50 words and two verses referenced" "$@"; }
 passages() { out=$1; shift; build_pdf "${out}-passages" "Scripture Passages Companion · Full texts omitted from the short edition" "$@"; }
 
 complete open-catechism "$work/full/prefaces.md" "$work/full"/[0-9][0-9]-*.md "$work/full/divine-service.md" "$work/full/divine-name.md"

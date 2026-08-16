@@ -1,7 +1,7 @@
 GOML ?= .tools/goml
 HUGO ?= .tools/hugo
 
-.PHONY: tool generate validate coverage build
+.PHONY: tool generate validate coverage build serve
 
 tool:
 	mkdir -p .tools
@@ -19,3 +19,6 @@ coverage: generate
 
 build: generate
 	go run ./cmd/open-catechism build --format all
+
+serve: tool
+	HUGO_NUMWORKERMULTIPLIER=1 $(HUGO) server --disableFastRender
