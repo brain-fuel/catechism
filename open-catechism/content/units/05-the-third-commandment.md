@@ -11,19 +11,50 @@ title: "The Sabbath and God’s Word: The Third Commandment"
 
 **What does it mean to keep the day of rest holy?**
 
-Answer: That a man leaves all worldly labours and bodily work that hinder the service of God, and spends that day in the hearing of the Word of God, in prayer, and in songs of praise, serving God both in thoughts and in words and deeds. Exod. 31:14. Keep the sabbath, for it is holy unto you: every one that defileth it shall surely be put to death; for whosoever doeth any work therein, that soul shall be cut off from among the people. Ps. 92:1,2. It is a good thing to give thanks unto the Lord, and to sing praises unto thy name, O thou most High: to shew forth thy lovingkindness in the morning, and thy faithfulness in the evening. Luke 10:16. He that heareth you heareth me; and he that despiseth you despiseth me; but he that despiseth me despiseth him that sent me.
+Answer: That a man leaves all worldly labours and bodily work that hinder the service of God, and spends that day in the hearing of the Word of God, in prayer, and in songs of praise, serving God both in thoughts and in words and deeds.
+
+> **Exod. 31:14**  
+> Keep the sabbath, for it is holy unto you: every one that defileth it shall surely be put to death; for whosoever doeth any work therein, that soul shall be cut off from among the people.
+
+> **Ps. 92:1,2**  
+> It is a good thing to give thanks unto the Lord, and to sing praises unto thy name, O thou most High: to shew forth thy lovingkindness in the morning, and thy faithfulness in the evening.
+
+> **Luke 10:16**  
+> He that heareth you heareth me; and he that despiseth you despiseth me; but he that despiseth me despiseth him that sent me.
+
 
 **Then is no work permitted on Sunday?**
 
-Answer: What great need and Christian love require is not forbidden; therefore it is well allowed on the sabbath to help an ox out of the pit. Matt. 12:11,12. What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out? How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days. Luke 14:5. Which of you shall have an ox or an ass fallen into a pit, and will not straightway pull him out on the sabbath day?
+Answer: What great need and Christian love require is not forbidden; therefore it is well allowed on the sabbath to help an ox out of the pit.
+
+> **Matt. 12:11,12**  
+> What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out? How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days.
+
+> **Luke 14:5**  
+> Which of you shall have an ox or an ass fallen into a pit, and will not straightway pull him out on the sabbath day?
+
 
 **What does it mean to regard the Word of God as holy?**
 
-Answer: It is: to hold it as the soul's best treasure; not as the word of men, but as the Word of God, to hear and read it gladly and in humility, to keep it in a holy heart, and to order one's life according to it. 1 Thess. 2:13. When ye received the word of God which ye heard of us, ye received it not as the word of men, but (as it is in truth) the word of God, which effectually worketh also in you that believe. Acts 13:26. Whosoever among you feareth God, to you is the word of this salvation sent. Heb. 13:17. Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.
+Answer: It is: to hold it as the soul's best treasure; not as the word of men, but as the Word of God, to hear and read it gladly and in humility, to keep it in a holy heart, and to order one's life according to it.
+
+> **1 Thess. 2:13**  
+> When ye received the word of God which ye heard of us, ye received it not as the word of men, but (as it is in truth) the word of God, which effectually worketh also in you that believe.
+
+> **Acts 13:26**  
+> Whosoever among you feareth God, to you is the word of this salvation sent.
+
+> **Heb. 13:17**  
+> Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.
+
 
 **What does God forbid in the third commandment?**
 
-Answer: That we should not despise preaching and the Word of God, nor forsake and neglect the common service of God, nor defile with unseemly and offensive living this day, which is appointed for the honour of God's name. Heb. 10:25. Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
+Answer: That we should not despise preaching and the Word of God, nor forsake and neglect the common service of God, nor defile with unseemly and offensive living this day, which is appointed for the honour of God's name.
+
+> **Heb. 10:25**  
+> Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
+
 
 The second table
 
@@ -37,11 +68,22 @@ Answer: Love toward our neighbour.
 
 **How should we love our neighbour?**
 
-Answer: As ourselves. Matt. 22:39. Thou shalt love thy neighbour as thyself.
+Answer: As ourselves.
+
+> **Matt. 22:39**  
+> Thou shalt love thy neighbour as thyself.
+
 
 **Who is our neighbour?**
 
-Answer: All men, both friends and enemies, known and unknown, poor and rich, whoever has need of our counsel and our help. Matt. 5:44. Love your enemies: bless them that curse you, do good to them that hate you, and pray for them which persecute you and injure you. Luke 6:27,35.
+Answer: All men, both friends and enemies, known and unknown, poor and rich, whoever has need of our counsel and our help.
+
+> **Matt. 5:44**  
+> Love your enemies: bless them that curse you, do good to them that hate you, and pray for them which persecute you and injure you.
+
+> **Luke 6:27,35**  
+> Love your enemies, do good to them which hate you. But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great.
+
 
 ### Luther’s Small Catechism
 

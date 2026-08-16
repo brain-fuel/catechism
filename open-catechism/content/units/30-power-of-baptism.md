@@ -11,7 +11,11 @@ title: "Power of Baptism"
 
 **Does Baptism also deliver us from death?**
 
-Answer: Truly; — for through Baptism Christ liveth in us, and we in Him; therefore can no death harm us. Gal. 2:20. I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who hath loved me, and gave Himself for me.
+Answer: Truly; — for through Baptism Christ liveth in us, and we in Him; therefore can no death harm us.
+
+> **Gal. 2:20**  
+> I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who hath loved me, and gave Himself for me.
+
 
 **How many kinds of death are there?**
 
@@ -23,23 +27,58 @@ Answer: When the soul and the body are parted the one from the other.
 
 **What is spiritual death?**
 
-Answer: When the soul, through sin, is parted from God. Eph. 2:1. Ye were dead in trespasses and sins. 1 Tim. 5:6. She that liveth in pleasure is dead while she liveth.
+Answer: When the soul, through sin, is parted from God.
+
+> **Eph. 2:1**  
+> Ye were dead in trespasses and sins.
+
+> **1 Tim. 5:6**  
+> She that liveth in pleasure is dead while she liveth.
+
 
 **What is eternal death?**
 
-Answer: When the soul and the body are separated from the presence of God eternally, and cast into outer darkness. Matt. 10:28. Fear not them which kill the body, and are not able to kill the soul: but rather fear Him which is able to destroy both soul and body in hell. 2 Thess. 1:9.
+Answer: When the soul and the body are separated from the presence of God eternally, and cast into outer darkness.
+
+> **Matt. 10:28**  
+> Fear not them which kill the body, and are not able to kill the soul: but rather fear Him which is able to destroy both soul and body in hell.
+
+> **2 Thess. 1:9**  
+> Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power.
+
 
 **Are we, through Baptism, delivered from all such death?**
 
-Answer: We are; — for though we must naturally and temporally die, yet that death doth not harm us; for it cannot hold us eternally, but at the last day we shall rise up, as out of sleep, unto eternal life. 1 Pet. 3:21. The water in Baptism doth save us, whereof it was a figure (not the putting away of the filth of the flesh, but the answer of a good conscience toward God), by the resurrection of Jesus Christ. John 11:25. Jesus said unto Martha: I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live.
+Answer: We are; — for though we must naturally and temporally die, yet that death doth not harm us; for it cannot hold us eternally, but at the last day we shall rise up, as out of sleep, unto eternal life.
+
+> **1 Pet. 3:21**  
+> The water in Baptism doth save us, whereof it was a figure (not the putting away of the filth of the flesh, but the answer of a good conscience toward God), by the resurrection of Jesus Christ.
+
+> **John 11:25**  
+> Jesus said unto Martha: I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live.
+
 
 **Are we also delivered from the devil through Baptism?**
 
-Answer: Because of sin we are under the power of the devil; but through Baptism we are translated into the kingdom of Christ, and separated from the devil. Col. 1:12,13. Give thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light: who hath delivered us from the power of darkness, and hath translated us into the kingdom of His dear Son.
+Answer: Because of sin we are under the power of the devil; but through Baptism we are translated into the kingdom of Christ, and separated from the devil.
+
+> **Col. 1:12,13**  
+> Give thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light: who hath delivered us from the power of darkness, and hath translated us into the kingdom of His dear Son.
+
 
 **How does Baptism give eternal life?**
 
-Answer: In this, that it giveth us power to become the children of God; it also maketh us heirs of the kingdom of God and of eternal salvation. John 1:12,13. To them that received Him, gave He power to become the children of God, even to them that believe on His name: which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God. Rom. 8:17. If we are children, then are we also heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with Him, that we may be also glorified together. Titus 3:7. That being justified by His grace, we should be made heirs according to the hope of eternal life.
+Answer: In this, that it giveth us power to become the children of God; it also maketh us heirs of the kingdom of God and of eternal salvation.
+
+> **John 1:12,13**  
+> To them that received Him, gave He power to become the children of God, even to them that believe on His name: which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
+
+> **Rom. 8:17**  
+> If we are children, then are we also heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with Him, that we may be also glorified together.
+
+> **Titus 3:7**  
+> That being justified by His grace, we should be made heirs according to the hope of eternal life.
+
 
 ### Luther’s Small Catechism
 

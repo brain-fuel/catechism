@@ -11,11 +11,22 @@ title: "Jesus Christ and Redemption: The Second Article"
 
 **What does the Hebrew name “Jesus” mean?**
 
-Answer: A Saviour; for He saved His people from sin. Matt. 1:20,21. The angel of the Lord appeared to Joseph in a dream and said: Mary shall bring forth a Son, and thou shalt call his name Jesus; for He shall save His people from their sins.
+Answer: A Saviour; for He saved His people from sin.
+
+> **Matt. 1:20,21**  
+> The angel of the Lord appeared to Joseph in a dream and said: Mary shall bring forth a Son, and thou shalt call his name Jesus; for He shall save His people from their sins.
+
 
 **What does the Greek word “Christ” mean?**
 
-Answer: The Anointed; for He is anointed, according to His human nature, with the oil of gladness, with the Holy Ghost and with power. Ps. 45:8 [7]. God, thy God, hath anointed thee with the oil of gladness above thy fellows. Acts 10:38. God anointed Jesus of Nazareth with the Holy Ghost and with power.
+Answer: The Anointed; for He is anointed, according to His human nature, with the oil of gladness, with the Holy Ghost and with power.
+
+> **Ps. 45:8**  
+> [7]. God, thy God, hath anointed thee with the oil of gladness above thy fellows.
+
+> **Acts 10:38**  
+> God anointed Jesus of Nazareth with the Holy Ghost and with power.
+
 
 **How many natures are there in Christ?**
 
@@ -27,7 +38,14 @@ Answer: No; Jesus Christ, true God and man, is one person; for the two natures a
 
 **Why must Christ be God and man?**
 
-Answer: Man He must be, that He might suffer and die; but since mere man could not pay for sin and take away the wrath of God and the curse of the law, nor overcome death, the devil, and hell; therefore He must be true God. Ps. 49:7,8. None can by any means redeem his brother, nor give to God a ransom for him; for the redemption of their soul is precious, so that it must be left undone for ever. Rom. 8:3. What the law could not do, in that it was weak through the flesh, God sending His own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh.
+Answer: Man He must be, that He might suffer and die; but since mere man could not pay for sin and take away the wrath of God and the curse of the law, nor overcome death, the devil, and hell; therefore He must be true God.
+
+> **Ps. 49:7,8**  
+> None can by any means redeem his brother, nor give to God a ransom for him; for the redemption of their soul is precious, so that it must be left undone for ever.
+
+> **Rom. 8:3**  
+> What the law could not do, in that it was weak through the flesh, God sending His own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh.
+
 
 **To what offices was Jesus anointed?**
 
@@ -35,19 +53,47 @@ Answer: Unto a Prophet, a High Priest, and a King.
 
 **Why is He called a Prophet?**
 
-Answer: Because He has revealed to us the will and counsel of His heavenly Father concerning our salvation. Deut. 18:18. The Lord said: I will raise them up a Prophet from among their brethren, like unto thee; and I will put my words in His mouth. He shall speak unto them all that I shall command Him. John 1:18. No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, He hath declared Him unto us.
+Answer: Because He has revealed to us the will and counsel of His heavenly Father concerning our salvation.
+
+> **Deut. 18:18**  
+> The Lord said: I will raise them up a Prophet from among their brethren, like unto thee; and I will put my words in His mouth. He shall speak unto them all that I shall command Him.
+
+> **John 1:18**  
+> No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, He hath declared Him unto us.
+
 
 **Why is He called a High Priest?**
 
-Answer: Because He once offered up Himself as an atonement for our sins, and daily prays to the Father for us. Heb. 9:28. Christ was once offered to bear the sins of many. Rom. 8:34. Christ has died; yea rather, He is also risen again, He is even at the right hand of God, and also maketh intercession for us.
+Answer: Because He once offered up Himself as an atonement for our sins, and daily prays to the Father for us.
+
+> **Heb. 9:28**  
+> Christ was once offered to bear the sins of many.
+
+> **Rom. 8:34**  
+> Christ has died; yea rather, He is also risen again, He is even at the right hand of God, and also maketh intercession for us.
+
 
 **What is His kingly office?**
 
-Answer: This: that He rules, not only over all things that are in heaven and in earth, but also especially in Zion, that is, in His kingdom of grace and in the Christian congregation; and He has also His kingdom of glory in heaven. Ps. 8:6. Thou madest the Son of man to have dominion over the works of Thy hands; Thou hast put all things under His feet. Ps. 110:1. Ps. 2:6. I have set my King upon Zion, upon my holy hill.
+Answer: This: that He rules, not only over all things that are in heaven and in earth, but also especially in Zion, that is, in His kingdom of grace and in the Christian congregation; and He has also His kingdom of glory in heaven.
+
+> **Ps. 8:6**  
+> Thou madest the Son of man to have dominion over the works of Thy hands; Thou hast put all things under His feet.
+
+> **Ps. 110:1**  
+> Yahweh said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
+
+> **Ps. 2:6**  
+> I have set my King upon Zion, upon my holy hill.
+
 
 **Why do you say, “I believe that Jesus is my Lord, who has redeemed me”?**
 
-Answer: Because in matters of faith I hold or determine nothing of my own dark reason, but believe simply and appropriate to myself the common redemption of Christ, with the firm hope that He has also redeemed me and brought me unto God, from death unto life and from sin unto righteousness. Gal. 3:11. The just shall live by faith.
+Answer: Because in matters of faith I hold or determine nothing of my own dark reason, but believe simply and appropriate to myself the common redemption of Christ, with the firm hope that He has also redeemed me and brought me unto God, from death unto life and from sin unto righteousness.
+
+> **Gal. 3:11**  
+> The just shall live by faith.
+
 
 **What two states of Christ should we consider?**
 
@@ -55,7 +101,14 @@ Answer: His humiliation and His exaltation.
 
 **What was the humiliation of Christ?**
 
-Answer: It was the lowly estate of Christ, in which He appeared in the form of a servant here upon the earth; He humbled Himself. And He did not always exercise that power and glory of the Godhead which He had received according to His manhood, but only seldom, in certain miracles which He did, when He willed and saw it needful. Phil. 2:7,8. Christ Jesus humbled Himself, took upon Himself the form of a servant, and was made in the likeness of other men; and being found in fashion as a man, He humbled Himself, and became obedient unto death, yea, unto the death of the cross. John 2:11. This is the first sign that Jesus did in Cana of Galilee, and manifested forth His glory.
+Answer: It was the lowly estate of Christ, in which He appeared in the form of a servant here upon the earth; He humbled Himself. And He did not always exercise that power and glory of the Godhead which He had received according to His manhood, but only seldom, in certain miracles which He did, when He willed and saw it needful.
+
+> **Phil. 2:7,8**  
+> Christ Jesus humbled Himself, took upon Himself the form of a servant, and was made in the likeness of other men; and being found in fashion as a man, He humbled Himself, and became obedient unto death, yea, unto the death of the cross.
+
+> **John 2:11**  
+> This is the first sign that Jesus did in Cana of Galilee, and manifested forth His glory.
+
 
 **How long did His humiliation last?**
 
@@ -67,39 +120,105 @@ Answer: The conception of Christ, His birth (that it was lowly and despised), Hi
 
 **Of whom was Christ conceived?**
 
-Answer: Of the Holy Ghost, by His wonderful working in the womb of the Virgin Mary, without sin and without the aid of man. Luke 1:35. The angel said unto Mary: The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee. Matt. 1:20. The angel of the Lord said: Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
+Answer: Of the Holy Ghost, by His wonderful working in the womb of the Virgin Mary, without sin and without the aid of man.
+
+> **Luke 1:35**  
+> The angel said unto Mary: The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee.
+
+> **Matt. 1:20**  
+> The angel of the Lord said: Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
+
 
 **Of whom was He born?**
 
-Answer: Of the Virgin Mary, who was a virgin both before and after the birth. Isa. 7:14. See Question 32. Luke 2:7. Mary brought forth her firstborn Son, and wrapped Him in swaddling clothes, and laid Him in a manger.
+Answer: Of the Virgin Mary, who was a virgin both before and after the birth.
+
+> **Isa. 7:14**  
+> See Question 32.
+
+> **Luke 2:7**  
+> Mary brought forth her firstborn Son, and wrapped Him in swaddling clothes, and laid Him in a manger.
+
 
 **Under whose authority did He suffer and was He crucified?**
 
-Answer: Under Pontius Pilate, who, as an imperial and heathen judge, condemned Jesus to death. This is said in the Creed for this reason, that thereby is confirmed the truth of the history of Christ's passion, and the fulfilment of the prophecy that the sceptre had then departed from Judah. 1 Tim. 6:13. I charge thee before God, and before Christ Jesus, who before Pontius Pilate witnessed a good confession. Gen. 49:10. The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until the Hero come.
+Answer: Under Pontius Pilate, who, as an imperial and heathen judge, condemned Jesus to death. This is said in the Creed for this reason, that thereby is confirmed the truth of the history of Christ's passion, and the fulfilment of the prophecy that the sceptre had then departed from Judah.
+
+> **1 Tim. 6:13**  
+> I charge thee before God, and before Christ Jesus, who before Pontius Pilate witnessed a good confession.
+
+> **Gen. 49:10**  
+> The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until the Hero come.
+
 
 **What do we confess concerning Christ's passion and crucifixion?**
 
-Answer: That He has truly suffered for our sins, both in soul and in body, and upon the tree of the cross was forsaken of God, and for us endured the curse and the anguish of hell. Isa. 53:4-6. Surely He hath borne our griefs, and carried our sorrows. He was wounded for our transgressions, and for our iniquities was He bruised: the chastisement of our peace was upon Him, that we might have peace; the Lord laid on Him the iniquity of us all. Matt. 27:46. About the ninth hour Jesus cried with a loud voice, saying: Eli, Eli, lama sabachthani? that is to say: My God, my God, why hast Thou forsaken me? 1 Pet. 2:24.
+Answer: That He has truly suffered for our sins, both in soul and in body, and upon the tree of the cross was forsaken of God, and for us endured the curse and the anguish of hell.
+
+> **Isa. 53:4-6**  
+> Surely He hath borne our griefs, and carried our sorrows. He was wounded for our transgressions, and for our iniquities was He bruised: the chastisement of our peace was upon Him, that we might have peace; the Lord laid on Him the iniquity of us all.
+
+> **Matt. 27:46**  
+> About the ninth hour Jesus cried with a loud voice, saying: Eli, Eli, lama sabachthani? that is to say: My God, my God, why hast Thou forsaken me?
+
+> **1 Pet. 2:24**  
+> Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness.
+
 
 **How did Jesus die?**
 
-Answer: When He had suffered that grievous passion, He gave up His spirit upon the cross, died truly, and by His death merited for us life and salvation. John 19:30. When Jesus had received the vinegar, He said: It is finished; and He bowed His head, and gave up the spirit. John 10:18.
+Answer: When He had suffered that grievous passion, He gave up His spirit upon the cross, died truly, and by His death merited for us life and salvation.
+
+> **John 19:30**  
+> When Jesus had received the vinegar, He said: It is finished; and He bowed His head, and gave up the spirit.
+
+> **John 10:18**  
+> No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again.
+
 
 **Why was Christ buried?**
 
-Answer: That He might be seen to be truly dead. And that by His burial He might sanctify our graves into resting-chambers. Isa. 57:2. They that have walked uprightly shall enter into peace, and shall rest in their chambers.
+Answer: That He might be seen to be truly dead. And that by His burial He might sanctify our graves into resting-chambers.
+
+> **Isa. 57:2**  
+> They that have walked uprightly shall enter into peace, and shall rest in their chambers.
+
 
 **What is the exaltation of Christ?**
 
-Answer: It is the estate into which Christ, according to His manhood, is exalted and set upon the throne of the Godhead, fully to hold and enjoy His majesty, power, and glory, together with the Father and the Holy Ghost. Phil. 2:9-11. God hath highly exalted Him, and given Him a name which is above every name: that at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.
+Answer: It is the estate into which Christ, according to His manhood, is exalted and set upon the throne of the Godhead, fully to hold and enjoy His majesty, power, and glory, together with the Father and the Holy Ghost.
+
+> **Phil. 2:9-11**  
+> God hath highly exalted Him, and given Him a name which is above every name: that at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.
+
 
 **What belongs to the exaltation of Christ?**
 
-Answer: After Christ became alive again by His own power, and the soul was united with the body, then He, first, descended into hell; second, rose again from the dead; third, ascended into heaven; fourth, now sitteth at the right hand of God the Father; fifth, from thence He shall come again to judge the quick and the dead. 1 Pet. 3:18,19. Christ once suffered for our sins, the just for the unjust, that He might bring us to God: being put to death in the flesh, but quickened by the Spirit: by which also He went and preached unto the spirits in prison. Rom. 14:9. For to this end Christ both died, and rose, and revived, that He might be Lord both of the dead and living. John 10:18. No man taketh my life from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again.
+Answer: After Christ became alive again by His own power, and the soul was united with the body, then He, first, descended into hell; second, rose again from the dead; third, ascended into heaven; fourth, now sitteth at the right hand of God the Father; fifth, from thence He shall come again to judge the quick and the dead.
+
+> **1 Pet. 3:18,19**  
+> Christ once suffered for our sins, the just for the unjust, that He might bring us to God: being put to death in the flesh, but quickened by the Spirit: by which also He went and preached unto the spirits in prison.
+
+> **Rom. 14:9**  
+> For to this end Christ both died, and rose, and revived, that He might be Lord both of the dead and living.
+
+> **John 10:18**  
+> No man taketh my life from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again.
+
 
 **Why did Christ descend into hell?**
 
-Answer: Openly to show that He has crushed the head of the serpent and overcome the devil and all the power of hell. Col. 2:15. Christ hath spoiled principalities and powers, and made a shew of them openly, and triumphed over them in Himself. Hos. 13:14. See Question 33. 1 Cor. 15:55. O death, where is thy sting? O hell, where is thy victory?
+Answer: Openly to show that He has crushed the head of the serpent and overcome the devil and all the power of hell.
+
+> **Col. 2:15**  
+> Christ hath spoiled principalities and powers, and made a shew of them openly, and triumphed over them in Himself.
+
+> **Hos. 13:14**  
+> See Question 33.
+
+> **1 Cor. 15:55**  
+> O death, where is thy sting? O hell, where is thy victory?
+
 
 **What is the resurrection of Christ?**
 
@@ -107,23 +226,61 @@ Answer: It is this: He rose again from the dead and came forth out of the grave 
 
 **When did this take place?**
 
-Answer: On the third day after His death, which was a Sunday, which we call the day of Easter. Luke 24:46. Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day. 1 Cor. 15:4. Christ rose again the third day, according to the scriptures.
+Answer: On the third day after His death, which was a Sunday, which we call the day of Easter.
+
+> **Luke 24:46**  
+> Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day.
+
+> **1 Cor. 15:4**  
+> Christ rose again the third day, according to the scriptures.
+
 
 **What is the ascension of Christ into heaven?**
 
-Answer: This, that on the fortieth day after His resurrection He went up in visible form from the Mount of Olives into heaven, and so parted Himself from His visible presence and fellowship upon the earth. Acts 1:9. Jesus was taken up while the disciples beheld, and a cloud received Him up out of their sight. Luke 24:51. When Jesus had blessed His disciples, He was parted from them, and carried up into heaven.
+Answer: This, that on the fortieth day after His resurrection He went up in visible form from the Mount of Olives into heaven, and so parted Himself from His visible presence and fellowship upon the earth.
+
+> **Acts 1:9**  
+> Jesus was taken up while the disciples beheld, and a cloud received Him up out of their sight.
+
+> **Luke 24:51**  
+> When Jesus had blessed His disciples, He was parted from them, and carried up into heaven.
+
 
 **Is He, then, no longer present with us here on earth?**
 
-Answer: He is indeed; but in an invisible manner He is with us every day, unto the end of the world. Matt. 28:20. Jesus said unto His disciples: Lo, I am with you alway, even unto the end of the world.
+Answer: He is indeed; but in an invisible manner He is with us every day, unto the end of the world.
+
+> **Matt. 28:20**  
+> Jesus said unto His disciples: Lo, I am with you alway, even unto the end of the world.
+
 
 **What does it mean that Christ sits at the right hand of God the Father?**
 
-Answer: It is this: Christ rules, according to His manhood, now and in all eternity, together with the Father and the Son and the Holy Ghost, in glory, above all creatures in heaven and upon earth. Ps. 110:1. The Lord said unto my Lord: Sit thou at my right hand, until I make thine enemies thy footstool. Eph. 1:20,21. God raised Christ from the dead, and set Him at His own right hand in the heavenly places, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come. Eph. 4:10. He that descended is the same also that ascended up far above all heavens, that He might fill all things.
+Answer: It is this: Christ rules, according to His manhood, now and in all eternity, together with the Father and the Son and the Holy Ghost, in glory, above all creatures in heaven and upon earth.
+
+> **Ps. 110:1**  
+> The Lord said unto my Lord: Sit thou at my right hand, until I make thine enemies thy footstool.
+
+> **Eph. 1:20,21**  
+> God raised Christ from the dead, and set Him at His own right hand in the heavenly places, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come.
+
+> **Eph. 4:10**  
+> He that descended is the same also that ascended up far above all heavens, that He might fill all things.
+
 
 **How will Christ come to judge?**
 
-Answer: He shall come in visible form in the clouds of heaven, with great power and glory, and all the holy angels with Him, to judge all peoples, both those then living and all the dead from the very beginning of the world. Acts 1:11. This same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen Him go into heaven. Acts 17:31. Matt. 25:31,32. When the Son of man shall come in His glory, and all the holy angels with Him, then shall He sit upon the throne of His glory. And before Him shall be gathered all nations.
+Answer: He shall come in visible form in the clouds of heaven, with great power and glory, and all the holy angels with Him, to judge all peoples, both those then living and all the dead from the very beginning of the world.
+
+> **Acts 1:11**  
+> This same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen Him go into heaven.
+
+> **Acts 17:31**  
+> Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.
+
+> **Matt. 25:31,32**  
+> When the Son of man shall come in His glory, and all the holy angels with Him, then shall He sit upon the throne of His glory. And before Him shall be gathered all nations.
+
 
 **What judgment will He pronounce upon them?**
 
@@ -133,21 +290,55 @@ As is read in Matt. 25:34,41.
 
 **When will this take place?**
 
-Answer: On the last day, when this world comes to its end; but that time is wholly hidden from us. Matt. 24:36. Of that day and hour knoweth no man, no, not the angels of heaven; but my Father only.
+Answer: On the last day, when this world comes to its end; but that time is wholly hidden from us.
+
+> **Matt. 24:36**  
+> Of that day and hour knoweth no man, no, not the angels of heaven; but my Father only.
+
 
 **Why has Christ done these good works for us?**
 
-Answer: That we might be His own, might live in His kingdom as His subjects, and might serve Him in eternal righteousness, innocency, and blessedness. Luke 1:75. See Question 31. Titus 2:14. Christ gave Himself for us, that He might redeem us from all iniquity, and make us zealous of good works.
+Answer: That we might be His own, might live in His kingdom as His subjects, and might serve Him in eternal righteousness, innocency, and blessedness.
+
+> **Luke 1:75**  
+> See Question 31.
+
+> **Titus 2:14**  
+> Christ gave Himself for us, that He might redeem us from all iniquity, and make us zealous of good works.
+
 
 THE THIRD ARTICLE OF FAITH, Of the Holy Ghost and of Sanctification
 
 **Who is the Holy Ghost?**
 
-Answer: He is the third person in the being of the Godhead, who proceeds eternally from the Father and the Son. John 15:26. When the Comforter is come, whom I will send unto you from the Father, the Spirit of truth, which proceedeth from the Father, He shall testify of me. Gal. 4:6. God sent forth the Spirit of His Son into your hearts.
+Answer: He is the third person in the being of the Godhead, who proceeds eternally from the Father and the Son.
+
+> **John 15:26**  
+> When the Comforter is come, whom I will send unto you from the Father, the Spirit of truth, which proceedeth from the Father, He shall testify of me.
+
+> **Gal. 4:6**  
+> God sent forth the Spirit of His Son into your hearts.
+
 
 **What good works does the Holy Ghost do for us?**
 
-Answer: He calls us through the Word and the sacraments into His congregation, enlightens our darkened reason, sanctifies and keeps us in the right and saving faith, daily forgives us our sins, and shall also on the last day, together with the Father and the Son, raise us from the dead and give us, together with all Christian believers, eternal life. 2 Tim. 1:9. God hath called us with a holy calling. Rom. 10:17. Faith cometh by hearing, and hearing by the word of God. 1 Cor. 6:11. Ye are washed, ye are sanctified, ye are justified in the name of the Lord Jesus, and by the Spirit of our God. 2 Tim. 1:12,14. I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day. That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us. Rom. 8:11. God, that raised up Christ from the dead, shall also quicken your mortal bodies by His Spirit that dwelleth in you.
+Answer: He calls us through the Word and the sacraments into His congregation, enlightens our darkened reason, sanctifies and keeps us in the right and saving faith, daily forgives us our sins, and shall also on the last day, together with the Father and the Son, raise us from the dead and give us, together with all Christian believers, eternal life.
+
+> **2 Tim. 1:9**  
+> God hath called us with a holy calling.
+
+> **Rom. 10:17**  
+> Faith cometh by hearing, and hearing by the word of God.
+
+> **1 Cor. 6:11**  
+> Ye are washed, ye are sanctified, ye are justified in the name of the Lord Jesus, and by the Spirit of our God.
+
+> **2 Tim. 1:12,14**  
+> I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day. That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.
+
+> **Rom. 8:11**  
+> God, that raised up Christ from the dead, shall also quicken your mortal bodies by His Spirit that dwelleth in you.
+
 
 ### Luther’s Small Catechism
 

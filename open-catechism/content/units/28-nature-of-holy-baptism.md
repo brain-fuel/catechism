@@ -43,7 +43,17 @@ Answer: I can, in this way: Baptism is the first sacrament of the New Testament,
 
 **Who instituted and ordained Baptism?**
 
-Answer: God Himself sent John to baptize, and thereafter Jesus Christ commanded His disciples to go out into all the world to make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Ghost. Luke 3:2,3. When Annas and Caiaphas were the high priests, the word of God came unto John the son of Zacharias in the wilderness. And he came into all the country about Jordan, and preached for remission. John 1:33. Matt. 28:19. Jesus said unto His disciples: Go ye and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Ghost.
+Answer: God Himself sent John to baptize, and thereafter Jesus Christ commanded His disciples to go out into all the world to make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Ghost.
+
+> **Luke 3:2,3**  
+> When Annas and Caiaphas were the high priests, the word of God came unto John the son of Zacharias in the wilderness. And he came into all the country about Jordan, and preached for remission.
+
+> **John 1:33**  
+> And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.
+
+> **Matt. 28:19**  
+> Jesus said unto His disciples: Go ye and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Ghost.
+
 
 ### Luther’s Small Catechism
 

@@ -11,29 +11,68 @@ title: "Give Us This Day Our Daily Bread: The Fourth Petition"
 
 **Why do we say, “give us our bread”?**
 
-Answer: Because we pray that God would give us our appointed portion, and that we may eat our own bread, which God giveth us in our labour; and not the bread of others in theft, in wrong, and in idleness. Prov. 30:8. Give me neither poverty nor riches; but give me my appointed portion of food. 2 Thess. 3:10. If any would not work, neither should he eat.
+Answer: Because we pray that God would give us our appointed portion, and that we may eat our own bread, which God giveth us in our labour; and not the bread of others in theft, in wrong, and in idleness.
+
+> **Prov. 30:8**  
+> Give me neither poverty nor riches; but give me my appointed portion of food.
+
+> **2 Thess. 3:10**  
+> If any would not work, neither should he eat.
+
 
 **Why do we ask for daily bread?**
 
-Answer: That we may not, with untimely care and doubting, be anxious for the morrow, but be content with that which we have; for each day hath care enough of itself; let each day be content with its own care. Matt. 6:34.
+Answer: That we may not, with untimely care and doubting, be anxious for the morrow, but be content with that which we have; for each day hath care enough of itself; let each day be content with its own care.
+
+> **Matt. 6:34**  
+> Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.
+
 
 **What is meant by bread?**
 
-Answer: All temporal things which men need for the sustaining of this life, and which are set forth in the Catechism. Gen. 3:19. Deal thy bread to the hungry, bring the poor wanderers into thine house; when thou seest the naked, that thou cover him, and turn not thyself away from him that is thine own flesh. Isa. 58:7. Deal thy bread to the hungry, bring the poor wanderers into thine house; when thou seest the naked, that thou cover him, and turn not thyself away from him that is thine own flesh.
+Answer: All temporal things which men need for the sustaining of this life, and which are set forth in the Catechism.
+
+> **Gen. 3:19**  
+> Deal thy bread to the hungry, bring the poor wanderers into thine house; when thou seest the naked, that thou cover him, and turn not thyself away from him that is thine own flesh.
+
+> **Isa. 58:7**  
+> Deal thy bread to the hungry, bring the poor wanderers into thine house; when thou seest the naked, that thou cover him, and turn not thyself away from him that is thine own flesh.
+
 
 The fifth petition
 
 **What do we ask in this petition?**
 
-Answer: That God would forgive us our sins: that is, for Christ's sake would blot out and forgive all our trespasses, faults and transgressions, whatsoever they may be. Matt. 18:27. The Lord had compassion on that servant, and loosed him, and forgave him the debt. Ps. 32:1,2. Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the Lord imputeth not iniquity.
+Answer: That God would forgive us our sins: that is, for Christ's sake would blot out and forgive all our trespasses, faults and transgressions, whatsoever they may be.
+
+> **Matt. 18:27**  
+> The Lord had compassion on that servant, and loosed him, and forgave him the debt.
+
+> **Ps. 32:1,2**  
+> Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the Lord imputeth not iniquity.
+
 
 **Is anyone free from this fault?**
 
-Answer: Not one, — but Christ alone; for we are all sinners, and have nothing whereof to boast before God. Ps. 14:3. They are all gone aside, and they are all become unprofitable; there is none that doeth good, no, not one. Rom. 3:23. All have sinned, and have nothing whereof to boast before God.
+Answer: Not one, — but Christ alone; for we are all sinners, and have nothing whereof to boast before God.
+
+> **Ps. 14:3**  
+> They are all gone aside, and they are all become unprofitable; there is none that doeth good, no, not one.
+
+> **Rom. 3:23**  
+> All have sinned, and have nothing whereof to boast before God.
+
 
 **Why are these words added: “as we forgive those who are indebted to us”?**
 
-Answer: Not because we could by our forgiving earn the grace of God and the forgiveness of sins; but Christ would thereby teach us that we should thereby show our due thankfulness, and forgive those who trespass against us, whether they ask it or not, if we would otherwise be heard of God. Matt. 5:23,24. If thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee, leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift. Mark 11:25. And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.
+Answer: Not because we could by our forgiving earn the grace of God and the forgiveness of sins; but Christ would thereby teach us that we should thereby show our due thankfulness, and forgive those who trespass against us, whether they ask it or not, if we would otherwise be heard of God.
+
+> **Matt. 5:23,24**  
+> If thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee, leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.
+
+> **Mark 11:25**  
+> And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.
+
 
 ### Luther’s Small Catechism
 

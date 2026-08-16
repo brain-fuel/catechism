@@ -15,21 +15,46 @@ Answer: To bring us into unbelief, doubting, carelessness, and other great sins,
 
 **How should we resist and overcome such temptations?**
 
-Answer: With a strong faith and fervent prayer. Eph. 6:16,18. Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. And praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and prayer.
+Answer: With a strong faith and fervent prayer.
+
+> **Eph. 6:16,18**  
+> Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. And praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and prayer.
+
 
 **Does God tempt anyone?**
 
-Answer: God tempteth no man unto evil, but for good He proveth His children's faith, hope and patience, as He did unto Abraham, when He commanded him to offer up his only son. Jas. 1:13. Let no man say when he is tempted, I am tempted of God: for God is not a tempter unto evil, neither tempteth He any man. Gen. 22:1,2. God did prove Abraham, and said unto him, Take Isaac, thine only son, whom thou lovest, and get thee into the land of Moriah, and offer him there for a burnt offering.
+Answer: God tempteth no man unto evil, but for good He proveth His children's faith, hope and patience, as He did unto Abraham, when He commanded him to offer up his only son. Jas. 1:13. Let no man say when he is tempted, I am tempted of God: for God is not a tempter unto evil, neither tempteth He any man.
+
+> **Gen. 22:1,2**  
+> God did prove Abraham, and said unto him, Take Isaac, thine only son, whom thou lovest, and get thee into the land of Moriah, and offer him there for a burnt offering.
+
 
 **What kind of temptation do we ask God to turn away from us?**
 
-Answer: The temptation of the devil, which is unto man's damnation; and we are tempted therewith, that we be not overcome of him, but that with God's help we may at last overcome in faith. 2 Tim. 2:3. Endure hardness, as a good soldier of Jesus Christ. 2 Pet. 2:9. The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished. 1 John 5:4. Whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.
+Answer: The temptation of the devil, which is unto man's damnation; and we are tempted therewith, that we be not overcome of him, but that with God's help we may at last overcome in faith.
+
+> **2 Tim. 2:3**  
+> Endure hardness, as a good soldier of Jesus Christ.
+
+> **2 Pet. 2:9**  
+> The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished.
+
+> **1 John 5:4**  
+> Whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.
+
 
 The seventh petition
 
 **What is meant by the word “evil”?**
 
-Answer: The devil and all wickedness, which afflicteth men in this world in body, soul, goods and honour; and likewise, after this life, hell and eternal damnation. Eph. 6:16. See question 44. Rom. 7:24. O wretched man that I am! who shall deliver me from this body of death?
+Answer: The devil and all wickedness, which afflicteth men in this world in body, soul, goods and honour; and likewise, after this life, hell and eternal damnation.
+
+> **Eph. 6:16**  
+> See question 44.
+
+> **Rom. 7:24**  
+> O wretched man that I am! who shall deliver me from this body of death?
+
 
 ### Luther’s Small Catechism
 

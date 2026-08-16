@@ -11,23 +11,64 @@ title: "The Lord’s Prayer"
 
 **What is prayer?**
 
-Answer: Prayer is a humble and faithful discourse with God, wherein, according to His will and in the name of Jesus, we ask of Him both spiritual and bodily needs, and also give thanks and praise unto His holy name. John 16:23. Verily, verily I say unto you, whatsoever ye shall ask the Father in my name, He will give it you. Dan. 6:10. Daniel went into his house and kneeled upon his knees three times a day, and prayed, and gave thanks and praised his God, as he did aforetime. 1 Tim. 2:1. I exhort therefore, that first of all supplications, prayers, intercessions and giving of thanks be made for all men.
+Answer: Prayer is a humble and faithful discourse with God, wherein, according to His will and in the name of Jesus, we ask of Him both spiritual and bodily needs, and also give thanks and praise unto His holy name.
+
+> **John 16:23**  
+> Verily, verily I say unto you, whatsoever ye shall ask the Father in my name, He will give it you.
+
+> **Dan. 6:10**  
+> Daniel went into his house and kneeled upon his knees three times a day, and prayed, and gave thanks and praised his God, as he did aforetime.
+
+> **1 Tim. 2:1**  
+> I exhort therefore, that first of all supplications, prayers, intercessions and giving of thanks be made for all men.
+
 
 **What should move us to pray?**
 
-Answer: 1. God's commandment; 2. His promise, that He will hear our prayer; 3. Our own need; 4. The power and worth of prayer. Matt. 7:7. Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you. John 15:7. If ye abide in me, and my words abide in you, ye shall ask what ye will, and ye shall receive it. Ps. 50:15. Call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me. Jas. 5:16. The prayer of a righteous man availeth much, when it is fervent.
+Answer: 1. God's commandment; 2. His promise, that He will hear our prayer; 3. Our own need; 4. The power and worth of prayer.
+
+> **Matt. 7:7**  
+> Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.
+
+> **John 15:7**  
+> If ye abide in me, and my words abide in you, ye shall ask what ye will, and ye shall receive it.
+
+> **Ps. 50:15**  
+> Call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me. Jas. 5:16. The prayer of a righteous man availeth much, when it is fervent.
+
 
 **How should we pray rightly?**
 
-Answer: With heart and mouth, in spirit and in truth, that is: according to God's will, in humility of heart, in faith, without doubting, in true repentance, and without hypocrisy. Matt. 15:8. This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me. John 4:24. God is a Spirit: and they that pray unto Him must pray unto Him in spirit and in truth. 1 John 5:14. See question 53. Jas. 1:5-7. If any of you lack wisdom, let him ask of God, that giveth to every man liberally; let him ask in faith, nothing wavering; for he that wavereth is like a wave of the sea driven with the wind and tossed. Let not that man think that he shall receive any thing of the Lord.
+Answer: With heart and mouth, in spirit and in truth, that is: according to God's will, in humility of heart, in faith, without doubting, in true repentance, and without hypocrisy.
+
+> **Matt. 15:8**  
+> This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me.
+
+> **John 4:24**  
+> God is a Spirit: and they that pray unto Him must pray unto Him in spirit and in truth.
+
+> **1 John 5:14**  
+> See question 53. Jas. 1:5-7. If any of you lack wisdom, let him ask of God, that giveth to every man liberally; let him ask in faith, nothing wavering; for he that wavereth is like a wave of the sea driven with the wind and tossed. Let not that man think that he shall receive any thing of the Lord.
+
 
 **To whom should we pray?**
 
-Answer: None other than the true and most high God in heaven, whereby the worship of all angels, saints, and also of the Virgin Mary is shut out. Matt. 4:10. Jesus saith unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and Him only shalt thou serve. Ps. 50:15. See question 2.
+Answer: None other than the true and most high God in heaven, whereby the worship of all angels, saints, and also of the Virgin Mary is shut out.
+
+> **Matt. 4:10**  
+> Jesus saith unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and Him only shalt thou serve.
+
+> **Ps. 50:15**  
+> See question 2.
+
 
 **What should we pray for?**
 
-Answer: For all that redoundeth to God's honour, and likewise for the good of ourselves and of our neighbours, whether it be in spiritual or in bodily things. John 16:23. See question 1.
+Answer: For all that redoundeth to God's honour, and likewise for the good of ourselves and of our neighbours, whether it be in spiritual or in bodily things.
+
+> **John 16:23**  
+> See question 1.
+
 
 **What do you call spiritual blessings?**
 

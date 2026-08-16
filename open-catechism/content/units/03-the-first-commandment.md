@@ -11,7 +11,14 @@ title: "No Other Gods: The First Commandment"
 
 **What does God forbid in the first commandment?**
 
-Answer: All service of idols, that we should have no strange gods before him or beside him. The reason for this prohibition is that he says: I am the Lord thy God, that is: I, who speak and command this, am of myself the Lord, the most high, from whom all things have received their being, thy God, who have created and protected thee, and have given thee my Law: therefore thou art also bound to show all obedience to me alone. Matt. 4:10. Thou shalt worship the Lord thy God, and him only shalt thou serve. Matt. 22:37. Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+Answer: All service of idols, that we should have no strange gods before him or beside him. The reason for this prohibition is that he says: I am the Lord thy God, that is: I, who speak and command this, am of myself the Lord, the most high, from whom all things have received their being, thy God, who have created and protected thee, and have given thee my Law: therefore thou art also bound to show all obedience to me alone.
+
+> **Matt. 4:10**  
+> Thou shalt worship Yahweh thy God, and him only shalt thou serve.
+
+> **Matt. 22:37**  
+> Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+
 
 **What does it mean to have other gods?**
 
@@ -19,11 +26,34 @@ Answer: It is: when someone bows down to and prays to others besides the Lord al
 
 **In what ways does such idolatry take place?**
 
-Answer: In many ways: when the sun, the moon, and the stars of heaven are served, and likewise angels, departed saints, images and relics of saints; or when help is sought from the devil and his instruments, such as sorcerers, wizards, forest-spirits, water-spirits, house-goblins, and others of the like. Deut. 4:15,19. Take ye therefore good heed unto your souls: lest thou lift up thine eyes unto heaven, and behold the sun, the moon, and the stars, even all the host of heaven, and be driven to worship them and serve them. Rev. 19:10. I John fell at the feet of the angel to worship him. But he said unto me: See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship and pray to God. Exod. 20:4. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. Deut. 18:10,11. There shall not be found among you any one that is a diviner, an observer of times, an enchanter, a witch, a charmer, a wizard, an interpreter of signs, or one who inquires anything of the dead.
+Answer: In many ways: when the sun, the moon, and the stars of heaven are served, and likewise angels, departed saints, images and relics of saints; or when help is sought from the devil and his instruments, such as sorcerers, wizards, forest-spirits, water-spirits, house-goblins, and others of the like.
+
+> **Deut. 4:15,19**  
+> Take ye therefore good heed unto your souls: lest thou lift up thine eyes unto heaven, and behold the sun, the moon, and the stars, even all the host of heaven, and be driven to worship them and serve them.
+
+> **Rev. 19:10**  
+> I John fell at the feet of the angel to worship him. But he said unto me: See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship and pray to God.
+
+> **Exod. 20:4**  
+> Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
+
+> **Deut. 18:10,11**  
+> There shall not be found among you any one that is a diviner, an observer of times, an enchanter, a witch, a charmer, a wizard, an interpreter of signs, or one who inquires anything of the dead.
+
 
 **Does it take place in still other ways?**
 
-Answer: Indeed it does: when someone trusts in himself, in his wisdom, his riches, and his goods; ventures upon the power and greatness of other men; and likewise, when someone makes his belly his god. Prov. 3:5. Trust in the Lord with all thine heart, and lean not unto thine own understanding. Ps. 146:3. Put not your trust in princes; they are but men, they cannot help at all. Phil. 3:19. Whose God is their belly.
+Answer: Indeed it does: when someone trusts in himself, in his wisdom, his riches, and his goods; ventures upon the power and greatness of other men; and likewise, when someone makes his belly his god.
+
+> **Prov. 3:5**  
+> Trust in the Lord with all thine heart, and lean not unto thine own understanding.
+
+> **Ps. 146:3**  
+> Put not your trust in princes; they are but men, they cannot help at all.
+
+> **Phil. 3:19**  
+> Whose God is their belly.
+
 
 **What does God command in the first commandment?**
 
@@ -31,15 +61,36 @@ Answer: That we should rightly fear him, love him, and trust in him, and likewis
 
 **How should we fear and love God?**
 
-Answer: Above all things, with all our heart, with all our soul, and with all our mind. Deut. 6:5. Thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might. Matt. 22:37.
+Answer: Above all things, with all our heart, with all our soul, and with all our mind.
+
+> **Deut. 6:5**  
+> Thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might.
+
+> **Matt. 22:37**  
+> Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+
 
 **What does it mean to fear and love God above all things?**
 
-Answer: It is: to acknowledge and honour the greatness and righteousness of God, to hold him as our best treasure, to bow down before him, and to hold him dear above all things. Ps. 18:1,2. I will love thee, O Lord, my strength, the Lord my rock, my fortress, and my Saviour; my God is my strength, in whom I will trust, my shield, and the horn of my salvation, and my high tower. Josh. 24:14. Fear the Lord, and serve him in sincerity and in truth, and put away the gods which your fathers served.
+Answer: It is: to acknowledge and honour the greatness and righteousness of God, to hold him as our best treasure, to bow down before him, and to hold him dear above all things.
+
+> **Ps. 18:1,2**  
+> I will love thee, O Lord, my strength, the Lord my rock, my fortress, and my Saviour; my God is my strength, in whom I will trust, my shield, and the horn of my salvation, and my high tower.
+
+> **Josh. 24:14**  
+> Fear the Lord, and serve him in sincerity and in truth, and put away the gods which your fathers served.
+
 
 **What does it mean to believe and trust in him alone?**
 
-Answer: It is: to trust perfectly and firmly in the almightiness, goodness, and truth of God, and to venture upon him alone. Ps. 62:8. Ye people, trust in him at all times; pour out your heart before him: God is a refuge for us, Selah! Ps. 71:5. For thou art my hope, O Lord God: my trust from my youth. By thee have I been holden up from my mother's womb: thou art ever my praise.
+Answer: It is: to trust perfectly and firmly in the almightiness, goodness, and truth of God, and to venture upon him alone.
+
+> **Ps. 62:8**  
+> Ye people, trust in him at all times; pour out your heart before him: God is a refuge for us, Selah!
+
+> **Ps. 71:5**  
+> For thou art my hope, O Lord God: my trust from my youth. By thee have I been holden up from my mother's womb: thou art ever my praise.
+
 
 **What is forbidden in the second commandment?**
 
@@ -47,15 +98,42 @@ Answer: That the great and dreadful name of the Lord God should not be taken in 
 
 **What is the name of the Lord God?**
 
-Answer: It is God himself, in respect of his divine being and attributes, and likewise his word, his works, and his praise, or all that has been revealed of him. Ps. 48:10. According to thy name, O God, so is thy praise unto the ends of the earth. Prov. 18:10. The name of the Lord is a strong tower: the righteous runneth into it, and is safe.
+Answer: It is God himself, in respect of his divine being and attributes, and likewise his word, his works, and his praise, or all that has been revealed of him.
+
+> **Ps. 48:10**  
+> According to thy name, O God, so is thy praise unto the ends of the earth.
+
+> **Prov. 18:10**  
+> The name of the Lord is a strong tower: the righteous runneth into it, and is safe.
+
 
 **How is the name of God taken in vain?**
 
-Answer: When someone mocks and dishonours God, and likewise, out of anger, evil habit, in jest, or from idle wonder, mentions the name of God, as though there were nothing more to it. The taking of God's name in vain also comes to pass when someone in his prayers to God does not keep his thoughts together nor considers whom he is praying to; or when someone hears the Word of God without humility and earnestness, or twists it after his own wrong mind. Lev. 24:16. He that blasphemeth the name of the Lord shall surely be put to death, all the congregation shall certainly stone him. Matt. 12:36. I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment.
+Answer: When someone mocks and dishonours God, and likewise, out of anger, evil habit, in jest, or from idle wonder, mentions the name of God, as though there were nothing more to it. The taking of God's name in vain also comes to pass when someone in his prayers to God does not keep his thoughts together nor considers whom he is praying to; or when someone hears the Word of God without humility and earnestness, or twists it after his own wrong mind.
+
+> **Lev. 24:16**  
+> He that blasphemeth the name of the Lord shall surely be put to death, all the congregation shall certainly stone him.
+
+> **Matt. 12:36**  
+> I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment.
+
 
 **What is cursing?**
 
-Answer: It is, in anger and wrath, to wish upon oneself or one's neighbour all manner of evil. Ps. 10:7. The mouth of the ungodly is full of cursing. Ps. 109:17. As he loved cursing, so let it come unto him. Rom. 12:14. Bless them which persecute you: bless, and curse not. Lev. 24:11,23. The son of the woman of Israel blasphemed the name, and cursed: so they brought him forth out of the camp, him that had cursed, and stoned him to death.
+Answer: It is, in anger and wrath, to wish upon oneself or one's neighbour all manner of evil.
+
+> **Ps. 10:7**  
+> The mouth of the ungodly is full of cursing.
+
+> **Ps. 109:17**  
+> As he loved cursing, so let it come unto him.
+
+> **Rom. 12:14**  
+> Bless them which persecute you: bless, and curse not.
+
+> **Lev. 24:11,23**  
+> The son of the woman of Israel blasphemed the name, and cursed: so they brought him forth out of the camp, him that had cursed, and stoned him to death.
+
 
 ### Luther’s Small Catechism
 

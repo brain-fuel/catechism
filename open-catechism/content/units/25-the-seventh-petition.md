@@ -11,19 +11,44 @@ title: "Deliver Us from Evil: The Seventh Petition"
 
 **What do you understand by deliverance?**
 
-Answer: The taking away of wickedness and the helping out of it; or that the cross be lightened, and grace given to endure it, and at last a wished-for end thereof be brought about. Jer. 31:13. I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow. Ps. 94:19. I have much sorrow in my heart: but thy comforts delight my soul. 2 Cor. 1:10. God delivered us from so great a death (that is, from sorrow and persecution), and doth deliver; and we trust in Him that He will yet deliver us.
+Answer: The taking away of wickedness and the helping out of it; or that the cross be lightened, and grace given to endure it, and at last a wished-for end thereof be brought about.
+
+> **Jer. 31:13**  
+> I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow.
+
+> **Ps. 94:19**  
+> I have much sorrow in my heart: but thy comforts delight my soul.
+
+> **2 Cor. 1:10**  
+> God delivered us from so great a death (that is, from sorrow and persecution), and doth deliver; and we trust in Him that He will yet deliver us.
+
 
 **When are we completely delivered from all evil?**
 
-Answer: When we blessedly, that is, in faith on Christ, depart out of this world. 2 Tim. 4:18. See question 19.
+Answer: When we blessedly, that is, in faith on Christ, depart out of this world.
+
+> **2 Tim. 4:18**  
+> See question 19.
+
 
 **Should a person wish for death?**
 
-Answer: When it is done out of a godly longing for eternal life, and not out of impatience, then is it fitting that we pray every day for a blessed departure. Phil. 1:23. I desire to depart, and to be with Christ; for that is far better. 2 Cor. 5:8. We are confident, and willing rather to be absent from the body, and to be present with the Lord.
+Answer: When it is done out of a godly longing for eternal life, and not out of impatience, then is it fitting that we pray every day for a blessed departure.
+
+> **Phil. 1:23**  
+> I desire to depart, and to be with Christ; for that is far better.
+
+> **2 Cor. 5:8**  
+> We are confident, and willing rather to be absent from the body, and to be present with the Lord.
+
 
 **Why does the prayer conclude with the words, “For Thine is the kingdom, and the power, and the glory, for ever. Amen”?**
 
-Answer: That we may be assured of the hearing of our prayer: for He is a King both mighty and merciful, who will and can help, and we are the members and subjects of His kingdom; we ought also thereby to learn to conclude our own prayers with praise and thanksgiving. Eph. 3:20,21. Unto Him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, unto Him be glory in the church, which is in Christ Jesus, throughout all ages, world without end. Amen.
+Answer: That we may be assured of the hearing of our prayer: for He is a King both mighty and merciful, who will and can help, and we are the members and subjects of His kingdom; we ought also thereby to learn to conclude our own prayers with praise and thanksgiving.
+
+> **Eph. 3:20,21**  
+> Unto Him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, unto Him be glory in the church, which is in Christ Jesus, throughout all ages, world without end. Amen.
+
 
 ### Luther’s Small Catechism
 

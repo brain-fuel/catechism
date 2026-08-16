@@ -19,23 +19,58 @@ Answer: Two kinds of things: earthly and heavenly.
 
 **What is the visible earthly element?**
 
-Answer: Natural and pure water, and no other moisture. John 3:5. Jesus said unto Nicodemus: Verily, verily I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. Eph. 5:25,26. Christ gave Himself for the church, that He might sanctify it, and hath already cleansed it with the washing of water by the word.
+Answer: Natural and pure water, and no other moisture.
+
+> **John 3:5**  
+> Jesus said unto Nicodemus: Verily, verily I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
+
+> **Eph. 5:25,26**  
+> Christ gave Himself for the church, that He might sanctify it, and hath already cleansed it with the washing of water by the word.
+
 
 **What is the invisible heavenly gift?**
 
-Answer: God, the holy Trinity, and especially the Holy Ghost. Titus 3:5,6. According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Saviour.
+Answer: God, the holy Trinity, and especially the Holy Ghost.
+
+> **Titus 3:5,6**  
+> According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Saviour.
+
 
 **Why did you say, “especially the Holy Ghost”?**
 
-Answer: Because the work of regeneration is especially ascribed unto the Holy Ghost, who is poured out upon us with the water of Baptism, yet not shutting out the other Persons; for God the Father taketh him that is baptized to be His child; the Son clotheth him with His righteousness; the Holy Ghost regenerateth him and maketh him His dwelling-place: therefore are we said to be born, not of the Holy Ghost alone, but of God (which work is common to all three Persons). Titus 3:5,6. See question 13. 1 Cor. 1:30. Christ Jesus is made unto us of God wisdom, and righteousness, and sanctification, and redemption. Rom. 8:15,16. Ye have not received the spirit of bondage, but ye have received the Spirit of the chosen children, whereby we cry, Abba, dear Father! The Spirit itself beareth witness with our spirit, that we are the children of God.
+Answer: Because the work of regeneration is especially ascribed unto the Holy Ghost, who is poured out upon us with the water of Baptism, yet not shutting out the other Persons; for God the Father taketh him that is baptized to be His child; the Son clotheth him with His righteousness; the Holy Ghost regenerateth him and maketh him His dwelling-place: therefore are we said to be born, not of the Holy Ghost alone, but of God (which work is common to all three Persons).
+
+> **Titus 3:5,6**  
+> See question 13.
+
+> **1 Cor. 1:30**  
+> Christ Jesus is made unto us of God wisdom, and righteousness, and sanctification, and redemption.
+
+> **Rom. 8:15,16**  
+> Ye have not received the spirit of bondage, but ye have received the Spirit of the chosen children, whereby we cry, Abba, dear Father! The Spirit itself beareth witness with our spirit, that we are the children of God.
+
 
 **Is Baptism necessary?**
 
-Answer: It is indeed; — for Christ saith: Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. John 3:5. See question 12.
+Answer: It is indeed; — for Christ saith: Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
+
+> **John 3:5**  
+> See question 12.
+
 
 **Does Baptism bring about the forgiveness of sins?**
 
-Answer: Truly; — in Baptism we put on Christ, who covereth all our sins with the robe of righteousness. Gal. 3:27. As many of you as have been baptized into Christ have put on Christ. Isa. 61:10. I will greatly rejoice in the Lord, my soul shall be joyful in my God; for He hath clothed me with the garments of salvation, He hath covered me with the robe of righteousness. John 3:5. See question 12.
+Answer: Truly; — in Baptism we put on Christ, who covereth all our sins with the robe of righteousness.
+
+> **Gal. 3:27**  
+> As many of you as have been baptized into Christ have put on Christ.
+
+> **Isa. 61:10**  
+> I will greatly rejoice in the Lord, my soul shall be joyful in my God; for He hath clothed me with the garments of salvation, He hath covered me with the robe of righteousness.
+
+> **John 3:5**  
+> See question 12.
+
 
 **What does it mean to put on Christ?**
 

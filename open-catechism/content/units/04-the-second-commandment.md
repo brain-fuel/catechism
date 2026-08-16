@@ -15,21 +15,60 @@ Answer: When someone takes God as witness and avenger, in order thereby to confi
 
 **Is every oath completely forbidden?**
 
-Answer: No; when the honour of God and our duty of faithfulness toward the government, or the need of our neighbour and our own, require it; and likewise at the command of a judge, we may take an oath and thereby confirm the truth. Deut. 6:13. Thou shalt fear the Lord thy God, and serve him, and shalt swear by his name. Jer. 4:2. Then thou shalt swear, The Lord liveth, in truth, in judgment, and in righteousness. Heb. 6:16. For men verily swear by the greater: and an oath for confirmation is to them an end of all strife. 2 Cor. 1:23. I call God for a record upon my soul.
+Answer: No; when the honour of God and our duty of faithfulness toward the government, or the need of our neighbour and our own, require it; and likewise at the command of a judge, we may take an oath and thereby confirm the truth.
+
+> **Deut. 6:13**  
+> Thou shalt fear the Lord thy God, and serve him, and shalt swear by his name.
+
+> **Jer. 4:2**  
+> Then thou shalt swear, The Lord liveth, in truth, in judgment, and in righteousness.
+
+> **Heb. 6:16**  
+> For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.
+
+> **2 Cor. 1:23**  
+> I call God for a record upon my soul.
+
 
 **Which oaths are unlawful?**
 
-Answer: Those which are made by the name of God unlawfully, needlessly, in vain matters, deceitfully, in drunkenness, and in wrath. Lev. 19:12. Ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: for I am the Lord. James 5:12. But above all things, my brethren, swear not any other oath: but let your speech be yea, when it is yea; and nay, when it is nay; lest ye fall into hypocrisy.
+Answer: Those which are made by the name of God unlawfully, needlessly, in vain matters, deceitfully, in drunkenness, and in wrath.
 
-Matt. 5:34,37. I say unto you, Swear not at all: but let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.
+> **Lev. 19:12**  
+> Ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: for I am the Lord.
+
+> **James 5:12**  
+> But above all things, my brethren, swear not any other oath: but let your speech be yea, when it is yea; and nay, when it is nay; lest ye fall into hypocrisy.
+
+
+> **Matt. 5:34,37**  
+> I say unto you, Swear not at all: but let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.
+
 
 **What is witchcraft?**
 
-Answer: It is, not only when someone by the help of the devil does harm to his neighbour, but also when in superstitions the name and word of God are wrongly used to soothe and drive away diseases from men and beasts, to enchant, to inquire into secret and hidden things, and other such things. Deut. 18:10. See question 11.
+Answer: It is, not only when someone by the help of the devil does harm to his neighbour, but also when in superstitions the name and word of God are wrongly used to soothe and drive away diseases from men and beasts, to enchant, to inquire into secret and hidden things, and other such things.
+
+> **Deut. 18:10**  
+> See question 11.
+
 
 **What is commanded in the second commandment?**
 
-Answer: That we hold the name of the Lord in honour, which comes to pass when we call upon it in need, pray for help and blessing, thank and praise God for all his good deeds. Ps. 50:15. Call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me. James 5:13. Is any among you afflicted? let him pray. Is any merry? let him sing psalms. Ps. 146:1,2. Praise the Lord, O my soul. I will praise the Lord as long as I live: and I will sing praise unto my God while I have my being. Eph. 5:20. Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ.
+Answer: That we hold the name of the Lord in honour, which comes to pass when we call upon it in need, pray for help and blessing, thank and praise God for all his good deeds.
+
+> **Ps. 50:15**  
+> Call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.
+
+> **James 5:13**  
+> Is any among you afflicted? let him pray. Is any merry? let him sing psalms.
+
+> **Ps. 146:1,2**  
+> Praise the Lord, O my soul. I will praise the Lord as long as I live: and I will sing praise unto my God while I have my being.
+
+> **Eph. 5:20**  
+> Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ.
+
 
 **What does God command in the third commandment?**
 
@@ -41,7 +80,20 @@ Answer: He wills that we bring it to our remembrance when the sabbath, or day of
 
 **What is the day of rest?**
 
-Answer: First, in the Old Testament, the seventh day, which was Saturday, was appointed and hallowed as the day of rest; but afterward, in the New Testament, Sunday has been set for it, because our Lord Jesus rose again from the dead on that day, for which reason it is also called the Lord's day. Gen. 2:3. God blessed the seventh day and sanctified it: because that in it he had rested from all his work which he had created and (perfectly) made. Exod. 20:10. The seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work. Acts 20:7. Rev. 1:10. I was in the Spirit on the Lord's day.
+Answer: First, in the Old Testament, the seventh day, which was Saturday, was appointed and hallowed as the day of rest; but afterward, in the New Testament, Sunday has been set for it, because our Lord Jesus rose again from the dead on that day, for which reason it is also called the Lord's day.
+
+> **Gen. 2:3**  
+> God blessed the seventh day and sanctified it: because that in it he had rested from all his work which he had created and (perfectly) made.
+
+> **Exod. 20:10**  
+> The seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work.
+
+> **Acts 20:7**  
+> And upon the first day of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.
+
+> **Rev. 1:10**  
+> I was in the Spirit on the Lord's day.
+
 
 ### Luther’s Small Catechism
 

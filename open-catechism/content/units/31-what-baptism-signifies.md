@@ -11,15 +11,39 @@ title: "What Baptism Signifies"
 
 **Are all who are baptized, then, saved?**
 
-Answer: All who keep the covenant of their Baptism, and remain steadfast in faith unto the end, become saved; but the hypocrites, who suffer themselves to be baptized for custom's sake and for temporal profit, unto them it turneth rather to damnation than to salvation. Matt. 10:22. He that endureth steadfast unto the end shall be saved. Heb. 11:6. Without faith it is impossible to please God.
+Answer: All who keep the covenant of their Baptism, and remain steadfast in faith unto the end, become saved; but the hypocrites, who suffer themselves to be baptized for custom's sake and for temporal profit, unto them it turneth rather to damnation than to salvation.
+
+> **Matt. 10:22**  
+> He that endureth steadfast unto the end shall be saved.
+
+> **Heb. 11:6**  
+> Without faith it is impossible to please God.
+
 
 **Why is Baptism called the washing of regeneration?**
 
-Answer: Because all men, who are conceived and born in sin, are by nature the children of wrath; but through Baptism they are regenerated and become the children of God, cleansed and washed from sin unto eternal life. Ps. 51:5. Behold, I was shapen in iniquity; and in sin did my mother conceive me. Eph. 2:3. We were by nature the children of wrath, even as others. Rom. 7:17. See question 25.
+Answer: Because all men, who are conceived and born in sin, are by nature the children of wrath; but through Baptism they are regenerated and become the children of God, cleansed and washed from sin unto eternal life.
+
+> **Ps. 51:5**  
+> Behold, I was shapen in iniquity; and in sin did my mother conceive me.
+
+> **Eph. 2:3**  
+> We were by nature the children of wrath, even as others.
+
+> **Rom. 7:17**  
+> See question 25.
+
 
 **Why is Baptism called the renewing of the Holy Ghost?**
 
-Answer: Because the Holy Ghost through Baptism reneweth us both in understanding and in will, and giveth us power unto a new life, so that we more and more withstand sin and become meet for good works, which are called the fruits of the Spirit and of faith. Gal. 4:6. Because ye are children, God hath sent forth the Spirit of His Son into your hearts, crying, Abba, dear Father! Col. 3:10. Put on the new (man), which is renewed in knowledge after the image of Him that created him.
+Answer: Because the Holy Ghost through Baptism reneweth us both in understanding and in will, and giveth us power unto a new life, so that we more and more withstand sin and become meet for good works, which are called the fruits of the Spirit and of faith.
+
+> **Gal. 4:6**  
+> Because ye are children, God hath sent forth the Spirit of His Son into your hearts, crying, Abba, dear Father!
+
+> **Col. 3:10**  
+> Put on the new (man), which is renewed in knowledge after the image of Him that created him.
+
 
 **What is the old Adam?**
 
@@ -27,19 +51,50 @@ Answer: Our corrupt nature and the evil lust born with us, which we have inherit
 
 **How is the old Adam drowned and put to death in us?**
 
-Answer: When, through daily contrition and repentance, as in spiritual water, we drown that evil lust, crucify our flesh, and withstand its sinful desires. Gal. 5:24. They that are Christ's have crucified the flesh with the affections and lusts. Rom. 6:6. Knowing this, that our old man is crucified with Him, that the body of sin might be destroyed, that henceforth we should not serve sin.
+Answer: When, through daily contrition and repentance, as in spiritual water, we drown that evil lust, crucify our flesh, and withstand its sinful desires.
+
+> **Gal. 5:24**  
+> They that are Christ's have crucified the flesh with the affections and lusts.
+
+> **Rom. 6:6**  
+> Knowing this, that our old man is crucified with Him, that the body of sin might be destroyed, that henceforth we should not serve sin.
+
 
 **Are the evil desire and original sin with which we are born completely taken away in Baptism?**
 
-Answer: Sin is indeed taken away in Baptism and forgiven, so that it is no more imputed unto us, neither can it any more condemn us; but it dwelleth nevertheless in us so long as we live, and is not rooted out until death. Rom. 7:17,23,24. Now then it is no more I that do it, but sin that dwelleth in me. I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members. O wretched man that I am! who shall deliver me from this body of death?
+Answer: Sin is indeed taken away in Baptism and forgiven, so that it is no more imputed unto us, neither can it any more condemn us; but it dwelleth nevertheless in us so long as we live, and is not rooted out until death.
+
+> **Rom. 7:17,23,24**  
+> Now then it is no more I that do it, but sin that dwelleth in me. I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members. O wretched man that I am! who shall deliver me from this body of death?
+
 
 **What is meant by the new man?**
 
-Answer: He that is regenerated of the Holy Ghost, and liveth in righteousness and purity, putteth off the old man, which through lusts corrupteth himself in error, and is diligent to keep faith and a good conscience. Col. 3:10. See question 28. Eph. 4:22. Put off the old man, wherein ye walked heretofore, which through lusts corrupteth itself in error. 1 Tim. 1:18,19. This charge I commit unto thee: that thou shouldest hold faith and a good conscience.
+Answer: He that is regenerated of the Holy Ghost, and liveth in righteousness and purity, putteth off the old man, which through lusts corrupteth himself in error, and is diligent to keep faith and a good conscience.
+
+> **Col. 3:10**  
+> See question 28.
+
+> **Eph. 4:22**  
+> Put off the old man, wherein ye walked heretofore, which through lusts corrupteth itself in error.
+
+> **1 Tim. 1:18,19**  
+> This charge I commit unto thee: that thou shouldest hold faith and a good conscience.
+
 
 **Can a person take comfort in the covenant of Baptism after breaking it and falling into sin again?**
 
-Answer: He can indeed. For although man on his part breaketh the covenant made, and falleth into sin, yet is God faithful and abideth steadfast in His covenant, whereby He again receiveth the sinner into His grace, as often as he turneth and amendeth himself. Ezek. 18:21. If the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right; he shall surely live, and shall not die. 2 Tim. 2:13. If we believe not, yet He abideth faithful: He cannot deny Himself. Rom. 3:3,4. For some of the Jews did not believe; what of it? shall their unbelief make the faith of God without effect? God forbid!
+Answer: He can indeed. For although man on his part breaketh the covenant made, and falleth into sin, yet is God faithful and abideth steadfast in His covenant, whereby He again receiveth the sinner into His grace, as often as he turneth and amendeth himself.
+
+> **Ezek. 18:21**  
+> If the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right; he shall surely live, and shall not die.
+
+> **2 Tim. 2:13**  
+> If we believe not, yet He abideth faithful: He cannot deny Himself.
+
+> **Rom. 3:3,4**  
+> For some of the Jews did not believe; what of it? shall their unbelief make the faith of God without effect? God forbid!
+
 
 THE FIFTH CHIEF PART
 

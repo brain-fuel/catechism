@@ -15,7 +15,14 @@ Answer: It is to be understood on this condition: if it is profitable to us and 
 
 **What is forbidden in the fourth commandment?**
 
-Answer: Disobedience, contempt, the angering of parents, or of all those who are understood by the name of father and mother. Deut. 27:16. Cursed be he that setteth light by his father or his mother: and all the people shall say, Amen. Rom. 13:1. Let every one be subject unto the higher powers that have authority: for there is no power but of God: the powers that be are ordained of God.
+Answer: Disobedience, contempt, the angering of parents, or of all those who are understood by the name of father and mother.
+
+> **Deut. 27:16**  
+> Cursed be he that setteth light by his father or his mother: and all the people shall say, Amen.
+
+> **Rom. 13:1**  
+> Let every one be subject unto the higher powers that have authority: for there is no power but of God: the powers that be are ordained of God.
+
 
 **What does God forbid in the fifth commandment?**
 
@@ -23,7 +30,17 @@ Answer: Killing, or the slaying of a man.
 
 **In what ways is murder committed?**
 
-Answer: When someone, whether himself or through others, secretly or openly, strikes dead, or kills with poison, or harms the life or the members of his neighbour, hates him from his heart, treats him with evil words and behaviour, and persecutes him. Gen. 9:6. Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man. Matt. 5:22. Whosoever is foolishly angry with his brother shall be in danger of the judgment: but whosoever shall say to his brother, Raca (worthless one), shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire. Gen. 4:5. But unto Cain and to his offering God had not (graciously) respect: and Cain was very wroth, and his countenance was changed.
+Answer: When someone, whether himself or through others, secretly or openly, strikes dead, or kills with poison, or harms the life or the members of his neighbour, hates him from his heart, treats him with evil words and behaviour, and persecutes him.
+
+> **Gen. 9:6**  
+> Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man.
+
+> **Matt. 5:22**  
+> Whosoever is foolishly angry with his brother shall be in danger of the judgment: but whosoever shall say to his brother, Raca (worthless one), shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
+
+> **Gen. 4:5**  
+> But unto Cain and to his offering God had not (graciously) respect: and Cain was very wroth, and his countenance was changed.
+
 
 **Does God, then, forbid all killing and anger?**
 

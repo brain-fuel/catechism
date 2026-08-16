@@ -11,11 +11,28 @@ title: "Marriage and Chastity: The Sixth Commandment"
 
 **What does God forbid in the sixth commandment?**
 
-Answer: All the sin of lewdness and adultery, which comes to pass in thoughts, words, behaviour, and deeds, both within the estate of marriage and outside of it. Matt. 5:28. Whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart. Heb. 13:4. Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.
+Answer: All the sin of lewdness and adultery, which comes to pass in thoughts, words, behaviour, and deeds, both within the estate of marriage and outside of it.
+
+> **Matt. 5:28**  
+> Whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
+
+> **Heb. 13:4**  
+> Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.
+
 
 **What is commanded in the sixth commandment?**
 
-Answer: First, in general, that all men should lead a chaste and pure life and shun all lewdness, its occasion, and whatever leads to it; then, in particular, that each one already in wedlock should love in all faithfulness and hold in honour his spouse. 1 Thess. 4:3-5. This is the will of God, even your sanctification, that ye abstain from fornication; that every one should know how to possess his vessel in sanctification and honour; not in the lust of concupiscence, even as the Gentiles which know not God. Gal. 5:24. They that are Christ's have crucified the flesh with the affections and lusts. Titus 2:4,5. That the young women may learn good manners, to love their husbands, to hold their children dear, to be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
+Answer: First, in general, that all men should lead a chaste and pure life and shun all lewdness, its occasion, and whatever leads to it; then, in particular, that each one already in wedlock should love in all faithfulness and hold in honour his spouse.
+
+> **1 Thess. 4:3-5**  
+> This is the will of God, even your sanctification, that ye abstain from fornication; that every one should know how to possess his vessel in sanctification and honour; not in the lust of concupiscence, even as the Gentiles which know not God.
+
+> **Gal. 5:24**  
+> They that are Christ's have crucified the flesh with the affections and lusts.
+
+> **Titus 2:4,5**  
+> That the young women may learn good manners, to love their husbands, to hold their children dear, to be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
+
 
 **What is forbidden in the seventh commandment?**
 
@@ -23,19 +40,53 @@ Answer: All manner of theft.
 
 **In what ways is theft committed?**
 
-Answer: In many ways; but especially when someone: 1. Without leave and secretly takes away another's money or property against his will; or by violence robs something from him: 2. Entices and coaxes something from him; 3. Cheats someone in trade with false measure and balance; 4. When the government and teachers are not given their lawful portion that is due to them: 5. When someone does the work of his office lazily; 6. Withholds from a labourer his earned wage, and other such things. Eph. 4:28. Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth. Lev. 19:13. Thou shalt not do thy neighbour wrong, nor rob him. The wages of him that is hired shall not abide with thee until the morning. 1 Thess. 4:6. That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such. Deut. 25:13,14. Thou shalt not have in thy bag divers weights, a great and a small. Neither shalt thou have in thine house divers measures, a great and a small. Matt. 22:21. Render unto Caesar the things which are Caesar's; and unto God the things that are God's. Mal. 3:10. Bring ye the whole tithes into my storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out abundantly a blessing.
+Answer: In many ways; but especially when someone: 1. Without leave and secretly takes away another's money or property against his will; or by violence robs something from him: 2. Entices and coaxes something from him; 3. Cheats someone in trade with false measure and balance; 4. When the government and teachers are not given their lawful portion that is due to them: 5. When someone does the work of his office lazily; 6. Withholds from a labourer his earned wage, and other such things.
+
+> **Eph. 4:28**  
+> Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.
+
+> **Lev. 19:13**  
+> Thou shalt not do thy neighbour wrong, nor rob him. The wages of him that is hired shall not abide with thee until the morning.
+
+> **1 Thess. 4:6**  
+> That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such.
+
+> **Deut. 25:13,14**  
+> Thou shalt not have in thy bag divers weights, a great and a small. Neither shalt thou have in thine house divers measures, a great and a small.
+
+> **Matt. 22:21**  
+> Render unto Caesar the things which are Caesar's; and unto God the things that are God's.
+
+> **Mal. 3:10**  
+> Bring ye the whole tithes into my storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out abundantly a blessing.
+
 
 **What is commanded in the seventh commandment?**
 
-Answer: Faithfulness and honesty toward every one, that no wrong be done to anyone nor anything taken from him that he has by right; but that we should help, so that our neighbour's goods and living may be increased and preserved, and should hinder all manner of harms and dangers whereby his property might be worsened and diminished. Ezek. 33:15. If the wicked restore the pledge, and give again that he had robbed, and walk after the word of life, doing no evil, he shall surely live, he shall not die.
+Answer: Faithfulness and honesty toward every one, that no wrong be done to anyone nor anything taken from him that he has by right; but that we should help, so that our neighbour's goods and living may be increased and preserved, and should hinder all manner of harms and dangers whereby his property might be worsened and diminished.
+
+> **Ezek. 33:15**  
+> If the wicked restore the pledge, and give again that he had robbed, and walk after the word of life, doing no evil, he shall surely live, he shall not die.
+
 
 **What does God forbid in the eighth commandment?**
 
-Answer: False witness and lying, which is the offspring of the devil. John 8:44. The devil abode not in the truth, for there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
+Answer: False witness and lying, which is the offspring of the devil.
+
+> **John 8:44**  
+> The devil abode not in the truth, for there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
+
 
 **In what ways are false witness and lying committed?**
 
-Answer: When someone: 1. Lies about his neighbour and witnesses falsely against him; 2. Betrays him by revealing entrusted secrets; 3. Turns his words and works to the worse and slanders him; 4. By false accusation ruins his good name and worth. Exod. 23:1. Thou shalt not believe lies, that thou shouldest help the ungodly and become a false witness. Prov. 20:19. Meddle not with him that revealeth a secret, that slandereth and hath a deceitful mouth.
+Answer: When someone: 1. Lies about his neighbour and witnesses falsely against him; 2. Betrays him by revealing entrusted secrets; 3. Turns his words and works to the worse and slanders him; 4. By false accusation ruins his good name and worth.
+
+> **Exod. 23:1**  
+> Thou shalt not believe lies, that thou shouldest help the ungodly and become a false witness.
+
+> **Prov. 20:19**  
+> Meddle not with him that revealeth a secret, that slandereth and hath a deceitful mouth.
+
 
 ### Luther’s Small Catechism
 

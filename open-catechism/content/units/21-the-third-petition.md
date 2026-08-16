@@ -19,13 +19,27 @@ Answer: Our sinful nature and carnal disposition, which is prone unto all wicked
 
 **Who helps us overcome all these?**
 
-Answer: God, who by His word strengtheneth us and keepeth us steadfast in the faith, He removeth all that hindereth the doing of His will. Luke 22:31,32. The Lord said unto Simon, I have prayed for thee, that thy faith fail not. Eph. 3:14,16. I bow my knees unto the Father of our Lord Jesus Christ, that He would grant you strength, according to the riches of His glory, that ye might be strengthened by His Spirit in the inner man.
+Answer: God, who by His word strengtheneth us and keepeth us steadfast in the faith, He removeth all that hindereth the doing of His will.
+
+> **Luke 22:31,32**  
+> The Lord said unto Simon, I have prayed for thee, that thy faith fail not.
+
+> **Eph. 3:14,16**  
+> I bow my knees unto the Father of our Lord Jesus Christ, that He would grant you strength, according to the riches of His glory, that ye might be strengthened by His Spirit in the inner man.
+
 
 The fourth petition
 
 **Why do we say “give” in this petition?**
 
-Answer: Because without God's blessing we can, by our own work or skill, neither earn nor gather anything; but every good gift cometh down from above, from the Father of lights. Jas. 1:7. Ps. 127:1. Except the Lord build the house, they labour in vain that build it. Ps. 132:15. I the Lord will bless her provision, and will satisfy her poor with bread.
+Answer: Because without God's blessing we can, by our own work or skill, neither earn nor gather anything; but every good gift cometh down from above, from the Father of lights. Jas. 1:7.
+
+> **Ps. 127:1**  
+> Except the Lord build the house, they labour in vain that build it.
+
+> **Ps. 132:15**  
+> I the Lord will bless her provision, and will satisfy her poor with bread.
+
 
 **Why do we say, “give us”?**
 

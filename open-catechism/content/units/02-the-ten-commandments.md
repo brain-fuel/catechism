@@ -15,13 +15,19 @@ Answer: The Law teaches what we ought to do and to shun, and how we ought to con
 
 **Who has given the Law?**
 
-Answer: God, who is himself righteous and the Lord of all, first wrote the Law in the heart of man at the creation; and then, after the fall into sin, revealed it in part to the holy patriarchs, and at last gave it written on tables of stone upon Mount Sinai. Exod. 20:1. And God spake all these words.
+Answer: God, who is himself righteous and the Lord of all, first wrote the Law in the heart of man at the creation; and then, after the fall into sin, revealed it in part to the holy patriarchs, and at last gave it written on tables of stone upon Mount Sinai.
+
+> **Exod. 20:1**  
+> And God spake all these words.
+
 
 **Through whom did God give the Law?**
 
 Answer: Through Moses.
 
-John 1:17. The Law was given by Moses; grace and truth came by Jesus Christ.
+> **John 1:17**  
+> The Law was given by Moses; grace and truth came by Jesus Christ.
+
 
 **What kind of man was Moses?**
 
@@ -29,11 +35,19 @@ Answer: He was a faithful servant of the Lord, who led the people of Israel out 
 
 **How many commandments are there in the Law?**
 
-Answer: Ten. Deut. 4:13. The Lord declared unto you his covenant, which he commanded you to perform, even ten words, and he wrote them upon two tables of stone.
+Answer: Ten.
+
+> **Deut. 4:13**  
+> The Lord declared unto you his covenant, which he commanded you to perform, even ten words, and he wrote them upon two tables of stone.
+
 
 **How are they divided?**
 
-Answer: Into two tables. Deut. 5:21. These are the words which the Lord spake unto all your congregation in the mount, out of the fire, the cloud, and the thick darkness, with a great voice, and he added no more; and he wrote them upon two tables of stone, and delivered them unto me.
+Answer: Into two tables.
+
+> **Deut. 5:21**  
+> These are the words which the Lord spake unto all your congregation in the mount, out of the fire, the cloud, and the thick darkness, with a great voice, and he added no more; and he wrote them upon two tables of stone, and delivered them unto me.
+
 
 The first table
 

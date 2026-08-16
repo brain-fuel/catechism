@@ -11,7 +11,17 @@ title: "Thy Kingdom Come: The Second Petition"
 
 **What is meant here by the kingdom of God?**
 
-Answer: First, the kingdom of grace here upon earth, wherein God, through His word and sacraments, offereth His grace unto all men, and forgiveth the penitent their sins; and then the kingdom of glory in heaven, wherein He giveth His chosen eternal life and salvation. Rom. 14:17. The kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost. Luke 17:20,21. The kingdom of God cometh not so that it may be seen; for, behold, the kingdom of God is within you. 2 Tim. 4:18. The Lord shall deliver me from every evil work, and will preserve me unto His heavenly kingdom.
+Answer: First, the kingdom of grace here upon earth, wherein God, through His word and sacraments, offereth His grace unto all men, and forgiveth the penitent their sins; and then the kingdom of glory in heaven, wherein He giveth His chosen eternal life and salvation.
+
+> **Rom. 14:17**  
+> The kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.
+
+> **Luke 17:20,21**  
+> The kingdom of God cometh not so that it may be seen; for, behold, the kingdom of God is within you.
+
+> **2 Tim. 4:18**  
+> The Lord shall deliver me from every evil work, and will preserve me unto His heavenly kingdom.
+
 
 **How does the kingdom of God come by itself?**
 
@@ -23,17 +33,42 @@ Answer: When we here, through the grace of God, believe His holy word and abide 
 
 **What is the will of God?**
 
-Answer: It is the will of God, which He hath made known unto us in His word, which teacheth us what we ought to believe, to do, and to suffer; namely, out of the law: to lead a holy and blameless life; and out of the gospel: to believe on Christ; and, when He layeth some cross upon us, that we bear it patiently. 1 Thess. 4:3,4. This is the will of God, even your sanctification, that ye should abstain from fornication, that every one of you should know how to possess his vessel in sanctification and honour. John 6:40. This is the will of Him that sent me, that every one which seeth the Son, and believeth on Him, may have everlasting life. Luke 9:23. If any man will come after me, let him deny himself, and take up his cross daily, and follow me.
+Answer: It is the will of God, which He hath made known unto us in His word, which teacheth us what we ought to believe, to do, and to suffer; namely, out of the law: to lead a holy and blameless life; and out of the gospel: to believe on Christ; and, when He layeth some cross upon us, that we bear it patiently.
+
+> **1 Thess. 4:3,4**  
+> This is the will of God, even your sanctification, that ye should abstain from fornication, that every one of you should know how to possess his vessel in sanctification and honour.
+
+> **John 6:40**  
+> This is the will of Him that sent me, that every one which seeth the Son, and believeth on Him, may have everlasting life.
+
+> **Luke 9:23**  
+> If any man will come after me, let him deny himself, and take up his cross daily, and follow me.
+
 
 **How, and by whom, is God’s will done in heaven?**
 
 Answer: Among the holy angels and the departed saints, in that rejoicing congregation, who with gladness serve, obey and praise God in heaven.
 
-Ps. 103:20. Bless the Lord, ye His angels, ye mighty heroes, that do His commandments, that the voice of His word may be heard. Dan. 7:10. Thousand thousands ministered unto Him, and ten thousand times ten thousand stood before Him.
+> **Ps. 103:20**  
+> Bless the Lord, ye His angels, ye mighty heroes, that do His commandments, that the voice of His word may be heard.
+
+> **Dan. 7:10**  
+> Thousand thousands ministered unto Him, and ten thousand times ten thousand stood before Him.
+
 
 **Who hinders us from doing God’s will on earth?**
 
-Answer: The devil, the world, and our own flesh. Rev. 12:9. The great dragon, that old serpent, called the Devil and Satan, was cast out, which deceiveth the whole world. 1 John 2:15. Love not the world, neither the things that are in the world. Rom. 7:18. I know that in me (that is, in my flesh) dwelleth no good thing.
+Answer: The devil, the world, and our own flesh.
+
+> **Rev. 12:9**  
+> The great dragon, that old serpent, called the Devil and Satan, was cast out, which deceiveth the whole world.
+
+> **1 John 2:15**  
+> Love not the world, neither the things that are in the world.
+
+> **Rom. 7:18**  
+> I know that in me (that is, in my flesh) dwelleth no good thing.
+
 
 ### Luther’s Small Catechism
 

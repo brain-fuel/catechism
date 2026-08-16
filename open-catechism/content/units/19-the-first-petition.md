@@ -11,15 +11,36 @@ title: "Hallowed Be Thy Name: The First Petition"
 
 **Why is God called Father in this prayer?**
 
-Answer: To this end, that we may put ourselves in remembrance of His fatherly goodness and love, who hath created us and in Baptism hath received us as His children; that we may in no wise doubt of the hearing of our prayer, when we pray unto Him and call upon Him in childlike trust. Luke 11:9. Ask, and it shall be given you.
+Answer: To this end, that we may put ourselves in remembrance of His fatherly goodness and love, who hath created us and in Baptism hath received us as His children; that we may in no wise doubt of the hearing of our prayer, when we pray unto Him and call upon Him in childlike trust.
+
+> **Luke 11:9**  
+> Ask, and it shall be given you.
+
 
 **Why do we say, “Our Father”?**
 
-Answer: That we may in faith trustfully pray unto Him, not for ourselves only, but also for others, and especially for those who are our brethren and sisters in the faith. Col. 1:9. We ceased not to pray for you, and to desire that ye might be filled with the knowledge of His will in all spiritual wisdom and understanding.
+Answer: That we may in faith trustfully pray unto Him, not for ourselves only, but also for others, and especially for those who are our brethren and sisters in the faith.
+
+> **Col. 1:9**  
+> We ceased not to pray for you, and to desire that ye might be filled with the knowledge of His will in all spiritual wisdom and understanding.
+
 
 **What is meant by the words “in heaven”?**
 
-Answer: Not as though God dwelt in the created heaven, as in a particular place, for the heavens and the heaven of heavens cannot contain Him; but thereby is understood the dwelling-place of God's glory and the heavenly height, in that light whereunto no man can attain, neither can comprehend it. Matt. 23:9. Call no man your father upon the earth: for one is your Father, which is in heaven. 1 Kings 8:27. Will God indeed dwell on the earth? Behold, the heavens and the heaven of heavens cannot contain Him. Ps. 11:4. The Lord's throne is in heaven. 1 Tim. 6:15,16. The King of kings, and Lord of lords; who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see.
+Answer: Not as though God dwelt in the created heaven, as in a particular place, for the heavens and the heaven of heavens cannot contain Him; but thereby is understood the dwelling-place of God's glory and the heavenly height, in that light whereunto no man can attain, neither can comprehend it.
+
+> **Matt. 23:9**  
+> Call no man your father upon the earth: for one is your Father, which is in heaven.
+
+> **1 Kings 8:27**  
+> Will God indeed dwell on the earth? Behold, the heavens and the heaven of heavens cannot contain Him.
+
+> **Ps. 11:4**  
+> The Lord's throne is in heaven.
+
+> **1 Tim. 6:15,16**  
+> The King of kings, and Lord of lords; who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see.
+
 
 **How many petitions are there?**
 
@@ -29,11 +50,23 @@ Answer: Seven. The first petition
 
 Answer: When we rightly know, thank and praise God, hear His word, and order our manner of life according thereto, then is His name hallowed by us.
 
-1 Pet. 3:15. Sanctify the Lord God in your hearts. Matt. 5:16. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
+> **1 Pet. 3:15**  
+> Sanctify the Lord God in your hearts.
+
+> **Matt. 5:16**  
+> Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
+
 
 **From what evil do we ask God to preserve us?**
 
-Answer: From false and schismatic doctrine, and likewise from a sinful and offensive life, whereby God's name is dishonoured. Matt. 15:9. In vain do they worship me, teaching for doctrines the commandments of men. Rom. 2:23. Thou makest thy boast of the law, and through breaking the law dishonourest thou God.
+Answer: From false and schismatic doctrine, and likewise from a sinful and offensive life, whereby God's name is dishonoured.
+
+> **Matt. 15:9**  
+> In vain do they worship me, teaching for doctrines the commandments of men.
+
+> **Rom. 2:23**  
+> Thou makest thy boast of the law, and through breaking the law dishonourest thou God.
+
 
 The second petition
 

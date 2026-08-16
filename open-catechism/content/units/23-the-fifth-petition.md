@@ -11,7 +11,14 @@ title: "Forgive Us Our Trespasses: The Fifth Petition"
 
 **How should we forgive our neighbour?**
 
-Answer: Not with words only, but also from the heart, so that we harbour no secret hatred against him, but wish and do him all good, though he have done us harm; therein following the example of our heavenly Father, who so forgiveth sins that He remembereth them no more. Jer. 31:34. I will forgive their iniquity, and I will remember their sin no more. Matt. 5:44. I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which persecute you and do you harm.
+Answer: Not with words only, but also from the heart, so that we harbour no secret hatred against him, but wish and do him all good, though he have done us harm; therein following the example of our heavenly Father, who so forgiveth sins that He remembereth them no more.
+
+> **Jer. 31:34**  
+> I will forgive their iniquity, and I will remember their sin no more.
+
+> **Matt. 5:44**  
+> I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which persecute you and do you harm.
+
 
 The sixth petition
 
@@ -21,7 +28,14 @@ Answer: Of two kinds: the one unto evil and unto damnation, the other unto good 
 
 **Who tempts a person to evil?**
 
-Answer: The devil, who is therefore called the tempter. 1 Pet. 5:8. Be sober, be vigilant; for your adversary the devil goeth about, as a roaring lion, seeking whom he may devour. 1 Thess. 3:5. I sent to know your faith, lest the tempter had tempted you.
+Answer: The devil, who is therefore called the tempter.
+
+> **1 Pet. 5:8**  
+> Be sober, be vigilant; for your adversary the devil goeth about, as a roaring lion, seeking whom he may devour.
+
+> **1 Thess. 3:5**  
+> I sent to know your faith, lest the tempter had tempted you.
+
 
 **By what means does he do this?**
 
@@ -29,11 +43,34 @@ Answer: By the world and by our own flesh.
 
 **How does he tempt us through the world?**
 
-Answer: Sometimes by persecution, sometimes by allurements, and likewise by evil company and offensive examples. Rev. 12:12. Woe to the inhabiters of the earth and of the sea! For the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time. John 15:18. If the world hate you, ye know that it hated me before it hated you. Matt. 18:7. Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh. Prov. 1:10. My son, if sinners entice thee, consent thou not.
+Answer: Sometimes by persecution, sometimes by allurements, and likewise by evil company and offensive examples.
+
+> **Rev. 12:12**  
+> Woe to the inhabiters of the earth and of the sea! For the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
+
+> **John 15:18**  
+> If the world hate you, ye know that it hated me before it hated you.
+
+> **Matt. 18:7**  
+> Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh.
+
+> **Prov. 1:10**  
+> My son, if sinners entice thee, consent thou not.
+
 
 **How does he tempt us through our own flesh?**
 
-Answer: He casteth into our heart evil promptings, wicked lusts and desires. Gal. 5:17. The flesh lusteth against the spirit, and the spirit against the flesh: and these are contrary the one to the other, so that ye cannot do the things that ye would. Rom. 7:18. See question 24. 1 Pet. 2:11. Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul.
+Answer: He casteth into our heart evil promptings, wicked lusts and desires.
+
+> **Gal. 5:17**  
+> The flesh lusteth against the spirit, and the spirit against the flesh: and these are contrary the one to the other, so that ye cannot do the things that ye would.
+
+> **Rom. 7:18**  
+> See question 24.
+
+> **1 Pet. 2:11**  
+> Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul.
+
 
 ### Luther’s Small Catechism
 

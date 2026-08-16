@@ -11,7 +11,20 @@ title: "For Thine Is the Kingdom: The Conclusion"
 
 **What does “Amen” mean?**
 
-Answer: Amen is such a word whereby one not only wisheth unto himself that for which he hath prayed, but also showeth himself assured that God heareth the prayer; whereupon he, as sealing it with a seal, saith: Amen, so let it be! Ps. 145:19. The Lord fulfilleth the desire of them that fear Him, and heareth their cry, and helpeth them. Matt. 7:8. Every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. 1 John 5:14. This is the confidence that we have in Him, that, if we ask any thing according to His will, He heareth us. Matt. 21:22. All things whatsoever ye shall ask in prayer, believing, ye shall receive.
+Answer: Amen is such a word whereby one not only wisheth unto himself that for which he hath prayed, but also showeth himself assured that God heareth the prayer; whereupon he, as sealing it with a seal, saith: Amen, so let it be!
+
+> **Ps. 145:19**  
+> The Lord fulfilleth the desire of them that fear Him, and heareth their cry, and helpeth them.
+
+> **Matt. 7:8**  
+> Every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
+
+> **1 John 5:14**  
+> This is the confidence that we have in Him, that, if we ask any thing according to His will, He heareth us.
+
+> **Matt. 21:22**  
+> All things whatsoever ye shall ask in prayer, believing, ye shall receive.
+
 
 **Why does God sometimes delay His answer?**
 

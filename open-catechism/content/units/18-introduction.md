@@ -11,11 +11,21 @@ title: "Our Father Who Art in Heaven: The Introduction"
 
 **How should we pray for all these things?**
 
-Answer: Spiritual things are to be prayed for without conditions; for we know that God will surely give them unto us, and they are ever needful for us; but temporal things we must ask with a condition, namely, if they be pleasing unto God and profitable unto us. Luke 18:13. The publican said, God be merciful to me a sinner. Jas. 4:3. Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts. Matt. 8:2. A leper worshipped Jesus, saying, Lord, if thou wilt, thou canst make me clean.
+Answer: Spiritual things are to be prayed for without conditions; for we know that God will surely give them unto us, and they are ever needful for us; but temporal things we must ask with a condition, namely, if they be pleasing unto God and profitable unto us.
+
+> **Luke 18:13**  
+> The publican said, God be merciful to me a sinner. Jas. 4:3. Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.
+
+> **Matt. 8:2**  
+> A leper worshipped Jesus, saying, Lord, if thou wilt, thou canst make me clean.
+
 
 **Who taught us the prayer “Our Father”?**
 
-Answer: Christ Himself. Matt. 6:9, etc. After this manner therefore pray ye: Our Father, etc.
+Answer: Christ Himself.
+
+> **Matt. 6:9**  
+> After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
 
 **How is the Lord’s Prayer arranged?**
 
@@ -27,7 +37,14 @@ Answer: Our Father, which art in heaven.
 
 **Who is meant by the name “Father”?**
 
-Answer: Thereby is understood not the Father alone, the first Person in the being of the Godhead, but the whole Holy Trinity: Father, Son and Holy Ghost; not as to the Persons, but as to the being. Isa. 63:16. Lord, thou art our Father; and thy name is for ever. Eph. 4:6. One God and Father of all.
+Answer: Thereby is understood not the Father alone, the first Person in the being of the Godhead, but the whole Holy Trinity: Father, Son and Holy Ghost; not as to the Persons, but as to the being.
+
+> **Isa. 63:16**  
+> Lord, thou art our Father; and thy name is for ever.
+
+> **Eph. 4:6**  
+> One God and Father of all.
+
 
 ### Luther’s Small Catechism
 

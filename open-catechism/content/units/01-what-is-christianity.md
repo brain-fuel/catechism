@@ -15,7 +15,14 @@ Answer: I am.
 
 **Why are you called a Christian?**
 
-Answer: Because I am baptized in the name of the Father and of the Son and of the Holy Ghost, and in baptism have put on Christ, whom I believe and confess to be my Saviour and the author of my salvation. Gal. 3:27. As many of you as have been baptized into Christ have put on Christ. Acts 4:12. Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
+Answer: Because I am baptized in the name of the Father and of the Son and of the Holy Ghost, and in baptism have put on Christ, whom I believe and confess to be my Saviour and the author of my salvation.
+
+> **Gal. 3:27**  
+> As many of you as have been baptized into Christ have put on Christ.
+
+> **Acts 4:12**  
+> Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
+
 
 **How have you learned and come to know this?**
 
@@ -39,7 +46,17 @@ Answer: There are also prayers: morning and evening prayers, graces at meals, an
 
 **Why is the Catechism also called instruction for children?**
 
-Answer: Because all ought to learn it from childhood, and therein, as the children of God, to exercise themselves all their lives. Deut. 6:6,7. These words which I command thee shall be in thine heart, and thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up. 2 Tim. 3:15. From a child thou hast known the holy Scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus. 1 Pet. 2:2. As newborn babes, desire the sincere milk of the word, that ye may grow thereby.
+Answer: Because all ought to learn it from childhood, and therein, as the children of God, to exercise themselves all their lives.
+
+> **Deut. 6:6,7**  
+> These words which I command thee shall be in thine heart, and thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
+
+> **2 Tim. 3:15**  
+> From a child thou hast known the holy Scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.
+
+> **1 Pet. 2:2**  
+> As newborn babes, desire the sincere milk of the word, that ye may grow thereby.
+
 
 **Where is the Catechism taken from?**
 
@@ -47,7 +64,17 @@ Answer: From the holy Scripture.
 
 **What is Holy Scripture?**
 
-Answer: It is the Word of God, which the prophets, evangelists, and apostles, by the working and revelation of the Holy Ghost, have written and proclaimed, for our instruction, comfort, and eternal salvation. 2 Pet. 1:21. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. Rom. 15:4. For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the Scriptures might have hope. John 20:31. These are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through faith in his name.
+Answer: It is the Word of God, which the prophets, evangelists, and apostles, by the working and revelation of the Holy Ghost, have written and proclaimed, for our instruction, comfort, and eternal salvation.
+
+> **2 Pet. 1:21**  
+> For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.
+
+> **Rom. 15:4**  
+> For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the Scriptures might have hope.
+
+> **John 20:31**  
+> These are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through faith in his name.
+
 
 **When did they write them?**
 
