@@ -129,10 +129,11 @@ figcaption { margin-top: .75rem; color: var(--muted); font-size: .8rem; text-ali
 .reading-rail { color: var(--muted); font-size: .85rem; }
 .unit-badge { color: var(--ink); font: 700 .85rem/1 Overpass, sans-serif; }
 .reading { min-width: 0; max-width: var(--measure); }
-.page-header { margin-bottom: clamp(2.5rem, 7vw, 5rem); padding-bottom: 1.5rem; border-bottom: 1px solid var(--rule); }
+.page-header { margin-bottom: clamp(1.5rem, 3vw, 2.5rem); padding-bottom: 1.5rem; border-bottom: 1px solid var(--rule); }
 .page-header h1 { margin: .25em 0 0; }
 .prose h1:first-child { display: none; }
 .prose h2 { margin-top: 3.5rem; padding-top: 1rem; border-top: 1px solid var(--rule); }
+.prose > h2:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
 .prose h3 { margin-top: 2.5rem; }
 .prose p { text-wrap: pretty; }
 .prose a[id] { display: block; position: relative; top: -1rem; visibility: hidden; }
