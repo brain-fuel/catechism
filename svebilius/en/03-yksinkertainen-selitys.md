@@ -10,7 +10,7 @@ Answer: I am.
 
 **2. Why are you called a Christian?**
 
-Answer: Because I am baptized in the name of the Father and of the Son and of the Holy Spirit, and in baptism have put on Christ, whom I believe and confess to be my Saviour and the author of my salvation. Gal. 3:27. As many of you as have been baptized into Christ have put on Christ. Acts 4:12. Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
+Answer: Because I am baptized in the name of the Father and of the Son and of the Holy Ghost, and in baptism have put on Christ, whom I believe and confess to be my Saviour and the author of my salvation. Gal. 3:27. As many of you as have been baptized into Christ have put on Christ. Acts 4:12. Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
 
 **3. How have you learned and come to know this?**
 
@@ -42,7 +42,7 @@ Answer: From the holy Scripture.
 
 **10. What is Holy Scripture?**
 
-Answer: It is the Word of God, which the prophets, evangelists, and apostles, by the working and revelation of the Holy Spirit, have written and proclaimed, for our instruction, comfort, and eternal salvation. 2 Pet. 1:21. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. Rom. 15:4. For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the Scriptures might have hope. John 20:31. These are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through faith in his name.
+Answer: It is the Word of God, which the prophets, evangelists, and apostles, by the working and revelation of the Holy Ghost, have written and proclaimed, for our instruction, comfort, and eternal salvation. 2 Pet. 1:21. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. Rom. 15:4. For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the Scriptures might have hope. John 20:31. These are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through faith in his name.
 
 **11. When did they write them?**
 
@@ -404,7 +404,7 @@ Answer: Three.
 
 **6. What are they?**
 
-Answer: The first, of God the Father and of creation; the second, of the Son of God and of redemption; the third, of the Holy Spirit and of sanctification.
+Answer: The first, of God the Father and of creation; the second, of the Son of God and of redemption; the third, of the Holy Ghost and of sanctification.
 
 THE FIRST ARTICLE OF FAITH, Of God the Father and of Creation
 
@@ -422,7 +422,7 @@ Answer: God, according to His being, is a Spirit, eternal, almighty, righteous, 
 
 **10. Is there, then, more than one God?**
 
-Answer: No; He alone is one, but in the being of the Godhead there are three persons: the Father, the Son, and the Holy Spirit, and they are called the Holy Trinity, or the Threefold Unity. Deut. 6:4. Hear, O Israel: The Lord our God is one Lord. 1 John 5:7. There are three that bear record in heaven, the Father, the Word, and the Holy Spirit: and these three are one.
+Answer: No; He alone is one, but in the being of the Godhead there are three persons: the Father, the Son, and the Holy Ghost, and they are called the Holy Trinity, or the Threefold Unity. Deut. 6:4. Hear, O Israel: The Lord our God is one Lord. 1 John 5:7. There are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
 
 **11. Who is the Father?**
 
@@ -430,15 +430,15 @@ Answer: The Father is the first person in the Divine being, who in eternity has 
 
 **12. Why is the Father called the first person?**
 
-Answer: Not because He is in any respect more or greater, or in regard to time earlier than the other persons; but He is called the first for the sake of order; for as the Father is eternal (without beginning and end), so is the Son eternal, so is the Holy Spirit eternal. And yet there are not three Gods; but one God, eternal and almighty.
+Answer: Not because He is in any respect more or greater, or in regard to time earlier than the other persons; but He is called the first for the sake of order; for as the Father is eternal (without beginning and end), so is the Son eternal, so is the Holy Ghost eternal. And yet there are not three Gods; but one God, eternal and almighty.
 
 **13. What good works has God the Father done for us?**
 
 Answer: He has created us, cares for us, watches over us, and protects us. He has also given His Son for us. Ps. 71:6. Thou hast drawn me out of my mother's womb. Job 10:8. Thine hands have made me and fashioned me together round about. Acts 17:28. In Him we live, and move, and have our being. Isa. 41:10. Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness. Matt. 6:23. John 2:16. See Question 3.
 
-**14. Are the Son and the Holy Spirit, then, excluded from the work of creation?**
+**14. Are the Son and the Holy Ghost, then, excluded from the work of creation?**
 
-Answer: By no means; for the Father has created all things through the Son in the Holy Spirit. Heb. 1:2. God has made the world through the Son. Col. 1:16. Ps. 33:6. By the word of the Lord were the heavens made; and all the host of them by the breath of His mouth. Job 33:4.
+Answer: By no means; for the Father has created all things through the Son in the Holy Ghost. Heb. 1:2. God has made the world through the Son. Col. 1:16. Ps. 33:6. By the word of the Lord were the heavens made; and all the host of them by the breath of His mouth. Job 33:4.
 
 **15. What did God make all things from in the beginning?**
 
@@ -536,7 +536,7 @@ Answer: A Saviour; for He saved His people from sin. Matt. 1:20,21. The angel of
 
 **38. What does the Greek word “Christ” mean?**
 
-Answer: The Anointed; for He is anointed, according to His human nature, with the oil of gladness, with the Holy Spirit and with power. Ps. 45:8 [7]. God, thy God, hath anointed thee with the oil of gladness above thy fellows. Acts 10:38. God anointed Jesus of Nazareth with the Holy Spirit and with power.
+Answer: The Anointed; for He is anointed, according to His human nature, with the oil of gladness, with the Holy Ghost and with power. Ps. 45:8 [7]. God, thy God, hath anointed thee with the oil of gladness above thy fellows. Acts 10:38. God anointed Jesus of Nazareth with the Holy Ghost and with power.
 
 **39. How many natures are there in Christ?**
 
@@ -588,7 +588,7 @@ Answer: The conception of Christ, His birth (that it was lowly and despised), Hi
 
 **51. Of whom was Christ conceived?**
 
-Answer: Of the Holy Spirit, by His wonderful working in the womb of the Virgin Mary, without sin and without the aid of man. Luke 1:35. The angel said unto Mary: The Holy Spirit shall come upon thee, and the power of the Highest shall overshadow thee. Matt. 1:20. The angel of the Lord said: Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Spirit.
+Answer: Of the Holy Ghost, by His wonderful working in the womb of the Virgin Mary, without sin and without the aid of man. Luke 1:35. The angel said unto Mary: The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee. Matt. 1:20. The angel of the Lord said: Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
 
 **52. Of whom was He born?**
 
@@ -612,7 +612,7 @@ Answer: That He might be seen to be truly dead. And that by His burial He might 
 
 **57. What is the exaltation of Christ?**
 
-Answer: It is the estate into which Christ, according to His manhood, is exalted and set upon the throne of the Godhead, fully to hold and enjoy His majesty, power, and glory, together with the Father and the Holy Spirit. Phil. 2:9-11. God hath highly exalted Him, and given Him a name which is above every name: that at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.
+Answer: It is the estate into which Christ, according to His manhood, is exalted and set upon the throne of the Godhead, fully to hold and enjoy His majesty, power, and glory, together with the Father and the Holy Ghost. Phil. 2:9-11. God hath highly exalted Him, and given Him a name which is above every name: that at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.
 
 **58. What belongs to the exaltation of Christ?**
 
@@ -640,7 +640,7 @@ Answer: He is indeed; but in an invisible manner He is with us every day, unto t
 
 **64. What does it mean that Christ sits at the right hand of God the Father?**
 
-Answer: It is this: Christ rules, according to His manhood, now and in all eternity, together with the Father and the Son and the Holy Spirit, in glory, above all creatures in heaven and upon earth. Ps. 110:1. The Lord said unto my Lord: Sit thou at my right hand, until I make thine enemies thy footstool. Eph. 1:20,21. God raised Christ from the dead, and set Him at His own right hand in the heavenly places, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come. Eph. 4:10. He that descended is the same also that ascended up far above all heavens, that He might fill all things.
+Answer: It is this: Christ rules, according to His manhood, now and in all eternity, together with the Father and the Son and the Holy Ghost, in glory, above all creatures in heaven and upon earth. Ps. 110:1. The Lord said unto my Lord: Sit thou at my right hand, until I make thine enemies thy footstool. Eph. 1:20,21. God raised Christ from the dead, and set Him at His own right hand in the heavenly places, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come. Eph. 4:10. He that descended is the same also that ascended up far above all heavens, that He might fill all things.
 
 **65. How will Christ come to judge?**
 
@@ -660,19 +660,19 @@ Answer: On the last day, when this world comes to its end; but that time is whol
 
 Answer: That we might be His own, might live in His kingdom as His subjects, and might serve Him in eternal righteousness, innocency, and blessedness. Luke 1:75. See Question 31. Titus 2:14. Christ gave Himself for us, that He might redeem us from all iniquity, and make us zealous of good works.
 
-THE THIRD ARTICLE OF FAITH, Of the Holy Spirit and of Sanctification
+THE THIRD ARTICLE OF FAITH, Of the Holy Ghost and of Sanctification
 
-**69. Who is the Holy Spirit?**
+**69. Who is the Holy Ghost?**
 
 Answer: He is the third person in the being of the Godhead, who proceeds eternally from the Father and the Son. John 15:26. When the Comforter is come, whom I will send unto you from the Father, the Spirit of truth, which proceedeth from the Father, He shall testify of me. Gal. 4:6. God sent forth the Spirit of His Son into your hearts.
 
-**70. What good works does the Holy Spirit do for us?**
+**70. What good works does the Holy Ghost do for us?**
 
-Answer: He calls us through the Word and the sacraments into His congregation, enlightens our darkened reason, sanctifies and keeps us in the right and saving faith, daily forgives us our sins, and shall also on the last day, together with the Father and the Son, raise us from the dead and give us, together with all Christian believers, eternal life. 2 Tim. 1:9. God hath called us with a holy calling. Rom. 10:17. Faith cometh by hearing, and hearing by the word of God. 1 Cor. 6:11. Ye are washed, ye are sanctified, ye are justified in the name of the Lord Jesus, and by the Spirit of our God. 2 Tim. 1:12,14. I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day. That good thing which was committed unto thee keep by the Holy Spirit which dwelleth in us. Rom. 8:11. God, that raised up Christ from the dead, shall also quicken your mortal bodies by His Spirit that dwelleth in you.
+Answer: He calls us through the Word and the sacraments into His congregation, enlightens our darkened reason, sanctifies and keeps us in the right and saving faith, daily forgives us our sins, and shall also on the last day, together with the Father and the Son, raise us from the dead and give us, together with all Christian believers, eternal life. 2 Tim. 1:9. God hath called us with a holy calling. Rom. 10:17. Faith cometh by hearing, and hearing by the word of God. 1 Cor. 6:11. Ye are washed, ye are sanctified, ye are justified in the name of the Lord Jesus, and by the Spirit of our God. 2 Tim. 1:12,14. I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day. That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us. Rom. 8:11. God, that raised up Christ from the dead, shall also quicken your mortal bodies by His Spirit that dwelleth in you.
 
 **71. Can we come to Christ and believe in Him by our own power?**
 
-Answer: By no means, for we are dead in sin. As now a dead man cannot make himself alive, so neither can we by our own power turn ourselves unto Christ and believe in Him. Eph. 2:1,5. Ye were dead in trespasses and sins; by grace ye are saved. 1 Cor. 2:14. The natural man understandeth not the things which are of the Spirit of God, for they are foolishness unto him, neither can he know them: for they are spiritually discerned. 1 Cor. 12:3. No man can call Jesus Lord, but by the Holy Spirit.
+Answer: By no means, for we are dead in sin. As now a dead man cannot make himself alive, so neither can we by our own power turn ourselves unto Christ and believe in Him. Eph. 2:1,5. Ye were dead in trespasses and sins; by grace ye are saved. 1 Cor. 2:14. The natural man understandeth not the things which are of the Spirit of God, for they are foolishness unto him, neither can he know them: for they are spiritually discerned. 1 Cor. 12:3. No man can call Jesus Lord, but by the Holy Ghost.
 
 **72. What is meant by the congregation, or the Church?**
 
@@ -684,7 +684,7 @@ Answer: Not because only one company and people is found gathered in the world i
 
 **74. Why is the Church called holy?**
 
-Answer: Because Christ has sanctified the congregation with His blood, and it serves God in holiness and righteousness; the Holy Spirit separates it from all sin and uncleanness, sanctifies it through the Word and the sacraments, and appropriates to it the sanctification of Christ. Luke 1:75. See Question 31. Eph. 5:25,26. Christ gave Himself for the congregation, that He might sanctify it.
+Answer: Because Christ has sanctified the congregation with His blood, and it serves God in holiness and righteousness; the Holy Ghost separates it from all sin and uncleanness, sanctifies it through the Word and the sacraments, and appropriates to it the sanctification of Christ. Luke 1:75. See Question 31. Eph. 5:25,26. Christ gave Himself for the congregation, that He might sanctify it.
 
 **75. Why is the Church called catholic?**
 
@@ -706,13 +706,13 @@ Answer: I believe it. I am persuaded that God, out of His grace and for Christ's
 
 Answer: Right and saving faith is not a bare knowledge of God and of His holy Word, and the holding of it as true, or assent; but it is a firm confidence and hearty trust in God, of the forgiveness of sins and of eternal life, for the sake of the merit of Jesus Christ. Rom. 8:38,39. I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Jesus Christ our Lord. Heb. 11:1. Faith is the firm confidence of things hoped for, and doubts not of things not seen.
 
-**80. Through what means does the Holy Spirit work faith?**
+**80. Through what means does the Holy Ghost work faith?**
 
 Answer: Through the Word and the sacrament.
 
-**81. Through whom does the Holy Spirit proclaim the Word and administer the sacraments?**
+**81. Through whom does the Holy Ghost proclaim the Word and administer the sacraments?**
 
-Answer: Through the holy office of preaching, which in Holy Scripture is called the office of the Spirit, the angels of the Lord of hosts, the labourers together with God, the stewards of His mysteries, and ambassadors on Christ's behalf. Acts 20:28. Take heed unto yourselves, and to all the flock, over which the Holy Spirit hath made you overseers. 2 Cor. 3:6. God hath made us able ministers of the New Testament, not of the letter, but of the Spirit. Mal. 2:7. The priest's lips should keep knowledge, and they should seek the law at his mouth; for he is the angel of the Lord of hosts. 1 Cor. 3:9. We are labourers together with God. 1 Cor. 4:1. Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. 2 Cor. 5:20. We are ambassadors for Christ; for God doth beseech you through us.
+Answer: Through the holy office of preaching, which in Holy Scripture is called the office of the Spirit, the angels of the Lord of hosts, the labourers together with God, the stewards of His mysteries, and ambassadors on Christ's behalf. Acts 20:28. Take heed unto yourselves, and to all the flock, over which the Holy Ghost hath made you overseers. 2 Cor. 3:6. God hath made us able ministers of the New Testament, not of the letter, but of the Spirit. Mal. 2:7. The priest's lips should keep knowledge, and they should seek the law at his mouth; for he is the angel of the Lord of hosts. 1 Cor. 3:9. We are labourers together with God. 1 Cor. 4:1. Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. 2 Cor. 5:20. We are ambassadors for Christ; for God doth beseech you through us.
 
 **82. What do you understand by the resurrection of the body?**
 
@@ -742,7 +742,7 @@ Answer: Those whom God in eternity saw would abide steadfast in faith in Jesus C
 
 **88. Why are not all people saved?**
 
-Answer: Because not all believe in Christ, but despise the means of salvation and resist the working of the Holy Spirit, and are thus themselves guilty of their own condemnation. He that believeth not shall be damned, and the wrath of God abideth on him. Matt. 23:37. O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings? And ye would not. Luke 14:16-18. A certain man made a great supper, and bade many, and sent his servant at supper time to say to them that were bidden: Come; for all things are now ready. And they all with one consent began to make excuse. John 3:18,36. He that believeth on the Son of God is not condemned; but he that believeth not is condemned already, because he hath not believed in the name of the only Son of God. He that believeth on the Son hath everlasting life; but he that believeth not the Son shall not see life, but the wrath of God abideth on him.
+Answer: Because not all believe in Christ, but despise the means of salvation and resist the working of the Holy Ghost, and are thus themselves guilty of their own condemnation. He that believeth not shall be damned, and the wrath of God abideth on him. Matt. 23:37. O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings? And ye would not. Luke 14:16-18. A certain man made a great supper, and bade many, and sent his servant at supper time to say to them that were bidden: Come; for all things are now ready. And they all with one consent began to make excuse. John 3:18,36. He that believeth on the Son of God is not condemned; but he that believeth not is condemned already, because he hath not believed in the name of the only Son of God. He that believeth on the Son hath everlasting life; but he that believeth not the Son shall not see life, but the wrath of God abideth on him.
 
 **89. Why does the explanation of every article of faith conclude with the words, “This is most certainly true”?**
 
@@ -780,7 +780,7 @@ Answer: For all that redoundeth to God's honour, and likewise for the good of ou
 
 **6. What do you call spiritual blessings?**
 
-Answer: All that is for the good of the soul and for eternal salvation, such as the forgiveness of sins, faith, hope, patience, the governance of the Holy Spirit, and other things of like kind.
+Answer: All that is for the good of the soul and for eternal salvation, such as the forgiveness of sins, faith, hope, patience, the governance of the Holy Ghost, and other things of like kind.
 
 **7. What are bodily blessings?**
 
@@ -804,7 +804,7 @@ Answer: Our Father, which art in heaven.
 
 **12. Who is meant by the name “Father”?**
 
-Answer: Thereby is understood not the Father alone, the first Person in the being of the Godhead, but the whole Holy Trinity: Father, Son and Holy Spirit; not as to the Persons, but as to the being. Isa. 63:16. Lord, thou art our Father; and thy name is for ever. Eph. 4:6. One God and Father of all.
+Answer: Thereby is understood not the Father alone, the first Person in the being of the Godhead, but the whole Holy Trinity: Father, Son and Holy Ghost; not as to the Persons, but as to the being. Isa. 63:16. Lord, thou art our Father; and thy name is for ever. Eph. 4:6. One God and Father of all.
 
 **13. Why is God called Father in this prayer?**
 
@@ -1022,9 +1022,9 @@ Answer: I can, in this way: Baptism is the first sacrament of the New Testament,
 
 **9. Who instituted and ordained Baptism?**
 
-Answer: God Himself sent John to baptize, and thereafter Jesus Christ commanded His disciples to go out into all the world to make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit. Luke 3:2,3. When Annas and Caiaphas were the high priests, the word of God came unto John the son of Zacharias in the wilderness. And he came into all the country about Jordan, and preached for remission. John 1:33. Matt. 28:19. Jesus said unto His disciples: Go ye and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.
+Answer: God Himself sent John to baptize, and thereafter Jesus Christ commanded His disciples to go out into all the world to make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Ghost. Luke 3:2,3. When Annas and Caiaphas were the high priests, the word of God came unto John the son of Zacharias in the wilderness. And he came into all the country about Jordan, and preached for remission. John 1:33. Matt. 28:19. Jesus said unto His disciples: Go ye and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Ghost.
 
-**10. What does it mean to baptize in the name of the Father and of the Son and of the Holy Spirit?**
+**10. What does it mean to baptize in the name of the Father and of the Son and of the Holy Ghost?**
 
 Answer: It is, according to the command of the holy Trinity of God, and in the power and the calling upon of His holy name, to immerse, to pour, or to sprinkle a man with water, unto the forgiveness of sins.
 
@@ -1038,11 +1038,11 @@ Answer: Natural and pure water, and no other moisture. John 3:5. Jesus said unto
 
 **13. What is the invisible heavenly gift?**
 
-Answer: God, the holy Trinity, and especially the Holy Spirit. Titus 3:5,6. According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Saviour.
+Answer: God, the holy Trinity, and especially the Holy Ghost. Titus 3:5,6. According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Saviour.
 
-**14. Why did you say, “especially the Holy Spirit”?**
+**14. Why did you say, “especially the Holy Ghost”?**
 
-Answer: Because the work of regeneration is especially ascribed unto the Holy Spirit, who is poured out upon us with the water of Baptism, yet not shutting out the other Persons; for God the Father taketh him that is baptized to be His child; the Son clotheth him with His righteousness; the Holy Spirit regenerateth him and maketh him His dwelling-place: therefore are we said to be born, not of the Holy Spirit alone, but of God (which work is common to all three Persons). Titus 3:5,6. See question 13. 1 Cor. 1:30. Christ Jesus is made unto us of God wisdom, and righteousness, and sanctification, and redemption. Rom. 8:15,16. Ye have not received the spirit of bondage, but ye have received the Spirit of the chosen children, whereby we cry, Abba, dear Father! The Spirit itself beareth witness with our spirit, that we are the children of God.
+Answer: Because the work of regeneration is especially ascribed unto the Holy Ghost, who is poured out upon us with the water of Baptism, yet not shutting out the other Persons; for God the Father taketh him that is baptized to be His child; the Son clotheth him with His righteousness; the Holy Ghost regenerateth him and maketh him His dwelling-place: therefore are we said to be born, not of the Holy Ghost alone, but of God (which work is common to all three Persons). Titus 3:5,6. See question 13. 1 Cor. 1:30. Christ Jesus is made unto us of God wisdom, and righteousness, and sanctification, and redemption. Rom. 8:15,16. Ye have not received the spirit of bondage, but ye have received the Spirit of the chosen children, whereby we cry, Abba, dear Father! The Spirit itself beareth witness with our spirit, that we are the children of God.
 
 **15. Is Baptism necessary?**
 
@@ -1096,9 +1096,9 @@ Answer: All who keep the covenant of their Baptism, and remain steadfast in fait
 
 Answer: Because all men, who are conceived and born in sin, are by nature the children of wrath; but through Baptism they are regenerated and become the children of God, cleansed and washed from sin unto eternal life. Ps. 51:5. Behold, I was shapen in iniquity; and in sin did my mother conceive me. Eph. 2:3. We were by nature the children of wrath, even as others. Rom. 7:17. See question 25.
 
-**28. Why is Baptism called the renewing of the Holy Spirit?**
+**28. Why is Baptism called the renewing of the Holy Ghost?**
 
-Answer: Because the Holy Spirit through Baptism reneweth us both in understanding and in will, and giveth us power unto a new life, so that we more and more withstand sin and become meet for good works, which are called the fruits of the Spirit and of faith. Gal. 4:6. Because ye are children, God hath sent forth the Spirit of His Son into your hearts, crying, Abba, dear Father! Col. 3:10. Put on the new (man), which is renewed in knowledge after the image of Him that created him.
+Answer: Because the Holy Ghost through Baptism reneweth us both in understanding and in will, and giveth us power unto a new life, so that we more and more withstand sin and become meet for good works, which are called the fruits of the Spirit and of faith. Gal. 4:6. Because ye are children, God hath sent forth the Spirit of His Son into your hearts, crying, Abba, dear Father! Col. 3:10. Put on the new (man), which is renewed in knowledge after the image of Him that created him.
 
 **29. What is the old Adam?**
 
@@ -1114,7 +1114,7 @@ Answer: Sin is indeed taken away in Baptism and forgiven, so that it is no more 
 
 **32. What is meant by the new man?**
 
-Answer: He that is regenerated of the Holy Spirit, and liveth in righteousness and purity, putteth off the old man, which through lusts corrupteth himself in error, and is diligent to keep faith and a good conscience. Col. 3:10. See question 28. Eph. 4:22. Put off the old man, wherein ye walked heretofore, which through lusts corrupteth itself in error. 1 Tim. 1:18,19. This charge I commit unto thee: that thou shouldest hold faith and a good conscience.
+Answer: He that is regenerated of the Holy Ghost, and liveth in righteousness and purity, putteth off the old man, which through lusts corrupteth himself in error, and is diligent to keep faith and a good conscience. Col. 3:10. See question 28. Eph. 4:22. Put off the old man, wherein ye walked heretofore, which through lusts corrupteth itself in error. 1 Tim. 1:18,19. This charge I commit unto thee: that thou shouldest hold faith and a good conscience.
 
 **33. Can a person take comfort in the covenant of Baptism after breaking it and falling into sin again?**
 

@@ -2,6 +2,8 @@
 
 A Finnish translation of Olaus Svebilius's Catechism. The first translator was Bishop Daniel Juslenius (Skara, 1745). Source: `Svebilius_Katekismus.pdf` (Tero Kotti, 2007).
 
+The English translation follows the Finnish Svebilius text. For established English Lutheran terminology, it consults the 1921 *Concordia Triglotta*, preserved in [`../../sources/concordia-triglotta-1921/`](../../sources/concordia-triglotta-1921/README.md). The Triglotta is a terminology reference, not a replacement base text.
+
 ## Contents
 
 1. [Preface of the first translator, Bishop Juslenius](01-jusleniuksen-alkulause.md)
