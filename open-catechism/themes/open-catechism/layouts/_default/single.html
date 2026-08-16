@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="reading-layout">
+  <aside class="reading-rail" aria-label="Page context">
+    {{ with .Params.unit }}<p class="unit-badge">Unit {{ . }}</p>{{ end }}
+    {{ with .Params.part }}<p>{{ . }}</p>{{ end }}
+    <a href="{{ "/#units" | relURL }}">All contents</a>
+  </aside>
+  <article class="reading">
+    <header class="page-header">
+      {{ with .Params.unit }}<p class="eyebrow">Unit {{ . }} · {{ $.Params.part }}</p>{{ end }}
+      <h1>{{ .Title }}</h1>
+    </header>
+    <div class="prose">{{ .Content }}</div>
+    {{ if .Params.unit }}
+      <nav class="pager" aria-label="Adjacent units">
+        {{ with .NextInSection }}<a rel="prev" href="{{ .RelPermalink }}"><span>Previous</span>{{ .Title }}</a>{{ end }}
+        {{ with .PrevInSection }}<a rel="next" href="{{ .RelPermalink }}"><span>Next</span>{{ .Title }}</a>{{ end }}
+      </nav>
+    {{ end }}
+  </article>
+</div>
+{{ end }}

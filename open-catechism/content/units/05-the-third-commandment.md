@@ -1,11 +1,11 @@
 ---
 id: unit-05
 unit: 5
+weight: 5
 part: "Commandments"
-title: "The Third Commandment"
+title: "The Sabbath and God’s Word: The Third Commandment"
 ---
 
-# Unit 5. The Third Commandment
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

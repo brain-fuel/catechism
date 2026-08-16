@@ -1,0 +1,15 @@
+baseURL = "/"
+locale = "en-US"
+title = "Open Catechism"
+theme = "open-catechism"
+contentDir = "content"
+publishDir = "public"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
+ignoreFiles = ["source/", "resources/", "concordance\\.yaml$", "divine-name-registry\\.yaml$"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[[module.mounts]]
+source = "assets"
+target = "static/assets"

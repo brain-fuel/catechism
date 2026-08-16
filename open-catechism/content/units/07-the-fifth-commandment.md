@@ -1,11 +1,11 @@
 ---
 id: unit-07
 unit: 7
+weight: 7
 part: "Commandments"
-title: "The Fifth Commandment"
+title: "Protecting Our Neighbor’s Life: The Fifth Commandment"
 ---
 
-# Unit 7. The Fifth Commandment
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

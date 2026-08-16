@@ -1,11 +1,11 @@
 ---
 id: unit-21
 unit: 21
+weight: 21
 part: "Lord’s Prayer"
-title: "The Third Petition"
+title: "Thy Will Be Done: The Third Petition"
 ---
 
-# Unit 21. The Third Petition
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

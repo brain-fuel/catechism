@@ -1,11 +1,11 @@
 ---
 id: unit-32
 unit: 32
+weight: 32
 part: "Means of Grace"
 title: "Confession and Absolution"
 ---
 
-# Unit 32. Confession and Absolution
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

@@ -1,11 +1,11 @@
 ---
 id: unit-27
 unit: 27
+weight: 27
 part: "Means of Grace"
 title: "The Means of Grace"
 ---
 
-# Unit 27. The Means of Grace
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

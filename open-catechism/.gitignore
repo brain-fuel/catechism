@@ -2,3 +2,4 @@ dist/
 .tools/
 cmd/open-catechism/*_gml.go
 .DS_Store
+.hugo_build.lock

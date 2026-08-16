@@ -1,11 +1,11 @@
 ---
 id: unit-34
 unit: 34
+weight: 34
 part: "Daily Christian Life"
 title: "Daily Prayers"
 ---
 
-# Unit 34. Daily Prayers
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

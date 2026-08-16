@@ -1,11 +1,11 @@
 ---
 id: unit-13
 unit: 13
+weight: 13
 part: "Creed"
 title: "The Apostles’ Creed"
 ---
 
-# Unit 13. The Apostles’ Creed
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

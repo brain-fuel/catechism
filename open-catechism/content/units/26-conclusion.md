@@ -1,11 +1,11 @@
 ---
 id: unit-26
 unit: 26
+weight: 26
 part: "Lord’s Prayer"
-title: "Conclusion"
+title: "For Thine Is the Kingdom: The Conclusion"
 ---
 
-# Unit 26. Conclusion
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

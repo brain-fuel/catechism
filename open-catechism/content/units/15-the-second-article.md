@@ -1,11 +1,11 @@
 ---
 id: unit-15
 unit: 15
+weight: 15
 part: "Creed"
-title: "The Second Article"
+title: "Jesus Christ and Redemption: The Second Article"
 ---
 
-# Unit 15. The Second Article
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

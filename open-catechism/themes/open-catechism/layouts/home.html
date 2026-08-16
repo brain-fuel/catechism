@@ -1,0 +1,43 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">Svebilius/Laine Edition</p>
+    <h1>Christian doctrine for confession, prayer, and daily life</h1>
+    <p class="lede">The historic catechism, its full scriptural witness, and carefully identified editorial teaching—organized for household and congregation.</p>
+    <a class="button" href="#units">Begin with the first unit</a>
+  </div>
+  <figure class="hero-art">
+    <img src="{{ "assets/cover.png" | relURL }}" width="1024" height="1536" alt="Open Bible and catechism beside a baptismal shell, wheat, and grapes, rendered as a Nordic woodcut">
+    <figcaption>Word and Sacrament beneath the light of the cross.</figcaption>
+  </figure>
+</section>
+
+<section class="catalog" id="units" aria-labelledby="units-heading">
+  <p class="eyebrow">Thirty-five units</p>
+  <h2 id="units-heading">Contents</h2>
+  {{ range slice "Foundations" "Commandments" "Creed" "Lord’s Prayer" "Means of Grace" "Daily Christian Life" }}
+    {{ $part := . }}
+    <section class="part">
+      <h3>{{ $part }}</h3>
+      <ol class="unit-grid">
+        {{ range sort (where site.RegularPages "Params.part" $part) "Params.unit" }}
+          <li>
+            <a href="{{ .RelPermalink }}">
+              <span class="unit-number">{{ printf "%02d" .Params.unit }}</span>
+              <span class="unit-title">{{ .Title }}</span>
+              <span class="unit-arrow" aria-hidden="true">→</span>
+            </a>
+          </li>
+        {{ end }}
+      </ol>
+    </section>
+  {{ end }}
+</section>
+
+<aside class="feature-link">
+  <p class="eyebrow">After Holy Communion</p>
+  <h2><a href="{{ "/divine-service/" | relURL }}">Guide to the Divine Service</a></h2>
+  <p>A complete walk-through from preparation and the Service of the Word to the Sacrament, distribution, and benediction.</p>
+</aside>
+{{ end }}
+

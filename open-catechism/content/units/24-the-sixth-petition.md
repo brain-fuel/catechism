@@ -1,11 +1,11 @@
 ---
 id: unit-24
 unit: 24
+weight: 24
 part: "Lord’s Prayer"
-title: "The Sixth Petition"
+title: "Lead Us Not into Temptation: The Sixth Petition"
 ---
 
-# Unit 24. The Sixth Petition
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

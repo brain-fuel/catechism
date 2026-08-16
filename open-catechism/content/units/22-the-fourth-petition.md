@@ -1,11 +1,11 @@
 ---
 id: unit-22
 unit: 22
+weight: 22
 part: "Lord’s Prayer"
-title: "The Fourth Petition"
+title: "Give Us This Day Our Daily Bread: The Fourth Petition"
 ---
 
-# Unit 22. The Fourth Petition
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

@@ -1,11 +1,11 @@
 ---
 id: unit-28
 unit: 28
+weight: 28
 part: "Means of Grace"
 title: "Nature of Holy Baptism"
 ---
 
-# Unit 28. Nature of Holy Baptism
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

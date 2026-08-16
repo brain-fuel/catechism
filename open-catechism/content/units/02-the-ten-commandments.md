@@ -1,11 +1,11 @@
 ---
 id: unit-02
 unit: 2
+weight: 2
 part: "Commandments"
 title: "The Ten Commandments"
 ---
 
-# Unit 2. The Ten Commandments
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

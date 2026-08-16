@@ -1,11 +1,11 @@
 ---
 id: unit-10
 unit: 10
+weight: 10
 part: "Commandments"
-title: "The Eighth Commandment"
+title: "Truth and Our Neighbor’s Reputation: The Eighth Commandment"
 ---
 
-# Unit 10. The Eighth Commandment
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

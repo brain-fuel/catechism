@@ -1,11 +1,11 @@
 ---
 id: unit-31
 unit: 31
+weight: 31
 part: "Means of Grace"
 title: "What Baptism Signifies"
 ---
 
-# Unit 31. What Baptism Signifies
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

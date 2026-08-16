@@ -1,11 +1,11 @@
 ---
 id: unit-35
 unit: 35
+weight: 35
 part: "Daily Christian Life"
 title: "Table of Duties"
 ---
 
-# Unit 35. Table of Duties
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

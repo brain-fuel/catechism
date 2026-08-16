@@ -1,11 +1,11 @@
 ---
 id: unit-16
 unit: 16
+weight: 16
 part: "Creed"
-title: "The Third Article"
+title: "The Holy Ghost and Sanctification: The Third Article"
 ---
 
-# Unit 16. The Third Article
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

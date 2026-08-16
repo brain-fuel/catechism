@@ -1,11 +1,11 @@
 ---
 id: unit-25
 unit: 25
+weight: 25
 part: "Lord’s Prayer"
-title: "The Seventh Petition"
+title: "Deliver Us from Evil: The Seventh Petition"
 ---
 
-# Unit 25. The Seventh Petition
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

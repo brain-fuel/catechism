@@ -1,11 +1,11 @@
 ---
 id: unit-30
 unit: 30
+weight: 30
 part: "Means of Grace"
 title: "Power of Baptism"
 ---
 
-# Unit 30. Power of Baptism
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

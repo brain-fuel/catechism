@@ -1,11 +1,11 @@
 ---
 id: unit-08
 unit: 8
+weight: 8
 part: "Commandments"
-title: "The Sixth Commandment"
+title: "Marriage and Chastity: The Sixth Commandment"
 ---
 
-# Unit 8. The Sixth Commandment
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

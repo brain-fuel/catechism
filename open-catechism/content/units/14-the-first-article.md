@@ -1,11 +1,11 @@
 ---
 id: unit-14
 unit: 14
+weight: 14
 part: "Creed"
-title: "The First Article"
+title: "God the Father and Creation: The First Article"
 ---
 
-# Unit 14. The First Article
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

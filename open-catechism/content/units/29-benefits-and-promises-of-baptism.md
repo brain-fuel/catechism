@@ -1,11 +1,11 @@
 ---
 id: unit-29
 unit: 29
+weight: 29
 part: "Means of Grace"
 title: "Benefits and Promises of Baptism"
 ---
 
-# Unit 29. Benefits and Promises of Baptism
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

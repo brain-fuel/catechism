@@ -1,11 +1,11 @@
 ---
 id: unit-03
 unit: 3
+weight: 3
 part: "Commandments"
-title: "The First Commandment"
+title: "No Other Gods: The First Commandment"
 ---
 
-# Unit 3. The First Commandment
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

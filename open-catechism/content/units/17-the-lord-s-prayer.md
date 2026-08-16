@@ -1,11 +1,11 @@
 ---
 id: unit-17
 unit: 17
+weight: 17
 part: "Lord’s Prayer"
 title: "The Lord’s Prayer"
 ---
 
-# Unit 17. The Lord’s Prayer
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

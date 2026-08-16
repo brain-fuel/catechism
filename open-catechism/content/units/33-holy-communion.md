@@ -1,11 +1,11 @@
 ---
 id: unit-33
 unit: 33
+weight: 33
 part: "Means of Grace"
 title: "Holy Communion"
 ---
 
-# Unit 33. Holy Communion
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

@@ -1,11 +1,11 @@
 ---
 id: unit-23
 unit: 23
+weight: 23
 part: "Lord’s Prayer"
-title: "The Fifth Petition"
+title: "Forgive Us Our Trespasses: The Fifth Petition"
 ---
 
-# Unit 23. The Fifth Petition
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

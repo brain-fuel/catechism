@@ -1,11 +1,11 @@
 ---
 id: unit-19
 unit: 19
+weight: 19
 part: "Lord’s Prayer"
-title: "The First Petition"
+title: "Hallowed Be Thy Name: The First Petition"
 ---
 
-# Unit 19. The First Petition
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

@@ -1,11 +1,11 @@
 ---
 id: unit-20
 unit: 20
+weight: 20
 part: "Lord’s Prayer"
-title: "The Second Petition"
+title: "Thy Kingdom Come: The Second Petition"
 ---
 
-# Unit 20. The Second Petition
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

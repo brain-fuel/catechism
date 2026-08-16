@@ -1,11 +1,11 @@
 ---
 id: unit-18
 unit: 18
+weight: 18
 part: "Lord’s Prayer"
-title: "Introduction"
+title: "Our Father Who Art in Heaven: The Introduction"
 ---
 
-# Unit 18. Introduction
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

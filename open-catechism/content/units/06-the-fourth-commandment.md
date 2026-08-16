@@ -1,11 +1,11 @@
 ---
 id: unit-06
 unit: 6
+weight: 6
 part: "Commandments"
-title: "The Fourth Commandment"
+title: "Parents and Authorities: The Fourth Commandment"
 ---
 
-# Unit 6. The Fourth Commandment
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

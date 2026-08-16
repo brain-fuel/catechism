@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section class="catalog">
+  <p class="eyebrow">Open Catechism</p>
+  <h1>{{ .Title }}</h1>
+  <ol class="unit-grid">
+    {{ range .Pages.ByParam "unit" }}
+      <li><a href="{{ .RelPermalink }}"><span class="unit-number">{{ printf "%02d" .Params.unit }}</span><span class="unit-title">{{ .Title }}</span></a></li>
+    {{ end }}
+  </ol>
+</section>
+{{ end }}

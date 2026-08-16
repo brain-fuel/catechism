@@ -1,11 +1,11 @@
 ---
 id: unit-04
 unit: 4
+weight: 4
 part: "Commandments"
-title: "The Second Commandment"
+title: "The Holy Name of God: The Second Commandment"
 ---
 
-# Unit 4. The Second Commandment
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

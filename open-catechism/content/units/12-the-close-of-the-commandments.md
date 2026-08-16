@@ -1,11 +1,11 @@
 ---
 id: unit-12
 unit: 12
+weight: 12
 part: "Commandments"
-title: "The Close of the Commandments"
+title: "God’s Wrath and Mercy: The Close of the Commandments"
 ---
 
-# Unit 12. The Close of the Commandments
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

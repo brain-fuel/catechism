@@ -1,11 +1,11 @@
 ---
 id: unit-01
 unit: 1
+weight: 1
 part: "Foundations"
 title: "What Is Christianity"
 ---
 
-# Unit 1. What Is Christianity
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 

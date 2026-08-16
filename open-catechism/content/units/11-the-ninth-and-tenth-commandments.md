@@ -1,11 +1,11 @@
 ---
 id: unit-11
 unit: 11
+weight: 11
 part: "Commandments"
-title: "The Ninth and Tenth Commandments"
+title: "Contentment and Holy Desire: The Ninth and Tenth Commandments"
 ---
 
-# Unit 11. The Ninth and Tenth Commandments
 
 > Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 
