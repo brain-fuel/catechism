@@ -5,7 +5,7 @@ HUGO ?= .tools/hugo
 
 tool:
 	mkdir -p .tools
-	GOBIN=$(CURDIR)/.tools go install github.com/brain-fuel/goplus/cmd/goml@v0.145.1
+	GOBIN=$(CURDIR)/.tools go install goforge.dev/goplus/cmd/goml@v0.145.1
 	GOBIN=$(CURDIR)/.tools CGO_ENABLED=0 go install github.com/gohugoio/hugo@v0.164.0
 
 generate: tool

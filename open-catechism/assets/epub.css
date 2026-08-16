@@ -54,3 +54,9 @@ blockquote p { margin: 0.55em 0; }
 a { color: #72551b; }
 img { max-width: 100%; height: auto; }
 ol, ul { padding-left: 1.35em; }
+
+@media (min-width: 60em) {
+  .reading { column-count: 2; column-gap: 2em; column-rule: 1px solid #d8cdb8; }
+  .reading h1, .reading h2, .reading h3, .reading h4 { break-after: avoid-column; }
+  .reading blockquote, .reading figure, .reading img, .reading ul, .reading ol { break-inside: avoid-column; }
+}

@@ -42,7 +42,9 @@
   pagebreak()
 
   for (index, path) in xs.enumerate() {
-    cmarker.render(read(path), smart-punctuation: false, raw-typst: false)
+    columns(2, gutter: 0.28in)[
+      #cmarker.render(read(path), smart-punctuation: false, raw-typst: false)
+    ]
     if index < xs.len() - 1 { pagebreak() }
   }
 }
