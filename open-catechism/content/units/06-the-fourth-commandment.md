@@ -6,6 +6,18 @@ part: "Commandments"
 title: "Parents and Authorities: The Fourth Commandment"
 ---
 
+## Story and sacred art
+
+### The Child Jesus Is Presented
+
+Mary and Joseph brought Jesus to Jerusalem according to the Law, and Simeon received the Child in his arms (Luke 2:22–35). The Son of God entered an ordinary household under the care of earthly parents.
+
+<figure>
+
+![Mary and Joseph present the infant Jesus to Simeon in an Armenian Gospel illumination.](/assets/art/unit-06-presentation.jpg)
+<figcaption>The Presentation in the Temple in a 1455 Armenian Gospel from Xizan.</figcaption>
+</figure>
+
 
 
 
@@ -365,18 +377,6 @@ Answer: God threatens to punish all who break and transgress these His commandme
 >
 > **127:1** Except Yahweh build the house, they labour in vain that build it: except Yahweh keep the city, the watchman waketh but in vain. **127:2** It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep. **127:3** Lo, children are an heritage of Yahweh: and the fruit of the womb is his reward. **127:4** As arrows are in the hand of a mighty man; so are children of the youth. **127:5** Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.
 
-
-## Story and sacred art
-
-### The Child Jesus Is Presented
-
-Mary and Joseph brought Jesus to Jerusalem according to the Law, and Simeon received the Child in his arms (Luke 2:22–35). The Son of God entered an ordinary household under the care of earthly parents.
-
-<figure>
-
-![Mary and Joseph present the infant Jesus to Simeon in an Armenian Gospel illumination.](/assets/art/unit-06-presentation.jpg)
-<figcaption>The Presentation in the Temple in a 1455 Armenian Gospel from Xizan.</figcaption>
-</figure>
 
 ## Memory and prayer
 

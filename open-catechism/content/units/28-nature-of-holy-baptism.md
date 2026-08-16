@@ -6,6 +6,18 @@ part: "Means of Grace"
 title: "Nature of Holy Baptism"
 ---
 
+## Story and sacred art
+
+### Jesus Is Baptized in the Jordan
+
+Jesus came to John and was baptized; the heavens opened, the Holy Ghost descended as a dove, and the Father declared His beloved Son (Matthew 3:13–17). Water and the triune Divine Name stand together.
+
+<figure>
+
+![John baptizes Jesus as the dove descends in an Armenian Gospel illumination.](/assets/art/unit-28-baptism-armenian.jpg)
+<figcaption>The Baptism of Christ in a 1475 Armenian Gospel.</figcaption>
+</figure>
+
 **What is a sacrament?**
 
 Answer: A sacrament is a holy ordinance and work of grace, wherein God, through visible and earthly elements, dealeth out heavenly gifts, and thereby not only offereth unto men the sweet promises of grace of the Gospel, but also giveth and sealeth them in the hearts of those who rightly receive them and enjoy them in faith.
@@ -307,18 +319,6 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 >
 > **138:1** I will praise thee with my whole heart: before the gods will I sing praise unto thee. **138:2** I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. **138:3** In the day when I cried thou answeredst me, and strengthenedst me with strength in my soul. **138:4** All the kings of the earth shall praise thee, O Yahweh, when they hear the words of thy mouth. **138:5** Yea, they shall sing in the ways of Yahweh: for great is the glory of Yahweh. **138:6** Though Yahweh be high, yet hath he respect unto the lowly: but the proud he knoweth afar off. **138:7** Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me. **138:8** Yahweh will perfect that which concerneth me: thy mercy, O Yahweh, endureth for ever: forsake not the works of thine own hands.
 
-
-## Story and sacred art
-
-### Jesus Is Baptized in the Jordan
-
-Jesus came to John and was baptized; the heavens opened, the Holy Ghost descended as a dove, and the Father declared His beloved Son (Matthew 3:13–17). Water and the triune Divine Name stand together.
-
-<figure>
-
-![John baptizes Jesus as the dove descends in an Armenian Gospel illumination.](/assets/art/unit-28-baptism-armenian.jpg)
-<figcaption>The Baptism of Christ in a 1475 Armenian Gospel.</figcaption>
-</figure>
 
 ## Memory and prayer
 

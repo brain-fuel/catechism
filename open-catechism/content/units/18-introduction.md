@@ -6,6 +6,18 @@ part: "Lord’s Prayer"
 title: "Our Father Who Art in Heaven: The Introduction"
 ---
 
+## Story and sacred art
+
+### Simeon Receives the Promised Son
+
+The Holy Ghost led Simeon into the temple, where he took the infant Jesus in his arms and blessed God (Luke 2:25–32). He could depart in peace because he had seen God’s salvation for all peoples.
+
+<figure>
+
+![Simeon receives the infant Jesus from Mary in a Lake Van Armenian Gospel.](/assets/art/unit-18-presentation.jpg)
+<figcaption>The Presentation in the Temple in a 1475 Armenian Gospel.</figcaption>
+</figure>
+
 
 
 
@@ -309,18 +321,6 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 >
 > **16:1** Preserve me, O God: for in thee do I put my trust. **16:2** O my soul, thou hast said unto Yahweh, Thou art my Lord: my goodness extendeth not to thee; **16:3** But to the saints that are in the earth, and to the excellent, in whom is all my delight. **16:4** Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips. **16:5** Yahweh is the portion of mine inheritance and of my cup: thou maintainest my lot. **16:6** The lines are fallen unto me in pleasant places; yea, I have a goodly heritage. **16:7** I will bless Yahweh, who hath given me counsel: my reins also instruct me in the night seasons. **16:8** I have set Yahweh always before me: because he is at my right hand, I shall not be moved. **16:9** Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope. **16:10** For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption. **16:11** Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.
 
-
-## Story and sacred art
-
-### Simeon Receives the Promised Son
-
-The Holy Ghost led Simeon into the temple, where he took the infant Jesus in his arms and blessed God (Luke 2:25–32). He could depart in peace because he had seen God’s salvation for all peoples.
-
-<figure>
-
-![Simeon receives the infant Jesus from Mary in a Lake Van Armenian Gospel.](/assets/art/unit-18-presentation.jpg)
-<figcaption>The Presentation in the Temple in a 1475 Armenian Gospel.</figcaption>
-</figure>
 
 ## Memory and prayer
 

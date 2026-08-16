@@ -6,6 +6,18 @@ part: "Daily Christian Life"
 title: "Daily Prayers"
 ---
 
+## Story and sacred art
+
+### Daniel Opens His Window to Pray
+
+When prayer to God was forbidden, Daniel continued kneeling three times a day toward Jerusalem (Daniel 6:10–23). He neither advertised a new defiance nor concealed his settled confession, and God preserved him.
+
+<figure>
+
+![The decorated leather binding of an Ethiopian Psalter made for prayer in Geʽez.](/assets/art/unit-34-sensul.jpg)
+<figcaption>An eighteenth-century Ethiopian Psalter, expanded through generations of prayer and use.</figcaption>
+</figure>
+
 
 
 
@@ -111,18 +123,6 @@ Psalm 143. A Psalm of David. 1. Hear my prayer, O Lord, give ear to my supplicat
 >
 > **147:9** He giveth to the beast his food, and to the young ravens which cry. **147:10** He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man. **147:11** Yahweh taketh pleasure in them that fear him, in those that hope in his mercy.
 
-
-## Story and sacred art
-
-### Daniel Opens His Window to Pray
-
-When prayer to God was forbidden, Daniel continued kneeling three times a day toward Jerusalem (Daniel 6:10–23). He neither advertised a new defiance nor concealed his settled confession, and God preserved him.
-
-<figure>
-
-![The decorated leather binding of an Ethiopian Psalter made for prayer in Geʽez.](/assets/art/unit-34-sensul.jpg)
-<figcaption>An eighteenth-century Ethiopian Psalter, expanded through generations of prayer and use.</figcaption>
-</figure>
 
 ## Memory and prayer
 

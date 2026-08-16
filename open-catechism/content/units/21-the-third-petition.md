@@ -6,6 +6,18 @@ part: "Lord’s Prayer"
 title: "Thy Will Be Done: The Third Petition"
 ---
 
+## Story and sacred art
+
+### Christ Prays in Gethsemane
+
+Jesus prayed that the cup might pass from Him, yet submitted to the Father’s will (Matthew 26:36–46). He did not evade the suffering appointed for our salvation, even while His disciples slept.
+
+<figure>
+
+![Christ kneels in prayer while His disciples sleep in an Armenian hymnal illumination.](/assets/art/unit-21-gethsemane.jpg)
+<figcaption>Christ in Gethsemane in an Armenian hymnal.</figcaption>
+</figure>
+
 
 
 
@@ -515,18 +527,6 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 >
 > **19:1** The heavens declare the glory of God; and the firmament sheweth his handywork. **19:2** Day unto day uttereth speech, and night unto night sheweth knowledge. **19:3** There is no speech nor language, where their voice is not heard. **19:4** Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun, **19:5** Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race. **19:6** His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof. **19:7** The law of Yahweh is perfect, converting the soul: the testimony of Yahweh is sure, making wise the simple. **19:8** The statutes of Yahweh are right, rejoicing the heart: the commandment of Yahweh is pure, enlightening the eyes. **19:9** The fear of Yahweh is clean, enduring for ever: the judgments of Yahweh are true and righteous altogether. **19:10** More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb. **19:11** Moreover by them is thy servant warned: and in keeping of them there is great reward. **19:12** Who can understand his errors? cleanse thou me from secret faults. **19:13** Keep back thy servant also from presumptuous sins; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression. **19:14** Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O Yahweh, my strength, and my redeemer.
 
-
-## Story and sacred art
-
-### Christ Prays in Gethsemane
-
-Jesus prayed that the cup might pass from Him, yet submitted to the Father’s will (Matthew 26:36–46). He did not evade the suffering appointed for our salvation, even while His disciples slept.
-
-<figure>
-
-![Christ kneels in prayer while His disciples sleep in an Armenian hymnal illumination.](/assets/art/unit-21-gethsemane.jpg)
-<figcaption>Christ in Gethsemane in an Armenian hymnal.</figcaption>
-</figure>
 
 ## Memory and prayer
 

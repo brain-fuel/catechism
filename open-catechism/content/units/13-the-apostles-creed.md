@@ -6,6 +6,18 @@ part: "Creed"
 title: "The Apostles’ Creed"
 ---
 
+## Story and sacred art
+
+### The Ethiopian Confesses Christ
+
+Philip began with Isaiah and preached Jesus to the Ethiopian traveler (Acts 8:30–39). Hearing the Gospel, the man asked for Baptism and went on his way rejoicing.
+
+<figure>
+
+![Christ blesses an Armenian manuscript’s donor and scribe.](/assets/art/unit-13-christ-scribe.jpg)
+<figcaption>Christ, a donor, and a scribe in a 1342 Armenian Gospel illuminated by Sargis Pitsak.</figcaption>
+</figure>
+
 
 
 
@@ -253,18 +265,6 @@ Answer: I believe and confess that I cannot by my own reason or strength believe
 >
 > **4:4** But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, **4:5** To redeem them that were under the law, that we might receive the adoption of sons. **4:6** And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
 
-
-## Story and sacred art
-
-### The Ethiopian Confesses Christ
-
-Philip began with Isaiah and preached Jesus to the Ethiopian traveler (Acts 8:30–39). Hearing the Gospel, the man asked for Baptism and went on his way rejoicing.
-
-<figure>
-
-![Christ blesses an Armenian manuscript’s donor and scribe.](/assets/art/unit-13-christ-scribe.jpg)
-<figcaption>Christ, a donor, and a scribe in a 1342 Armenian Gospel illuminated by Sargis Pitsak.</figcaption>
-</figure>
 
 ## Memory and prayer
 

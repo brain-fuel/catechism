@@ -6,6 +6,18 @@ part: "Commandments"
 title: "Marriage and Chastity: The Sixth Commandment"
 ---
 
+## Story and sacred art
+
+### Christ Honors a Wedding at Cana
+
+Jesus, His mother, and His disciples attended a wedding in Cana (John 2:1–11). When the wine failed, Jesus supplied what the feast lacked and manifested His glory.
+
+<figure>
+
+![Christ, His mother, the disciples, and servants gather at the marriage feast at Cana in an Armenian illumination.](/assets/art/unit-08-cana.jpg)
+<figcaption>The marriage feast at Cana in a 1455 Armenian Gospel.</figcaption>
+</figure>
+
 
 
 
@@ -617,18 +629,6 @@ Answer: God threatens to punish all who break and transgress these His commandme
 >
 > **119:9**  Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word. **119:10** With my whole heart have I sought thee: O let me not wander from thy commandments. **119:11** Thy word have I hid in mine heart, that I might not sin against thee. **119:12** Blessed art thou, O Yahweh: teach me thy statutes. **119:13** With my lips have I declared all the judgments of thy mouth. **119:14** I have rejoiced in the way of thy testimonies, as much as in all riches. **119:15** I will meditate in thy precepts, and have respect unto thy ways. **119:16** I will delight myself in thy statutes: I will not forget thy word.
 
-
-## Story and sacred art
-
-### Christ Honors a Wedding at Cana
-
-Jesus, His mother, and His disciples attended a wedding in Cana (John 2:1–11). When the wine failed, Jesus supplied what the feast lacked and manifested His glory.
-
-<figure>
-
-![Christ, His mother, the disciples, and servants gather at the marriage feast at Cana in an Armenian illumination.](/assets/art/unit-08-cana.jpg)
-<figcaption>The marriage feast at Cana in a 1455 Armenian Gospel.</figcaption>
-</figure>
 
 ## Memory and prayer
 

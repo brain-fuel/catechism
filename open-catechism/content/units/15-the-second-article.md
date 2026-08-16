@@ -6,6 +6,18 @@ part: "Creed"
 title: "Jesus Christ and Redemption: The Second Article"
 ---
 
+## Story and sacred art
+
+### The Risen Christ Comes to His Disciples
+
+On the evening of the resurrection, Jesus stood among His fearful disciples and showed them His hands and side (John 20:19–23). The crucified Lord was alive, spoke peace, and sent witnesses with forgiveness.
+
+<figure>
+
+![An Ethiopian Gospel leaf presents sacred figures in the bold linear style of Gunda Gunde.](/assets/art/unit-15-ethiopian-gospels.jpg)
+<figcaption>A leaf from the Ethiopian Gunda Gunde Gospels.</figcaption>
+</figure>
+
 **What does the Hebrew name “Jesus” mean?**
 
 Answer: A Saviour; for He saved His people from sin.
@@ -1836,18 +1848,6 @@ Answer: I believe and confess that I cannot by my own reason or strength believe
 >
 > **118:1** O give thanks unto Yahweh; for he is good: because his mercy endureth for ever. **118:2** Let Israel now say, that his mercy endureth for ever. **118:3** Let the house of Aaron now say, that his mercy endureth for ever. **118:4** Let them now that fear Yahweh say, that his mercy endureth for ever. **118:5** I called upon Yahweh in distress: Yahweh answered me, and set me in a large place. **118:6** Yahweh is on my side; I will not fear: what can man do unto me? **118:7** Yahweh taketh my part with them that help me: therefore shall I see my desire upon them that hate me. **118:8** It is better to trust in Yahweh than to put confidence in man. **118:9** It is better to trust in Yahweh than to put confidence in princes. **118:10** All nations compassed me about: but in the name of Yahweh will I destroy them. **118:11** They compassed me about; yea, they compassed me about: but in the name of Yahweh I will destroy them. **118:12** They compassed me about like bees; they are quenched as the fire of thorns: for in the name of Yahweh I will destroy them. **118:13** Thou hast thrust sore at me that I might fall: but Yahweh helped me. **118:14** Yahweh is my strength and song, and is become my salvation. **118:15** The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of Yahweh doeth valiantly. **118:16** The right hand of Yahweh is exalted: the right hand of Yahweh doeth valiantly. **118:17** I shall not die, but live, and declare the works of Yahweh. **118:18** Yahweh hath chastened me sore: but he hath not given me over unto death. **118:19** Open to me the gates of righteousness: I will go into them, and I will praise Yahweh: **118:20** This gate of Yahweh, into which the righteous shall enter. **118:21** I will praise thee: for thou hast heard me, and art become my salvation. **118:22** The stone which the builders refused is become the head stone of the corner. **118:23** This is Yahweh’s doing; it is marvellous in our eyes. **118:24** This is the day which Yahweh hath made; we will rejoice and be glad in it. **118:25** Save now, I beseech thee, O Yahweh: O Yahweh, I beseech thee, send now prosperity. **118:26** Blessed be he that cometh in the name of Yahweh: we have blessed you out of the house of Yahweh. **118:27** God is Yahweh, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar. **118:28** Thou art my God, and I will praise thee: thou art my God, I will exalt thee. **118:29** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
 
-
-## Story and sacred art
-
-### The Risen Christ Comes to His Disciples
-
-On the evening of the resurrection, Jesus stood among His fearful disciples and showed them His hands and side (John 20:19–23). The crucified Lord was alive, spoke peace, and sent witnesses with forgiveness.
-
-<figure>
-
-![An Ethiopian Gospel leaf presents sacred figures in the bold linear style of Gunda Gunde.](/assets/art/unit-15-ethiopian-gospels.jpg)
-<figcaption>A leaf from the Ethiopian Gunda Gunde Gospels.</figcaption>
-</figure>
 
 ## Memory and prayer
 

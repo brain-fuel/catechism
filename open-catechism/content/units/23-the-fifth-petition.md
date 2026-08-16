@@ -6,6 +6,18 @@ part: "Lord’s Prayer"
 title: "Forgive Us Our Trespasses: The Fifth Petition"
 ---
 
+## Story and sacred art
+
+### The Father Receives His Lost Son
+
+The younger son returned with a confession after wasting his inheritance (Luke 15:11–24). His father ran to meet him, restored him openly, and called the household to rejoice.
+
+<figure>
+
+![An aged father embraces his kneeling son in Rembrandt’s painting of the prodigal’s return.](/assets/art/unit-23-prodigal.jpg)
+<figcaption>The return of the prodigal son, painted by Rembrandt late in his life.</figcaption>
+</figure>
+
 
 
 
@@ -309,18 +321,6 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 >
 > **32:1** Blessed is he whose transgression is forgiven, whose sin is covered. **32:2** Blessed is the man unto whom Yahweh imputeth not iniquity, and in whose spirit there is no guile. **32:3** When I kept silence, my bones waxed old through my roaring all the day long. **32:4** For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah. **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah. **32:6** For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him. **32:7** Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah. **32:8** I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye. **32:9** Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee. **32:10** Many sorrows shall be to the wicked: but he that trusteth in Yahweh, mercy shall compass him about. **32:11** Be glad in Yahweh, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.
 
-
-## Story and sacred art
-
-### The Father Receives His Lost Son
-
-The younger son returned with a confession after wasting his inheritance (Luke 15:11–24). His father ran to meet him, restored him openly, and called the household to rejoice.
-
-<figure>
-
-![An aged father embraces his kneeling son in Rembrandt’s painting of the prodigal’s return.](/assets/art/unit-23-prodigal.jpg)
-<figcaption>The return of the prodigal son, painted by Rembrandt late in his life.</figcaption>
-</figure>
 
 ## Memory and prayer
 

@@ -6,6 +6,18 @@ part: "Means of Grace"
 title: "The Means of Grace"
 ---
 
+## Story and sacred art
+
+### The Church Continues in Christ’s Gifts
+
+Those baptized at Pentecost continued in the apostles’ doctrine and fellowship, the breaking of bread, and prayers (Acts 2:41–42). Christ gathered His people through gifts that were heard, received, shared, and prayed.
+
+<figure>
+
+![John dictates the Gospel to Prochoros in an Armenian manuscript portrait.](/assets/art/unit-27-john-prochoros.jpg)
+<figcaption>John and Prochoros in a 1455 Armenian Gospel.</figcaption>
+</figure>
+
 
 
 
@@ -207,18 +219,6 @@ title: "The Means of Grace"
 >
 > **18:18** Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.
 
-
-## Story and sacred art
-
-### The Church Continues in Christ’s Gifts
-
-Those baptized at Pentecost continued in the apostles’ doctrine and fellowship, the breaking of bread, and prayers (Acts 2:41–42). Christ gathered His people through gifts that were heard, received, shared, and prayed.
-
-<figure>
-
-![John dictates the Gospel to Prochoros in an Armenian manuscript portrait.](/assets/art/unit-27-john-prochoros.jpg)
-<figcaption>John and Prochoros in a 1455 Armenian Gospel.</figcaption>
-</figure>
 
 ## Memory and prayer
 

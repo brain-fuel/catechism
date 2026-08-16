@@ -6,6 +6,18 @@ part: "Lord’s Prayer"
 title: "For Thine Is the Kingdom: The Conclusion"
 ---
 
+## Story and sacred art
+
+### The Ascended Lord Reigns
+
+The disciples saw Jesus taken up, and angelic messengers promised that He would come again (Acts 1:6–11). The One to whom the Church prays possesses the kingdom, power, and glory.
+
+<figure>
+
+![The ascending Christ is surrounded by angels above His gathered disciples in an Armenian Gospel.](/assets/art/unit-26-ascension.jpg)
+<figcaption>The Ascension in a 1455 Armenian Gospel.</figcaption>
+</figure>
+
 
 
 
@@ -164,18 +176,6 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 >
 > **99:1** Yahweh reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved. **99:2** Yahweh is great in Zion; and he is high above all the people. **99:3** Let them praise thy great and terrible name; for it is holy. **99:4** The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob. **99:5** Exalt ye Yahweh our God, and worship at his footstool; for he is holy. **99:6** Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon Yahweh, and he answered them. **99:7** He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them. **99:8** Thou answeredst them, O Yahweh our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions. **99:9** Exalt Yahweh our God, and worship at his holy hill; for Yahweh our God is holy.
 
-
-## Story and sacred art
-
-### The Ascended Lord Reigns
-
-The disciples saw Jesus taken up, and angelic messengers promised that He would come again (Acts 1:6–11). The One to whom the Church prays possesses the kingdom, power, and glory.
-
-<figure>
-
-![The ascending Christ is surrounded by angels above His gathered disciples in an Armenian Gospel.](/assets/art/unit-26-ascension.jpg)
-<figcaption>The Ascension in a 1455 Armenian Gospel.</figcaption>
-</figure>
 
 ## Memory and prayer
 

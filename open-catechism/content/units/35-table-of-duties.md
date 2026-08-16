@@ -6,6 +6,18 @@ part: "Daily Christian Life"
 title: "Table of Duties"
 ---
 
+## Story and sacred art
+
+### The Lord Washes His Disciples’ Feet
+
+Jesus rose from supper, laid aside His garments, and washed His disciples’ feet (John 13:1–17). Their Lord and Teacher took a servant’s task and commanded them to serve one another.
+
+<figure>
+
+![Christ kneels to wash a disciple’s feet in an Armenian Gospel illumination.](/assets/art/unit-35-washing-feet.jpg)
+<figcaption>Christ washing the disciples’ feet in a 1475 Armenian Gospel.</figcaption>
+</figure>
+
 
 
 
@@ -255,18 +267,6 @@ For the Common People. All things whatsoever you would that men should do to you
 >
 > **13:9** For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.
 
-
-## Story and sacred art
-
-### The Lord Washes His Disciples’ Feet
-
-Jesus rose from supper, laid aside His garments, and washed His disciples’ feet (John 13:1–17). Their Lord and Teacher took a servant’s task and commanded them to serve one another.
-
-<figure>
-
-![Christ kneels to wash a disciple’s feet in an Armenian Gospel illumination.](/assets/art/unit-35-washing-feet.jpg)
-<figcaption>Christ washing the disciples’ feet in a 1475 Armenian Gospel.</figcaption>
-</figure>
 
 ## Memory and prayer
 

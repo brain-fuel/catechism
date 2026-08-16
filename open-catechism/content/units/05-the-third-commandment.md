@@ -6,6 +6,18 @@ part: "Commandments"
 title: "The Sabbath and God’s Word: The Third Commandment"
 ---
 
+## Story and sacred art
+
+### God Rests and Blesses the Seventh Day
+
+Genesis 2:1–3 closes creation with God resting from His completed work. He blessed and sanctified the seventh day, making His finished work the foundation of holy rest.
+
+<figure>
+
+![Adam and Eve stand amid the creatures and trees of Paradise in an Armenian manuscript illumination.](/assets/art/unit-05-creation.jpg)
+<figcaption>Creation and Paradise in a seventeenth-century Armenian illumination.</figcaption>
+</figure>
+
 
 
 
@@ -567,18 +579,6 @@ Answer: God threatens to punish all who break and transgress these His commandme
 >
 > **119:89**  For ever, O Yahweh, thy word is settled in heaven. **119:90** Thy faithfulness is unto all generations: thou hast established the earth, and it abideth. **119:91** They continue this day according to thine ordinances: for all are thy servants. **119:92** Unless thy law had been my delights, I should then have perished in mine affliction. **119:93** I will never forget thy precepts: for with them thou hast quickened me. **119:94** I am thine, save me; for I have sought thy precepts. **119:95** The wicked have waited for me to destroy me: but I will consider thy testimonies. **119:96** I have seen an end of all perfection: but thy commandment is exceeding broad.
 
-
-## Story and sacred art
-
-### God Rests and Blesses the Seventh Day
-
-Genesis 2:1–3 closes creation with God resting from His completed work. He blessed and sanctified the seventh day, making His finished work the foundation of holy rest.
-
-<figure>
-
-![Adam and Eve stand amid the creatures and trees of Paradise in an Armenian manuscript illumination.](/assets/art/unit-05-creation.jpg)
-<figcaption>Creation and Paradise in a seventeenth-century Armenian illumination.</figcaption>
-</figure>
 
 ## Memory and prayer
 

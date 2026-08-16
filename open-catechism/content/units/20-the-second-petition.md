@@ -6,6 +6,18 @@ part: "Lord’s Prayer"
 title: "Thy Kingdom Come: The Second Petition"
 ---
 
+## Story and sacred art
+
+### Jesus Calls Lazarus from the Tomb
+
+Lazarus had lain four days in the tomb when Jesus commanded the stone removed and cried, “Lazarus, come forth” (John 11:38–44). Death yielded to the King’s life-giving Word.
+
+<figure>
+
+![Christ calls Lazarus from the tomb in an Armenian Gospel illumination.](/assets/art/unit-20-lazarus.jpg)
+<figcaption>The raising of Lazarus in a 1475 Armenian Gospel.</figcaption>
+</figure>
+
 
 
 
@@ -363,18 +375,6 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 >
 > **110:1** Yahweh said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool. **110:2** Yahweh shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies. **110:3** Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth. **110:4** Yahweh hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek. **110:5** The Lord at thy right hand shall strike through kings in the day of his wrath. **110:6** He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries. **110:7** He shall drink of the brook in the way: therefore shall he lift up the head.
 
-
-## Story and sacred art
-
-### Jesus Calls Lazarus from the Tomb
-
-Lazarus had lain four days in the tomb when Jesus commanded the stone removed and cried, “Lazarus, come forth” (John 11:38–44). Death yielded to the King’s life-giving Word.
-
-<figure>
-
-![Christ calls Lazarus from the tomb in an Armenian Gospel illumination.](/assets/art/unit-20-lazarus.jpg)
-<figcaption>The raising of Lazarus in a 1475 Armenian Gospel.</figcaption>
-</figure>
 
 ## Memory and prayer
 
