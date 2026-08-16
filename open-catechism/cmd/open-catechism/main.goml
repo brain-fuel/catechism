@@ -44,6 +44,9 @@ let ValidateSacredArt () : Unit :=
 let ValidateDivineService () : Unit :=
   Shell "set -eu; for heading in 'Introit (Entrance Antiphon)' 'Kyrie (Lord Have Mercy)' 'Gloria in Excelsis (Glory Be to God on High)' 'Collect (Opening Prayer)' 'Epistle Reading' 'Gradual (including Alleluia or Tract)' 'Gospel Reading' 'Nicene Creed' 'Sermon' 'General Prayer (Prayer of the Church)' 'Preface and Sanctus (Holy, Holy, Holy)' 'Institution Narrative (Words of Institution)' 'Agnus Dei (Lamb of God)' 'Distribution (Communion)' 'Post-Communion Collect' 'Nunc Dimittis (Song of Simeon)' 'Benediction (Apostolic Greeting)'; do grep -qF \"### ${heading}\" content/divine-service.md; done; test $(grep -c '^\\*\\*Meaning:\\*\\*' content/divine-service.md) = 17; test $(grep -c '^\\*\\*Catechism:\\*\\*' content/divine-service.md) = 17; test $(grep -c '^\\*\\*Congregation:\\*\\*' content/divine-service.md) = 17; test $(grep -c '^\\*\\*Daily life:\\*\\*' content/divine-service.md) = 17"
 
+let ValidateTableOfDuties () : Unit :=
+  Shell "set -eu; table=$(mktemp); awk '/^### Luther’s Small Catechism$/{on=1} /^## Memory and prayer$/{exit} on{print}' content/units/35-table-of-duties.md > \"$table\"; test $(grep -Ec '^> \\*\\*([1-3] )?[A-Z][^*]* [0-9]+:' \"$table\") = 39; test $(grep -Ec '^### (For |Luther)' \"$table\") = 14; ! grep -qE '^(For (Bishops|Hearers|Civil|Subjects|Husbands|Wives|Parents|Children|Young|Masters|Servants|Widows|the Common).*)[^:]$' \"$table\"; ! grep -vE '^(### |Certain passages|>|$)' \"$table\"; ! grep -q '<a id=' \"$table\"; rm \"$table\""
+
 let BuildWeb () : Unit :=
   Shell "set -eu; test -x .tools/hugo; .tools/hugo --cleanDestinationDir --gc --minify"
 let BuildEPUB () : Unit :=
@@ -59,7 +62,7 @@ let BuildPrintableEditions () : Unit :=
 let main () : Unit := do {
   let line := strings.Join os.Args " ";
   if strings.Contains line " coverage" then Coverage ()
-  else if strings.Contains line " validate" then do { Validate (); ValidateCapitalization (); ValidateFrontMatter (); ValidateImagesAndNames (); ValidateEditorialBoilerplate (); ValidateDecalogue (); ValidateSacredArt (); ValidateDivineService () }
+  else if strings.Contains line " validate" then do { Validate (); ValidateCapitalization (); ValidateFrontMatter (); ValidateImagesAndNames (); ValidateEditorialBoilerplate (); ValidateDecalogue (); ValidateSacredArt (); ValidateDivineService (); ValidateTableOfDuties () }
   else if strings.Contains line " sources" then fmt.Println "offline sources synchronized at 94d44842cb242e8aa840330748e03d2803f2a7c1"
   else if strings.Contains line " build" then do {
     Validate ();
@@ -70,6 +73,7 @@ let main () : Unit := do {
     ValidateDecalogue ();
     ValidateSacredArt ();
     ValidateDivineService ();
+    ValidateTableOfDuties ();
     if strings.Contains line "web" || strings.Contains line "all" then BuildWeb () else Nop ();
     if strings.Contains line "epub" || strings.Contains line "all" then BuildEPUB () else Nop ();
     if strings.Contains line "pdf" || strings.Contains line "all" then BuildPrintableEditions () else Nop ();
