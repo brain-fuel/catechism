@@ -113,22 +113,6 @@ Answer: All men, both friends and enemies, known and unknown, poor and rich, who
 
 As the head of the family should teach them in a simple way to his household.
 
-### The First Commandment
-
-I am Yahweh thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me.
-
-**What does this mean?**
-
-Answer: We should fear and love God above all things, and trust in Him alone.
-
-### The Second Commandment
-
-Thou shalt not take the name of Yahweh thy God in vain; for Yahweh will not hold him guiltless that taketh his name in vain.
-
-**What does this mean?**
-
-Answer: We should fear and love God, so that we do not curse, swear, practice witchcraft, lie, or deceive by His name, but call upon it in every trouble and distress, pray, praise, and give thanks.
-
 ### The Third Commandment
 
 Remember the sabbath day, to keep it holy.
@@ -136,70 +120,6 @@ Remember the sabbath day, to keep it holy.
 **What does this mean?**
 
 Answer: We should fear and love God, so that we do not despise preaching and His Word, but hold it sacred, and gladly hear and learn it.
-
-### The Fourth Commandment
-
-Honour thy father and thy mother: that thy days may be long upon the land which Yahweh thy God giveth thee.
-
-**What does this mean?**
-
-Answer: We should fear and love God, so that we do not despise or anger our parents, our rulers, and our masters, but honor them, serve and obey them, and hold them dear and precious.
-
-### The Fifth Commandment
-
-Thou shalt not kill.
-
-**What does this mean?**
-
-Answer: We should fear and love God, so that we do no harm to our neighbor in his body or life, nor do any wrong against him, but help him, care for him, and defend him in every bodily peril.
-
-### The Sixth Commandment
-
-Thou shalt not commit adultery.
-
-**What does this mean?**
-
-Answer: We should fear and love God, so that we are pure and chaste in thoughts, words, and deeds, and that each one loves and honors his spouse.
-
-### The Seventh Commandment
-
-Thou shalt not steal.
-
-**What does this mean?**
-
-Answer: We should fear and love God, so that we do not take our neighbor's money or goods, nor get them by any wrong or deceit, but help him to improve and protect his property and living.
-
-### The Eighth Commandment
-
-Thou shalt not bear false witness against thy neighbour.
-
-**What does this mean?**
-
-Answer: We should fear and love God, so that we do not lie about our neighbor, nor betray, slander, or bring an evil report upon him, but defend him, think and speak well of him, and put the best construction on all things.
-
-### The Ninth Commandment
-
-Thou shalt not covet thy neighbour’s house.
-
-**What does this mean?**
-
-Answer: We should fear and love God, so that we do not by craft seek after our neighbor's inheritance, property, or house, nor obtain it for ourselves under the pretense of any right or the color of law, but help him that he may keep and enjoy it.
-
-### The Tenth Commandment
-
-Thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.
-
-**What does this mean?**
-
-Answer: We should fear and love God, so that we do not draw away or entice from our neighbor his wife or his servants, but rather help them to stay and do what they are bound to do.
-
-**What does God say of all these commandments?**
-
-Answer: Thus saith Yahweh: I Yahweh thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
-
-**What does this mean?**
-
-Answer: God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
 
 
 <a id="rg-02-3-the-third-commandment-001"></a>
