@@ -148,7 +148,6 @@ Answer: I believe and confess that I cannot by my own reason or strength believe
 
 ### From Law to Faith
 
-These passages locate **From Law to Faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 2:15**
 >
@@ -163,7 +162,6 @@ These passages locate **From Law to Faith** within the whole counsel of Holy Scr
 
 ### God Known in Creation and Conscience
 
-These passages locate **God Known in Creation and Conscience** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 14:17**
 >
@@ -186,7 +184,6 @@ These passages locate **God Known in Creation and Conscience** within the whole 
 
 ### The Holy Trinity
 
-These passages locate **The Holy Trinity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 13:14**
 >
@@ -201,7 +198,6 @@ These passages locate **The Holy Trinity** within the whole counsel of Holy Scri
 
 ### Father, Son, and Spirit
 
-These passages locate **Father, Son, and Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 15:26**
 >
@@ -220,7 +216,6 @@ These passages locate **Father, Son, and Spirit** within the whole counsel of Ho
 
 ### The Work of the Triune God
 
-These passages locate **The Work of the Triune God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:7**
 >
@@ -239,7 +234,6 @@ These passages locate **The Work of the Triune God** within the whole counsel of
 
 ### One God, Varied Gifts
 
-These passages locate **One God, Varied Gifts** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:4-6**
 >
@@ -250,7 +244,6 @@ These passages locate **One God, Varied Gifts** within the whole counsel of Holy
 
 ### Adopted by the Triune God
 
-These passages locate **Adopted by the Triune God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 1:1-13**
 >

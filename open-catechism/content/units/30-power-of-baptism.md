@@ -128,7 +128,6 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 
 ### The Washing of Regeneration
 
-These passages locate **The Washing of Regeneration** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Titus 3:5-8**
 >
@@ -139,7 +138,6 @@ These passages locate **The Washing of Regeneration** within the whole counsel o
 
 ### Nicodemus and the New Birth
 
-These passages locate **Nicodemus and the New Birth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 3:1-15**
 >
@@ -150,7 +148,6 @@ These passages locate **Nicodemus and the New Birth** within the whole counsel o
 
 ### Naaman and the Cleansing Word
 
-These passages locate **Naaman and the Cleansing Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Kings 5:1-15**
 >
@@ -177,7 +174,6 @@ These passages locate **Naaman and the Cleansing Word** within the whole counsel
 
 ### A New Creation, Heirs with Christ
 
-These passages locate **A New Creation, Heirs with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:17**
 >
@@ -196,7 +192,6 @@ These passages locate **A New Creation, Heirs with Christ** within the whole cou
 
 ### An Appeal for a Good Conscience
 
-These passages locate **An Appeal for a Good Conscience** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 3:21**
 >
@@ -207,7 +202,6 @@ These passages locate **An Appeal for a Good Conscience** within the whole couns
 
 ### One Baptism
 
-These passages locate **One Baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:13**
 >
@@ -230,7 +224,6 @@ These passages locate **One Baptism** within the whole counsel of Holy Scripture
 
 ### Baptized with the Holy Spirit
 
-These passages locate **Baptized with the Holy Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:11**
 >
@@ -265,7 +258,6 @@ These passages locate **Baptized with the Holy Spirit** within the whole counsel
 
 ### Devoted to the Apostles' Teaching
 
-These passages locate **Devoted to the Apostles' Teaching** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 2:42-43**
 >
@@ -276,7 +268,6 @@ These passages locate **Devoted to the Apostles' Teaching** within the whole cou
 
 ### Send Out Your Light and Your Truth
 
-These passages locate **Send Out Your Light and Your Truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 43**
 >

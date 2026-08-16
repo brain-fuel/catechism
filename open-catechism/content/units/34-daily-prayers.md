@@ -52,7 +52,6 @@ Psalm 143. A Psalm of David. 1. Hear my prayer, O Lord, give ear to my supplicat
 
 ### Into Your Hands I Commit My Spirit
 
-These passages locate **Into Your Hands I Commit My Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 31:5**
 >
@@ -67,7 +66,6 @@ These passages locate **Into Your Hands I Commit My Spirit** within the whole co
 
 ### In Peace I Will Lie Down and Sleep
 
-These passages locate **In Peace I Will Lie Down and Sleep** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 121**
 >
@@ -86,7 +84,6 @@ These passages locate **In Peace I Will Lie Down and Sleep** within the whole co
 
 ### The Eyes of All Look to You
 
-These passages locate **The Eyes of All Look to You** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 145:15-16**
 >
@@ -97,7 +94,6 @@ These passages locate **The Eyes of All Look to You** within the whole counsel o
 
 ### Made Holy by the Word and Prayer
 
-These passages locate **Made Holy by the Word and Prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 4:4-5**
 >

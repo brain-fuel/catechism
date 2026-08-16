@@ -306,7 +306,6 @@ In the name of Jesus! IN THE NAME OF JESUS!
 
 ### The Spirit Opens Hearts
 
-These passages locate **The Spirit Opens Hearts** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 16:13-15**
 >
@@ -321,7 +320,6 @@ These passages locate **The Spirit Opens Hearts** within the whole counsel of Ho
 
 ### Faith Is God's Gift
 
-These passages locate **Faith Is God's Gift** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:3**
 >
@@ -340,7 +338,6 @@ These passages locate **Faith Is God's Gift** within the whole counsel of Holy S
 
 ### The Natural Man Cannot Believe
 
-These passages locate **The Natural Man Cannot Believe** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:3**
 >
@@ -359,7 +356,6 @@ These passages locate **The Natural Man Cannot Believe** within the whole counse
 
 ### Resisting or Following the Spirit
 
-These passages locate **Resisting or Following the Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 7:51**
 >
@@ -386,7 +382,6 @@ These passages locate **Resisting or Following the Spirit** within the whole cou
 
 ### Faith Comes by the Word
 
-These passages locate **Faith Comes by the Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 4:15**
 >
@@ -433,7 +428,6 @@ These passages locate **Faith Comes by the Word** within the whole counsel of Ho
 
 ### The Means of Grace
 
-These passages locate **The Means of Grace** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 4:15**
 >
@@ -480,7 +474,6 @@ These passages locate **The Means of Grace** within the whole counsel of Holy Sc
 
 ### Washed and Sanctified
 
-These passages locate **Washed and Sanctified** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 1:2**
 >
@@ -499,7 +492,6 @@ These passages locate **Washed and Sanctified** within the whole counsel of Holy
 
 ### A New Heart and Good Works
 
-These passages locate **A New Heart and Good Works** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 2:10**
 >
@@ -522,7 +514,6 @@ These passages locate **A New Heart and Good Works** within the whole counsel of
 
 ### The New Creation
 
-These passages locate **The New Creation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:17**
 >
@@ -545,7 +536,6 @@ These passages locate **The New Creation** within the whole counsel of Holy Scri
 
 ### Living by the Spirit
 
-These passages locate **Living by the Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:31**
 >
@@ -588,7 +578,6 @@ These passages locate **Living by the Spirit** within the whole counsel of Holy 
 
 ### Kept in the Faith
 
-These passages locate **Kept in the Faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 1:5**
 >
@@ -611,7 +600,6 @@ These passages locate **Kept in the Faith** within the whole counsel of Holy Scr
 
 ### The Spirit in Creation
 
-These passages locate **The Spirit in Creation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 1:2**
 >
@@ -630,7 +618,6 @@ These passages locate **The Spirit in Creation** within the whole counsel of Hol
 
 ### Born of the Spirit
 
-These passages locate **Born of the Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 26:17-18**
 >
@@ -653,7 +640,6 @@ These passages locate **Born of the Spirit** within the whole counsel of Holy Sc
 
 ### God Desires All to Be Saved
 
-These passages locate **God Desires All to Be Saved** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:4**
 >
@@ -672,7 +658,6 @@ These passages locate **God Desires All to Be Saved** within the whole counsel o
 
 ### The Invitation Refused
 
-These passages locate **The Invitation Refused** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 7:51**
 >
@@ -695,7 +680,6 @@ These passages locate **The Invitation Refused** within the whole counsel of Hol
 
 ### Chosen and Called
 
-These passages locate **Chosen and Called** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:3**
 >
@@ -714,7 +698,6 @@ These passages locate **Chosen and Called** within the whole counsel of Holy Scr
 
 ### Predestined in Christ
 
-These passages locate **Predestined in Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 13:44-48**
 >
@@ -729,7 +712,6 @@ These passages locate **Predestined in Christ** within the whole counsel of Holy
 
 ### Revealed by the Spirit
 
-These passages locate **Revealed by the Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 1:18-25**
 >
@@ -764,7 +746,6 @@ These passages locate **Revealed by the Spirit** within the whole counsel of Hol
 
 ### Teach Me to Do Your Will
 
-These passages locate **Teach Me to Do Your Will** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 143**
 >
@@ -775,7 +756,6 @@ These passages locate **Teach Me to Do Your Will** within the whole counsel of H
 
 ### The Life of the First Congregation
 
-These passages locate **The Life of the First Congregation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 2:42-47**
 >
@@ -786,7 +766,6 @@ These passages locate **The Life of the First Congregation** within the whole co
 
 ### One Body, One Household
 
-These passages locate **One Body, One Household** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:13**
 >
@@ -801,7 +780,6 @@ These passages locate **One Body, One Household** within the whole counsel of Ho
 
 ### One Flock from Every Nation
 
-These passages locate **One Flock from Every Nation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:27**
 >
@@ -824,7 +802,6 @@ These passages locate **One Flock from Every Nation** within the whole counsel o
 
 ### Christ the Head of the Body
 
-These passages locate **Christ the Head of the Body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 1:18**
 >
@@ -839,7 +816,6 @@ These passages locate **Christ the Head of the Body** within the whole counsel o
 
 ### Rescued and Forgiven
 
-These passages locate **Rescued and Forgiven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 1:13-14**
 >
@@ -854,7 +830,6 @@ These passages locate **Rescued and Forgiven** within the whole counsel of Holy 
 
 ### Built on the Apostles' Foundation
 
-These passages locate **Built on the Apostles' Foundation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 1:1-2**
 >
@@ -869,7 +844,6 @@ These passages locate **Built on the Apostles' Foundation** within the whole cou
 
 ### One Lord, One Faith, One Baptism
 
-These passages locate **One Lord, One Faith, One Baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 4:4-6**
 >
@@ -880,7 +854,6 @@ These passages locate **One Lord, One Faith, One Baptism** within the whole coun
 
 ### With You There Is Forgiveness
 
-These passages locate **With You There Is Forgiveness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:7**
 >
@@ -915,7 +888,6 @@ These passages locate **With You There Is Forgiveness** within the whole counsel
 
 ### The Riches of God's Grace
 
-These passages locate **The Riches of God's Grace** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 2:2**
 >
@@ -938,7 +910,6 @@ These passages locate **The Riches of God's Grace** within the whole counsel of 
 
 ### The Great Exchange
 
-These passages locate **The Great Exchange** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:21**
 >
@@ -961,7 +932,6 @@ These passages locate **The Great Exchange** within the whole counsel of Holy Sc
 
 ### Forgiveness Proclaimed to All Nations
 
-These passages locate **Forgiveness Proclaimed to All Nations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:19**
 >
@@ -980,7 +950,6 @@ These passages locate **Forgiveness Proclaimed to All Nations** within the whole
 
 ### Counted Righteous Through Faith
 
-These passages locate **Counted Righteous Through Faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 15:6**
 >
@@ -1003,7 +972,6 @@ These passages locate **Counted Righteous Through Faith** within the whole couns
 
 ### All God's Promises Are Yes
 
-These passages locate **All God's Promises Are Yes** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 1:20**
 >
@@ -1018,7 +986,6 @@ These passages locate **All God's Promises Are Yes** within the whole counsel of
 
 ### It Is Finished
 
-These passages locate **It Is Finished** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 1:18-19**
 >
@@ -1037,7 +1004,6 @@ These passages locate **It Is Finished** within the whole counsel of Holy Script
 
 ### Forgiveness Delivered by Word and Sacrament
 
-These passages locate **Forgiveness Delivered by Word and Sacrament** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 2:38**
 >
@@ -1056,7 +1022,6 @@ These passages locate **Forgiveness Delivered by Word and Sacrament** within the
 
 ### Known and Kept by God
 
-These passages locate **Known and Kept by God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Timothy 2:19**
 >
@@ -1079,7 +1044,6 @@ These passages locate **Known and Kept by God** within the whole counsel of Holy
 
 ### Salvation in No One Else
 
-These passages locate **Salvation in No One Else** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 4:12**
 >
@@ -1106,7 +1070,6 @@ These passages locate **Salvation in No One Else** within the whole counsel of H
 
 ### The Means the Spirit Uses
 
-These passages locate **The Means the Spirit Uses** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:16**
 >
@@ -1129,7 +1092,6 @@ These passages locate **The Means the Spirit Uses** within the whole counsel of 
 
 ### Life Together in Love
 
-These passages locate **Life Together in Love** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:21**
 >
@@ -1160,7 +1122,6 @@ These passages locate **Life Together in Love** within the whole counsel of Holy
 
 ### Sent to Witness and Proclaim
 
-These passages locate **Sent to Witness and Proclaim** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:9**
 >
@@ -1199,7 +1160,6 @@ These passages locate **Sent to Witness and Proclaim** within the whole counsel 
 
 ### Abiding in the Word
 
-These passages locate **Abiding in the Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:16**
 >
@@ -1218,7 +1178,6 @@ These passages locate **Abiding in the Word** within the whole counsel of Holy S
 
 ### Testing Everything by Scripture
 
-These passages locate **Testing Everything by Scripture** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 6:14**
 >
@@ -1237,7 +1196,6 @@ These passages locate **Testing Everything by Scripture** within the whole couns
 
 ### Beware of False Teachers
 
-These passages locate **Beware of False Teachers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 4:1**
 >
@@ -1260,7 +1218,6 @@ These passages locate **Beware of False Teachers** within the whole counsel of H
 
 ### Sending and Supporting the Ministry
 
-These passages locate **Sending and Supporting the Ministry** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 8-9**
 >
@@ -1291,7 +1248,6 @@ These passages locate **Sending and Supporting the Ministry** within the whole c
 
 ### That They May All Be One
 
-These passages locate **That They May All Be One** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 1:10**
 >
@@ -1310,7 +1266,6 @@ These passages locate **That They May All Be One** within the whole counsel of H
 
 ### Forgiving as We Are Forgiven
 
-These passages locate **Forgiving as We Are Forgiven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 23:34**
 >
@@ -1325,7 +1280,6 @@ These passages locate **Forgiving as We Are Forgiven** within the whole counsel 
 
 ### The Gates of Hell Shall Not Prevail
 
-These passages locate **The Gates of Hell Shall Not Prevail** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 17:12**
 >
@@ -1344,7 +1298,6 @@ These passages locate **The Gates of Hell Shall Not Prevail** within the whole c
 
 ### The Church Under the Cross
 
-These passages locate **The Church Under the Cross** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 4:12-14**
 >
@@ -1367,7 +1320,6 @@ These passages locate **The Church Under the Cross** within the whole counsel of
 
 ### Every Tear Wiped Away
 
-These passages locate **Every Tear Wiped Away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 25:8**
 >
@@ -1386,7 +1338,6 @@ These passages locate **Every Tear Wiped Away** within the whole counsel of Holy
 
 ### The Lord Is My Light and My Salvation
 
-These passages locate **The Lord Is My Light and My Salvation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 27**
 >
@@ -1397,7 +1348,6 @@ These passages locate **The Lord Is My Light and My Salvation** within the whole
 
 ### A Resurrection of the Just and the Unjust
 
-These passages locate **A Resurrection of the Just and the Unjust** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 24:14-21**
 >
@@ -1408,7 +1358,6 @@ These passages locate **A Resurrection of the Just and the Unjust** within the w
 
 ### I Know That My Redeemer Lives
 
-These passages locate **I Know That My Redeemer Lives** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:12-56**
 >
@@ -1435,7 +1384,6 @@ These passages locate **I Know That My Redeemer Lives** within the whole counsel
 
 ### Sown Perishable, Raised in Glory
 
-These passages locate **Sown Perishable, Raised in Glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:42-43**
 >
@@ -1450,7 +1398,6 @@ These passages locate **Sown Perishable, Raised in Glory** within the whole coun
 
 ### The Fire That Is Not Quenched
 
-These passages locate **The Fire That Is Not Quenched** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 66:24**
 >
@@ -1473,7 +1420,6 @@ These passages locate **The Fire That Is Not Quenched** within the whole counsel
 
 ### Death Entered Through Sin
 
-These passages locate **Death Entered Through Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 5:12**
 >
@@ -1488,7 +1434,6 @@ These passages locate **Death Entered Through Sin** within the whole counsel of 
 
 ### Heaven, Our Father's Dwelling
 
-These passages locate **Heaven, Our Father's Dwelling** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Kings 8:30**
 >
@@ -1563,7 +1508,6 @@ These passages locate **Heaven, Our Father's Dwelling** within the whole counsel
 
 ### Fullness of Joy in His Presence
 
-These passages locate **Fullness of Joy in His Presence** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:51-52**
 >
@@ -1582,7 +1526,6 @@ These passages locate **Fullness of Joy in His Presence** within the whole couns
 
 ### Creation Groans for Its Redemption
 
-These passages locate **Creation Groans for Its Redemption** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **James 1:18**
 >
@@ -1601,7 +1544,6 @@ These passages locate **Creation Groans for Its Redemption** within the whole co
 
 ### A New Heaven and a New Earth
 
-These passages locate **A New Heaven and a New Earth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Peter 3:13**
 >
@@ -1640,7 +1582,6 @@ These passages locate **A New Heaven and a New Earth** within the whole counsel 
 
 ### Like a Thief in the Night
 
-These passages locate **Like a Thief in the Night** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Thessalonians 5:2**
 >
@@ -1655,7 +1596,6 @@ These passages locate **Like a Thief in the Night** within the whole counsel of 
 
 ### Keep Watch
 
-These passages locate **Keep Watch** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Mark 13:3-8**
 >
@@ -1674,7 +1614,6 @@ These passages locate **Keep Watch** within the whole counsel of Holy Scripture.
 
 ### Gathered Before the Throne
 
-These passages locate **Gathered Before the Throne** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:51-52**
 >
@@ -1721,7 +1660,6 @@ These passages locate **Gathered Before the Throne** within the whole counsel of
 
 ### The First Resurrection
 
-These passages locate **The First Resurrection** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:52**
 >
@@ -1736,7 +1674,6 @@ These passages locate **The First Resurrection** within the whole counsel of Hol
 
 ### Appointed Once to Die, Then Judgment
 
-These passages locate **Appointed Once to Die, Then Judgment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Thessalonians 4:13-18**
 >
@@ -1775,7 +1712,6 @@ These passages locate **Appointed Once to Die, Then Judgment** within the whole 
 
 ### The Resurrection at the Last Day
 
-These passages locate **The Resurrection at the Last Day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:50-53**
 >
@@ -1798,7 +1734,6 @@ These passages locate **The Resurrection at the Last Day** within the whole coun
 
 ### As the Deer Pants for the Water
 
-These passages locate **As the Deer Pants for the Water** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 42**
 >

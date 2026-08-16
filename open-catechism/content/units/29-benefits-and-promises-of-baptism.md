@@ -123,7 +123,6 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 
 ### The Promise at Pentecost
 
-These passages locate **The Promise at Pentecost** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 2:1-14**
 >
@@ -146,7 +145,6 @@ These passages locate **The Promise at Pentecost** within the whole counsel of H
 
 ### Baptized for the Forgiveness of Sins
 
-These passages locate **Baptized for the Forgiveness of Sins** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 22:16**
 >
@@ -161,7 +159,6 @@ These passages locate **Baptized for the Forgiveness of Sins** within the whole 
 
 ### Buried and Raised with Christ
 
-These passages locate **Buried and Raised with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 1:13-14**
 >
@@ -180,7 +177,6 @@ These passages locate **Buried and Raised with Christ** within the whole counsel
 
 ### Baptism Now Saves You
 
-These passages locate **Baptism Now Saves You** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 3:21**
 >
@@ -195,7 +191,6 @@ These passages locate **Baptism Now Saves You** within the whole counsel of Holy
 
 ### Reconciliation Poured Out in Baptism
 
-These passages locate **Reconciliation Poured Out in Baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 2:2**
 >
@@ -214,7 +209,6 @@ These passages locate **Reconciliation Poured Out in Baptism** within the whole 
 
 ### Washed, Sanctified, Justified
 
-These passages locate **Washed, Sanctified, Justified** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:11**
 >
@@ -225,7 +219,6 @@ These passages locate **Washed, Sanctified, Justified** within the whole counsel
 
 ### The Promise Is for You and Your Children
 
-These passages locate **The Promise Is for You and Your Children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 16:25-34**
 >
@@ -240,7 +233,6 @@ These passages locate **The Promise Is for You and Your Children** within the wh
 
 ### Baptized into One Body
 
-These passages locate **Baptized into One Body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:12-13**
 >
@@ -263,7 +255,6 @@ These passages locate **Baptized into One Body** within the whole counsel of Hol
 
 ### Born Again Through the Living Word
 
-These passages locate **Born Again Through the Living Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 1:23**
 >
@@ -278,7 +269,6 @@ These passages locate **Born Again Through the Living Word** within the whole co
 
 ### Take Heed Lest You Fall
 
-These passages locate **Take Heed Lest You Fall** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:12**
 >
@@ -297,7 +287,6 @@ These passages locate **Take Heed Lest You Fall** within the whole counsel of Ho
 
 ### No Condemnation in Christ
 
-These passages locate **No Condemnation in Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 8:1**
 >
@@ -308,7 +297,6 @@ These passages locate **No Condemnation in Christ** within the whole counsel of 
 
 ### Heal Me, for I Have Sinned Against You
 
-These passages locate **Heal Me, for I Have Sinned Against You** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 41**
 >

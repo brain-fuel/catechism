@@ -32,6 +32,9 @@ let ValidateFrontMatter () : Unit :=
 let ValidateImagesAndNames () : Unit :=
   Shell "set -eu; test $(find assets/art -name '*.png' -type f | wc -l | tr -d ' ') -ge 4; test $(grep -Rl '/assets/art/.*\\.png' content/units | wc -l | tr -d ' ') -ge 4; ! grep -RqF 'Praise ye Yahweh' content/units content/divine-service.md; ! grep -RqF 'Alleluia' content/units content/divine-service.md; grep -RqF 'Hallelujah' content/units; grep -RqF 'Yahweh cried: Yahweh, Yahweh God' content/units; grep -RqF 'sinned against Yahweh' content/units"
 
+let ValidateEditorialBoilerplate () : Unit :=
+  Shell "set -eu; ! grep -RqF 'These passages locate ' content/units content/divine-service.md; ! grep -RqF 'within the whole counsel of Holy Scripture' content/units content/divine-service.md"
+
 let BuildWeb () : Unit :=
   Shell "set -eu; test -x .tools/hugo; .tools/hugo --cleanDestinationDir --gc --minify"
 let BuildEPUB () : Unit :=
@@ -47,13 +50,14 @@ let BuildPDF () : Unit :=
 let main () : Unit := do {
   let line := strings.Join os.Args " ";
   if strings.Contains line " coverage" then Coverage ()
-  else if strings.Contains line " validate" then do { Validate (); ValidateCapitalization (); ValidateFrontMatter (); ValidateImagesAndNames () }
+  else if strings.Contains line " validate" then do { Validate (); ValidateCapitalization (); ValidateFrontMatter (); ValidateImagesAndNames (); ValidateEditorialBoilerplate () }
   else if strings.Contains line " sources" then fmt.Println "offline sources synchronized at 94d44842cb242e8aa840330748e03d2803f2a7c1"
   else if strings.Contains line " build" then do {
     Validate ();
     ValidateCapitalization ();
     ValidateFrontMatter ();
     ValidateImagesAndNames ();
+    ValidateEditorialBoilerplate ();
     if strings.Contains line "web" || strings.Contains line "all" then BuildWeb () else Nop ();
     if strings.Contains line "epub" || strings.Contains line "all" then BuildEPUB () else Nop ();
     if strings.Contains line "pdf" || strings.Contains line "all" then BuildPDF () else Nop ();

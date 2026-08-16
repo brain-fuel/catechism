@@ -143,7 +143,6 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### Ask, Seek, Knock
 
-These passages locate **Ask, Seek, Knock** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 11:9-13**
 >
@@ -154,7 +153,6 @@ These passages locate **Ask, Seek, Knock** within the whole counsel of Holy Scri
 
 ### The Name Not to Be Misused
 
-These passages locate **The Name Not to Be Misused** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 20:7**
 >
@@ -165,7 +163,6 @@ These passages locate **The Name Not to Be Misused** within the whole counsel of
 
 ### God Puts His Name Upon His People
 
-These passages locate **God Puts His Name Upon His People** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 20:24**
 >
@@ -192,7 +189,6 @@ These passages locate **God Puts His Name Upon His People** within the whole cou
 
 ### Taught in Truth and Purity
 
-These passages locate **Taught in Truth and Purity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Jeremiah 23:28**
 >
@@ -207,7 +203,6 @@ These passages locate **Taught in Truth and Purity** within the whole counsel of
 
 ### Let Your Light Shine
 
-These passages locate **Let Your Light Shine** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 4:1**
 >
@@ -226,7 +221,6 @@ These passages locate **Let Your Light Shine** within the whole counsel of Holy 
 
 ### Speaking Falsely in God's Name
 
-These passages locate **Speaking Falsely in God's Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Jeremiah 23:31**
 >
@@ -237,7 +231,6 @@ These passages locate **Speaking Falsely in God's Name** within the whole counse
 
 ### God's Name Blasphemed Because of Us
 
-These passages locate **God's Name Blasphemed Because of Us** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 2:23-24**
 >
@@ -248,7 +241,6 @@ These passages locate **God's Name Blasphemed Because of Us** within the whole c
 
 ### Correcting with Gentleness
 
-These passages locate **Correcting with Gentleness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Timothy 2:23-25**
 >
@@ -263,7 +255,6 @@ These passages locate **Correcting with Gentleness** within the whole counsel of
 
 ### Holding Firm to Sound Doctrine
 
-These passages locate **Holding Firm to Sound Doctrine** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Titus 1:9**
 >
@@ -278,7 +269,6 @@ These passages locate **Holding Firm to Sound Doctrine** within the whole counse
 
 ### How Majestic Is Your Name
 
-These passages locate **How Majestic Is Your Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 8**
 >

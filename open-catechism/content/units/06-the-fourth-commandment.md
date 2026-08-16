@@ -204,7 +204,6 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### Christ's Care for His Mother
 
-These passages locate **Christ's Care for His Mother** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 19:25-27**
 >
@@ -215,7 +214,6 @@ These passages locate **Christ's Care for His Mother** within the whole counsel 
 
 ### Listen to Your Father
 
-These passages locate **Listen to Your Father** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Proverbs 23:22**
 >
@@ -226,7 +224,6 @@ These passages locate **Listen to Your Father** within the whole counsel of Holy
 
 ### The Wise Son Honors His Parents
 
-These passages locate **The Wise Son Honors His Parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Proverbs 15:20**
 >
@@ -237,7 +234,6 @@ These passages locate **The Wise Son Honors His Parents** within the whole couns
 
 ### Rebellion Against Parents
 
-These passages locate **Rebellion Against Parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Samuel 2:12-25**
 >
@@ -256,7 +252,6 @@ These passages locate **Rebellion Against Parents** within the whole counsel of 
 
 ### Do Not Withhold from Parents
 
-These passages locate **Do Not Withhold from Parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Mark 7:10-12**
 >
@@ -267,7 +262,6 @@ These passages locate **Do Not Withhold from Parents** within the whole counsel 
 
 ### Providing for Parents
 
-These passages locate **Providing for Parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 47:11-12**
 >
@@ -282,7 +276,6 @@ These passages locate **Providing for Parents** within the whole counsel of Holy
 
 ### Obedience to Authority
 
-These passages locate **Obedience to Authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 6:1-3**
 >
@@ -301,7 +294,6 @@ These passages locate **Obedience to Authority** within the whole counsel of Hol
 
 ### Honoring Elders and Rulers
 
-These passages locate **Honoring Elders and Rulers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:1-4**
 >
@@ -328,7 +320,6 @@ These passages locate **Honoring Elders and Rulers** within the whole counsel of
 
 ### Obeying God Above Men
 
-These passages locate **Obeying God Above Men** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:18-19**
 >
@@ -355,7 +346,6 @@ These passages locate **Obeying God Above Men** within the whole counsel of Holy
 
 ### The Fourth Commandment
 
-These passages locate **The Fourth Commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 6:3**
 >
@@ -370,7 +360,6 @@ These passages locate **The Fourth Commandment** within the whole counsel of Hol
 
 ### Children Are a Heritage
 
-These passages locate **Children Are a Heritage** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 127**
 >

@@ -96,7 +96,6 @@ Answer: Two things: the Law and the Gospel.
 
 ### The Way: Salvation in Christ Alone
 
-These passages locate **The Way: Salvation in Christ Alone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 5:11-12**
 >
@@ -127,7 +126,6 @@ These passages locate **The Way: Salvation in Christ Alone** within the whole co
 
 ### The Holy Trinity
 
-These passages locate **The Holy Trinity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 17:3**
 >
@@ -146,7 +144,6 @@ These passages locate **The Holy Trinity** within the whole counsel of Holy Scri
 
 ### Adoption as God's Children
 
-These passages locate **Adoption as God's Children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Galatians 4:4-5**
 >
@@ -165,7 +162,6 @@ These passages locate **Adoption as God's Children** within the whole counsel of
 
 ### The Holy Spirit Creates Faith and Confession
 
-These passages locate **The Holy Spirit Creates Faith and Confession** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:3**
 >
@@ -188,7 +184,6 @@ These passages locate **The Holy Spirit Creates Faith and Confession** within th
 
 ### Jesus Is Lord
 
-These passages locate **Jesus Is Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 2:6-7**
 >
@@ -223,7 +218,6 @@ These passages locate **Jesus Is Lord** within the whole counsel of Holy Scriptu
 
 ### The Purpose of Holy Scripture
 
-These passages locate **The Purpose of Holy Scripture** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:1-2**
 >
@@ -250,7 +244,6 @@ These passages locate **The Purpose of Holy Scripture** within the whole counsel
 
 ### The Inspiration and Authority of Scripture
 
-These passages locate **The Inspiration and Authority of Scripture** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Peter 1:21**
 >
@@ -273,7 +266,6 @@ These passages locate **The Inspiration and Authority of Scripture** within the 
 
 ### The Authority and Power of God's Word
 
-These passages locate **The Authority and Power of God's Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:1-4**
 >
@@ -352,7 +344,6 @@ These passages locate **The Authority and Power of God's Word** within the whole
 
 ### Receiving God's Word
 
-These passages locate **Receiving God's Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 17:11**
 >
@@ -371,7 +362,6 @@ These passages locate **Receiving God's Word** within the whole counsel of Holy 
 
 ### Holding Fast to Sound Doctrine
 
-These passages locate **Holding Fast to Sound Doctrine** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 10:5**
 >
@@ -406,7 +396,6 @@ These passages locate **Holding Fast to Sound Doctrine** within the whole counse
 
 ### Rightly Handling the Word of Truth
 
-These passages locate **Rightly Handling the Word of Truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Timothy 2:15**
 >
@@ -417,7 +406,6 @@ These passages locate **Rightly Handling the Word of Truth** within the whole co
 
 ### Rightly Dividing Law and Gospel
 
-These passages locate **Rightly Dividing Law and Gospel** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 6:63**
 >
@@ -436,7 +424,6 @@ These passages locate **Rightly Dividing Law and Gospel** within the whole couns
 
 ### Self-Examination Before the Lord's Supper
 
-These passages locate **Self-Examination Before the Lord's Supper** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:28**
 >

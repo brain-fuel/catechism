@@ -200,7 +200,6 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### Marriage in Creation
 
-These passages locate **Marriage in Creation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 2:15-24**
 >
@@ -211,7 +210,6 @@ These passages locate **Marriage in Creation** within the whole counsel of Holy 
 
 ### What God Has Joined
 
-These passages locate **What God Has Joined** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Mark 10:6-9**
 >
@@ -222,7 +220,6 @@ These passages locate **What God Has Joined** within the whole counsel of Holy S
 
 ### One Flesh
 
-These passages locate **One Flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 19:4-6**
 >
@@ -233,7 +230,6 @@ These passages locate **One Flesh** within the whole counsel of Holy Scripture. 
 
 ### Adultery of the Heart
 
-These passages locate **Adultery of the Heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 5:27-28**
 >
@@ -244,7 +240,6 @@ These passages locate **Adultery of the Heart** within the whole counsel of Holy
 
 ### Sexual Purity
 
-These passages locate **Sexual Purity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:13-18**
 >
@@ -271,7 +266,6 @@ These passages locate **Sexual Purity** within the whole counsel of Holy Scriptu
 
 ### Purity in Word and Thought
 
-These passages locate **Purity in Word and Thought** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:9**
 >
@@ -290,7 +284,6 @@ These passages locate **Purity in Word and Thought** within the whole counsel of
 
 ### Fleeing Immorality
 
-These passages locate **Fleeing Immorality** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:18-20**
 >
@@ -313,7 +306,6 @@ These passages locate **Fleeing Immorality** within the whole counsel of Holy Sc
 
 ### Putting to Death Lust
 
-These passages locate **Putting to Death Lust** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:5**
 >
@@ -332,7 +324,6 @@ These passages locate **Putting to Death Lust** within the whole counsel of Holy
 
 ### Love and Honor in Marriage
 
-These passages locate **Love and Honor in Marriage** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 7:1-11**
 >
@@ -359,7 +350,6 @@ These passages locate **Love and Honor in Marriage** within the whole counsel of
 
 ### Self-Control
 
-These passages locate **Self-Control** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:8-10**
 >
@@ -382,7 +372,6 @@ These passages locate **Self-Control** within the whole counsel of Holy Scriptur
 
 ### The Marriage Bond
 
-These passages locate **The Marriage Bond** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 7:2-5**
 >
@@ -401,7 +390,6 @@ These passages locate **The Marriage Bond** within the whole counsel of Holy Scr
 
 ### Be Fruitful and Multiply
 
-These passages locate **Be Fruitful and Multiply** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 1:26-31**
 >
@@ -432,7 +420,6 @@ These passages locate **Be Fruitful and Multiply** within the whole counsel of H
 
 ### Male and Female He Created Them
 
-These passages locate **Male and Female He Created Them** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 5:1-2**
 >
@@ -443,7 +430,6 @@ These passages locate **Male and Female He Created Them** within the whole couns
 
 ### The Gift of Singleness
 
-These passages locate **The Gift of Singleness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 7:32-34**
 >
@@ -470,7 +456,6 @@ These passages locate **The Gift of Singleness** within the whole counsel of Hol
 
 ### The Honor of Marriage
 
-These passages locate **The Honor of Marriage** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 13:6**
 >
@@ -493,7 +478,6 @@ These passages locate **The Honor of Marriage** within the whole counsel of Holy
 
 ### Christ and the Church
 
-These passages locate **Christ and the Church** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 5:21-33**
 >
@@ -504,7 +488,6 @@ These passages locate **Christ and the Church** within the whole counsel of Holy
 
 ### Divorce and Adultery
 
-These passages locate **Divorce and Adultery** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 7:10-11**
 >
@@ -535,7 +518,6 @@ These passages locate **Divorce and Adultery** within the whole counsel of Holy 
 
 ### Desiring the Lord
 
-These passages locate **Desiring the Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 2:16**
 >
@@ -554,7 +536,6 @@ These passages locate **Desiring the Lord** within the whole counsel of Holy Scr
 
 ### The Body for the Lord
 
-These passages locate **The Body for the Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:19-20**
 >
@@ -569,7 +550,6 @@ These passages locate **The Body for the Lord** within the whole counsel of Holy
 
 ### The Body Not for Immorality
 
-These passages locate **The Body Not for Immorality** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:13**
 >
@@ -584,7 +564,6 @@ These passages locate **The Body Not for Immorality** within the whole counsel o
 
 ### Disordered Desire
 
-These passages locate **Disordered Desire** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 1:8-11**
 >
@@ -607,7 +586,6 @@ These passages locate **Disordered Desire** within the whole counsel of Holy Scr
 
 ### Living as God Created
 
-These passages locate **Living as God Created** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 7:17**
 >
@@ -634,7 +612,6 @@ These passages locate **Living as God Created** within the whole counsel of Holy
 
 ### Keeping the Way Pure
 
-These passages locate **Keeping the Way Pure** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 119:9-16**
 >

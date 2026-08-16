@@ -151,7 +151,6 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 
 ### Walking in Newness of Life
 
-These passages locate **Walking in Newness of Life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 6:4**
 >
@@ -162,7 +161,6 @@ These passages locate **Walking in Newness of Life** within the whole counsel of
 
 ### Dead to Sin, Alive to God
 
-These passages locate **Dead to Sin, Alive to God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 6:1-14**
 >
@@ -173,7 +171,6 @@ These passages locate **Dead to Sin, Alive to God** within the whole counsel of 
 
 ### Put Off the Old Self
 
-These passages locate **Put Off the Old Self** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 4:22**
 >
@@ -184,7 +181,6 @@ These passages locate **Put Off the Old Self** within the whole counsel of Holy 
 
 ### The Old Has Passed Away
 
-These passages locate **The Old Has Passed Away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:17**
 >
@@ -195,7 +191,6 @@ These passages locate **The Old Has Passed Away** within the whole counsel of Ho
 
 ### The Flesh Against the Spirit
 
-These passages locate **The Flesh Against the Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Galatians 5:17**
 >
@@ -206,7 +201,6 @@ These passages locate **The Flesh Against the Spirit** within the whole counsel 
 
 ### The New Self Raised with Christ
 
-These passages locate **The New Self Raised with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:1-10**
 >
@@ -229,7 +223,6 @@ These passages locate **The New Self Raised with Christ** within the whole couns
 
 ### Living Daily in Our Baptism
 
-These passages locate **Living Daily in Our Baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:11**
 >
@@ -256,7 +249,6 @@ These passages locate **Living Daily in Our Baptism** within the whole counsel o
 
 ### He Drew Me Out of Many Waters
 
-These passages locate **He Drew Me Out of Many Waters** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 18**
 >

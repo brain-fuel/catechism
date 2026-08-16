@@ -99,7 +99,6 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### Yours Is the Kingdom, the Power, and the Glory
 
-These passages locate **Yours Is the Kingdom, the Power, and the Glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Chronicles 29:11**
 >
@@ -110,7 +109,6 @@ These passages locate **Yours Is the Kingdom, the Power, and the Glory** within 
 
 ### Every Good Gift from Above
 
-These passages locate **Every Good Gift from Above** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **James 1:17**
 >
@@ -125,7 +123,6 @@ These passages locate **Every Good Gift from Above** within the whole counsel of
 
 ### Far More Than We Ask or Think
 
-These passages locate **Far More Than We Ask or Think** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 1:17**
 >
@@ -148,7 +145,6 @@ These passages locate **Far More Than We Ask or Think** within the whole counsel
 
 ### He Hears the Prayer of the Righteous
 
-These passages locate **He Hears the Prayer of the Righteous** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Proverbs 15:29**
 >
@@ -163,7 +159,6 @@ These passages locate **He Hears the Prayer of the Righteous** within the whole 
 
 ### The Lord Reigns; Holy Is He
 
-These passages locate **The Lord Reigns; Holy Is He** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 99**
 >

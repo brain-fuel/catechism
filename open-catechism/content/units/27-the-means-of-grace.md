@@ -14,7 +14,6 @@ title: "The Means of Grace"
 
 ### The Mysteries of God
 
-These passages locate **The Mysteries of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 4:1**
 >
@@ -33,7 +32,6 @@ These passages locate **The Mysteries of God** within the whole counsel of Holy 
 
 ### Instituted by Christ
 
-These passages locate **Instituted by Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 20:22-23**
 >
@@ -52,7 +50,6 @@ These passages locate **Instituted by Christ** within the whole counsel of Holy 
 
 ### From Circumcision to Baptism
 
-These passages locate **From Circumcision to Baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 2:11-12**
 >
@@ -67,7 +64,6 @@ These passages locate **From Circumcision to Baptism** within the whole counsel 
 
 ### God Works Through Lowly Means
 
-These passages locate **God Works Through Lowly Means** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 1:28**
 >
@@ -82,7 +78,6 @@ These passages locate **God Works Through Lowly Means** within the whole counsel
 
 ### The Word Received by Faith
 
-These passages locate **The Word Received by Faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Thessalonians 2:13**
 >
@@ -113,7 +108,6 @@ These passages locate **The Word Received by Faith** within the whole counsel of
 
 ### The Scriptures Bear Witness to the Word Made Flesh
 
-These passages locate **The Scriptures Bear Witness to the Word Made Flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:1-3**
 >
@@ -140,7 +134,6 @@ These passages locate **The Scriptures Bear Witness to the Word Made Flesh** wit
 
 ### Baptized into Christ
 
-These passages locate **Baptized into Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 3:21**
 >
@@ -167,7 +160,6 @@ These passages locate **Baptized into Christ** within the whole counsel of Holy 
 
 ### Known in the Breaking of Bread
 
-These passages locate **Known in the Breaking of Bread** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:16**
 >
@@ -194,7 +186,6 @@ These passages locate **Known in the Breaking of Bread** within the whole counse
 
 ### He Who Hears You Hears Me
 
-These passages locate **He Who Hears You Hears Me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:18-20**
 >

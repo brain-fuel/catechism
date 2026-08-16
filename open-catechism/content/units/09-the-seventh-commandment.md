@@ -167,7 +167,6 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### Zacchaeus Makes Restitution
 
-These passages locate **Zacchaeus Makes Restitution** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 19:1-10**
 >
@@ -178,7 +177,6 @@ These passages locate **Zacchaeus Makes Restitution** within the whole counsel o
 
 ### Generosity
 
-These passages locate **Generosity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 8:1-7**
 >
@@ -197,7 +195,6 @@ These passages locate **Generosity** within the whole counsel of Holy Scripture.
 
 ### The Thief's Heart
 
-These passages locate **The Thief's Heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 12:6**
 >
@@ -208,7 +205,6 @@ These passages locate **The Thief's Heart** within the whole counsel of Holy Scr
 
 ### Honest Labor
 
-These passages locate **Honest Labor** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Thessalonians 3:6-8**
 >
@@ -223,7 +219,6 @@ These passages locate **Honest Labor** within the whole counsel of Holy Scriptur
 
 ### Honesty and Fair Dealing
 
-These passages locate **Honesty and Fair Dealing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Kings 5:19-25**
 >
@@ -242,7 +237,6 @@ These passages locate **Honesty and Fair Dealing** within the whole counsel of H
 
 ### Making Restitution
 
-These passages locate **Making Restitution** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 22:14**
 >
@@ -253,7 +247,6 @@ These passages locate **Making Restitution** within the whole counsel of Holy Sc
 
 ### Protecting a Neighbor's Property
 
-These passages locate **Protecting a Neighbor's Property** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Deuteronomy 22:1**
 >
@@ -284,7 +277,6 @@ These passages locate **Protecting a Neighbor's Property** within the whole coun
 
 ### God Provides the Harvest
 
-These passages locate **God Provides the Harvest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Deuteronomy 8:7-10**
 >
@@ -303,7 +295,6 @@ These passages locate **God Provides the Harvest** within the whole counsel of H
 
 ### Inheritance and Instruction
 
-These passages locate **Inheritance and Instruction** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Hebrews 11:20**
 >
@@ -318,7 +309,6 @@ These passages locate **Inheritance and Instruction** within the whole counsel o
 
 ### Work and Diligence
 
-These passages locate **Work and Diligence** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Thessalonians 3:10-12**
 >
@@ -333,7 +323,6 @@ These passages locate **Work and Diligence** within the whole counsel of Holy Sc
 
 ### Providing for One's Household
 
-These passages locate **Providing for One's Household** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 5:8**
 >
@@ -344,7 +333,6 @@ These passages locate **Providing for One's Household** within the whole counsel
 
 ### Giving to the Poor
 
-These passages locate **Giving to the Poor** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 3:17**
 >
@@ -371,7 +359,6 @@ These passages locate **Giving to the Poor** within the whole counsel of Holy Sc
 
 ### Supporting Gospel Workers
 
-These passages locate **Supporting Gospel Workers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 9:14**
 >
@@ -386,7 +373,6 @@ These passages locate **Supporting Gospel Workers** within the whole counsel of 
 
 ### Stewardship of Creation
 
-These passages locate **Stewardship of Creation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Deuteronomy 22:6**
 >
@@ -405,7 +391,6 @@ These passages locate **Stewardship of Creation** within the whole counsel of Ho
 
 ### The Blessing of the Generous
 
-These passages locate **The Blessing of the Generous** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 112**
 >

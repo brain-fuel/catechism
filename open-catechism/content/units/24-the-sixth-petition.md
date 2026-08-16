@@ -126,7 +126,6 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### The Sower and the Soils
 
-These passages locate **The Sower and the Soils** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Mark 4:1-20**
 >
@@ -137,7 +136,6 @@ These passages locate **The Sower and the Soils** within the whole counsel of Ho
 
 ### The Tempter and Our Own Desire
 
-These passages locate **The Tempter and Our Own Desire** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 5:8-9**
 >
@@ -176,7 +174,6 @@ These passages locate **The Tempter and Our Own Desire** within the whole counse
 
 ### Watch and Pray
 
-These passages locate **Watch and Pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:12-13**
 >
@@ -199,7 +196,6 @@ These passages locate **Watch and Pray** within the whole counsel of Holy Script
 
 ### Flee, Lest You Fall Away
 
-These passages locate **Flee, Lest You Fall Away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Galatians 5:19-21**
 >
@@ -226,7 +222,6 @@ These passages locate **Flee, Lest You Fall Away** within the whole counsel of H
 
 ### Armed with the Word
 
-These passages locate **Armed with the Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:13**
 >
@@ -253,7 +248,6 @@ These passages locate **Armed with the Word** within the whole counsel of Holy S
 
 ### God Tests, but Does Not Tempt
 
-These passages locate **God Tests, but Does Not Tempt** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 22:1-19**
 >
@@ -280,7 +274,6 @@ These passages locate **God Tests, but Does Not Tempt** within the whole counsel
 
 ### Under the Shadow of the Almighty
 
-These passages locate **Under the Shadow of the Almighty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 91**
 >

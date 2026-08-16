@@ -158,7 +158,6 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### Ahab Covets Naboth's Vineyard
 
-These passages locate **Ahab Covets Naboth's Vineyard** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Kings 21:1-16**
 >
@@ -169,7 +168,6 @@ These passages locate **Ahab Covets Naboth's Vineyard** within the whole counsel
 
 ### The Root of Coveting
 
-These passages locate **The Root of Coveting** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **James 4:1-2**
 >
@@ -184,7 +182,6 @@ These passages locate **The Root of Coveting** within the whole counsel of Holy 
 
 ### Greed for More
 
-These passages locate **Greed for More** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 5:8**
 >
@@ -199,7 +196,6 @@ These passages locate **Greed for More** within the whole counsel of Holy Script
 
 ### Coveting What Belongs to Another
 
-These passages locate **Coveting What Belongs to Another** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Samuel 11:2-4**
 >
@@ -218,7 +214,6 @@ These passages locate **Coveting What Belongs to Another** within the whole coun
 
 ### Contentment
 
-These passages locate **Contentment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 6:8-10**
 >
@@ -241,7 +236,6 @@ These passages locate **Contentment** within the whole counsel of Holy Scripture
 
 ### Regarding Others' Interests
 
-These passages locate **Regarding Others' Interests** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Philippians 2:4**
 >
@@ -252,7 +246,6 @@ These passages locate **Regarding Others' Interests** within the whole counsel o
 
 ### The Lord Provides
 
-These passages locate **The Lord Provides** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Proverbs 10:3**
 >
@@ -263,7 +256,6 @@ These passages locate **The Lord Provides** within the whole counsel of Holy Scr
 
 ### God Satisfies the Longing Soul
 
-These passages locate **God Satisfies the Longing Soul** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 107:6-9**
 >
@@ -274,7 +266,6 @@ These passages locate **God Satisfies the Longing Soul** within the whole counse
 
 ### Desire That Leads to Sin
 
-These passages locate **Desire That Leads to Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:5**
 >
@@ -289,7 +280,6 @@ These passages locate **Desire That Leads to Sin** within the whole counsel of H
 
 ### Delight in the Lord
 
-These passages locate **Delight in the Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Philippians 4:8**
 >
@@ -308,7 +298,6 @@ These passages locate **Delight in the Lord** within the whole counsel of Holy S
 
 ### Do Not Fret
 
-These passages locate **Do Not Fret** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 37**
 >

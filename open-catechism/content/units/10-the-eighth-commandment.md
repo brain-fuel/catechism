@@ -167,7 +167,6 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### Speaking Well of Others
 
-These passages locate **Speaking Well of Others** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Mark 14:3-9**
 >
@@ -178,7 +177,6 @@ These passages locate **Speaking Well of Others** within the whole counsel of Ho
 
 ### A Good Name
 
-These passages locate **A Good Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ecclesiastes 7:1**
 >
@@ -193,7 +191,6 @@ These passages locate **A Good Name** within the whole counsel of Holy Scripture
 
 ### False Witness and Lying
 
-These passages locate **False Witness and Lying** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Kings 21:13**
 >
@@ -216,7 +213,6 @@ These passages locate **False Witness and Lying** within the whole counsel of Ho
 
 ### Betrayal and Slander
 
-These passages locate **Betrayal and Slander** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Samuel 22:6-19**
 >
@@ -235,7 +231,6 @@ These passages locate **Betrayal and Slander** within the whole counsel of Holy 
 
 ### Slander and Deceit
 
-These passages locate **Slander and Deceit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Samuel 15:1-6**
 >
@@ -254,7 +249,6 @@ These passages locate **Slander and Deceit** within the whole counsel of Holy Sc
 
 ### Defending the Accused
 
-These passages locate **Defending the Accused** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 7:36-50**
 >
@@ -269,7 +263,6 @@ These passages locate **Defending the Accused** within the whole counsel of Holy
 
 ### Speaking Up for Others
 
-These passages locate **Speaking Up for Others** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Samuel 19:1-7**
 >
@@ -288,7 +281,6 @@ These passages locate **Speaking Up for Others** within the whole counsel of Hol
 
 ### Love Covers and Believes the Best
 
-These passages locate **Love Covers and Believes the Best** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 13:7**
 >
@@ -311,7 +303,6 @@ These passages locate **Love Covers and Believes the Best** within the whole cou
 
 ### Faithful Correction
 
-These passages locate **Faithful Correction** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Thessalonians 5:14**
 >
@@ -330,7 +321,6 @@ These passages locate **Faithful Correction** within the whole counsel of Holy S
 
 ### The Midwives Fear God
 
-These passages locate **The Midwives Fear God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 1:15-20**
 >
@@ -341,7 +331,6 @@ These passages locate **The Midwives Fear God** within the whole counsel of Holy
 
 ### God, Contend for Me
 
-These passages locate **God, Contend for Me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 35**
 >

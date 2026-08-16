@@ -120,7 +120,6 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### The Fall and the Curse
 
-These passages locate **The Fall and the Curse** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 3:1-19**
 >
@@ -131,7 +130,6 @@ These passages locate **The Fall and the Curse** within the whole counsel of Hol
 
 ### The Lord Will Keep You from All Evil
 
-These passages locate **The Lord Will Keep You from All Evil** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Thessalonians 3:3**
 >
@@ -146,7 +144,6 @@ These passages locate **The Lord Will Keep You from All Evil** within the whole 
 
 ### Deliver Me from My Enemies
 
-These passages locate **Deliver Me from My Enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 20:1-2**
 >
@@ -161,7 +158,6 @@ These passages locate **Deliver Me from My Enemies** within the whole counsel of
 
 ### Through Many Tribulations
 
-These passages locate **Through Many Tribulations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 14:22**
 >
@@ -188,7 +184,6 @@ These passages locate **Through Many Tribulations** within the whole counsel of 
 
 ### Rescued from This Evil Age
 
-These passages locate **Rescued from This Evil Age** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Thessalonians 3:3**
 >
@@ -215,7 +210,6 @@ These passages locate **Rescued from This Evil Age** within the whole counsel of
 
 ### The Evil One Unmasked
 
-These passages locate **The Evil One Unmasked** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 5:8**
 >
@@ -242,7 +236,6 @@ These passages locate **The Evil One Unmasked** within the whole counsel of Holy
 
 ### The Father of Lies
 
-These passages locate **The Father of Lies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 2:1-2**
 >
@@ -265,7 +258,6 @@ These passages locate **The Father of Lies** within the whole counsel of Holy Sc
 
 ### A Very Present Help in Trouble
 
-These passages locate **A Very Present Help in Trouble** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Thessalonians 3:3**
 >
@@ -284,7 +276,6 @@ These passages locate **A Very Present Help in Trouble** within the whole counse
 
 ### Our Dwelling Place in All Generations
 
-These passages locate **Our Dwelling Place in All Generations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 90**
 >

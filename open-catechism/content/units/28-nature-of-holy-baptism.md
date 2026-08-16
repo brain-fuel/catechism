@@ -101,7 +101,6 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 
 ### Baptizing in the Triune Name
 
-These passages locate **Baptizing in the Triune Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 28:19**
 >
@@ -112,7 +111,6 @@ These passages locate **Baptizing in the Triune Name** within the whole counsel 
 
 ### The Baptism of Jesus
 
-These passages locate **The Baptism of Jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 3:13-17**
 >
@@ -123,7 +121,6 @@ These passages locate **The Baptism of Jesus** within the whole counsel of Holy 
 
 ### The Word Means Washing
 
-These passages locate **The Word Means Washing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Mark 7:4**
 >
@@ -134,7 +131,6 @@ These passages locate **The Word Means Washing** within the whole counsel of Hol
 
 ### The Washing of Water with the Word
 
-These passages locate **The Washing of Water with the Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 5:25-26**
 >
@@ -145,7 +141,6 @@ These passages locate **The Washing of Water with the Word** within the whole co
 
 ### Baptizing and Teaching
 
-These passages locate **Baptizing and Teaching** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 28:19-20**
 >
@@ -156,7 +151,6 @@ These passages locate **Baptizing and Teaching** within the whole counsel of Hol
 
 ### Where His Name Is, There He Blesses
 
-These passages locate **Where His Name Is, There He Blesses** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Kings 8:27-30**
 >
@@ -179,7 +173,6 @@ These passages locate **Where His Name Is, There He Blesses** within the whole c
 
 ### Stewards of the Mysteries
 
-These passages locate **Stewards of the Mysteries** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 4:1**
 >
@@ -190,7 +183,6 @@ These passages locate **Stewards of the Mysteries** within the whole counsel of 
 
 ### Households Baptized
 
-These passages locate **Households Baptized** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 1:16**
 >
@@ -217,7 +209,6 @@ These passages locate **Households Baptized** within the whole counsel of Holy S
 
 ### Born in Sin, Born Again
 
-These passages locate **Born in Sin, Born Again** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 3:5-6**
 >
@@ -240,7 +231,6 @@ These passages locate **Born in Sin, Born Again** within the whole counsel of Ho
 
 ### The Faith of Little Children
 
-These passages locate **The Faith of Little Children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 10**
 >
@@ -287,7 +277,6 @@ These passages locate **The Faith of Little Children** within the whole counsel 
 
 ### Baptized Without Delay
 
-These passages locate **Baptized Without Delay** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 6:2**
 >
@@ -322,7 +311,6 @@ These passages locate **Baptized Without Delay** within the whole counsel of Hol
 
 ### The Lord Will Fulfill His Purpose for Me
 
-These passages locate **The Lord Will Fulfill His Purpose for Me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 138**
 >

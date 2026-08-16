@@ -146,7 +146,6 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### The Unforgiving Servant
 
-These passages locate **The Unforgiving Servant** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 18:21-35**
 >
@@ -157,7 +156,6 @@ These passages locate **The Unforgiving Servant** within the whole counsel of Ho
 
 ### Have Mercy on Me, a Sinner
 
-These passages locate **Have Mercy on Me, a Sinner** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 18:13**
 >
@@ -176,7 +174,6 @@ These passages locate **Have Mercy on Me, a Sinner** within the whole counsel of
 
 ### Hidden Faults and Honest Confession
 
-These passages locate **Hidden Faults and Honest Confession** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 32:10**
 >
@@ -195,7 +192,6 @@ These passages locate **Hidden Faults and Honest Confession** within the whole c
 
 ### Sin Separates, Faith Shields
 
-These passages locate **Sin Separates, Faith Shields** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 6:16-18**
 >
@@ -214,7 +210,6 @@ These passages locate **Sin Separates, Faith Shields** within the whole counsel 
 
 ### Blessed Is the One Whose Sin Is Covered
 
-These passages locate **Blessed Is the One Whose Sin Is Covered** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:8-10**
 >
@@ -237,7 +232,6 @@ These passages locate **Blessed Is the One Whose Sin Is Covered** within the who
 
 ### Seventy Times Seven
 
-These passages locate **Seventy Times Seven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 1:15**
 >
@@ -268,7 +262,6 @@ These passages locate **Seventy Times Seven** within the whole counsel of Holy S
 
 ### As We Forgive Our Debtors
 
-These passages locate **As We Forgive Our Debtors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 6:12**
 >
@@ -279,7 +272,6 @@ These passages locate **As We Forgive Our Debtors** within the whole counsel of 
 
 ### Reconciled, and Reconciling
 
-These passages locate **Reconciled, and Reconciling** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:13**
 >
@@ -302,7 +294,6 @@ These passages locate **Reconciled, and Reconciling** within the whole counsel o
 
 ### Love Keeps No Record of Wrongs
 
-These passages locate **Love Keeps No Record of Wrongs** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 13:4-5**
 >
@@ -313,7 +304,6 @@ These passages locate **Love Keeps No Record of Wrongs** within the whole counse
 
 ### You Forgave the Iniquity of My Sin
 
-These passages locate **You Forgave the Iniquity of My Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 32**
 >
