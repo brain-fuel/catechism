@@ -15,3 +15,9 @@ software is copied. The full pinned content inventory is authenticated by
 
 See `licenses/BRAIN-FUEL-LICENSING.md`, `CC0-1.0.txt`, and `CC-BY-4.0.txt`.
 
+## Fonts
+
+- Overpass, Red Hat, SIL Open Font License 1.1. The license text is bundled at
+  `assets/fonts/OFL-Overpass.txt`.
+- Atkinson Hyperlegible, Braille Institute, SIL Open Font License 1.1. The
+  license text is bundled at `assets/fonts/OFL-Atkinson-Hyperlegible.txt`.
