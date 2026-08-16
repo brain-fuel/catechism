@@ -6,15 +6,6 @@ part: "Commandments"
 title: "The Ten Commandments"
 ---
 
-<figure>
-
-![Moses stands upon Sinai holding the two stone tablets as Israel gathers below.](/assets/art/moses-at-sinai.png)
-<figcaption>Moses receives the Commandments at Sinai.</figcaption>
-</figure>
-
-
-
-
 **What does the Law teach?**
 
 Answer: The Law teaches what we ought to do and to shun, and how we ought to conduct ourselves in all our life toward God and our neighbour in thoughts, words, and deeds.
@@ -466,30 +457,6 @@ In Exodus 14, Israel stood trapped between Pharaoh’s army and the sea. Yahweh 
 <figcaption>The crossing of the Red Sea in a nineteenth-century Ethiopian church painting.</figcaption>
 </figure>
 
-## Bible narratives
-
-### The Word heard
-Read Exodus 20:1-22 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
-
-### Faith in daily trial
-Read 1 Thessalonians 4:3. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
-
-## Church narratives
-
-### The catechism in the household
-Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
-
-### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
-
-## Illustrations
-
-### Open books at the window
-The cover woodcut gathers Bible, catechism, Baptism, and the Supper around the light of the cross.
-
-### Household reading
-Picture a household gathered without spectacle: one reads the fixed text, another answers, and all return to Scripture.
-
 ## Memory and prayer
 
 **Memory passage:** Exodus 20:1-22.
@@ -507,7 +474,5 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 - Resource groups: 16; reference occurrences: 49. Each group retains its source filename and numeric key in its stable ID.
 
 - Scripture: King James Version text from the pinned Open Catechism dataset; Divine Name and Third-Person terminology follow the editorial policy.
-
-- Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
 - Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

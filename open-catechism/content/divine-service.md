@@ -41,9 +41,9 @@ name.
 
 Isaiah’s temple vision (Isaiah 6:1–8) moves from holiness through absolution to
 sending; the Emmaus disciples hear the Scriptures and know Christ in the
-breaking of bread (Luke 24:13–35). The edition’s open-book woodcut marks the
-four movements: cross-shaped light, opened Scripture, baptismal shell, and
-bread and fruit.
+breaking of bread (Luke 24:13–35). Together these accounts trace the movement
+from God’s gracious presence and spoken Word to forgiveness, Communion, and
+the Christian’s return to daily vocation.
 
 - *Common Service Book of the Lutheran Church* (Philadelphia, 1917), public
   domain.
