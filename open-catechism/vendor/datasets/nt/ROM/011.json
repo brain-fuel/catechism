@@ -1,0 +1,299 @@
+{
+  "book_id": "ROM",
+  "latin_name": "Epistula ad Romanos",
+  "greek_name": "Πρὸς Ῥωμαίους",
+  "finnish_name": "Kirje roomalaisille",
+  "swedish_name": "S. Pauli Epistel Til the Romare",
+  "english_name": "The Epistle of Paul the Apostle to the Romans",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Dico ergo: Numquid Deus repulit populum suum? Absit. Nam et ego Israëlita sum ex semine Abraham, de tribu Benjamin:",
+      "greek_textus_receptus": "λέγω οὖν μὴ ἀπώσατο ὁ θεὸς τὸν λαὸν αὐτοῦ μὴ γένοιτο καὶ γὰρ ἐγὼ ἰσραηλίτης εἰμί ἐκ σπέρματος ἀβραάμ φυλῆς βενιαμίν",
+      "finnish_biblia": "Niin minä siis sanon: onkos Jumala kansansa hyljännyt? Pois se! sillä minä olen myös Israelilainen, Abrahamin siemenestä, Benjaminin suvusta. ",
+      "swedish_karl_xii": "Så säger jagh nu: Hafwer tå Gudh bortkastat sitt folck? Bort thet: ty jagh är ock en Jsraelit, af Abrahams sådh, af Ben Jamins slächte.",
+      "king_james": "I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, *of* the tribe of Benjamin."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "non repulit Deus plebem suam, quam præscivit. An nescitis in Elia quid dicit Scriptura? quemadmodum interpellat Deum adversum Israël:",
+      "greek_textus_receptus": "οὐκ ἀπώσατο ὁ θεὸς τὸν λαὸν αὐτοῦ ὃν προέγνω ἢ οὐκ οἴδατε ἐν ἠλίᾳ τί λέγει ἡ γραφή ὡς ἐντυγχάνει τῷ θεῷ κατὰ τοῦ ἰσραήλ λέγων,",
+      "finnish_biblia": "Ei Jumala ole kansaansa hyljännyt, jonka hän ennen on tuntenut. Ettekö te tiedä, mitä Raamattu Eliaasta sanoo? kuinka hän rukoilee Jumalaa Israelia vastaan, sanoen: ",
+      "swedish_karl_xii": "Gudh hafwer icke bortkastat sitt folck, som han hade föresedt tilförene. Eller weten J icke hwad Skriften säger om Elias? Huru han går fram för Gudh emot Jsrael, och säger:",
+      "king_james": "God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Domine, prophetas tuos occiderunt, altaria tua suffoderunt: et ego relictus sum solus, et quærunt animam meam.",
+      "greek_textus_receptus": "κύριε τοὺς προφήτας σου ἀπέκτειναν καὶ τὰ θυσιαστήριά σου κατέσκαψαν κἀγὼ ὑπελείφθην μόνος καὶ ζητοῦσιν τὴν ψυχήν μου",
+      "finnish_biblia": "Herra, he ovat tappaneet sinun prophetas ja sinun alttaris kukistaneet, ja minä yksinäni jäin, ja he etsivät minunkin henkeäni. ",
+      "swedish_karl_xii": "Herre, the hafwa dräpit tina Propheter, och hafwa slagit nedh tin altare: och jagh är allena igenblifwen; och the fara efter mitt lijf.",
+      "king_james": "Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Sed quid dicit illi divinum responsum? Reliqui mihi septem millia virorum, qui non curvaverunt genua ante Baal.",
+      "greek_textus_receptus": "ἀλλὰ τί λέγει αὐτῷ ὁ χρηματισμός κατέλιπον ἐμαυτῷ ἑπτακισχιλίους ἄνδρας οἵτινες οὐκ ἔκαμψαν γόνυ τῇ βάαλ",
+      "finnish_biblia": "Mutta mitä Jumalan vastaus sanoo hänelle? Minä olen itselleni jättänyt seitsemäntuhatta miestä, jotka ei ole Baalille polviansa taivuttaneet. ",
+      "swedish_karl_xii": "Men hwad säger honom Gudz swar? Jagh hafwer migh igenlefdt siutusend män, som icke hafwa bögdt sin knää för Baal.",
+      "king_james": "But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to *the image of* Baal."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Sic ergo et in hoc tempore reliquiæ secundum electionem gratiæ salvæ factæ sunt.",
+      "greek_textus_receptus": "οὕτως οὖν καὶ ἐν τῷ νῦν καιρῷ λεῖμμα κατ᾽ ἐκλογὴν χάριτος γέγονεν",
+      "finnish_biblia": "Niin ovat jääneet tälläkin ajalla armon valitsemisen jälkeen. ",
+      "swedish_karl_xii": "Så är thet ock i thenna tiden medh the igenlefda, efter nådenes vthkorelse.",
+      "king_james": "Even so then at this present time also there is a remnant according to the election of grace."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Si autem gratia, jam non ex operibus: alioquin gratia jam non est gratia.",
+      "greek_textus_receptus": "εἰ δὲ χάριτι οὐκέτι ἐξ ἔργων ἐπεὶ ἡ χάρις οὐκέτι γίνεται χάρις εἰ δὲ ἐξ ἔργων οὐκέτι ἐστὶν χάρις ἐπεὶ τὸ ἔργον οὐκέτι ἐστίν ἔργον",
+      "finnish_biblia": "Mutta jos se armosta on, niin ei se ole enään töistä, sillä ei armo muutoin armo olisikaan. Mutta jos se on töistä, niin ei se silleen armo ole; muutoin ei työ enään ole työ. ",
+      "swedish_karl_xii": "Är thet nu af nådh, så är thet icke af gierningom; annars wore nådh icke nådh: är thet ock af gierningom, så är thet nu icke nådh; annars är gierning icke gierning.",
+      "king_james": "And if by grace, then *is it* no more of works: otherwise grace is no more grace. But if *it be* of works, then is it no more grace: otherwise work is no more work."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Quid ergo? Quod quærebat Israël, hoc non est consecutus: electio autem consecuta est: ceteri vero excæcati sunt:",
+      "greek_textus_receptus": "τί οὖν ὃ ἐπιζητεῖ ἰσραήλ τούτου οὐκ ἐπέτυχεν ἡ δὲ ἐκλογὴ ἐπέτυχεν οἱ δὲ λοιποὶ ἐπωρώθησαν",
+      "finnish_biblia": "Kuinkas siis? Jota Israel etsii, sitä ei hän ole saanut; mutta valitut sen ovat saaneet ja ne muut ovat paatuneet, ",
+      "swedish_karl_xii": "Huru äret tå? Thet Jsrael söker, thet får han icke; men vthkorelsen får thet: the andre äro förblindade.",
+      "king_james": "What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "sicut scriptum est: Dedit illis Deus spiritum compunctionis: oculos ut non videant, et aures ut non audiant, usque in hodiernum diem.",
+      "greek_textus_receptus": "καθὼς γέγραπται ἕδωκεν αὐτοῖς ὁ θεὸς πνεῦμα κατανύξεως ὀφθαλμοὺς τοῦ μὴ βλέπειν καὶ ὦτα τοῦ μὴ ἀκούειν ἕως τῆς σήμερον ἡμέρας",
+      "finnish_biblia": "(Niinkuin kirjoitettu on: Jumala on antanut heille uppiniskaisen hengen, silmät, ettei he näkisi, ja korvat, ettei he kuulisi) tähän päivään asti. ",
+      "swedish_karl_xii": "Såsom skrifwit är: Gudh hafwer gifwit them en förbittrad anda; ögon, at the icke see skola, och öron, at the icke höra skola, alt här til dags.",
+      "king_james": "(According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Et David dicit: Fiat mensa eorum in laqueum, et in captionem, et in scandalum, et in retributionem illis.",
+      "greek_textus_receptus": "καὶ δαβὶδ λέγει γενηθήτω ἡ τράπεζα αὐτῶν εἰς παγίδα καὶ εἰς θήραν καὶ εἰς σκάνδαλον καὶ εἰς ἀνταπόδομα αὐτοῖς",
+      "finnish_biblia": "Ja David sanoo: heidän pöytänsä tulkoon heille paulaksi, ja satimeksi, ja pahennukseksi, ja kostoksi. ",
+      "swedish_karl_xii": "Och David säger: Lät theras bord warda een snaro, och til bekaijelse, och til förargelse, och them til theras rätta löön.",
+      "king_james": "And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Obscurentur oculi eorum ne videant: et dorsum eorum semper incurva.",
+      "greek_textus_receptus": "σκοτισθήτωσαν οἱ ὀφθαλμοὶ αὐτῶν τοῦ μὴ βλέπειν καὶ τὸν νῶτον αὐτῶν διαπαντός σύγκαμψον",
+      "finnish_biblia": "Heidän silmänsä soetkoon, ettei he näkisi, ja taita aina heidän selkänsä! ",
+      "swedish_karl_xii": "Warde theras ögon förblindad, at the icke see; och bög theras rygg altid.",
+      "king_james": "Let their eyes be darkened, that they may not see, and bow down their back alway."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Dico ergo: Numquid sic offenderunt ut caderent? Absit. Sed illorum delicto, salus est gentibus ut illos æmulentur.",
+      "greek_textus_receptus": "λέγω οὖν μὴ ἔπταισαν ἵνα πέσωσιν μὴ γένοιτο ἀλλὰ τῷ αὐτῶν παραπτώματι ἡ σωτηρία τοῖς ἔθνεσιν εἰς τὸ παραζηλῶσαι αὐτούς",
+      "finnish_biblia": "Niin minä siis sanon: ovatko he sentähden itsensä loukanneet, että heidän piti lankeeman? Pois se! vaan heidän lankeemisestansa tapahtui pakanoille autuus, että hän sais heitä kiivaaksi heidän tähtensä. ",
+      "swedish_karl_xii": "Så säger jagh nu: Hafwa the tå förthenskul stött sigh, at the skulle falla? Bort thet: men af theras fall hände Hedningomen salighet, på thet at han ther medh skulle vpwäckia them til nijt.",
+      "king_james": "I say then, Have they stumbled that they should fall? God forbid: but *rather* through their fall salvation *is come* unto the Gentiles, for to provoke them to jealousy."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Quod si delictum illorum divitiæ sunt mundi, et diminutio eorum divitiæ gentium: quanto magis plenitudo eorum?",
+      "greek_textus_receptus": "εἰ δὲ τὸ παράπτωμα αὐτῶν πλοῦτος κόσμου καὶ τὸ ἥττημα αὐτῶν πλοῦτος ἐθνῶν πόσῳ μᾶλλον τὸ πλήρωμα αὐτῶν",
+      "finnish_biblia": "Mutta jos heidän lankeemisensa on maailman rikkaus ja heidän vähennöksensä on pakanain rikkaus; kuinka paljoa enemmin heidän täydellisyytensä? ",
+      "swedish_karl_xii": "Är nu theras fall werldenes rikedom, och theras förminskelse är Hedningarnas rikedom; huru mycket meer theras fullhet?",
+      "king_james": "Now if the fall of them *be* the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Vobis enim dico gentibus: Quamdiu quidem ego sum gentium Apostolus, ministerium meum honorificabo,",
+      "greek_textus_receptus": "ὑμῖν γὰρ λέγω τοῖς ἔθνεσιν ἐφ᾽ ὅσον μὲν εἰμι ἐγὼ ἐθνῶν ἀπόστολος τὴν διακονίαν μου δοξάζω",
+      "finnish_biblia": "Sillä teille pakanoille minä puhun: että minä pakanain apostoli olen, ylistän minä minun virkaani. ",
+      "swedish_karl_xii": "Eder Hedningomen säger jagh: efter thet jagh är Hedningarnas Apostel, prisar jagh mitt ämbete:",
+      "king_james": "For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "si quomodo ad æmulandum provocem carnem meam, et salvos faciam aliquos ex illis.",
+      "greek_textus_receptus": "εἴ πως παραζηλώσω μου τὴν σάρκα καὶ σώσω τινὰς ἐξ αὐτῶν",
+      "finnish_biblia": "Jos minä taitaisin jollakin tavalla niitä, jotka minun lihani ovat, kiivaaksi saada ja muutamatkin heistä autuaaksi saattaa. ",
+      "swedish_karl_xii": "Om jagh kunde någorledes vpwäckia them som mitt kött äro til nijt, och giöra några saliga af them.",
+      "king_james": "If by any means I may provoke to emulation *them which are* my flesh, and might save some of them."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Si enim amissio eorum, reconciliatio est mundi: quæ assumptio, nisi vita ex mortuis?",
+      "greek_textus_receptus": "εἰ γὰρ ἡ ἀποβολὴ αὐτῶν καταλλαγὴ κόσμου τίς ἡ πρόσληψις εἰ μὴ ζωὴ ἐκ νεκρῶν",
+      "finnish_biblia": "Sillä jos heidän hylkäämisensä on maailman sovinto, mitäs heidän korjaamisensa muuta on kuin elämä kuolleista? ",
+      "swedish_karl_xii": "Ty om theras bortkastelse är werldenes försoning, hwad blifwer tå theras vptagelse annat, än lijf ifrå the döda.",
+      "king_james": "For if the casting away of them *be* the reconciling of the world, what *shall* the receiving *of them be*, but life from the dead?"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Quod si delibatio sancta est, et massa: et si radix sancta, et rami.",
+      "greek_textus_receptus": "εἰ δὲ ἡ ἀπαρχὴ ἁγία καὶ τὸ φύραμα καὶ εἰ ἡ ῥίζα ἁγία καὶ οἱ κλάδοι",
+      "finnish_biblia": "Sillä jos alku on pyhä, niin on myös koko taikina, ja jos juuri on pyhä, niin ovat myös oksat. ",
+      "swedish_karl_xii": "Är förstlingen helig, så är ock wäl hele degen helig: och om roten är helig, så äro ock qwistarna helige.",
+      "king_james": "For if the firstfruit *be* holy, the lump *is* also *holy*: and if the root *be* holy, so *are* the branches."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Quod si aliqui ex ramis fracti sunt, tu autem cum oleaster esses, insertus es in illis, et socius radicis, et pinguedinis olivæ factus es,",
+      "greek_textus_receptus": "εἰ δέ τινες τῶν κλάδων ἐξεκλάσθησαν σὺ δὲ ἀγριέλαιος ὢν ἐνεκεντρίσθης ἐν αὐτοῖς καὶ συγκοινωνὸς τῆς ῥίζης καὶ τῆς πιότητος τῆς ἐλαίας ἐγένου",
+      "finnish_biblia": "Mutta jos muutamat oksista ovat murtuneet, ja sinä, joka metsä-öljypuu olit, olet niihin istutettu, ja olet öljypuun juuresta ja lihavuudesta osalliseksi tullut, ",
+      "swedish_karl_xii": "Om nu någre af qwistarna äro afbrutne; och tu som war ett wiloljoträ blef ther inympad igen, och är worden deelachtig af oljoträns root och fetma:",
+      "king_james": "And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "noli gloriari adversus ramos. Quod si gloriaris: non tu radicem portas, sed radix te.",
+      "greek_textus_receptus": "μὴ κατακαυχῶ τῶν κλάδων εἰ δὲ κατακαυχᾶσαι οὐ σὺ τὴν ῥίζαν βαστάζεις ἀλλ᾽ ἡ ῥίζα σέ",
+      "finnish_biblia": "Niin älä ylpeile oksia vastaan; mutta jos sinä heitä vastaan ylpeilet, niin tiedä, ettet sinä juurta kanna, vaan juuri kantaa sinua. ",
+      "swedish_karl_xii": "Så beröm tigh icke emot qwistarna: om tu berömer tigh, så bär ju icke tu rotena, vtan roten bär tigh.",
+      "king_james": "Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Dices ergo: Fracti sunt rami ut ego inserar.",
+      "greek_textus_receptus": "ἐρεῖς οὖν ἐξεκλάσθησαν οἵ κλάδοι ἵνα ἐγὼ ἐγκεντρισθῶ",
+      "finnish_biblia": "Niin sanot; oksat ovat murtuneet, että minun piti siihen jälleen istutettaman. ",
+      "swedish_karl_xii": "Så säger tu tå: Qwistarna äro afbrutne, på thet jagh skulle inympas.",
+      "king_james": "Thou wilt say then, The branches were broken off, that I might be graffed in."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Bene: propter incredulitatem fracti sunt. Tu autem fide stas: noli altum sapere, sed time.",
+      "greek_textus_receptus": "καλῶς τῇ ἀπιστίᾳ ἐξεκλάσθησαν σὺ δὲ τῇ πίστει ἕστηκας μὴ ὑψηλοφρόνει, ἀλλὰ φοβοῦ",
+      "finnish_biblia": "Oikein: he ovat murtuneet epäuskonsa tähden, mutta sinä pysyt uskon kautta: älä ole röyhkeä, vaan pelkää. ",
+      "swedish_karl_xii": "Sant säger tu: the äro afbrutne för otron skul; men tu äst ståndandes genom trona: war icke förstålt i titt sinne, vtan war i räddhoga.",
+      "king_james": "Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Si enim Deus naturalibus ramis non pepercit: ne forte nec tibi parcat.",
+      "greek_textus_receptus": "εἰ γὰρ ὁ θεὸς τῶν κατὰ φύσιν κλάδων οὐκ ἐφείσατο μήπως οὐδὲ σοῦ φείσηται",
+      "finnish_biblia": "Sillä jos ei Jumala luonnollisia oksia armahtanut, katso, ei hän sinuakaan armahda. ",
+      "swedish_karl_xii": "Ty hafwer Gudh the naturliga qwistar icke skonat; se til, at han icke heller skonar tigh.",
+      "king_james": "For if God spared not the natural branches, *take heed* lest he also spare not thee."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Vide ergo bonitatem, et severitatem Dei: in eos quidem qui ceciderunt, severitatem: in te autem bonitatem Dei, si permanseris in bonitate, alioquin et tu excideris.",
+      "greek_textus_receptus": "ἴδε οὖν χρηστότητα καὶ ἀποτομίαν θεοῦ ἐπὶ μὲν τοὺς πεσόντας ἀποτομίαν ἐπὶ δὲ σὲ χρηστότητα ἐὰν ἐπιμείνῃς τῇ χρηστότητι ἐπεὶ καὶ σὺ ἐκκοπήσῃ",
+      "finnish_biblia": "Sentähden katso tässä Jumalan hyvyyttä ja ankaruutta: ankaruutta niissä, jotka lankesivat, mutta hyvyyttä itse sinussas, jos sinä ainoastaan hyvyydessä pysyt; muutoin sinäkin leikataan pois. ",
+      "swedish_karl_xii": "Så se nu här Gudz godhet och stränghet: strängheten på them som föllo; och godheten på tigh, så framt tu blifwer i godhetene: annars warder tu ock afhuggen:",
+      "king_james": "Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in *his* goodness: otherwise thou also shalt be cut off."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Sed et illi, si non permanserint in incredulitate, inserentur: potens est enim Deus iterum inserere illos.",
+      "greek_textus_receptus": "καὶ ἐκεῖνοι δέ ἐὰν μὴ ἐπιμείνωσιν τῇ ἀπιστίᾳ ἐγκεντρισθήσονται δυνατὸς γάρ ἐστιν ὁ θεὸς πάλιν ἐγκεντρίσαι αὐτούς",
+      "finnish_biblia": "Ja ne jälleen istutetaan, ellei he epäuskossansa pysy; sillä Jumala on voimallinen heitä jälleen istuttamaan. ",
+      "swedish_karl_xii": "Och the inympas igen, om the icke blifwa i otrone: ty Gudh är mächtig åter inympa them.",
+      "king_james": "And they also, if they abide not still in unbelief, shall be graffed in: for God is able to graff them in again."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Nam si tu ex naturali excisus es oleastro, et contra naturam insertus es in bonam olivam: quanto magis ii qui secundum naturam inserentur suæ olivæ?",
+      "greek_textus_receptus": "εἰ γὰρ σὺ ἐκ τῆς κατὰ φύσιν ἐξεκόπης ἀγριελαίου καὶ παρὰ φύσιν ἐνεκεντρίσθης εἰς καλλιέλαιον πόσῳ μᾶλλον οὗτοι οἱ κατὰ φύσιν ἐγκεντρισθήσονται τῇ ἰδίᾳ ἐλαίᾳ",
+      "finnish_biblia": "Sillä jos sinä olet luonnollisesta metsä-öljypuusta karsittu, ja olet vastoin luontoa hyvään öljypuuhun istutettu, kuinka paljon enemmin ne, jotka luonnolliset ovat, omaan öljypuuhunsa istutetaan? ",
+      "swedish_karl_xii": "Ty äst tu af ett naturligit wiloljoträ afhuggen, och förvthan naturen inympad vthi ett sanskylligt oljoträ: huru mycket meer måga the, som naturlige qwistar äro, inympas vthi sitt egit oljoträ?",
+      "king_james": "For if thou wert cut out of the olive tree which is wild by nature, and wert graffed contrary to nature into a good olive tree: how much more shall these, which be the natural *branches*, be graffed into their own olive tree?"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Nolo enim vos ignorare, fratres, mysterium hoc (ut non sitis vobis ipsis sapientes), quia cæcitas ex parte contigit in Israël, donec plenitudo gentium intraret,",
+      "greek_textus_receptus": "οὐ γὰρ θέλω ὑμᾶς ἀγνοεῖν ἀδελφοί τὸ μυστήριον τοῦτο ἵνα μὴ ἦτε παρ᾽ ἑαυτοῖς φρόνιμοι ὅτι πώρωσις ἀπὸ μέρους τῷ ἰσραὴλ γέγονεν ἄχρις οὗ τὸ πλήρωμα τῶν ἐθνῶν εἰσέλθῃ",
+      "finnish_biblia": "Sillä en minä tahdo salata teiltä, rakkaat veljet, tätä salaisuutta, (ettette itsellänne ylpeilisi,) että paatumus on puolittain Israelille tullut, siihenasti kuin pakanain täydellisyys tulis. ",
+      "swedish_karl_xii": "Käre bröder; jagh wil icke fördölja eder thenna hemlighet, på thet J icke skolen högmodas widh eder sielfwa, at blindheten är Jsrael endels wederfaren, til thes Hedningarnas fulhet inkommen är;",
+      "king_james": "For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "et sic omnis Israël salvus fieret, sicut scriptum est: Veniet ex Sion, qui eripiat, et avertat impietatem a Jacob.",
+      "greek_textus_receptus": "καὶ οὕτως πᾶς ἰσραὴλ σωθήσεται καθὼς γέγραπται ἥξει ἐκ σιὼν ὁ ῥυόμενος καὶ ἀποστρέψει ἀσεβείας ἀπὸ ἰακώβ",
+      "finnish_biblia": "Ja niin kaikki Israel pitää autuaaksi tuleman, niinkuin kirjoitettu on: se tulee Zionista, joka päästää ja jumalattoman menon Jakobista kääntää pois. ",
+      "swedish_karl_xii": "Och så warder hele Jsrael salig; såsom skrifwit är: Af Zion skal then komma, som frija skal, och afwända ogudachtigheten af Jacob.",
+      "king_james": "And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Et hoc illis a me testamentum: cum abstulero peccata eorum.",
+      "greek_textus_receptus": "καὶ αὕτη αὐτοῖς ἡ παρ᾽ ἐμοῦ διαθήκη ὅταν ἀφέλωμαι τὰς ἁμαρτίας αὐτῶν",
+      "finnish_biblia": "Ja tämä on minun liittoni heidän kanssansa, kuin minä otan pois heidän syntinsä. ",
+      "swedish_karl_xii": "Och thetta är mitt Testament medh them, tå jagh borttager theras synder.",
+      "king_james": "For this *is* my covenant unto them, when I shall take away their sins."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Secundum Evangelium quidem, inimici propter vos: secundum electionem autem, carissimi propter patres.",
+      "greek_textus_receptus": "κατὰ μὲν τὸ εὐαγγέλιον ἐχθροὶ δι᾽ ὑμᾶς κατὰ δὲ τὴν ἐκλογὴν ἀγαπητοὶ διὰ τοὺς πατέρας",
+      "finnish_biblia": "Evankeliumin puolesta tosin ovat he viholliset teidän tähtenne; mutta valitsemisen puolesta rakastetaan heitä isäin tähden. ",
+      "swedish_karl_xii": "Efter Evangelium håller jagh them för owänner, för edra skul: men efter vthkorelsen hafwer jagh them kär, för fäderna skul.",
+      "king_james": "As concerning the gospel, *they are* enemies for your sakes: but as touching the election, *they are* beloved for the fathers' sakes."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Sine pœnitentia enim sunt dona et vocatio Dei.",
+      "greek_textus_receptus": "ἀμεταμέλητα γὰρ τὰ χαρίσματα καὶ ἡ κλῆσις τοῦ θεοῦ",
+      "finnish_biblia": "Sillä ei Jumala lahjojansa ja kutsumistansa kadu. ",
+      "swedish_karl_xii": "Ty Gudz gåfwor och kallelse äro fådana, at han kan them icke ångra.",
+      "king_james": "For the gifts and calling of God *are* without repentance."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Sicut enim aliquando et vos non credidistis Deo, nunc autem misericordiam consecuti estis propter incredulitatem illorum:",
+      "greek_textus_receptus": "ὥσπερ γὰρ καὶ ὑμεῖς ποτε ἠπειθήσατε τῷ θεῷ νῦν δὲ ἠλεήθητε τῇ τούτων ἀπειθείᾳ",
+      "finnish_biblia": "Sillä niinkuin ette tekään muinen Jumalan päälle uskoneet, mutta olette nyt laupiuden heidän epäuskonsa kautta saaneet; ",
+      "swedish_karl_xii": "Ty såsom ock i fordom icke trodden på Gudh; och hafwen doch nu öfwer theras otro fått barmhertighet.",
+      "king_james": "For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:"
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "ita et isti nunc non crediderunt in vestram misericordiam: ut et ipsi misericordiam consequantur.",
+      "greek_textus_receptus": "οὕτως καὶ οὗτοι νῦν ἠπείθησαν τῷ ὑμετέρῳ ἐλέει ἵνα καὶ αὐτοὶ ἐλεηθῶσιν",
+      "finnish_biblia": "Niin ei he ole myös nyt uskoneet sitä laupiutta, joka teille on tapahtunut, että heillekin laupius tapahtuis. ",
+      "swedish_karl_xii": "Så hafwa ock nu the icke welat troo på then barmhertighet, som eder wederfaren är, at them måtte ock barmhertighet wederfaras.",
+      "king_james": "Even so have these also now not believed, that through your mercy they also may obtain mercy."
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Conclusit enim Deus omnia in incredulitate, ut omnium misereatur.",
+      "greek_textus_receptus": "συνέκλεισεν γὰρ ὁ θεὸς τοὺς πάντας εἰς ἀπείθειαν ἵνα τοὺς πάντας ἐλεήσῃ",
+      "finnish_biblia": "Sillä Jumala on kaikki epäuskon alle sulkenut, että hän kaikkia armahtais. ",
+      "swedish_karl_xii": "Ty Gudh hafwer alt beslutet vnder otro , på thet han skal förbarma sigh öfwer alla.",
+      "king_james": "For God hath concluded them all in unbelief, that he might have mercy upon all."
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "O altitudo divitiarum sapientiæ, et scientiæ Dei: quam incomprehensibilia sunt judicia ejus, et investigabiles viæ ejus!",
+      "greek_textus_receptus": "ὦ βάθος πλούτου καὶ σοφίας καὶ γνώσεως θεοῦ ὡς ἀνεξερεύνητα τὰ κρίματα αὐτοῦ καὶ ἀνεξιχνίαστοι αἱ ὁδοὶ αὐτοῦ",
+      "finnish_biblia": "Oi sitä Jumalan rikkauden, ja viisauden, ja tunnon syvyyttä! kuinka tutkimattomat ovat hänen tuomionsa ja käsittämättömät hänen tiensä! ",
+      "swedish_karl_xii": "Ohwilken diuphet af then rikedom, som är, både i Gudz wijsdom och kund skap: huru obegripeliga äro hans domar, och oransakelige hans wägar.",
+      "king_james": "O the depth of the riches both of the wisdom and knowledge of God! how unsearchable *are* his judgments, and his ways past finding out!"
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "Quis enim cognovit sensum Domini? aut quis consiliarius ejus fuit?",
+      "greek_textus_receptus": "τίς γὰρ ἔγνω νοῦν κυρίου ἢ τίς σύμβουλος αὐτοῦ ἐγένετο",
+      "finnish_biblia": "Sillä kuka on Herran mielen tietänyt? Eli kuka on hänen neuvonantajansa ollut? ",
+      "swedish_karl_xii": "Ty ho hafwer kändt Herrans sinne? Eller ho hafwer warit hans rådgifware?",
+      "king_james": "For who hath known the mind of the Lord? or who hath been his counsellor?"
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "aut quis prior dedit illi, et retribuetur ei?",
+      "greek_textus_receptus": "ἢ τίς προέδωκεν αὐτῷ καὶ ἀνταποδοθήσεται αὐτῷ",
+      "finnish_biblia": "Eli kuka on hänelle jotakin ennen antanut, jota hänelle pitäis jälleen maksettaman. ",
+      "swedish_karl_xii": "Eller ho hafwer gifwit honom något tilförene, thet honom skal betalat warda?",
+      "king_james": "Or who hath first given to him, and it shall be recompensed unto him again?"
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "Quoniam ex ipso, et per ipsum, et in ipso sunt omnia: ipsi gloria in sæcula. Amen.",
+      "greek_textus_receptus": "ὅτι ἐξ αὐτοῦ καὶ δι᾽ αὐτοῦ καὶ εἰς αὐτὸν τὰ πάντα αὐτῷ ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν",
+      "finnish_biblia": "Sillä hänestä ja hänen kauttansa ja hänessä ovat kaikki: hänelle olkoon kunnia ijankaikkisesti, amen!   ",
+      "swedish_karl_xii": "Ty af honom, och igenom honom, och i honom äro all ting: honom ware ähra i ewighet: Amen.",
+      "king_james": "For of him, and through him, and to him, *are* all things: to whom *be* glory for ever. Amen."
+    }
+  ]
+}

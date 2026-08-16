@@ -1,0 +1,275 @@
+{
+  "book_id": "JOH",
+  "latin_name": "Evangelium secundum Ioannem",
+  "greek_name": "Κατὰ Ἰωάννην",
+  "finnish_name": "Johanneksen evankeliumi",
+  "swedish_name": "S. Johannis Evangelium",
+  "english_name": "The Gospel According to John",
+  "chapter": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Hæc locutus sum vobis, ut non scandalizemini.",
+      "greek_textus_receptus": "ταῦτα λελάληκα ὑμῖν ἵνα μὴ σκανδαλισθῆτε",
+      "finnish_biblia": "Näitä olen minä puhunut teille, ette pahenisi. ",
+      "swedish_karl_xii": "Thetta hafwer jagh sagt eder, på thet J icke skolen förargas.",
+      "king_james": "These things have I spoken unto you, that ye should not be offended."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Absque synagogis facient vos: sed venit hora, ut omnis qui interficit vos arbitretur obsequium se præstare Deo.",
+      "greek_textus_receptus": "ἀποσυναγώγους ποιήσουσιν ὑμᾶς ἀλλ᾽ ἔρχεται ὥρα ἵνα πᾶς ὁ ἀποκτείνας ὑμᾶς δόξῃ λατρείαν προσφέρειν τῷ θεῷ",
+      "finnish_biblia": "He panevat teitä pannaan. Ja aika tulee, että jokainen, joka teidät tappaa, se luulee tekevänsä Jumalalle palveluksen. ",
+      "swedish_karl_xii": "The skola vthskiuta eder af Synagogorna: men then tijd skal komma, at then eder dräper, skal mena sigh giöra Gudi tienst ther medh.",
+      "king_james": "They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et hæc facient vobis, quia non noverunt Patrem, neque me.",
+      "greek_textus_receptus": "καὶ ταῦτα ποιήσουσιν ὑμῖν ὅτι οὐκ ἔγνωσαν τὸν πατέρα οὐδὲ ἐμέ",
+      "finnish_biblia": "Ja näitä he tekevät teille, ettei he tunne Isää eikä minua. ",
+      "swedish_karl_xii": "Och thetta skola the giöra eder, ty the känna icke Fadren, eij heller migh.",
+      "king_james": "And these things will they do unto you, because they have not known the Father, nor me."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Sed hæc locutus sum vobis, ut cum venerit hora eorum, reminiscamini quia ego dixi vobis. Hæc autem vobis ab initio non dixi, quia vobiscum eram.",
+      "greek_textus_receptus": "ἀλλὰ ταῦτα λελάληκα ὑμῖν ἵνα ὅταν ἔλθῃ ἡ ὥρα μνημονεύητε αὐτῶν ὅτι ἐγὼ εἶπον ὑμῖν ταῦτα δὲ ὑμῖν ἐξ ἀρχῆς οὐκ εἶπον ὅτι μεθ᾽ ὑμῶν ἤμην",
+      "finnish_biblia": "Vaan minä puhuin näitä teille, että kuin se aika tulee, te niistä muistaisitte, että minä teille sanonut olen; mutta en minä ole teille näitä alusta sanonut, sillä minä olin teidän kanssanne. ",
+      "swedish_karl_xii": "Men thetta hafwer jagh sagt eder, at när then tiden kommer, skolen J komma ihogh, at jagh hafwer thet sagt eder. Thetta hafwer jagh icke sagt eder af begynnelsen, ty jagh war medh eder.",
+      "king_james": "But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et nunc vado ad eum qui misit me; et nemo ex vobis interrogat me: Quo vadis?",
+      "greek_textus_receptus": "νῦν δὲ ὑπάγω πρὸς τὸν πέμψαντά με καὶ οὐδεὶς ἐξ ὑμῶν ἐρωτᾷ με ποῦ ὑπάγεις",
+      "finnish_biblia": "Mutta nyt minä menen sen tykö, joka minun lähetti, ja ei teistä minulta kenkään kysy: kuhunkas menet? ",
+      "swedish_karl_xii": "Men nu går jagh til honom som migh sändt hafwer; och ingen af eder spör migh, hwart jagh går.",
+      "king_james": "But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "sed quia hæc locutus sum vobis, tristitia implevit cor vestrum.",
+      "greek_textus_receptus": "ἀλλ᾽ ὅτι ταῦτα λελάληκα ὑμῖν ἡ λύπη πεπλήρωκεν ὑμῶν τὴν καρδίαν",
+      "finnish_biblia": "Vaan että minä olen näitä teille puhunut, niin murhe täyttää teidän sydämenne. ",
+      "swedish_karl_xii": "Men efter thet jagh hafwer thetta sagt eder, är edart hierta wordet fult medh bedröfwelse.",
+      "king_james": "But because I have said these things unto you, sorrow hath filled your heart."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Sed ego veritatem dico vobis: expedit vobis ut ego vadam: si enim non abiero, Paraclitus non veniet ad vos; si autem abiero, mittam eum ad vos.",
+      "greek_textus_receptus": "ἀλλ᾽ ἐγὼ τὴν ἀλήθειαν λέγω ὑμῖν συμφέρει ὑμῖν ἵνα ἐγὼ ἀπέλθω ἐὰν γὰρ μὴ ἀπέλθω ὁ παράκλητος οὐκ ἐλεύσεται πρὸς ὑμᾶς ἐὰν δὲ πορευθῶ πέμψω αὐτὸν πρὸς ὑμᾶς",
+      "finnish_biblia": "Kuitenkin sanon minä teille totuuden: se on teille tarpeellinen, että minä menen pois; sillä ellen minä mene pois, niin ei Lohduttaja tule teidän tykönne; mutta jos minä menen pois, niin minä hänen teille lähetän. ",
+      "swedish_karl_xii": "Doch säger jagh eder sanningen: Eder är nyttigt at jagh bortgår; ty om jagh icke bortgår, kommer icke Hugswalaren til eder: men går jagh bort, så skal jagh sända honom til eder.",
+      "king_james": "Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Et cum venerit ille, arguet mundum de peccato, et de justitia, et de judicio.",
+      "greek_textus_receptus": "καὶ ἐλθὼν ἐκεῖνος ἐλέγξει τὸν κόσμον περὶ ἁμαρτίας καὶ περὶ δικαιοσύνης καὶ περὶ κρίσεως",
+      "finnish_biblia": "Ja kuin hän tulee, niin hän nuhtelee maailmaa synnin tähden, ja vanhurskauden tähden, ja tuomion tähden. ",
+      "swedish_karl_xii": "Och när han kommer, skal han straffa werldena för synd, och för rättferdighet, och för doom:",
+      "king_james": "And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "De peccato quidem, quia non crediderunt in me.",
+      "greek_textus_receptus": "περὶ ἁμαρτίας μέν ὅτι οὐ πιστεύουσιν εἰς ἐμέ",
+      "finnish_biblia": "Synnin tähden tosin, ettei he usko minun päälleni; ",
+      "swedish_karl_xii": "För synd: ty the troo icke på migh:",
+      "king_james": "Of sin, because they believe not on me;"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "De justitia vero, quia ad Patrem vado, et jam non videbitis me.",
+      "greek_textus_receptus": "περὶ δικαιοσύνης δέ ὅτι πρὸς τὸν πατέρα μου ὑπάγω καὶ οὐκ ἔτι θεωρεῖτέ με",
+      "finnish_biblia": "Mutta vanhurskauden tähden, että minä menen Isäni tykö, ja ettette minua silleen näe; ",
+      "swedish_karl_xii": "Men för rättferdighet: ty jagh går til Fadren, och här efter seen J migh intet:",
+      "king_james": "Of righteousness, because I go to my Father, and ye see me no more;"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "De judicio autem, quia princeps hujus mundi jam judicatus est.",
+      "greek_textus_receptus": "περὶ δὲ κρίσεως ὅτι ὁ ἄρχων τοῦ κόσμου τούτου κέκριται",
+      "finnish_biblia": "Mutta tuomion tähden, että tämän maailman päämies on tuomittu. ",
+      "swedish_karl_xii": "Men för doom: ty thenne werldenes förste är nu dömd.",
+      "king_james": "Of judgment, because the prince of this world is judged."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Adhuc multa habeo vobis dicere, sed non potestis portare modo.",
+      "greek_textus_receptus": "ἔτι πολλὰ ἔχω λέγειν ὑμῖν ἀλλ᾽ οὐ δύνασθε βαστάζειν ἄρτι",
+      "finnish_biblia": "Minulla on vielä paljo sanomista, mutta ette voi nyt kantaa. ",
+      "swedish_karl_xii": "Jagh hafwer ännu mycket säija eder; men J kunnen thet icke nu bära.",
+      "king_james": "I have yet many things to say unto you, but ye cannot bear them now."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Cum autem venerit ille Spiritus veritatis, docebit vos omnem veritatem: non enim loquetur a semetipso, sed quæcumque audiet loquetur, et quæ ventura sunt annuntiabit vobis.",
+      "greek_textus_receptus": "ὅταν δὲ ἔλθῃ ἐκεῖνος τὸ πνεῦμα τῆς ἀληθείας ὁδηγήσει ὑμᾶς εἰς πάσαν τῆν ἀληθείαν οὐ γὰρ λαλήσει ἀφ᾽ ἑαυτοῦ ἀλλ᾽ ὅσα ἂν ἀκούσῃ λαλήσει καὶ τὰ ἐρχόμενα ἀναγγελεῖ ὑμῖν",
+      "finnish_biblia": "Vaan kuin se tulee, totuuden Henki, hän johdattaa teitä kaikkeen totuuteen; sillä ei hän puhu itsestänsä, vaan mitä hän kuulee, sitä hän puhuu, ja tulevaisia hän teille ilmoittaa. ",
+      "swedish_karl_xii": "Men när han kommer som är sanningenes Ande, han skal leda eder vthi alla sanning: ty han skal icke tala af sigh sielf; men hwad han hörer, thet skal han tala, och thet som skee skal, skal han förkunna eder.",
+      "king_james": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, *that* shall he speak: and he will shew you things to come."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Ille me clarificabit, quia de meo accipiet, et annuntiabit vobis.",
+      "greek_textus_receptus": "ἐκεῖνος ἐμὲ δοξάσει ὅτι ἐκ τοῦ ἐμοῦ λήψεται, καὶ ἀναγγελεῖ ὑμῖν",
+      "finnish_biblia": "Hän on minua kunnioittava; sillä hän ottaa minun omastani ja ilmoittaa teille. ",
+      "swedish_karl_xii": "Han skal prisa migh: ty af mino skal han taga, och förkunna eder.",
+      "king_james": "He shall glorify me: for he shall receive of mine, and shall shew *it* unto you."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Omnia quæcumque habet Pater, mea sunt. Propterea dixi: quia de meo accipiet, et annuntiabit vobis.",
+      "greek_textus_receptus": "πάντα ὅσα ἔχει ὁ πατὴρ ἐμά ἐστιν διὰ τοῦτο εἶπον ὅτι ἐκ τοῦ ἐμοῦ λήψεται, καὶ ἀναγγελεῖ ὑμῖν",
+      "finnish_biblia": "Kaikki, mitä Isällä on, ne ovat minun; sentähden minä sanoin, että hän ottaa minun omastani ja ilmoittaa teille. ",
+      "swedish_karl_xii": "Alt thet Fadren hafwer, thet är mitt: förthenskul sade jagh, at han skal taga af mino, och förkunna eder.",
+      "king_james": "All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew *it* unto you."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Modicum, et jam non videbitis me; et iterum modicum, et videbitis me: quia vado ad Patrem.",
+      "greek_textus_receptus": "μικρὸν καὶ οὐ θεωρεῖτέ με καὶ πάλιν μικρὸν καὶ ὄψεσθέ με ὅτι ἐγὼ ὑπάγω πρὸς τὸν πατέρα",
+      "finnish_biblia": "Vähän ajan perästä ja ette näe minua, ja taas vähän ajan perästä te näette minun; sillä minä menen Isäni tykö. ",
+      "swedish_karl_xii": "Någon liten tijd, och J seen migh intet; och åter, en liten tijd, och J fån see migh: ty jagh går til Fadren.",
+      "king_james": "A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Dixerunt ergo ex discipulis ejus ad invicem: Quid est hoc quod dicit nobis: Modicum, et non videbitis me; et iterum modicum, et videbitis me, et quia vado ad Patrem?",
+      "greek_textus_receptus": "εἶπον οὖν ἐκ τῶν μαθητῶν αὐτοῦ πρὸς ἀλλήλους τί ἐστιν τοῦτο ὃ λέγει ἡμῖν μικρὸν καὶ οὐ θεωρεῖτέ με καὶ πάλιν μικρὸν καὶ ὄψεσθέ με καί ὅτι ἐγὼ ὑπάγω πρὸς τὸν πατέρα",
+      "finnish_biblia": "Niin muutamat hänen opetuslapsistansa puhuivat keskenänsä: mikä se on, kuin hän sanoo meille: vähän ajan perästä ja ette näe minua, ja taas vähän ajan perästä ja te näette minun, ja: minä menen Isän tykö? ",
+      "swedish_karl_xii": "Tå sade någre af hans Lärjungar emellan sigh: Hwad är thet han säger oß? En liten tijd, och J seen migh intet? Och åter: En liten tijd, och J fån see migh; och at jagh går til Fadren?",
+      "king_james": "Then said *some* of his disciples among themselves, What is this that he saith unto us, a little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Dicebant ergo: Quid est hoc quod dicit: Modicum? nescimus quid loquitur.",
+      "greek_textus_receptus": "ἔλεγον οὖν τοῦτο τί ἐστιν ὃ λέγει τὸ μικρόν οὐκ οἴδαμεν τί λαλεῖ",
+      "finnish_biblia": "Niin he sanoivat: mikä se on, kuin hän sanoo: vähän ajan perästä? emme tiedä, mitä hän puhuu. ",
+      "swedish_karl_xii": "Tå sade the: Hwad är thet han säger: En liten tijd? Wij wete icke hwad han talar.",
+      "king_james": "They said therefore, What is this that he saith, A little while? we cannot tell what he saith."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Cognovit autem Jesus, quia volebant eum interrogare, et dixit eis: De hoc quæritis inter vos quia dixi: Modicum, et non videbitis me; et iterum modicum, et videbitis me.",
+      "greek_textus_receptus": "ἔγνω οὖν ὁ ἰησοῦς ὅτι ἤθελον αὐτὸν ἐρωτᾶν καὶ εἶπεν αὐτοῖς περὶ τούτου ζητεῖτε μετ᾽ ἀλλήλων ὅτι εἶπον μικρὸν καὶ οὐ θεωρεῖτέ με καὶ πάλιν μικρὸν καὶ ὄψεσθέ με",
+      "finnish_biblia": "Niin Jesus ymmärsi, että he tahtoivat kysyä häneltä, ja sanoi heille: sitä te kysytte keskenänne, että minä sanoin: vähän ajan perästä ja ette näe minua, ja taas vähän ajan perästä ja te näette minun. ",
+      "swedish_karl_xii": "Tå märckte Jesus, at the wille spörja honom; och sade til them: Ther om frågen J emellan eder, at jagh sade: En liten tijd, och J seen migh intet; och åter: En liten tijd, och J fån see migh?",
+      "king_james": "Now Jesus knew that they were desirous to ask him, and said unto them, Do ye enquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Amen, amen dico vobis: quia plorabitis, et flebitis vos, mundus autem gaudebit; vos autem contristabimini, sed tristitia vestra vertetur in gaudium.",
+      "greek_textus_receptus": "ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι κλαύσετε καὶ θρηνήσετε ὑμεῖς ὁ δὲ κόσμος χαρήσεται ὑμεῖς δὲ λυπηθήσεσθε ἀλλ᾽ ἡ λύπη ὑμῶν εἰς χαρὰν γενήσεται",
+      "finnish_biblia": "Totisesti, totisesti sanon minä teille: teidän pitää itkemän ja parkuman, mutta maailma iloitsee: te tulette murheellisiksi, mutta teidän murheenne käännetään iloksi. ",
+      "swedish_karl_xii": "Sannerliga, sannerliga säger jagh eder: J skolen gråta, och jämra eder; men werlden skal glädias: J skolen warda bedröfwade; men edor sorg skal wändas i glädie.",
+      "king_james": "Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Mulier cum parit, tristitiam habet, quia venit hora ejus; cum autem pepererit puerum, jam non meminit pressuræ propter gaudium, quia natus est homo in mundum.",
+      "greek_textus_receptus": "ἡ γυνὴ ὅταν τίκτῃ λύπην ἔχει ὅτι ἦλθεν ἡ ὥρα αὐτῆς ὅταν δὲ γεννήσῃ τὸ παιδίον οὐκ ἔτι μνημονεύει τῆς θλίψεως διὰ τὴν χαρὰν ὅτι ἐγεννήθη ἄνθρωπος εἰς τὸν κόσμον",
+      "finnish_biblia": "Kuin vaimo synnyttää, niin hänellä on kipu, sillä hänen hetkensä tuli; mutta kuin hän on lapsen synnyttänyt, niin ei hän enään muista vaivaansa ilon tähden, että ihminen on syntynyt maailmaan. ",
+      "swedish_karl_xii": "När qwinnan föder barn, hafwer hon sorg; ty hennes stund är kommen: men när hon hafwer födt barnet, kommer hon sin bedröfwelse intet ihog: ty hon glädz at menniskian är född i werldena.",
+      "king_james": "A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Et vos igitur nunc quidem tristitiam habetis, iterum autem videbo vos, et gaudebit cor vestrum: et gaudium vestrum nemo tollet a vobis.",
+      "greek_textus_receptus": "καὶ ὑμεῖς οὖν λύπην μὲν νῦν ἔχετε πάλιν δὲ ὄψομαι ὑμᾶς καὶ χαρήσεται ὑμῶν ἡ καρδία καὶ τὴν χαρὰν ὑμῶν οὐδεὶς αἴρει ἀφ᾽ ὑμῶν",
+      "finnish_biblia": "Niin teillä on myös nyt murhe; mutta minä tahdon teitä jällensä nähdä, ja teidän sydämenne on iloitseva, ja ei kenenkään pidä teidän iloanne teiltä ottaman pois. ",
+      "swedish_karl_xii": "Så hafwen J ock nu bedröfwelse; men jagh skal åter see eder, och edart hierta skal glädias, och ingen skal taga edor glädie ifrån eder.",
+      "king_james": "And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Et in illo die me non rogabitis quidquam. Amen, amen dico vobis: si quid petieritis Patrem in nomine meo, dabit vobis.",
+      "greek_textus_receptus": "καὶ ἐν ἐκείνῃ τῇ ἡμέρᾳ ἐμὲ οὐκ ἐρωτήσετε οὐδέν ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ὅσα ἄν αἰτήσητε τὸν πατέρα ἐν τῷ ὀνόματί μου δώσει ὑμῖν",
+      "finnish_biblia": "Ja sinä päivänä ette mitään kysy minulta. Totisesti, totisesti sanon minä teille: mitä ikänä te anotte Isältä minun nimeeni, niin hän antaa teille. ",
+      "swedish_karl_xii": "Och på then dagen skolen J intet spörja migh. Sannerliga, sannerliga säger jagh eder: Alt thet J bedien Fadren i mitt namn, skal han gifwa eder.",
+      "king_james": "And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give *it* you."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Usque modo non petistis quidquam in nomine meo: petite, et accipietis, ut gaudium vestrum sit plenum.",
+      "greek_textus_receptus": "ἕως ἄρτι οὐκ ᾐτήσατε οὐδὲν ἐν τῷ ὀνόματί μου αἰτεῖτε καὶ λήψεσθε, ἵνα ἡ χαρὰ ὑμῶν ᾖ πεπληρωμένη",
+      "finnish_biblia": "Ette ole mitään minun nimeeni tähän asti anoneet: rukoilkaat, niin te saatte, että teidän ilonne olis täydellinen. ",
+      "swedish_karl_xii": "Här til hafwen J icke bedit i mitt namn: beder, och J skolen få, at edor glädie må warda fulkommen.",
+      "king_james": "Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Hæc in proverbiis locutus sum vobis. Venit hora cum jam non in proverbiis loquar vobis, sed palam de Patre annuntiabo vobis:",
+      "greek_textus_receptus": "ταῦτα ἐν παροιμίαις λελάληκα ὑμῖν ἀλλ᾽ ἔρχεται ὥρα ὅτε οὐκ ἔτι ἐν παροιμίαις λαλήσω ὑμῖν ἀλλὰ παῤῥησίᾳ περὶ τοῦ πατρὸς ἀναγγελῶ ὑμῖν",
+      "finnish_biblia": "Näitä olen minä teille puhunut tapauksissa; mutta aika tulee, etten minä silleen puhu teille tapauksissa, vaan ilmoitan julkisesti teille minun Isästäni. ",
+      "swedish_karl_xii": "Thetta hafwer jagh talat til eder medh förtäckt ord: then tijd skal komma, at jagh icke skal tala medh eder medh förtäckt ord; vtan vppenbarliga skal jagh förkunna eder om min Fader.",
+      "king_james": "These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "in illo die in nomine meo petetis: et non dico vobis quia ego rogabo Patrem de vobis:",
+      "greek_textus_receptus": "ἐν ἐκείνῃ τῇ ἡμέρᾳ ἐν τῷ ὀνόματί μου αἰτήσεσθε καὶ οὐ λέγω ὑμῖν ὅτι ἐγὼ ἐρωτήσω τὸν πατέρα περὶ ὑμῶν",
+      "finnish_biblia": "Sinä päivänä pitää teidän rukoileman minun nimeeni. Ja en minä sano teille, että minä rukoilen Isää teidän tähtenne; ",
+      "swedish_karl_xii": "På then dagen skolen J bedia i mitt namn: och jagh säger icke eder, at jagh skal bedia Fadren för eder.",
+      "king_james": "At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "ipse enim Pater amat vos, quia vos me amastis, et credidistis, quia ego a Deo exivi.",
+      "greek_textus_receptus": "αὐτὸς γὰρ ὁ πατὴρ φιλεῖ ὑμᾶς ὅτι ὑμεῖς ἐμὲ πεφιλήκατε καὶ πεπιστεύκατε ὅτι ἐγὼ παρὰ τοῦ θεοῦ ἐξῆλθον",
+      "finnish_biblia": "Sillä Isä rakastaa itse teitä, että te minua rakastitte ja uskoitte minun Jumalasta lähteneen. ",
+      "swedish_karl_xii": "Ty Fadren sielf hafwer eder kär, efter thet J haden migh kär, och trodden, at jagh är vthgången af Gudi.",
+      "king_james": "For the Father himself loveth you, because ye have loved me, and have believed that I came out from God."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Exivi a Patre, et veni in mundum: iterum relinquo mundum, et vado ad Patrem.",
+      "greek_textus_receptus": "ἐξῆλθον παρὰ τοῦ πατρὸς καὶ ἐλήλυθα εἰς τὸν κόσμον πάλιν ἀφίημι τὸν κόσμον καὶ πορεύομαι πρὸς τὸν πατέρα",
+      "finnish_biblia": "Minä läksin Isästä ja tulin maailmaan: taas minä jätän maailman ja menen Isän tykö. ",
+      "swedish_karl_xii": "Jagh gick vth af Fadren, och kom i werldena: åter öfwergifwer jagh werldena, och går til Fadren.",
+      "king_james": "I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Dicunt ei discipuli ejus: Ecce nunc palam loqueris, et proverbium nullum dicis:",
+      "greek_textus_receptus": "λέγουσιν αὐτῷ οἱ μαθηταὶ αὐτοῦ ἴδε νῦν παῤῥησίᾳ λαλεῖς καὶ παροιμίαν οὐδεμίαν λέγεις",
+      "finnish_biblia": "Sanoivat hänen opetuslapsensa hänelle: katso, nyt sinä julkisesti puhut, ja et yhtään tapausta sano. ",
+      "swedish_karl_xii": "Sade hans Lärjungar til honom: Sij, nu talar tu vppenbarliga, och säger inga förtäckt ord.",
+      "king_james": "His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "nunc scimus quia scis omnia, et non opus est tibi ut quis te interroget: in hoc credimus quia a Deo existi.",
+      "greek_textus_receptus": "νῦν οἴδαμεν ὅτι οἶδας πάντα καὶ οὐ χρείαν ἔχεις ἵνα τίς σε ἐρωτᾷ ἐν τούτῳ πιστεύομεν ὅτι ἀπὸ θεοῦ ἐξῆλθες",
+      "finnish_biblia": "Nyt me tiedämme sinun kaikki tietävän, ja et sinä tarvitse, että joku sinulta kysyy, sentähden me uskomme sinun Jumalasta lähteneen. ",
+      "swedish_karl_xii": "Nu wete wij, at tu wetst all ting, och tigh giörs icke behof, at någor spör tigh: therföre troo wij, at tu äst vthgången af Gudi.",
+      "king_james": "Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Respondit eis Jesus: Modo creditis?",
+      "greek_textus_receptus": "ἀπεκρίθη αὐτοῖς ὁ ἰησοῦς ἄρτι πιστεύετε",
+      "finnish_biblia": "Jesus vastasi heitä: nyt te uskotte. ",
+      "swedish_karl_xii": "Swarade Jesus them: Nu troon J?",
+      "king_james": "Jesus answered them, Do ye now believe?"
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "ecce venit hora, et jam venit, ut dispergamini unusquisque in propria, et me solum relinquatis: et non sum solus, quia Pater mecum est.",
+      "greek_textus_receptus": "ἰδού, ἔρχεται ὥρα καὶ νῦν ἐλήλυθεν ἵνα σκορπισθῆτε ἕκαστος εἰς τὰ ἴδια καὶ ἐμὲ μόνον ἀφῆτε καὶ οὐκ εἰμὶ μόνος ὅτι ὁ πατὴρ μετ᾽ ἐμοῦ ἐστιν",
+      "finnish_biblia": "Katso, aika tulee, ja nyt tuli, että te jokainen hajoitetaan omillensa, ja minun te yksinäni jätätte. En minä kuitenkaan yksinäni ole, sillä Isä on minun kanssani. ",
+      "swedish_karl_xii": "Sij, tiden tilstundar, och är redo kommen, at J warden förskingrade, hwar och en til sitt, och låten migh blifwa allena; men jagh är icke allena: ty Fadren är medh migh.",
+      "king_james": "Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me."
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "Hæc locutus sum vobis, ut in me pacem habeatis. In mundo pressuram habebitis: sed confidite, ego vici mundum.",
+      "greek_textus_receptus": "ταῦτα λελάληκα ὑμῖν ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε ἐν τῷ κόσμῳ θλῖψιν ἔχετε ἀλλὰ θαρσεῖτε ἐγὼ νενίκηκα τὸν κόσμον",
+      "finnish_biblia": "Näitä olen minä teille puhunut, että teillä minussa rauha olis. Maailmassa on teillä tuska; mutta olkaat hyvässä turvassa, minä voitin maailman.   ",
+      "swedish_karl_xii": "Thetta hafwer jagh talat medh eder, at J skolen hafwa frijd i migh: i werldene hafwen J twång; men warer widh een godh tröst, jagh hafwer öfwerwunnet werldena.",
+      "king_james": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world."
+    }
+  ]
+}

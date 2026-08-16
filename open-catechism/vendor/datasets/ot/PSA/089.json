@@ -1,0 +1,1208 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 89,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "  Misericordias Domini in æternum cantabo ;  in generationem et generationem annuntiabo veritatem tuam in ore meo. ",
+      "hebrew_masoretic": "חַֽסְדֵ֣י יְ֭הֹוָה עוֹלָ֣ם אָשִׁ֑ירָה לְדֹ֥ר וָדֹ֓ר ׀ אוֹדִ֖יעַ אֱמוּנָתְךָ֣ בְּפִֽי׃",
+      "douay_rheims": "The mercies of the Lord I will sing for ever. I will shew forth thy truth with my mouth to generation and generation.",
+      "finnish_biblia": "Etanin sen Esrahilaisen opetus. (H89:2) Minä veisaan Herran armoja ijankaikkisesti, ja ilmoitan sinun totuuttas suullani suvusta sukuun, ",
+      "swedish_karl_xii": "Jagh wil siunga om HERRANS nåde ewinnerliga; och hans sanning förkunna medh minom mun ifrå slächte til slächte.",
+      "king_james": "I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:2"
+        },
+        "hebrew_masoretic": {
+          "src": "89:2"
+        },
+        "douay_rheims": {
+          "src": "88:2"
+        },
+        "swedish_karl_xii": {
+          "src": "89:2"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " Quoniam dixisti : In æternum misericordia ædificabitur in cælis ;  præparabitur veritas tua in eis. ",
+      "hebrew_masoretic": "כִּֽי־אָמַ֗רְתִּי ע֭וֹלָם חֶ֣סֶד יִבָּנֶ֑ה שָׁמַ֓יִם ׀ תָּכִ֖ן אֱמוּנָתְךָ֣ בָהֶֽם׃",
+      "douay_rheims": "For thou hast said: Mercy shall be built up for ever in the heavens: thy truth shall be prepared in them.",
+      "finnish_biblia": "Ja sanon: ijankaikkinen armo käy ylös: sinä pidät uskollisesti totuutes taivaissa. ",
+      "swedish_karl_xii": "Och säger altså: At een ewig nådh skal vpgå: och tu warder tina sanning i himmelen troliga hållandes.",
+      "king_james": "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:3"
+        },
+        "hebrew_masoretic": {
+          "src": "89:3"
+        },
+        "douay_rheims": {
+          "src": "88:3"
+        },
+        "swedish_karl_xii": {
+          "src": "89:3"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Disposui testamentum electis meis ;  juravi David servo meo : ",
+      "hebrew_masoretic": "כָּרַ֣תִּי בְ֭רִית לִבְחִירִ֑י נִ֝שְׁבַּ֗עְתִּי לְדָוִ֥ד עַבְדִּֽי׃",
+      "douay_rheims": "I have made a covenant with my elect: I have sworn to David my servant:",
+      "finnish_biblia": "Minä olen liiton tehnyt valittuini kanssa: minä olen vannonut Davidille palvelialleni: ",
+      "swedish_karl_xii": "Jagh hafwer giordt ett förbund medh minom vthkorade; minom tienare David hafwer jagh sworit:",
+      "king_james": "I have made a covenant with my chosen, I have sworn unto David my servant,",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:4"
+        },
+        "hebrew_masoretic": {
+          "src": "89:4"
+        },
+        "douay_rheims": {
+          "src": "88:4"
+        },
+        "swedish_karl_xii": {
+          "src": "89:4"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Usque in æternum præparabo semen tuum,  et ædificabo in generationem et generationem sedem tuam. ",
+      "hebrew_masoretic": "עַד־ע֭וֹלָם אָכִ֣ין זַרְעֶ֑ךָ וּבָנִ֨יתִי לְדֹר־וָד֖וֹר כִּסְאֲךָ֣ סֶֽלָה׃",
+      "douay_rheims": "Thy seed will I settle for ever. And I will build up thy throne unto generation and generation.",
+      "finnish_biblia": "Hamaan ijankaikkisuuteen vahvistan minä sinun siemenes, ja rakennan sinun istuimes suvusta sukuun, Sela! ",
+      "swedish_karl_xii": "Jagh skal förskaffa tigh een ewig sädh; och byggia tin stool ifrå slächte til slächte. Sela.",
+      "king_james": "Thy seed will I establish for ever, and build up thy throne to all generations. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:5"
+        },
+        "hebrew_masoretic": {
+          "src": "89:5"
+        },
+        "douay_rheims": {
+          "src": "88:5"
+        },
+        "swedish_karl_xii": {
+          "src": "89:5"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Confitebuntur cæli mirabilia tua, Domine ;  etenim veritatem tuam in ecclesia sanctorum. ",
+      "hebrew_masoretic": "וְי֘וֹד֤וּ שָׁמַ֣יִם פִּלְאֲךָ֣ יְהֹוָ֑ה אַף־אֱ֝מ֥וּנָתְךָ֗ בִּקְהַ֥ל קְדֹשִֽׁים׃",
+      "douay_rheims": "The heavens shall confess thy wonders, O Lord: and thy truth in the church of the saints.",
+      "finnish_biblia": "Ja taivaat pitää ylistämän, Herra, sinun ihmeitäs, niin myös totuuttas pyhäin seurakunnassa. ",
+      "swedish_karl_xii": "Och himlarna, HERRE, skola prisa tin vnder; ock tina sanning, vthi the heligas församling.",
+      "king_james": "And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:6"
+        },
+        "hebrew_masoretic": {
+          "src": "89:6"
+        },
+        "douay_rheims": {
+          "src": "88:6"
+        },
+        "swedish_karl_xii": {
+          "src": "89:6"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Quoniam quis in nubibus æquabitur Domino ;  similis erit Deo in filiis Dei ? ",
+      "hebrew_masoretic": "כִּ֤י מִ֣י בַ֭שַּׁחַק יַעֲרֹ֣ךְ לַיהֹוָ֑ה יִדְמֶ֥ה לַ֝יהֹוָ֗ה בִּבְנֵ֥י אֵלִֽים׃",
+      "douay_rheims": "For who in the clouds can be compared to the Lord: or who among the sons of God shall be like to God?",
+      "finnish_biblia": "Sillä kuka taidetaan pilvissä verrattaa Herraan? ja kuka on Herran kaltainen jumalain lasten seassa? ",
+      "swedish_karl_xii": "Ty ho kan i skyyn liknas widh HERRAN? Och ibland gudarnas barn HERRANOM lijk wara?",
+      "king_james": "For who in the heaven can be compared unto the LORD? who among the sons of the mighty can be likened unto the LORD?",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:7"
+        },
+        "hebrew_masoretic": {
+          "src": "89:7"
+        },
+        "douay_rheims": {
+          "src": "88:7"
+        },
+        "swedish_karl_xii": {
+          "src": "89:7"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Deus, qui glorificatur in consilio sanctorum,  magnus et terribilis super omnes qui in circuitu ejus sunt. ",
+      "hebrew_masoretic": "אֵ֣ל נַ֭עֲרָץ בְּסוֹד־קְדֹשִׁ֣ים רַבָּ֑ה וְ֝נוֹרָ֗א עַל־כׇּל־סְבִיבָֽיו׃",
+      "douay_rheims": "God, who is glorified in the assembly of the saints: great and terrible above all them that are about him.",
+      "finnish_biblia": "Jumala on sangen väkevä pyhäinsä kokouksissa, ja ihmeellinen kaikkein seassa, jotka ovat hänen ympärillänsä. ",
+      "swedish_karl_xii": "Gudh är fast mächtig vthi the heligas församling; och vnderlig öfwer alla the som omkring honom äro.",
+      "king_james": "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all them that are about him.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:8"
+        },
+        "hebrew_masoretic": {
+          "src": "89:8"
+        },
+        "douay_rheims": {
+          "src": "88:8"
+        },
+        "swedish_karl_xii": {
+          "src": "89:8"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " Domine Deus virtutum, quis similis tibi ?  potens es, Domine, et veritas tua in circuitu tuo. ",
+      "hebrew_masoretic": "יְהֹוָ֤ה ׀ אֱלֹ֘הֵ֤י צְבָא֗וֹת מִי־כָמ֖וֹךָֽ חֲסִ֥ין ׀ יָ֑הּ וֶ֝אֱמ֥וּנָתְךָ֗ סְבִיבוֹתֶֽיךָ׃",
+      "douay_rheims": "O Lord God of hosts, who is like to thee? thou art mighty, O Lord, and thy truth is round about thee.",
+      "finnish_biblia": "Herra Jumala Zebaot, kuka on niinkuin sinä, väkevä Jumala? ja sinun totuutes on sinun ympärilläs. ",
+      "swedish_karl_xii": "HERRE Gudh Zebaoth, ho är såsom tu en mächtig Herre? Och tin sanning är alt omkring tigh.",
+      "king_james": "O LORD God of hosts, who is a strong LORD like unto thee? or to thy faithfulness round about thee?",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:9"
+        },
+        "hebrew_masoretic": {
+          "src": "89:9"
+        },
+        "douay_rheims": {
+          "src": "88:9"
+        },
+        "swedish_karl_xii": {
+          "src": "89:9"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": " Tu dominaris potestati maris ;  motum autem fluctuum ejus tu mitigas. ",
+      "hebrew_masoretic": "אַתָּ֣ה מ֭וֹשֵׁל בְּגֵא֣וּת הַיָּ֑ם בְּשׂ֥וֹא גַ֝לָּ֗יו אַתָּ֥ה תְשַׁבְּחֵֽם׃",
+      "douay_rheims": "Thou rulest the power of the sea: and appeasest the motion of the waves thereof.",
+      "finnish_biblia": "Sinä vallitset pauhaavaisen meren: sinä hillitset paisuvaiset aallot. ",
+      "swedish_karl_xii": "Tu råder öfwer thet stormande hafwet; tu styrer thes böljor när the vphäfwa sigh.",
+      "king_james": "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:10"
+        },
+        "hebrew_masoretic": {
+          "src": "89:10"
+        },
+        "douay_rheims": {
+          "src": "88:10"
+        },
+        "swedish_karl_xii": {
+          "src": "89:10"
+        }
+      }
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": " Tu humiliasti, sicut vulneratum, superbum ;  in brachio virtutis tuæ dispersisti inimicos tuos. ",
+      "hebrew_masoretic": "אַתָּ֤ה דִכִּ֣אתָ כֶחָלָ֣ל רָ֑הַב בִּזְר֥וֹעַ עֻ֝זְּךָ֗ פִּזַּ֥רְתָּ אוֹיְבֶֽיךָ׃",
+      "douay_rheims": "Thou hast humbled the proud one, as one that is slain: with the arm of thy strength thou hast scattered thy enemies.",
+      "finnish_biblia": "Sinä lyöt Rahabin kuoliaaksi: sinä hajoitat vihollises urhoollisella käsivarrellas. ",
+      "swedish_karl_xii": "Tu slår Rahab til dödz; tu förströr tina fiendar medh tinom starcka arm.",
+      "king_james": "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:11"
+        },
+        "hebrew_masoretic": {
+          "src": "89:11"
+        },
+        "douay_rheims": {
+          "src": "88:11"
+        },
+        "swedish_karl_xii": {
+          "src": "89:11"
+        }
+      }
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": " Tui sunt cæli, et tua est terra :  orbem terræ, et plenitudinem ejus tu fundasti ; ",
+      "hebrew_masoretic": "לְךָ֣ שָׁ֭מַיִם אַף־לְךָ֥ אָ֑רֶץ תֵּבֵ֥ל וּ֝מְלֹאָ֗הּ אַתָּ֥ה יְסַדְתָּֽם׃",
+      "douay_rheims": "Thine are the heavens, and thine is the earth: the world and the fulness thereof thou hast founded:",
+      "finnish_biblia": "Taivaat ovat sinun, maa myös on sinun: sinä olet perustanut maan piirin, ja mitä siinä on. ",
+      "swedish_karl_xii": "Himmel och jord äro tin: tu hafwer grundat jordenes kretz, och hwad ther vthi är.",
+      "king_james": "The heavens are thine, the earth also is thine: as for the world and the fulness thereof, thou hast founded them.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:12"
+        },
+        "hebrew_masoretic": {
+          "src": "89:12"
+        },
+        "douay_rheims": {
+          "src": "88:12"
+        },
+        "swedish_karl_xii": {
+          "src": "89:12"
+        }
+      }
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": " aquilonem et mare tu creasti.  Thabor et Hermon in nomine tuo exsultabunt : ",
+      "hebrew_masoretic": "צָפ֣וֹן וְ֭יָמִין אַתָּ֣ה בְרָאתָ֑ם תָּב֥וֹר וְ֝חֶרְמ֗וֹן בְּשִׁמְךָ֥ יְרַנֵּֽנוּ׃",
+      "douay_rheims": "The north and the sea thou hast created. Thabor and Hermon shall rejoice in thy name:",
+      "finnish_biblia": "Pohjan ja etelän olet sinä luonut: Tabor ja Hermon kiittävät sinun nimeäs. ",
+      "swedish_karl_xii": "Norr och söder hafwer tu skapat; Thabor och Hermon frögdar sigh i titt namn.",
+      "king_james": "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:13"
+        },
+        "hebrew_masoretic": {
+          "src": "89:13"
+        },
+        "douay_rheims": {
+          "src": "88:13"
+        },
+        "swedish_karl_xii": {
+          "src": "89:13"
+        }
+      }
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": " tuum brachium cum potentia.  Firmetur manus tua, et exaltetur dextera tua : ",
+      "hebrew_masoretic": "לְךָ֣ זְ֭רוֹעַ עִם־גְּבוּרָ֑ה תָּעֹ֥ז יָ֝דְךָ֗ תָּר֥וּם יְמִינֶֽךָ׃",
+      "douay_rheims": "Thy arm is with might. Let thy hand be strengthened, and thy right hand exalted:",
+      "finnish_biblia": "Sinulla on voimallinen käsivarsi: väkevä on sinun kätes, ja korkia on oikia kätes. ",
+      "swedish_karl_xii": "Tu hafwer en wäldig arm; starck är tin hand, och högh är tin högra hand.",
+      "king_james": "Thou hast a mighty arm: strong is thy hand, and high is thy right hand.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:14"
+        },
+        "hebrew_masoretic": {
+          "src": "89:14"
+        },
+        "douay_rheims": {
+          "src": "88:14"
+        },
+        "swedish_karl_xii": {
+          "src": "89:14"
+        }
+      }
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": " justitia et judicium præparatio sedis tuæ :  misericordia et veritas præcedent faciem tuam. ",
+      "hebrew_masoretic": "צֶ֣דֶק וּ֭מִשְׁפָּט מְכ֣וֹן כִּסְאֶ֑ךָ חֶ֥סֶד וֶ֝אֱמֶ֗ת יְֽקַדְּמ֥וּ פָנֶֽיךָ׃",
+      "douay_rheims": "Justice and judgment are the preparation of thy throne. Mercy and truth shall go before thy face:",
+      "finnish_biblia": "Vanhurskaus ja tuomio on istuimes vahvistus: armo ja totuus ovat sinun kasvois edessä. ",
+      "swedish_karl_xii": "Rättferdighet och doom är tins stools stadfästelse; nådh och sanning äro för titt ansichte.",
+      "king_james": "Justice and judgment are the habitation of thy throne: mercy and truth shall go before thy face.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:15"
+        },
+        "hebrew_masoretic": {
+          "src": "89:15"
+        },
+        "douay_rheims": {
+          "src": "88:15"
+        },
+        "swedish_karl_xii": {
+          "src": "89:15"
+        }
+      }
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": " Beatus populus qui scit jubilationem :  Domine, in lumine vultus tui ambulabunt, ",
+      "hebrew_masoretic": "אַשְׁרֵ֣י הָ֭עָם יֹדְעֵ֣י תְרוּעָ֑ה יְ֝הֹוָ֗ה בְּֽאוֹר־פָּנֶ֥יךָ יְהַלֵּכֽוּן׃",
+      "douay_rheims": "Blessed is the people that knoweth jubilation. They shall walk, O Lord, in the light of thy countenance:",
+      "finnish_biblia": "Autuas on se kansa, joka ihastua taitaa: Herra, heidän pitää vaeltaman sinun kasvois valkeudessa. ",
+      "swedish_karl_xii": "Wäl är the folcke som frögdas kan; HERRE, the skola wandra i tins ansichtes lius.",
+      "king_james": "Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:16"
+        },
+        "hebrew_masoretic": {
+          "src": "89:16"
+        },
+        "douay_rheims": {
+          "src": "88:16"
+        },
+        "swedish_karl_xii": {
+          "src": "89:16"
+        }
+      }
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": " et in nomine tuo exsultabunt tota die,  et in justitia tua exaltabuntur. ",
+      "hebrew_masoretic": "בְּ֭שִׁמְךָ יְגִיל֣וּן כׇּל־הַיּ֑וֹם וּבְצִדְקָתְךָ֥ יָרֽוּמוּ׃",
+      "douay_rheims": "And in thy name they shall rejoice all the day, and in thy justice they shall be exalted.",
+      "finnish_biblia": "Heidän pitää iloitseman joka päivä sinun nimestäs, ja sinun vanhurskaudessas kunnialliset oleman. ",
+      "swedish_karl_xii": "The skola dagliga öfwer titt namn glade wara; och i tine rättferdighet härlige wara.",
+      "king_james": "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:17"
+        },
+        "hebrew_masoretic": {
+          "src": "89:17"
+        },
+        "douay_rheims": {
+          "src": "88:17"
+        },
+        "swedish_karl_xii": {
+          "src": "89:17"
+        }
+      }
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": " Quoniam gloria virtutis eorum tu es,  et in beneplacito tuo exaltabitur cornu nostrum. ",
+      "hebrew_masoretic": "כִּי־תִפְאֶ֣רֶת עֻזָּ֣מוֹ אָ֑תָּה וּ֝בִרְצוֹנְךָ֗ (תרים) [תָּר֥וּם] קַרְנֵֽינוּ׃",
+      "douay_rheims": "For thou art the glory of their strength: and in thy good pleasure shall our horn be exalted.",
+      "finnish_biblia": "Sillä sinä olet heidän väkevyytensä kerskaus, ja sinun armos kautta nostat sinä ylös meidän sarvemme. ",
+      "swedish_karl_xii": "Ty tu äst theras starckhets berömelse; och genom tina nåde skalt tu vphöija wårt horn.",
+      "king_james": "For thou art the glory of their strength: and in thy favour our horn shall be exalted.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:18"
+        },
+        "hebrew_masoretic": {
+          "src": "89:18"
+        },
+        "douay_rheims": {
+          "src": "88:18"
+        },
+        "swedish_karl_xii": {
+          "src": "89:18"
+        }
+      }
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": " Quia Domini est assumptio nostra,  et sancti Israël regis nostri. ",
+      "hebrew_masoretic": "כִּ֣י לַ֭יהֹוָה מָגִנֵּ֑נוּ וְלִקְד֖וֹשׁ יִשְׂרָאֵ֣ל מַלְכֵּֽנוּ׃",
+      "douay_rheims": "For our protection is of the Lord, and of our king the holy one of Israel.",
+      "finnish_biblia": "Sillä Herra on meidän kilpemme, ja pyhä Israelissa on meidän kuninkaamme. ",
+      "swedish_karl_xii": "Ty HERREN är wår sköld; och then Helige i Jsrael är wår Konung.",
+      "king_james": "For the LORD is our defence; and the Holy One of Israel is our king.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:19"
+        },
+        "hebrew_masoretic": {
+          "src": "89:19"
+        },
+        "douay_rheims": {
+          "src": "88:19"
+        },
+        "swedish_karl_xii": {
+          "src": "89:19"
+        }
+      }
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": " Tunc locutus es in visione sanctis tuis,  et dixisti : Posui adjutorium in potente,  et exaltavi electum de plebe mea. ",
+      "hebrew_masoretic": "אָ֤ז דִּבַּ֥רְתָּֽ־בְחָז֡וֹן לַחֲסִידֶ֗יךָ וַתֹּ֗אמֶר שִׁוִּ֣יתִי עֵ֭זֶר עַל־גִּבּ֑וֹר הֲרִימ֖וֹתִי בָח֣וּר מֵעָֽם׃",
+      "douay_rheims": "Then thou spokest in a vision to thy saints, and saidst: I have laid help upon one that is mighty, and have exalted one chosen out of my people.",
+      "finnish_biblia": "Silloin sinä puhuit näyissä pyhilles ja sanoit: minä olen sankarin herättänyt auttamaan: minä olen korottanut valitun kansasta. ",
+      "swedish_karl_xii": "På then tiden talade tu i een syyn til tina heliga, och sade: Jagh hafwer vpwäckt en hielta then hielpa skal; jagh hafwer vphögdt en vthkoradan vthu folcket.",
+      "king_james": "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon one that is mighty; I have exalted one chosen out of the people.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:20"
+        },
+        "hebrew_masoretic": {
+          "src": "89:20"
+        },
+        "douay_rheims": {
+          "src": "88:20"
+        },
+        "swedish_karl_xii": {
+          "src": "89:20"
+        }
+      }
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": " Inveni David, servum meum ;  oleo sancto meo unxi eum. ",
+      "hebrew_masoretic": "מָ֭צָאתִי דָּוִ֣ד עַבְדִּ֑י בְּשֶׁ֖מֶן קׇדְשִׁ֣י מְשַׁחְתִּֽיו׃",
+      "douay_rheims": "I have found David my servant: with my holy oil I have anointed him.",
+      "finnish_biblia": "Minä olen löytänyt palveliani Davidin: minä olen hänen voidellut pyhällä öljylläni. ",
+      "swedish_karl_xii": "Jagh hafwer funnit min tienare David; jagh hafwer smordt honom medh mine helga oljo.",
+      "king_james": "I have found David my servant; with my holy oil have I anointed him:",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:21"
+        },
+        "hebrew_masoretic": {
+          "src": "89:21"
+        },
+        "douay_rheims": {
+          "src": "88:21"
+        },
+        "swedish_karl_xii": {
+          "src": "89:21"
+        }
+      }
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": " Manus enim mea auxiliabitur ei,  et brachium meum confortabit eum. ",
+      "hebrew_masoretic": "אֲשֶׁ֣ר יָ֭דִי תִּכּ֣וֹן עִמּ֑וֹ אַף־זְרוֹעִ֥י תְאַמְּצֶֽנּוּ׃",
+      "douay_rheims": "For my hand shall help him: and my arm shall strengthen him.",
+      "finnish_biblia": "Minun käteni tukee häntä, ja minun käsivarteni vahvistaa häntä. ",
+      "swedish_karl_xii": "Min hand vppehåller honom, och min arm skal styrckia honom.",
+      "king_james": "With whom my hand shall be established: mine arm also shall strengthen him.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:22"
+        },
+        "hebrew_masoretic": {
+          "src": "89:22"
+        },
+        "douay_rheims": {
+          "src": "88:22"
+        },
+        "swedish_karl_xii": {
+          "src": "89:22"
+        }
+      }
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": " Nihil proficiet inimicus in eo,  et filius iniquitatis non apponet nocere ei. ",
+      "hebrew_masoretic": "לֹא־יַשִּׁ֣יא אוֹיֵ֣ב בּ֑וֹ וּבֶן־עַ֝וְלָ֗ה לֹ֣א יְעַנֶּֽנּוּ׃",
+      "douay_rheims": "The enemy shall have no advantage over him: nor the son of iniquity have power to hurt him.",
+      "finnish_biblia": "Ei pidä viholliset häntä voittaman, ja väärät ei pidä häntä sulloman. ",
+      "swedish_karl_xii": "Fienderna skola icke wara honom öfwermächtige; och the orättferdige skola icke förtryckia honom.",
+      "king_james": "The enemy shall not exact upon him; nor the son of wickedness afflict him.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:23"
+        },
+        "hebrew_masoretic": {
+          "src": "89:23"
+        },
+        "douay_rheims": {
+          "src": "88:23"
+        },
+        "swedish_karl_xii": {
+          "src": "89:23"
+        }
+      }
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": " Et concidam a facie ipsius inimicos ejus,  et odientes eum in fugam convertam. ",
+      "hebrew_masoretic": "וְכַתּוֹתִ֣י מִפָּנָ֣יו צָרָ֑יו וּמְשַׂנְאָ֥יו אֶגּֽוֹף׃",
+      "douay_rheims": "And I will cut down his enemies before his face; and them that hate him I will put to flight.",
+      "finnish_biblia": "Vaan minä lyön hänen vihollisensa hänen edestänsä; ja niitä, jotka häntä vihaavat, tahdon minä vaivata. ",
+      "swedish_karl_xii": "Vtan jagh skal slå hans owänner för honom; och the honom hata wil jagh plåga.",
+      "king_james": "And I will beat down his foes before his face, and plague them that hate him.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:24"
+        },
+        "hebrew_masoretic": {
+          "src": "89:24"
+        },
+        "douay_rheims": {
+          "src": "88:24"
+        },
+        "swedish_karl_xii": {
+          "src": "89:24"
+        }
+      }
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": " Et veritas mea et misericordia mea cum ipso,  et in nomine meo exaltabitur cornu ejus. ",
+      "hebrew_masoretic": "וֶ֥אֱֽמוּנָתִ֣י וְחַסְדִּ֣י עִמּ֑וֹ וּ֝בִשְׁמִ֗י תָּר֥וּם קַרְנֽוֹ׃",
+      "douay_rheims": "And my truth and my mercy shall be with him: and in my name shall his horn be exalted.",
+      "finnish_biblia": "Mutta minun totuuteni ja armoni pitää hänen tykönänsä oleman, ja hänen sarvensa pitää minun nimeeni nostettaman ylös. ",
+      "swedish_karl_xii": "Men min sanning och nådh skal när honom wara; och hans horn skal i mitt namn vphögdt warda.",
+      "king_james": "But my faithfulness and my mercy shall be with him: and in my name shall his horn be exalted.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:25"
+        },
+        "hebrew_masoretic": {
+          "src": "89:25"
+        },
+        "douay_rheims": {
+          "src": "88:25"
+        },
+        "swedish_karl_xii": {
+          "src": "89:25"
+        }
+      }
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": " Et ponam in mari manum ejus,  et in fluminibus dexteram ejus. ",
+      "hebrew_masoretic": "וְשַׂמְתִּ֣י בַיָּ֣ם יָד֑וֹ וּֽבַנְּהָר֥וֹת יְמִינֽוֹ׃",
+      "douay_rheims": "And I will set his hand in the sea; and his right hand in the rivers.",
+      "finnish_biblia": "Minä asetan hänen kätensä mereen, ja hänen oikian kätensä virtoihin. ",
+      "swedish_karl_xii": "Jagh skal sättia hans hand vthi hafwet, och hans högra hand vthi älfwerna.",
+      "king_james": "I will set his hand also in the sea, and his right hand in the rivers.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:26"
+        },
+        "hebrew_masoretic": {
+          "src": "89:26"
+        },
+        "douay_rheims": {
+          "src": "88:26"
+        },
+        "swedish_karl_xii": {
+          "src": "89:26"
+        }
+      }
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": " Ipse invocabit me : Pater meus es tu,  Deus meus, et susceptor salutis meæ. ",
+      "hebrew_masoretic": "ה֣וּא יִ֭קְרָאֵנִי אָ֣בִי אָ֑תָּה אֵ֝לִ֗י וְצ֣וּר יְשׁוּעָתִֽי׃",
+      "douay_rheims": "He shall cry out to me: Thou art my father: my God, and the support of my salvation.",
+      "finnish_biblia": "Näin hänen pitää minun kutsuman: sinä olet minun Isäni, Jumalani ja turvani, joka minua auttaa. ",
+      "swedish_karl_xii": "Han skal kalla migh altså: Tu äst min fader, min Gudh och tröst, then migh hielper.",
+      "king_james": "He shall cry unto me, Thou art my father, my God, and the rock of my salvation.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:27"
+        },
+        "hebrew_masoretic": {
+          "src": "89:27"
+        },
+        "douay_rheims": {
+          "src": "88:27"
+        },
+        "swedish_karl_xii": {
+          "src": "89:27"
+        }
+      }
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": " Et ego primogenitum ponam illum,  excelsum præ regibus terræ. ",
+      "hebrew_masoretic": "אַף־אָ֭נִי בְּכ֣וֹר אֶתְּנֵ֑הוּ עֶ֝לְי֗וֹן לְמַלְכֵי־אָֽרֶץ׃",
+      "douay_rheims": "And I will make him my firstborn, high above the kings of the earth.",
+      "finnish_biblia": "Ja minä asetan hänen esikoiseksi, kaikkein korkeimmaksi kuningasten seassa maan päällä. ",
+      "swedish_karl_xii": "Och jagh skal giöra honom til första sonen, then alrahögsta ibland Konungarna på jordene.",
+      "king_james": "Also I will make him my firstborn, higher than the kings of the earth.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:28"
+        },
+        "hebrew_masoretic": {
+          "src": "89:28"
+        },
+        "douay_rheims": {
+          "src": "88:28"
+        },
+        "swedish_karl_xii": {
+          "src": "89:28"
+        }
+      }
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": " In æternum servabo illi misericordiam meam,  et testamentum meum fidele ipsi. ",
+      "hebrew_masoretic": "לְ֭עוֹלָם (אשמור) [אֶשְׁמׇר־]ל֣וֹ חַסְדִּ֑י וּ֝בְרִיתִ֗י נֶאֱמֶ֥נֶת לֽוֹ׃",
+      "douay_rheims": "I will keep my mercy for him for ever: and my covenant faithful to him.",
+      "finnish_biblia": "Minä pidän hänelle armoni tähteellä ijankaikkisesti, ja minun liittoni pitää hänelle vahva oleman. ",
+      "swedish_karl_xii": "Jagh wil behålla honom mina nådh ewinnerliga; och mitt förbund skal honom fast blifwa.",
+      "king_james": "My mercy will I keep for him for evermore, and my covenant shall stand fast with him.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:29"
+        },
+        "hebrew_masoretic": {
+          "src": "89:29"
+        },
+        "douay_rheims": {
+          "src": "88:29"
+        },
+        "swedish_karl_xii": {
+          "src": "89:29"
+        }
+      }
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": " Et ponam in sæculum sæculi semen ejus,  et thronum ejus sicut dies cæli. ",
+      "hebrew_masoretic": "וְשַׂמְתִּ֣י לָעַ֣ד זַרְע֑וֹ וְ֝כִסְא֗וֹ כִּימֵ֥י שָׁמָֽיִם׃",
+      "douay_rheims": "And I will make his seed to endure for evermore: and his throne as the days of heaven.",
+      "finnish_biblia": "Minä annan hänelle ijankaikkisen siemenen, ja vahvistan hänen istuimensa niinkauvan kuin taivaat pysyvät. ",
+      "swedish_karl_xii": "Jagh skal gifwa honom een ewig sädh; och hans stool vppehålla så länge himmelen warar.",
+      "king_james": "His seed also will I make to endure for ever, and his throne as the days of heaven.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:30"
+        },
+        "hebrew_masoretic": {
+          "src": "89:30"
+        },
+        "douay_rheims": {
+          "src": "88:30"
+        },
+        "swedish_karl_xii": {
+          "src": "89:30"
+        }
+      }
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": " Si autem dereliquerint filii ejus legem meam,  et in judiciis meis non ambulaverint ; ",
+      "hebrew_masoretic": "אִם־יַעַזְב֣וּ בָ֭נָיו תּוֹרָתִ֑י וּ֝בְמִשְׁפָּטַ֗י לֹ֣א יֵלֵכֽוּן׃",
+      "douay_rheims": "And if his children forsake my law, and walk not in my judgments:",
+      "finnish_biblia": "Mutta jos hänen lapsensa minun lakini hylkäävät, ja ei vaella minun oikeudessani, ",
+      "swedish_karl_xii": "Men om hans barn min lagh öfwergifwa, och i minom rättom icke wandra:",
+      "king_james": "If his children forsake my law, and walk not in my judgments;",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:31"
+        },
+        "hebrew_masoretic": {
+          "src": "89:31"
+        },
+        "douay_rheims": {
+          "src": "88:31"
+        },
+        "swedish_karl_xii": {
+          "src": "89:31"
+        }
+      }
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": " si justitias meas profanaverint,  et mandata mea non custodierint : ",
+      "hebrew_masoretic": "אִם־חֻקֹּתַ֥י יְחַלֵּ֑לוּ וּ֝מִצְוֺתַ֗י לֹ֣א יִשְׁמֹֽרוּ׃",
+      "douay_rheims": "If they profane my justices: and keep not my commandments:",
+      "finnish_biblia": "Jos he minun säätyni turmelevat, ja ei minun käskyjäni pidä; ",
+      "swedish_karl_xii": "Om the mina stadgar ohelga, och min budh icke hålla:",
+      "king_james": "If they break my statutes, and keep not my commandments;",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:32"
+        },
+        "hebrew_masoretic": {
+          "src": "89:32"
+        },
+        "douay_rheims": {
+          "src": "88:32"
+        },
+        "swedish_karl_xii": {
+          "src": "89:32"
+        }
+      }
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": " visitabo in virga iniquitates eorum,  et in verberibus peccata eorum ; ",
+      "hebrew_masoretic": "וּפָקַדְתִּ֣י בְשֵׁ֣בֶט פִּשְׁעָ֑ם וּבִנְגָעִ֥ים עֲוֺנָֽם׃",
+      "douay_rheims": "I will visit their iniquities with a rod and their sins with stripes.",
+      "finnish_biblia": "Niin minä heidän syntinsä vitsalla rankaisen, ja heidän pahat tekonsa haavoilla. ",
+      "swedish_karl_xii": "Så wil jagh hemsökia theras synd medh rijs, och theras mißgierningar medh plågor.",
+      "king_james": "Then will I visit their transgression with the rod, and their iniquity with stripes.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:33"
+        },
+        "hebrew_masoretic": {
+          "src": "89:33"
+        },
+        "douay_rheims": {
+          "src": "88:33"
+        },
+        "swedish_karl_xii": {
+          "src": "89:33"
+        }
+      }
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": " misericordiam autem meam non dispergam ab eo,  neque nocebo in veritate mea, ",
+      "hebrew_masoretic": "וְ֭חַסְדִּי לֹא־אָפִ֣יר מֵעִמּ֑וֹ וְלֹֽא־אֲ֝שַׁקֵּ֗ר בֶּאֱמוּנָתִֽי׃",
+      "douay_rheims": "But my mercy I will not take away from him: nor will I suffer my truth to fail.",
+      "finnish_biblia": "Mutta armoani en minä hänestä käännä pois, enkä salli totuuteni vilpistellä. ",
+      "swedish_karl_xii": "Men mina nådh wil jagh icke wända ifrå honom, och icke låta mina sanning fela.",
+      "king_james": "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:34"
+        },
+        "hebrew_masoretic": {
+          "src": "89:34"
+        },
+        "douay_rheims": {
+          "src": "88:34"
+        },
+        "swedish_karl_xii": {
+          "src": "89:34"
+        }
+      }
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": " neque profanabo testamentum meum :  et quæ procedunt de labiis meis non faciam irrita. ",
+      "hebrew_masoretic": "לֹֽא־אֲחַלֵּ֥ל בְּרִיתִ֑י וּמוֹצָ֥א שְׂ֝פָתַ֗י לֹ֣א אֲשַׁנֶּֽה׃",
+      "douay_rheims": "Neither will I profane my covenant: and the words that proceed from my mouth I will not make void.",
+      "finnish_biblia": "En minä riko liittoani, ja mitä minun suustani käynyt on, en minä muuta. ",
+      "swedish_karl_xii": "Jagh wil icke ohelga mitt förbund, och icke ogilt giöra hwad af minom mun vthgångit är.",
+      "king_james": "My covenant will I not break, nor alter the thing that is gone out of my lips.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:35"
+        },
+        "hebrew_masoretic": {
+          "src": "89:35"
+        },
+        "douay_rheims": {
+          "src": "88:35"
+        },
+        "swedish_karl_xii": {
+          "src": "89:35"
+        }
+      }
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": " Semel juravi in sancto meo, si David mentiar : ",
+      "hebrew_masoretic": "אַ֭חַת נִשְׁבַּ֣עְתִּי בְקׇדְשִׁ֑י אִֽם־לְדָוִ֥ד אֲכַזֵּֽב׃",
+      "douay_rheims": "Once have I sworn by my holiness: I will not lie unto David:",
+      "finnish_biblia": "Minä olen vihdoin vannonut pyhyyteni kautta: en minä Davidille valehtele. ",
+      "swedish_karl_xii": "Jagh hafwer en gång sworit widh mina helighet: jagh wil icke liuga för David.",
+      "king_james": "Once have I sworn by my holiness that I will not lie unto David.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:36"
+        },
+        "hebrew_masoretic": {
+          "src": "89:36"
+        },
+        "douay_rheims": {
+          "src": "88:36"
+        },
+        "swedish_karl_xii": {
+          "src": "89:36"
+        }
+      }
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": " semen ejus in æternum manebit.  Et thronus ejus sicut sol in conspectu meo, ",
+      "hebrew_masoretic": "זַ֭רְעוֹ לְעוֹלָ֣ם יִהְיֶ֑ה וְכִסְא֖וֹ כַשֶּׁ֣מֶשׁ נֶגְדִּֽי׃",
+      "douay_rheims": "His seed shall endure for ever.",
+      "finnish_biblia": "Hänen siemenensä on oleva ijankaikkisesti, ja hänen istuimensa minun edessäni niinkuin aurinko. ",
+      "swedish_karl_xii": "Hans sädh skal ewig wara; och hans stool för migh såsom solen.",
+      "king_james": "His seed shall endure for ever, and his throne as the sun before me.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:37"
+        },
+        "hebrew_masoretic": {
+          "src": "89:37"
+        },
+        "douay_rheims": {
+          "src": "88:37"
+        },
+        "swedish_karl_xii": {
+          "src": "89:37"
+        }
+      }
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": " et sicut luna perfecta in æternum,  et testis in cælo fidelis. ",
+      "hebrew_masoretic": "כְּ֭יָרֵחַ יִכּ֣וֹן עוֹלָ֑ם וְעֵ֥ד בַּ֝שַּׁ֗חַק נֶאֱמָ֥ן סֶֽלָה׃",
+      "douay_rheims": "And his throne as the sun before me: and as the moon perfect for ever, and a faithful witness in heaven.",
+      "finnish_biblia": "Ja niinkuin kuu, vahvistetaan se ijankaikkisesti, ja on vahvana niinkuin todistus pilvissä, Sela! ",
+      "swedish_karl_xii": "Såsom månen skal han ewinnerliga widh macht hållen warda; och såsom the witne i skyyn wiß wara. Sela.",
+      "king_james": "It shall be established for ever as the moon, and as a faithful witness in heaven. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:38"
+        },
+        "hebrew_masoretic": {
+          "src": "89:38"
+        },
+        "douay_rheims": {
+          "src": "88:38"
+        },
+        "swedish_karl_xii": {
+          "src": "89:38"
+        }
+      }
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": " Tu vero repulisti et despexisti ;  distulisti christum tuum. ",
+      "hebrew_masoretic": "וְאַתָּ֣ה זָ֭נַחְתָּ וַתִּמְאָ֑ס הִ֝תְעַבַּ֗רְתָּ עִם־מְשִׁיחֶֽךָ׃",
+      "douay_rheims": "But thou hast rejected and despised: thou hast been angry with my anointed.",
+      "finnish_biblia": "Vaan nyt sinä syökset ja heität pois, ja vihastut voidellulles. ",
+      "swedish_karl_xii": "Men nu bortdrifwer tu och förkastar, och wredgas medh tinom sinorda.",
+      "king_james": "But thou hast cast off and abhorred, thou hast been wroth with thine anointed.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:39"
+        },
+        "hebrew_masoretic": {
+          "src": "89:39"
+        },
+        "douay_rheims": {
+          "src": "88:39"
+        },
+        "swedish_karl_xii": {
+          "src": "89:39"
+        }
+      }
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": " Evertisti testamentum servi tui ;  profanasti in terra sanctuarium ejus. ",
+      "hebrew_masoretic": "נֵ֭אַרְתָּה בְּרִ֣ית עַבְדֶּ֑ךָ חִלַּ֖לְתָּ לָאָ֣רֶץ נִזְרֽוֹ׃",
+      "douay_rheims": "Thou hast overthrown the covenant of thy servant: thou hast profaned his sanctuary on the earth.",
+      "finnish_biblia": "Sinä särjet palvelias liiton, ja tallaat hänen kruununsa maahan. ",
+      "swedish_karl_xii": "Tu bryter tins tienares förbund; och trampar hans krono neder på jordena.",
+      "king_james": "Thou hast made void the covenant of thy servant: thou hast profaned his crown by casting it to the ground.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:40"
+        },
+        "hebrew_masoretic": {
+          "src": "89:40"
+        },
+        "douay_rheims": {
+          "src": "88:40"
+        },
+        "swedish_karl_xii": {
+          "src": "89:40"
+        }
+      }
+    },
+    {
+      "verse": 40,
+      "latin_vulgate": " Destruxisti omnes sepes ejus ;  posuisti firmamentum ejus formidinem. ",
+      "hebrew_masoretic": "פָּרַ֥צְתָּ כׇל־גְּדֵרֹתָ֑יו שַׂ֖מְתָּ מִבְצָרָ֣יו מְחִתָּֽה׃",
+      "douay_rheims": "Thou hast broken down all his hedges: thou hast made his strength fear.",
+      "finnish_biblia": "Sinä rikot hänen muurinsa, ja annat hänen linnansa särjettää. ",
+      "swedish_karl_xii": "Tu nederrifwer alla hans murar; och låter hans fäste afbrytas.",
+      "king_james": "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:41"
+        },
+        "hebrew_masoretic": {
+          "src": "89:41"
+        },
+        "douay_rheims": {
+          "src": "88:41"
+        },
+        "swedish_karl_xii": {
+          "src": "89:41"
+        }
+      }
+    },
+    {
+      "verse": 41,
+      "latin_vulgate": " Diripuerunt eum omnes transeuntes viam ;  factus est opprobrium vicinis suis. ",
+      "hebrew_masoretic": "שַׁ֭סֻּהוּ כׇּל־עֹ֣בְרֵי דָ֑רֶךְ הָיָ֥ה חֶ֝רְפָּ֗ה לִשְׁכֵנָֽיו׃",
+      "douay_rheims": "All that pass by the way have robbed him: he is become a reproach to his neighbours.",
+      "finnish_biblia": "Häntä raatelevat kaikki ohitsekäyväiset: hän on tullut läsnäolevaisillensa nauruksi. ",
+      "swedish_karl_xii": "Honom beröfwa alle the ther fram om gå; han är sinom grannom ett gabberij worden.",
+      "king_james": "All that pass by the way spoil him: he is a reproach to his neighbours.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:42"
+        },
+        "hebrew_masoretic": {
+          "src": "89:42"
+        },
+        "douay_rheims": {
+          "src": "88:42"
+        },
+        "swedish_karl_xii": {
+          "src": "89:42"
+        }
+      }
+    },
+    {
+      "verse": 42,
+      "latin_vulgate": " Exaltasti dexteram deprimentium eum ;  lætificasti omnes inimicos ejus. ",
+      "hebrew_masoretic": "הֲ֭רִימוֹתָ יְמִ֣ין צָרָ֑יו הִ֝שְׂמַ֗חְתָּ כׇּל־אוֹיְבָֽיו׃",
+      "douay_rheims": "Thou hast set up the right hand of them that oppress him: thou hast made all his enemies to rejoice.",
+      "finnish_biblia": "Sinä korotat hänen vihollistensa oikian käden, ja ilahutat kaikki hänen vainollisensa. ",
+      "swedish_karl_xii": "Tu vphöijer hans owänners högra hand; och gläder alla hans fiendar.",
+      "king_james": "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:43"
+        },
+        "hebrew_masoretic": {
+          "src": "89:43"
+        },
+        "douay_rheims": {
+          "src": "88:43"
+        },
+        "swedish_karl_xii": {
+          "src": "89:43"
+        }
+      }
+    },
+    {
+      "verse": 43,
+      "latin_vulgate": " Avertisti adjutorium gladii ejus,  et non es auxiliatus ei in bello. ",
+      "hebrew_masoretic": "אַף־תָּ֭שִׁיב צ֣וּר חַרְבּ֑וֹ וְלֹ֥א הֲ֝קֵימֹת֗וֹ בַּמִּלְחָמָֽה׃",
+      "douay_rheims": "Thou hast turned away the help of his sword; and hast not assisted him in battle.",
+      "finnish_biblia": "Hänen miekkansa voiman olet sinä myös ottanut pois, ja et salli hänen voittaa sodassa, ",
+      "swedish_karl_xii": "Ock hafwer tu hans swärds kraft borttaget, och låter honom ingen seger winna i stridene.",
+      "king_james": "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:44"
+        },
+        "hebrew_masoretic": {
+          "src": "89:44"
+        },
+        "douay_rheims": {
+          "src": "88:44"
+        },
+        "swedish_karl_xii": {
+          "src": "89:44"
+        }
+      }
+    },
+    {
+      "verse": 44,
+      "latin_vulgate": " Destruxisti eum ab emundatione,  et sedem ejus in terram collisisti. ",
+      "hebrew_masoretic": "הִשְׁבַּ֥תָּ מִטְּהָר֑וֹ וְ֝כִסְא֗וֹ לָאָ֥רֶץ מִגַּֽרְתָּה׃",
+      "douay_rheims": "Thou hast made his purification to cease: and thou hast cast his throne down to the ground.",
+      "finnish_biblia": "Sinä hävitit hänen puhtautensa, ja annoit hänen istuimensa kaatua maahan. ",
+      "swedish_karl_xii": "Tu förstörer hans reenhet, och kastar hans stool til jordena.",
+      "king_james": "Thou hast made his glory to cease, and cast his throne down to the ground.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:45"
+        },
+        "hebrew_masoretic": {
+          "src": "89:45"
+        },
+        "douay_rheims": {
+          "src": "88:45"
+        },
+        "swedish_karl_xii": {
+          "src": "89:45"
+        }
+      }
+    },
+    {
+      "verse": 45,
+      "latin_vulgate": " Minorasti dies temporis ejus ;  perfudisti eum confusione. ",
+      "hebrew_masoretic": "הִ֭קְצַרְתָּ יְמֵ֣י עֲלוּמָ֑יו הֶ֥עֱטִ֨יתָ עָלָ֖יו בּוּשָׁ֣ה סֶֽלָה׃",
+      "douay_rheims": "Thou hast shortened the days of his time: thou hast covered him with confusion.",
+      "finnish_biblia": "Sinä lyhennät hänen nuoruutensa ajat, ja peität hänen häpiällä, Sela! ",
+      "swedish_karl_xii": "Tu förkortar hans vngdoms tijd; och betäcker honom medh blygd. Sela.",
+      "king_james": "The days of his youth hast thou shortened: thou hast covered him with shame. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:46"
+        },
+        "hebrew_masoretic": {
+          "src": "89:46"
+        },
+        "douay_rheims": {
+          "src": "88:46"
+        },
+        "swedish_karl_xii": {
+          "src": "89:46"
+        }
+      }
+    },
+    {
+      "verse": 46,
+      "latin_vulgate": " Usquequo, Domine, avertis in finem ?  exardescet sicut ignis ira tua ? ",
+      "hebrew_masoretic": "עַד־מָ֣ה יְ֭הֹוָה תִּסָּתֵ֣ר לָנֶ֑צַח תִּבְעַ֖ר כְּמוֹ־אֵ֣שׁ חֲמָתֶֽךָ׃",
+      "douay_rheims": "How long, O Lord, turnest thou away unto the end? shall thy anger burn like fire?",
+      "finnish_biblia": "Herra, kuinka kauvan sinä sinus niin salaat? ja annat hirmuisuutes palaa niinkuin tulen? ",
+      "swedish_karl_xii": "HERRE, huru länge wilt tu tigh så alstinges fördölja? Och låta tina grymhet brinna såsom en eld?",
+      "king_james": "How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:47"
+        },
+        "hebrew_masoretic": {
+          "src": "89:47"
+        },
+        "douay_rheims": {
+          "src": "88:47"
+        },
+        "swedish_karl_xii": {
+          "src": "89:47"
+        }
+      }
+    },
+    {
+      "verse": 47,
+      "latin_vulgate": " Memorare quæ mea substantia :  numquid enim vane constituisti omnes filios hominum ? ",
+      "hebrew_masoretic": "זְכׇר־אֲנִ֥י מֶה־חָ֑לֶד עַל־מַה־שָּׁ֝֗וְא בָּרָ֥אתָ כׇל־בְּנֵֽי־אָדָֽם׃",
+      "douay_rheims": "Remember what my substance is: for hast thou made all the children of men in vain?",
+      "finnish_biblia": "Muista, kuinka lyhyt minun elämäni on: miksis tahdoit kaikki ihmiset hukkaan luoda? ",
+      "swedish_karl_xii": "Tänck huru stackot mitt lijf är: hwij wilt tu alla menniskior fåfängt skapat hafwa?",
+      "king_james": "Remember how short my time is: wherefore hast thou made all men in vain?",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:48"
+        },
+        "hebrew_masoretic": {
+          "src": "89:48"
+        },
+        "douay_rheims": {
+          "src": "88:48"
+        },
+        "swedish_karl_xii": {
+          "src": "89:48"
+        }
+      }
+    },
+    {
+      "verse": 48,
+      "latin_vulgate": " Quis est homo qui vivet et non videbit mortem ?  eruet animam suam de manu inferi ? ",
+      "hebrew_masoretic": "מִ֤י גֶ֣בֶר יִֽ֭חְיֶה וְלֹ֣א יִרְאֶה־מָּ֑וֶת יְמַלֵּ֨ט נַפְשׁ֖וֹ מִיַּד־שְׁא֣וֹל סֶֽלָה׃",
+      "douay_rheims": "Who is the man that shall live, and not see death: that shall deliver his soul from the hand of hell?",
+      "finnish_biblia": "Kuka elää, ja ei näe kuolemaa? kuka sielunsa tuonelan käsistä pelastaa? Sela! ",
+      "swedish_karl_xii": "Hwilken är then ther lefwer, och intet seer döden? Then sina siäl frijar vthu helwetis hand? Sela.",
+      "king_james": "What man is he that liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:49"
+        },
+        "hebrew_masoretic": {
+          "src": "89:49"
+        },
+        "douay_rheims": {
+          "src": "88:49"
+        },
+        "swedish_karl_xii": {
+          "src": "89:49"
+        }
+      }
+    },
+    {
+      "verse": 49,
+      "latin_vulgate": " Ubi sunt misericordiæ tuæ antiquæ, Domine,  sicut jurasti David in veritate tua ? ",
+      "hebrew_masoretic": "אַיֵּ֤ה ׀ חֲסָדֶ֖יךָ הָרִאשֹׁנִ֥ים ׀ אֲדֹנָ֑י נִשְׁבַּ֥עְתָּ לְ֝דָוִ֗ד בֶּאֱמוּנָתֶֽךָ׃",
+      "douay_rheims": "Lord, where are thy ancient mercies, according to what thou didst swear to David in thy truth?",
+      "finnish_biblia": "Herra, kussa ovat sinun entiset armos, jotkas Davidille vannonut olet totuudessas? ",
+      "swedish_karl_xii": "Herre, hwar är then förra tin nådh, then tu David i tine sanning sworet hafwer?",
+      "king_james": "Lord, where are thy former lovingkindnesses, which thou swarest unto David in thy truth?",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:50"
+        },
+        "hebrew_masoretic": {
+          "src": "89:50"
+        },
+        "douay_rheims": {
+          "src": "88:50"
+        },
+        "swedish_karl_xii": {
+          "src": "89:50"
+        }
+      }
+    },
+    {
+      "verse": 50,
+      "latin_vulgate": " Memor esto, Domine, opprobrii servorum tuorum,  quod continui in sinu meo, multarum gentium : ",
+      "hebrew_masoretic": "זְכֹ֣ר אֲ֭דֹנָי חֶרְפַּ֣ת עֲבָדֶ֑יךָ שְׂאֵתִ֥י בְ֝חֵיקִ֗י כׇּל־רַבִּ֥ים עַמִּֽים׃",
+      "douay_rheims": "Be mindful, O Lord, of the reproach of thy servants (which I have held in my bosom) of many nations:",
+      "finnish_biblia": "Muista, Herra, palveliais pilkkaa, jonka minä kannan helmassani, kaikista niin monista kansoista, ",
+      "swedish_karl_xii": "Tänck, Herre, på tina tienares försmädelse; then jagh bär i mitt sköt, af allom så mångom folckom.",
+      "king_james": "Remember, Lord, the reproach of thy servants; how I do bear in my bosom the reproach of all the mighty people;",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:51"
+        },
+        "hebrew_masoretic": {
+          "src": "89:51"
+        },
+        "douay_rheims": {
+          "src": "88:51"
+        },
+        "swedish_karl_xii": {
+          "src": "89:51"
+        }
+      }
+    },
+    {
+      "verse": 51,
+      "latin_vulgate": " quod exprobraverunt inimici tui, Domine ;  quod exprobraverunt commutationem christi tui. ",
+      "hebrew_masoretic": "אֲשֶׁ֤ר חֵרְפ֖וּ אוֹיְבֶ֥יךָ ׀ יְהֹוָ֑ה אֲשֶׁ֥ר חֵ֝רְפ֗וּ עִקְּב֥וֹת מְשִׁיחֶֽךָ׃",
+      "douay_rheims": "Wherewith thy enemies have reproached, O Lord; wherewith they have reproached the change of thy anointed.",
+      "finnish_biblia": "Joilla, Herra, vihollises pilkkaavat, joilla he pilkkaavat voideltus askelia. ",
+      "swedish_karl_xii": "Ther medh, HERRE, tine fiender tigh försmäda; ther the medh försmäda, och medh fötterna trampa på tin smorda.",
+      "king_james": "Wherewith thine enemies have reproached, O LORD; wherewith they have reproached the footsteps of thine anointed.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:52"
+        },
+        "hebrew_masoretic": {
+          "src": "89:52"
+        },
+        "douay_rheims": {
+          "src": "88:52"
+        },
+        "swedish_karl_xii": {
+          "src": "89:52"
+        }
+      }
+    },
+    {
+      "verse": 52,
+      "latin_vulgate": " Benedictus Dominus in æternum. Fiat, fiat.  ",
+      "hebrew_masoretic": "בָּר֖וּךְ יְהֹוָ֥ה לְעוֹלָ֗ם אָ֘מֵ֥ן ׀ וְאָמֵֽן׃",
+      "douay_rheims": "Blessed be the Lord for evermore. So be it. So be it. ",
+      "finnish_biblia": "Kiitetty olkoon Herra ijankaikkisesti, amen! ja amen!   ",
+      "swedish_karl_xii": "Lofwad ware HERREN ewinnerliga. Amen, Amen.",
+      "king_james": "Blessed be the LORD for evermore. Amen, and Amen. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "88:53"
+        },
+        "hebrew_masoretic": {
+          "src": "89:53"
+        },
+        "douay_rheims": {
+          "src": "88:53"
+        },
+        "swedish_karl_xii": {
+          "src": "89:53"
+        }
+      }
+    }
+  ]
+}

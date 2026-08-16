@@ -1,0 +1,211 @@
+{
+  "book_id": "1PE",
+  "latin_name": "Epistula I Petri",
+  "greek_name": "Πέτρου Α",
+  "finnish_name": "Ensimmäinen Pietarin kirje",
+  "swedish_name": "S. Petri Then Förra Epistel",
+  "english_name": "The First Epistle General of Peter",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Petrus Apostolus Jesu Christi, electis advenis dispersionis Ponti, Galatiæ, Cappadociæ, Asiæ, et Bithyniæ,",
+      "greek_textus_receptus": "πέτρος ἀπόστολος ἰησοῦ χριστοῦ ἐκλεκτοῖς παρεπιδήμοις διασπορᾶς πόντου γαλατίας καππαδοκίας ἀσίας καὶ βιθυνίας",
+      "finnish_biblia": "Pietari, Jesuksen Kristuksen apostoli, valituille muukalaisille, hajalla asuvaisille Pontossa, Galatiassa, Kappadokiassa, Asiassa ja Bityniassa, ",
+      "swedish_karl_xii": "Petrus, Jesu Christi Apostel: them vthkoradom främlingom, som boo här och ther i Ponto, Galatien, Cappadocien, Asien, och Bithynien,",
+      "king_james": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "secundum præscientiam Dei Patris, in sanctificationem Spiritus, in obedientiam, et aspersionem sanguinis Jesu Christi. Gratia vobis, et pax multiplicetur.",
+      "greek_textus_receptus": "κατὰ πρόγνωσιν θεοῦ πατρός ἐν ἁγιασμῷ πνεύματος εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος ἰησοῦ χριστοῦ χάρις ὑμῖν καὶ εἰρήνη πληθυνθείη",
+      "finnish_biblia": "Isän Jumalan aivoituksen jälkeen Hengen pyhittämisen kautta, kuuliaisuuteen ja Jesuksen Kristuksen veren priiskottamiseen: armo ja rauha lisääntyköön teille! ",
+      "swedish_karl_xii": "Efter Gudz Faders försyn, genom Andans helgelse, til lydnona och Jesu Christi blodz stänckelse: Nådh och frijd föröke sigh i eder.",
+      "king_james": "Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Benedictus Deus et Pater Domini nostri Jesu Christi, qui secundum misericordiam suam magnam regeneravit nos in spem vivam, per resurrectionem Jesu Christi ex mortuis,",
+      "greek_textus_receptus": "εὐλογητὸς ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ ὁ κατὰ τὸ πολὺ αὐτοῦ ἔλεος ἀναγεννήσας ἡμᾶς εἰς ἐλπίδα ζῶσαν δι᾽ ἀναστάσεως ἰησοῦ χριστοῦ ἐκ νεκρῶν",
+      "finnish_biblia": "Kiitetty olkoon Jumala ja meidän Herran Jesuksen Kristuksen Isä, joka meitä suuresta laupiudestansa on synnyttänyt jälleen elävään toivoon, Jesuksen Kristuksen ylösnousemisen kautta kuolleista, ",
+      "swedish_karl_xii": "Wälsignad ware Gudh, och wårs Herras Jesu Christi Fader, som oß för sin stora barmhertighet hafwer födt på nytt, til ett lefwandes hopp, genom Jesu Christi vpståndelse ifrå the döda,",
+      "king_james": "Blessed *be* the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "in hæreditatem incorruptibilem, et incontaminatam, et immarcescibilem, conservatam in cælis in vobis,",
+      "greek_textus_receptus": "εἰς κληρονομίαν ἄφθαρτον καὶ ἀμίαντον καὶ ἀμάραντον τετηρημένην ἐν οὐρανοῖς εἰς ἡμᾶς",
+      "finnish_biblia": "Katoomattomaan ja saastuttamattomaan ja turmelemattomaan perintöön, joka taivaassa tähdelle pantu on teitä varten, ",
+      "swedish_karl_xii": "Til oförgängeligit, obesmittat, och owanskeligit arf: hwilket i himmelen förwarat är til eder,",
+      "king_james": "To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "qui in virtute Dei custodimini per fidem in salutem, paratam revelari in tempore novissimo.",
+      "greek_textus_receptus": "τοὺς ἐν δυνάμει θεοῦ φρουρουμένους διὰ πίστεως εἰς σωτηρίαν ἑτοίμην ἀποκαλυφθῆναι ἐν καιρῷ ἐσχάτῳ",
+      "finnish_biblia": "Jotka Jumalan väellä uskon kautta autuuteen kätketään, joka sitä varten valmistettu on, että se viimeisellä ajalla ilmi tulis. ",
+      "swedish_karl_xii": "Som medh Gudz macht bewarens genom trona til salighet, hwilken beredd är, at hon skal vppenbar warda i then yttersta tiden.",
+      "king_james": "Who are kept by the power of God through faith unto salvation ready to be revealed in the last time."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "In quo exsultabis, modicum nunc si oportet contristari in variis tentationibus:",
+      "greek_textus_receptus": "ἐν ᾧ ἀγαλλιᾶσθε ὀλίγον ἄρτι εἰ δέον ἐστὶν λυπηθέντες ἐν ποικίλοις πειρασμοῖς",
+      "finnish_biblia": "Jossa te saatte iloita, te, joita nyt vähän aikaa, (jos tarvitaan,) moninaisilla kiusauksilla vaivataan: ",
+      "swedish_karl_xii": "Jhwilkom J eder frögda skolen, J som nu en liten tijd liden bedröfwelse, i margahanda försökelse, hwar så behöfwes:",
+      "king_james": "Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "ut probatio vestræ fidei multo pretiosior auro (quod per ignem probatur) inveniatur in laudem, et gloriam, et honorem in revelatione Jesu Christi:",
+      "greek_textus_receptus": "ἵνα τὸ δοκίμιον ὑμῶν τῆς πίστεως πολυ τιμιώτερον χρυσίου τοῦ ἀπολλυμένου διὰ πυρὸς δὲ δοκιμαζομένου εὑρεθῇ εἰς ἔπαινον καὶ τιμὴν καὶ δόξαν ἐν ἀποκαλύψει ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Että teidän uskonne koettelemus paljoa kalliimmaksi löydettäisiin kuin katoova kulta, joka tulessa koetellaan, kiitokseksi, ylistykseksi ja kunniaksi, koska Jesus Kristus ilmaantuu, ",
+      "swedish_karl_xii": "På thet edor troo skal rättsinnig och mycket kosteligare befunnen warda, än thet förgängeliga guld som pröfwas medh eld, til lof, prijs och ähro, när Christus Jesus blifwer vppenbar:",
+      "king_james": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "quem cum non videritis, diligitis: in quem nunc quoque non videntes creditis: credentes autem exsultabitis lætitia inenarrabili, et glorificata:",
+      "greek_textus_receptus": "ὃν οὐκ εἰδότες ἀγαπᾶτε εἰς ὃν ἄρτι μὴ ὁρῶντες πιστεύοντες δὲ ἀγαλλιᾶσθε χαρᾷ ἀνεκλαλήτῳ καὶ δεδοξασμένῃ",
+      "finnish_biblia": "Jota te rakastatte, vaikka ette häntä näe, jonka päälle te myös uskotte, ehkette nyt häntä näe, niin te kuitenkin saatte iloita sanomattomalla ja kunniallisella ilolla, ",
+      "swedish_karl_xii": "Hwilken J älsken, ändoch J icke seen honom; then J ock nu troon vppå, och doch icke seen: så skolen J frögda eder medh osäijeliga och härliga glädie;",
+      "king_james": "Whom having not seen, ye love; in whom, though now ye see *him* not, yet believing, ye rejoice with joy unspeakable and full of glory:"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "reportantes finem fidei vestræ, salutem animarum.",
+      "greek_textus_receptus": "κομιζόμενοι τὸ τέλος τῆς πίστεως ὑμῶν σωτηρίαν ψυχῶν",
+      "finnish_biblia": "Ja käsitätte teidän uskonne lopun, sieluin autuuden, ",
+      "swedish_karl_xii": "Och få edars troos ändalycht, nemliga, stälarnas salighet.",
+      "king_james": "Receiving the end of your faith, *even* the salvation of *your* souls."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "De qua salute exquisierunt, atque scrutati sunt prophetæ, qui de futura in vobis gratia prophetaverunt:",
+      "greek_textus_receptus": "περὶ ἡς σωτηρίας ἐξεζήτησαν καὶ ἐξηρεύνησαν προφῆται οἱ περὶ τῆς εἰς ὑμᾶς χάριτος προφητεύσαντες",
+      "finnish_biblia": "Jota autuutta prophetat ovat etsineet ja tutkineet, jotka teille tulevaista armoa ennustaneet ovat; ",
+      "swedish_karl_xii": "Efter hwilken salighet Propheterna hafwa sökt och ransakat, som propheterat hafwa om then tilkommande nådh til eder:",
+      "king_james": "Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace *that should come* unto you:"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "scrutantes in quod vel quale tempus significaret in eis Spiritus Christi: prænuntians eas quæ in Christo sunt passiones, et posteriores glorias:",
+      "greek_textus_receptus": "ἐρευνῶντες εἰς τίνα ἢ ποῖον καιρὸν ἐδήλου τὸ ἐν αὐτοῖς πνεῦμα χριστοῦ προμαρτυρόμενον τὰ εἰς χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας",
+      "finnish_biblia": "Ja ovat tutkineet, millä taikka minkäkaltaisella ajalla Kristuksen Henki, joka heissä oli, ilmoitti, joka oli jo ennen todistanut niistä vaivoista, jotka Kristuksessa ovat, ja siitä kunniasta, joka niiden jälkeen tapahtuva oli: ",
+      "swedish_karl_xii": "Och hafwa ransakat på hwad eller hurudana tijd Christi Ande vthwiste, then i them war, och tilförene hade betygat the lidande som i Christo äro, och then härlighet som ther efter följa skulle.",
+      "king_james": "Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "quibus revelatum est quia non sibimetipsis, vobis autem ministrabant ea quæ nunc nuntiata sunt vobis per eos qui evangelizaverunt vobis, Spiritu Sancto misso de cælo, in quem desiderant angeli prospicere.",
+      "greek_textus_receptus": "οἷς ἀπεκαλύφθη ὅτι οὐχ ἑαυτοῖς ἡμῖν δὲ διηκόνουν αὐτά ἃ νῦν ἀνηγγέλη ὑμῖν διὰ τῶν εὐαγγελισαμένων ὑμᾶς ἐν πνεύματι ἁγίῳ ἀποσταλέντι ἀπ᾽ οὐρανοῦ εἰς ἃ ἐπιθυμοῦσιν ἄγγελοι παρακύψαι",
+      "finnish_biblia": "Joille se ilmoitettu oli, sillä ei he itseänsä sen kautta palvelleet, vaan meitä, jotka nyt teille niiden kautta julistetut ovat, jotka teille evankeliumia saarnanneet ovat Pyhän Hengen kautta, taivaasta lähetetyn, jota enkelit nähdä himoitsevat. ",
+      "swedish_karl_xii": "Hwilkom thet ock vppenbarat war: ty the hafwa icke sigh sielfwom, vtan oß ther medh tient; hwilke stycker eder nu förkunnat äro, genom them som eder Evangelium predikat hafwa, genom then Helga Anda, som sändes af himmelen; hwilket Änglomen ock löster see.",
+      "king_james": "Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Propter quod succincti lumbos mentis vestræ, sobrii, perfecte sperate in eam, quæ offertur vobis, gratiam, in revelationem Jesu Christi:",
+      "greek_textus_receptus": "διὸ ἀναζωσάμενοι τὰς ὀσφύας τῆς διανοίας ὑμῶν νήφοντες τελείως ἐλπίσατε ἐπὶ τὴν φερομένην ὑμῖν χάριν ἐν ἀποκαλύψει ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Sentähden vyöttäkäät mielenne kupeet, olkaa raittiit, pankaat täydellinen toivonne siihen armoon, joka teille Jesuksen Kristuksen ilmestyksen kautta taritaan, ",
+      "swedish_karl_xii": "Therföre, begiorder edor sinnes länder, och warer nöchtre, och sätter fulkomligit hopp til then nådh som eder tilbudin warder, genom Jesu Christi vppenbarelse,",
+      "king_james": "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "quasi filii obedientiæ, non configurati prioribus ignorantiæ vestræ desideriis:",
+      "greek_textus_receptus": "ὡς τέκνα ὑπακοῆς μὴ συσχηματιζόμενοι ταῖς πρότερον ἐν τῇ ἀγνοίᾳ ὑμῶν ἐπιθυμίαις",
+      "finnish_biblia": "Niinkuin kuuliaiset lapset, ei asettaen teitänne niinkuin ennen, kuin te teidän tyhmyydessänne himoissa elitte, ",
+      "swedish_karl_xii": "Såsom lydachtig barn; och ställer eder icke såsom tilförene, tå J vthi fåwitsko lefden efter begärelsen:",
+      "king_james": "As obedient children, not fashioning yourselves according to the former lusts in your ignorance:"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "sed secundum eum qui vocavit vos, Sanctum: et ipsi in omni conversatione sancti sitis:",
+      "greek_textus_receptus": "ἀλλὰ κατὰ τὸν καλέσαντα ὑμᾶς ἅγιον καὶ αὐτοὶ ἅγιοι ἐν πάσῃ ἀναστροφῇ γενήθητε",
+      "finnish_biblia": "Vaan sen jälkeen, joka teitä kutsunut on, ja on pyhä, olkaat te myös pyhät kaikissa teidän menoissanne. ",
+      "swedish_karl_xii": "Vtan, efter honom som eder kallat hafwer, och helig är, warer ock J helige vthi all edor vmgängelse.",
+      "king_james": "But as he which hath called you is holy, so be ye holy in all manner of conversation;"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "quoniam scriptum est: Sancti eritis, quoniam ego sanctus sum.",
+      "greek_textus_receptus": "διότι γέγραπται ἄγιοι γένεσθε ὅτι ἐγὼ ἅγιος εἰμι",
+      "finnish_biblia": "Sillä kirjoitettu on: teidän pitää pyhät oleman, sillä minä olen pyhä. ",
+      "swedish_karl_xii": "Ty thet är skrifwit: J skolen wara helige; ty jagh är helig.",
+      "king_james": "Because it is written, Be ye holy; for I am holy."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Et si patrem invocatis eum, qui sine acceptione personarum judicat secundum uniuscujusque opus, in timore incolatus vestri tempore conversamini.",
+      "greek_textus_receptus": "καὶ εἰ πατέρα ἐπικαλεῖσθε τὸν ἀπροσωπολήπτως κρίνοντα κατὰ τὸ ἑκάστου ἔργον ἐν φόβῳ τὸν τῆς παροικίας ὑμῶν χρόνον ἀναστράφητε",
+      "finnish_biblia": "Ja jos te rukoilette sitä Isää, joka tuomitsee kunkin töidensä jälkeen ilman ihmisten muodon katsomista, niin katsokaat, että te teidän viipymisenne ajan pelvossa vaeltaisitte, ",
+      "swedish_karl_xii": "Och efter J åkallen honom för en Fader, som dömer efter hwars och ens gierning, och hafwer intet anseende til personen, så seer til, at J vthi thetta edart elände wandren i räddhoga:",
+      "king_james": "And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning *here* in fear:"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Scientes quod non corruptibilibus, auro vel argento, redempti estis de vana vestra conversatione paternæ traditionis:",
+      "greek_textus_receptus": "εἰδότες ὅτι οὐ φθαρτοῖς ἀργυρίῳ ἢ χρυσίῳ ἐλυτρώθητε ἐκ τῆς ματαίας ὑμῶν ἀναστροφῆς πατροπαραδότου",
+      "finnish_biblia": "Tietäen, ettette ole katoovaisella hopialla eli kullalla lunastetut teidän turhasta menostanne, jonka te isäin säädystä saitte, ",
+      "swedish_karl_xii": "Och weter, at J icke medh förgängeligit silf eller guld igenlöste ären ifrån edart fåfänga lefwerne, efter fädernas sätt:",
+      "king_james": "Forasmuch as ye know that ye were not redeemed with corruptible things, *as* silver and gold, from your vain conversation *received* by tradition from your fathers;"
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "sed pretioso sanguine quasi agni immaculati Christi, et incontaminati:",
+      "greek_textus_receptus": "ἀλλὰ τιμίῳ αἵματι ὡς ἀμνοῦ ἀμώμου καὶ ἀσπίλου χριστοῦ",
+      "finnish_biblia": "Vaan kalliilla Kristuksen verellä, niinkuin viattoman ja puhtaan Karitsan; ",
+      "swedish_karl_xii": "Vtan medh Christi dyra blodh, såsom medh ett meenlöst och obesmittat lambs.",
+      "king_james": "But with the precious blood of Christ, as of a lamb without blemish and without spot:"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "præcogniti quidem ante mundi constitutionem, manifestati autem novissimis temporibus propter vos,",
+      "greek_textus_receptus": "προεγνωσμένου μὲν πρὸ καταβολῆς κόσμου φανερωθέντος δὲ ἐπ᾽ ἐσχάτων τῶν χρόνων δι᾽ ὑμᾶς",
+      "finnish_biblia": "Joka tosin jo ennen oli aivottu kuin maailman perustus pantu oli, mutta ilmoitettu viimeisinä aikoina teidän tähtenne, ",
+      "swedish_karl_xii": "Hwilken wäl föresedd war för werldenes begynnelse; men vppenbarad i the yttersta tiderna, för edra skul;",
+      "king_james": "Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "qui per ipsum fideles estis in Deo, qui suscitavit eum a mortuis, et dedit ei gloriam, ut fides vestra et spes esset in Deo:",
+      "greek_textus_receptus": "τοὺς δι᾽ αὐτοῦ πιστεύοντας εἰς θεὸν τὸν ἐγείραντα αὐτὸν ἐκ νεκρῶν καὶ δόξαν αὐτῷ δόντα ὥστε τὴν πίστιν ὑμῶν καὶ ἐλπίδα εἶναι εἰς θεόν",
+      "finnish_biblia": "Jotka hänen kauttansa uskotte Jumalan päälle, joka hänen kuolleista herätti ja hänelle kunnian antoi, että teillä olis usko ja toivo Jumalan päälle. ",
+      "swedish_karl_xii": "Som genom honom troon på Gudh; then honom vpwäckt hafwer ifrå the döda, och gifwit honom härlighet *: på thet J skullen hafwa troo och hopp til Gudh.",
+      "king_james": "Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "animas vestras castificantes in obedientia caritatis, in fraternitatis amore, simplici ex corde invicem diligite attentius:",
+      "greek_textus_receptus": "τὰς ψυχὰς ὑμῶν ἡγνικότες ἐν τῇ ὑπακοῇ τῆς ἀληθείας διὰ πνεύματος εἰς φιλαδελφίαν ἀνυπόκριτον ἐκ καθαρᾶς καρδίας ἀλλήλους ἀγαπήσατε ἐκτενῶς",
+      "finnish_biblia": "Ja tehkäät puhtaaksi teidän sielunne totuuden kuuliaisuudessa, Hengen kautta, veljelliseen rakkauteen, joka vilpitöin olis, ja olkaat keskenänne palavaisessa rakkaudessa puhtaasta sydämestä, ",
+      "swedish_karl_xii": "Och giörer edra siälar kyska, i sanningenes lydno, genom Andan, til oskrymtad broderlig kärlek: älsker eder storliga inbyrdes af reent hierta:",
+      "king_james": "Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, *see that ye* love one another with a pure heart fervently:"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "renati non ex semine corruptibili, sed incorruptibili per verbum Dei vivi, et permanentis in æternum:",
+      "greek_textus_receptus": "ἀναγεγεννημένοι οὐκ ἐκ σπορᾶς φθαρτῆς ἀλλὰ ἀφθάρτου διὰ λόγου ζῶντος θεοῦ καὶ μένοντος εἰς τὸν αἰῶνα",
+      "finnish_biblia": "Niinkuin ne, jotka jälleen syntyneet ovat, ei katoovaisesta, vaan katoomattomasta siemenestä, elävästä Jumalan sanasta, joka ijankaikkisesti pysyy. ",
+      "swedish_karl_xii": "Såsom the som födde äro på nytt; icke af någor förgängelig sädh, vtan af oförgängelig, som är, af lefwandes Gudz ord, thet ewinnerliga blifwer.",
+      "king_james": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "quia omnis caro ut fœnum: et omnis gloria ejus tamquam flos fœni: exaruit fœnum, et flos ejus decidit.",
+      "greek_textus_receptus": "διότι πᾶσα σὰρξ ὡς χόρτος καὶ πᾶσα δόξα ἀνθρώπου ὡς ἄνθος χόρτου ἐξηράνθη ὁ χόρτος καὶ τὸ ἄνθος αὐτοῦ ἐξέπεσεν",
+      "finnish_biblia": "Sillä kaikki liha on niinkuin ruoho ja kaikki ihmisen kunnia niinkuin ruohon kukkanen. Ruoho on kuivunut, ja sen kukkanen lakastunut; ",
+      "swedish_karl_xii": "Ty alt kött är såsom gräs; och all menniskios härlighet, såsom blomster på gräset : gräset är wisnat, och blomstret är affallet:",
+      "king_james": "For all flesh *is* as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Verbum autem Domini manet in æternum: hoc est autem verbum, quod evangelizatum est in vos.",
+      "greek_textus_receptus": "τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα τοῦτο δέ ἐστιν τὸ ῥῆμα τὸ εὐαγγελισθὲν εἰς ὑμᾶς",
+      "finnish_biblia": "Mutta Herran sana pysyy ijankaikkisesti, ja se on se sana, joka teidän seassanne saarnattu on.   ",
+      "swedish_karl_xii": "Men Herrans ord blifwer ewinnerliga: och thet är thet ord, som predikat är ibland eder.",
+      "king_james": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 87,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Filiis Core. Psalmus cantici.   Fundamenta ejus in montibus sanctis ; ",
+      "hebrew_masoretic": "לִבְנֵי־קֹ֭רַח מִזְמ֣וֹר שִׁ֑יר יְ֝סוּדָת֗וֹ בְּהַרְרֵי־קֹֽדֶשׁ׃",
+      "douay_rheims": "For the sons of Core, a psalm of a canticle. The foundations thereof are the holy mountains:",
+      "finnish_biblia": "Psalmi, Koran lasten veisu. Hän on vahvasti perustettu pyhäin vuorten päälle. ",
+      "swedish_karl_xii": "Een Psalmwisa Korah barnas. Han är fast grundad på the helga bergen.",
+      "king_james": "His foundation is in the holy mountains.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "86:1"
+        },
+        "douay_rheims": {
+          "src": "86:1"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " diligit Dominus portas Sion super omnia tabernacula Jacob. ",
+      "hebrew_masoretic": "אֹהֵ֣ב יְ֭הֹוָה שַׁעֲרֵ֣י צִיּ֑וֹן מִ֝כֹּ֗ל מִשְׁכְּנ֥וֹת יַעֲקֹֽב׃",
+      "douay_rheims": "The Lord loveth the gates of Sion above all the tabernacles of Jacob.",
+      "finnish_biblia": "Herra rakastaa Zionin portteja enempi kuin kaikkia Jakobin asuinsioja. ",
+      "swedish_karl_xii": "HERREN älskar Zions portar, öfwer alla Jacobs boningar.",
+      "king_james": "The LORD loveth the gates of Zion more than all the dwellings of Jacob.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "86:2"
+        },
+        "douay_rheims": {
+          "src": "86:2"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Gloriosa dicta sunt de te, civitas Dei ! ",
+      "hebrew_masoretic": "נִ֭כְבָּדוֹת מְדֻבָּ֣ר בָּ֑ךְ עִ֖יר הָאֱלֹהִ֣ים סֶֽלָה׃",
+      "douay_rheims": "Glorious things are said of thee, O city of God.",
+      "finnish_biblia": "Korkiat ja kunnialliset asiat sinussa saarnataan, sinä Jumalan kaupunki, Sela! ",
+      "swedish_karl_xii": "Härlig ting warda i tigh predikade, tu Gudz stadh. Sela.",
+      "king_james": "Glorious things are spoken of thee, O city of God. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "86:3"
+        },
+        "douay_rheims": {
+          "src": "86:3"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Memor ero Rahab et Babylonis, scientium me ;  ecce alienigenæ, et Tyrus, et populus Æthiopum,  hi fuerunt illic. ",
+      "hebrew_masoretic": "אַזְכִּ֤יר ׀ רַ֥הַב וּבָבֶ֗ל לְֽיֹ֫דְעָ֥י הִנֵּ֤ה פְלֶ֣שֶׁת וְצֹ֣ר עִם־כּ֑וּשׁ זֶ֝֗ה יֻלַּד־שָֽׁם׃",
+      "douay_rheims": "I will be mindful of Rahab and of Babylon knowing me. Behold the foreigners, and Tyre, and the people of the Ethiopians, these were there.",
+      "finnish_biblia": "Minä annan saarnata Rahabin ja Babelin edessä, että he minun tuntevat: katso, Philistealaiset, Tyrolaiset ja Etiopialaiset syntyvät siellä. ",
+      "swedish_karl_xii": "Jagh wil predika låta för Rahab, och Babel, at the migh känna skola: sij, the Philisteer, och Tyrer, samt medh the Ethioper, warda ther födde.",
+      "king_james": "I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "86:4"
+        },
+        "douay_rheims": {
+          "src": "86:4"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Numquid Sion dicet : Homo et homo natus est in ea,  et ipse fundavit eam Altissimus ? ",
+      "hebrew_masoretic": "וּ֥לְצִיּ֨וֹן ׀ יֵאָמַ֗ר אִ֣ישׁ וְ֭אִישׁ יֻלַּד־בָּ֑הּ וְה֖וּא יְכוֹנְנֶ֣הָ עֶלְיֽוֹן׃",
+      "douay_rheims": "Shall not Sion say: This man and that man is born in her? and the Highest himself hath founded her.",
+      "finnish_biblia": "Zionille pitää sanottaman, että kaikkinaiset kansat siellä syntyvät, ja että Korkein sitä rakentaa. ",
+      "swedish_karl_xii": "Man skal i Zion säija, at allahanda folck ther inne födt warder; och at han then Högste bygger honom.",
+      "king_james": "And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "86:5"
+        },
+        "douay_rheims": {
+          "src": "86:5"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Dominus narrabit in scripturis populorum et principum,  horum qui fuerunt in ea. ",
+      "hebrew_masoretic": "יְֽהֹוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד־שָׁ֣ם סֶֽלָה׃",
+      "douay_rheims": "The Lord shall tell in his writings of peoples and of princes, of them that have been in her.",
+      "finnish_biblia": "Herra antaa saarnata kirjoituksessa kaikkinaisilla kielillä, että myös muutamat heistä siellä syntyvät, Sela! ",
+      "swedish_karl_xii": "HERREN skal predika låta i allahanda tungomål, at ock någre af them skola ther födde warda. Sela.",
+      "king_james": "The LORD shall count, when he writeth up the people, that this man was born there. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "86:6"
+        },
+        "douay_rheims": {
+          "src": "86:6"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Sicut lætantium omnium  habitatio est in te.  ",
+      "hebrew_masoretic": "וְשָׁרִ֥ים כְּחֹלְלִ֑ים כׇּֽל־מַעְיָנַ֥י בָּֽךְ׃ {פ}",
+      "douay_rheims": "The dwelling in thee is as it were of all rejoicing. ",
+      "finnish_biblia": "Ja veisaajat niinkuin tanssissa, kaikki minun lähteeni sinussa.   ",
+      "swedish_karl_xii": "Och the sångare skola alle i tigh siunga til skiftes, såsom i en dantz.",
+      "king_james": "As well the singers as the players on instruments shall be there: all my springs are in thee. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "86:7"
+        },
+        "douay_rheims": {
+          "src": "86:7"
+        }
+      }
+    }
+  ]
+}

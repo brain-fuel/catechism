@@ -1,0 +1,472 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "  Confitebor tibi, Domine, in toto corde meo ;  narrabo omnia mirabilia tua. ",
+      "hebrew_masoretic": "אוֹדֶ֣ה יְ֭הֹוָה בְּכׇל־לִבִּ֑י אֲ֝סַפְּרָ֗ה כׇּל־נִפְלְאוֹתֶֽיךָ׃",
+      "douay_rheims": "I will give praise to thee, O Lord, with my whole heart: I will relate all thy wonders.",
+      "finnish_biblia": "Davidin Psalmi, kauniista nuoruudesta, edelläveisaajalle. (H 9:2) Minä kiitän Herraa kaikesta sydämestäni, ja luettelen kaikki sinun ihmees. ",
+      "swedish_karl_xii": "Jagh tackar HERRANOM af alt hierta, och förtäljer all tin vnder.",
+      "king_james": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:2"
+        },
+        "hebrew_masoretic": {
+          "src": "9:2"
+        },
+        "douay_rheims": {
+          "src": "9:2"
+        },
+        "swedish_karl_xii": {
+          "src": "9:2"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " Lætabor et exsultabo in te ;  psallam nomini tuo, Altissime. ",
+      "hebrew_masoretic": "אֶשְׂמְחָ֣ה וְאֶעֶלְצָ֣ה בָ֑ךְ אֲזַמְּרָ֖ה שִׁמְךָ֣ עֶלְיֽוֹן׃",
+      "douay_rheims": "I will be glad, and rejoice in thee: I will sing to thy name, O thou most high.",
+      "finnish_biblia": "Minä iloitsen ja riemuitsen sinussa, ja veisaan kiitosta sinun nimelles, sinä kaikkein ylimmäinen, ",
+      "swedish_karl_xii": "Jagh frögdar migh, och är gladh i tigh; och lofwar titt namn, tu Alrahögste.",
+      "king_james": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:3"
+        },
+        "hebrew_masoretic": {
+          "src": "9:3"
+        },
+        "douay_rheims": {
+          "src": "9:3"
+        },
+        "swedish_karl_xii": {
+          "src": "9:3"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " In convertendo inimicum meum retrorsum ;  infirmabuntur, et peribunt a facie tua. ",
+      "hebrew_masoretic": "בְּשׁוּב־אוֹיְבַ֥י אָח֑וֹר יִכָּשְׁל֥וּ וְ֝יֹאבְד֗וּ מִפָּנֶֽיךָ׃",
+      "douay_rheims": "When my enemy shall be turned back: they shall be weakened, and perish before thy face.",
+      "finnish_biblia": "Ettäs minun viholliseni olet ajanut takaperin: he lankesivat ja hukkuivat sinun etees. ",
+      "swedish_karl_xii": "At tu mina owänner tilbaka drifwit hafwer: the äro fallne och förgångne för tigh.",
+      "king_james": "When mine enemies are turned back, they shall fall and perish at thy presence.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:4"
+        },
+        "hebrew_masoretic": {
+          "src": "9:4"
+        },
+        "douay_rheims": {
+          "src": "9:4"
+        },
+        "swedish_karl_xii": {
+          "src": "9:4"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Quoniam fecisti judicium meum et causam meam ;  sedisti super thronum, qui judicas justitiam. ",
+      "hebrew_masoretic": "כִּֽי־עָ֭שִׂיתָ מִשְׁפָּטִ֣י וְדִינִ֑י יָשַׁ֥בְתָּ לְ֝כִסֵּ֗א שׁוֹפֵ֥ט צֶֽדֶק׃",
+      "douay_rheims": "For thou hast maintained my judgment and my cause: thou hast sat on the throne, who judgest justice.",
+      "finnish_biblia": "Sillä sinä saatat minun oikeuteni ja asiani toimeen: sinä istuit istuimelle, vanhurskauden tuomari. ",
+      "swedish_karl_xii": "Ty tu drifwer min rätt och min saak: tu sitter på stolen en rätt domare.",
+      "king_james": "For thou hast maintained my right and my cause; thou satest in the throne judging right.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:5"
+        },
+        "hebrew_masoretic": {
+          "src": "9:5"
+        },
+        "douay_rheims": {
+          "src": "9:5"
+        },
+        "swedish_karl_xii": {
+          "src": "9:5"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Increpasti gentes, et periit impius :  nomen eorum delesti in æternum, et in sæculum sæculi. ",
+      "hebrew_masoretic": "גָּעַ֣רְתָּ ג֭וֹיִם אִבַּ֣דְתָּ רָשָׁ֑ע שְׁמָ֥ם מָ֝חִ֗יתָ לְעוֹלָ֥ם וָעֶֽד׃",
+      "douay_rheims": "Thou hast rebuked the Gentiles, and the wicked one hath perished; thou hast blotted out their name for ever and ever.",
+      "finnish_biblia": "Sinä nuhtelet pakanoita, ja kadotat jumalattomat: sinä pyyhit heidän nimensä pois aina ja ijankaikkisesti. ",
+      "swedish_karl_xii": "Tu straffar Hedningarna, och förgiör the ogudachtiga: theras namn vthskrapar tu til ewig tijd.",
+      "king_james": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:6"
+        },
+        "hebrew_masoretic": {
+          "src": "9:6"
+        },
+        "douay_rheims": {
+          "src": "9:6"
+        },
+        "swedish_karl_xii": {
+          "src": "9:6"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Inimici defecerunt frameæ in finem,  et civitates eorum destruxisti.  Periit memoria eorum cum sonitu ; ",
+      "hebrew_masoretic": "הָֽאוֹיֵ֨ב ׀ תַּ֥מּוּ חֳרָב֗וֹת לָ֫נֶ֥צַח וְעָרִ֥ים נָתַ֑שְׁתָּ אָבַ֖ד זִכְרָ֣ם הֵֽמָּה׃",
+      "douay_rheims": "The swords of the enemy have failed unto the end: and their cities thou hast destroyed. Their memory hath perished with a noise:",
+      "finnish_biblia": "Vihollisten hävitykset ovat lopetetut ijäisesti, ja kaupungit sinä kukistit heidän muistonsa on heidän kanssansa kadonnut. ",
+      "swedish_karl_xii": "Fiendarnas swärd hafwa en ända; städerna hafwer tu omstört: theras åminnelse är förgången medh them.",
+      "king_james": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:7"
+        },
+        "hebrew_masoretic": {
+          "src": "9:7"
+        },
+        "douay_rheims": {
+          "src": "9:7"
+        },
+        "swedish_karl_xii": {
+          "src": "9:7"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " et Dominus in æternum permanet.  Paravit in judicio thronum suum, ",
+      "hebrew_masoretic": "וַֽ֭יהֹוָה לְעוֹלָ֣ם יֵשֵׁ֑ב כּוֹנֵ֖ן לַמִּשְׁפָּ֣ט כִּסְאֽוֹ׃",
+      "douay_rheims": "But the Lord remaineth for ever. He hath prepared his throne in judgment:",
+      "finnish_biblia": "Mutta Herra pysyy ijankaikkisesti: hän on valmistanut istuimensa tuomioon. ",
+      "swedish_karl_xii": "Men HERREN blifwer ewinnerliga: sin stool hafwer han beredt til doms.",
+      "king_james": "But the LORD shall endure for ever: he hath prepared his throne for judgment.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:8"
+        },
+        "hebrew_masoretic": {
+          "src": "9:8"
+        },
+        "douay_rheims": {
+          "src": "9:8"
+        },
+        "swedish_karl_xii": {
+          "src": "9:8"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " et ipse judicabit orbem terræ in æquitate :  judicabit populos in justitia. ",
+      "hebrew_masoretic": "וְה֗וּא יִשְׁפֹּֽט־תֵּבֵ֥ל בְּצֶ֑דֶק יָדִ֥ין לְ֝אֻמִּ֗ים בְּמֵישָׁרִֽים׃",
+      "douay_rheims": "And he shall judge the world in equity, he shall judge the people in justice.",
+      "finnish_biblia": "Ja hän tuomitsee maan piirin vanhurskaudessa, ja hallitsee kansat oikein. ",
+      "swedish_karl_xii": "Och han skal döma jordenes kretz rätt; och regera folcket rättsinneliga.",
+      "king_james": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:9"
+        },
+        "hebrew_masoretic": {
+          "src": "9:9"
+        },
+        "douay_rheims": {
+          "src": "9:9"
+        },
+        "swedish_karl_xii": {
+          "src": "9:9"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": " Et factus est Dominus refugium pauperi ;  adjutor in opportunitatibus, in tribulatione. ",
+      "hebrew_masoretic": "וִ֘יהִ֤י יְהֹוָ֣ה מִשְׂגָּ֣ב לַדָּ֑ךְ מִ֝שְׂגָּ֗ב לְעִתּ֥וֹת בַּצָּרָֽה׃",
+      "douay_rheims": "And the Lord is become a refuge for the poor: a helper in due time in tribulation.",
+      "finnish_biblia": "Ja Herra on köyhän turva: hän on turva hädän aikana. ",
+      "swedish_karl_xii": "Och HERREN är thens fattigas beskärm; ett beskärm i nödene:",
+      "king_james": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:10"
+        },
+        "hebrew_masoretic": {
+          "src": "9:10"
+        },
+        "douay_rheims": {
+          "src": "9:10"
+        },
+        "swedish_karl_xii": {
+          "src": "9:10"
+        }
+      }
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": " Et sperent in te qui noverunt nomen tuum,  quoniam non dereliquisti quærentes te, Domine. ",
+      "hebrew_masoretic": "וְיִבְטְח֣וּ בְ֭ךָ יוֹדְעֵ֣י שְׁמֶ֑ךָ כִּ֤י לֹֽא־עָזַ֖בְתָּ דֹרְשֶׁ֣יךָ יְהֹוָֽה׃",
+      "douay_rheims": "And let them trust in thee who know thy name: for thou hast not forsaken them that seek thee, O Lord.",
+      "finnish_biblia": "Sentähden he sinuun toivovat, jotka sinun nimes tuntevat; sillä et sinä niitä hylkää, jotka sinua, Herra, etsivät. ",
+      "swedish_karl_xii": "Therföre hoppas til tigh the som titt namn känna; ty tu förlåter icke them som sökia tigh, HERRE.",
+      "king_james": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:11"
+        },
+        "hebrew_masoretic": {
+          "src": "9:11"
+        },
+        "douay_rheims": {
+          "src": "9:11"
+        },
+        "swedish_karl_xii": {
+          "src": "9:11"
+        }
+      }
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": " Psallite Domino qui habitat in Sion ;  annuntiate inter gentes studia ejus : ",
+      "hebrew_masoretic": "זַמְּר֗וּ לַ֭יהֹוָה יֹשֵׁ֣ב צִיּ֑וֹן הַגִּ֥ידוּ בָ֝עַמִּ֗ים עֲלִֽילוֹתָֽיו׃",
+      "douay_rheims": "Sing ye to the Lord, who dwelleth in Sion: declare his ways among the Gentiles:",
+      "finnish_biblia": "Veisatkaat Herralle, joka Zionissa asuu: julistakaat kansoissa hänen tekonsa. ",
+      "swedish_karl_xii": "Lofwer HERRAN, then i Zion boor: förkunner ibland folcken hans werck.",
+      "king_james": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:12"
+        },
+        "hebrew_masoretic": {
+          "src": "9:12"
+        },
+        "douay_rheims": {
+          "src": "9:12"
+        },
+        "swedish_karl_xii": {
+          "src": "9:12"
+        }
+      }
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": " quoniam requirens sanguinem eorum recordatus est ;  non est oblitus clamorem pauperum. ",
+      "hebrew_masoretic": "כִּֽי־דֹרֵ֣שׁ דָּ֭מִים אוֹתָ֣ם זָכָ֑ר לֹֽא־שָׁ֝כַ֗ח צַעֲקַ֥ת (עניים) [עֲנָוִֽים]׃",
+      "douay_rheims": "For requiring their blood, he hath remembered them: he hath not forgotten the cry of the poor.",
+      "finnish_biblia": "Sillä se joka kostaa verenvikoja, muistaa heitä, eikä unohda köyhäin parkumista. ",
+      "swedish_karl_xii": "Ty han kommer ihogh, och frågar efter theras blodh: han förgäter icke the fattigas roop.",
+      "king_james": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:13"
+        },
+        "hebrew_masoretic": {
+          "src": "9:13"
+        },
+        "douay_rheims": {
+          "src": "9:13"
+        },
+        "swedish_karl_xii": {
+          "src": "9:13"
+        }
+      }
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": " Miserere mei, Domine :  vide humilitatem meam de inimicis meis, ",
+      "hebrew_masoretic": "חָֽנְנֵ֬נִי יְהֹוָ֗ה רְאֵ֣ה עׇ֭נְיִי מִשֹּׂנְאָ֑י מְ֝רוֹמְמִ֗י מִשַּׁ֥עֲרֵי מָֽוֶת׃",
+      "douay_rheims": "Have mercy on me, O Lord: see my humiliation which I suffer from my enemies.",
+      "finnish_biblia": "Herra ole minulle armollinen, katso minun ahdistustani niiltä, jotka minua vihaavat, sinä joka ylennät minun surman porteista; ",
+      "swedish_karl_xii": "HERRE, war migh nådelig: se til mitt elände ibland owänner, tu som vphäfwer migh vthu dödsens portom:",
+      "king_james": "Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:14"
+        },
+        "hebrew_masoretic": {
+          "src": "9:14"
+        },
+        "douay_rheims": {
+          "src": "9:14"
+        },
+        "swedish_karl_xii": {
+          "src": "9:14"
+        }
+      }
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": " qui exaltas me de portis mortis,  ut annuntiem omnes laudationes tuas in portis filiæ Sion : ",
+      "hebrew_masoretic": "לְמַ֥עַן אֲסַפְּרָ֗ה כׇּֽל־תְּהִלָּ֫תֶ֥יךָ בְּשַׁעֲרֵ֥י בַת־צִיּ֑וֹן אָ֝גִ֗ילָה בִּישׁוּעָתֶֽךָ׃",
+      "douay_rheims": "Thou that liftest me up from the gates of death, that I may declare all thy praises in the gates of the daughter of Sion.",
+      "finnish_biblia": "Että minä luettelisin kaikki sinun kiitokses Zionin tytärten porteissa, ja iloitsisin sinun avustas. ",
+      "swedish_karl_xii": "På thet jagh skal förtälja all tin prijs vthi dottrenes Zions portom: at jagh öfwer tina hielp gladh wara må.",
+      "king_james": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:15"
+        },
+        "hebrew_masoretic": {
+          "src": "9:15"
+        },
+        "douay_rheims": {
+          "src": "9:15"
+        },
+        "swedish_karl_xii": {
+          "src": "9:15"
+        }
+      }
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": " exultabo in salutari tuo.  Infixæ sunt gentes in interitu quem fecerunt ;  in laqueo isto quem absconderunt  comprehensus est pes eorum. ",
+      "hebrew_masoretic": "טָבְע֣וּ ג֭וֹיִם בְּשַׁ֣חַת עָשׂ֑וּ בְּרֶֽשֶׁת־ז֥וּ טָ֝מָ֗נוּ נִלְכְּדָ֥ה רַגְלָֽם׃",
+      "douay_rheims": "I will rejoice in thy salvation: the Gentiles have stuck fast in the destruction which they prepared. Their foot hath been taken in the very snare which they hid.",
+      "finnish_biblia": "Pakanat ovat vajonneet siihen hautaan, jonka he valmistivat: heidän jalkansa on käsitetty siinä verkossa, jonka he virittivät. ",
+      "swedish_karl_xii": "Hedningarna äro försänckte vthi then groop som the tilredt hade: theras foot är fången i nätet som the vpstält hade.",
+      "king_james": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:16"
+        },
+        "hebrew_masoretic": {
+          "src": "9:16"
+        },
+        "douay_rheims": {
+          "src": "9:16"
+        },
+        "swedish_karl_xii": {
+          "src": "9:16"
+        }
+      }
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": " Cognoscetur Dominus judicia faciens ;  in operibus manuum suarum comprehensus est peccator. ",
+      "hebrew_masoretic": "נ֤וֹדַ֨ע ׀ יְהֹוָה֮ מִשְׁפָּ֢ט עָ֫שָׂ֥ה בְּפֹ֣עַל כַּ֭פָּיו נוֹקֵ֣שׁ רָשָׁ֑ע הִגָּי֥וֹן סֶֽלָה׃",
+      "douay_rheims": "The Lord shall be known when he executeth judgments: the sinner hath been caught in the works of his own hands.",
+      "finnish_biblia": "Niin ymmärretään Herran tekevän oikeuden, koska jumalatoin juuri omissa kättensä töissä käsitetään; se on tutkisteltava asia, Sela! ",
+      "swedish_karl_xii": "Så förnimmer man at HERREN skaffar rätt: then ogudachtige är besnärd vthi sina händers werck, genom ordet. Sela.",
+      "king_james": "The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:17"
+        },
+        "hebrew_masoretic": {
+          "src": "9:17"
+        },
+        "douay_rheims": {
+          "src": "9:17"
+        },
+        "swedish_karl_xii": {
+          "src": "9:17"
+        }
+      }
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": " Convertantur peccatores in infernum,  omnes gentes quæ obliviscuntur Deum. ",
+      "hebrew_masoretic": "יָשׁ֣וּבוּ רְשָׁעִ֣ים לִשְׁא֑וֹלָה כׇּל־גּ֝וֹיִ֗ם שְׁכֵחֵ֥י אֱלֹהִֽים׃",
+      "douay_rheims": "The wicked shall be turned into hell, all the nations that forget God.",
+      "finnish_biblia": "Jospa jumalattomat palajaisivat helvettiin, ja kaikki pakanat, jotka Jumalan unohtavat. ",
+      "swedish_karl_xii": "Ach at the ogudachtige til helwetet wände worde, och alle Hedningar som Gudh förgäta.",
+      "king_james": "The wicked shall be turned into hell, and all the nations that forget God.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:18"
+        },
+        "hebrew_masoretic": {
+          "src": "9:18"
+        },
+        "douay_rheims": {
+          "src": "9:18"
+        },
+        "swedish_karl_xii": {
+          "src": "9:18"
+        }
+      }
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": " Quoniam non in finem oblivio erit pauperis ;  patientia pauperum non peribit in finem. ",
+      "hebrew_masoretic": "כִּ֤י לֹ֣א לָ֭נֶצַח יִשָּׁכַ֣ח אֶבְי֑וֹן תִּקְוַ֥ת (ענוים) [עֲ֝נִיִּ֗ים] תֹּאבַ֥ד לָעַֽד׃",
+      "douay_rheims": "For the poor man shall not be forgotten to the end: the patience of the poor shall not perish for ever.",
+      "finnish_biblia": "Sillä ei hän köyhää peräti unohda, ja raadollisten toivo ei huku ijankaikkisesti. ",
+      "swedish_karl_xii": "Ty han skal icke så alstinges förgäta then fattiga: och the eländas hopp skal icke förtappat warda ewinnerliga.",
+      "king_james": "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:19"
+        },
+        "hebrew_masoretic": {
+          "src": "9:19"
+        },
+        "douay_rheims": {
+          "src": "9:19"
+        },
+        "swedish_karl_xii": {
+          "src": "9:19"
+        }
+      }
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": " Exsurge, Domine ; non confortetur homo :  judicentur gentes in conspectu tuo. ",
+      "hebrew_masoretic": "קוּמָ֣ה יְ֭הֹוָה אַל־יָעֹ֣ז אֱנ֑וֹשׁ יִשָּׁפְט֥וּ ג֝וֹיִ֗ם עַל־פָּנֶֽיךָ׃",
+      "douay_rheims": "Arise, O Lord, let not man be strengthened: let the Gentiles be judged in thy sight.",
+      "finnish_biblia": "Nouse, Herra, ettei ihminen saisi valtaa: anna kaikki pakanat edessäs tuomittaa. ",
+      "swedish_karl_xii": "HERRE, statt vp, at menniskiorna icke få öfwerhandena: lät alla Hedningar för tigh dömda wara.",
+      "king_james": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:20"
+        },
+        "hebrew_masoretic": {
+          "src": "9:20"
+        },
+        "douay_rheims": {
+          "src": "9:20"
+        },
+        "swedish_karl_xii": {
+          "src": "9:20"
+        }
+      }
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": " Constitue, Domine, legislatorem super eos,  ut sciant gentes quoniam homines sunt. ",
+      "hebrew_masoretic": "שִׁ֘יתָ֤ה יְהֹוָ֨ה ׀ מוֹרָ֗ה לָ֫הֶ֥ם יֵדְע֥וּ גוֹיִ֑ם אֱנ֖וֹשׁ הֵ֣מָּה סֶּֽלָה׃ {פ}",
+      "douay_rheims": "Appoint, O Lord, a lawgiver over them: that the Gentiles may know themselves to be but men.",
+      "finnish_biblia": "Herra, anna heille opettaja, että pakanat tuntisivat itsensä ihmisiksi, Sela!   ",
+      "swedish_karl_xii": "Gif them, HERRE, en mästare, at Hedningarna måga förnimma, at the menniskior äro. Sela!",
+      "king_james": "Put them in fear, O LORD: that the nations may know themselves to be but men. Selah. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "9:21"
+        },
+        "hebrew_masoretic": {
+          "src": "9:21"
+        },
+        "douay_rheims": {
+          "src": "9:21"
+        },
+        "swedish_karl_xii": {
+          "src": "9:21"
+        }
+      }
+    }
+  ]
+}

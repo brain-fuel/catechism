@@ -1,0 +1,179 @@
+{
+  "book_id": "1JO",
+  "latin_name": "Epistula I Ioannis",
+  "greek_name": "Ἰωάννου Α",
+  "finnish_name": "Ensimmäinen Johanneksen kirje",
+  "swedish_name": "S. Johannis then förste Epistel",
+  "english_name": "The First Epistle General of John",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Omnis qui credit quoniam Jesus est Christus, ex Deo natus est. Et omnis qui diligit eum qui genuit, diligit et eum qui natus est ex eo.",
+      "greek_textus_receptus": "πᾶς ὁ πιστεύων ὅτι ἰησοῦς ἐστιν ὁ χριστὸς ἐκ τοῦ θεοῦ γεγέννηται καὶ πᾶς ὁ ἀγαπῶν τὸν γεννήσαντα ἀγαπᾷ καὶ τὸν γεγεννημένον ἐξ αὐτοῦ",
+      "finnish_biblia": "Jokainen, joka uskoo, että Jesus on Kristus, hän on Jumalasta syntynyt, ja jokainen, joka rakastaa sitä, joka synnytti, hän rakastaa myös sitä, joka hänestä syntynyt on. ",
+      "swedish_karl_xii": "Hwar och en, som troor at Jesus är Christus, han är född af Gudi: och hwar och en som älskar honom som födde, han älskar ock then som födder är af honom.",
+      "king_james": "Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "In hoc cognoscimus quoniam diligamus natos Dei, cum Deum diligamus, et mandata ejus faciamus.",
+      "greek_textus_receptus": "ἐν τούτῳ γινώσκομεν ὅτι ἀγαπῶμεν τὰ τέκνα τοῦ θεοῦ ὅταν τὸν θεὸν ἀγαπῶμεν, καὶ τὰς ἐντολὰς αὐτοῦ τηρῶμεν",
+      "finnish_biblia": "Siitä me tunnemme, että me rakastamme Jumalan lapsia, koska me Jumalaa rakastamme ja hänen käskynsä pidämme. ",
+      "swedish_karl_xii": "Ther på wete wij, at wij älskom Gudz barn, när wij älskom Gudh, och hållom hans budh.",
+      "king_james": "By this we know that we love the children of God, when we love God, and keep his commandments."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Hæc est enim caritas Dei, ut mandata ejus custodiamus: et mandata ejus gravia non sunt.",
+      "greek_textus_receptus": "αὕτη γάρ ἐστιν ἡ ἀγάπη τοῦ θεοῦ ἵνα τὰς ἐντολὰς αὐτοῦ τηρῶμεν καὶ αἱ ἐντολαὶ αὐτοῦ βαρεῖαι οὐκ εἰσὶν",
+      "finnish_biblia": "Sillä tämä on rakkaus Jumalan tykö, että me hänen käskynsä pidämme, ja hänen käskynsä ei ole raskaat. ",
+      "swedish_karl_xii": "Ty thet är kärleken til Gudh, at wij hållom hans budh: och hans budh äro icke swår.",
+      "king_james": "For this is the love of God, that we keep his commandments: and his commandments are not grievous."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Quoniam omne quod natum est ex Deo, vincit mundum: et hæc est victoria, quæ vincit mundum, fides nostra.",
+      "greek_textus_receptus": "ὅτι πᾶν τὸ γεγεννημένον ἐκ τοῦ θεοῦ νικᾷ τὸν κόσμον καὶ αὕτη ἐστὶν ἡ νίκη ἡ νικήσασα τὸν κόσμον ἡ πίστις ἡμῶν",
+      "finnish_biblia": "Sillä kaikki, mitä Jumalasta syntynyt on, se voittaa maailman, ja meidän uskomme on se voitto, joka maailman voitti. ",
+      "swedish_karl_xii": "Ty alt thet som är födt af Gudi, thet öfwerwinner werldena: och thenne är segren som öfwerwinner werldena, wår troo.",
+      "king_james": "For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, *even* our faith."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Quis est, qui vincit mundum, nisi qui credit quoniam Jesus est Filius Dei?",
+      "greek_textus_receptus": "τίς ἐστιν ὁ νικῶν τὸν κόσμον εἰ μὴ ὁ πιστεύων ὅτι ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ",
+      "finnish_biblia": "Kuka siis on, joka voittaa maailman, mutta se joka uskoo, että Jesus on Jumalan Poika? ",
+      "swedish_karl_xii": "Men ho är then som öfwerwinner werldena, vtan then som troor, at Jesus är Gudz Son?",
+      "king_james": "Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Hic est, qui venit per aquam et sanguinem, Jesus Christus: non in aqua solum, sed in aqua et sanguine. Et Spiritus est, qui testificatur quoniam Christus est veritas.",
+      "greek_textus_receptus": "οὗτός ἐστιν ὁ ἐλθὼν δι᾽ ὕδατος καὶ αἵματος ἰησοῦς ὁ χριστός οὐκ ἐν τῷ ὕδατι μόνον, ἀλλ᾽ ἐν τῷ ὕδατι καὶ τῷ αἵματι καὶ τὸ πνεῦμά ἐστιν τὸ μαρτυροῦν ὅτι τὸ πνεῦμά ἐστιν ἡ ἀλήθεια",
+      "finnish_biblia": "Tämä on se, joka vedellä ja verellä tulee, Jesus Kristus, ei ainoastansa vedellä, vaan vedellä ja verellä. Ja Henki todistaa, että Henki on totuus. ",
+      "swedish_karl_xii": "Thenne är then som kommer medh watn och blodh, Jesus Christus: icke medh watn allena, vtan medh watn och blodh: och Anden är then som betygar, at Anden är sanningen.",
+      "king_james": "This is he that came by water and blood, *even* Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Quoniam tres sunt, qui testimonium dant in cælo: Pater, Verbum, et Spiritus Sanctus: et hi tres unum sunt.",
+      "greek_textus_receptus": "ὅτι τρεῖς εἰσιν οἱ μαρτυροῦντες ἐν τῷ οὐρανῷ ὁ πατὴρ ὁ λόγος, καὶ τὸ ἅγιον πνεῦμα καὶ οὗτοι οἱ τρεῖς ἕν εἰσιν",
+      "finnish_biblia": "Sillä kolme ovat, jotka todistavat taivaassa: Isä, Sana ja Pyhä Henki, ja ne kolme yksi ovat: ",
+      "swedish_karl_xii": "Ty tre äro som witna i himmelen, Fadren, Ordet , och then Helge Ande: och the tre äro ett.",
+      "king_james": "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Et tres sunt, qui testimonium dant in terra: spiritus, et aqua, et sanguis: et hi tres unum sunt.",
+      "greek_textus_receptus": "καὶ τρεῖς εἰσιν οἱ μαρτυροῦντες ἐν τῇ γῇ τὸ πνεῦμα καὶ τὸ ὕδωρ, καὶ τὸ αἷμα καὶ οἱ τρεῖς εἰς τὸ ἕν εἰσιν",
+      "finnish_biblia": "Ja kolme ovat, jotka todistavat maan päällä: Henki ja vesi ja veri, ja ne kolme yhdessä ovat. ",
+      "swedish_karl_xii": "Och try äro the som witna på jordene, Anden, Watnet, och Blodet: och the try äro til ett.",
+      "king_james": "And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Si testimonium hominum accipimus, testimonium Dei majus est: quoniam hoc est testimonium Dei, quod majus est, quoniam testificatus est de Filio suo.",
+      "greek_textus_receptus": "εἰ τὴν μαρτυρίαν τῶν ἀνθρώπων λαμβάνομεν, ἡ μαρτυρία τοῦ θεοῦ μείζων ἐστὶν ὅτι αὕτη ἐστὶν ἡ μαρτυρία τοῦ θεοῦ ἣν μεμαρτύρηκεν περὶ τοῦ υἱοῦ αὑτοῦ",
+      "finnish_biblia": "Jos me ihmisten todistuksen otamme, niin on Jumalan todistus suurempi; sillä tämä on Jumalan todistus, jonka hän Pojastansa todisti. ",
+      "swedish_karl_xii": "Hwar wij nu anamme menniskiors witnesbyrd, Gudz witnesbyrd är större: ty thetta är Gudz witnesbyrd, som han witnade om sin Son:",
+      "king_james": "If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Qui credit in Filium Dei, habet testimonium Dei in se. Qui non credit Filio, mendacem facit eum: quia non credit in testimonium quod testificatus est Deus de Filio suo.",
+      "greek_textus_receptus": "ὁ πιστεύων εἰς τὸν υἱὸν τοῦ θεοῦ ἔχει τὴν μαρτυρίαν ἐν ἑαυτῷ ὁ μὴ πιστεύων τῷ θεῷ ψεύστην πεποίηκεν αὐτὸν ὅτι οὐ πεπίστευκεν εἰς τὴν μαρτυρίαν ἣν μεμαρτύρηκεν ὁ θεὸς περὶ τοῦ υἱοῦ αὑτοῦ",
+      "finnish_biblia": "Joka uskoo Jumalan Pojan päälle, hänellä on todistus itsessänsä: joka ei usko Jumalaa, hän tekee hänen valehteliaksi; sillä ei hän uskonut sitä todistusta, jonka Jumala on Pojastansa todistanut. ",
+      "swedish_karl_xii": "Then ther troor på Gudz Son, han hafwer witnesbyrd i sigh sielfwom: then ther icke troor Gudi, han giör honom til en liugare; ty han icke trodde thet witnesbyrd, som Gudh witnade om sin Son.",
+      "king_james": "He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et hoc est testimonium, quoniam vitam æternam dedit nobis Deus: et hæc vita in Filio ejus est.",
+      "greek_textus_receptus": "καὶ αὕτη ἐστὶν ἡ μαρτυρία ὅτι ζωὴν αἰώνιον ἔδωκεν ἡμῖν ὁ θεὸς καὶ αὕτη ἡ ζωὴ ἐν τῷ υἱῷ αὐτοῦ ἐστιν",
+      "finnish_biblia": "Ja tämä on se todistus, että Jumala on meille ijankaikkisen elämän antanut, ja se elämä on hänen Pojassansa. ",
+      "swedish_karl_xii": "Och thet är witnesbyrdet, at Gudh oß gifwit hafwer thet ewiga lifwet; och thet lifwet är i hans Son.",
+      "king_james": "And this is the record, that God hath given to us eternal life, and this life is in his Son."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Qui habet Filium, habet vitam: qui non habet Filium, vitam non habet.",
+      "greek_textus_receptus": "ὁ ἔχων τὸν υἱὸν ἔχει τὴν ζωήν ὁ μὴ ἔχων τὸν υἱὸν τοῦ θεοῦ τὴν ζωὴν οὐκ ἔχει",
+      "finnish_biblia": "Jolla Jumalan Poika on, hänellä on elämä; jolla ei Jumalan Poika ole, ei hänellä ole elämää. ",
+      "swedish_karl_xii": "Then Sonen hafwer, han hafwer lifwet: then icke hafwer Gudz Son, han hafwer icke lifwet.",
+      "king_james": "He that hath the Son hath life; *and* he that hath not the Son of God hath not life."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Hæc scribo vobis ut sciatis quoniam vitam habetis æternam, qui creditis in nomine Filii Dei.",
+      "greek_textus_receptus": "ταῦτα ἔγραψα ὑμῖν τοῖς πιστεύουσιν εἰς τὸ ὄνομα τοῦ υἱοῦ τοῦ θεοῦ ἵνα εἰδῆτε ὅτι ζωὴν ἔχετε αἰώνιον καὶ ἵνα πιστεύητε εἰς τὸ ὄνομα τοῦ ὑιοῦ τοῦ θεοῦ",
+      "finnish_biblia": "Näitä minä teille kirjoitin, jotka Jumalan Pojan nimen päälle uskotte: että te tietäisitte teillänne ijankaikkisen elämän olevan, ja että te uskoisitte Jumalan Pojan nimen päälle. ",
+      "swedish_karl_xii": "Thetta hafwer jagh skrifwit eder, som troon i Gudz Sons namn: på thet J skolen weta, at J hafwen ewinnerligit lijf; och på thet J skolen troo i Gudz Sons namn.",
+      "king_james": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Et hæc est fiducia, quam habemus ad eum: quia quodcumque petierimus, secundum voluntatem ejus, audit nos.",
+      "greek_textus_receptus": "καὶ αὕτη ἐστὶν ἡ παῤῥησία ἣν ἔχομεν πρὸς αὐτὸν ὅτι ἐάν τι αἰτώμεθα κατὰ τὸ θέλημα αὐτοῦ, ἀκούει ἡμῶν",
+      "finnish_biblia": "Ja tämä on se turva, joka meillä on häneen, että jos me jotakin anomme hänen tahtonsa jälkeen, niin hän meitä kuulee. ",
+      "swedish_karl_xii": "Och thetta är then förtröstning som wij hafwe til honom, at om wij bedie något efter hans wilja, så hörer han oß.",
+      "king_james": "And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Et scimus quia audit nos quidquid petierimus: scimus quoniam habemus petitiones quas postulamus ab eo.",
+      "greek_textus_receptus": "καὶ ἐὰν οἴδαμεν ὅτι ἀκούει ἡμῶν ὃ ἂν αἰτώμεθα οἴδαμεν ὅτι ἔχομεν τὰ αἰτήματα ἃ ᾐτήκαμεν παρ᾽ αὐτοῦ",
+      "finnish_biblia": "Ja jos me tiedämme, että hän meitä kuulee, mitä ikänä me anomme, niin me tiedämme, että meillä ovat ne anomiset, joita me häneltä anoimme. ",
+      "swedish_karl_xii": "Och efter wij wete, at han hörer oß, ehwad wij bedie, så wete wij, at wij the böner hafwe, som wij hafwom bedit af honom.",
+      "king_james": "And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Qui scit fratrem suum peccare peccatum non ad mortem, petat, et dabitur ei vita peccanti non ad mortem. Est peccatum ad mortem: non pro illo dico ut roget quis.",
+      "greek_textus_receptus": "ἐάν τις ἴδῃ τὸν ἀδελφὸν αὑτοῦ ἁμαρτάνοντα ἁμαρτίαν μὴ πρὸς θάνατον αἰτήσει, καὶ δώσει αὐτῷ ζωὴν τοῖς ἁμαρτάνουσιν μὴ πρὸς θάνατον ἔστιν ἁμαρτία πρὸς θάνατον οὐ περὶ ἐκείνης λέγω ἵνα ἐρωτήσῃ",
+      "finnish_biblia": "Jos joku näkee veljensä tekevän jonkun synnin, ei kuolemaan, hän rukoilkaan, niin hän on antava niille elämän, jotka syntiä tekevät, ei kuolemaan. Jos synti on kuolemaan: senkaltaisista en minä sano, että joku rukoilis. ",
+      "swedish_karl_xii": "Hwar nu någor seer sin broder synda någon synd, icke til dödz, han må bedia, så skal han gifwa them lifwet som synda, icke til dödz. Thet är een synd til dödz: för sådana säger jagh icke, at någor bedia skal.",
+      "king_james": "If any man see his brother sin a sin *which is* not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Omnis iniquitas, peccatum est: et est peccatum ad mortem.",
+      "greek_textus_receptus": "πᾶσα ἀδικία ἁμαρτία ἐστὶν καὶ ἔστιν ἁμαρτία οὐ πρὸς θάνατον",
+      "finnish_biblia": "Kaikki vääryys on synti; on myös muutama synti ei kuolemaan. ",
+      "swedish_karl_xii": "All orätt är synd; är ock somlig synd, icke til dödz.",
+      "king_james": "All unrighteousness is sin: and there is a sin not unto death."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Scimus quia omnis qui natus est ex Deo, non peccat: sed generatio Dei conservat eum, et malignus non tangit eum.",
+      "greek_textus_receptus": "οἴδαμεν ὅτι πᾶς ὁ γεγεννημένος ἐκ τοῦ θεοῦ οὐχ ἁμαρτάνει ἀλλ᾽ ὁ γεννηθεὶς ἐκ τοῦ θεοῦ τηρεῖ ἐαυτὸν καὶ ὁ πονηρὸς οὐχ ἅπτεται αὐτοῦ",
+      "finnish_biblia": "Me tiedämme, että jokainen, joka Jumalasta syntynyt on, ei hän syntiä tee; vaan joka Jumalasta syntynyt on, se varjelee itsensä, ja paha ei rupee häneen. ",
+      "swedish_karl_xii": "Wjj wete, at then af Gudi född är, han syndar icke: vtan then som född är af Gudi, han förwarar sigh, och then onde kommer icke widh honom.",
+      "king_james": "We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Scimus quoniam ex Deo sumus: et mundus totus in maligno positus est.",
+      "greek_textus_receptus": "οἴδαμεν ὅτι ἐκ τοῦ θεοῦ ἐσμὲν καὶ ὁ κόσμος ὅλος ἐν τῷ πονηρῷ κεῖται",
+      "finnish_biblia": "Me tiedämme, että me olemme Jumalasta ja koko maailma on pahuudessa. ",
+      "swedish_karl_xii": "Wij wete, at wij ärom af Gudi, och hela werlden är stadd i thet onda.",
+      "king_james": "*And* we know that we are of God, and the whole world lieth in wickedness."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Et scimus quoniam Filius Dei venit, et dedit nobis sensum ut cognoscamus verum Deum, et simus in vero Filio ejus. Hic est verus Deus, et vita æterna.",
+      "greek_textus_receptus": "οἴδαμεν δὲ ὅτι ὁ υἱὸς τοῦ θεοῦ ἥκει καὶ δέδωκεν ἡμῖν διάνοιαν ἵνα γινώσκωμεν τὸν ἀληθινόν καί ἐσμεν ἐν τῷ ἀληθινῷ ἐν τῷ υἱῷ αὐτοῦ ἰησοῦ χριστῷ οὗτός ἐστιν ὁ ἀληθινὸς θεὸς καὶ ἡ ζωὴ αἰώνιος",
+      "finnish_biblia": "Mutta me tiedämme, että Jumalan Poika tuli ja on meille mielen antanut, että me sen totisen tunnemme, ja olemme siinä totisessa, hänen Pojassansa Jesuksessa Kristuksessa: Tämä on totinen Jumala ja ijankaikkinen elämä. ",
+      "swedish_karl_xii": "Men wij wete, at Gudz Son är kommen, och hafwer gifwit oß sinne, at wij kännom then Sanna, och ärom i them Sanna, i hans Son Jesu Christo: thenne är sanner Gudh, och thet ewiga lifwet.",
+      "king_james": "And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, *even* in his Son Jesus Christ. This is the true God, and eternal life."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Filioli, custodite vos a simulacris. Amen.",
+      "greek_textus_receptus": "τεκνία φυλάξατε ἑαυτοὺς ἀπὸ τῶν εἰδώλων ἀμήν",
+      "finnish_biblia": "Lapsukaiset, kavahtakaat epäjumalia, amen!    ",
+      "swedish_karl_xii": "Kära barn, wachter eder för afgudarna *: Amen.",
+      "king_james": "Little children, keep yourselves from idols. Amen."
+    }
+  ]
+}

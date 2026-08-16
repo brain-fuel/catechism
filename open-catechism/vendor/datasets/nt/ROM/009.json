@@ -1,0 +1,275 @@
+{
+  "book_id": "ROM",
+  "latin_name": "Epistula ad Romanos",
+  "greek_name": "Πρὸς Ῥωμαίους",
+  "finnish_name": "Kirje roomalaisille",
+  "swedish_name": "S. Pauli Epistel Til the Romare",
+  "english_name": "The Epistle of Paul the Apostle to the Romans",
+  "chapter": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Veritatem dico in Christo, non mentior: testimonium mihi perhibente conscientia mea in Spiritu Sancto:",
+      "greek_textus_receptus": "ἀλήθειαν λέγω ἐν χριστῷ οὐ ψεύδομαι συμμαρτυρούσης μοι τῆς συνειδήσεώς μου ἐν πνεύματι ἁγίῳ",
+      "finnish_biblia": "Minä sanon totuuden Kristuksessa ja en valehtele, (niinkuin minun omatuntoni minun kanssani Pyhässä Hengessä todistaa,) ",
+      "swedish_karl_xii": "Jagh säger sanningen i Christo, och liuger icke, som mitt samwet bär migh ther witne til i them Helga Anda:",
+      "king_james": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "quoniam tristitia mihi magna est, et continuus dolor cordi meo.",
+      "greek_textus_receptus": "ὅτι λύπη μοί ἐστιν μεγάλη καὶ ἀδιάλειπτος ὀδύνη τῇ καρδίᾳ μου",
+      "finnish_biblia": "Että minulla on suuri murhe ja alinomainen kipu sydämessäni. ",
+      "swedish_karl_xii": "At jagh hafwer ena stora sorg, och idkeliga pino i mitt hierta.",
+      "king_james": "That I have great heaviness and continual sorrow in my heart."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Optabam enim ego ipse anathema esse a Christo pro fratribus meis, qui sunt cognati mei secundum carnem,",
+      "greek_textus_receptus": "ηὐχόμην γὰρ αὐτὸς ἐγὼ ἀνάθεμα εἶναι ἀπὸ τοῦ χριστοῦ ὑπὲρ τῶν ἀδελφῶν μου τῶν συγγενῶν μου κατὰ σάρκα",
+      "finnish_biblia": "Minä olen pyytänyt kirottuna olla Kristukselta minun veljieni tähden, jotka lihan puolesta minun lankoni ovat, ",
+      "swedish_karl_xii": "Ty jagh hafwer sielfwer önskat migh bortkastad ifrå Christo, för mina bröder skul, som migh kötzliga skylde äro:",
+      "king_james": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "qui sunt Israëlitæ, quorum adoptio est filiorum, et gloria, et testamentum, et legislatio, et obsequium, et promissa:",
+      "greek_textus_receptus": "οἵτινές εἰσιν ἰσραηλῖται ὧν ἡ υἱοθεσία καὶ ἡ δόξα καὶ αἱ διαθῆκαι καὶ ἡ νομοθεσία καὶ ἡ λατρεία καὶ αἱ ἐπαγγελίαι",
+      "finnish_biblia": "Jotka ovat Israelilaiset, joiden on lasten oikeus ja kunnia, ja liitot ja laki, ja jumalanpalvelus ja lupaukset, ",
+      "swedish_karl_xii": "Hwilke äro af Jsrael, hwilkom barnaskapet tilhörer, och härligheten, och förbundet, och lagen, och gudztiensten, och löften:",
+      "king_james": "Who are Israelites; to whom *pertaineth* the adoption, and the glory, and the covenants, and the giving of the law, and the service *of God*, and the promises;"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "quorum patres, et ex quibus est Christus secundum carnem, qui est super omnia Deus benedictus in sæcula. Amen.",
+      "greek_textus_receptus": "ὧν οἱ πατέρες καὶ ἐξ ὧν ὁ χριστὸς τὸ κατὰ σάρκα ὁ ὢν ἐπὶ πάντων θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας ἀμήν",
+      "finnish_biblia": "Joiden myös isät ovat, joista Kristus lihan puolesta syntynyt on, joka on Jumala ylitse kaikkein ylistetty ijankaikkisesti, amen! ",
+      "swedish_karl_xii": "Hwilkas äro fäderna, ther Christus af födder är, på kötsens wägna, hwilken är Gudh öfwer all ting, lofwad ewinnerliga: Amen.",
+      "king_james": "Whose *are* the fathers, and of whom as concerning the flesh Christ *came*, who is over all, God blessed for ever. Amen."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Non autem quod exciderit verbum Dei. Non enim omnes qui ex Israël sunt, ii sunt Israëlitæ:",
+      "greek_textus_receptus": "οὐχ οἷον δὲ ὅτι ἐκπέπτωκεν ὁ λόγος τοῦ θεοῦ οὐ γὰρ πάντες οἱ ἐξ ἰσραήλ οὗτοι ἰσραήλ",
+      "finnish_biblia": "Mutta ei niin, että Jumalan sana on hukkunut; sillä ei ne ole kaikki Israelilaiset, jotka Israelista ovat. ",
+      "swedish_karl_xii": "Thetta säger jagh icke förthenskul, at Gudz ord äro om intet worden: ty the äro icke alle Jsraeliter som äro af Jsrael:",
+      "king_james": "Not as though the word of God hath taken none effect. For they *are* not all Israel, which are of Israel:"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "neque qui semen sunt Abrahæ, omnes filii: sed in Isaac vocabitur tibi semen:",
+      "greek_textus_receptus": "οὐδ᾽ ὅτι εἰσὶν σπέρμα ἀβραάμ πάντες τέκνα ἀλλ᾽ ἐν ἰσαὰκ κληθήσεταί σοι σπέρμα",
+      "finnish_biblia": "Ei myös ne ole kaikki lapset, jotka Abrahamin siemen ovat; vaan Isakissa pitää sinulle siemen kutsuttaman. ",
+      "swedish_karl_xii": "Jcke äro the heller alle söner, at the äro Abrahams sädh: vtan i Jsaac skal tigh kallas säden.",
+      "king_james": "Neither, because they are the seed of Abraham, *are they* all children: but, In Isaac shall thy seed be called."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "id est, non qui filii carnis, hi filii Dei: sed qui filii sunt promissionis, æstimantur in semine.",
+      "greek_textus_receptus": "τουτέστιν οὐ τὰ τέκνα τῆς σαρκὸς ταῦτα τέκνα τοῦ θεοῦ ἀλλὰ τὰ τέκνα τῆς ἐπαγγελίας λογίζεται εἰς σπέρμα",
+      "finnish_biblia": "Se on: ei ne ole Jumalan lapset, jotka lihan puolesta lapset ovat; mutta ne, jotka lupauksen lapset ovat, ne siemeneksi luetaan. ",
+      "swedish_karl_xii": "Thet är: Jcke äro the Gudz barn, som äro barn efter kötet: vtan the som äro barn efter löftet, the warda räknade för sädh.",
+      "king_james": "That is, They which are the children of the flesh, these *are* not the children of God: but the children of the promise are counted for the seed."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Promissionis enim verbum hoc est: Secundum hoc tempus veniam: et erit Saræ filius.",
+      "greek_textus_receptus": "ἐπαγγελίας γὰρ ὁ λόγος οὗτος κατὰ τὸν καιρὸν τοῦτον ἐλεύσομαι καὶ ἔσται τῇ σάῤῥᾳ υἱός",
+      "finnish_biblia": "Sillä tämä on lupauksen sana: tällä ajalla minä tulen ja Saaralla pitää poika oleman. ",
+      "swedish_karl_xii": "Ty thetta är löftes ordet: Jagh skal komma i thenna tiden; och Sara skal hafwa en son.",
+      "king_james": "For this *is* the word of promise, At this time will I come, and Sara shall have a son."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Non solum autem illa: sed et Rebecca ex uno concubitu habens, Isaac patris nostri.",
+      "greek_textus_receptus": "οὐ μόνον δέ ἀλλὰ καὶ ῥεβέκκα ἐξ ἑνὸς κοίτην ἔχουσα ἰσαὰκ τοῦ πατρὸς ἡμῶν",
+      "finnish_biblia": "Mutta ei se ainoastaan, mutta myös Rebekka siitti yhdestä Isaakista meidän isästämme. ",
+      "swedish_karl_xii": "Och icke allenast thet; vtan ock Rebecca wardt en gång hafwandes af Jsaac wårom fader.",
+      "king_james": "And not only *this*; but when Rebecca also had conceived by one, *even* by our father Isaac;"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Cum enim nondum nati fuissent, aut aliquid boni egissent, aut mali (ut secundum electionem propositum Dei maneret),",
+      "greek_textus_receptus": "μήπω γὰρ γεννηθέντων μηδὲ πραξάντων τι ἀγαθὸν ἢ κακόν, ἵνα ἡ κατ᾽ ἐκλογὴν τοῦ θεοῦ πρόθεσις μένῃ οὐκ ἐξ ἔργων ἀλλ᾽ ἐκ τοῦ καλοῦντος",
+      "finnish_biblia": "Sillä ennen kuin lapset syntyivätkään ja kuin ei he vielä hyvää eikä pahaa tehneet olleet, että Jumalan aivoitus pitäis valitsemisen jälkeen seisovainen oleman, ei töiden tähden, vaan kutsujan armosta, ",
+      "swedish_karl_xii": "Ty förr än barnen woro född, och hade hwarken godt eller ondt giordt, (på thet Gudz vpsåt skulle blifwa ståndandes efter vthkorelsen, icke för gierningarnas skul, vtan af kallarens nåde,)",
+      "king_james": "(For *the children* being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "non ex operibus, sed ex vocante dictum est ei quia major serviet minori,",
+      "greek_textus_receptus": "ἐῤῥήθη αὐτῇ ὅτι ὁ μείζων δουλεύσει τῷ ἐλάσσονι",
+      "finnish_biblia": "Sanottiin hänelle: suuremman pitää vähempää palveleman. ",
+      "swedish_karl_xii": "Wardt thenne sagt: Then större skal tiena them mindra.",
+      "king_james": "It was said unto her, The elder shall serve the younger."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "sicut scriptum est: Jacob dilexi, Esau autem odio habui.",
+      "greek_textus_receptus": "καθὼς γέγραπται τὸν ἰακὼβ ἠγάπησα τὸν δὲ ἠσαῦ ἐμίσησα",
+      "finnish_biblia": "Niinkuin kirjoitettu on: Jakobia minä rakastin, mutta Esauta vihasin. ",
+      "swedish_karl_xii": "Såsom skrifwit är: Jacob älskade jagh; men Esau hatade jagh.",
+      "king_james": "As it is written, Jacob have I loved, but Esau have I hated."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Quid ergo dicemus? numquid iniquitas apud Deum? Absit.",
+      "greek_textus_receptus": "τί οὖν ἐροῦμεν μὴ ἀδικία παρὰ τῷ θεῷ μὴ γένοιτο",
+      "finnish_biblia": "Mitäs me siis sanomme? Onko Jumalan tykönä vääryyttä? Pois se! ",
+      "swedish_karl_xii": "Hwad wilje wij tå säija? Är Gudh orättferdig? Bort thet.",
+      "king_james": "What shall we say then? *Is there* unrighteousness with God? God forbid."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Moysi enim dicit: Miserebor cujus misereor: et misericordiam præstabo cujus miserebor.",
+      "greek_textus_receptus": "τῷ γὰρ μωσῇ λέγει ἐλεήσω ὃν ἂν ἐλεῶ καὶ οἰκτειρήσω ὃν ἂν οἰκτείρω",
+      "finnish_biblia": "Sillä hän sanoo Mosekselle: jota minä armahdan, sitä minä tahdon armahtaa, ja tahdon olla laupias, jolle minä laupias olen. ",
+      "swedish_karl_xii": "Ty han säger til Mosen: Hwilkom jagh är nådelig, honom är jagh nådelig; och öfwer hwilken jagh förbarmar migh, öfwer honom förbarmar jagh migh.",
+      "king_james": "For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Igitur non volentis, neque currentis, sed miserentis est Dei.",
+      "greek_textus_receptus": "ἄρα οὖν οὐ τοῦ θέλοντος οὐδὲ τοῦ τρέχοντος ἀλλὰ τοῦ ἐλεοῦντος θεοῦ",
+      "finnish_biblia": "Niin ei se nyt ole sen, joka tahtoo, eikä sen, joka juoksee, vaan sen, joka armahtaa, nimittäin Jumalan. ",
+      "swedish_karl_xii": "Så står thet nu icke til någors mans wilja eller lop; vtan til Gudz barmhertighet.",
+      "king_james": "So then *it is* not of him that willeth, nor of him that runneth, but of God that sheweth mercy."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Dicit enim Scriptura Pharaoni: Quia in hoc ipsum excitavi te, ut ostendam in te virtutem meam: et ut annuntietur nomen meum in universa terra.",
+      "greek_textus_receptus": "λέγει γὰρ ἡ γραφὴ τῷ φαραὼ ὅτι εἰς αὐτὸ τοῦτο ἐξήγειρά σε ὅπως ἐνδείξωμαι ἐν σοὶ τὴν δύναμίν μου καὶ ὅπως διαγγελῇ τὸ ὄνομά μου ἐν πάσῃ τῇ γῇ",
+      "finnish_biblia": "Sillä Raamattu sanoo Pharaolle: juuri sentähden olen minä sinun herättänyt, osoittaakseni minun voimani sinussa, että minun nimeni kaikessa maassa julistettaisiin. ",
+      "swedish_karl_xii": "Ty Skriften säger til Pharao: Ther til hafwer jagh vpwäckt tigh, at jagh skal bewisa mina macht på tigh; och at mitt namn skal warda förkunnat i all land.",
+      "king_james": "For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that i might shew my power in thee, and that my name might be declared throughout all the earth."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Ergo cujus vult miseretur, et quem vult indurat.",
+      "greek_textus_receptus": "ἄρα οὖν ὃν θέλει ἐλεεῖ ὃν δὲ θέλει σκληρύνει",
+      "finnish_biblia": "Niin hän siis armahtaa, ketä hän tahtoo, ja paaduttaa, kenenkä hän tahtoo. ",
+      "swedish_karl_xii": "Så förbarmar han nu sigh öfwer hwem han wil; och hwem han wil, förhärdar han.",
+      "king_james": "Therefore hath he mercy on whom he will *have mercy*, and whom he will he hardeneth."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Dicis itaque mihi: Quid adhuc queritur? voluntati enim ejus quis resistit?",
+      "greek_textus_receptus": "ἐρεῖς οὖν μοι τί ἔτι μέμφεται τῷ γὰρ βουλήματι αὐτοῦ τίς ἀνθέστηκεν",
+      "finnish_biblia": "Niin sinä sanot minulle: mitä hän siis nuhtelee? sillä kuka taitaa hänen tahtoansa vastaan olla? ",
+      "swedish_karl_xii": "Så må tu säija til migh: Hwad skyllar han tå oß? Ho kan stå emot hans wilja?",
+      "king_james": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "O homo, tu quis es, qui respondeas Deo? numquid dicit figmentum ei qui se finxit: Quid me fecisti sic?",
+      "greek_textus_receptus": "μενοῦνγε ὦ ἄνθρωπε σὺ τίς εἶ ὁ ἀνταποκρινόμενος τῷ θεῷ μὴ ἐρεῖ τὸ πλάσμα τῷ πλάσαντι τί με ἐποίησας οὕτως",
+      "finnish_biblia": "Ja tosin, oi ihminen, kuka sinä olet, joka Jumalaa vastaan riitelet? Sanooko työ tekiällensä: miksis minut tainkaltaiseksi tehnyt olet? ",
+      "swedish_karl_xii": "O menniskia, ho äst tu, som wil träta medh Gudh? Jcke säger thet ting som giordt är, til sin mästare: Hwij hafwer tu giordt migh sådana?",
+      "king_james": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed *it*, Why hast thou made me thus?"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "an non habet potestatem figulus luti ex eadem massa facere aliud quidem vas in honorem, aliud vero in contumeliam?",
+      "greek_textus_receptus": "ἢ οὐκ ἔχει ἐξουσίαν ὁ κεραμεὺς τοῦ πηλοῦ ἐκ τοῦ αὐτοῦ φυράματος ποιῆσαι ὃ μὲν εἰς τιμὴν σκεῦος ὃ δὲ εἰς ἀτιμίαν",
+      "finnish_biblia": "Eli eikö savenvalajalla ole saven päälle valtaa, yhdestä kappaleesta tehdä yhtä astiaa kunnialliseksi ja toista huonoksi? ",
+      "swedish_karl_xii": "Hafwer icke en pottomakare macht at giöra af en klimp ett kaar til heder, och thet andra til wanheder?",
+      "king_james": "Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?"
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Quod si Deus volens ostendere iram, et notum facere potentiam suam, sustinuit in multa patientia vasa iræ, apta in interitum,",
+      "greek_textus_receptus": "εἰ δὲ θέλων ὁ θεὸς ἐνδείξασθαι τὴν ὀργὴν καὶ γνωρίσαι τὸ δυνατὸν αὐτοῦ ἤνεγκεν ἐν πολλῇ μακροθυμίᾳ σκεύη ὀργῆς κατηρτισμένα εἰς ἀπώλειαν",
+      "finnish_biblia": "Sentähden, jos Jumala tahtoo vihansa osoittaa ja voimansa ilmoittaa, on hän suurella kärsivällisyydellä kärsinyt vihansa astioita, jotka ovat kadotukseen valmistetut. ",
+      "swedish_karl_xii": "Therföre tå Gudh wille låta see wredena, och kungiöra sina macht, hafwer han medh stoor tolsamhet lidit wredsens kaar, som äro tilredd til fördömelse.",
+      "king_james": "*What* if God, willing to shew *his* wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "ut ostenderet divitias gloriæ suæ in vasa misericordiæ, quæ præparavit in gloriam.",
+      "greek_textus_receptus": "καὶ ἵνα γνωρίσῃ τὸν πλοῦτον τῆς δόξης αὐτοῦ ἐπὶ σκεύη ἐλέους ἃ προητοίμασεν εἰς δόξαν",
+      "finnish_biblia": "Ja että hän tiettäväksi tekis kunniansa rikkauden laupiutensa astioille, jotka hän kunniaan on valmistanut, ",
+      "swedish_karl_xii": "På thet han skulle kungiöra sina härlighets rikedom på barmhertighetenes kaar, som han hafwer tilredt til härlighet.",
+      "king_james": "And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Quos et vocavit nos non solum ex Judæis, sed etiam in gentibus,",
+      "greek_textus_receptus": "οὓς καὶ ἐκάλεσεν ἡμᾶς οὐ μόνον ἐξ ἰουδαίων ἀλλὰ καὶ ἐξ ἐθνῶν",
+      "finnish_biblia": "Jotka hän myös kutsunut on, nimittäin meitä, ei ainoasti Juudalaisista, vaan myös pakanoista, ",
+      "swedish_karl_xii": "Hwilka han ock kallat hafwer, nemliga oß, icke allenast af Judomen, vtan ock af Hedningomen.",
+      "king_james": "Even us, whom he hath called, not of the Jews only, but also of the Gentiles?"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "sicut in Osee dicit: Vocabo non plebem meam, plebem meam: et non dilectam, dilectam: et non misericordiam consecutam, misericordiam consecutam.",
+      "greek_textus_receptus": "ὡς καὶ ἐν τῷ ὡσηὲ λέγει καλέσω τὸν οὐ λαόν μου λαόν μου καὶ τὴν οὐκ ἠγαπημένην ἠγαπημένην",
+      "finnish_biblia": "Niinkuin hän myös Hosean kautta sanoo: minä tahdon kutsua sen minun kansakseni, joka ei ollut minun kansani, ja minun rakkaakseni, joka ei minun rakkaani ollut. ",
+      "swedish_karl_xii": "Såsom han ock säger genom Oseas: Thet som icke war mitt folck, thet skal jagh kalla mitt folck : och then migh intet kär war, skal jagh kalla min kära.",
+      "king_james": "As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Et erit: in loco, ubi dictum est eis: Non plebs mea vos: ibi vocabuntur filii Dei vivi.",
+      "greek_textus_receptus": "καὶ ἔσται ἐν τῷ τόπῳ οὗ ἐῤῥήθη αὐτοῖς οὐ λαός μου ὑμεῖς ἐκεῖ κληθήσονται υἱοὶ θεοῦ ζῶντος",
+      "finnish_biblia": "Ja pitää tapahtuman, että siinä paikassa, missä heille sanottiin: ette ole minun kansani, siellä pitää heitä elävän Jumalan lapsiksi kutsuttaman. ",
+      "swedish_karl_xii": "Och thet skal skee, at ther som hafwer warit sagt til them: J ären icke mitt folck; ther skola the warda kallade lefwandes Gudz barn.",
+      "king_james": "And it shall come to pass, *that* in the place where it was said unto them, Ye *are* not my people; there shall they be called the children of the living God."
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Isaias autem clamat pro Israël: Si fuerit numerus filiorum Israël tamquam arena maris, reliquiæ salvæ fient.",
+      "greek_textus_receptus": "ἠσαΐας δὲ κράζει ὑπὲρ τοῦ ἰσραήλ ἐὰν ᾖ ὁ ἀριθμὸς τῶν υἱῶν ἰσραὴλ ὡς ἡ ἄμμος τῆς θαλάσσης τὸ κατάλειμμα σωθήσεται",
+      "finnish_biblia": "Mutta Jesaias huutaa Israelin edestä: jos Israelin lasten luku olis niinkuin santa meressä, niin kuitenkin tähteet autuaaksi tulevat. ",
+      "swedish_karl_xii": "Men Esaias ropar för Jsrael: Om talet på Jsraels barn än wore som sanden i hafwet, så skola doch the igenlefde warda salige.",
+      "king_james": "Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:"
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Verbum enim consummans, et abbrevians in æquitate: quia verbum breviatum faciet Dominus super terram:",
+      "greek_textus_receptus": "λόγον γὰρ συντελῶν καὶ συντέμνων ἐν δικαιοσυνῃ ὅτι λόγον συντετμημένον ποιήσει κύριος ἐπὶ τῆς γῆς",
+      "finnish_biblia": "Sillä kuluttamus ja lyhentämys pitää tapahtuman vanhurskaudeksi, että Herra tekee hävityksen maan päällä, ",
+      "swedish_karl_xii": "Ty han skal wäl låta förderfwa them, och doch likwäl stilla thet förderfwet til rättferdighet: ty Herren skal stilla förderfwet på jordene.",
+      "king_james": "For he will finish the work, and cut *it* short in righteousness: because a short work will the Lord make upon the earth."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "et sicut prædixit Isaias: Nisi Dominus Sabaoth reliquisset nobis semen, sicut Sodoma facti essemus, et sicut Gomorrha similes fuissemus.",
+      "greek_textus_receptus": "καὶ καθὼς προείρηκεν ἠσαΐας εἰ μὴ κύριος σαβαὼθ ἐγκατέλιπεν ἡμῖν σπέρμα ὡς σόδομα ἂν ἐγενήθημεν καὶ ὡς γόμοῤῥα ἂν ὡμοιώθημεν",
+      "finnish_biblia": "Ja niinkuin Jesaias ennen sanoi: ellei Herra Zebaot olisi meille siementä jättänyt, niin me olisimme olleet kuin Sodoma ja senkaltaiset kuin Gomorra. ",
+      "swedish_karl_xii": "Och såsom Esaias sade tilförene: Hade icke Herren Zebaoth igenlefdt oß sädh, tå hade wij warit såsom Sodoma, och lika som Gomorra.",
+      "king_james": "And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Quid ergo dicemus? Quod gentes, quæ non sectabantur justitiam, apprehenderunt justitiam: justitiam autem, quæ ex fide est.",
+      "greek_textus_receptus": "τί οὖν ἐροῦμεν ὅτι ἔθνη τὰ μὴ διώκοντα δικαιοσύνην κατέλαβεν δικαιοσύνην δικαιοσύνην δὲ τὴν ἐκ πίστεως",
+      "finnish_biblia": "Mitäs me siis sanomme? (Me sanomme:) pakanat, jotka ei ole vanhurskautta etsineet, ovat saaneet vanhurskauden, mutta sen vanhurskauden, joka uskosta on: ",
+      "swedish_karl_xii": "Hwad wilje wij tå säija? Thet säije wij: Hedningarna som icke farit hafwa efter rättferdighetene, the hafwa fått rättferdigheten: then rättferdighet menar jagh, som af trone kommer.",
+      "king_james": "What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Israël vero sectando legem justitiæ, in legem justitiæ non pervenit.",
+      "greek_textus_receptus": "ἰσραὴλ δὲ διώκων νόμον δικαιοσύνης εἰς νόμον δικαιοσύνης, οὐκ ἔφθασεν",
+      "finnish_biblia": "Mutta Israel, joka vanhurskauden lakia on etsinyt, ei ole vanhurskauden lakia saanut. ",
+      "swedish_karl_xii": "Men Jsrael som foor efter rättferdighetenes lagh, kom icke til rättferdighetenes lagh.",
+      "king_james": "But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness."
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Quare? Quia non ex fide, sed quasi ex operibus: offenderunt enim in lapidem offensionis,",
+      "greek_textus_receptus": "διατί ὅτι οὐκ ἐκ πίστεως, ἀλλ᾽ ὡς ἐξ ἔργων νόμου προσέκοψαν γὰρ τῷ λίθῳ τοῦ προσκόμματος,",
+      "finnish_biblia": "Minkätähden? Ettei he sitä uskosta, mutta niinkuin lain töistä etsivät. Sillä he ovat loukanneet itsensä loukkauskiveen. ",
+      "swedish_karl_xii": "Hwarföre? Therföre, at the icke sökte thet af trone; vtan såsom af lagsens gierningar: ty the stötte sigh på förtörnelsestenen:",
+      "king_james": "Wherefore? Because *they sought it* not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;"
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "sicut scriptum est: Ecce pono in Sion lapidem offensionis, et petram scandali: et omnis qui credit in eum, non confundetur.",
+      "greek_textus_receptus": "καθὼς γέγραπται ἰδού, τίθημι ἐν σιὼν λίθον προσκόμματος καὶ πέτραν σκανδάλου καὶ πᾶς ὁ πιστεύων ἐπ᾽ αὐτῷ οὐ καταισχυνθήσεται",
+      "finnish_biblia": "Niinkuin kirjoitettu on: katso, minä panen Zioniin loukkauskiven ja pahennuksen kallion, ja jokainen, joka hänen päällensä uskoo, ei pidä häpiään tuleman.   ",
+      "swedish_karl_xii": "Såsom skrifwit är: Sij, jagh lägger i Zion en förtörnelsesteen , och ena förargelseklippo : och hwar och en som troor på honom, skal icke komma på skam.",
+      "king_james": "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed."
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "book_id": "2TI",
+  "latin_name": "Epistula II ad Timotheum",
+  "greek_name": "Πρὸς Τιμόθεον Β",
+  "finnish_name": "Toinen kirje Timoteukselle",
+  "swedish_name": "S. Pauli Epistel then andra Til Timotheum",
+  "english_name": "The Second Epistle of Paul the Apostle to Timothy",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Hoc autem scito, quod in novissimis diebus instabunt tempora periculosa:",
+      "greek_textus_receptus": "τοῦτο δὲ γίνωσκε ὅτι ἐν ἐσχάταις ἡμέραις ἐνστήσονται καιροὶ χαλεποί",
+      "finnish_biblia": "Mutta sen sinun pitää tietämän, että viimeisinä päivinä vaaralliset ajat lähenevät; ",
+      "swedish_karl_xii": "Men thetta skalt tu weta, at vthi yttersta dagarna tilstunda fahrlige tider.",
+      "king_james": "This know also, that in the last days perilous times shall come."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "erunt homines seipsos amantes, cupidi, elati, superbi, blasphemi, parentibus non obedientes, ingrati, scelesti,",
+      "greek_textus_receptus": "ἔσονται γὰρ οἱ ἄνθρωποι φίλαυτοι φιλάργυροι ἀλαζόνες ὑπερήφανοι βλάσφημοι γονεῦσιν ἀπειθεῖς ἀχάριστοι ἀνόσιοι",
+      "finnish_biblia": "Sillä ne ihmiset, jotka itsiänsä rakastavat, ahneet, kerskaajat, ylpiät, pilkkaajat, vanhemmillensa tottelemattomat, kiittämättömät, jumalattomat, ",
+      "swedish_karl_xii": "Ty ther warda kommande menniskior, som älska sigh sielfwa; girige, stortalige, högfärdige, försinädare, föräldromen olydige, otacksame, ogudachtige;",
+      "king_james": "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "sine affectione, sine pace, criminatores, incontinentes, immites, sine benignitate,",
+      "greek_textus_receptus": "ἄστοργοι ἄσπονδοι διάβολοι ἀκρατεῖς ἀνήμεροι ἀφιλάγαθοι",
+      "finnish_biblia": "Haluttomat, sopimattomat, laittajat, irtaalliset, kiukkuiset, kateet, ",
+      "swedish_karl_xii": "Okärlige, hårdnackade, skändare, okyske, omilde, hatande thet goda;",
+      "king_james": "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "proditores, protervi, tumidi, et voluptatum amatores magis quam Dei:",
+      "greek_textus_receptus": "προδόται προπετεῖς τετυφωμένοι φιλήδονοι μᾶλλον ἢ φιλόθεοι",
+      "finnish_biblia": "Pettäjät, tuimat, paisuneet, jotka enemmin hekumaa kuin Jumalaa rakastavat, ",
+      "swedish_karl_xii": "Förrädare, öfwerdådige, vpbläste; the ther meer älska wällust än Gudh:",
+      "king_james": "Traitors, heady, highminded, lovers of pleasures more than lovers of God;"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "habentes speciem quidem pietatis, virtutem autem ejus abnegantes. Et hos devita:",
+      "greek_textus_receptus": "ἔχοντες μόρφωσιν εὐσεβείας τὴν δὲ δύναμιν αὐτῆς ἠρνημένοι καὶ τούτους ἀποτρέπου",
+      "finnish_biblia": "Joilla on jumalinen meno olevinansa, mutta sen voiman he kieltävät pois. Karta siis senkaltaisia. ",
+      "swedish_karl_xii": "Hafwandes ett skeen til gudachtighet; men thes kraft försaka the. Och fly sådana.",
+      "king_james": "Having a form of godliness, but denying the power thereof: from such turn away."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "ex his enim sunt qui penetrant domos, et captivas ducunt mulierculas oneratas peccatis, quæ ducuntur variis desideriis:",
+      "greek_textus_receptus": "ἐκ τούτων γάρ εἰσιν οἱ ἐνδύνοντες εἰς τὰς οἰκίας καὶ αἰχμαλωτεύοντες τὰ γυναικάρια σεσωρευμένα ἁμαρτίαις ἀγόμενα ἐπιθυμίαις ποικίλαις",
+      "finnish_biblia": "Sillä ne ovat niitä, jotka huoneesta huoneeseen juoksevat ja vaimoväen vangiksi vievät, jotka synneillä rasitetut ovat ja moninaisten himoin kanssa käyvät, ",
+      "swedish_karl_xii": "Af them äro the som löpa vthu thet ena huset i thet andra, och föra qwinfolck fångna, som medh synder betungada äro, och drifwas af mångahanda lustar.",
+      "king_james": "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "semper discentes, et numquam ad scientiam veritatis pervenientes.",
+      "greek_textus_receptus": "πάντοτε μανθάνοντα καὶ μηδέποτε εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν δυνάμενα",
+      "finnish_biblia": "Aina oppivaiset, ja ei koskaan totuuden tuntoon tulevaiset. ",
+      "swedish_karl_xii": "Altid läras the, och kunna doch aldrig komma til sanningenes kundskap.",
+      "king_james": "Ever learning, and never able to come to the knowledge of the truth."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Quemadmodum autem Jannes et Mambres restiterunt Moysi: ita et hi resistunt veritati, homines corrupti mente, reprobi circa fidem;",
+      "greek_textus_receptus": "ὃν τρόπον δὲ ἰάννης καὶ ἰαμβρῆς ἀντέστησαν μωϋσεῖ οὕτως καὶ οὗτοι ἀνθίστανται τῇ ἀληθείᾳ ἄνθρωποι κατεφθαρμένοι τὸν νοῦν ἀδόκιμοι περὶ τὴν πίστιν",
+      "finnish_biblia": "Mutta niinkuin Jannes ja Jambres olivat Mosesta vastaan, niin nämätkin ovat totuutta vastaan: ne ovat ihmiset taidosta turmellut ja kelvottomat uskoon. ",
+      "swedish_karl_xii": "Men såsom Jannes och Jambres stodo emot Mose: så stå ock thesse emot sanningene; thet äro menniskior, förderfwade i sitt sinne, odugelige til trona.",
+      "king_james": "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "sed ultra non proficient: insipientia enim eorum manifesta erit omnibus, sicut et illorum fuit.",
+      "greek_textus_receptus": "ἀλλ᾽ οὐ προκόψουσιν ἐπὶ πλεῖον ἡ γὰρ ἄνοια αὐτῶν ἔκδηλος ἔσται πᾶσιν ὡς καὶ ἡ ἐκείνων ἐγένετο",
+      "finnish_biblia": "Mutta ei heidän pidä silleen menestymän; sillä heidän hulluutensa pitää kaikille julki tuleman, niinkuin niidenkin oli. ",
+      "swedish_karl_xii": "Men the skola icke länger hafwa framgång: ty theras galenskap warder allom vppenbar, såsom ock hinas war.",
+      "king_james": "But they shall proceed no further: for their folly shall be manifest unto all *men*, as theirs also was."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Tu autem assecutus es meam doctrinam, institutionem, propositum, fidem, longanimitatem, dilectionem, patientiam,",
+      "greek_textus_receptus": "σὺ δὲ παρηκολούθηκάς μου τῇ διδασκαλίᾳ τῇ ἀγωγῇ τῇ προθέσει τῇ πίστει τῇ μακροθυμίᾳ τῇ ἀγάπῃ τῇ ὑπομονῇ",
+      "finnish_biblia": "Mutta sinä olet seurannut minun opetustani, säätyäni, aivoitustani, uskoani, pitkämielisyyttäni, rakkauttani, kärsivällisyyttäni, ",
+      "swedish_karl_xii": "Men tu hafwer förnummet min lärdom, mitt sätt, mitt vpsåt, mina troo, min långmodighet, min kärlek, mitt tolamod;",
+      "king_james": "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "persecutiones, passiones: qualia mihi facta sunt Antiochiæ, Iconii, et Lystris: quales persecutiones sustinui, et ex omnibus eripuit me Dominus.",
+      "greek_textus_receptus": "τοῖς διωγμοῖς τοῖς παθήμασιν οἷά μοι ἐγένετο ἐν ἀντιοχείᾳ ἐν ἰκονίῳ ἐν λύστροις οἵους διωγμοὺς ὑπήνεγκα καὶ ἐκ πάντων με ἐῤῥύσατο ὁ κύριος",
+      "finnish_biblia": "Vainoomisiani, vaivojani, jotka minulle Antiokiassa, Ikoniossa ja Lystrassa tapahtuivat, jotka vainoomiset minä kärsin, ja kaikista on minun Herra päästänyt. ",
+      "swedish_karl_xii": "Mina förföljelser, mina bedröfwelser, som migh öfwergingo i Antiochien, Jconio, Lystris: hurudana förföljelser jagh ther led; och af alt hafwer Herren förlossat migh.",
+      "king_james": "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of *them* all the Lord delivered me."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Et omnes, qui pie volunt vivere in Christo Jesu, persecutionem patientur.",
+      "greek_textus_receptus": "καὶ πάντες δὲ οἱ θέλοντες εὐσεβῶς ζῆν ἐν χριστῷ ἰησοῦ διωχθήσονται",
+      "finnish_biblia": "Mutta myös kaikkein, jotka jumalisesti Jesuksessa Kristuksessa elää tahtovat, pitää vainoa kärsimän. ",
+      "swedish_karl_xii": "Och alle the ther gudeliga wilja lefwa i Christo Jesu, måste lida förföljelse.",
+      "king_james": "Yea, and all that will live godly in Christ Jesus shall suffer persecution."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Mali autem homines et seductores proficient in pejus, errantes, et in errorem mittentes.",
+      "greek_textus_receptus": "πονηροὶ δὲ ἄνθρωποι καὶ γόητες προκόψουσιν ἐπὶ τὸ χεῖρον πλανῶντες καὶ πλανώμενοι",
+      "finnish_biblia": "Mutta pahoille ja petollisille ihmisille on tapahtuva jota edemmä sitä pahemmin, sekä vietteliöille että vietellyille. ",
+      "swedish_karl_xii": "Men medh onda menniskior och bedragare, warder thet ju länger ju argare: the förföra, och warda förförde.",
+      "king_james": "But evil men and seducers shall wax worse and worse, deceiving, and being deceived."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Tu vero permane in iis quæ didicisti, et credita sunt tibi: sciens a quo didiceris:",
+      "greek_textus_receptus": "σὺ δὲ μένε ἐν οἷς ἔμαθες καὶ ἐπιστώθης εἰδὼς παρὰ τίνος ἔμαθες",
+      "finnish_biblia": "Mutta pysy niissä, joita sinä oppinut olet ja sinulle uskottu on, tietäen keneltäs oppinut olet, ",
+      "swedish_karl_xii": "Men tu, blif widh thet tu lärdt hafwer, och thet tigh betrodt är, wetandes, af hwem tu thet lärdt hafwer.",
+      "king_james": "But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned *them*;"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "et quia ab infantia sacras litteras nosti, quæ te possunt instruere ad salutem, per fidem quæ est in Christo Jesu.",
+      "greek_textus_receptus": "καὶ ὅτι ἀπὸ βρέφους τὰ ἱερὰ γράμματα οἶδας τὰ δυνάμενά σε σοφίσαι εἰς σωτηρίαν διὰ πίστεως τῆς ἐν χριστῷ ἰησοῦ",
+      "finnish_biblia": "Ja ettäs jo lapsuudesta olet Pyhän Raamatun taitanut, joka sinun taitaa autuuteen neuvoa, sen uskon kautta, joka on Kristuksessa Jesuksessa. ",
+      "swedish_karl_xii": "Och efter tu af barndom hafwer kunnat then helga Skrift, kan hon tigh vnderwisa til salighet, genom trona på Christum Jesum.",
+      "king_james": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Omnis Scriptura divinitus inspirata utilis est ad docendum, ad arguendum, ad corripiendum, et erudiendum in justitia:",
+      "greek_textus_receptus": "πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν πρὸς ἔλεγχον πρὸς ἐπανόρθωσιν πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ",
+      "finnish_biblia": "Sillä kaikkinainen kirjoitus on Jumalalta annettu, ja tarpeellinen opiksi, nuhteeksi, ojennukseksi, kuritukseksi, joka on vanhurskaudessa: ",
+      "swedish_karl_xii": "Ty all Skrift af Gudi vthgifwin, är nyttig til lärdom , til straff, til bättring, til tuchtan i rättferdighet:",
+      "king_james": "All scripture *is* given by inspiration of God, and *is* profitable for doctrine, for reproof, for correction, for instruction in righteousness:"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "ut perfectus sit homo Dei, ad omne opus bonum instructus.",
+      "greek_textus_receptus": "ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος",
+      "finnish_biblia": "Että Jumalan ihminen täydellinen olis, ja kaikkiin hyviin töihin sovelias.   ",
+      "swedish_karl_xii": "At een Gudz menniskia skal wara fulbordad, til alla goda gierningar skickelig.",
+      "king_james": "That the man of God may be perfect, throughly furnished unto all good works."
+    }
+  ]
+}

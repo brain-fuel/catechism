@@ -1,0 +1,331 @@
+{
+  "book_id": "HEB",
+  "latin_name": "Epistula ad Hebraeos",
+  "greek_name": "Πρὸς Ἑβραίους",
+  "finnish_name": "Kirje heprealaisille",
+  "swedish_name": "Then Epistel Til the Ebreer",
+  "english_name": "The Epistle of Paul the Apostle to the Hebrews",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Est autem fides sperandarum substantia rerum, argumentum non apparentium.",
+      "greek_textus_receptus": "ἕστιν δὲ πίστις ἐλπιζομένων ὑπόστασις πραγμάτων ἔλεγχος οὐ βλεπομένων",
+      "finnish_biblia": "Mutta usko on vahva uskallus niihin, joita toivotaan, ja ei näkymättömistä epäile. ",
+      "swedish_karl_xii": "Men troon är een wiß förlåtelse på thet som man hoppas, och intet twifla om thet man icke seer.",
+      "king_james": "Now faith is the substance of things hoped for, the evidence of things not seen."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "In hac enim testimonium consecuti sunt senes.",
+      "greek_textus_receptus": "ἐν ταύτῃ γὰρ ἐμαρτυρήθησαν οἱ πρεσβύτεροι",
+      "finnish_biblia": "Sen kautta ovat vanhat todistuksen saaneet. ",
+      "swedish_karl_xii": "Genom henne hafwa the gamla fått witnesbyrd.",
+      "king_james": "For by it the elders obtained a good report."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Fide intelligimus aptata esse sæcula verbo Dei: ut ex invisibilibus visibilia fierent.",
+      "greek_textus_receptus": "πίστει νοοῦμεν κατηρτίσθαι τοὺς αἰῶνας ῥήματι θεοῦ εἰς τὸ μὴ ἐκ φαινομένων τά βλεπόμενα γεγονέναι",
+      "finnish_biblia": "Uskon kautta me ymmärrämme, että maailma on Jumalan sanalla valmistettu, ja että kaikki, mitä me näemme, ne ovat tyhjästä tehdyt. ",
+      "swedish_karl_xii": "Genom trona besinnom wij, at werlden är fulbordad genom Gudz ord: så at alt thet man seer, är wordet af intet.",
+      "king_james": "Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Fide plurimam hostiam Abel, quam Cain, obtulit Deo, per quam testimonium consecutus est esse justus, testimonium perhibente muneribus ejus Deo, et per illam defunctus adhuc loquitur.",
+      "greek_textus_receptus": "πίστει πλείονα θυσίαν ἅβελ παρὰ κάϊν προσήνεγκεν τῷ θεῷ δι᾽ ἡς ἐμαρτυρήθη εἶναι δίκαιος μαρτυροῦντος ἐπὶ τοῖς δώροις αὐτοῦ τοῦ θεοῦ καὶ δι᾽ αὐτῆς ἀποθανὼν ἔτι λαλεῖται",
+      "finnish_biblia": "Uskon kautta Abel uhrasi Jumalalle suuremman uhrin kuin Kain, jonka kautta hän sai todistuksen, että hän oli vanhurskas, kuin Jumala hänen lahjoistansa todisti; ja sen kautta hän vielä puhuu, vaikka hän kuollut on. ",
+      "swedish_karl_xii": "Genom trona offrade Abel Gudi större offer än Cain: medh hwilko han fick witnesbyrd, at han war rättferdig, tå Gudh gaf om hans gåfwor witnesbyrd; och genom henne talar han ännu, ändoch han död är.",
+      "king_james": "By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Fide Henoch translatus est ne videret mortem, et non inveniebatur, quia transtulit illum Deus: ante translationem enim testimonium habuit placuisse Deo.",
+      "greek_textus_receptus": "πίστει ἑνὼχ μετετέθη τοῦ μὴ ἰδεῖν θάνατον καὶ οὐχ εὑρίσκετο διότι μετέθηκεν αὐτὸν ὁ θεός πρὸ γὰρ τῆς μεταθέσεως αὐτοῦ μεμαρτύρηται εὐηρεστηκέναι τῷ θεῷ",
+      "finnish_biblia": "Uskon kautta Enok otettiin pois, ettei hän kuolemaa nähnyt, ja ei ole löydetty, että Jumala hänen otti pois; sillä ennenkuin hän otettiin pois, oli hänellä todistus, että hän kelpasi Jumalalle. ",
+      "swedish_karl_xii": "Genom trona wardt Enoch borttagen, så at han icke skulle see döden, och fans intet, therföre at Gudh borttog honom: ty förr än han borttagen war, hade han fått witnesbyrd, at han täcktes Gudi.",
+      "king_james": "By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Sine fide autem impossibile est placere Deo. Credere enim oportet accedentem ad Deum quia est, et inquirentibus se remunerator sit.",
+      "greek_textus_receptus": "χωρὶς δὲ πίστεως ἀδύνατον εὐαρεστῆσαι πιστεῦσαι γὰρ δεῖ τὸν προσερχόμενον τῷ θεῷ ὅτι ἔστιν καὶ τοῖς ἐκζητοῦσιν αὐτὸν μισθαποδότης γίνεται",
+      "finnish_biblia": "Sillä ilman uskoa on mahdotoin kelvata (Jumalalle); sillä joka Jumalan tykö tulla tahtoo, sen pitää uskoman, että hän on, ja on niille kostaja, jotka häntä etsivät. ",
+      "swedish_karl_xii": "Ty vthan trona är omögeligit täckias Gudi. Ty then til Gudh komma wil, han måste troo at Gudh är; och at han lönar them som sökia honom.",
+      "king_james": "But without faith *it is* impossible to please *him*: for he that cometh to God must believe that he is, and *that* he is a rewarder of them that diligently seek him."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Fide Noë responso accepto de iis quæ adhuc non videbantur, metuens aptavit arcam in salutem domus suæ, per quam damnavit mundum: et justitiæ, quæ per fidem est, hæres est institutus.",
+      "greek_textus_receptus": "πίστει χρηματισθεὶς νῶε περὶ τῶν μηδέπω βλεπομένων εὐλαβηθεὶς κατεσκεύασεν κιβωτὸν εἰς σωτηρίαν τοῦ οἴκου αὐτοῦ δι᾽ ἡς κατέκρινεν τὸν κόσμον καὶ τῆς κατὰ πίστιν δικαιοσύνης ἐγένετο κληρονόμος",
+      "finnish_biblia": "Uskon kautta sai Noa Jumalan käskyn niistä, jotka ei vielä näkyneet, pelkäsi ja valmisti arkin huoneensa autuudeksi; jonka kautta hän maailman tuomitsi, ja tuli sen vanhurskauden perilliseksi, joka uskon kautta tulee. ",
+      "swedish_karl_xii": "Genom trona ährade Noe Gudh, och beredde arken, til sins huus salighet, tå han fick Gudz befalning om the ting som icke syntes: genom hwilken (ark) han fördömde werldena, och wardt then rättferdighets arfwinge, som af trone är.",
+      "king_james": "By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Fide qui vocatur Abraham obedivit in locum exire, quem accepturus erat in hæreditatem: et exiit, nesciens quo iret.",
+      "greek_textus_receptus": "πίστει καλούμενος ἀβραὰμ ὑπήκουσεν ἐξελθεῖν εἰς τὸν τόπον ὃν ἤμελλεν λαμβάνειν εἰς κληρονομίαν καὶ ἐξῆλθεν μὴ ἐπιστάμενος ποῦ ἔρχεται",
+      "finnish_biblia": "Uskon kautta tuli Abraham kuuliaiseksi, kuin hän kutsuttiin menemään siihen maahan, jonka hän oli perivä, ja hän meni eikä tietänyt kuhunka hän tuleva oli. ",
+      "swedish_karl_xii": "Genom trona wardt Abraham lydig, tå han kallad wardt til at vthgå i thet land, som han få skulle til arfs: och foor vth, och wiste icke hwart han komma skulle.",
+      "king_james": "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Fide demoratus est in terra repromissionis, tamquam in aliena, in casulis habitando cum Isaac et Jacob cohæredibus repromissionis ejusdem.",
+      "greek_textus_receptus": "πίστει παρῴκησεν εἰς τὴν γῆν τῆς ἐπαγγελίας ὡς ἀλλοτρίαν ἐν σκηναῖς κατοικήσας μετὰ ἰσαὰκ καὶ ἰακὼβ τῶν συγκληρονόμων τῆς ἐπαγγελίας τῆς αὐτῆς",
+      "finnish_biblia": "Uskon kautta oli hän muukalainen luvatussa maassa, niinkuin vieraalla maalla, ja asui majoissa Isaakin ja Jakobin kanssa, jotka olivat sen lupauksen kanssaperilliset. ",
+      "swedish_karl_xii": "Genom trona war han en främling vthi thet landet honom låfwat war, lika som vthi ett främmande land, bodde vthi tabernakel, medh Jsaac och Jacob, som medarfwingar woro til samma löfte.",
+      "king_james": "By faith he sojourned in the land of promise, as *in* a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Exspectabat enim fundamenta habentem civitatem: cujus artifex et conditor Deus.",
+      "greek_textus_receptus": "ἐξεδέχετο γὰρ τὴν τοὺς θεμελίους ἔχουσαν πόλιν ἡς τεχνίτης καὶ δημιουργὸς ὁ θεός",
+      "finnish_biblia": "Sillä hän oli odottanut sitä kaupunkia, jolla perustus oli, jonka rakentaja ja luoja on Jumala. ",
+      "swedish_karl_xii": "Ty han wänte efter en stadh som grund hade; hwilkens byggiomästare och skapare är Gudh.",
+      "king_james": "For he looked for a city which hath foundations, whose builder and maker *is* God."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Fide et ipsa Sara sterilis virtutem in conceptionem seminis accepit, etiam præter tempus ætatis: quoniam fidelem credidit esse eum qui repromiserat.",
+      "greek_textus_receptus": "πίστει καὶ αὐτὴ σάῤῥα δύναμιν εἰς καταβολὴν σπέρματος ἔλαβεν καὶ παρὰ καιρὸν ἡλικίας ἔτεκεν ἐπεὶ πιστὸν ἡγήσατο τὸν ἐπαγγειλάμενον",
+      "finnish_biblia": "Uskon kautta myös Saara sai voiman siittääksensä, ja synnytti jälkeen ikänsä ajan; sillä hän piti sen uskollisena, joka sen hänelle luvannut oli. ",
+      "swedish_karl_xii": "Genom trona fick ock Sara kraft til at afla, och födde öfwer sin ålders tijd: ty hon hölt honom trofastan som thet låfwat hade.",
+      "king_james": "Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Propter quod et ab uno orti sunt (et hoc emortuo) tamquam sidera cæli in multitudinem, et sicut arena, quæ est ad oram maris, innumerabilis.",
+      "greek_textus_receptus": "διὸ καὶ ἀφ᾽ ἑνὸς ἐγεννήθησαν καὶ ταῦτα νενεκρωμένου καθὼς τὰ ἄστρα τοῦ οὐρανοῦ τῷ πλήθει καὶ ὡσεὶ ἄμμος ἡ παρὰ τὸ χεῖλος τῆς θαλάσσης ἡ ἀναρίθμητος",
+      "finnish_biblia": "Sentähden myös yhdestä, joka niin jo kuollut oli, syntyi monta, niinkuin tähtiä on taivaassa ja niinkuin santaa meren rannassa, joka epälukuinen on. ",
+      "swedish_karl_xii": "Therföre wordo ock af enom, som i then måtton död war, månge födde, såsom stiernorna på himmelen, och som sanden är i hafstrandene, then otalig är.",
+      "king_james": "Therefore sprang there even of one, and him as good as dead, *so many* as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Juxta fidem defuncti sunt omnes isti, non acceptis repromissionibus, sed a longe eas aspicientes, et salutantes, et confitentes quia peregrini et hospites sunt super terram.",
+      "greek_textus_receptus": "κατὰ πίστιν ἀπέθανον οὗτοι πάντες μὴ λαβόντες τὰς ἐπαγγελίας ἀλλὰ πόῤῥωθεν αὐτὰς ἰδόντες καὶ πεισθέντες καὶ ἀσπασάμενοι καὶ ὁμολογήσαντες ὅτι ξένοι καὶ παρεπίδημοί εἰσιν ἐπὶ τῆς γῆς",
+      "finnish_biblia": "Nämät kaikki ovat uskossa kuolleet ja ei ole niistä lupauksista saaneet, vaan ainoastansa taampaa nähneet ja kuitenkin niihin turvanneet ja hyvin tyytyivät ja tunnustivat, että he vieraat ja muukalaiset maan päällä olivat. ",
+      "swedish_karl_xii": "J trone äro thesse alle döde, och hafwa doch intet fått af löftet; vtan sedt thet fierran efter, och trodt ther vppå, och låtet sigh nöija, bekännande sigh wara gäster och främmande på jordene.",
+      "king_james": "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of *them*, and embraced *them*, and confessed that they were strangers and pilgrims on the earth."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Qui enim hæc dicunt, significant se patriam inquirere.",
+      "greek_textus_receptus": "οἱ γὰρ τοιαῦτα λέγοντες ἐμφανίζουσιν ὅτι πατρίδα ἐπιζητοῦσιν",
+      "finnish_biblia": "Sillä ne, jotka näitä sanovat, he osoittavat, että he isänmaata etsivät. ",
+      "swedish_karl_xii": "Ty the som sådant säija, gifwa tilkänna at the sökia ett fädernes land.",
+      "king_james": "For they that say such things declare plainly that they seek a country."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Et si quidem ipsius meminissent de qua exierunt, habebant utique tempus revertendi:",
+      "greek_textus_receptus": "καὶ εἰ μὲν ἐκείνης ἐμνημόνευον ἀφ᾽ ἡς ἐξῆλθον εἶχον ἂν καιρὸν ἀνακάμψαι",
+      "finnish_biblia": "Ja jos he sitte muistaneet olisivat, kusta he lähteneet olivat, olis heillä kyllä aikaa palata ollut. ",
+      "swedish_karl_xii": "Och om the hade thet meent ther the vthgångne woro, hade the wäl haft tijd at wända tilbaka.",
+      "king_james": "And truly, if they had been mindful of that *country* from whence they came out, they might have had opportunity to have returned."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "nunc autem meliorem appetunt, id est, cælestem. Ideo non confunditur Deus vocari Deus eorum: paravit enim illis civitatem.",
+      "greek_textus_receptus": "νυνὶ δὲ κρείττονος ὀρέγονται τουτέστιν ἐπουρανίου διὸ οὐκ ἐπαισχύνεται αὐτοὺς ὁ θεὸς θεὸς ἐπικαλεῖσθαι αὐτῶν ἡτοίμασεν γὰρ αὐτοῖς πόλιν",
+      "finnish_biblia": "Mutta he pyytävät parempaa, se on: taivaallista. Sentähden ei Jumala häpee kutsuttaa heidän Jumalaksensa; sillä hän valmisti heille kaupungin. ",
+      "swedish_karl_xii": "Men nu begära the ett bättre, thet är, thet himmelska. Therföre skämmes icke Gudh kallas theras Gudh: ty han hafwer beredt them en stadh.",
+      "king_james": "But now they desire a better *country*, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Fide obtulit Abraham Isaac, cum tentaretur, et unigenitum offerebat, qui susceperat repromissiones:",
+      "greek_textus_receptus": "πίστει προσενήνοχεν ἀβραὰμ τὸν ἰσαὰκ πειραζόμενος καὶ τὸν μονογενῆ προσέφερεν ὁ τὰς ἐπαγγελίας ἀναδεξάμενος",
+      "finnish_biblia": "Uskon kautta uhrasi Abraham Isaakin, kuin hän kiusattiin, ja uhrasi ainokaisensa, kuin hän jo oli lupaukset saanut, ",
+      "swedish_karl_xii": "Genom trona offrade Abraham Jsaac, när han försökt wardt; och offrade enda sonen, tå han hade fått löftet:",
+      "king_james": "By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten *son*,"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "ad quem dictum est: Quia in Isaac vocabitur tibi semen:",
+      "greek_textus_receptus": "πρὸς ὃν ἐλαλήθη ὅτι ἐν ἰσαὰκ κληθήσεταί σοι σπέρμα",
+      "finnish_biblia": "Josta sanottu oli: Isaakissa kutsutaan sinulle siemen, ",
+      "swedish_karl_xii": "Om hwilken sagt war: Vthi Jsaac skal tigh tin sädh kallad warda:",
+      "king_james": "Of whom it was said, That in Isaac shall thy seed be called:"
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "arbitrans quia et a mortuis suscitare potens est Deus: unde eum et in parabolam accepit.",
+      "greek_textus_receptus": "λογισάμενος ὅτι καὶ ἐκ νεκρῶν ἐγείρειν δυνατὸς ὁ θεός ὅθεν αὐτὸν καὶ ἐν παραβολῇ ἐκομίσατο",
+      "finnish_biblia": "Ja ajatteli, että Jumala voi kuolleistakin herättää; josta hän myös hänen niinkuin yhdessä esikuvassa jälleen sai. ",
+      "swedish_karl_xii": "Och tänckte at Gudh kunde ock wäl vpwäckia ifrå the döda: ther af tog han ock honom igen til een liknelse.",
+      "king_james": "Accounting that God *was* able to raise *him* up, even from the dead; from whence also he received him in a figure."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Fide et de futuris benedixit Isaac Jacob et Esau.",
+      "greek_textus_receptus": "πίστει περὶ μελλόντων εὐλόγησεν ἰσαὰκ τὸν ἰακὼβ καὶ τὸν ἠσαῦ",
+      "finnish_biblia": "Uskon kautta siunasi Isaak tulevaisista asioista Jakobia ja Esauta. ",
+      "swedish_karl_xii": "Genom trona wälsignade Jsaac Jacob, och Esau, om tilkommande ting.",
+      "king_james": "By faith Isaac blessed Jacob and Esau concerning things to come."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Fide Jacob, moriens, singulos filiorum Joseph benedixit: et adoravit fastigium virgæ ejus.",
+      "greek_textus_receptus": "πίστει ἰακὼβ ἀποθνῄσκων ἕκαστον τῶν υἱῶν ἰωσὴφ εὐλόγησεν καὶ προσεκύνησεν ἐπὶ τὸ ἄκρον τῆς ῥάβδου αὐτοῦ",
+      "finnish_biblia": "Uskon kautta siunasi Jakob kuollessansa molemmat Josephin pojat, rukoili ja nojasi sauvansa pään päälle. ",
+      "swedish_karl_xii": "Genom trona, tå Jacob dödde, wälsignade han båda Josephs söner; och tilbad thet öfwersta på hans spiro.",
+      "king_james": "By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, *leaning* upon the top of his staff."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Fide Joseph, moriens, de profectione filiorum Israël memoratus est, et de ossibus suis mandavit.",
+      "greek_textus_receptus": "πίστει ἰωσὴφ τελευτῶν περὶ τῆς ἐξόδου τῶν υἱῶν ἰσραὴλ ἐμνημόνευσεν καὶ περὶ τῶν ὀστέων αὐτοῦ ἐνετείλατο",
+      "finnish_biblia": "Uskon kautta puhui Joseph kuollessansa Israelin lasten lähtemisestä ja antoi käskyn luistansa. ",
+      "swedish_karl_xii": "Genom trona, tå Joseph döö skulle, talade han om Jsraels barns vthgång; och gaf befalning om sin been.",
+      "king_james": "By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Fide Moyses, natus, occultatus est mensibus tribus a parentibus suis, eo quod vidissent elegantem infantem, et non timuerunt regis edictum.",
+      "greek_textus_receptus": "πίστει μωσῆς γεννηθεὶς ἐκρύβη τρίμηνον ὑπὸ τῶν πατέρων αὐτοῦ διότι εἶδον ἀστεῖον τὸ παιδίον καὶ οὐκ ἐφοβήθησαν τὸ διάταγμα τοῦ βασιλέως",
+      "finnish_biblia": "Uskon kautta Moses, kuin hän syntynyt oli, salattiin kolme kuukautta vanhemmiltansa, että he näkivät, kuinka kaunis poikainen hän oli, ja ei peljänneet kuninkaan haastoa. ",
+      "swedish_karl_xii": "Genom trona wardt Moses fördold i tre månader af sina föräldrar, tå han född war: therföre at the sågo, at han war ett dägeligit barn, och fruchtade intet Konungens budh.",
+      "king_james": "By faith Moses, when he was born, was hid three months of his parents, because they saw *he was* a proper child; and they were not afraid of the king's commandment."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Fide Moyses grandis factus negavit se esse filium filiæ Pharaonis,",
+      "greek_textus_receptus": "πίστει μωσῆς μέγας γενόμενος ἠρνήσατο λέγεσθαι υἱὸς θυγατρὸς φαραώ",
+      "finnish_biblia": "Uskon kautta Moses, kuin hän jo suureksi tuli, kielsi kutsuttaa itsensä Pharaon tyttären pojaksi, ",
+      "swedish_karl_xii": "Genom trona, tå Moses war stoor worden, nekade han sigh wara Pharaos dotter son;",
+      "king_james": "By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter;"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "magis eligens affligi cum populo Dei, quam temporalis peccati habere jucunditatem,",
+      "greek_textus_receptus": "μᾶλλον ἑλόμενος συγκακουχεῖσθαι τῷ λαῷ τοῦ θεοῦ ἢ πρόσκαιρον ἔχειν ἁμαρτίας ἀπόλαυσιν",
+      "finnish_biblia": "Ja valitsi paljoa paremmaksi kärsiä vaivaa Jumalan joukon kanssa, kuin ajallista tarvetta synnissä nautita, ",
+      "swedish_karl_xii": "Och wille mycket hällre lida bedröfwelse medh Gudz folck, än til en tijd hafwa lust i syndene:",
+      "king_james": "Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;"
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "majores divitias æstimans thesauro Ægyptiorum, improperium Christi: aspiciebat enim in remunerationem.",
+      "greek_textus_receptus": "μείζονα πλοῦτον ἡγησάμενος τῶν ἐν αἰγύπτῳ θησαυρῶν τὸν ὀνειδισμὸν τοῦ χριστοῦ ἀπέβλεπεν γὰρ εἰς τὴν μισθαποδοσίαν",
+      "finnish_biblia": "Ja luki suuremmaksi rikkaudeksi Kristuksen pilkan, kuin Egyptin tavarat; sillä hän katsoi palkan maksoa. ",
+      "swedish_karl_xii": "Och hölt Christi försmädelse för större rikedom, än the håfwor vthi Egypten: ty han såg efter lönen.",
+      "king_james": "Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward."
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Fide reliquit Ægyptum, non veritus animositatem regis: invisibilem enim tamquam videns sustinuit.",
+      "greek_textus_receptus": "πίστει κατέλιπεν αἴγυπτον μὴ φοβηθεὶς τὸν θυμὸν τοῦ βασιλέως τὸν γὰρ ἀόρατον ὡς ὁρῶν ἐκαρτέρησεν",
+      "finnish_biblia": "Uskon kautta jätti hän Egyptin ja ei peljännyt kuninkaan hirmuisuutta; sillä hän riippui hänessä, jota ei hän nähnyt, niinkuin hän jo olis hänen nähnyt. ",
+      "swedish_karl_xii": "Genom trona öfwergaf han Egypten, intet fruchtandes Konungens wrede: ty han hölt sigh widh then han icke såg, såsom han honom sedt hade.",
+      "king_james": "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Fide celebravit Pascha, et sanguinis effusionem: ne qui vastabat primitiva, tangeret eos.",
+      "greek_textus_receptus": "πίστει πεποίηκεν τὸ πάσχα καὶ τὴν πρόσχυσιν τοῦ αἵματος ἵνα μὴ ὁ ὀλοθρεύων τὰ πρωτότοκα θίγῃ αὐτῶν",
+      "finnish_biblia": "Uskon kautta piti hän pääsiäistä ja veren vuodatusta, ettei se, joka esikoiset tappoi, olisi ruvennut heihin. ",
+      "swedish_karl_xii": "Genom trona hölt han Påska, och blodz vthgiutelse: på thet han, som drap alt thet förstfödt war, skulle intet komma widh them.",
+      "king_james": "Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Fide transierunt mare Rubrum tamquam per aridam terram: quod experti Ægyptii, devorati sunt.",
+      "greek_textus_receptus": "πίστει διέβησαν τὴν ἐρυθρὰν θάλασσαν ὡς διὰ ξηρᾶς ἡς πεῖραν λαβόντες οἱ αἰγύπτιοι κατεπόθησαν",
+      "finnish_biblia": "Uskon kautta kävivät ne Punaisen meren lävitse niinkuin kuivaa maata myöten, jota myös Egyptiläiset koettelivat ja upposivat. ",
+      "swedish_karl_xii": "Genom trona gingo the genom thet röda hafwet, såsom på torra landet: hwilket the Egyptier ock försökte, och druncknade.",
+      "king_james": "By faith they passed through the Red sea as by dry *land*: which the Egyptians assaying to do were drowned."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Fide muri Jericho corruerunt, circuitu dierum septem.",
+      "greek_textus_receptus": "πίστει τὰ τείχη ἰεριχὼ ἔπεσεν κυκλωθέντα ἐπὶ ἑπτὰ ἡμέρας",
+      "finnish_biblia": "Uskon kautta Jerikon muurit lankesivat, kuin niitä seitsemän päivää käytiin ympäri. ",
+      "swedish_karl_xii": "Genom trona föllo murarna i Jericho, tå man i siu dagar omkring gånget hade.",
+      "king_james": "By faith the walls of Jericho fell down, after they were compassed about seven days."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Fide Rahab meretrix non periit cum incredulis, excipiens exploratores cum pace.",
+      "greek_textus_receptus": "πίστει ῥαὰβ ἡ πόρνη οὐ συναπώλετο τοῖς ἀπειθήσασιν δεξαμένη τοὺς κατασκόπους μετ᾽ εἰρήνης",
+      "finnish_biblia": "Uskon kautta ei portto Rahab hukkunut uskomattomain kanssa, koska vakoojat rauhallisesti huoneeseensa korjasi. ",
+      "swedish_karl_xii": "Genom trona förgicks icke then skiökian Rahab medh the otrogna, tå hon the speijare anammat hade medh frijd.",
+      "king_james": "By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace."
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Et quid adhuc dicam? deficiet enim me tempus enarrantem de Gedeon, Barac, Samson, Jephte, David, Samuel, et prophetis:",
+      "greek_textus_receptus": "καὶ τί ἔτι λέγω ἐπιλείψει γὰρ με διηγούμενον ὁ χρόνος περὶ γεδεών βαράκ τε καὶ σαμψών καὶ ἰεφθάε δαβίδ τε καὶ σαμουὴλ καὶ τῶν προφητῶν",
+      "finnish_biblia": "Ja mitä minun pitää enempi sanoman? Sillä aika tulis minulle lyhyeksi, jos minun pitäis luetteleman Gideonista, ja Barakista, ja Simsonista, ja Jephtasta, ja Davidista, ja Samuelista, ja prophetaista, ",
+      "swedish_karl_xii": "Och hwad skal jagh meer säija? Tiden worde migh förstackot, när jagh förtälja skulle, om Gideon, om Barak, och Simson, och Jephthah, och David, och Samuel, och Propheterna.",
+      "king_james": "And what shall I more say? for the time would fail me to tell of Gedeon, and *of* Barak, and *of* Samson, and *of* Jephthae; *of* David also, and Samuel, and *of* the prophets:"
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "qui per fidem vicerunt regna, operati sunt justitiam, adepti sunt repromissiones, obturaverunt ora leonum,",
+      "greek_textus_receptus": "οἳ διὰ πίστεως κατηγωνίσαντο βασιλείας εἰργάσαντο δικαιοσύνην ἐπέτυχον ἐπαγγελιῶν ἔφραξαν στόματα λεόντων",
+      "finnish_biblia": "Jotka uskon kautta ovat valtakunnat voittaneet, tehneet vanhurskautta, saaneet lupaukset, tukkineet jalopeurain suut, ",
+      "swedish_karl_xii": "Hwilke genom trona hafwa wunnet Konungarike; giordt rättferdighet, fått löfte, igenstoppat leijons mun:",
+      "king_james": "Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions,"
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "extinxerunt impetum ignis, effugerunt aciem gladii, convaluerunt de infirmitate, fortes facti sunt in bello, castra verterunt exterorum:",
+      "greek_textus_receptus": "ἔσβεσαν δύναμιν πυρός ἔφυγον στόματα μαχαίρας ἐνεδυναμώθησαν ἀπὸ ἀσθενείας ἐγενήθησαν ἰσχυροὶ ἐν πολέμῳ παρεμβολὰς ἔκλιναν ἀλλοτρίων",
+      "finnish_biblia": "Sammuttaneet tulen voiman, välttäneet miekan terän, ovat väkeväksi heikkoudesta tulleet ovat voimalliseksi sodassa tulleet, muukalaisten sotajoukot maahan lyöneet. ",
+      "swedish_karl_xii": "Eldz kraft vthsläckt; swärdz ägg vndkommet: äro kraftige wordne af swaghetene; äro starcke wordne i stridene; hafwa nederlagt främmande härar.",
+      "king_james": "Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens."
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "acceperunt mulieres de resurrectione mortuos suos: alii autem distenti sunt non suscipientes redemptionem ut meliorem invenirent resurrectionem.",
+      "greek_textus_receptus": "ἔλαβον γυναῖκες ἐξ ἀναστάσεως τοὺς νεκροὺς αὐτῶν ἄλλοι δὲ ἐτυμπανίσθησαν οὐ προσδεξάμενοι τὴν ἀπολύτρωσιν ἵνα κρείττονος ἀναστάσεως τύχωσιν",
+      "finnish_biblia": "Vaimot ovat kuolleensa ylösnousemisesta jälleen saaneet; mutta muut ovat rikki revityt, ja ei pelastusta ottaneet vastaan, että heidän paremman ylösnousemisen saaman piti. ",
+      "swedish_karl_xii": "Qwinnorna hafwa igenfått sina döda vthaf vpståndelsen: somlige wordo sönderslagne, och hafwa ingen förloßning welat anamma, på thet the skulle få vpståndelsen som bättre är.",
+      "king_james": "Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:"
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "Alii vero ludibria, et verbera experti, insuper et vincula, et carceres:",
+      "greek_textus_receptus": "ἕτεροι δὲ ἐμπαιγμῶν καὶ μαστίγων πεῖραν ἔλαβον ἔτι δὲ δεσμῶν καὶ φυλακῆς",
+      "finnish_biblia": "Muutamat taas ovat pilkkoja ja haavoja kärsineet, ja vielä sittekin kahleet ja vankiuden, ",
+      "swedish_karl_xii": "Somlige hafwa lidit spott och hudflängning; och ther til boijor, och fängelse:",
+      "king_james": "And others had trial of *cruel* mockings and scourgings, yea, moreover of bonds and imprisonment:"
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "lapidati sunt, secti sunt, tentati sunt, in occisione gladii mortui sunt, circuierunt in melotis, in pellibus caprinis, egentes, angustiati, afflicti:",
+      "greek_textus_receptus": "ἐλιθάσθησαν ἐπρίσθησαν ἐπειράσθησαν ἐν φόνῳ μαχαίρας ἀπέθανον περιῆλθον ἐν μηλωταῖς ἐν αἰγείοις δέρμασιν ὑστερούμενοι θλιβόμενοι κακουχούμενοι",
+      "finnish_biblia": "Ovat kivitetyt, rikki hakatut, lävitse pistetyt, miekalla surmatut, vaeltaneet ympäri lammasten ja vuohten nahoissa, ovat olleet köyhät, ahdistetut, vaivatut. ",
+      "swedish_karl_xii": "Wordo stenade, sönderhuggne, genomstungne, döde för swärd; hafwa gånget i fårskin och getskin, fattige, trängde, bedröfwade:",
+      "king_james": "They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;"
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "quibus dignus non erat mundus: in solitudinibus errantes, in montibus, in speluncis, et in cavernis terræ.",
+      "greek_textus_receptus": "ὧν οὐκ ἦν ἄξιος ὁ κόσμος ἐν ἐρημίαις πλανώμενοι καὶ ὄρεσιν καὶ σπηλαίοις καὶ ταῖς ὀπαῖς τῆς γῆς",
+      "finnish_biblia": "(Joille maailma oli mahdotoin), ovat korvessa eksyneet ja vuorilla, ja mäen rotkoissa ja maan kuopissa. ",
+      "swedish_karl_xii": "Hwilkom werlden icke werdig war; och hafwa gått älende i ökner, och i berg, och i skrefwor, och i jordkulor.",
+      "king_james": "(Of whom the world was not worthy:) they wandered in deserts, and *in* mountains, and *in* dens and caves of the earth."
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": "Et hi omnes testimonio fidei probati, non acceperunt repromissionem,",
+      "greek_textus_receptus": "καὶ οὗτοι πάντες μαρτυρηθέντες διὰ τῆς πίστεως οὐκ ἐκομίσαντο τὴν ἐπαγγελίαν",
+      "finnish_biblia": "Ja kaikki nämät ovat uskon kautta todistuksen saaneet, eikä saaneet sitä lupausta: ",
+      "swedish_karl_xii": "Alle thesse hafwa genom trona fått witnesbyrd, och hafwa doch icke fått löftet.",
+      "king_james": "And these all, having obtained a good report through faith, received not the promise:"
+    },
+    {
+      "verse": 40,
+      "latin_vulgate": "Deo pro nobis melius aliquid providente, ut non sine nobis consummarentur.",
+      "greek_textus_receptus": "τοῦ θεοῦ περὶ ἡμῶν κρεῖττόν τι προβλεψαμένου ἵνα μὴ χωρὶς ἡμῶν τελειωθῶσιν",
+      "finnish_biblia": "Että Jumala on jotakin paremmin meille edeskatsonut, ettei he ilman meitä täydelliseksi tulleet olisi.   ",
+      "swedish_karl_xii": "Therföre at Gudh hade föresedt om oß något thet bättre war: at the icke vthan oß skulle fulkomnade warda.",
+      "king_james": "God having provided some better thing for us, that they without us should not be made perfect."
+    }
+  ]
+}

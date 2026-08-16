@@ -1,0 +1,196 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "  Salvum me fac, Domine, quoniam defecit sanctus,  quoniam diminutæ sunt veritates a filiis hominum. ",
+      "hebrew_masoretic": "הוֹשִׁ֣יעָה יְ֭הֹוָה כִּֽי־גָמַ֣ר חָסִ֑יד כִּי־פַ֥סּוּ אֱ֝מוּנִ֗ים מִבְּנֵ֥י אָדָֽם׃",
+      "douay_rheims": "Save me, O Lord, for there is now no saint: truths are decayed from among the children of men.",
+      "finnish_biblia": "Davidin Psalmi, edelläveisaajalle, kahdeksalla kielellä. (H 12:2) Auta, Herra; sillä pyhät ovat vähentyneet, ja uskolliset ovat harvat ihmisten lasten seassa. ",
+      "swedish_karl_xii": "Hjelp HERRE; the helige äro förminskade: och the trogne äro fåå ibland menniskiors barn.",
+      "king_james": "Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "11:2"
+        },
+        "hebrew_masoretic": {
+          "src": "12:2"
+        },
+        "douay_rheims": {
+          "src": "11:2"
+        },
+        "swedish_karl_xii": {
+          "src": "12:2"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " Vana locuti sunt unusquisque ad proximum suum ;  labia dolosa, in corde et corde locuti sunt. ",
+      "hebrew_masoretic": "שָׁ֤וְא ׀ יְֽדַבְּרוּ֮ אִ֤ישׁ אֶת־רֵ֫עֵ֥הוּ שְׂפַ֥ת חֲלָק֑וֹת בְּלֵ֖ב וָלֵ֣ב יְדַבֵּֽרוּ׃",
+      "douay_rheims": "They have spoken vain things, every one to his neighbour: with deceitful lips, and with a double heart have they spoken.",
+      "finnish_biblia": "Jokainen puhuu lähimmäisensä kanssa valhetta: he liehakoitsevat ja opettavat eripuraisuutta sydämistä. ",
+      "swedish_karl_xii": "Then ene talar medh then andra onyttig ting; och skrymta, och lära vthaf oens hierta.",
+      "king_james": "They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "11:3"
+        },
+        "hebrew_masoretic": {
+          "src": "12:3"
+        },
+        "douay_rheims": {
+          "src": "11:3"
+        },
+        "swedish_karl_xii": {
+          "src": "12:3"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Disperdat Dominus universa labia dolosa,  et linguam magniloquam. ",
+      "hebrew_masoretic": "יַכְרֵ֣ת יְ֭הֹוָה כׇּל־שִׂפְתֵ֣י חֲלָק֑וֹת לָ֝שׁ֗וֹן מְדַבֶּ֥רֶת גְּדֹלֽוֹת׃",
+      "douay_rheims": "May the Lord destroy all deceitful lips, and the tongue that speaketh proud things.",
+      "finnish_biblia": "Katkokoon Herra kaikki ulkokullaiset huulet ja ylpiästi puhuvaiset kielet, ",
+      "swedish_karl_xii": "HERREN vthrote alt skrymterij, och the tungo som stoor ord talar.",
+      "king_james": "The LORD shall cut off all flattering lips, and the tongue that speaketh proud things:",
+      "refs": {
+        "latin_vulgate": {
+          "src": "11:4"
+        },
+        "hebrew_masoretic": {
+          "src": "12:4"
+        },
+        "douay_rheims": {
+          "src": "11:4"
+        },
+        "swedish_karl_xii": {
+          "src": "12:4"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Qui dixerunt : Linguam nostram magnificabimus ;  labia nostra a nobis sunt.  Quis noster dominus est ? ",
+      "hebrew_masoretic": "אֲשֶׁ֤ר אָמְר֨וּ ׀ לִלְשֹׁנֵ֣נוּ נַ֭גְבִּיר שְׂפָתֵ֣ינוּ אִתָּ֑נוּ מִ֖י אָד֣וֹן לָֽנוּ׃",
+      "douay_rheims": "Who have said: We will magnify our tongue: our lips are our own: who is Lord over us?",
+      "finnish_biblia": "Jotka sanovat: meidän kielemme pitää voittaman, meidän tulee puhua: kuka meidän herramme on? ",
+      "swedish_karl_xii": "The ther säija: Wår tunga skal hafwa öfwerhandena; oß bör tala; ho är wår herre?",
+      "king_james": "Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?",
+      "refs": {
+        "latin_vulgate": {
+          "src": "11:5"
+        },
+        "hebrew_masoretic": {
+          "src": "12:5"
+        },
+        "douay_rheims": {
+          "src": "11:5"
+        },
+        "swedish_karl_xii": {
+          "src": "12:5"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Propter miseriam inopum, et gemitum pauperum,  nunc exsurgam, dicit Dominus.  Ponam in salutari ;  fiducialiter agam in eo. ",
+      "hebrew_masoretic": "מִשֹּׁ֥ד עֲנִיִּים֮ מֵאֶנְקַ֢ת אֶבְי֫וֹנִ֥ים עַתָּ֣ה אָ֭קוּם יֹאמַ֣ר יְהֹוָ֑ה אָשִׁ֥ית בְּ֝יֵ֗שַׁע יָפִ֥יחַֽ־לֽוֹ׃",
+      "douay_rheims": "By reason of the misery of the needy, and the groans of the poor, now will I arise, saith the Lord. I will set him in safety: I will deal confidently in his regard.",
+      "finnish_biblia": "Että köyhät hävitetään ja vaivaiset huokaavat, niin minä nyt nousen, sanoo Herra: minä saatan avun, että rohkiasti pitää opetettaman. ",
+      "swedish_karl_xii": "Efter nu the elände förtryckte warda, och the fattige sucka, wil jagh vp, säger HERREN: Jagh wil skaffa en hielp, at man frimodeliga lära skal.",
+      "king_james": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set him in safety from him that puffeth at him.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "11:6"
+        },
+        "hebrew_masoretic": {
+          "src": "12:6"
+        },
+        "douay_rheims": {
+          "src": "11:6"
+        },
+        "swedish_karl_xii": {
+          "src": "12:6"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Eloquia Domini, eloquia casta ; argentum igne examinatum,  probatum terræ, purgatum septuplum. ",
+      "hebrew_masoretic": "אִ֥מְר֣וֹת יְהֹוָה֮ אֲמָר֢וֹת טְהֹ֫ר֥וֹת כֶּ֣סֶף צָ֭רוּף בַּעֲלִ֣יל לָאָ֑רֶץ מְ֝זֻקָּ֗ק שִׁבְעָתָֽיִם׃",
+      "douay_rheims": "The words of the Lord are pure words: as silver tried by the fire, purged from the earth, refined seven times.",
+      "finnish_biblia": "Herran puheet ovat kirkkaat, niinkuin selitetty hopia saviastioissa, seitsemän kertaa koeteltu. ",
+      "swedish_karl_xii": "HERRANS taal är klart såsom genomlutrat silfwer i enom leerdägel, bepröfwat siu resor.",
+      "king_james": "The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "11:7"
+        },
+        "hebrew_masoretic": {
+          "src": "12:7"
+        },
+        "douay_rheims": {
+          "src": "11:7"
+        },
+        "swedish_karl_xii": {
+          "src": "12:7"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Tu, Domine, servabis nos,  et custodies nos a generatione hac in æternum. ",
+      "hebrew_masoretic": "אַתָּֽה־יְהֹוָ֥ה תִּשְׁמְרֵ֑ם תִּצְּרֶ֓נּוּ ׀ מִן־הַדּ֖וֹר ז֣וּ לְעוֹלָֽם׃",
+      "douay_rheims": "Thou, O Lord, wilt preserve us: and keep us from this generation for ever.",
+      "finnish_biblia": "Sinä Herra, kätke ne, ja varjele meitä tästä suvusta ijankaikkisesti. ",
+      "swedish_karl_xii": "Tu HERRE, bewara them, och förwara oß för thetta slächtet til ewig tijd.",
+      "king_james": "Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "11:8"
+        },
+        "hebrew_masoretic": {
+          "src": "12:8"
+        },
+        "douay_rheims": {
+          "src": "11:8"
+        },
+        "swedish_karl_xii": {
+          "src": "12:8"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " In circuitu impii ambulant :  secundum altitudinem tuam multiplicasti filios hominum.  ",
+      "hebrew_masoretic": "סָבִ֗יב רְשָׁעִ֥ים יִתְהַלָּכ֑וּן כְּרֻ֥ם זֻ֝לּ֗וּת לִבְנֵ֥י אָדָֽם׃ {פ}",
+      "douay_rheims": "The wicked walk round about: according to thy highness, thou hast multiplied the children of men. ",
+      "finnish_biblia": "Sillä joka paikka on jumalattomia täynnä, koska huonot ihmisten lasten seassa korotetaan.   ",
+      "swedish_karl_xii": "Ty thet warder allestäds fullt medh ogudachtiga, ther sådana löst folck ibland menniskiorna rådande är.",
+      "king_james": "The wicked walk on every side, when the vilest men are exalted. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "11:9"
+        },
+        "hebrew_masoretic": {
+          "src": "12:9"
+        },
+        "douay_rheims": {
+          "src": "11:9"
+        },
+        "swedish_karl_xii": {
+          "src": "12:9"
+        }
+      }
+    }
+  ]
+}

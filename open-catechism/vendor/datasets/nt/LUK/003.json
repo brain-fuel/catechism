@@ -1,0 +1,315 @@
+{
+  "book_id": "LUK",
+  "latin_name": "Evangelium secundum Lucam",
+  "greek_name": "Κατὰ Λουκᾶν",
+  "finnish_name": "Luukkaan evankeliumi",
+  "swedish_name": "S. Luce Evangelium",
+  "english_name": "The Gospel According to Luke",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Anno autem quintodecimo imperii Tiberii Cæsaris, procurante Pontio Pilato Judæam, tetrarcha autem Galiææ Herode, Philippo autem fratre ejus tetrarcha Iturææ, et Trachonitidis regionis, et Lysania Abilinæ tetrarcha,",
+      "greek_textus_receptus": "ἐν ἔτει δὲ πεντεκαιδεκάτῳ τῆς ἡγεμονίας τιβερίου καίσαρος ἡγεμονεύοντος ποντίου πιλάτου τῆς ἰουδαίας καὶ τετραρχοῦντος τῆς γαλιλαίας ἡρῴδου φιλίππου δὲ τοῦ ἀδελφοῦ αὐτοῦ τετραρχοῦντος, τῆς ἰτουραίας καὶ τραχωνίτιδος χώρας καὶ λυσανίου τῆς ἀβιληνῆς τετραρχοῦντος",
+      "finnish_biblia": "Mutta viidennellätoistakymmenellä keisari Tiberiuksen hallituksen vuodella, kuin Pontius Pilatus oli Juudean maaherra, ja Herodes tetrarka Galileassa, ja hänen veljensä Philippus tetrarka Itureassa ja Trakonitin maakunnassa, ja Lysanias oli tetrarka Abilenessä, ",
+      "swedish_karl_xii": "Vthi femtonde åhrena, af Tiberij Keisaredöme, tå Pontius Pilatus war Landzhöfding i Judeen; och Herodes war Tetrarcha i Galileen; och Philippus hans broder Tetrarcha i Jtureen, och i then engden Trachonitis; och Lysanias Tetrarcha i Abilene:",
+      "king_james": "Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "sub principibus sacerdotum Anna et Caipha: factum est verbum Domini super Joannem, Zachariæ filium, in deserto.",
+      "greek_textus_receptus": "ἐπ᾽ ἀρχιερέων ἅννα καὶ καϊάφα ἐγένετο ῥῆμα θεοῦ ἐπὶ ἰωάννην τὸν τοῦ ξαχαρίου υἱὸν ἐν τῇ ἐρήμῳ",
+      "finnish_biblia": "Kuin Hannas ja Kaiphas ylimmäiset papit olivat: silloin tapahtui Jumalan sana Johannekselle Sakariaan pojalle korvessa, ",
+      "swedish_karl_xii": "Vnder the öfwersta Presterna, Hannas, och Caiphas, kom Gudz befalning til Johannes Zacharie son, i öknene.",
+      "king_james": "Annas and Caiaphas being the high priests, the word of God came unto John the son of Zacharias in the wilderness."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et venit in omnem regionem Jordanis, prædicans baptismum pœnitentiæ in remissionem peccatorum,",
+      "greek_textus_receptus": "καὶ ἦλθεν εἰς πᾶσαν τὴν περίχωρον τοῦ ἰορδάνου κηρύσσων βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν",
+      "finnish_biblia": "Ja hän tuli kaikkiin maan paikkoihin Jordanin ympäri ja saarnasi parannuksen kastetta syntein anteeksi antamiseksi, ",
+      "swedish_karl_xii": "Och han kom i alla then engden widh Jordan, och predikade bättringenes döpelse, til syndernas förlåtelse.",
+      "king_james": "And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "sicut scriptum est in libro sermonum Isaiæ prophetæ: [Vox clamantis in deserto: Parate viam Domini; rectas facite semitas ejus:",
+      "greek_textus_receptus": "ὡς γέγραπται ἐν βίβλῳ λόγων ἠσαΐου τοῦ προφήτου λέγοντος, φωνὴ βοῶντος ἐν τῇ ἐρήμῳ ἑτοιμάσατε τὴν ὁδὸν κυρίου εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ",
+      "finnish_biblia": "Niinkuin kirjoitettu on Jesaias prophetan saarnaraamatussa, joka sanoo: huutavan ääni on korvessa: valmistakaat Herran tietä ja tehkäät hänen polkunsa oikiaksi. ",
+      "swedish_karl_xii": "Såsom skrifwit är i then boken af Esaie Prophetes ordom, then ther säger: Vthi öknen är een ropandes röst: Bereder Herrans wägh; giörer hans stigar rätta.",
+      "king_james": "As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "omnis vallis implebitur, et omnis mons, et collis humiliabitur: et erunt prava in directa, et aspera in vias planas:",
+      "greek_textus_receptus": "πᾶσα φάραγξ πληρωθήσεται καὶ πᾶν ὄρος καὶ βουνὸς ταπεινωθήσεται καὶ ἔσται τὰ σκολιὰ εἰς εὐθείαν καὶ αἱ τραχεῖαι εἰς ὁδοὺς λείας",
+      "finnish_biblia": "Kaikki laaksot pitää täytettämän ja kaikki vuoret ja mäet alennettaman, väärät pitää ojennettaman, ja koliat tasaiseksi tieksi tehtämän, ",
+      "swedish_karl_xii": "Alla dalar skola vpfyllas; och all berg och backar skola förnedras: och thet krokot är, skal rätt warda, och thet ojämt är, skal wändas i slätta wägar:",
+      "king_james": "Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways *shall be* made smooth;"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "et videbit omnis caro salutare Dei.]",
+      "greek_textus_receptus": "καὶ ὄψεται πᾶσα σὰρξ τὸ σωτήριον τοῦ θεοῦ",
+      "finnish_biblia": "Ja kaikki liha pitää näkemän Jumalan autuuden. ",
+      "swedish_karl_xii": "Och alt kött skal see Gudz salighet.",
+      "king_james": "And all flesh shall see the salvation of God."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Dicebat ergo ad turbas quæ exibant ut baptizarentur ab ipso: Genimina viperarum, quis ostendit vobis fugere a ventura ira?",
+      "greek_textus_receptus": "ἕλεγεν οὖν τοῖς ἐκπορευομένοις ὄχλοις βαπτισθῆναι ὑπ᾽ αὐτοῦ γεννήματα ἐχιδνῶν τίς ὑπέδειξεν ὑμῖν φυγεῖν ἀπὸ τῆς μελλούσης ὀργῆς",
+      "finnish_biblia": "Niin hän sanoi kansalle, joka tuli antamaan itsiänsä kastaa häneltä: te kyykärmetten sikiät, kuka teitä neuvoi välttämään tulevaista vihaa? ",
+      "swedish_karl_xii": "Så sade han tå til folcket, som vthgick til at döpas af honom: J huggormars afföda, ho hafwer eder föregifwit, at J vndkomma skolen then tilkommande wrede?",
+      "king_james": "Then said he to the multitude that came forth to be baptized of him, O generation of vipers, who hath warned you to flee from the wrath to come?"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Facite ergo fructus dignos pœnitentiæ, et ne cœperitis dicere: Patrem habemus Abraham. Dico enim vobis quia potens est Deus de lapidibus istis suscitare filios Abrahæ.",
+      "greek_textus_receptus": "ποιήσατε οὖν καρποὺς ἀξίους τῆς μετανοίας καὶ μὴ ἄρξησθε λέγειν ἐν ἑαυτοῖς πατέρα ἔχομεν τὸν ἀβραάμ λέγω γὰρ ὑμῖν ὅτι δύναται ὁ θεὸς ἐκ τῶν λίθων τούτων ἐγεῖραι τέκνα τῷ ἀβραάμ",
+      "finnish_biblia": "Tehkäät siis soveliaat parannuksen hedelmät ja älkäät ruvetko sanomaan itsellänne: Abraham on meidän isämme; sillä minä sanon teille, että Jumala taitaa näistä kivistä herättää Abrahamille lapset. ",
+      "swedish_karl_xii": "Giörer förthenskul tilbörlig bättrings frucht; och tager eder icke före at säija widh eder sielf: Wij hafwe Abraham til fader: ty jagh säger eder: Gudh är mächtig vpwäckia Abrahe söner afthessa stenar.",
+      "king_james": "Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to *our* father: for I say unto you, That God is able of these stones to raise up children unto Abraham."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Jam enim securis ad radicem arborum posita est. Omnis ergo arbor non faciens fructum bonum, excidetur, et in ignem mittetur.",
+      "greek_textus_receptus": "ἤδη δὲ καὶ ἡ ἀξίνη πρὸς τὴν ῥίζαν τῶν δένδρων κεῖται πᾶν οὖν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται",
+      "finnish_biblia": "Mutta jo on myös kirves pantu puiden juurelle; sentähden jokainen puu, joka ei tee hyvää hedelmää, hakataan pois ja tuleen heitetään. ",
+      "swedish_karl_xii": "Och nu är allaredo yxen satt til rotena på trään: hwart och ett trä, som icke bär goda frucht, warder afhugget, och kastat i elden.",
+      "king_james": "And now also the axe is laid unto the root of the trees: every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Et interrogabant eum turbæ, dicentes: Quid ergo faciemus?",
+      "greek_textus_receptus": "καὶ ἐπηρώτων αὐτὸν οἱ ὄχλοι λέγοντες τί οὖν ποιήσομεν",
+      "finnish_biblia": "Ja kansa kysyi häneltä, sanoen: mitä meidän pitää tekemän? ",
+      "swedish_karl_xii": "Och folcket frågade honom, säijande: Hwad skole wij tå giöra?",
+      "king_james": "And the people asked him, saying, What shall we do then?"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Respondens autem dicebat illis: Qui habet duas tunicas, det non habenti: et qui habet escas, similiter faciat.",
+      "greek_textus_receptus": "ἀποκριθεὶς δὲ λέγει αὐτοῖς ὁ ἔχων δύο χιτῶνας μεταδότω τῷ μὴ ἔχοντι καὶ ὁ ἔχων βρώματα ὁμοίως ποιείτω",
+      "finnish_biblia": "Niin hän vastaten sanoi heille: jolla on kaksi hametta, antakaan sille, jolla ei yhtään ole, ja jolla on ruokaa, hän tehkään myös niin. ",
+      "swedish_karl_xii": "Swarade han, och sade til them: Then ther twå kiortlar hafwer, han gifwe then som ingen hafwer; och then ther maat hafwer, giöre sammalunda.",
+      "king_james": "He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Venerunt autem et publicani ut baptizarentur, et dixerunt ad illum: Magister, quid faciemus?",
+      "greek_textus_receptus": "ἦλθον δὲ καὶ τελῶναι βαπτισθῆναι καὶ εἶπον πρὸς αὐτόν διδάσκαλε τί ποιήσομεν",
+      "finnish_biblia": "Mutta Publikanit tulivat myös antamaan heitänsä kastaa ja sanoivat hänelle: Mestari, mitä meidän pitää tekemän? ",
+      "swedish_karl_xii": "Så kommo ock the Publicaner til at döpas; och sade til honom: Mästar, hwad skole tå wij giöra?",
+      "king_james": "Then came also publicans to be baptized, and said unto him, Master, what shall we do?"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "At ille dixit ad eos: Nihil amplius, quam quod constitutum est vobis, faciatis.",
+      "greek_textus_receptus": "ὁ δὲ εἶπεν πρὸς αὐτούς μηδὲν πλέον παρὰ τὸ διατεταγμένον ὑμῖν πράσσετε",
+      "finnish_biblia": "Vaan hän sanoi heille: älkäät enempää vaatiko kuin teille säätty on. ",
+      "swedish_karl_xii": "Sade han til them: Kräfwer icke meer vth än eder förelagt är.",
+      "king_james": "And he said unto them, Exact no more than that which is appointed you."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Interrogabant autem eum et milites, dicentes: Quid faciemus et nos? Et ait illis: Neminem concutiatis, neque calumniam faciatis: et contenti estote stipendiis vestris.",
+      "greek_textus_receptus": "ἐπηρώτων δὲ αὐτὸν καὶ στρατευόμενοι λέγοντες καὶ ἡμεῖς τί ποιήσομεν καὶ εἶπεν πρὸς αὐτούς μηδένα διασείσητε μηδὲ συκοφαντήσητε καὶ ἀρκεῖσθε τοῖς ὀψωνίοις ὑμῶν",
+      "finnish_biblia": "Niin kysyivät myös häneltä sotamiehet, sanoen: mitä myös meidän pitää tekemän? Ja hän sanoi heille: älkäät kenellekään väkivaltaa taikka vääryyttä tehkö, ja tyytykäät palkkaanne. ",
+      "swedish_karl_xii": "Frågade ock krigsmän honom, säijande: Hwad skole tå wij giöra? Sade han til them: Giörer ingom öfwerwåld och orätt, och läter eder nöija åth edor löön.",
+      "king_james": "And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse *any* falsely; and be content with your wages."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Existimante autem populo, et cogitantibus omnibus in cordibus suis de Joanne, ne forte ipse esset Christus,",
+      "greek_textus_receptus": "προσδοκῶντος δὲ τοῦ λαοῦ καὶ διαλογιζομένων πάντων ἐν ταῖς καρδίαις αὐτῶν περὶ τοῦ ἰωάννου μήποτε αὐτὸς εἴη ὁ χριστός",
+      "finnish_biblia": "Mutta kuin kansa odotti, ja kaikki ajattelivat sydämessänsä Johanneksesta: lieneekö hän Kristus? ",
+      "swedish_karl_xii": "Så begynte tå folcket hafwa een gissan, och alle tänckte i sin hierta om Johanne, om han icke war Christus.",
+      "king_james": "And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "respondit Joannes, dicens omnibus: Ego quidem aqua baptizo vos: veniet autem fortior me, cujus non sum dignus solvere corrigiam calceamentorum ejus: ipse vos baptizabit in Spiritu Sancto et igni:",
+      "greek_textus_receptus": "ἀπεκρίνατο ὁ ἰωάννης ἅπασιν λέγων, ἐγὼ μὲν ὕδατι βαπτίζω ὑμᾶς ἔρχεται δὲ ὁ ἰσχυρότερός μου οὗ οὐκ εἰμὶ ἱκανὸς λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ αὐτὸς ὑμᾶς βαπτίσει ἐν πνεύματι ἁγίῳ καὶ πυρί",
+      "finnish_biblia": "Vastasi Johannes, sanoen kaikille: minä tosin kastan teitä vedellä; mutta minua väkevämpi tulee, jonka kengän nauhoja en minä ole kelvollinen päästämään: hän kastaa teitä Pyhällä Hengellä ja tulella. ",
+      "swedish_karl_xii": "Tå swarade Johannes, och sade til alla: Jagh döper eder i watn; men en warder kommandes som starckare är än jagh, hwilkens skoremar jagh icke wärd är at vplösa: han skal döpa eder medh them Helga Anda, och medh eld.",
+      "king_james": "John answered, saying unto *them* all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "cujus ventilabrum in manu ejus, et purgabit aream suam, et congregabit triticum in horreum suum, paleas autem comburet igni inextinguibili.",
+      "greek_textus_receptus": "οὗ τὸ πτύον ἐν τῇ χειρὶ αὐτοῦ καὶ διακαθᾶριεῖ τὴν ἅλωνα αὐτοῦ καὶ συναξεῖ τὸν σῖτον εἰς τὴν ἀποθήκην αὐτοῦ τὸ δὲ ἄχυρον κατακαύσει πυρὶ ἀσβέστῳ",
+      "finnish_biblia": "Jonka viskin on hänen kädessänsä, ja hän perkaa riihensä ja kokoo nisunsa aittaansa, mutta ruumenet polttaa hän sammumattomalla tulella. ",
+      "swedish_karl_xii": "Hwilkens kastoskofwel är vthi hans hand, och han skal rensa sin loga, och församla hwetet vthi sina lado; men agnarna skal han vpbränna vthi ewig eld.",
+      "king_james": "Whose fan *is* in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Multa quidem et alia exhortans evangelizabat populo.",
+      "greek_textus_receptus": "πολλὰ μὲν οὖν καὶ ἕτερα παρακαλῶν εὐηγγελίζετο τὸν λαόν",
+      "finnish_biblia": "Monta tosin myös muuta hän neuvoi ja saarnasi kansalle. ",
+      "swedish_karl_xii": "Och mång annor stycke förmanade han, och predikade för folcket.",
+      "king_james": "And many other things in his exhortation preached he unto the people."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Herodes autem tetrarcha cum corriperetur ab illo de Herodiade uxore fratris sui, et de omnibus malis quæ fecit Herodes,",
+      "greek_textus_receptus": "ὁ δὲ ἡρῴδης ὁ τετράρχης, ἐλεγχόμενος ὑπ᾽ αὐτοῦ περὶ ἡρῳδιάδος τῆς γυναικὸς φιλίππου τοῦ ἀδελφοῦ αὐτοῦ καὶ περὶ πάντων ὧν ἐποίησεν πονηρῶν ὁ ἡρῴδης",
+      "finnish_biblia": "Mutta kun Herodes tetrarka nuhdeltiin häneltä, Herodiaksen veljensä Philippuksen emännän tähden ja kaikesta pahuudesta, jota Herodes teki, ",
+      "swedish_karl_xii": "Tå Herodes Tetrarcha wardt straffad af honom, för Herodias sins broders Philippi hustru skul; och för alt thet onda som Herodes giorde:",
+      "king_james": "But Herod the tetrarch, being reproved by him for Herodias his brother Philip's wife, and for all the evils which Herod had done,"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "adjecit et hoc super omnia, et inclusit Joannem in carcere.",
+      "greek_textus_receptus": "προσέθηκεν καὶ τοῦτο ἐπὶ πᾶσιν καὶ κατέκλεισεν τὸν ἰωάννην ἐν τῇ φυλακῇ",
+      "finnish_biblia": "Niin hän ylitse kaikkein teki myös sen, että hän salpasi Johanneksen vankiuteen. ",
+      "swedish_karl_xii": "Öfwer alt thetta, lade han Johannem i hächtelse.",
+      "king_james": "Added yet this above all, that he shut up John in prison."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Factum est autem cum baptizaretur omnis populus, et Jesu baptizato, et orante, apertum est cælum:",
+      "greek_textus_receptus": "ἐγένετο δὲ ἐν τῷ βαπτισθῆναι ἅπαντα τὸν λαὸν καὶ ἰησοῦ βαπτισθέντος καὶ προσευχομένου ἀνεῳχθῆναι τὸν οὐρανὸν",
+      "finnish_biblia": "Ja tapahtui, kuin kaikki kansa kastettiin, ja Jesus myös oli kastettu, ja hän rukoili, niin taivas aukeni, ",
+      "swedish_karl_xii": "Och thet begaf sigh, tå alt folcket lät sigh döpa, och Jesus wardt ock döpt, och bad, öpnades himmelen.",
+      "king_james": "Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,"
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "et descendit Spiritus Sanctus corporali specie sicut columba in ipsum: et vox de cælo facta est: Tu es filius meus dilectus, in te complacui mihi.",
+      "greek_textus_receptus": "καὶ καταβῆναι τὸ πνεῦμα τὸ ἅγιον σωματικῷ εἴδει ὡσεὶ περιστερὰν ἐπ᾽ αὐτόν καὶ φωνὴν ἐξ οὐρανοῦ γενέσθαι λέγουσαν, σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός ἐν σοὶ ἠυδόκησα",
+      "finnish_biblia": "Ja Pyhä Henki tuli alas ruumiillisella muodolla hänen päällensä niinkuin kyyhkynen, ja ääni tuli taivaasta, joka sanoi: sinä olet minun rakas Poikani, sinuun minä mielistyin. ",
+      "swedish_karl_xii": "Och then Helge Ande kom nedh i lekamlig hamn, såsom een dufwa på honom; och een röst kom af himmelen, som sade: Tu äst min älskelige Son ; vthi tigh behagar migh.",
+      "king_james": "And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Et ipse Jesus erat incipiens quasi annorum triginta, ut putabatur, filius Joseph, qui fuit Heli, qui fuit Mathat,",
+      "greek_textus_receptus": "καὶ αὐτὸς ἦν ὁ ἰησοῦς ὡσεὶ ἐτῶν τριάκοντα ἀρχόμενος ὢν ὡς ἐνομίζετο υἱός ἰωσὴφ τοῦ ἠλὶ",
+      "finnish_biblia": "Ja Jesus oli lähes kolmenkymmenen vuotinen, joka oli (niinkuin luultiin) Josephin poika, Elin pojan, ",
+      "swedish_karl_xii": "Och Jesus begynte wara widh tretijo åhr: och han wardt hållen för Josephs son; hwilken war Eli son:",
+      "king_james": "And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was *the son* of Heli,"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "qui fuit Levi, qui fuit Melchi, qui fuit Janne, qui fuit Joseph,",
+      "greek_textus_receptus": "τοῦ ματθὰτ, τοῦ λευὶ τοῦ μελχὶ τοῦ ἰαννὰ, τοῦ ἰωσὴφ",
+      "finnish_biblia": "Joka oli Mattatin poika, joka oli Levin poika, joka oli Melkin poika, joka oli Jannan poika, joka oli Josephin poika, ",
+      "swedish_karl_xii": "Hwilken war Matthat son: hwilken war Levi son: hwilken war Melchi son: hwilken war Janna son: hwilken war Joseph son:",
+      "king_james": "Which was *the son* of Matthat, which was *the son* of Levi, which was *the son* of Melchi, which was *the son* of Janna, which was *the son* of Joseph,"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "qui fuit Mathathiæ, qui fuit Amos, qui fuit Nahum, qui fuit Hesli, qui fuit Nagge,",
+      "greek_textus_receptus": "τοῦ ματταθίου τοῦ ἀμὼς τοῦ ναοὺμ τοῦ ἑσλὶ τοῦ ναγγαὶ",
+      "finnish_biblia": "Joka oli Mattatian poika, joka oli Amoksen poika, joka oli Naumin poika, joka oli Eslin poika, joka oli Naggain poika, ",
+      "swedish_karl_xii": "Hwilken war Matthathie son: hwilken war Amos son: hwilken war Naum son: hwilken war Esli son: hwilken war Nagge son:",
+      "king_james": "Which was *the son* of Mattathias, which was *the son* of Amos, which was *the son* of Naum, which was *the son* of Esli, which was *the son* of Nagge,"
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "qui fuit Mahath, qui fuit Mathathiæ, qui fuit Semei, qui fuit Joseph, qui fuit Juda,",
+      "greek_textus_receptus": "τοῦ μάαθ τοῦ ματταθίου τοῦ σεμεΐ, τοῦ ἰωσὴφ, τοῦ ἰουδὰ,",
+      "finnish_biblia": "Joka oli Maatin poika, joka oli Mattatian poika, joka oli Semein poika, joka oli Josephin poika, joka oli Juudan poika, ",
+      "swedish_karl_xii": "Hwilken war Maath son: hwilken war Matthathie son: hwilken war Semei son: hwilken war Joseph son: hwilken war Juda son:",
+      "king_james": "Which was *the son* of Maath, which was *the son* of Mattathias, which was *the son* of Semei, which was *the son* of Joseph, which was *the son* of Juda,"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "qui fuit Joanna, qui fuit Resa, qui fuit Zorobabel, qui fuit Salatheil, qui fuit Neri,",
+      "greek_textus_receptus": "τοῦ ἰωὰννα τοῦ ῥησὰ τοῦ ξοροβαβὲλ τοῦ σαλαθιὴλ τοῦ νηρὶ",
+      "finnish_biblia": "Joka oli Joannan poika, joka oli Resan poika, joka oli Zorobabelin poika, joka oli Salatielin poika, joka oli Nerin poika, ",
+      "swedish_karl_xii": "Hwilken war Johanna son: hwilken war Rhesa son: hwilken war Zorobabel son: hwilken war Salathiel son: hwilken war Neri son:",
+      "king_james": "Which was *the son* of Joanna, which was *the son* of Rhesa, which was *the son* of Zorobabel, which was *the son* of Salathiel, which was *the son* of Neri,"
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "qui fuit Melchi, qui fuit Addi, qui fuit Cosan, qui fuit Elmadan, qui fuit Her,",
+      "greek_textus_receptus": "τοῦ μελχὶ τοῦ ἀδδὶ τοῦ κωσὰμ τοῦ ἐλμωδὰμ, τοῦ ἢρ",
+      "finnish_biblia": "Joka oli Melkin poika, joka oli Addin poika, joka oli Kosamin poika, joka oli Elmodamin poika, joka oli Eerin poika, ",
+      "swedish_karl_xii": "Hwilken war Melchi son: hwilken war Addi son: hwilken war Kosam son: hwilken war Elmodam son: hwilken war Er son.",
+      "king_james": "Which was *the son* of Melchi, which was *the son* of Addi, which was *the son* of Cosam, which was *the son* of Elmodam, which was *the son* of Er,"
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "qui fuit Jesu, qui fuit Eliezer, qui fuit Jorim, qui fuit Mathat, qui fuit Levi,",
+      "greek_textus_receptus": "τοῦ ἰωσὴ, τοῦ ἐλιέζερ τοῦ ἰωρεὶμ, τοῦ ματθὰτ, τοῦ λευὶ",
+      "finnish_biblia": "Joka oli Josen poika, joka oli Elieserin poika, joka oli Jorimin poika, joka oli Mattatin poika, joka oli Levin poika, ",
+      "swedish_karl_xii": "Hwilken war Jose son: hwilken war Eliezer son: hwilken war Jorim son: hwilken war Matthat son: hwilken war Levi son:",
+      "king_james": "Which was *the son* of Jose, which was *the son* of Eliezer, which was *the son* of Jorim, which was *the son* of Matthat, which was *the son* of Levi,"
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "qui fuit Simeon, qui fuit Juda, qui fuit Joseph, qui fuit Jona, qui fuit Eliakim,",
+      "greek_textus_receptus": "τοῦ συμεὼν τοῦ ἰούδα τοῦ ἰωσὴφ τοῦ ἰωνὰν, τοῦ ἐλιακεὶμ,",
+      "finnish_biblia": "Joka oli Simeonin poika, joka oli Juudan poika, joka oli Josephin poika, joka oli Jonain poika, joka oli Eliakimin poika, ",
+      "swedish_karl_xii": "Hwilken war Simeon son: hwilken war Juda son: hwilken war Joseph son: hwilken war Jonan son: hwilken war Eliakim son:",
+      "king_james": "Which was *the son* of Simeon, which was *the son* of Juda, which was *the son* of Joseph, which was *the son* of Jonan, which was *the son* of Eliakim,"
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "qui fuit Melea, qui fuit Menna, qui fuit Mathatha, qui fuit Natham, qui fuit David,",
+      "greek_textus_receptus": "τοῦ μελεὰ τοῦ μαϊνάν τοῦ ματταθὰ τοῦ ναθὰν, τοῦ δαβὶδ,",
+      "finnish_biblia": "Joka oli Melean poika, joka oli Mainanin poika, joka oli Mattatan poika, joka oli Natanin poika, joka oli Davidin poika, ",
+      "swedish_karl_xii": "Hwilken war Melea son: hwilken war Mainan son: hwilken war Mattatha son: hwilken war Nathan son: hwilken war Davidz son:",
+      "king_james": "Which was *the son* of Melea, which was *the son* of Menan, which was *the son* of Mattatha, which was *the son* of Nathan, which was *the son* of David,"
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "qui fuit Jesse, qui fuit Obed, qui fuit Booz, qui fuit Salmon, qui fuit Naasson,",
+      "greek_textus_receptus": "τοῦ ἰεσσαὶ τοῦ ὠβήδ, τοῦ βόοζ, τοῦ σαλμών, τοῦ ναασσὼν",
+      "finnish_biblia": "Joka oli Jessen poika, joka oli Obedin poika, joka oli Bootsin poika, joka oli Salmonin poika, joka oli Naassonin poika, ",
+      "swedish_karl_xii": "Hwilken war Jesse son: hwilken war Obed son: hwilken war Boos son: hwilken war Salmon son: hwilken war Naasson son:",
+      "king_james": "Which was *the son* of Jesse, which was *the son* of Obed, which was *the son* of Booz, which was *the son* of Salmon, which was *the son* of Naasson,"
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "qui fuit Aminadab, qui fuit Aram, qui fuit Esron, qui fuit Phares, qui fuit Judæ,",
+      "greek_textus_receptus": "τοῦ ἀμιναδὰβ τοῦ ἀράμ, τοῦ ἑσρὼμ τοῦ φάρες τοῦ ἰούδα",
+      "finnish_biblia": "Joka oli Aminadabin poika, joka oli Aramin poika, joka oli Esromin poika, joka oli Phareksen poika, joka oli Juudan poika, ",
+      "swedish_karl_xii": "Hwilken war Aminadab son: hwilken war Aram son: hwilken war Esrom son: hwilken war Phares son: hwilken war Juda son:",
+      "king_james": "Which was *the son* of Aminadab, which was *the son* of Aram, which was *the son* of Esrom, which was *the son* of Phares, which was *the son* of Juda,"
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "qui fuit Jacob, qui fuit Isaac, qui fuit Abrahæ, qui fuit Thare, qui fuit Nachor,",
+      "greek_textus_receptus": "τοῦ ἰακὼβ τοῦ ἰσαὰκ τοῦ ἀβραὰμ τοῦ φάρα τοῦ ναχὼρ",
+      "finnish_biblia": "Joka oli Jakobin poika, joka oli Isaakin poika, joka oli Abrahamin poika, joka oli Taran poika, joka oli Nahorin poika, ",
+      "swedish_karl_xii": "Hwilken war Jacob son: hwilken war Jsaac son: hwilken war Abraham son: hwilken war Thara son: hwilken war Nachor son:",
+      "king_james": "Which was *the son* of Jacob, which was *the son* of Isaac, which was *the son* of Abraham, which was *the son* of Thara, which was *the son* of Nachor,"
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "qui fuit Sarug, qui fuit Ragau, qui fuit Phaleg, qui fuit Heber, qui fuit Sale,",
+      "greek_textus_receptus": "τοῦ σαρούχ, τοῦ ῥαγαὺ τοῦ φάλεκ τοῦ ἕβερ τοῦ σαλὰ",
+      "finnish_biblia": "Joka oli Sarukin poika, joka oli Ragaun poika, joka oli Phalekin poika, joka oli Eberin poika, joka oli Salan poika, ",
+      "swedish_karl_xii": "Hwilken war Saruch son: hwilken war Ragau son: hwilken war Phaleg son: hwilken war Eber son: hwilken war Sala son:",
+      "king_james": "Which was *the son* of Saruch, which was *the son* of Ragau, which was *the son* of Phalec, which was *the son* of Heber, which was *the son* of Sala,"
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "qui fuit Cainan, qui fuit Arphaxad, qui fuit Sem, qui fuit Noë, qui fuit Lamech,",
+      "greek_textus_receptus": "τοῦ καϊνάν, τοῦ ἀρφαξὰδ τοῦ σὴμ τοῦ νῶε τοῦ λάμεχ",
+      "finnish_biblia": "Joka oli Kainanin poika, joka oli Arphaksadin poika, joka oli Semin poika, joka oli Noan poika, joka oli Lamekin poika, ",
+      "swedish_karl_xii": "Hwilken war Cainan son: hwilken war Arphaxad son: hwilken war Sem son: hwilken war Noe son: hwilken war Lamech son:",
+      "king_james": "Which was *the son* of Cainan, which was *the son* of Arphaxad, which was *the son* of Sem, which was *the son* of Noe, which was *the son* of Lamech,"
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "qui fuit Methusale, qui fuit Henoch, qui fuit Jared, qui fuit Malaleel, qui fuit Cainan,",
+      "greek_textus_receptus": "τοῦ μαθουσαλὰ τοῦ ἑνὼχ τοῦ ἰαρέδ, τοῦ μαλελεὴλ τοῦ καϊνὰν,",
+      "finnish_biblia": "Joka oli Matusalan poika, joka oli joka oli Enokin poika, joka oli Jaredin poika, joka oli Maleleelin poika, joka oli Kainanin poika, ",
+      "swedish_karl_xii": "Hwilken war Mathusala son: hwilken war Enoch son: hwilken war Jared son: hwilken war Maleleel son: hwilken war Cainan son:",
+      "king_james": "Which was *the son* of Mathusala, which was *the son* of Enoch, which was *the son* of Jared, which was *the son* of Maleleel, which was *the son* of Cainan,"
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "qui fuit Henos, qui fuit Seth, qui fuit Adam, qui fuit Dei.",
+      "greek_textus_receptus": "τοῦ ἐνὼς τοῦ σὴθ τοῦ ἀδὰμ τοῦ θεοῦ",
+      "finnish_biblia": "Joka oli Enoksen poika, joka oli Setin poika, joka oli Adamin poika, joka oli Jumalan.   ",
+      "swedish_karl_xii": "Hwilken war Enos son: hwilken war Seth son: hwilken war Adam son: hwilken war Gudz.",
+      "king_james": "Which was *the son* of Enos, which was *the son* of Seth, which was *the son* of Adam, which was *the son* of God."
+    }
+  ]
+}

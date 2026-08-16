@@ -1,0 +1,123 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et vidi in dextera sedentis supra thronum, librum scriptum intus et foris, signatum sigillis septem.",
+      "greek_textus_receptus": "καὶ εἶδον ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου βιβλίον γεγραμμένον ἔσωθεν καὶ ὄπισθεν κατεσφραγισμένον σφραγῖσιν ἑπτά",
+      "finnish_biblia": "Ja minä näin istuimella istuvaisen oikiassa kädessä kirjan, sisältä ja ulkoa kirjoitetun, seitsemällä sinetillä lukitun. ",
+      "swedish_karl_xii": "Och jagh såg i hans högra hand som satt på stolen, ena book skrifwin innan och vthan, beseglad medh siu insigel.",
+      "king_james": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et vidi angelum fortem, prædicantem voce magna: Quis est dignus aperire librum, et solvere signacula ejus?",
+      "greek_textus_receptus": "καὶ εἶδον ἄγγελον ἰσχυρὸν κηρύσσοντα φωνῇ μεγάλῃ τίς ἐστιν ἄξιος ἀνοῖξαι τὸ βιβλίον καὶ λῦσαι τὰς σφραγῖδας αὐτοῦ",
+      "finnish_biblia": "Ja minä näin väkevän enkelin suurella äänellä saarnaavan: kuka on mahdollinen tätä kirjaa avaamaan ja hänen sinettiänsä päästämään? ",
+      "swedish_karl_xii": "Och jagh såg en starck Ängel, som predikade medh höga röst: Ho är wärdig vplåta bokena, och vpbryta hennes insigel?",
+      "king_james": "And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et nemo poterat neque in cælo, neque in terra, neque subtus terram aperire librum, neque respicere illum.",
+      "greek_textus_receptus": "καὶ οὐδεὶς ἠδύνατο ἐν τῷ οὐρανῷ οὐδὲ ἐπὶ τῆς γῆς οὐδὲ ὑποκάτω τῆς γῆς ἀνοῖξαι τὸ βιβλίον οὐδὲ βλέπειν αὐτό",
+      "finnish_biblia": "Ja ei yksikään voinut, ei taivaassa, eikä maassa, eikä maan alla, kirjaa avata, eikä siihen katsoa. ",
+      "swedish_karl_xii": "Och ingen i himmelen, eller på jordene, eller vnder jordene kunde vplåta bokena, och icke heller see på henne.",
+      "king_james": "And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Et ego flebam multum, quoniam nemo dignus inventus est aperire librum, nec videre eum.",
+      "greek_textus_receptus": "καὶ ἐγὼ ἔκλαιον πολλὰ ὅτι οὐδεὶς ἄξιος εὑρέθη ἀνοῖξαι καὶ ἀναγνῶναι τὸ βιβλίον οὔτε βλέπειν αὐτό",
+      "finnish_biblia": "Ja minä itkin kovin, ettei yksikään löydetty mahdolliseksi kirjaa avaamaan eikä sitä näkemään. ",
+      "swedish_karl_xii": "Och jagh greet swårliga, at ingen wardt funnen wärdig til at vplåta bokena, och läsa henne, eller see på henne.",
+      "king_james": "And I wept much, because no man was found worthy to open and to read the book, neither to look thereon."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et unus de senioribus dixit mihi: Ne fleveris: ecce vicit leo de tribu Juda, radix David, aperire librum, et solvere septem signacula ejus.",
+      "greek_textus_receptus": "καὶ εἷς ἐκ τῶν πρεσβυτέρων λέγει μοι μὴ κλαῖε ἰδού ἐνίκησεν ὁ λέων ὁ ὢν ἐκ τῆς φυλῆς ἰούδα ἡ ῥίζα δαβίδ ἀνοῖξαι τὸ βιβλίον καὶ λῦσαι τὰς ἑπτὰ σφραγῖδας αὐτοῦ",
+      "finnish_biblia": "Ja yksi vanhimmista sanoi minulle: älä itke! katso, Jalopeura voitti, joka on Juudan sukukunnasta, Davidin juuri, avaamaan sitä kirjaa ja päästämään sen seitsemää sinettiä. ",
+      "swedish_karl_xii": "Och en af the Äldsta sade til migh: Gråt icke. Sij, Leijonet af Juda slächte, Davidz root, hafwer wunnet, til at vplåta bokena, och vpbryta hennes siu insigel.",
+      "king_james": "And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Et vidi: et ecce in medio throni et quatuor animalium, et in medio seniorum, Agnum stantem tamquam occisum, habentem cornua septem, et oculos septem: qui sunt septem spiritus Dei, missi in omnem terram.",
+      "greek_textus_receptus": "καὶ εἶδον καὶ ἰδού ἐν μέσῳ τοῦ θρόνου καὶ τῶν τεσσάρων ζῴων καὶ ἐν μέσῳ τῶν πρεσβυτέρων ἀρνίον ἑστηκὸς ὡς ἐσφαγμένον ἔχον κέρατα ἑπτὰ καὶ ὀφθαλμοὺς ἑπτά οἵ εἰσιν τὰ ἑπτὰ τοῦ θεοῦ πνεύματα τὰ ἀπεσταλμένα εἰς πᾶσαν τὴν γῆν",
+      "finnish_biblia": "Ja minä näin, ja katso, keskellä istuinta, ja neljän eläimen ja vanhimpien keskellä seisoi Karitsa, niinkuin tapettu * , jolla oli seitsemän sarvea ja seitsemän silmää, jotka ovat seitsemän Jumalan henkeä kaikelle maalle lähetetyt: ",
+      "swedish_karl_xii": "Och jagh såg, och sij, mitt i stolen, och ibland the fyra diuren, och mitt ibland the Äldsta, stod ett Lamb, såsom thet hade slachtat warit, och hade siu horn, och siu ögon, hwilke äro the siu Gudz Andar sände i all land:",
+      "king_james": "And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et venit: et accepit de dextera sedentis in throno librum.",
+      "greek_textus_receptus": "καὶ ἦλθεν καὶ εἴληφεν τὸ βιβλίον ἐκ τῆς δεξιᾶς τοῦ καθημένου ἐπὶ τοῦ θρόνου",
+      "finnish_biblia": "Ja se tuli ja otti kirjan istuimella istuvaisen oikiasta kädestä. ",
+      "swedish_karl_xii": "Och thet kom och tog bokena vthaf hans högra hand som satt på stolen.",
+      "king_james": "And he came and took the book out of the right hand of him that sat upon the throne."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Et cum aperuisset librum, quatuor animalia, et viginti quatuor seniores ceciderunt coram Agno, habentes singuli citharas, et phialas aureas plenas odoramentorum, quæ sunt orationes sanctorum:",
+      "greek_textus_receptus": "καὶ ὅτε ἔλαβεν τὸ βιβλίον τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσιτέσσαρες πρεσβύτεροι ἔπεσον ἐνώπιον τοῦ ἀρνίου ἔχοντες ἕκαστος κιθάρας καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων αἵ εἰσιν αἱ προσευχαὶ τῶν ἁγίων",
+      "finnish_biblia": "Ja kuin hän kirjan ottanut oli, lankesivat ne neljä eläintä ja neljäkolmattakymmentä vanhinta Karitsan eteen, ja jokaisella oli kantele ja kultaiset maljat suitsutusta täynnä, jotka ovat pyhäin rukoukset, ",
+      "swedish_karl_xii": "Och tå thet hade taget bokena, föllo the fyra diur, och the fyra och tiugu Äldste fram för Lambet, hafwande hwar och en harpor och gyldene skålar fulla medh rökwerck, hwilket är the heligas böner:",
+      "king_james": "And when he had taken the book, the four beasts and four *and* twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "et cantabant canticum novum, dicentes: Dignus es, Domine, accipere librum, et aperire signacula ejus: quoniam occisus es, et redemisti nos Deo in sanguine tuo ex omni tribu, et lingua, et populo, et natione:",
+      "greek_textus_receptus": "καὶ ᾄδουσιν ᾠδὴν καινὴν λέγοντες Ἄξιος εἶ λαβεῖν τὸ βιβλίον καὶ ἀνοῖξαι τὰς σφραγῖδας αὐτοῦ ὅτι ἐσφάγης καὶ ἠγόρασας τῷ θεῷ ἡμᾶς ἐν τῷ αἵματί σου ἐκ πάσης φυλῆς καὶ γλώσσης καὶ λαοῦ καὶ ἔθνους",
+      "finnish_biblia": "Ja veisasivat uutta virttä, sanoen: sinä olet mahdollinen kirjaa ottamaan ja sen sineteitä avaamaan; sillä sinä olet tapettu ja verelläs meitä Jumalalle lunastit kaikkinaisista sukukunnista, ja kielistä, ja kansoista ja pakanoista, ",
+      "swedish_karl_xii": "Och sungo en ny sång, och sade: Tu äst wärdig at taga bokena, och vplåta hennes insigel: ty tu äst dödad, och hafwer igenlöst oß Gudi medh titt blodh, af allahanda slächte och tungomål, och folck, och Hedningar:",
+      "king_james": "And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "et fecisti nos Deo nostro regnum, et sacerdotes: et regnabimus super terram.",
+      "greek_textus_receptus": "καὶ ἐποίησας ἡμᾶς τῷ θεῷ ἡμῶν βασιλεῖς καὶ ἱερεῖς καὶ βασιλεύσομεν ἐπὶ τῆς γῆς",
+      "finnish_biblia": "Ja olet meidät tehnyt meidän Jumalallemme kuninkaiksi ja papeiksi, ja me saamme vallita maan päällä. ",
+      "swedish_karl_xii": "Och hafwer giordt oß wårom Gudi til Konungar och Prester ; och wij skole regnera på jordene.",
+      "king_james": "And hast made us unto our God kings and priests: and we shall reign on the earth."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et vidi, et audivi vocem angelorum multorum in circuitu throni, et animalium, et seniorum: et erat numerus eorum millia millium,",
+      "greek_textus_receptus": "καὶ εἶδον καὶ ἤκουσα φωνὴν ἀγγέλων πολλῶν κύκλοθεν τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων καὶ χιλιάδες χιλιάδων",
+      "finnish_biblia": "Ja minä näin ja kuulin monen enkelin äänen istuimen ja eläinten ja vanhimpien ympärillä, ja heidän lukunsa oli kymmenentuhatta kertaa kymmenentuhatta, ja tuhannen kertaa tuhatta, ",
+      "swedish_karl_xii": "Och jagh såg, och hörde een röst af många Änglar, kring om stolen, och kring om diuren, och kring om the Äldsta, och talet på them war mång sinom tusende tusend:",
+      "king_james": "And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "dicentium voce magna: Dignus est Agnus, qui occisus est, accipere virtutem, et divinitatem, et sapientiam, et fortitudinem, et honorem, et gloriam, et benedictionem.",
+      "greek_textus_receptus": "λέγοντες φωνῇ μεγάλῃ ἄξιόν ἐστιν τὸ ἀρνίον τὸ ἐσφαγμένον λαβεῖν τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν",
+      "finnish_biblia": "Ja sanoivat suurella äänellä: Karitsa, joka tapettu on, on mahdollinen ottamaan voiman, ja rikkauden, ja viisauden, ja kunnian, ja kiitoksen, ja siunauksen. ",
+      "swedish_karl_xii": "Säijande medh höga röst: Lambet som dödat är, thet är wärdigt at hafwa kraft, och rikedom, och wijsdom, och starckhet, och ähro, och prijs, och lof.",
+      "king_james": "Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Et omnem creaturam, quæ in cælo est, et super terram, et sub terra, et quæ sunt in mari, et quæ in eo: omnes audivi dicentes: Sedenti in throno, et Agno, benedictio et honor, et gloria, et potestas in sæcula sæculorum.",
+      "greek_textus_receptus": "καὶ πᾶν κτίσμα ὃ ἐστιν ἐν τῷ οὐρανῷ καὶ ἐν τῇ γῇ καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης ἅ ἐστίν καὶ τὰ ἐν αὐτοῖς πάντα ἤκουσα λέγοντας τῷ καθημένῳ ἐπὶ τοῦ θρόνοῦ καὶ τῷ ἀρνίῳ ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων",
+      "finnish_biblia": "Ja kaikki luontokappaleet, jotka taivaassa ovat, ja maan päällä, ja maan alla, ja meressä, ja kaikki, jotka niissä ovat, kuulin minä sille sanovan, joka istuimella istui, ja Karitsalle: siunaus ja kunnia, ja ylistys ja voima, ijankaikkisesta ijankaikkiseen. ",
+      "swedish_karl_xii": "Och all creatur som i himmelen äro, och the på jordene, och the vnder jordene, och i hafwet, och alt thet vthi them är, hörde jagh säija til honom som satt på stolen, och til Lambet: Lof, och ähra, och prijs, och kraft ifrån ewighet til ewighet.",
+      "king_james": "And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard i saying, Blessing, and honour, and glory, and power, *be* unto him that sitteth upon the throne, and unto the Lamb for ever and ever."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Et quatuor animalia dicebant: Amen. Et viginti quatuor seniores ceciderunt in facies suas: et adoraverunt viventem in sæcula sæculorum.",
+      "greek_textus_receptus": "καὶ τὰ τέσσαρα ζῷα ἔλεγον ἀμήν καὶ οἱ εἴκοσιτέσσαρες πρεσβύτεροι ἔπεσαν καὶ προσεκύνησαν ζῶντι εἰς τοὺς αἰωνας τῶν αἰώνων",
+      "finnish_biblia": "Ja ne neljä eläintä sanoivat: amen! Ja ne neljäkolmattakymmentä vanhinta lankesivat maahan, kumarsivat ja rukoilivat sitä, joka elää ijankaikkisesta ijankaikkiseen.   ",
+      "swedish_karl_xii": "Och the fyra diuren sade Amen: och the fyra och tiugu Äldste föllo nedh (på sin ansichte,) och tilbådo honom som lefwer ifrån ewighet til ewighet.",
+      "king_james": "And the four beasts said, Amen. And the four *and* twenty elders fell down and worshipped him that liveth for ever and ever."
+    }
+  ]
+}

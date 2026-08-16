@@ -1,0 +1,520 @@
+# ref = GEN.10.1
+1	Αὗται	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+2	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+3	αἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	γενέσεις	γένεσις	_	_	_	_	_	Strong=G1078|Align=positional
+5	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	υἱῶν	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+7	Νῶε	Νῶε	_	_	_	_	_	Strong=G3575|Align=exact
+8	Σήμ	Σήμ	_	_	_	_	_	Strong=G4590|Align=exact
+9	Χάμ	Χαμ	_	_	_	_	_	Align=exact
+10	Ἰάφεθ	Ιαφεθ	_	_	_	_	_	Align=exact
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	ἐγενήθησαν	γίνομαι	_	_	_	_	_	Strong=G1096|Align=positional
+13	αὐτοῖς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+14	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+15	μετὰ	μετά	_	_	_	_	_	Strong=G3326|Align=exact
+16	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+17	κατακλυσμόν	κατακλυσμός	_	_	_	_	_	Strong=G2627|Align=positional
+
+# ref = GEN.10.2
+1	Υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Ἰάφεθ	Ιαφεθ	_	_	_	_	_	Align=exact
+3	Γάμερ	Γαμερ	_	_	_	_	_	Align=exact
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	Μαγὼγ	Μαγώγ	_	_	_	_	_	Strong=G3098|Align=exact
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	Μαδαὶ	Μαδαι	_	_	_	_	_	Align=exact
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	Ἰωυὰν	Ιωυαν	_	_	_	_	_	Align=exact
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	Ἐλισὰ	Ελισα	_	_	_	_	_	Align=exact
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	Θοβὲλ	Θοβελ	_	_	_	_	_	Align=exact
+14	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+15	Μόσοχ	Μοσοχ	_	_	_	_	_	Align=exact
+16	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+17	Θειράς	Θιρας	_	_	_	_	_	Align=positional
+
+# ref = GEN.10.3
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+3	Γάμερ	Γαμερ	_	_	_	_	_	Align=exact
+4	Ἀσχανὰζ	Ασχαναζ	_	_	_	_	_	Align=exact
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	Ῥιφὰθ	Ριφαθ	_	_	_	_	_	Align=exact
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	Θεργαμά	Θοργαμα	_	_	_	_	_	Align=positional
+
+# ref = GEN.10.4
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+3	Ἰωυάν	Ιωυαν	_	_	_	_	_	Align=exact
+4	Ἐλισὰ	Ελισα	_	_	_	_	_	Align=exact
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	Θαρσίς	Θαρσις	_	_	_	_	_	Align=exact
+7	Κήτιοι	Κίτιος	_	_	_	_	_	Align=positional
+8	Ῥόδιοι	Ῥόδιος	_	_	_	_	_	Align=positional
+
+# ref = GEN.10.5
+1	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+2	τούτων	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+3	ἀφωρίσθησαν	ἀφορίζω	_	_	_	_	_	Strong=G0873|Align=positional
+4	νῆσοι	νῆσος	_	_	_	_	_	Strong=G3520|Align=positional
+5	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	ἐθνῶν	ἔθνος	_	_	_	_	_	Strong=G1484|Align=positional
+7	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+8	τῇ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	γῇ	γῆ	_	_	_	_	_	Strong=G1093|Align=exact
+10	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+11	ἕκαστος	ἕκαστος	_	_	_	_	_	Strong=G1538|Align=exact
+12	κατὰ	κατά	_	_	_	_	_	Strong=G2596|Align=exact
+13	γλῶσσαν	γλῶσσα	_	_	_	_	_	Strong=G1100|Align=positional
+14	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+15	ταῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+16	φυλαῖς	φυλή	_	_	_	_	_	Strong=G5443|Align=positional
+17	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+18	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+19	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+20	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+21	ἔθνεσιν	ἔθνος	_	_	_	_	_	Strong=G1484|Align=positional
+22	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = GEN.10.6
+1	Υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+3	Χάμ	Χαμ	_	_	_	_	_	Align=exact
+4	Χοὺς	Χους	_	_	_	_	_	Align=exact
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	Μεσράιν	Μεσραιμ	_	_	_	_	_	Align=positional
+7	Φοὺδ	Φουδ	_	_	_	_	_	Align=exact
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	Χανάαν	Χαναάν	_	_	_	_	_	Strong=G5477|Align=exact
+
+# ref = GEN.10.7
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+3	Χούς	Χους	_	_	_	_	_	Align=exact
+4	Σαβὰ	Σαβα	_	_	_	_	_	Align=exact
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	Εὑιλὰ	Ευιλα	_	_	_	_	_	Align=exact
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	Σαβαθὰ	Σαβαθα	_	_	_	_	_	Align=exact
+9	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+10	Ῥεγχμὰ	Ρεγμα	_	_	_	_	_	Align=positional
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	Σαβακαθά	Σαβακαθα	_	_	_	_	_	Align=exact
+13	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+14	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+15	Ῥεγχμά	Ρεγμα	_	_	_	_	_	Align=positional
+16	Σαβὰ	Σαβα	_	_	_	_	_	Align=exact
+17	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+18	Δαδάν	Δαδαν	_	_	_	_	_	Align=exact
+
+# ref = GEN.10.8
+1	Χοὺς	Χους	_	_	_	_	_	Align=exact
+2	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+3	ἐγέννησεν	γεννάω	_	_	_	_	_	Strong=G1080|Align=positional
+4	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	Νεβρώδ	Νεβρωδ	_	_	_	_	_	Align=exact
+6	οὗτος	οὗτος	_	_	_	_	_	Strong=G3778|Align=exact
+7	ἤρξατο	ἄρχω	_	_	_	_	_	Strong=G0757|Align=positional
+8	εἶναι	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+9	γίγας	γίγας	_	_	_	_	_	Align=exact
+10	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+11	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	γῆς	γῆ	_	_	_	_	_	Strong=G1093|Align=positional
+
+# ref = GEN.10.9
+1	οὗτος	οὗτος	_	_	_	_	_	Strong=G3778|Align=exact
+2	ἦν	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+3	γίγας	γίγας	_	_	_	_	_	Align=exact
+4	κυνηγὸς	κυνηγός	_	_	_	_	_	Align=exact
+5	ἐναντίον	ἐναντίον	_	_	_	_	_	Strong=G1726|Align=exact
+6	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+7	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	θεοῦ	θεός	_	_	_	_	_	Strong=G2316|Align=positional
+9	διὰ	διά	_	_	_	_	_	Strong=G1223|Align=exact
+10	τοῦτο	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+11	ἐροῦσιν	ἐρέω	_	_	_	_	_	Strong=G2046|Align=positional
+12	Ὡς	ὥς	_	_	_	_	_	Align=exact
+13	Νεβρὼδ	Νεβρωδ	_	_	_	_	_	Align=exact
+14	γίγας	γίγας	_	_	_	_	_	Align=exact
+15	κυνηγὸς	κυνηγός	_	_	_	_	_	Align=exact
+16	ἐναντίον	ἐναντίον	_	_	_	_	_	Strong=G1726|Align=exact
+17	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+
+# ref = GEN.10.10
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐγένετο	γίνομαι	_	_	_	_	_	Strong=G1096|Align=positional
+3	ἀρχὴ	ἀρχή	_	_	_	_	_	Strong=G0746|Align=exact
+4	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	βασιλείας	βασιλεία	_	_	_	_	_	Strong=G0932|Align=positional
+6	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+7	Βαβυλὼν	Βαβυλών	_	_	_	_	_	Strong=G0897|Align=exact
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	Ὄρεχ	Ορεχ	_	_	_	_	_	Align=exact
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	Ἀρχὰδ	Αρχαδ	_	_	_	_	_	Align=exact
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	Χαλαννὴ	Χαλαννη	_	_	_	_	_	Align=exact
+14	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+15	τῇ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+16	γῇ	γῆ	_	_	_	_	_	Strong=G1093|Align=exact
+17	Σενναάρ	Σεννααρ	_	_	_	_	_	Align=exact
+
+# ref = GEN.10.11
+1	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+2	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	γῆς	γῆ	_	_	_	_	_	Strong=G1093|Align=positional
+4	ἐκείνης	ἐκεῖνος	_	_	_	_	_	Strong=G1565|Align=positional
+5	ἐξῆλθεν	ἐξέρχομαι	_	_	_	_	_	Strong=G1831|Align=positional
+6	Ἀσσούρ	Ασσουρ	_	_	_	_	_	Align=exact
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	ᾠκοδόμησεν	οἰκοδομέω	_	_	_	_	_	Strong=G3618|Align=positional
+9	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	Νινευὴ	Νινευΐ	_	_	_	_	_	Align=positional
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	την	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	Ῥοωβὼς	Ροωβωθ	_	_	_	_	_	Align=positional
+14	πόλιν	πόλις	_	_	_	_	_	Strong=G4172|Align=positional
+15	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+16	Χάλαχ	Χαλαχ	_	_	_	_	_	Align=exact,source_extra:1
+
+# ref = GEN.10.12
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	Δάσεμ	Δασεμ	_	_	_	_	_	Align=exact
+4	ἀνὰ	ἀνά	_	_	_	_	_	Strong=G0303|Align=exact
+5	μέσον	μέσος	_	_	_	_	_	Strong=G3319|Align=positional
+6	Νινευὴ	Νινευΐ	_	_	_	_	_	Align=positional
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	ἀνὰ	ἀνά	_	_	_	_	_	Strong=G0303|Align=exact
+9	μέσον	μέσος	_	_	_	_	_	Strong=G3319|Align=positional
+10	Χάλαχ	Χαλαχ	_	_	_	_	_	Align=exact
+11	αὕτη	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+12	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	πόλις	πόλις	_	_	_	_	_	Strong=G4172|Align=exact
+14	ἡ	_	_	_	_	_	_	Align=unmatched
+15	μεγάλη	_	_	_	_	_	_	Align=unmatched
+16	⸆	_	_	_	_	_	_	Align=unmatched,source_extra:2
+
+# ref = GEN.10.13
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	Μεσράιν	Μεσραιμ	_	_	_	_	_	Align=positional
+3	ἐγέννησεν	γεννάω	_	_	_	_	_	Strong=G1080|Align=positional
+4	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	Λουδιεὶμ	Λουδιιμ	_	_	_	_	_	Align=positional
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	Νεφθαλιεὶμ	Ενεμετιιμ	_	_	_	_	_	Align=positional
+9	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+10	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	Αἰνεμετιεὶμ	Λαβιιμ	_	_	_	_	_	Align=positional
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	Λαβιεὶμ	Νεφθαλείμ	_	_	_	_	_	Align=positional
+
+# ref = GEN.10.14
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	Πατροσωνιεὶμ	Πατροσωνιιμ	_	_	_	_	_	Align=positional
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	Χασμωνιείμ	Χασλωνιιμ	_	_	_	_	_	Align=positional
+7	ὅθεν	ὅθεν	_	_	_	_	_	Strong=G3606|Align=exact
+8	ἐξῆλθεν	ἐξέρχομαι	_	_	_	_	_	Strong=G1831|Align=positional
+9	ἐκεῖθεν	ἐκεῖθεν	_	_	_	_	_	Strong=G1564|Align=exact
+10	Φυλιστιείμ	Φυλιστιιμ	_	_	_	_	_	Align=positional
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	Χαφθοριείμ	Καφθοριιμ	_	_	_	_	_	Align=positional
+
+# ref = GEN.10.15
+1	Χανάαν	Χαναάν	_	_	_	_	_	Strong=G5477|Align=exact
+2	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+3	ἐγέννησεν	γεννάω	_	_	_	_	_	Strong=G1080|Align=positional
+4	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	Σιδῶνα	Σιδών	_	_	_	_	_	Strong=G4605|Align=positional
+6	πρωτότοκον	πρωτότοκος	_	_	_	_	_	Strong=G4416|Align=positional
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	Χετταῖον	Χετταῖος	_	_	_	_	_	Align=positional
+
+# ref = GEN.10.16
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	Ἰεβουσαῖον	Ιεβουσαῖος	_	_	_	_	_	Align=positional
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	Ἀμορραῖον	Ἀμορραῖος	_	_	_	_	_	Align=positional
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	Γεργεσαῖον	Γεργεσαῖος	_	_	_	_	_	Align=positional
+
+# ref = GEN.10.17
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	Εὑαῖον	Ευαῖος	_	_	_	_	_	Align=positional
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	Ἀρουκαῖον	Αρουκαῖος	_	_	_	_	_	Align=positional
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	Ἁσενναῖον	Ασενναῖος	_	_	_	_	_	Align=positional
+
+# ref = GEN.10.18
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	Ἀράδιον	Ἀράδιος	_	_	_	_	_	Align=positional
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	Σαμαραῖον	Σαμαραῖος	_	_	_	_	_	Align=positional
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	Ἁμαθί	Αμαθι	_	_	_	_	_	Align=exact
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	μετὰ	μετά	_	_	_	_	_	Strong=G3326|Align=exact
+12	τοῦτο	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+13	διεσπάρησαν	διασπείρω	_	_	_	_	_	Strong=G1289|Align=positional
+14	αἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+15	φυλαὶ	φυλή	_	_	_	_	_	Strong=G5443|Align=positional
+16	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+17	Χαναναίων	Χαναναῖος	_	_	_	_	_	Align=positional
+
+# ref = GEN.10.19
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐγένοντο	_	_	_	_	_	_	Align=unmatched
+3	τὰ	_	_	_	_	_	_	Align=unmatched
+4	ὅρια	_	_	_	_	_	_	Align=unmatched
+5	Χαναναίων	_	_	_	_	_	_	Align=unmatched
+6	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+7	Σιδῶνος	Σιδών	_	_	_	_	_	Strong=G4605|Align=positional
+8	ἕως	ἕως	_	_	_	_	_	Strong=G2193|Align=exact
+9	ἐλθεῖν	ἔρχομαι	_	_	_	_	_	Strong=G2064|Align=positional
+10	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+11	Γέραρα	Γεραρα	_	_	_	_	_	Align=exact
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	Γάζαν	Γάζα	_	_	_	_	_	Strong=G1048|Align=positional
+14	ἕως	ἕως	_	_	_	_	_	Strong=G2193|Align=exact
+15	ἐλθεῖν	_	_	_	_	_	_	Align=unmatched
+16	ἕως	_	_	_	_	_	_	Align=unmatched
+17	Σοδόμων	_	_	_	_	_	_	Align=unmatched
+18	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+19	Γομόρρας	Γόμορρα	_	_	_	_	_	Align=positional
+20	Ἀδαμὰ	Αδαμα	_	_	_	_	_	Align=exact
+21	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+22	Σεβωὶμ	Σεβωιμ	_	_	_	_	_	Align=exact
+23	ἕως	ἕως	_	_	_	_	_	Strong=G2193|Align=exact
+24	Δασά	Λασα	_	_	_	_	_	Align=positional,source_extra:7
+
+# ref = GEN.10.20
+1	οὗτοι	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+2	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+3	Χὰμ	Χαμ	_	_	_	_	_	Align=exact
+4	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+5	ταῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	φυλαῖς	φυλή	_	_	_	_	_	Strong=G5443|Align=positional
+7	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+8	κατὰ	κατά	_	_	_	_	_	Strong=G2596|Align=exact
+9	γλώσσας	γλῶσσα	_	_	_	_	_	Strong=G1100|Align=positional
+10	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+11	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+12	ταῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	χώραις	χώρα	_	_	_	_	_	Strong=G5561|Align=positional
+14	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+15	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+16	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+17	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+18	ἔθνεσιν	ἔθνος	_	_	_	_	_	Strong=G1484|Align=positional
+19	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = GEN.10.21
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	Σὴμ	Σήμ	_	_	_	_	_	Strong=G4590|Align=exact
+4	ἐγενήθη	γίνομαι	_	_	_	_	_	Strong=G1096|Align=positional
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	αὐτῷ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+7	πατρὶ	πατήρ	_	_	_	_	_	Strong=G3962|Align=positional
+8	πάντων	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+9	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	υἱῶν	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+11	Ἔβερ	Ἐβέρ	_	_	_	_	_	Strong=G1443|Align=exact
+12	ἀδελφῷ	ἀδελφός	_	_	_	_	_	Strong=G0080|Align=positional
+13	Ἰάφεθ	Ιαφεθ	_	_	_	_	_	Align=exact
+14	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+15	μείζονος	μέγας	_	_	_	_	_	Strong=G3173|Align=positional
+
+# ref = GEN.10.22
+1	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Σήμ	Σήμ	_	_	_	_	_	Strong=G4590|Align=exact
+3	Αἰλὰμ	Αιλαμ	_	_	_	_	_	Align=exact
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	Ἀσσοὺρ	Ασσουρ	_	_	_	_	_	Align=exact
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	Ἀρφαξὰδ	Ἀρφαξάδ	_	_	_	_	_	Strong=G0742|Align=exact
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	Λοὺδ	Λουδ	_	_	_	_	_	Align=exact
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	Ἀράμ	Ἀράμ	_	_	_	_	_	Strong=G0689|Align=exact,source_extra:2
+
+# ref = GEN.10.23
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+3	Ἀράμ	Ἀράμ	_	_	_	_	_	Strong=G0689|Align=exact
+4	Ὢς	Ως	_	_	_	_	_	Align=exact
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	Οὓλ	Ουλ	_	_	_	_	_	Align=exact
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	Γάθερ	Γαθερ	_	_	_	_	_	Align=exact
+9	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+10	Μόσοχ	Μοσοχ	_	_	_	_	_	Align=exact
+
+# ref = GEN.10.24
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	Ἀρφαξὰδ	Ἀρφαξάδ	_	_	_	_	_	Strong=G0742|Align=exact
+3	ἐγέννησεν	γεννάω	_	_	_	_	_	Strong=G1080|Align=positional
+4	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	Καινάμ	Καϊνάν	_	_	_	_	_	Align=positional
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	Καινὰμ	Καϊνάν	_	_	_	_	_	Align=positional
+8	ἐγέννησεν	γεννάω	_	_	_	_	_	Strong=G1080|Align=positional
+9	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	Σάλα	Σαλά	_	_	_	_	_	Strong=G4527|Align=exact
+11	Σάλα	Σαλά	_	_	_	_	_	Strong=G4527|Align=exact
+12	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+13	ἐγέννησεν	γεννάω	_	_	_	_	_	Strong=G1080|Align=positional
+14	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+15	Ἔβερ	Ἐβέρ	_	_	_	_	_	Strong=G1443|Align=exact
+
+# ref = GEN.10.25
+1	καί	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	Ἔβερ	Ἐβέρ	_	_	_	_	_	Strong=G1443|Align=exact
+4	ἐγεννήθησαν	γίνομαι	_	_	_	_	_	Strong=G1096|Align=positional
+5	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
+6	υἱοί	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+7	ὄνομα	ὄνομα	_	_	_	_	_	Strong=G3686|Align=exact
+8	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	ἑνὶ	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+10	Φάλεκ	Φάλεκ	_	_	_	_	_	Strong=G5317|Align=exact
+11	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+12	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+13	ταῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	ἡμέραις	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=positional
+15	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+16	διεμερίσθη	διαμερίζω	_	_	_	_	_	Strong=G1266|Align=positional
+17	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+18	γῆ	γῆ	_	_	_	_	_	Strong=G1093|Align=exact
+19	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+20	ὄνομα	ὄνομα	_	_	_	_	_	Strong=G3686|Align=exact
+21	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+22	ἀδελφῷ	ἀδελφός	_	_	_	_	_	Strong=G0080|Align=positional
+23	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+24	Ἰεκτάν	Ιεκταν	_	_	_	_	_	Align=exact
+
+# ref = GEN.10.26
+1	Ἰεκτάν	Ιεκταν	_	_	_	_	_	Align=exact
+2	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+3	ἐγέννησεν	γεννάω	_	_	_	_	_	Strong=G1080|Align=positional
+4	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	Ἐλμωδὰδ	Ελμωδαδ	_	_	_	_	_	Align=exact
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	Σάλεφ	Σαλεφ	_	_	_	_	_	Align=exact
+9	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+10	τὸν	_	_	_	_	_	_	Align=unmatched
+11	Ἁσαρμὼθ	Ασαρμωθ	_	_	_	_	_	Align=exact
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	Ἰάραδ	Ιαραχ	_	_	_	_	_	Align=positional
+
+# ref = GEN.10.27
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	Ὁδορρὰ	Οδορρα	_	_	_	_	_	Align=exact
+3	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+4	Αἰζὴλ	Αιζηλ	_	_	_	_	_	Align=exact
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	Δεκλὰ	Δεκλα	_	_	_	_	_	Align=exact
+
+# ref = GEN.10.28
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	Ἀβιμεὴλ	Αβιμεηλ	_	_	_	_	_	Align=exact
+3	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+4	Σαβεῦ	Σαβευ	_	_	_	_	_	Align=exact
+
+# ref = GEN.10.29
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	Οὐφεὶρ	Ουφιρ	_	_	_	_	_	Align=positional
+3	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+4	Εὑειλὰ	Ευιλα	_	_	_	_	_	Align=positional
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	Ἰωβάβ	Ιωβαβ	_	_	_	_	_	Align=exact
+7	πάντες	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+8	οὗτοι	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+9	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+10	Ἰεκτάν	Ιεκταν	_	_	_	_	_	Align=exact
+
+# ref = GEN.10.30
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐγένετο	γίνομαι	_	_	_	_	_	Strong=G1096|Align=positional
+3	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	κατοίκησις	κατοίκησις	_	_	_	_	_	Strong=G2731|Align=exact
+5	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+6	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+7	Μασσηὲ	Μασση	_	_	_	_	_	Align=positional
+8	ἕως	ἕως	_	_	_	_	_	Strong=G2193|Align=exact
+9	ἐλθεῖν	ἔρχομαι	_	_	_	_	_	Strong=G2064|Align=positional
+10	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+11	Σωφήρα	Σωφηρα	_	_	_	_	_	Align=exact
+12	ὄρος	ὄρος	_	_	_	_	_	Strong=G3735|Align=exact
+13	ἀνατολῶν	ἀνατολή	_	_	_	_	_	Strong=G0395|Align=positional
+
+# ref = GEN.10.31
+1	οὗτοι	_	_	_	_	_	_	Align=unmatched
+2	οἱ	_	_	_	_	_	_	Align=unmatched
+3	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+4	Σὴμ	Σήμ	_	_	_	_	_	Strong=G4590|Align=exact
+5	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+6	ταῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	φυλαῖς	φυλή	_	_	_	_	_	Strong=G5443|Align=positional
+8	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+9	κατὰ	κατά	_	_	_	_	_	Strong=G2596|Align=exact
+10	γλώσσας	γλῶσσα	_	_	_	_	_	Strong=G1100|Align=positional
+11	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+12	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+13	ταῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	χώραις	χώρα	_	_	_	_	_	Strong=G5561|Align=positional
+15	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+16	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+17	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+18	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+19	ἔθνεσιν	ἔθνος	_	_	_	_	_	Strong=G1484|Align=positional
+20	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional,source_extra:2
+
+# ref = GEN.10.32
+1	Αὗται	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+2	αἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	φυλαὶ	φυλή	_	_	_	_	_	Strong=G5443|Align=positional
+4	υἱῶν	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+5	Νῶε	Νῶε	_	_	_	_	_	Strong=G3575|Align=exact
+6	κατὰ	κατά	_	_	_	_	_	Strong=G2596|Align=exact
+7	γενέσεις	γένεσις	_	_	_	_	_	Strong=G1078|Align=positional
+8	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+9	κατὰ	κατά	_	_	_	_	_	Strong=G2596|Align=exact
+10	τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	ἔθνη	ἔθνος	_	_	_	_	_	Strong=G1484|Align=positional
+12	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+13	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+14	τούτων	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+15	διεσπάρησαν	διασπείρω	_	_	_	_	_	Strong=G1289|Align=positional
+16	νῆσοι	νῆσος	_	_	_	_	_	Strong=G3520|Align=positional
+17	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+18	ἐθνῶν	ἔθνος	_	_	_	_	_	Strong=G1484|Align=positional
+19	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+20	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+21	γῆς	γῆ	_	_	_	_	_	Strong=G1093|Align=positional
+22	μετὰ	μετά	_	_	_	_	_	Strong=G3326|Align=exact
+23	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+24	κατακλυσμόν	κατακλυσμός	_	_	_	_	_	Strong=G2627|Align=positional
+

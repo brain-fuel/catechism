@@ -1,0 +1,265 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 63,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "  Deus, Deus meus, ad te de luce vigilo.  Sitivit in te anima mea ; quam multipliciter tibi caro mea ! ",
+      "hebrew_masoretic": "אֱלֹהִ֤ים ׀ אֵלִ֥י אַתָּ֗ה אֲֽשַׁ֫חֲרֶ֥ךָּ צָמְאָ֬ה לְךָ֨ ׀ נַפְשִׁ֗י כָּמַ֣הּ לְךָ֣ בְשָׂרִ֑י בְּאֶרֶץ־צִיָּ֖ה וְעָיֵ֣ף בְּלִי־מָֽיִם׃",
+      "douay_rheims": "O God, my God, to thee do I watch at break of day. For thee my soul hath thirsted; for thee my flesh, O how many ways!",
+      "finnish_biblia": "Davidin Psalmi, kuin hän oli Juudan korvessa. (H63:2) Jumala, sinä olet minun Jumalani! Varhain minä sinua etsin: sinua minun sieluni janoo, minun lihani halaa sinua karkiassa ja kuivassa maassa, joka vedetöin on. ",
+      "swedish_karl_xii": "Gudh, tu åst min Gudh, bittida wakar jagh vp til tigh: min siäl törstar efter tigh, mitt kött längtar efter tigh, vthi ett tort och torstigt land, ther intet watn är.",
+      "king_james": "O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;",
+      "refs": {
+        "latin_vulgate": {
+          "src": "62:2"
+        },
+        "hebrew_masoretic": {
+          "src": "63:2"
+        },
+        "douay_rheims": {
+          "src": "62:2"
+        },
+        "swedish_karl_xii": {
+          "src": "63:2"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " In terra deserta, et invia, et inaquosa,  sic in sancto apparui tibi,  ut viderem virtutem tuam et gloriam tuam. ",
+      "hebrew_masoretic": "כֵּ֭ן בַּקֹּ֣דֶשׁ חֲזִיתִ֑ךָ לִרְא֥וֹת עֻ֝זְּךָ֗ וּכְבוֹדֶֽךָ׃",
+      "douay_rheims": "In a desert land, and where there is no way, and no water: so in the sanctuary have I come before thee, to see thy power and thy glory.",
+      "finnish_biblia": "Niinkuin minä näin sinun pyhässä, katsellakseni sinun voimaas ja kunniaas; ",
+      "swedish_karl_xii": "Ther seer jagh efter tigh i tinom helgedom, at jagh måtte skåda tina macht och ähro.",
+      "king_james": "To see thy power and thy glory, so as I have seen thee in the sanctuary.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "62:3"
+        },
+        "hebrew_masoretic": {
+          "src": "63:3"
+        },
+        "douay_rheims": {
+          "src": "62:3"
+        },
+        "swedish_karl_xii": {
+          "src": "63:3"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Quoniam melior est misericordia tua super vitas,  labia mea laudabunt te. ",
+      "hebrew_masoretic": "כִּי־ט֣וֹב חַ֭סְדְּךָ מֵחַיִּ֗ים שְׂפָתַ֥י יְשַׁבְּחֽוּנְךָ׃",
+      "douay_rheims": "For thy mercy is better than lives: thee my lips will praise.",
+      "finnish_biblia": "Sillä sinun laupiutes on parempi kuin elämä: minun huuleni pitää sinua kiittämän. ",
+      "swedish_karl_xii": "Ty tin godhet är bättre än lijf: mina läppar prisa tigh.",
+      "king_james": "Because thy lovingkindness is better than life, my lips shall praise thee.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "62:4"
+        },
+        "hebrew_masoretic": {
+          "src": "63:4"
+        },
+        "douay_rheims": {
+          "src": "62:4"
+        },
+        "swedish_karl_xii": {
+          "src": "63:4"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Sic benedicam te in vita mea,  et in nomine tuo levabo manus meas. ",
+      "hebrew_masoretic": "כֵּ֣ן אֲבָרֶכְךָ֣ בְחַיָּ֑י בְּ֝שִׁמְךָ֗ אֶשָּׂ֥א כַפָּֽי׃",
+      "douay_rheims": "Thus will I bless thee all my life long: and in thy name I will lift up my hands.",
+      "finnish_biblia": "Niin minä tahdon kunnioittaa sinua minun elinaikanani, ja minun käteni nostaa ylös sinun nimees. ",
+      "swedish_karl_xii": "Ther wille jagh gierna lofwa tigh, i mina lifsdagar, och vplyfta mina händer i titt namn.",
+      "king_james": "Thus will I bless thee while I live: I will lift up my hands in thy name.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "62:5"
+        },
+        "hebrew_masoretic": {
+          "src": "63:5"
+        },
+        "douay_rheims": {
+          "src": "62:5"
+        },
+        "swedish_karl_xii": {
+          "src": "63:5"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Sicut adipe et pinguedine repleatur anima mea,  et labiis exsultationis laudabit os meum. ",
+      "hebrew_masoretic": "כְּמ֤וֹ חֵ֣לֶב וָ֭דֶשֶׁן תִּשְׂבַּ֣ע נַפְשִׁ֑י וְשִׂפְתֵ֥י רְ֝נָנ֗וֹת יְהַלֶּל־פִּֽי׃",
+      "douay_rheims": "Let my soul be filled as with marrow and fatness: and my mouth shall praise thee with joyful lips.",
+      "finnish_biblia": "Niinkuin lihavuudella ja rasvalla pitää minun sieluni ravittaman: ja minun suuni pitää kiittämän iloisilla huulilla. ",
+      "swedish_karl_xii": "Thet wore mins hiertas frögd och lust, tå jagh tigh medh gladom mun lofwa skulle.",
+      "king_james": "My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:",
+      "refs": {
+        "latin_vulgate": {
+          "src": "62:6"
+        },
+        "hebrew_masoretic": {
+          "src": "63:6"
+        },
+        "douay_rheims": {
+          "src": "62:6"
+        },
+        "swedish_karl_xii": {
+          "src": "63:6"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Si memor fui tui super stratum meum,  in matutinis meditabor in te. ",
+      "hebrew_masoretic": "אִם־זְכַרְתִּ֥יךָ עַל־יְצוּעָ֑י בְּ֝אַשְׁמֻר֗וֹת אֶהְגֶּה־בָּֽךְ׃",
+      "douay_rheims": "If I have remembered thee upon my bed, I will meditate on thee in the morning:",
+      "finnish_biblia": "Kuin minä vuoteeseni lasken, niin minä muistan sinua:kuin minä herään, niin minä puhun sinusta. ",
+      "swedish_karl_xii": "När jagh migh i säng lägger, så täncker jagh vppå tigh: när jagh vpwaknar, så talar jagh om tigh.",
+      "king_james": "When I remember thee upon my bed, and meditate on thee in the night watches.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "62:7"
+        },
+        "hebrew_masoretic": {
+          "src": "63:7"
+        },
+        "douay_rheims": {
+          "src": "62:7"
+        },
+        "swedish_karl_xii": {
+          "src": "63:7"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Quia fuisti adjutor meus,  et in velamento alarum tuarum exsultabo. ",
+      "hebrew_masoretic": "כִּֽי־הָיִ֣יתָ עֶזְרָ֣תָה לִּ֑י וּבְצֵ֖ל כְּנָפֶ֣יךָ אֲרַנֵּֽן׃",
+      "douay_rheims": "Because thou hast been my helper. And I will rejoice under the cover of thy wings:",
+      "finnish_biblia": "Sillä sinä olet minun apuni, ja sinun siipeis varjon alla minä kerskaan. ",
+      "swedish_karl_xii": "Ty tu äst min hielpare; och vnder tina wingars skugga wil jagh frögda migh.",
+      "king_james": "Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "62:8"
+        },
+        "hebrew_masoretic": {
+          "src": "63:8"
+        },
+        "douay_rheims": {
+          "src": "62:8"
+        },
+        "swedish_karl_xii": {
+          "src": "63:8"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " Adhæsit anima mea post te ;  me suscepit dextera tua. ",
+      "hebrew_masoretic": "דָּבְקָ֣ה נַפְשִׁ֣י אַחֲרֶ֑יךָ בִּ֝֗י תָּמְכָ֥ה יְמִינֶֽךָ׃",
+      "douay_rheims": "My soul hath stuck close to thee: thy right hand hath received me.",
+      "finnish_biblia": "Minun sieluni riippuu sinussa: sinun oikia kätes minun tukee. ",
+      "swedish_karl_xii": "Min siäl håller sigh in til tigh: tin högra hand vppehåller migh.",
+      "king_james": "My soul followeth hard after thee: thy right hand upholdeth me.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "62:9"
+        },
+        "hebrew_masoretic": {
+          "src": "63:9"
+        },
+        "douay_rheims": {
+          "src": "62:9"
+        },
+        "swedish_karl_xii": {
+          "src": "63:9"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": " Ipsi vero in vanum quæsierunt animam meam :  introibunt in inferiora terræ ; ",
+      "hebrew_masoretic": "וְהֵ֗מָּה לְ֭שׁוֹאָה יְבַקְשׁ֣וּ נַפְשִׁ֑י יָ֝בֹ֗אוּ בְּֽתַחְתִּיּ֥וֹת הָאָֽרֶץ׃",
+      "douay_rheims": "But they have sought my soul in vain, they shall go into the lower parts of the earth:",
+      "finnish_biblia": "Mutta he etsivät kadottaaksensa minun sieluni: heidän täytyy maan alle mennä. ",
+      "swedish_karl_xii": "Men the stå efter mina siäl til at öfwerfalla migh: the måste vnder jordena nederfara.",
+      "king_james": "But those that seek my soul, to destroy it, shall go into the lower parts of the earth.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "62:10"
+        },
+        "hebrew_masoretic": {
+          "src": "63:10"
+        },
+        "douay_rheims": {
+          "src": "62:10"
+        },
+        "swedish_karl_xii": {
+          "src": "63:10"
+        }
+      }
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": " tradentur in manus gladii :  partes vulpium erunt. ",
+      "hebrew_masoretic": "יַגִּירֻ֥הוּ עַל־יְדֵי־חָ֑רֶב מְנָ֖ת שֻׁעָלִ֣ים יִהְיֽוּ׃",
+      "douay_rheims": "They shall be delivered into the hands of the sword, they shall be the portions of foxes.",
+      "finnish_biblia": "Heidän pitää miekkaan lankeeman, ketuille osaksi tuleman. ",
+      "swedish_karl_xii": "The måste falla i swärd, och räfwomen til lott blifwa.",
+      "king_james": "They shall fall by the sword: they shall be a portion for foxes.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "62:11"
+        },
+        "hebrew_masoretic": {
+          "src": "63:11"
+        },
+        "douay_rheims": {
+          "src": "62:11"
+        },
+        "swedish_karl_xii": {
+          "src": "63:11"
+        }
+      }
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": " Rex vero lætabitur in Deo ;  laudabuntur omnes qui jurant in eo :  quia obstructum est os loquentium iniqua.  ",
+      "hebrew_masoretic": "וְהַמֶּלֶךְ֮ יִשְׂמַ֢ח בֵּאלֹ֫הִ֥ים יִ֭תְהַלֵּל כׇּל־הַנִּשְׁבָּ֣ע בּ֑וֹ כִּ֥י יִ֝סָּכֵ֗ר פִּ֣י דוֹבְרֵי־שָֽׁקֶר׃ {פ}",
+      "douay_rheims": "But the king shall rejoice in God, all they shall be praised that swear by him: because the mouth is stopped of them that speak wicked things. ",
+      "finnish_biblia": "Mutta kuninkaan pitää iloitseman Jumalassa: joka hänen kauttansa vannoo, se kunnioitetaan; sillä valhetteliain suu pitää tukittaman.   ",
+      "swedish_karl_xii": "Men Konungen frögdar sigh i Gudi: then widh honom swär han skal prisad warda; ty the lögnmunnar skola tilstoppade warda.",
+      "king_james": "But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "62:12"
+        },
+        "hebrew_masoretic": {
+          "src": "63:12"
+        },
+        "douay_rheims": {
+          "src": "62:12"
+        },
+        "swedish_karl_xii": {
+          "src": "63:12"
+        }
+      }
+    }
+  ]
+}

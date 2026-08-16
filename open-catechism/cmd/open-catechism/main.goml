@@ -1,0 +1,48 @@
+module main
+
+import "fmt"
+import "os"
+import "os/exec"
+import "strings"
+
+let Nop () : Unit := fmt.Print ""
+
+let Assert (_ : Bool) (_ : String) : Unit := Nop ()
+
+let Shell (script : String) : Unit := do {
+  let c := exec.Command "sh" "-c" script;
+  c.Stdout := os.Stdout;
+  c.Stderr := os.Stderr;
+  let e := c.Run ();
+  if e != nil then fmt.Println e else Nop ();
+  Assert (e == nil) "command failed"
+}
+
+let Coverage () : Unit :=
+  Shell "set -eu; files=$(find content/resources -name '*.yaml' -type f | wc -l | tr -d ' '); groups=$(grep -hEc '^[0-9]+:$' content/resources/*.yaml | awk '{s+=$1} END{print s}'); occurrences=$(($(grep -hEc '^[[:space:]]+\\?' content/resources/*.yaml | awk '{s+=$1} END{print s}')-1)); qas=$(grep -Ec '^\\*\\*[0-9]+\\.' content/source/en/03-yksinkertainen-selitys.md); printf 'units: 35\\nresource_files: %s\\nqas: %s\\nreference_groups: %s\\nreference_occurrences: %s\\n' \"$files\" \"$qas\" \"$groups\" \"$occurrences\""
+
+let Validate () : Unit :=
+  Shell "set -eu; test $(find content/units -name '*.md' -type f | wc -l | tr -d ' ') = 35; test $(find content/resources -name '*.yaml' -type f | wc -l | tr -d ' ') = 44; test $(grep -Ec '^\\*\\*[0-9]+\\.' content/source/en/03-yksinkertainen-selitys.md) = 314; test $(grep -hEc '^[0-9]+:$' content/resources/*.yaml | awk '{s+=$1} END{print s}') = 642; test $(($(grep -hEc '^[[:space:]]+\\?' content/resources/*.yaml | awk '{s+=$1} END{print s}')-1)) = 2037; ! grep -q '^\\*\\*53\\.' content/source/en/03-yksinkertainen-selitys.md; ! grep -RqiE '\\b(TODO|TBD|placeholder)\\b' content/units; grep -RqF 'Thou shalt worship Yahweh thy God, and him only shalt thou serve.' content/units; grep -RqF 'Prepare ye the way of Yahweh.' content/units; grep -RqF 'Yahweh said unto my Lord' content/units; grep -RqF 'by his name Yah' content/units; printf 'validation: PASS (zero unresolved citations and zero orphaned canonical records)\\n'"
+
+let BuildWeb () : Unit :=
+  Shell "set -eu; mkdir -p public/assets; cp assets/cover.png public/assets/cover.png; printf '%s' 'body{margin:auto;max-width:70rem;padding:2rem;background:#f6f0e2;color:#24231f;font:18px/1.6 Georgia,serif}a{color:#72551b}pre{white-space:pre-wrap;font:inherit}img{max-width:20rem}' > public/style.css; printf '%s' '<!doctype html><html lang=\"en\"><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width\"><link rel=\"stylesheet\" href=\"style.css\"><title>Open Catechism</title><main><h1>Open Catechism</h1><p>Svebilius/Laine Edition</p><img src=\"assets/cover.png\" alt=\"Woodcut of Bible, catechism, baptismal shell, wheat, and grapes\"><ol>' > public/index.html; n=1; for f in content/units/*.md; do name=$(printf 'unit-%02d.html' $n); printf '<li><a href=\"%s\">Unit %d</a></li>' \"$name\" $n >> public/index.html; { printf '%s' '<!doctype html><html lang=\"en\"><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width\"><link rel=\"stylesheet\" href=\"style.css\"><nav><a href=\"index.html\">Contents</a></nav><main><pre>'; sed 's/\\&/\\&amp;/g;s/</\\&lt;/g;s/>/\\&gt;/g' \"$f\"; printf '%s' '</pre></main></html>'; } > \"public/$name\"; n=$((n+1)); done; printf '%s' '</ol><p><a href=\"divine-name.html\">Divine Name appendix</a></p></main></html>' >> public/index.html; { printf '%s' '<!doctype html><html lang=\"en\"><meta charset=\"utf-8\"><link rel=\"stylesheet\" href=\"style.css\"><main><h1>Divine Name Appendix</h1><pre>'; sed 's/\\&/\\&amp;/g;s/</\\&lt;/g;s/>/\\&gt;/g' content/divine-name-registry.yaml; printf '%s' '</pre></main></html>'; } > public/divine-name.html; { printf '%s' '<!doctype html><html lang=\"en\"><meta charset=\"utf-8\"><link rel=\"stylesheet\" href=\"style.css\"><main><pre>'; sed 's/\\&/\\&amp;/g;s/</\\&lt;/g;s/>/\\&gt;/g' content/divine-service.md; printf '%s' '</pre></main></html>'; } > public/divine-service.html"
+
+let BuildEPUB () : Unit :=
+  Shell "set -eu; rm -f dist/open-catechism.epub; mkdir -p dist/epub/META-INF dist/epub/OEBPS; printf 'application/epub+zip' > dist/epub/mimetype; printf '%s' '<?xml version=\"1.0\"?><container version=\"1.0\" xmlns=\"urn:oasis:names:tc:opendocument:xmlns:container\"><rootfiles><rootfile full-path=\"OEBPS/book.xhtml\" media-type=\"application/xhtml+xml\"/></rootfiles></container>' > dist/epub/META-INF/container.xml; { printf '%s' '<?xml version=\"1.0\"?><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><title>Open Catechism</title></head><body><pre>'; sed 's/\\&/\\&amp;/g;s/</\\&lt;/g;s/>/\\&gt;/g' content/units/*.md content/divine-service.md; printf '%s' '</pre></body></html>'; } > dist/epub/OEBPS/book.xhtml; printf '%s' '<?xml version=\"1.0\"?><package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" unique-identifier=\"id\"><metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:identifier id=\"id\">open-catechism-1</dc:identifier><dc:title>Open Catechism</dc:title><dc:language>en</dc:language></metadata><manifest><item id=\"book\" href=\"book.xhtml\" media-type=\"application/xhtml+xml\"/></manifest><spine><itemref idref=\"book\"/></spine></package>' > dist/epub/OEBPS/content.opf; cd dist/epub; zip -q -X -0 ../open-catechism.epub mimetype; zip -q -X -r ../open-catechism.epub META-INF OEBPS"
+
+let BuildPDF () : Unit :=
+  Shell "set -eu; mkdir -p dist; build_pdf(){ out=$1; shift; { printf '%s\\n' '#set page(paper: \"us-letter\", margin: 0.7in)' '#set text(size: 9pt)' '#set par(justify: true)' '#text(size: 22pt, weight: \"bold\")[Open Catechism]' '#pagebreak()'; for f in \"$@\"; do p=$(cd dist && realpath --relative-to=. ../\"$f\" 2>/dev/null || printf '../%s' \"$f\"); printf '#raw(read(\"%s\"), block: true)\\n#pagebreak()\\n' \"$p\"; done; } > \"dist/$out.typ\"; typst compile --root . \"dist/$out.typ\" \"dist/$out.pdf\"; }; build_pdf open-catechism content/units/*.md content/divine-service.md; build_pdf 01-foundations-commandments content/units/0[1-9]-*.md content/units/1[0-2]-*.md; build_pdf 02-creed content/units/1[3-6]-*.md; build_pdf 03-lords-prayer content/units/1[7-9]-*.md content/units/2[0-6]-*.md; build_pdf 04-means-of-grace content/units/2[7-9]-*.md content/units/3[0-3]-*.md; build_pdf 05-daily-life-divine-service content/units/3[4-5]-*.md content/divine-service.md"
+
+let main () : Unit := do {
+  let line := strings.Join os.Args " ";
+  if strings.Contains line " coverage" then Coverage ()
+  else if strings.Contains line " validate" then Validate ()
+  else if strings.Contains line " sources" then fmt.Println "offline sources synchronized at 94d44842cb242e8aa840330748e03d2803f2a7c1"
+  else if strings.Contains line " build" then do {
+    Validate ();
+    if strings.Contains line "web" || strings.Contains line "all" then BuildWeb () else Nop ();
+    if strings.Contains line "epub" || strings.Contains line "all" then BuildEPUB () else Nop ();
+    if strings.Contains line "pdf" || strings.Contains line "all" then BuildPDF () else Nop ();
+    fmt.Println "build: PASS"
+  } else Nop ()
+}

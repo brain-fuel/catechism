@@ -1,0 +1,155 @@
+{
+  "book_id": "2PE",
+  "latin_name": "Epistula II Petri",
+  "greek_name": "Πέτρου Β",
+  "finnish_name": "Toinen Pietarin kirje",
+  "swedish_name": "S. Petri Then Andra Epistel",
+  "english_name": "The Second Epistle General of Peter",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Hanc ecce vobis, carissimi, secundam scribo epistolam, in quibus vestram excito in commonitione sinceram mentem:",
+      "greek_textus_receptus": "ταύτην ἤδη ἀγαπητοί δευτέραν ὑμῖν γράφω ἐπιστολήν ἐν αἷς διεγείρω ὑμῶν ἐν ὑπομνήσει τὴν εἰλικρινῆ διάνοιαν",
+      "finnish_biblia": "Tämän nyt toisen lähetyskirjan minä teille, minun rakkaani, kirjoitan, jolla minä herätän ja neuvon teidän vakaata mieltänne, ",
+      "swedish_karl_xii": "Thetta är nu then andre Epistlen, som jagh skrifwer eder til, mine käreste, i hwilko jagh vpwäcker, och förmanar edart rena sinne,",
+      "king_james": "This second epistle, beloved, I now write unto you; in *both* which I stir up your pure minds by way of remembrance:"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "ut memores sitis eorum, quæ prædixi, verborum, a sanctis prophetis et apostolorum vestrorum, præceptorum Domini et Salvatoris.",
+      "greek_textus_receptus": "μνησθῆναι τῶν προειρημένων ῥημάτων ὑπὸ τῶν ἁγίων προφητῶν καὶ τῆς τῶν ἀποστόλων ἡμῶν ἐντολῆς τοῦ κυρίου καὶ σωτῆρος",
+      "finnish_biblia": "Että te muistaisitte ne sanat, jotka ennen pyhiltä prophetailta sanotut ovat, ja myös meidän käskymme, jotka olemme Herran ja Vapahtajan apostolit. ",
+      "swedish_karl_xii": "At J ihogkommen the ord som tilförene sagd äro af the helga Propheter; och tå hades wårt budh, wij som ärom Herrans och Frälsarens Apostlar.",
+      "king_james": "That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Hoc primum scientes, quod venient in novissimis diebus in deceptione illusores, juxta proprias concupiscentias ambulantes,",
+      "greek_textus_receptus": "τοῦτο πρῶτον γινώσκοντες ὅτι ἐλεύσονται ἐπ᾽ ἐσχάτου τῶν ἡμερῶν ἐμπαῖκται κατὰ τὰς ἰδίας αὐτῶν ἐπιθυμίας πορευόμενοι",
+      "finnish_biblia": "Ja tietäkäät se ensin, että viimeisinä päivinä tulevat pilkkaajat, jotka oman himonsa jälkeen vaeltavat, ",
+      "swedish_karl_xii": "Och weter thet i förstone, at i yttersta dagarna warda kommande bespottare, som wandra efter sin egen lusta;, så",
+      "king_james": "Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "dicentes: Ubi est promissio, aut adventus ejus? ex quo enim patres dormierunt, omnia sic perseverant ab initio creaturæ.",
+      "greek_textus_receptus": "καὶ λέγοντες ποῦ ἐστιν ἡ ἐπαγγελία τῆς παρουσίας αὐτοῦ ἀφ᾽ ἡς γὰρ οἱ πατέρες ἐκοιμήθησαν πάντα οὕτως διαμένει ἀπ᾽ ἀρχῆς κτίσεως",
+      "finnish_biblia": "Ja sanovat: kussa on lupaus hänen tulemisestansa? Sillä siitä päivästä, kuin isät ovat nukkuneet, pysyvät kaikki niinkuin ne luonnon alusta olleet ovat. ",
+      "swedish_karl_xii": "Och säija: Hwar är nu thet löfte om hans tilkommelse? Ty ifrå then dagh fäderna äro afsomnade, blifwer alt såsom thet af creaturens begynnelse warit hafwer.",
+      "king_james": "And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as *they were* from the beginning of the creation."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Latet enim eos hoc volentes, quod cæli erant prius, et terra de aqua, et per aquam consistens Dei verbo:",
+      "greek_textus_receptus": "λανθάνει γὰρ αὐτοὺς τοῦτο θέλοντας ὅτι οὐρανοὶ ἦσαν ἔκπαλαι καὶ γῆ ἐξ ὕδατος καὶ δι᾽ ὕδατος συνεστῶσα τῷ τοῦ θεοῦ λόγῳ",
+      "finnish_biblia": "Mutta tietäen ei he tahdo tietää, että taivaat muinen olivat, ja maa vedestä, joka vedessä Jumalan sanan kautta seisoo. ",
+      "swedish_karl_xii": "Men sielfwiljande wilja the icke weta, at himlarna hafwa ock warit i förtiden, och jorden af watnet, och i watnena bestånd haft, genom Gudz ord:",
+      "king_james": "For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "per quæ, ille tunc mundus aqua inundatus, periit.",
+      "greek_textus_receptus": "δι᾽ ὧν ὁ τότε κόσμος ὕδατι κατακλυσθεὶς ἀπώλετο",
+      "finnish_biblia": "Kuitenkin siihen aikaan se maailma niiden kautta vedenpaisumisella hukkui. ",
+      "swedish_karl_xii": "Likwäl wardt på then tijd werlden genom the samma, medh flodene förderfwad:",
+      "king_james": "Whereby the world that then was, being overflowed with water, perished:"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Cæli autem, qui nunc sunt, et terra eodem verbo repositi sunt, igni reservati in diem judicii, et perditionis impiorum hominum.",
+      "greek_textus_receptus": "οἱ δὲ νῦν οὐρανοὶ καὶ ἡ γῆ αὐτοῦ λόγῳ τεθησαυρισμένοι εἰσὶν πυρί τηρούμενοι εἰς ἡμέραν κρίσεως καὶ ἀπωλείας τῶν ἀσεβῶν ἀνθρώπων",
+      "finnish_biblia": "Niin myös ne taivaat ja maa, jotka nyt ovat, hänen sanansa kautta säästetään tulen varaksi tuomiopäivään asti, jona jumalattomat ihmiset kadotetaan. ",
+      "swedish_karl_xii": "Sammalunda ock nu himlarna och jorden, warda genom hans ord sparde, at the skola warda eldenom förwarade til domedag, tå the ogudachtiga menniskior fördömas skola.",
+      "king_james": "But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Unum vero hoc non lateat vos, carissimi, quia unus dies apud Dominum sicut mille anni, et mille anni sicut dies unus.",
+      "greek_textus_receptus": "ἓν δὲ τοῦτο μὴ λανθανέτω ὑμᾶς ἀγαπητοί ὅτι μία ἡμέρα παρὰ κυρίῳ ὡς χίλια ἔτη καὶ χίλια ἔτη ὡς ἡμέρα μία",
+      "finnish_biblia": "Mutta tätä yhtä ei pidä teiltä salattaman, minun rakkaani: yksi päivä on Herran edessä niinkuin tuhannen ajastaikaa, ja tuhannen ajastaikaa niinkuin yksi päivä. ",
+      "swedish_karl_xii": "Men ett skal eder icke fördoldt wara, mine käreste, at en dagh för Herranom, är såsom tusende åhr, och tusende åhr sasom en dagh.",
+      "king_james": "But, beloved, be not ignorant of this one thing, that one day *is* with the Lord as a thousand years, and a thousand years as one day."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Non tardat Dominus promissionem suam, sicut quidam existimant: sed patienter agit propter vos, nolens aliquos perire, sed omnes ad pœnitentiam reverti.",
+      "greek_textus_receptus": "οὐ βραδύνει ὁ κύριος τῆς ἐπαγγελίας ὥς τινες βραδύτητα ἡγοῦνται ἀλλὰ μακροθυμεῖ εἰς ἡμᾶς μὴ βουλόμενός τινας ἀπολέσθαι ἀλλὰ πάντας εἰς μετάνοιαν χωρῆσαι",
+      "finnish_biblia": "Ei Herra viivytä lupaustansa, (niinkuin muutamat sen viipyvän luulevat,) vaan hän on meidän kanssamme kärsiväinen, ja ei tahdo, että jonkun pitäis hukkuman, vaan että jokainen itsensä parannukseen kääntäis. ",
+      "swedish_karl_xii": "Herren fördröijer intet sitt löfte, såsom somlige mena thet wara fördröijelse : men han hafwer tolamod medh oß, och wil icke, at någre skola förgås, vtan at hwar och en wänder sigh til bättring.",
+      "king_james": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Adveniet autem dies Domini ut fur: in quo cæli magno impetu transient, elementa vero calore solventur, terra autem et quæ in ipsa sunt opera, exurentur.",
+      "greek_textus_receptus": "ἔξει δὲ ᾗ ἡμέρα κυρίου ὡς κλέπτης ἐν νυκτὶ ἐν ἡ οἱ οὐρανοὶ ῥοιζηδὸν παρελεύσονται στοιχεῖα δὲ καυσούμενα λυθήσονται καὶ γῆ καὶ τὰ ἐν αὐτῇ ἔργα κατακαήσεται",
+      "finnish_biblia": "Mutta Herran päivä on tuleva niinkuin varas yöllä, ja silloin taivaat suurella pauhinalla menevät pois, mutta elementit pitää palavuudesta sulaman, ja maa, ja rakennukset, jotka hänessä ovat, pitää palaman ylös. ",
+      "swedish_karl_xii": "Men Herrans dagh warder kommandes såsom en tiuf om natten: och tå skola himlarna medh een stoor hastighet förgås, och elementen skola försmälta af heta, och jorden medh the werck som ther på äro, skola afbrännas.",
+      "king_james": "But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Cum igitur hæc omnia dissolvenda sunt, quales oportet vos esse in sanctis conversationibus, et pietatibus,",
+      "greek_textus_receptus": "τούτων οὺν πάντων λυομένων ποταποὺς δεῖ ὑπάρχειν ὑμᾶς ἐν ἁγίαις ἀναστροφαῖς καὶ εὐσεβείαις",
+      "finnish_biblia": "Että kaikki nämät pitää katooman, minkäkaltaiset tulee teidän silloin olla pyhissä menoissa ja jumalisuudessa: ",
+      "swedish_karl_xii": "Efter nu alt thetta skal förgås, hurudana bör eder tå wara vthi helig vmgängelse och gudachtighet?",
+      "king_james": "*Seeing* then *that* all these things shall be dissolved, what manner *of persons* ought ye to be in *all* holy conversation and godliness,"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "exspectantes, et properantes in adventum diei Domini, per quem cæli ardentes solventur, et elementa ignis ardore tabescent?",
+      "greek_textus_receptus": "προσδοκῶντας καὶ σπεύδοντας τὴν παρουσίαν τῆς τοῦ θεοῦ ἡμέρας δι᾽ ἣν οὐρανοὶ πυρούμενοι λυθήσονται καὶ στοιχεῖα καυσούμενα τήκεται",
+      "finnish_biblia": "Niin että te odotatte ja ikävöitsette Jumalan päivän tulemista, jona taivaat tulesta raukeevat ja elementit palavuudesta sulavat? ",
+      "swedish_karl_xii": "Så at J wänten och åstunden efter Gudz dags tilkommelse: i hwilkom himlarna af eld förgås skola, och elementen försmälta af heta.",
+      "king_james": "Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Novos vero cælos, et novam terram secundum promissa ipsius exspectamus, in quibus justitia habitat.",
+      "greek_textus_receptus": "καινοὺς δὲ οὐρανοὺς καὶ γῆν καινὴν κατὰ τὸ ἐπάγγελμα αὐτοῦ προσδοκῶμεν ἐν οἷς δικαιοσύνη κατοικεῖ",
+      "finnish_biblia": "Mutta me odotamme uusia taivaita ja uutta maata hänen lupauksensa jälkeen, joissa vanhurskaus asuu. ",
+      "swedish_karl_xii": "Men nya himlar, och een ny jord wäntom wij, efter hans löfte, ther rättferdighet vthi boor.",
+      "king_james": "Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Propter quod, carissimi, hæc exspectantes, satagite immaculati, et inviolati ei inveniri in pace:",
+      "greek_textus_receptus": "διό ἀγαπητοί ταῦτα προσδοκῶντες σπουδάσατε ἄσπιλοι καὶ ἀμώμητοι αὐτῷ εὑρεθῆναι ἐν εἰρήνῃ",
+      "finnish_biblia": "Sentähden, minun rakkaani, että te näitä odotatte, niin ahkeroitkaat, että te hänen edessänsä puhtaiksi ja nuhteettomiksi rauhassa löydettäisiin; ",
+      "swedish_karl_xii": "Therföre, mine käreste, medan J thetta weten, så lägger eder winning om, at J obesinittade och ostraffelige för honom finnas mågen i frijd.",
+      "king_james": "Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "et Domini nostri longanimitatem, salutem arbitremini: sicut et carissimus frater noster Paulus secundum datam sibi sapientiam scripsit vobis,",
+      "greek_textus_receptus": "καὶ τὴν τοῦ κυρίου ἡμῶν μακροθυμίαν σωτηρίαν ἡγεῖσθε καθὼς καὶ ὁ ἀγαπητὸς ἡμῶν ἀδελφὸς παῦλος κατὰ τὴν αὐτῷ δοθεῖσαν σοφίαν ἔγραψεν ὑμῖν",
+      "finnish_biblia": "Ja lukekaat meidän Herran Jesuksen Kristuksen pitkämielisyys teidän autuudeksenne, niinkuin myös meidän rakas veljemme Paavali siitä viisaudesta, joka hänelle annettu on, teille on kirjoittanut, ",
+      "swedish_karl_xii": "Och wårs Herras Jesu Christi tolamod räkner för edra salighet; såsom ock wår käre broder Paulus, efter then wijshet som honom gifwin är, hafwer skrifwit eder til.",
+      "king_james": "And account *that* the longsuffering of our Lord *is* salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "sicut et omnibus epistolis, loquens in eis de his in quibus sunt quædam difficilia intellectu, quæ indocti et instabiles depravant, sicut et ceteras Scripturas, ad suam ipsorum perditionem.",
+      "greek_textus_receptus": "ὡς καὶ ἐν πάσαις ταῖς ἐπιστολαῖς λαλῶν ἐν αὐταῖς περὶ τούτων ἐν οἷς ἐστιν δυσνόητά τινα ἃ οἱ ἀμαθεῖς καὶ ἀστήρικτοι στρεβλοῦσιν ὡς καὶ τὰς λοιπὰς γραφὰς πρὸς τὴν ἰδίαν αὐτῶν ἀπώλειαν",
+      "finnish_biblia": "Joka myös jokaisessa kirjassansa näistä puhuu, joissa muutamat ovat työläät ymmärtää, jotka taitamattomat ja huikentelevaiset turmelevat, niinkuin muutkin Raamatut, omaksi kadotukseksensa. ",
+      "swedish_karl_xii": "Såsom han ock i all bref talar om sådana stycker: Jbland hwilka något är som är swårt til förstå *, thet the olärde och lösachtige förwärra, såsom ock andra skrifter, til sin egen förtapelse.",
+      "king_james": "As also in all *his* epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as *they do* also the other scriptures, unto their own destruction."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Vos igitur fratres, præscientes custodite, ne insipientium errore traducti excidatis a propria firmitate:",
+      "greek_textus_receptus": "ὑμεῖς οὖν ἀγαπητοί προγινώσκοντες φυλάσσεσθε ἵνα μὴ τῇ τῶν ἀθέσμων πλάνῃ συναπαχθέντες ἐκπέσητε τοῦ ἰδίου στηριγμοῦ",
+      "finnish_biblia": "Nyt että te, minun rakkaani, sen jo ennen tiedätte, niin karttakaat, ettette vieteltäisi jumalattomain eksytyksellä ynnä heidän kanssansa, ja lankeaisi pois omasta vahvuudestanne, ",
+      "swedish_karl_xii": "Men J, mine käreste, medan J weten thet tilförene, så förwarer eder, at J icke förförde warden genom the ogudachtigas wilfarelse, samt medh them, och fallen ifrån edor egen stadighet.",
+      "king_james": "Ye therefore, beloved, seeing ye know *these things* before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "crescite vero in gratia, et in cognitione Domini nostri, et Salvatoris Jesu Christi. Ipsi gloria et nunc, et in diem æternitatis. Amen.",
+      "greek_textus_receptus": "αὐξάνετε δὲ ἐν χάριτι καὶ γνώσει τοῦ κυρίου ἡμῶν καὶ σωτῆρος ἰησοῦ χριστοῦ αὐτῷ ἡ δόξα καὶ νῦν καὶ εἰς ἡμέραν αἰῶνος ἀμήν",
+      "finnish_biblia": "Vaan kasvakaat meidän Herramme ja Vapahtajan Jesuksen Kristuksen armossa ja tuntemisessa: jolle olkoon kunnia sekä nyt että ijankaikkiseen aikaan, amen!    ",
+      "swedish_karl_xii": "Vtan wäxer i nådene, och wårs Herras och Frälsares Jesu Christi kunskap: Honom ware ähra, nu och til ewig tijd: Amen.",
+      "king_james": "But grow in grace, and *in* the knowledge of our Lord and Saviour Jesus Christ. To him *be* glory both now and for ever. Amen."
+    }
+  ]
+}

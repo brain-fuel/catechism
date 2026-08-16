@@ -1,0 +1,171 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Apocalypsis Jesu Christi, quam dedit illi Deus palam facere servis suis, quæ oportet fieri cito: et significavit, mittens per angelum suum servo suo Joanni,",
+      "greek_textus_receptus": "ἀποκάλυψις ἰησοῦ χριστοῦ ἣν ἔδωκεν αὐτῷ ὁ θεός δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει καὶ ἐσήμανεν ἀποστείλας διὰ τοῦ ἀγγέλου αὐτοῦ τῷ δούλῳ αὐτοῦ ἰωάννῃ",
+      "finnish_biblia": "Jesuksen Kristuksen Ilmestys, jonka Jumala hänelle antoi, ilmoittaa palvelioillensa niitä, mitkä pian tapahtuman pitää, ja on tiettäväksi tehnyt ja lähettänyt enkelinsä kautta palveliallensa Johannekselle. ",
+      "swedish_karl_xii": "Thetta är Jesu Christi Vppenbarelse, then Gudh hafwer gifwit honom, til at förkunna sinom tienarom, hwad innan kort tijd skee skal: och hafwer beteknat och sändt medh sin Ängel til sin tienare Johannem:",
+      "king_james": "The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified *it* by his angel unto his servant John:"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi, quæcumque vidit.",
+      "greek_textus_receptus": "ὃς ἐμαρτύρησεν τὸν λόγον τοῦ θεοῦ καὶ τὴν μαρτυρίαν ἰησοῦ χριστοῦ ὅσα τε εἶδεν",
+      "finnish_biblia": "Joka todisti Jumalan sanaa, ja sen todistuksen Jesuksesta Kristuksesta, ja mitä hän nähnyt oli. ",
+      "swedish_karl_xii": "Hwilken betygat hafwer Gudz ord och witnesbyrd om Jesu Christo, hwad han sedt hade.",
+      "king_james": "Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Beatus qui legit, et audit verba prophetiæ hujus, et servat ea, quæ in ea scripta sunt: tempus enim prope est.",
+      "greek_textus_receptus": "μακάριος ὁ ἀναγινώσκων καὶ οἱ ἀκούοντες τοὺς λόγους τῆς προφητείας καὶ τηροῦντες τὰ ἐν αὐτῇ γεγραμμένα ὁ γὰρ καιρὸς ἐγγύς",
+      "finnish_biblia": "Autuas on se, joka lukee, ja ne, jotka kuulevat prophetian sanat ja pitävät ne, mitkä siinä kirjoitetut ovat; sillä aika on läsnä. ",
+      "swedish_karl_xii": "Salig är then som läs, och hörer thenna propheties ord; och håller thet ther vthi skrifwit är: ty tiden är när.",
+      "king_james": "Blessed *is* he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time *is* at hand."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Joannes septem ecclesiis, quæ sunt in Asia. Gratia vobis, et pax ab eo, qui est, et qui erat, et qui venturus est: et a septem spiritibus qui in conspectu throni ejus sunt:",
+      "greek_textus_receptus": "ἰωάννης ταῖς ἑπτὰ ἐκκλησίαις ταῖς ἐν τῇ ἀσίᾳ χάρις ὑμῖν καὶ εἰρήνη ἀπὸ τοῦ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος καὶ ἀπὸ τῶν ἑπτὰ πνευμάτων ἃ ἐστιν ἐνώπιον τοῦ θρόνου αὐτοῦ",
+      "finnish_biblia": "Johannes seitsemälle Asian seurakunnalle: armo olkoon teille ja rauha siltä, joka on, joka oli, ja joka tuleva on, ja seitsemältä hengeltä, jotka hänen istuimensa edessä ovat, ",
+      "swedish_karl_xii": "Johannes, the siu församlingar i Asien: Nådh ware medh eder, och frijd af honom, som är, och som war, och som komma skal, och af the siu Andar, som för hans stool äro:",
+      "king_james": "John to the seven churches which are in Asia: Grace *be* unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "et a Jesu Christo, qui est testis fidelis, primogenitus mortuorum, et princeps regum terræ, qui dilexit nos, et lavit nos a peccatis nostris in sanguine suo,",
+      "greek_textus_receptus": "καὶ ἀπὸ ἰησοῦ χριστοῦ ὁ μάρτυς ὁ πιστός ὁ πρωτότοκος ἐκ τῶν νεκρῶν καὶ ὁ ἄρχων τῶν βασιλέων τῆς γῆς τῷ ἀγαπήσαντι ἡμᾶς καὶ λούσαντι ἡμᾶς ἀπὸ τῶν ἁμαρτιῶν ἡμῶν ἐν τῷ αἵματι αὐτοῦ",
+      "finnish_biblia": "Ja Jesukselta Kristukselta, joka se uskollinen todistaja on, ja esikoinen kuolleista, ja maan kuningasten Päämies: joka meitä rakasti ja on meitä verellänsä meidän synneistämme pessyt, ",
+      "swedish_karl_xii": "Och af Jesu Christo, som är ett troget witne, förstfödder ifrå the döda, och en Förste öfwer Konungarna på jordene: then oß älskat hafwer, och twaget oß af wåra synder medh sitt blodh:",
+      "king_james": "And from Jesus Christ, *who is* the faithful witness, *and* the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "et fecit nos regnum, et sacerdotes Deo et Patri suo: ipsi gloria et imperium in sæcula sæculorum. Amen.",
+      "greek_textus_receptus": "καὶ ἐποίησεν ἡμᾶς βασιλεῖς καὶ ἱερεῖς τῷ θεῷ καὶ πατρὶ αὐτοῦ αὐτῷ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν",
+      "finnish_biblia": "Ja teki meidät kuninkaiksi ja papeiksi Jumalan ja Isänsä edessä: hänelle olkoon kunnia ja valta ijankaikkisesta ijankaikkiseen, amen! ",
+      "swedish_karl_xii": "Och giordt oß til Konungar och Prester för Gudi, och sinom Fader: Honom ware ähra och wälde, ifrån ewighet til ewighet: Amen.",
+      "king_james": "And hath made us kings and priests unto God and his Father; to him *be* glory and dominion for ever and ever. Amen."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Ecce venit cum nubibus, et videbit eum omnis oculus, et qui eum pupugerunt. Et plangent se super eum omnes tribus terræ. Etiam: amen.",
+      "greek_textus_receptus": "ἰδού, ἔρχεται μετὰ τῶν νεφελῶν καὶ ὄψεται αὐτὸν πᾶς ὀφθαλμὸς καὶ οἵτινες αὐτὸν ἐξεκέντησαν καὶ κόψονται ἐπ᾽ αὐτὸν πᾶσαι αἱ φυλαὶ τῆς γῆς ναί ἀμήν",
+      "finnish_biblia": "Katso, hän tulee pilvien kanssa, ja jokaisen silmän pitää hänen näkemän ja ne, jotka häntä pistäneet ovat ja kaikki maan sukukunnat pitää parkuman. Niin, amen! ",
+      "swedish_karl_xii": "Sij, han kommer, medh skyyn, och all ögon skola see honom, och the honom stunget hafwa, och all slächte på jordene skola jämra sigh: ja, Amen.",
+      "king_james": "Behold, he cometh with clouds; and every eye shall see him, and they *also* which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Ego sum alpha et omega, principium et finis, dicit Dominus Deus: qui est, et qui erat, et qui venturus est, omnipotens.",
+      "greek_textus_receptus": "ἐγώ εἰμι τὸ α καὶ τὸ ω ἀρχὴ καὶ τέλος, λέγει ὁ κύριος ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος ὁ παντοκράτωρ",
+      "finnish_biblia": "Minä olen A ja O, alku ja loppu, sanoo Herra, joka on, joka oli, ja joka tuleva on, kaikkivaltias. ",
+      "swedish_karl_xii": "Jagh är A och O, begynnelsen och änden, säger Herren, som är, som war, och som komma skal, then Alsmächtige.",
+      "king_james": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Ego Joannes frater vester, et particeps in tribulatione, et regno, et patientia in Christo Jesu: fui in insula, quæ appellatur Patmos, propter verbum Dei, et testimonium Jesu:",
+      "greek_textus_receptus": "ἐγὼ ἰωάννης ὁ καὶ ἀδελφὸς ὑμῶν καὶ συγκοινωνὸς ἐν τῇ θλίψει καὶ ἐν τῇ βασιλείᾳ καὶ ὑπομονῇ ἰησοῦ χριστοῦ, ἐγενόμην ἐν τῇ νήσῳ τῇ καλουμένῃ πάτμῳ διὰ τὸν λόγον τοῦ θεοῦ καὶ διὰ τὴν μαρτυρίαν ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Minä Johannes, teidän veljenne ja osallinen vaivassa ja valtakunnassa ja kärsivällisyydessä, Jesuksessa Kristuksessa, olin luodossa, joka kutsutaan Patmos, Jumalan sanan ja Jesuksen Kristuksen todistuksen tähden. ",
+      "swedish_karl_xii": "Jagh Johannes edar broder, och deelachtig i bedröfwelsen, och i riket, och i Jesu Christi tolamod, war på then öön Pathmos, för Gudz ordz skul, och för Jesu Christi witnesbyrd skul.",
+      "king_james": "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "fui in spiritu in dominica die, et audivi post me vocem magnam tamquam tubæ,",
+      "greek_textus_receptus": "ἐγενόμην ἐν πνεύματι ἐν τῇ κυριακῇ ἡμέρᾳ καὶ ἤκουσα ὀπίσω μου φωνὴν μεγάλην ὡς σάλπιγγος",
+      "finnish_biblia": "Minä olin hengessä yhtenä sunnuntaina ja kuulin minun jäljessäni suuren äänen, niinkuin basunan, ",
+      "swedish_karl_xii": "Jagh war i andanom på en Söndag, och hörde efter migh een stoor röst, såsom en basuun;",
+      "king_james": "I was in the Spirit on the Lord's day, and heard behind me a great voice, as of a trumpet,"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "dicentis: Quod vides, scribe in libro: et mitte septem ecclesiis, quæ sunt in Asia, Epheso, et Smyrnæ, et Pergamo, et Thyatiræ, et Sardis, et Philadelphiæ, et Laodiciæ.",
+      "greek_textus_receptus": "λεγούσης ἐγώ ἐιμι τὸ α καὶ τὸ ω, ὁ πρῶτος καὶ ὁ ἔσχατος καὶ ὁ βλέπεις γράψον εἰς βιβλίον καὶ πέμψον ταῖς ἐκκλησίαις ταῖς ἐν ἀσίᾳ, εἰς ἕφεσον καὶ εἰς σμύρναν καὶ εἰς πέργαμον καὶ εἰς φυάτειρα καὶ εἰς σάρδεις καὶ εἰς φιλαδέλφειαν καὶ εἰς λαοδίκειαν",
+      "finnish_biblia": "Sanovan: minä olen A ja O, ensimäinen ja viimeinen. Mitäs näet, kirjoita kirjaan ja lähetä Asian seurakunnille, jotka Ephesossa ovat, ja Smyrnassa, ja Pergamossa, ja Tyatirassa, ja Sardissa, ja Philadelphiassa, ja Laodikeassa. ",
+      "swedish_karl_xii": "Säijandes: Jagh är A och O, then förste och then sidste: Hwad tu seer, thet skrif vthi ena book, och sändt til the församlingar som äro i Asien, i Epheso, och i Smirnen, och i Pergame, och i Thyatira, och i Sardis, och i Philadelphia, och Laodicea.",
+      "king_james": "Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send *it* unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Et conversus sum ut viderem vocem, quæ loquebatur mecum: et conversus vidi septem candelabra aurea:",
+      "greek_textus_receptus": "καὶ ἐπέστρεψα βλέπειν τὴν φωνὴν ἥτις ἐλάλησεν μετ᾽ ἐμοῦ καὶ ἐπιστρέψας εἶδον ἑπτὰ λυχνίας χρυσᾶς",
+      "finnish_biblia": "Ja minä käännyin sitä ääntä katsomaan, joka minun kanssani puhui, ja minun kääntyessäni näin minä seitsemän kultaista kynttiläjalkaa, ",
+      "swedish_karl_xii": "Och jagh wände migh om til at see efter rösten, som medh migh talade: och som jagh migh wände, såg jagh siu gyldene liusastakar.",
+      "king_james": "And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks;"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "et in medio septem candelabrorum aureorum, similem Filio hominis vestitum podere, et præcinctum ad mamillas zona aurea:",
+      "greek_textus_receptus": "καὶ ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν ὅμοιον ὑιῷ ἀνθρώπου ἐνδεδυμένον ποδήρη καὶ περιεζωσμένον πρὸς τοῖς μαστοῖς ζώνην χρυσῆν",
+      "finnish_biblia": "Ja kultaisten kynttiläjalkain keskellä Ihmisen Pojan muotoisen, vaatetetun pitkällä hameella ja vyötetyn rinnoilta kultaisella vyöllä. ",
+      "swedish_karl_xii": "Och mitt ibland the siu gyldene liusastakar, en, som lijk war menniskiones Son, klädd i en sijd kiortel, och begiordad kring om bröstet medh ett gyldene bälte.",
+      "king_james": "And in the midst of the seven candlesticks *one* like unto the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden girdle."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "caput autem ejus, et capilli erant candidi tamquam lana alba, et tamquam nix, et oculi ejus tamquam flamma ignis:",
+      "greek_textus_receptus": "ἡ δὲ κεφαλὴ αὐτοῦ καὶ αἱ τρίχες λευκαὶ ὡσει ἔριον λευκόν ὡς χιών καὶ οἱ ὀφθαλμοὶ αὐτοῦ ὡς φλὸξ πυρός",
+      "finnish_biblia": "Mutta hänen päänsä ja hiuksensa olivat valkiat niinkuin valkia villa ja niinkuin lumi, ja hänen silmänsä niinkuin tulen liekki, ",
+      "swedish_karl_xii": "Men hans hufwud och hans håår war hwitt som een hwijt vll, och såsom sniö: och hans ögon woro såsom en eldzlåge.",
+      "king_james": "His head and *his* hairs *were* white like wool, as white as snow; and his eyes *were* as a flame of fire;"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "et pedes ejus similes auricalco, sicut in camino ardenti, et vox illius tamquam vox aquarum multarum:",
+      "greek_textus_receptus": "καὶ οἱ πόδες αὐτοῦ ὅμοιοι χαλκολιβάνῳ ὡς ἐν καμίνῳ πεπυρωμένοι καὶ ἡ φωνὴ αὐτοῦ ὡς φωνὴ ὑδάτων πολλῶν",
+      "finnish_biblia": "Ja hänen jalkansa valantovasken kaltaiset, niinkuin pätsissä palavaiset, ja hänen äänensä oli niinkuin paljon veden kuohina. ",
+      "swedish_karl_xii": "Och hans fötter woro såsom glödande mässing i vgnen; och hans röst såsom en dön af mycket watn.",
+      "king_james": "And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "et habebat in dextera sua stellas septem: et de ore ejus gladius utraque parte acutus exibat: et facies ejus sicut sol lucet in virtute sua.",
+      "greek_textus_receptus": "καὶ ἔχων ἐν τῇ δεξιᾷ αὐτοῦ χειρὶ ἀστέρας ἑπτά καὶ ἐκ τοῦ στόματος αὐτοῦ ῥομφαία δίστομος ὀξεῖα ἐκπορευομένη καὶ ἡ ὄψις αὐτοῦ ὡς ὁ ἥλιος φαίνει ἐν τῇ δυνάμει αὐτοῦ",
+      "finnish_biblia": "Ja seitsemän tähteä oli hänen oikiassa kädessänsä, ja hänen suustansa kävi ulos kaksiteräinen terävä miekka, ja hänen kasvonsa, niinkuin aurinko paistaa voimassansa. ",
+      "swedish_karl_xii": "Och han hade i sin högra hand siu stiernor, och af hans mun vthgick ett skarpt tweäggiat swärd; och hans ansichte skeen såsom klara solen.",
+      "king_james": "And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance *was* as the sun shineth in his strength."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Et cum vidissem eum, cecidi ad pedes ejus tamquam mortuus. Et posuit dexteram suam super me, dicens: Noli timere: ego sum primus, et novissimus,",
+      "greek_textus_receptus": "καὶ ὅτε εἶδον αὐτόν ἔπεσα πρὸς τοὺς πόδας αὐτοῦ ὡς νεκρός καὶ ἐπέθηκεν τὴν δεξιὰν αὐτοῦ χεῖρα ἐπ᾽ ἐμὲ λέγων, μοι, μὴ φοβοῦ ἐγώ εἰμι ὁ πρῶτος καὶ ὁ ἔσχατος",
+      "finnish_biblia": "Ja kuin minä hänen näin, lankesin minä hänen jalkainsa eteen niinkuin kuollut, ja hän pani oikian kätensä minun päälleni ja sanoi minulle: älä pelkää, minä olen ensimäinen ja viimeinen, ",
+      "swedish_karl_xii": "Och tå jagh såg honom, föll jagh til hans fötter, såsom jagh hade warit död: och han lade sin högra hand på migh, och sade til migh: War icke förfärad; jagh är then förste och then sidste:",
+      "king_james": "And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "et vivus, et fui mortuus, et ecce sum vivens in sæcula sæculorum: et habeo claves mortis, et inferni.",
+      "greek_textus_receptus": "καὶ ὁ ζῶν καὶ ἐγενόμην νεκρὸς καὶ ἰδού, ζῶν εἰμι εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν καὶ ἔχω τὰς κλεῖς τοῦ ᾅδου καὶ τοῦ θανάτου",
+      "finnish_biblia": "Ja elävä, ja olin kuollut, ja katso, minä olen elävä ijankaikkisesta ijankaikkiseen, amen! Ja minulla on helvetin ja kuoleman avaimet. ",
+      "swedish_karl_xii": "Och then lefwande; och jagh war död, och sij, jagh är lefwandes ifrån ewighet til ewighet: Amen: och hafwer nycklarna til helwetet och döden.",
+      "king_james": "I *am* he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Scribe ergo quæ vidisti, et quæ sunt, et quæ oportet fieri post hæc.",
+      "greek_textus_receptus": "γράψον ἃ εἶδες καὶ ἃ εἰσὶν καὶ ἃ μέλλει γινέσθαι μετὰ ταῦτα",
+      "finnish_biblia": "Kirjoita, mitäs nähnyt olet, mitä nyt on, ja mitä tästälähin tapahtuva on; ",
+      "swedish_karl_xii": "Så skrif nu hwad tu sedt hafwer, och hwad nu är, och hwad här efter skee skal.",
+      "king_james": "Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Sacramentum septem stellarum, quas vidisti in dextera mea, et septem candelabra aurea: septem stellæ, angeli sunt septem ecclesiarum: et candelabra septem, septem ecclesiæ sunt.",
+      "greek_textus_receptus": "τὸ μυστήριον τῶν ἑπτὰ ἀστέρων ὦν εἶδες ἐπὶ τῆς δεξιᾶς μου καὶ τὰς ἑπτὰ λυχνίας τὰς χρυσᾶς οἱ ἑπτὰ ἀστέρες ἄγγελοι τῶν ἑπτὰ ἐκκλησιῶν εἰσιν καὶ αἱ ἑπτὰ λυχνίαι ἅς εἶδες ἑπτὰ ἐκκλησίαι εἰσίν",
+      "finnish_biblia": "Se salaisuus niistä seitsemästä tähdestä, jotka sinä minun oikiassa kädessäni nähnyt olet, ja seitsemän kultaista kynttiläjalkaa. Ne seitsemän tähteä ovat seitsemän seurakunnan enkelit: ja ne seitsemän kynttiläjalkaa, jotka sinä nähnyt olet, ovat seitsemän seurakuntaa.   ",
+      "swedish_karl_xii": "Hemligheten af the siu stiernor som tu sedt hafwer i mine högra hand, och the siu gyldene liusastakar: the siu stiernor, äro the siu församlingars Änglar; och the siu liusastakar som tu sedt hafwer, äro the siu församlingar.",
+      "king_james": "The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches."
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 52,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "  Quid gloriaris in malitia,  qui potens es in iniquitate ? ",
+      "hebrew_masoretic": "מַה־תִּתְהַלֵּ֣ל בְּ֭רָעָה הַגִּבּ֑וֹר חֶ֥סֶד אֵ֝֗ל כׇּל־הַיּֽוֹם׃",
+      "douay_rheims": "Why dost thou glory in malice, thou that art mighty in iniquity?",
+      "finnish_biblia": "Davidin opetus, edelläveisaajalle, (H52:2) Kuin Edomilainen Doeg tuli ja ilmoitti Saulille, ja sanoi hänelle: David on tullut Ahimelekin huoneeseen. (H52:3) Mitäs kerskaat pahuudessas, sinä väkevä? Jumalan laupius pysyy joka päivä. ",
+      "swedish_karl_xii": "Hwad högmodas tu, tyrann, at tu kant skada giöra? Efter doch Gudz godhet ännu dagliga wahrar.",
+      "king_james": "Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "51:3"
+        },
+        "hebrew_masoretic": {
+          "src": "52:3"
+        },
+        "douay_rheims": {
+          "src": "51:3"
+        },
+        "swedish_karl_xii": {
+          "src": "52:3"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " Tota die injustitiam cogitavit lingua tua ;  sicut novacula acuta fecisti dolum. ",
+      "hebrew_masoretic": "הַ֭וּוֹת תַּחְשֹׁ֣ב לְשׁוֹנֶ֑ךָ כְּתַ֥עַר מְ֝לֻטָּ֗שׁ עֹשֵׂ֥ה רְמִיָּֽה׃",
+      "douay_rheims": "All the day long thy tongue hath devised injustice: as a sharp razor, thou hast wrought deceit.",
+      "finnish_biblia": "Sinun kieles ajattelee vahinkoa ja leikkaa valheellansa niinkuin terävä partaveitsi. ",
+      "swedish_karl_xii": "Tin tunga faar efter skada: och skär medh lögn såsom en skarp rakoknijf.",
+      "king_james": "Thy tongue deviseth mischiefs; like a sharp razor, working deceitfully.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "51:4"
+        },
+        "hebrew_masoretic": {
+          "src": "52:4"
+        },
+        "douay_rheims": {
+          "src": "51:4"
+        },
+        "swedish_karl_xii": {
+          "src": "52:4"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Dilexisti malitiam super benignitatem ;  iniquitatem magis quam loqui æquitatem. ",
+      "hebrew_masoretic": "אָהַ֣בְתָּ רָּ֣ע מִטּ֑וֹב שֶׁ֓קֶר ׀ מִדַּבֵּ֖ר צֶ֣דֶק סֶֽלָה׃",
+      "douay_rheims": "Thou hast loved malice more than goodness: and iniquity rather than to speak righteousness.",
+      "finnish_biblia": "Sinä rakastat enempi pahaa kuin hyvää, ja puhut valhetta pikemmin kuin oikeutta, Sela! ",
+      "swedish_karl_xii": "Tu talar hällre ondt än godt; och hällre falskt än rätt. Sela.",
+      "king_james": "Thou lovest evil more than good; and lying rather than to speak righteousness. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "51:5"
+        },
+        "hebrew_masoretic": {
+          "src": "52:5"
+        },
+        "douay_rheims": {
+          "src": "51:5"
+        },
+        "swedish_karl_xii": {
+          "src": "52:5"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Dilexisti omnia verba præcipitationis ;  lingua dolosa. ",
+      "hebrew_masoretic": "אָהַ֥בְתָּ כׇֽל־דִּבְרֵי־בָ֗לַע לְשׁ֣וֹן מִרְמָֽה׃",
+      "douay_rheims": "Thou hast loved all the words of ruin, O deceitful tongue.",
+      "finnish_biblia": "Sinä puhut mielelläs kaikkia murhasanoja väärällä kielellä. ",
+      "swedish_karl_xii": "Tu talar gierna alt thet som til förderf tienar, medh falska tungo.",
+      "king_james": "Thou lovest all devouring words, O thou deceitful tongue.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "51:6"
+        },
+        "hebrew_masoretic": {
+          "src": "52:6"
+        },
+        "douay_rheims": {
+          "src": "51:6"
+        },
+        "swedish_karl_xii": {
+          "src": "52:6"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Propterea Deus destruet te in finem ;  evellet te, et emigrabit te de tabernaculo tuo,  et radicem tuam de terra viventium. ",
+      "hebrew_masoretic": "גַּם־אֵל֮ יִתׇּצְךָ֢ לָ֫נֶ֥צַח יַחְתְּךָ֣ וְיִסָּחֲךָ֣ מֵאֹ֑הֶל וְשֵׁרֶשְׁךָ֨ מֵאֶ֖רֶץ חַיִּ֣ים סֶֽלָה׃",
+      "douay_rheims": "Therefore will God destroy thee for ever: he will pluck thee out, and remove thee from thy dwelling place: and thy root out of the land of the living.",
+      "finnish_biblia": "Niin Jumala myös kukistaa sinun ijankaikkisesti: hän murentaa sinun, ja majasta tempaa sinun ulos, ja juurittaa sinun ulos eläväin maalta, Sela! ",
+      "swedish_karl_xii": "Therföre skal ock Gudh medh allo förderfwa tigh, och sönderkrossa tigh, och vthu hyddone ryckia tigh, och vthu the lefwandes lande vthrota tigh. Sela.",
+      "king_james": "God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of thy dwelling place, and root thee out of the land of the living. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "51:7"
+        },
+        "hebrew_masoretic": {
+          "src": "52:7"
+        },
+        "douay_rheims": {
+          "src": "51:7"
+        },
+        "swedish_karl_xii": {
+          "src": "52:7"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Videbunt justi, et timebunt ;  et super eum ridebunt, et dicent : ",
+      "hebrew_masoretic": "וְיִרְא֖וּ צַדִּיקִ֥ים וְיִירָ֗אוּ וְעָלָ֥יו יִשְׂחָֽקוּ׃",
+      "douay_rheims": "The just shall see and fear, and shall laugh at him, and say:",
+      "finnish_biblia": "Ja vanhurskasten pitää sen näkemän ja pelkäämän; ja he nauravat häntä. ",
+      "swedish_karl_xii": "Och the rättferdige skola thet see, och fruchta sigh, och skola lee åth honom.",
+      "king_james": "The righteous also shall see, and fear, and shall laugh at him:",
+      "refs": {
+        "latin_vulgate": {
+          "src": "51:8"
+        },
+        "hebrew_masoretic": {
+          "src": "52:8"
+        },
+        "douay_rheims": {
+          "src": "51:8"
+        },
+        "swedish_karl_xii": {
+          "src": "52:8"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Ecce homo qui non posuit Deum adjutorem suum ;  sed speravit in multitudine divitiarum suarum,  et prævaluit in vanitate sua. ",
+      "hebrew_masoretic": "הִנֵּ֤ה הַגֶּ֗בֶר לֹ֤א יָשִׂ֥ים אֱלֹהִ֗ים מָ֫עוּזּ֥וֹ וַ֭יִּבְטַח בְּרֹ֣ב עׇשְׁר֑וֹ יָ֝עֹ֗ז בְּהַוָּתֽוֹ׃",
+      "douay_rheims": "Behold the man that made not God his helper: But trusted in the abundance of his riches: and prevailed in his vanity.",
+      "finnish_biblia": "Katso, tämä on se mies, joka ei pitänyt Jumalaa turvanansa, vaan uskalsi suureen rikkauteensa: hän on vahvistunut pahuudessansa. ",
+      "swedish_karl_xii": "Sij, thet är then man som icke hölt Gudh för sina tröst: vthan förlät sigh vppå sin stora rikedom, och war mächtig til at giöra skada.",
+      "king_james": "Lo, this is the man that made not God his strength; but trusted in the abundance of his riches, and strengthened himself in his wickedness.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "51:9"
+        },
+        "hebrew_masoretic": {
+          "src": "52:9"
+        },
+        "douay_rheims": {
+          "src": "51:9"
+        },
+        "swedish_karl_xii": {
+          "src": "52:9"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " Ego autem, sicut oliva fructifera in domo Dei ;  speravi in misericordia Dei, in æternum et in sæculum sæculi. ",
+      "hebrew_masoretic": "וַאֲנִ֤י ׀ כְּזַ֣יִת רַ֭עֲנָן בְּבֵ֣ית אֱלֹהִ֑ים בָּטַ֥חְתִּי בְחֶסֶד־אֱ֝לֹהִ֗ים עוֹלָ֥ם וָעֶֽד׃",
+      "douay_rheims": "But I, as a fruitful olive tree in the house of God, have hoped in the mercy of God for ever, yea for ever and ever.",
+      "finnish_biblia": "Mutta minä olen niinkuin viheriäinen öljypuu Herran huoneessa: minä uskallan Jumalan laupiuteen aina ja ijankaikkisesti. ",
+      "swedish_karl_xii": "Men jagh skal blifwa såsom ett grönt oliweträ i Gudz huus: jagh förlåter migh på Gudz godhet altijd och förvthan ända.",
+      "king_james": "But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "51:10"
+        },
+        "hebrew_masoretic": {
+          "src": "52:10"
+        },
+        "douay_rheims": {
+          "src": "51:10"
+        },
+        "swedish_karl_xii": {
+          "src": "52:10"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": " Confitebor tibi in sæculum, quia fecisti ;  et exspectabo nomen tuum,  quoniam bonum est in conspectu sanctorum tuorum.  ",
+      "hebrew_masoretic": "אוֹדְךָ֣ לְ֭עוֹלָם כִּ֣י עָשִׂ֑יתָ וַאֲקַוֶּ֥ה שִׁמְךָ֥ כִי־ט֝֗וֹב נֶ֣גֶד חֲסִידֶֽיךָ׃ {פ}",
+      "douay_rheims": "I will praise thee for ever, because thou hast done it: and I will wait on thy name, for it is good in the sight of thy saints. ",
+      "finnish_biblia": "Minä tahdon sinua kiittää ijankaikkisesti, ettäs sen teit, ja odottaa sinun nimeäs; sillä se on hyvä sinun pyhäis edessä.   ",
+      "swedish_karl_xii": "Jagh tackar tigh ewinnerliga, ty tu kant wäl giörat: och wil förbida titt namn, ty tine helige hafwa ther frögd vthinnan.",
+      "king_james": "I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "51:11"
+        },
+        "hebrew_masoretic": {
+          "src": "52:11"
+        },
+        "douay_rheims": {
+          "src": "51:11"
+        },
+        "swedish_karl_xii": {
+          "src": "52:11"
+        }
+      }
+    }
+  ]
+}

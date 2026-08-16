@@ -1,0 +1,75 @@
+1:
+  title: "The Promise at Pentecost"
+  refs: !!set
+    ? "Acts 2:1-14"
+    ? "Acts 2:29-41"
+    ? "Acts 2:38-39"
+    ? "Galatians 5:5"
+
+2:
+  title: "Baptized for the Forgiveness of Sins"
+  refs: !!set
+    ? "Acts 2:38"
+    ? "Acts 22:16"
+
+3:
+  title: "Buried and Raised with Christ"
+  refs: !!set
+    ? "Romans 6:3-5"
+    ? "Colossians 1:13-14"
+    ? "Colossians 2:11-12"
+
+4:
+  title: "Baptism Now Saves You"
+  refs: !!set
+    ? "1 Peter 3:21"
+    ? "Titus 3:5-7"
+
+5:
+  title: "Reconciliation Poured Out in Baptism"
+  refs: !!set
+    ? "1 John 2:2"
+    ? "2 Corinthians 5:18-19"
+    ? "Titus 3:5-7"
+
+6:
+  title: "Washed, Sanctified, Justified"
+  refs: !!set
+    ? "1 Corinthians 6:11"
+
+7:
+  title: "The Promise Is for You and Your Children"
+  refs: !!set
+    ? "Acts 2:39"
+    ? "Acts 16:25-34"
+
+8:
+  title: "Baptized into One Body"
+  refs: !!set
+    ? "Galatians 3:27-29"
+    ? "1 Corinthians 12:12-13"
+    ? "Acts 2:41-47"
+    ? "Ephesians 2:19-22"
+
+9:
+  title: "Born Again Through the Living Word"
+  refs: !!set
+    ? "1 Peter 1:23"
+    ? "Luke 23:39-43"
+
+10:
+  title: "Take Heed Lest You Fall"
+  refs: !!set
+    ? "1 Corinthians 10:12"
+    ? "Luke 8:13"
+    ? "1 Timothy 4:1"
+
+11:
+  title: "No Condemnation in Christ"
+  refs: !!set
+    ? "Romans 8:1"
+
+12:
+  title: "Heal Me, for I Have Sinned Against You"
+  refs: !!set
+    ? "Psalm 41"

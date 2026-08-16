@@ -1,0 +1,115 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et cum aperuisset sigillum septimum, factum est silentium in cælo, quasi media hora.",
+      "greek_textus_receptus": "καὶ ὅτε ἤνοιξεν τὴν σφραγῖδα τὴν ἑβδόμην ἐγένετο σιγὴ ἐν τῷ οὐρανῷ ὡς ἡμιώριον",
+      "finnish_biblia": "Ja kuin hän seitsemännen sinetin avasi, oltiin ääneti taivaassa lähes puoli hetkeä. ",
+      "swedish_karl_xii": "Och tå thet vpbröt thet siunde insiglet, wardt een tysta i himmelen widh en half stund.",
+      "king_james": "And when he had opened the seventh seal, there was silence in heaven about the space of half an hour."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et vidi septem angelos stantes in conspectu Dei: et datæ sunt illis septem tubæ.",
+      "greek_textus_receptus": "καὶ εἶδον τοὺς ἑπτὰ ἀγγέλους οἳ ἐνώπιον τοῦ θεοῦ ἑστήκασιν καὶ ἐδόθησαν αὐτοῖς ἑπτὰ σάλπιγγες",
+      "finnish_biblia": "Ja minä näin seitsemän enkeliä Jumalan edessä seisovan, joille seitsemän basunaa annettiin. ",
+      "swedish_karl_xii": "Och jagh såg siu Änglar stå för Gudh, och them wordo gifne siu basuner.",
+      "king_james": "And I saw the seven angels which stood before God; and to them were given seven trumpets."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et alius angelus venit, et stetit ante altare habens thuribulum aureum: et data sunt illi incensa multa, ut daret de orationibus sanctorum omnium super altare aureum, quod est ante thronum Dei.",
+      "greek_textus_receptus": "καὶ ἄλλος ἄγγελος ἦλθεν καὶ ἐστάθη ἐπὶ τὸ θυσιαστήριον ἔχων λιβανωτὸν χρυσοῦν καὶ ἐδόθη αὐτῷ θυμιάματα πολλὰ ἵνα δώσῃ ταῖς προσευχαῖς τῶν ἁγίων πάντων ἐπὶ τὸ θυσιαστήριον τὸ χρυσοῦν τὸ ἐνώπιον τοῦ θρόνου",
+      "finnish_biblia": "Ja toinen enkeli tuli ja seisoi alttarin edessä, ja hänellä oli kultainen pyhän savun astia, jolle paljo suitsutusta annettiin, kaikkein pyhäin rukouksiin, kultaiselle alttarille antaaksensa, joka on istuimen edessä. ",
+      "swedish_karl_xii": "Och en annar Ängel kom, och stod för Altaret, och hade ett gyldene rökelsekar; och honom wardt gifwit mycket rökwerck: på thet han skulle gifwa til all helgons böner på gyldene Altaret, som är för stolenom.",
+      "king_james": "And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer *it* with the prayers of all saints upon the golden altar which was before the throne."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Et ascendit fumus incensorum de orationibus sanctorum de manu angeli coram Deo.",
+      "greek_textus_receptus": "καὶ ἀνέβη ὁ καπνὸς τῶν θυμιαμάτων ταῖς προσευχαῖς τῶν ἁγίων ἐκ χειρὸς τοῦ ἀγγέλου ἐνώπιον τοῦ θεοῦ",
+      "finnish_biblia": "Ja suitsutuksen savu pyhäin rukouksista nousi enkelin kädestä Jumalan eteen. ",
+      "swedish_karl_xii": "Och rökwercksens röök af helgonens böner, gick vp af Angelens hand för Gudh.",
+      "king_james": "And the smoke of the incense, *which came* with the prayers of the saints, ascended up before God out of the angel's hand."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et accepit angelus thuribulum, et implevit illud de igne altaris, et misit in terram: et facta sunt tonitrua, et voces, et fulgura, et terræmotus magnus.",
+      "greek_textus_receptus": "καὶ εἴληφεν ὁ ἄγγελος τὸ λιβανωτόν καὶ ἐγέμισεν αὐτὸ ἐκ τοῦ πυρὸς τοῦ θυσιαστηρίου καὶ ἔβαλεν εἰς τὴν γῆν καὶ ἐγένοντο φωναὶ καὶ βρονταὶ καὶ ἀστραπαὶ καὶ σεισμός",
+      "finnish_biblia": "Ja enkeli otti pyhän savun astian, ja täytti sen alttarin tulesta, ja heitti maan päälle, ja niin tapahtuivat äänet ja pitkäisen jylinät ja leimaukset ja maanjäristykset. ",
+      "swedish_karl_xii": "Och Ängelen tog rökelsekaret, och vpfylte thet medh eld af Altaret, och kastade nedh på jordena: och ther skedde toordön, röster, och liungeld, och jordbäfning.",
+      "king_james": "And the angel took the censer, and filled it with fire of the altar, and cast *it* into the earth: and there were voices, and thunderings, and lightnings, and an earthquake."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Et septem angeli, qui habebant septem tubas, præparaverunt se ut tuba canerent.",
+      "greek_textus_receptus": "καὶ οἱ ἑπτὰ ἄγγελοι ἔχοντες τὰς ἑπτὰ σάλπιγγας ἡτοίμασαν εαὐτοὺς ἵνα σαλπίσωσιν",
+      "finnish_biblia": "Ja ne seitsemän enkeliä seitsemällä basunalla hankitsivat basunilla soittamaan. ",
+      "swedish_karl_xii": "Och the siu Änglar medh the siu basuner, skickade sigh til at basuna.",
+      "king_james": "And the seven angels which had the seven trumpets prepared themselves to sound."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et primus angelus tuba cecinit, et facta est grando, et ignis, mista in sanguine, et missum est in terram, et tertia pars terræ combusta est, et tertia pars arborum concremata est, et omne fœnum viride combustum est.",
+      "greek_textus_receptus": "καὶ ὁ πρῶτος ἄγγελος ἐσάλπισεν καὶ ἐγένετο χάλαζα καὶ πῦρ μεμιγμένα αἵματι καὶ ἐβλήθη εἰς τὴν γῆν καὶ τὸ τρίτον τῶν δένδρων κατεκάη καὶ πᾶς χόρτος χλωρὸς κατεκάη",
+      "finnish_biblia": "Ja ensimäinen enkeli soitti basunalla, ja tuli rakeita ja tulta verellä sekoitettuja, jotka maan päälle heitettiin; ja kolmas osa puista paloi ja kaikki viheriäinen ruoho paloi. ",
+      "swedish_karl_xii": "Och then förste Ängelen basunade, och wardt ett hagel, och eld bemängt medh blodh; och thet wardt kastat på jordena: och tredie parten af trään wardt vpbränd, och alt grönt grääs bran vp.",
+      "king_james": "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Et secundus angelus tuba cecinit: et tamquam mons magnus igne ardens missus est in mare, et facta est tertia pars maris sanguis,",
+      "greek_textus_receptus": "καὶ ὁ δεύτερος ἄγγελος ἐσάλπισεν καὶ ὡς ὄρος μέγα πυρὶ καιόμενον ἐβλήθη εἰς τὴν θάλασσαν καὶ ἐγένετο τὸ τρίτον τῆς θαλάσσης αἷμα",
+      "finnish_biblia": "Ja toinen enkeli soitti basunalla, ja mereen heitettiin niinkuin suuri vuori tulessa palava: ja kolmas osa merestä tuli vereksi, ",
+      "swedish_karl_xii": "Och then andre Ängelen basunade; och vthi hafwet wardt kastat såsom ett stort brinnande berg: och tredie parten af hafwet wardt blodh.",
+      "king_james": "And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "et mortua est tertia pars creaturæ eorum, quæ habebant animas in mari, et tertia pars navium interiit.",
+      "greek_textus_receptus": "καὶ ἀπέθανεν τὸ τρίτον τῶν κτισμάτων τῶν ἐν τῇ θαλάσσῃ τὰ ἔχοντα ψυχάς καὶ τὸ τρίτον τῶν πλοίων διεφθάρη",
+      "finnish_biblia": "Ja kolmas osa elävistä luontokappaleista meressä kuoli ja kolmas osa haaksista hukkui. ",
+      "swedish_karl_xii": "Och tredie parten af the lefwande creatur som i hafwet woro, blefwo döde: och tredie parten af skepen förgingos.",
+      "king_james": "And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Et tertius angelus tuba cecinit: et cecidit de cælo stella magna, ardens tamquam facula, et cecidit in tertiam partem fluminum, et in fontes aquarum:",
+      "greek_textus_receptus": "καὶ ὁ τρίτος ἄγγελος ἐσάλπισεν καὶ ἔπεσεν ἐκ τοῦ οὐρανοῦ ἀστὴρ μέγας καιόμενος ὡς λαμπάς καὶ ἔπεσεν ἐπὶ τὸ τρίτον τῶν ποταμῶν καὶ ἐπὶ τὰς πηγὰς ὑδάτων",
+      "finnish_biblia": "Ja kolmas enkeli soitti basunalla, ja suuri tähti lankesi taivaasta, palava niinkuin tulisoitto, ja lankesi kolmannen osan virtain ja vesilähdetten päälle. ",
+      "swedish_karl_xii": "Och then tredie Ängelen basunade; och een stoor stierna föll nedh af himmelen, brinnandes som ett bloß: och föll vthi tredie parten af älfwerna, och vthi watukällorna.",
+      "king_james": "And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "et nomen stellæ dicitur Absinthium, et facta est tertia pars aquarum in absinthium; et multi hominum mortui sunt de aquis, quia amaræ factæ sunt.",
+      "greek_textus_receptus": "καὶ τὸ ὄνομα τοῦ ἀστέρος λέγεται ἄψινθος καὶ γίνεται τὸ τρίτον εἰς ἄψινθον καὶ πολλοὶ ἀνθρώπων ἀπέθανον ἐκ τῶν ὑδάτων ὅτι ἐπικράνθησαν",
+      "finnish_biblia": "Ja tähti kutsutaan koiruohoksi: ja kolmas osa vesistä muuttui koiruohoksi, ja monta ihmistä kuoli vetten tähden, että ne haikiaksi tehdyt olivat. ",
+      "swedish_karl_xii": "Och stiernones namn kallas malört: och tredie parten wändes i malört; och många menniskior blefwo döde af watnet som förbittrat wardt.",
+      "king_james": "And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Et quartus angelus tuba cecinit: et percussa est tertia pars solis, et tertia pars lunæ, et tertia pars stellarum, ita ut obscuraretur tertia pars eorum, et diei non luceret pars tertia, et noctis similiter.",
+      "greek_textus_receptus": "καὶ ὁ τέταρτος ἄγγελος ἐσάλπισεν καὶ ἐπλήγη τὸ τρίτον τοῦ ἡλίου καὶ τὸ τρίτον τῆς σελήνης καὶ τὸ τρίτον τῶν ἀστέρων ἵνα σκοτισθῇ τὸ τρίτον αὐτῶν καὶ ἡ ἡμέρα μὴ φαίνῃ τὸ τρίτον αὐτῆς καὶ ἡ νὺξ ὁμοίως",
+      "finnish_biblia": "Ja neljäs enkeli soitti basunalla, ja kolmas osa auringosta lyötiin, ja kolmas osa kuusta, ja kolmas osa tähdistä, niin että kolmas osa heistä pimeni, ja ei kolmas osa päivästä valaissut, eikä yöstä. ",
+      "swedish_karl_xii": "Och then fierde Ängelen basunade; och tredie parten af solene wardt slagen, och tredie parten af månan, och tredie parten af stiernorna: så at tredie parten af them wardt förmörkrat, och tredie delen af dagen intet skina kunde, och af nattene sammalunda.",
+      "king_james": "And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Et vidi, et audivi vocem unius aquilæ volantis per medium cæli dicentis voce magna: Væ, væ, væ habitantibus in terra de ceteris vocibus trium angelorum, qui erant tuba canituri.",
+      "greek_textus_receptus": "καὶ εἶδον καὶ ἤκουσα ἑνὸς ἀγγέλου πετωμένου ἐν μεσουρανήματι λέγοντος φωνῇ μεγάλῃ οὐαὶ οὐαὶ οὐαὶ τοῖς κατοικοῦσιν ἐπὶ τῆς γῆς ἐκ τῶν λοιπῶν φωνῶν τῆς σάλπιγγος τῶν τριῶν ἀγγέλων τῶν μελλόντων σαλπίζειν",
+      "finnish_biblia": "Ja minä näin ja kuulin enkelin keskelle taivasta lentävän ja suurella äänellä sanovan: voi, voi, voi, asuvaisia maan päällä, muiden kolmen enkelin basunan äänistä, jotka vielä basunilla soittaman pitää!   ",
+      "swedish_karl_xii": "Och jagh såg, och hörde en Ängel som flög mitt genom himmelen, och sade medh höga röst: Wee, wee, wee them som boo på jordene, för the andra röster af the tre Änglars basuner, som ännu basuna skola.",
+      "king_james": "And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!"
+    }
+  ]
+}

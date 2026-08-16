@@ -1,0 +1,254 @@
+# ref = PSS.15.1
+1	Ψαλμὸς	_	_	_	_	_	_	Align=unmatched
+2	τῷ	_	_	_	_	_	_	Align=unmatched
+3	Σαλωμὼν	_	_	_	_	_	_	Align=unmatched
+4	μετὰ	_	_	_	_	_	_	Align=unmatched
+5	ᾠδῆς	_	_	_	_	_	_	Align=unmatched
+6	Ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+7	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	θλίβεσθαί	θλίβω	_	_	_	_	_	Strong=G2346|Align=positional
+9	με	μέ	_	_	_	_	_	Strong=G3165|Align=exact
+10	ἐπεκαλεσάμην	ἐπικαλέω	_	_	_	_	_	Align=positional
+11	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ὄνομα	ὄνομα	_	_	_	_	_	Strong=G3686|Align=exact
+13	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+14	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+15	βοήθειαν	βοήθεια	_	_	_	_	_	Strong=G0996|Align=positional
+16	ἤλπισα	ἐλπίζω	_	_	_	_	_	Strong=G1679|Align=positional
+17	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+18	θεοῦ	θεός	_	_	_	_	_	Strong=G2316|Align=positional
+19	Ἰακώβ	Ἰακώβ	_	_	_	_	_	Strong=G2384|Align=exact
+20	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+21	ἐσώθην	_	_	_	_	_	_	Align=unmatched,source_extra:10
+
+# ref = PSS.15.2
+1	ὅτι	_	_	_	_	_	_	Align=unmatched
+2	ἐλπὶς	_	_	_	_	_	_	Align=unmatched
+3	καὶ	_	_	_	_	_	_	Align=unmatched
+4	καταφυγὴ	_	_	_	_	_	_	Align=unmatched
+5	τῶν	_	_	_	_	_	_	Align=unmatched
+6	πτωχῶν	_	_	_	_	_	_	Align=unmatched
+7	σύ	_	_	_	_	_	_	Align=unmatched
+8	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+9	θεός	θεός	_	_	_	_	_	Strong=G2316|Align=exact,source_extra:19
+
+# ref = PSS.15.3
+1	τίς	_	_	_	_	_	_	Align=unmatched
+2	γὰρ	_	_	_	_	_	_	Align=unmatched
+3	ἰσχύει	_	_	_	_	_	_	Align=unmatched
+4	ὁ	_	_	_	_	_	_	Align=unmatched
+5	θεός	_	_	_	_	_	_	Align=unmatched
+6	εἰ	_	_	_	_	_	_	Align=unmatched
+7	μὴ	_	_	_	_	_	_	Align=unmatched
+8	ἐξομολογήσασθαί	_	_	_	_	_	_	Align=unmatched
+9	σοι	_	_	_	_	_	_	Align=unmatched
+10	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+11	ἀληθείᾳ	_	_	_	_	_	_	Align=unmatched,source_extra:19
+
+# ref = PSS.15.4
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τί	_	_	_	_	_	_	Align=unmatched
+3	δυνατὸς	_	_	_	_	_	_	Align=unmatched
+4	ἄνθρωπος	_	_	_	_	_	_	Align=unmatched
+5	εἰ	_	_	_	_	_	_	Align=unmatched
+6	μὴ	_	_	_	_	_	_	Align=unmatched
+7	ἐξομολογήσασθαι	_	_	_	_	_	_	Align=unmatched
+8	τῷ	_	_	_	_	_	_	Align=unmatched
+9	ὀνόματί	_	_	_	_	_	_	Align=unmatched
+10	σου	_	_	_	_	_	_	Align=unmatched,source_extra:17
+
+# ref = PSS.15.5
+1	ψαλμὸν	_	_	_	_	_	_	Align=unmatched
+2	καινὸν	_	_	_	_	_	_	Align=unmatched
+3	μετὰ	_	_	_	_	_	_	Align=unmatched
+4	ᾠδῆς	_	_	_	_	_	_	Align=unmatched
+5	ἐν	_	_	_	_	_	_	Align=unmatched
+6	εὐφροσύνῃ	_	_	_	_	_	_	Align=unmatched
+7	καρδίας	_	_	_	_	_	_	Align=unmatched
+8	καρπὸν	_	_	_	_	_	_	Align=unmatched
+9	χειλέων	_	_	_	_	_	_	Align=unmatched
+10	ἐν	_	_	_	_	_	_	Align=unmatched
+11	ὀργάνῳ	_	_	_	_	_	_	Align=unmatched
+12	ἡρμοσμένῳ	_	_	_	_	_	_	Align=unmatched
+13	γλώσσης	_	_	_	_	_	_	Align=unmatched
+14	ἀπαρχὴν	_	_	_	_	_	_	Align=unmatched
+15	χειλέων	_	_	_	_	_	_	Align=unmatched
+16	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+17	καρδίας	_	_	_	_	_	_	Align=unmatched
+18	ὁσίας	_	_	_	_	_	_	Align=unmatched
+19	καὶ	_	_	_	_	_	_	Align=unmatched
+20	δικαίας	_	_	_	_	_	_	Align=unmatched,source_extra:10
+
+# ref = PSS.15.6
+1	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+2	ποιῶν	_	_	_	_	_	_	Align=unmatched
+3	ταῦτα	_	_	_	_	_	_	Align=unmatched
+4	οὐ	_	_	_	_	_	_	Align=unmatched
+5	σαλευθήσεται	_	_	_	_	_	_	Align=unmatched
+6	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+7	τὸν	_	_	_	_	_	_	Align=unmatched
+8	αἰῶνα	_	_	_	_	_	_	Align=unmatched
+9	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+10	κακοῦ	_	_	_	_	_	_	Align=unmatched
+11	φλὸξ	_	_	_	_	_	_	Align=unmatched
+12	πυρὸς	_	_	_	_	_	_	Align=unmatched
+13	καὶ	_	_	_	_	_	_	Align=unmatched
+14	ὀργὴ	_	_	_	_	_	_	Align=unmatched
+15	ἀδίκων	_	_	_	_	_	_	Align=unmatched
+16	οὐχ	_	_	_	_	_	_	Align=unmatched
+17	ἅψεται	_	_	_	_	_	_	Align=unmatched
+18	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:7
+
+# ref = PSS.15.7
+1	ὅταν	_	_	_	_	_	_	Align=unmatched
+2	ἐξέλθῃ	_	_	_	_	_	_	Align=unmatched
+3	ἐφ᾽	_	_	_	_	_	_	Align=unmatched
+4	ἁμαρτωλοὺς	_	_	_	_	_	_	Align=unmatched
+5	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+6	προσώπου	_	_	_	_	_	_	Align=unmatched
+7	Κυρίου	_	_	_	_	_	_	Align=unmatched
+8	ὀλεθρεῦσαι	_	_	_	_	_	_	Align=unmatched
+9	πᾶσαν	_	_	_	_	_	_	Align=unmatched
+10	ὑπόστασιν	_	_	_	_	_	_	Align=unmatched
+11	ἁμαρτωλῶν	_	_	_	_	_	_	Align=unmatched,source_extra:14
+
+# ref = PSS.15.8
+1	ὅτι	_	_	_	_	_	_	Align=unmatched
+2	τὸ	_	_	_	_	_	_	Align=unmatched
+3	σημεῖον	_	_	_	_	_	_	Align=unmatched
+4	τοῦ	_	_	_	_	_	_	Align=unmatched
+5	θεοῦ	_	_	_	_	_	_	Align=unmatched
+6	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+7	δικαίους	_	_	_	_	_	_	Align=unmatched
+8	εἰς	_	_	_	_	_	_	Align=unmatched
+9	σωτηρίαν	_	_	_	_	_	_	Align=unmatched
+10	λιμὸς	_	_	_	_	_	_	Align=unmatched
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	ῥομφαία	καταλαμβάνω	_	_	_	_	_	Strong=G2638|Align=positional
+13	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+14	θάνατος	_	_	_	_	_	_	Align=unmatched
+15	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+16	δικαίων	_	_	_	_	_	_	Align=unmatched
+17	μακράν	_	_	_	_	_	_	Align=unmatched,source_extra:11
+
+# ref = PSS.15.9
+1	φεύξονται	_	_	_	_	_	_	Align=unmatched
+2	γὰρ	_	_	_	_	_	_	Align=unmatched
+3	ὡς	_	_	_	_	_	_	Align=unmatched
+4	διωκόμενοι	_	_	_	_	_	_	Align=unmatched
+5	πολέμου	_	_	_	_	_	_	Align=unmatched
+6	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+7	ὁσίων	_	_	_	_	_	_	Align=unmatched
+8	καταδιώξονται	_	_	_	_	_	_	Align=unmatched
+9	δὲ	_	_	_	_	_	_	Align=unmatched
+10	ἁμαρτωλοὺς	_	_	_	_	_	_	Align=unmatched
+11	καὶ	_	_	_	_	_	_	Align=unmatched
+12	καταλήψονται	_	_	_	_	_	_	Align=unmatched
+13	καὶ	_	_	_	_	_	_	Align=unmatched
+14	οὐκ	_	_	_	_	_	_	Align=unmatched
+15	ἐκφεύξονται	_	_	_	_	_	_	Align=unmatched
+16	οἱ	_	_	_	_	_	_	Align=unmatched
+17	ποιοῦντες	_	_	_	_	_	_	Align=unmatched
+18	ἀνομίαν	_	_	_	_	_	_	Align=unmatched
+19	τὸ	_	_	_	_	_	_	Align=unmatched
+20	κρίμα	_	_	_	_	_	_	Align=unmatched
+21	Κυρίου	_	_	_	_	_	_	Align=unmatched
+22	ὡς	ὥς	_	_	_	_	_	Align=exact
+23	ὑπὸ	ὑπό	_	_	_	_	_	Strong=G5259|Align=exact
+24	πολεμίων	_	_	_	_	_	_	Align=unmatched
+25	ἐμπείρων	_	_	_	_	_	_	Align=unmatched
+26	καταλημφθήσονται	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = PSS.15.10
+1	τὸ	_	_	_	_	_	_	Align=unmatched
+2	γὰρ	_	_	_	_	_	_	Align=unmatched
+3	σημεῖον	_	_	_	_	_	_	Align=unmatched
+4	τῆς	_	_	_	_	_	_	Align=unmatched
+5	ἀπωλείας	_	_	_	_	_	_	Align=unmatched
+6	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+7	τοῦ	_	_	_	_	_	_	Align=unmatched
+8	μετώπου	_	_	_	_	_	_	Align=unmatched
+9	αὐτῶν	_	_	_	_	_	_	Align=unmatched,source_extra:17
+
+# ref = PSS.15.11
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	ἡ	_	_	_	_	_	_	Align=unmatched
+3	κληρονομία	κληρονομία	_	_	_	_	_	Strong=G2817|Align=exact
+4	τῶν	_	_	_	_	_	_	Align=unmatched
+5	ἁμαρτωλῶν	_	_	_	_	_	_	Align=unmatched
+6	ἀπώλεια	_	_	_	_	_	_	Align=unmatched
+7	καὶ	_	_	_	_	_	_	Align=unmatched
+8	σκότος	_	_	_	_	_	_	Align=unmatched
+9	καὶ	_	_	_	_	_	_	Align=unmatched
+10	ἀνομίαι	_	_	_	_	_	_	Align=unmatched
+11	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+12	διώξονται	_	_	_	_	_	_	Align=unmatched
+13	αὐτοὺς	_	_	_	_	_	_	Align=unmatched
+14	ἕως	_	_	_	_	_	_	Align=unmatched
+15	ᾅδου	_	_	_	_	_	_	Align=unmatched
+16	κάτω	_	_	_	_	_	_	Align=unmatched,source_extra:13
+
+# ref = PSS.15.12
+1	ἡ	_	_	_	_	_	_	Align=unmatched
+2	κληρονομία	_	_	_	_	_	_	Align=unmatched
+3	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+4	οὐχ	_	_	_	_	_	_	Align=unmatched
+5	εὑρεθήσεται	_	_	_	_	_	_	Align=unmatched
+6	τοῖς	_	_	_	_	_	_	Align=unmatched
+7	τέκνοις	_	_	_	_	_	_	Align=unmatched
+8	αὐτῶν	_	_	_	_	_	_	Align=unmatched,source_extra:19
+
+# ref = PSS.15.13
+1	αἱ	_	_	_	_	_	_	Align=unmatched
+2	γὰρ	_	_	_	_	_	_	Align=unmatched
+3	ἁμαρτίαι	_	_	_	_	_	_	Align=unmatched
+4	ἐξερημώσουσιν	_	_	_	_	_	_	Align=unmatched
+5	οἴκους	_	_	_	_	_	_	Align=unmatched
+6	ἁμαρτωλῶν	_	_	_	_	_	_	Align=unmatched
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	ἀπολοῦνται	_	_	_	_	_	_	Align=unmatched
+9	ἁμαρτωλοὶ	_	_	_	_	_	_	Align=unmatched
+10	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+11	ἡμέρᾳ	_	_	_	_	_	_	Align=unmatched
+12	κρίσεως	_	_	_	_	_	_	Align=unmatched
+13	Κυρίου	_	_	_	_	_	_	Align=unmatched
+14	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+15	τὸν	_	_	_	_	_	_	Align=unmatched
+16	αἰῶνα	_	_	_	_	_	_	Align=unmatched,source_extra:20
+
+# ref = PSS.15.14
+1	ὅταν	_	_	_	_	_	_	Align=unmatched
+2	ἐπισκέπτηται	_	_	_	_	_	_	Align=unmatched
+3	ὁ	_	_	_	_	_	_	Align=unmatched
+4	θεὸς	_	_	_	_	_	_	Align=unmatched
+5	τὴν	_	_	_	_	_	_	Align=unmatched
+6	γῆν	_	_	_	_	_	_	Align=unmatched
+7	ἐν	_	_	_	_	_	_	Align=unmatched
+8	κρίματι	_	_	_	_	_	_	Align=unmatched
+9	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+
+# ref = PSS.15.15
+1	οἱ	_	_	_	_	_	_	Align=unmatched
+2	δὲ	_	_	_	_	_	_	Align=unmatched
+3	φοβούμενοι	_	_	_	_	_	_	Align=unmatched
+4	τὸν	_	_	_	_	_	_	Align=unmatched
+5	κύριον	_	_	_	_	_	_	Align=unmatched
+6	ἐλεηθήσονται	_	_	_	_	_	_	Align=unmatched
+7	ἐν	_	_	_	_	_	_	Align=unmatched
+8	αὐτῇ	_	_	_	_	_	_	Align=unmatched
+9	καὶ	_	_	_	_	_	_	Align=unmatched
+10	ζήσονται	_	_	_	_	_	_	Align=unmatched
+11	ἐν	_	_	_	_	_	_	Align=unmatched
+12	τῇ	_	_	_	_	_	_	Align=unmatched
+13	ἐλεημοσύνῃ	_	_	_	_	_	_	Align=unmatched
+14	τοῦ	_	_	_	_	_	_	Align=unmatched
+15	θεοῦ	_	_	_	_	_	_	Align=unmatched
+16	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+17	καὶ	_	_	_	_	_	_	Align=unmatched
+18	ἁμαρτωλοὶ	_	_	_	_	_	_	Align=unmatched
+19	ἀπολοῦνται	_	_	_	_	_	_	Align=unmatched
+20	εἰς	_	_	_	_	_	_	Align=unmatched
+21	τὸν	_	_	_	_	_	_	Align=unmatched
+22	αἰῶνα	_	_	_	_	_	_	Align=unmatched
+23	χρόνον	_	_	_	_	_	_	Align=unmatched
+

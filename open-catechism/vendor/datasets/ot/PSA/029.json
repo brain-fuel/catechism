@@ -1,0 +1,199 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 29,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Psalmus David, in consummatione tabernaculi.   Afferte Domino, filii Dei,  afferte Domino filios arietum. ",
+      "hebrew_masoretic": "מִזְמ֗וֹר לְדָ֫וִ֥ד הָב֣וּ לַ֭יהֹוָה בְּנֵ֣י אֵלִ֑ים הָב֥וּ לַ֝יהֹוָ֗ה כָּב֥וֹד וָעֹֽז׃",
+      "douay_rheims": "A psalm for David, at the finishing of the tabernacle. Bring to the Lord, O ye children of God: bring to the Lord the offspring of rams.",
+      "finnish_biblia": "Davidin Psalmi. Tuokaat Herralle, te väkevät, tuokaat Herralle kunnia ja väkevyys. ",
+      "swedish_karl_xii": "En Psalm Davidz. Bärer fram HERRANOM i wäldige; bärer fram HERRANOM ähro och starckhet.",
+      "king_james": "Give unto the LORD, O ye mighty, give unto the LORD glory and strength.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "28:1"
+        },
+        "douay_rheims": {
+          "src": "28:1"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " Afferte Domino gloriam et honorem ;  afferte Domino gloriam nomini ejus ;  adorate Dominum in atrio sancto ejus. ",
+      "hebrew_masoretic": "הָב֣וּ לַ֭יהֹוָה כְּב֣וֹד שְׁמ֑וֹ הִשְׁתַּחֲו֥וּ לַ֝יהֹוָ֗ה בְּהַדְרַת־קֹֽדֶשׁ׃",
+      "douay_rheims": "Bring to the Lord glory and honour: bring to the Lord glory to his name: adore ye the Lord in his holy court.",
+      "finnish_biblia": "Tuokaat Herralle hänen nimensä kunnia: kumartakaat Herraa pyhässä kaunistuksessa. ",
+      "swedish_karl_xii": "Bärer fram HERRANOM hans namns ähro; tilbedien HERRAN i heligo prydning.",
+      "king_james": "Give unto the LORD the glory due unto his name; worship the LORD in the beauty of holiness.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "28:2"
+        },
+        "douay_rheims": {
+          "src": "28:2"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Vox Domini super aquas ;  Deus majestatis intonuit :  Dominus super aquas multas. ",
+      "hebrew_masoretic": "ק֥וֹל יְהֹוָ֗ה עַל־הַ֫מָּ֥יִם אֵֽל־הַכָּב֥וֹד הִרְעִ֑ים יְ֝הֹוָ֗ה עַל־מַ֥יִם רַבִּֽים׃",
+      "douay_rheims": "The voice of the Lord is upon the waters; the God of majesty hath thundered, The Lord is upon many waters.",
+      "finnish_biblia": "Herran ääni käy vetten päällä: kunnian Jumala pauhaa, suurten vetten päällä. ",
+      "swedish_karl_xii": "HERRANS röst går på watnen: ährones Gudh dundrar; HERREN på stoor watn.",
+      "king_james": "The voice of the LORD is upon the waters: the God of glory thundereth: the LORD is upon many waters.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "28:3"
+        },
+        "douay_rheims": {
+          "src": "28:3"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Vox Domini in virtute ;  vox Domini in magnificentia. ",
+      "hebrew_masoretic": "קוֹל־יְהֹוָ֥ה בַּכֹּ֑חַ ק֥וֹל יְ֝הֹוָ֗ה בֶּהָדָֽר׃",
+      "douay_rheims": "The voice of the Lord is in power; the voice of the Lord in magnificence.",
+      "finnish_biblia": "Herran ääni käy voimassa: Herran ääni käy suuressa kunniassa. ",
+      "swedish_karl_xii": "HERRANS röst går medh macht: HERRANS röst går härliga.",
+      "king_james": "The voice of the LORD is powerful; the voice of the LORD is full of majesty.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "28:4"
+        },
+        "douay_rheims": {
+          "src": "28:4"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Vox Domini confringentis cedros,  et confringet Dominus cedros Libani : ",
+      "hebrew_masoretic": "ק֣וֹל יְ֭הֹוָה שֹׁבֵ֣ר אֲרָזִ֑ים וַיְשַׁבֵּ֥ר יְ֝הֹוָ֗ה אֶת־אַרְזֵ֥י הַלְּבָנֽוֹן׃",
+      "douay_rheims": "The voice of the Lord breaketh the cedars: yea, the Lord shall break the cedars of Libanus.",
+      "finnish_biblia": "Herran ääni särkee sedripuut, ja Herra särkee sedripuut Libanonissa. ",
+      "swedish_karl_xii": "HERRANS röst sönderbryter cedrer: HERREN sönderbryter cedrer i Libanon.",
+      "king_james": "The voice of the LORD breaketh the cedars; yea, the LORD breaketh the cedars of Lebanon.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "28:5"
+        },
+        "douay_rheims": {
+          "src": "28:5"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " et comminuet eas, tamquam vitulum Libani,  et dilectus quemadmodum filius unicornium. ",
+      "hebrew_masoretic": "וַיַּרְקִידֵ֥ם כְּמוֹ־עֵ֑גֶל לְבָנ֥וֹן וְ֝שִׂרְיֹ֗ן כְּמ֣וֹ בֶן־רְאֵמִֽים׃",
+      "douay_rheims": "And shall reduce them to pieces, as a calf of Libanus, and as the beloved son of unicorns.",
+      "finnish_biblia": "Hän hyppäyttää heitä niinkuin vasikan, sekä Libanonin että Sirionin, niinkuin nuoren yksisarvisen. ",
+      "swedish_karl_xii": "Och låter them springa såsom en kalf; Libanon och Sirion, såsom en vng enhörning.",
+      "king_james": "He maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "28:6"
+        },
+        "douay_rheims": {
+          "src": "28:6"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Vox Domini intercidentis flammam ignis ; ",
+      "hebrew_masoretic": "קוֹל־יְהֹוָ֥ה חֹצֵ֗ב לַהֲב֥וֹת אֵֽשׁ׃",
+      "douay_rheims": "The voice of the Lord divideth the flame of fire:",
+      "finnish_biblia": "Herran ääni leikkaa niinkuin tulen liekki. ",
+      "swedish_karl_xii": "HERRANS röst afhugger såsom en eldzlåge:",
+      "king_james": "The voice of the LORD divideth the flames of fire.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "28:7"
+        },
+        "douay_rheims": {
+          "src": "28:7"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " vox Domini concutientis desertum :  et commovebit Dominus desertum Cades. ",
+      "hebrew_masoretic": "ק֣וֹל יְ֭הֹוָה יָחִ֣יל מִדְבָּ֑ר יָחִ֥יל יְ֝הֹוָ֗ה מִדְבַּ֥ר קָדֵֽשׁ׃",
+      "douay_rheims": "The voice of the Lord shaketh the desert: and the Lord shall shake the desert of Cades.",
+      "finnish_biblia": "Herran ääni häälyttää korven, ja Herra liikuttaa Kadeksen korven. ",
+      "swedish_karl_xii": "HERRANS röst berörer öknena; HERRANS röst berörer öknena Kades.",
+      "king_james": "The voice of the LORD shaketh the wilderness; the LORD shaketh the wilderness of Kadesh.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "28:8"
+        },
+        "douay_rheims": {
+          "src": "28:8"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": " Vox Domini præparantis cervos :  et revelabit condensa,  et in templo ejus omnes dicent gloriam. ",
+      "hebrew_masoretic": "ק֤וֹל יְהֹוָ֨ה ׀ יְחוֹלֵ֣ל אַיָּלוֹת֮ וַֽיֶּחֱשֹׂ֢ף יְעָ֫ר֥וֹת וּבְהֵיכָל֑וֹ כֻּ֝לּ֗וֹ אֹמֵ֥ר כָּבֽוֹד׃",
+      "douay_rheims": "The voice of the Lord prepareth the stags: and he will discover the thick woods: and in his temple all shall speak his glory.",
+      "finnish_biblia": "Herran ääni saattaa peurat poikimaan, ja paljastaa metsät: ja hänen templissänsä pitää koko hänen joukkonsa sanoman hänelle kunnian. ",
+      "swedish_karl_xii": "HERRANS röst berörer hinderna, och blottar skogarna; och i hans tempel skal hwar och en säija honom ähro.",
+      "king_james": "The voice of the LORD maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of his glory.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "28:9"
+        },
+        "douay_rheims": {
+          "src": "28:9"
+        }
+      }
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": " Dominus diluvium inhabitare facit,  et sedebit Dominus rex in æternum. ",
+      "hebrew_masoretic": "יְ֭הֹוָה לַמַּבּ֣וּל יָשָׁ֑ב וַיֵּ֥שֶׁב יְ֝הֹוָ֗ה מֶ֣לֶךְ לְעוֹלָֽם׃",
+      "douay_rheims": "The Lord maketh the flood to dwell: and the Lord shall sit king for ever.",
+      "finnish_biblia": "Herra istuu vedenpaisumisen päällä: Herra pysyy Kuninkaana ijankaikkisesti. ",
+      "swedish_karl_xii": "HERREN sitter til at giöra ena flodh; och HERREN blifwer en Konung i ewighet.",
+      "king_james": "The LORD sitteth upon the flood; yea, the LORD sitteth King for ever.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "28:10"
+        },
+        "douay_rheims": {
+          "src": "28:10"
+        }
+      }
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": " Dominus virtutem populo suo dabit ;  Dominus benedicet populo suo in pace.  ",
+      "hebrew_masoretic": "יְֽהֹוָ֗ה עֹ֭ז לְעַמּ֣וֹ יִתֵּ֑ן יְהֹוָ֓ה ׀ יְבָרֵ֖ךְ אֶת־עַמּ֣וֹ בַשָּׁלֽוֹם׃ {פ}",
+      "douay_rheims": "The Lord will give strength to his people: the Lord will bless his people with peace. ",
+      "finnish_biblia": "Herra antaa kansallensa väkevyyden: Herra siunaa kansaansa rauhalla.   ",
+      "swedish_karl_xii": "HERREN skal gifwa sino folcke kraft: HERREN skal wälsigna sitt folck medh frijd.",
+      "king_james": "The LORD will give strength unto his people; the LORD will bless his people with peace. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "28:11"
+        },
+        "douay_rheims": {
+          "src": "28:11"
+        }
+      }
+    }
+  ]
+}

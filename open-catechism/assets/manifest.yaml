@@ -1,0 +1,16 @@
+assets:
+  - id: art-cover-001
+    file: cover.png
+    role: cover and recurring movement-level illustration
+    creator: OpenAI image generation tool, directed by Open Catechism editors
+    generated: 2026-08-16
+    license: CC BY-SA 4.0
+    alt: Woodcut of open Bible and catechism beside a baptismal shell, wheat, grapes, and cross-shaped window light.
+    caption: Word and Sacrament gathered beneath the light of the cross.
+    reviewed: true
+    grayscale_reviewed: true
+    prompt: >-
+      Original restrained Nordic two-color linocut of an open catechism and Bible
+      on a wooden table, with baptismal shell, wheat, grapes, and cross-shaped
+      church-window light; charcoal and ochre on ivory; no text or watermark.
+

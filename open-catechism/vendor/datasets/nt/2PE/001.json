@@ -1,0 +1,179 @@
+{
+  "book_id": "2PE",
+  "latin_name": "Epistula II Petri",
+  "greek_name": "Πέτρου Β",
+  "finnish_name": "Toinen Pietarin kirje",
+  "swedish_name": "S. Petri Then Andra Epistel",
+  "english_name": "The Second Epistle General of Peter",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Simon Petrus, servus et apostolus Jesu Christi, iis qui coæqualem nobiscum sortiti sunt fidem in justitia Dei nostri, et Salvatoris Jesu Christi.",
+      "greek_textus_receptus": "συμεὼν πέτρος δοῦλος καὶ ἀπόστολος ἰησοῦ χριστοῦ τοῖς ἰσότιμον ἡμῖν λαχοῦσιν πίστιν ἐν δικαιοσύνῃ τοῦ θεοῦ ἡμῶν καὶ σωτῆρος ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Simon Pietari, Jesuksen Kristuksen palvelia ja apostoli, niille, jotka ovat saaneet meidän kanssamme yhdenkaltaisen kalliin uskon vanhurskaudessa, jonka meidän Jumalamme ja Vapahtajamme Jesus Kristus antaa: ",
+      "swedish_karl_xii": "Sjmon Petrus, Jesu Christi tienare och Apostel: them som medh oß lika dyrbara troo fått hafwa, i rättferdighetene som wår Gudh gifwer, och Frälsaren Jesus Christus:",
+      "king_james": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Gratia vobis, et pax adimpleatur in cognitione Dei, et Christi Jesu Domini nostri:",
+      "greek_textus_receptus": "χάρις ὑμῖν καὶ εἰρήνη πληθυνθείη ἐν ἐπιγνώσει τοῦ θεοῦ καὶ ἰησοῦ τοῦ κυρίου ἡμῶν",
+      "finnish_biblia": "Armo ja rauha lisääntyköön teille, Jumalan ja meidän Herran Jesuksen Kristuksen tuntemisen kautta! ",
+      "swedish_karl_xii": "Nådh och frijd föröke sigh i eder, genom Gudz och wårs Herras Jesu Christi kundskap.",
+      "king_james": "Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Quomodo omnia nobis divinæ virtutis suæ, quæ ad vitam et pietatem donata sunt, per cognitionem ejus, qui vocavit nos propria gloria, et virtute,",
+      "greek_textus_receptus": "ὡς πάντα ἡμῖν τῆς θείας δυνάμεως αὐτοῦ τὰ πρὸς ζωὴν καὶ εὐσέβειαν δεδωρημένης διὰ τῆς ἐπιγνώσεως τοῦ καλέσαντος ἡμᾶς διὰ δόξης καὶ ἀρετῆς",
+      "finnish_biblia": "Että hänen jumalallinen voimansa meille kaikkinaiset (jotka elämään ja jumaliseen menoon sopivat) on lahjoittanut hänen tuntemisensa kautta, joka meitä kunniaan ja avuun kutsunut on, ",
+      "swedish_karl_xii": "Efter thet allahanda af hans Gudoms kraft, hwad som til lijf och gudachtighet tienar, oß skänckt är, genom hans kundskap, som oß hafwer kallat genom (sina) härlighet och dygd:",
+      "king_james": "According as his divine power hath given unto us all things that *pertain* unto life and godliness, through the knowledge of him that hath called us to glory and virtue:"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "per quem maxima, et pretiosa nobis promissa donavit: ut per hæc efficiamini divinæ consortes naturæ: fugientes ejus, quæ in mundo est, concupiscentiæ corruptionem.",
+      "greek_textus_receptus": "δι᾽ ὧν τὰ μέγιστα ἡμῖν καὶ τίμια ἐπαγγέλματα δεδώρηται ἵνα διὰ τούτων γένησθε θείας κοινωνοὶ φύσεως ἀποφυγόντες τῆς ἐν κόσμῳ ἐν ἐπιθυμίᾳ φθορᾶς",
+      "finnish_biblia": "Joidenka kautta meille ne suurimmat ja kalliit lupaukset lahjoitetut ovat, että te niiden kautta Jumalan luonnosta osalliseksi tulisitte, jos te katoovaisen maailman himon vältätte. ",
+      "swedish_karl_xii": "Genom hwilka oß the dyra och alrastörsta löfte gifne äro; nemliga, at J ther igenom mågen blifwa deelachtige af Gudz natur, om J flyn werldenes förgängeliga lusta.",
+      "king_james": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Vos autem curam omnem subinferentes, ministrate in fide vestra virtutem, in virtute autem scientiam,",
+      "greek_textus_receptus": "καὶ αὐτὸ τοῦτο δὲ σπουδὴν πᾶσαν παρεισενέγκαντες ἐπιχορηγήσατε ἐν τῇ πίστει ὑμῶν τὴν ἀρετήν ἐν δὲ τῇ ἀρετῇ τὴν γνῶσιν",
+      "finnish_biblia": "Niin ahkeroitkaat kaikella vireydellä teidän uskonne avua osoittamaan, ja avussa tointa, ",
+      "swedish_karl_xii": "Så lägger eder nu ther om alla winning, at J vthi edra troo låten finnas dygd, och i dygdene beskedelighet:",
+      "king_james": "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "in scientia autem abstinentiam, in abstinentia autem patientiam, in patientia autem pietatem,",
+      "greek_textus_receptus": "ἐν δὲ τῇ γνώσει τὴν ἐγκράτειαν ἐν δὲ τῇ ἐγκρατείᾳ τὴν ὑπομονήν ἐν δὲ τῇ ὑπομονῇ τὴν εὐσέβειαν",
+      "finnish_biblia": "Ja toimessa kohtuullisuutta, ja kohtuullisuudessa kärsivällisyyttä, ja kärsivällisyydessä jumalisuutta, ",
+      "swedish_karl_xii": "J beskedelighetene måttelighet, i måttelighetene tolamod, i tolamodet gudachtighet:",
+      "king_james": "And to knowledge temperance; and to temperance patience; and to patience godliness;"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "in pietate autem amorem fraternitatis, in amore autem fraternitatis caritatem.",
+      "greek_textus_receptus": "ἐν δὲ τῇ εὐσεβείᾳ τὴν φιλαδελφίαν ἐν δὲ τῇ φιλαδελφίᾳ τὴν ἀγάπην",
+      "finnish_biblia": "Ja jumalisuudessa veljellistä rakkautta, ja veljellisessä rakkaudessa yhteistä rakkautta. ",
+      "swedish_karl_xii": "J gudachtighetene broderlig kärlek, i broderlig kärlek almännelig kärlek.",
+      "king_james": "And to godliness brotherly kindness; and to brotherly kindness charity."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Hæc enim si vobiscum adsint, et superent, non vacuos nec sine fructu vos constituent in Domini nostri Jesu Christi cognitione.",
+      "greek_textus_receptus": "ταῦτα γὰρ ὑμῖν ὑπάρχοντα καὶ πλεονάζοντα οὐκ ἀργοὺς οὐδὲ ἀκάρπους καθίστησιν εἰς τὴν τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ ἐπίγνωσιν",
+      "finnish_biblia": "Sillä koska nämät täydellisesti teissä ovat, niin ei he teitä salli löydettää joutilaina eli hedelmättöminä meidän Herran Jesuksen Kristuksen tuntemisessa. ",
+      "swedish_karl_xii": "Ty när thessa stycker äro rikeliga när eder, så låta the eder icke finnas fåfänga, eller vthan frucht i wårs Herras Jesu Christi kundskap.",
+      "king_james": "For if these things be in you, and abound, they make *you that ye shall* neither *be* barren nor unfruitful in the knowledge of our Lord Jesus Christ."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Cui enim non præsto sunt hæc, cæcus est, et manu tentans, oblivionem accipiens purgationis veterum suorum delictorum.",
+      "greek_textus_receptus": "ᾧ γὰρ μὴ πάρεστιν ταῦτα τυφλός ἐστιν μυωπάζων λήθην λαβὼν τοῦ καθαρισμοῦ τῶν πάλαι αὐτοῦ ἁμαρτιῶν",
+      "finnish_biblia": "Mutta jolla ei näitä ole, hän on sokia, ja ei näe mitään kaukaa, ja on unohtanut itsensä olleen puhdistetun entisistä synneistänsä. ",
+      "swedish_karl_xii": "Men hwilken thenna icke hafwer, han är blind, och seer intet, och hafwer förgätet, at han war reen giord af the synder som han förra hade.",
+      "king_james": "But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Quapropter fratres, magis satagite ut per bona opera certam vestram vocationem, et electionem faciatis: hæc enim facientes, non peccabitis aliquando.",
+      "greek_textus_receptus": "διὸ μᾶλλον ἀδελφοί σπουδάσατε βεβαίαν ὑμῶν τὴν κλῆσιν καὶ ἐκλογὴν ποιεῖσθαι ταῦτα γὰρ ποιοῦντες οὐ μὴ πταίσητέ ποτε",
+      "finnish_biblia": "Sentähden, rakkaat veljet, ahkeroitkaat paremmin sitä, että te teidän kutsumisenne ja valitsemisenne vahvistaisitte; sillä jos te sen teette, niin ette suinkaan koskaan kompastu. ",
+      "swedish_karl_xii": "Therföre, käre bröder, lägger eder hällre winning om, at J giören edor kallelse och vthkorelse fast: ty om J thet giören, så fallen J icke någon tijd.",
+      "king_james": "Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Sic enim abundanter ministrabitur vobis introitus in æternum regnum Domini nostri et Salvatoris Jesu Christi.",
+      "greek_textus_receptus": "οὕτως γὰρ πλουσίως ἐπιχορηγηθήσεται ὑμῖν ἡ εἴσοδος εἰς τὴν αἰώνιον βασιλείαν τοῦ κυρίου ἡμῶν καὶ σωτῆρος ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Sillä teidän sallitaan alttiisti käydä sisälle meidän Herran ja Vapahtajan Jesuksen Kristuksen ijankaikkiseen valtakuntaan. ",
+      "swedish_karl_xii": "Ty i så måtto blifwer eder rikeliga gifwen ingången i wårs Herras och Frälsares Jesu Christi ewiga rike.",
+      "king_james": "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Propter quod incipiam vos semper commonere de his: et quidem scientes et confirmatos vos in præsenti veritate.",
+      "greek_textus_receptus": "διὸ οὐκ ἀμελήσω ὑμᾶς ἀεὶ ὑπομιμνῄσκειν περὶ τούτων καίπερ εἰδότας καὶ ἐστηριγμένους ἐν τῇ παρούσῃ ἀληθείᾳ",
+      "finnish_biblia": "Sentähden en minä tahdo unohtaa teille aina näistä muistuttaa, vaikka te tiedätte ja vahvistetut olette tässä nykyisessä totuudessa. ",
+      "swedish_karl_xii": "Therföre wil jagh icke hafwa fördragh, at förmana eder altid här om, ändoch J thet weten, och ären stadfäste i thenna närwarandes sanning.",
+      "king_james": "Wherefore I will not be negligent to put you always in remembrance of these things, though ye know *them*, and be established in the present truth."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Justum autem arbitror quamdiu sum in hoc tabernaculo, suscitare vos in commonitione:",
+      "greek_textus_receptus": "δίκαιον δὲ ἡγοῦμαι ἐφ᾽ ὅσον εἰμὶ ἐν τούτῳ τῷ σκηνώματι διεγείρειν ὑμᾶς ἐν ὑπομνήσει",
+      "finnish_biblia": "Sillä minä arvaan sen kohtuulliseksi, niinkauvan kuin minä tässä majassa olen, herättää teitä ja muistuttaa teille; ",
+      "swedish_karl_xii": "Ty jagh menar thet wara tilbörligit, så länge jagh är i thenna hyddo, at vpwäckia och förmana eder.",
+      "king_james": "Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting *you* in remembrance;"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "certus quod velox est depositio tabernaculi mei secundum quod et Dominus noster Jesus Christus significavit mihi.",
+      "greek_textus_receptus": "εἰδὼς ὅτι ταχινή ἐστιν ἡ ἀπόθεσις τοῦ σκηνώματός μου καθὼς καὶ ὁ κύριος ἡμῶν ἰησοῦς χριστὸς ἐδήλωσέν μοι",
+      "finnish_biblia": "Sillä minä tiedän, että minun pitää pian tämän minun majani paneman pois, niinkuin meidän Herra Jesus Kristus minulle ilmoitti. ",
+      "swedish_karl_xii": "Ty jagh weet, at jagh skal snarliga afläggia thenna mina hyddo, såsom ock wår Herre Jesus Christus hafwer migh kungiordt.",
+      "king_james": "Knowing that shortly I must put off *this* my tabernacle, even as our Lord Jesus Christ hath shewed me."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Dabo autem operam et frequenter habere vos post obitum meum, ut horum memoriam faciatis.",
+      "greek_textus_receptus": "σπουδάσω δὲ καὶ ἑκάστοτε ἔχειν ὑμᾶς μετὰ τὴν ἐμὴν ἔξοδον τὴν τούτων μνήμην ποιεῖσθαι",
+      "finnish_biblia": "Mutta minä tahdon myös aina ahkeroida, että te nämät minun lähtemiseni jälkeen muistossa pidätte. ",
+      "swedish_karl_xii": "Men jagh wil winläggia migh, at J efter min dödh skolen behålla thetta i åminnelse.",
+      "king_james": "Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Non enim doctas fabulas secuto notam fecimus vobis Domini nostri Jesu Christi virtutem et præsentiam: sed speculatores facti illius magnitudinis.",
+      "greek_textus_receptus": "οὐ γὰρ σεσοφισμένοις μύθοις ἐξακολουθήσαντες ἐγνωρίσαμεν ὑμῖν τὴν τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ δύναμιν καὶ παρουσίαν ἀλλ᾽ ἐπόπται γενηθέντες τῆς ἐκείνου μεγαλειότητος",
+      "finnish_biblia": "Sillä emmepä me ole kavaloita juttuja noudatelleet, teille tiettäväksi tehdessämme meidän Herran Jesuksen Kristuksen voimaa ja tulemista; vaan me olemme itse nähneet hänen suuren kunniansa, ",
+      "swedish_karl_xii": "Ty wij hafwe icke efterfölgdt några kloka fabler, tå wij kungiordom eder wårs Herras Jesu Christi kraft och tilkommelse: vtan wij hafwe sielfwe sedt hans härlighet:",
+      "king_james": "For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Accipiens enim a Deo Patre honorem et gloriam, voce delapsa ad eum hujuscemodi a magnifica gloria: Hic est Filius meus dilectus, in quo mihi complacui, ipsum audite.",
+      "greek_textus_receptus": "λαβὼν γὰρ παρὰ θεοῦ πατρὸς τιμὴν καὶ δόξαν φωνῆς ἐνεχθείσης αὐτῷ τοιᾶσδε ὑπὸ τῆς μεγαλοπρεποῦς δόξης οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός εἰς ὃν ἐγὼ εὐδόκησα",
+      "finnish_biblia": "Kuin hän Isältä Jumalalta sai kunnian ja ylistyksen, äänen kautta, joka hänelle näin siltä suurelta kunnialta tapahtui: tämä on minun rakas Poikani, johon minä mielistyin. ",
+      "swedish_karl_xii": "Tå han fick af Gudh Fader ähro och prijs, genom ena röst som til honom skedde af then stora härligheten, så lydandes: Thenne är min älskelige Son, i hwilkom jagh hafwer ett godt behagh.",
+      "king_james": "For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Et hanc vocem nos audivimus de cælo allatam, cum essemus cum ipso in monte sancto.",
+      "greek_textus_receptus": "καὶ ταύτην τὴν φωνὴν ἡμεῖς ἠκούσαμεν ἐξ οὐρανοῦ ἐνεχθεῖσαν σὺν αὐτῷ ὄντες ἐν τῷ ὄρει τῷ ἁγίῳ",
+      "finnish_biblia": "Ja tämän äänen me kuulimme tulevan taivaasta, kuin me pyhällä vuorella hänen kanssansa olimme. ",
+      "swedish_karl_xii": "Och thenna röst hörde wij komma af himmelen, tå wij worom medh honom på thet helga berget.",
+      "king_james": "And this voice which came from heaven we heard, when we were with him in the holy mount."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Et habemus firmiorem propheticum sermonem: cui benefacitis attendentes quasi lucernæ lucenti in caliginoso donec dies elucescat, et lucifer oriatur in cordibus vestris:",
+      "greek_textus_receptus": "καὶ ἔχομεν βεβαιότερον τὸν προφητικὸν λόγον ᾧ καλῶς ποιεῖτε προσέχοντες ὡς λύχνῳ φαίνοντι ἐν αὐχμηρῷ τόπῳ ἕως οὗ ἡμέρα διαυγάσῃ καὶ φωσφόρος ἀνατείλῃ ἐν ταῖς καρδίαις ὑμῶν",
+      "finnish_biblia": "Ja meillä on vahva prophetallinen sana, ja te teette hyvin, että te siitä vaarin otatte niinkuin kynttilästä, joka pimeässä valistaa, niinkauvan kuin päivä valkenee ja kointähti koittaa teidän sydämissänne. ",
+      "swedish_karl_xii": "Wjj hafwom ett fast prophetiskt ord; och J giören wäl at J achten ther på, lika som på ett lius som skijn vthi ett mörkt rum, så länge thet dagas, och morgonstiernan vpgår i edor hierta.",
+      "king_james": "We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "hoc primum intelligentes quod omnis prophetia Scripturæ propria interpretatione non fit.",
+      "greek_textus_receptus": "τοῦτο πρῶτον γινώσκοντες ὅτι πᾶσα προφητεία γραφῆς ἰδίας ἐπιλύσεως οὐ γίνεται",
+      "finnish_biblia": "Ja se tulee teidän ensin tietää, ettei yksikään prophetia Raamatussa tapahdu omasta selityksestä. ",
+      "swedish_karl_xii": "Och thet skolen J först weta, at ingen prophetia i Skriftene skeer af egen vthläggning.",
+      "king_james": "Knowing this first, that no prophecy of the scripture is of any private interpretation."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Non enim voluntate humana allata est aliquando prophetia: sed Spiritu Sancto inspirati, locuti sunt sancti Dei homines.",
+      "greek_textus_receptus": "οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη ποτέ προφητεία ἀλλ᾽ ὑπὸ πνεύματος ἁγίου φερόμενοι ἐλάλησαν οἱ ἅγιοι θεοῦ ἄνθρωποι",
+      "finnish_biblia": "Sillä ei yksikään prophetia ole vielä ihmisen tahdosta tuotu edes; vaan pyhät Jumalan ihmiset ovat puhuneet, vaikutetut Pyhältä Hengeltä.   ",
+      "swedish_karl_xii": "Ty ingen prophetie är ännu framkommen af menniskio wilja: vtan the helga Gudz menniskior hafwa talat, rörde af them Helga Anda.",
+      "king_james": "For the prophecy came not in old time by the will of man: but holy men of God spake *as they were* moved by the Holy Ghost."
+    }
+  ]
+}

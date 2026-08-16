@@ -1,0 +1,259 @@
+{
+  "book_id": "1CO",
+  "latin_name": "Epistula I ad Corinthios",
+  "greek_name": "Πρὸς Κορινθίους Α",
+  "finnish_name": "Ensimmäinen kirje korinttilaisille",
+  "swedish_name": "S. Pauli Epistel then förra Til the Corinther",
+  "english_name": "The First Epistle of Paul the Apostle to the Corinthians",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "De spiritualibus autem, nolo vos ignorare fratres.",
+      "greek_textus_receptus": "περὶ δὲ τῶν πνευματικῶν ἀδελφοί οὐ θέλω ὑμᾶς ἀγνοεῖν",
+      "finnish_biblia": "Mutta hengellisistä lahjoista, rakkaat veljet, en minä tahdo teiltä salata. ",
+      "swedish_karl_xii": "Om the andeliga gåfwor, wil jagh, käre bröder, icke fördölja eder.",
+      "king_james": "Now concerning spiritual *gifts*, brethren, I would not have you ignorant."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Scitis quoniam cum gentes essetis, ad simulacra muta prout ducebamini euntes.",
+      "greek_textus_receptus": "οἴδατε ὅτι ἔθνη ἦτε πρὸς τὰ εἴδωλα τὰ ἄφωνα ὡς ἂν ἤγεσθε ἀπαγόμενοι",
+      "finnish_biblia": "Te tiedätte, että te olette pakanat olleet ja käyneet mykkäin epäjumalain tykö, niinkuin te viedyt olitte. ",
+      "swedish_karl_xii": "J weten, at J hafwen warit Hedningar, och gått til the stumma afgudar, efter som J förförde woren.",
+      "king_james": "Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Ideo notum vobis facio, quod nemo in Spiritu Dei loquens, dicit anathema Jesu. Et nemo potest dicere, Dominus Jesus, nisi in Spiritu Sancto.",
+      "greek_textus_receptus": "διὸ γνωρίζω ὑμῖν ὅτι οὐδεὶς ἐν πνεύματι θεοῦ λαλῶν λέγει ἀνάθεμα ἰησοῦν, καὶ οὐδεὶς δύναται εἰπεῖν κύριον ἰησοῦν, εἰ μὴ ἐν πνεύματι ἁγίῳ",
+      "finnish_biblia": "Sentähden teen minä teille tiettäväksi, ettei yksikään, joka Jumalan Hengen kautta puhuu, Jesusta kiroile: ja ei yksikään taida Jesusta kutsua Herraksi, vaan Pyhän Hengen kautta. ",
+      "swedish_karl_xii": "Therföre giör jagh eder wetterligit, at ingen förbannar Jesum, som genom Gudz Anda talar: och ingen kan kalla Jesum en Herra, vtan genom then Helga Anda.",
+      "king_james": "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and *that* no man can say that Jesus is the Lord, but by the Holy Ghost."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Divisiones vero gratiarum sunt, idem autem Spiritus:",
+      "greek_textus_receptus": "διαιρέσεις δὲ χαρισμάτων εἰσίν τὸ δὲ αὐτὸ πνεῦμα",
+      "finnish_biblia": "Lahjat ovat moninaiset, mutta yksi on Henki; ",
+      "swedish_karl_xii": "Gåfworna äro mångahanda; men Anden är en.",
+      "king_james": "Now there are diversities of gifts, but the same Spirit."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "et divisiones ministrationum sunt, idem autem Dominus:",
+      "greek_textus_receptus": "καὶ διαιρέσεις διακονιῶν εἰσιν καὶ ὁ αὐτὸς κύριος",
+      "finnish_biblia": "Ja virat ovat moninaiset, mutta yksi on Herra. ",
+      "swedish_karl_xii": "Och ämbeten äro mångahanda; men Herren är en.",
+      "king_james": "And there are differences of administrations, but the same Lord."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "et divisiones operationum sunt, idem vero Deus qui operatur omnia in omnibus.",
+      "greek_textus_receptus": "καὶ διαιρέσεις ἐνεργημάτων εἰσίν ὁ δὲ αὐτός ἐστιν θεός ὁ ἐνεργῶν τὰ πάντα ἐν πᾶσιν",
+      "finnish_biblia": "Ja voimat ovat moninaiset, mutta yksi on Jumala, joka kaikki kaikissa vaikuttaa. ",
+      "swedish_karl_xii": "Och krafterna äro mångahanda; men Gudh är en, som alt werckar i allom.",
+      "king_james": "And there are diversities of operations, but it is the same God which worketh all in all."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Unicuique autem datur manifestatio Spiritus ad utilitatem.",
+      "greek_textus_receptus": "ἑκάστῳ δὲ δίδοται ἡ φανέρωσις τοῦ πνεύματος πρὸς τὸ συμφέρον",
+      "finnish_biblia": "Mutta jokaiselle annetaan Hengen ilmoitus hyödytykseksi. ",
+      "swedish_karl_xii": "Vthi hwarjom och enom bewisa sigh Andans gåfwor til gagns.",
+      "king_james": "But the manifestation of the Spirit is given to every man to profit withal."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Alii quidem per Spiritum datur sermo sapientiæ: alii autem sermo scientiæ secundum eumdem Spiritum:",
+      "greek_textus_receptus": "ᾧ μὲν γὰρ διὰ τοῦ πνεύματος δίδοται λόγος σοφίας ἄλλῳ δὲ λόγος γνώσεως κατὰ τὸ αὐτὸ πνεῦμα",
+      "finnish_biblia": "Sillä yhdelle annetaan Hengen kautta puhua viisaudesta, toiselle puhua tiedosta, sen yhden Hengen kautta: ",
+      "swedish_karl_xii": "Them ena warder gifwit af Andanom tala om wijsdom: them andra tala om förstånd, af samma Andanom.",
+      "king_james": "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "alteri fides in eodem Spiritu: alii gratia sanitatum in uno Spiritu:",
+      "greek_textus_receptus": "ἑτέρῳ δὲ πίστις ἐν τῷ αὐτῷ πνεύματι ἄλλῳ δὲ χαρίσματα ἰαμάτων ἐν τῷ αὐτῷ πνεύματι",
+      "finnish_biblia": "Mutta toiselle usko siitä yhdestä Hengestä: toiselle lahjat terveeksi tehdä siinä yhdessä Hengessä: ",
+      "swedish_karl_xii": "Enom androm troon, af samma Andanom: enom androm helbregda gåfwa, af samma Andanom.",
+      "king_james": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "alii operatio virtutum, alii prophetia, alii discretio spirituum, alii genera linguarum, alii interpretatio sermonum.",
+      "greek_textus_receptus": "ἄλλῳ δὲ ἐνεργήματα δυνάμεων ἄλλῳ δὲ προφητεία ἄλλῳ δὲ διακρίσεις πνευμάτων ἑτέρῳ δὲ γένη γλωσσῶν ἄλλῳ δὲ ἑρμηνεία γλωσσῶν",
+      "finnish_biblia": "Toiselle voimallisia töitä tehdä, toiselle ennustus, toiselle henget eroittaa, toiselle moninaiset kielet, toiselle moninaisten kielten selitys. ",
+      "swedish_karl_xii": "Enom androm vnderlig ting giöra: enom androm prophetia: enom androm åthskilja andar: enom androm mångahanda tungomål: enom androm tungomåls vthtydelse.",
+      "king_james": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another *divers* kinds of tongues; to another the interpretation of tongues:"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Hæc autem omnia operantur unus atque idem Spiritus, dividens singulis prout vult.",
+      "greek_textus_receptus": "πάντα δὲ ταῦτα ἐνεργεῖ τὸ ἓν καὶ τὸ αὐτὸ πνεῦμα διαιροῦν ἰδίᾳ ἑκάστῳ καθὼς βούλεται",
+      "finnish_biblia": "Mutta nämät kaikki se yksi Henki vaikuttaa, jakaen kullekin omansa niinkuin hän tahtoo. ",
+      "swedish_karl_xii": "Men alt thetta werckar then samme ene Anden, delandes hwarjom sitt, såsom honom täckes.",
+      "king_james": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Sicut enim corpus unum est, et membra habet multa, omnia autem membra corporis cum sint multa, unum tamen corpus sunt: ita et Christus.",
+      "greek_textus_receptus": "καθάπερ γὰρ τὸ σῶμα ἕν ἐστιν καὶ μέλη ἔχει πολλὰ πάντα δὲ τὰ μέλη τοῦ σώματος τοῦ ἑνός, πολλὰ ὄντα ἕν ἐστιν σῶμα οὕτως καὶ ὁ χριστός",
+      "finnish_biblia": "Sillä niinkuin ruumis on yksi, ja hänellä on monta jäsentä, mutta kaikki ruumiin jäsenet, ehkä heitä on usia, ovat kuitenkin yksi ruumis; niin on myös Kristus. ",
+      "swedish_karl_xii": "Ty såsom en lekamen är, och hafwer doch många lemmar; men alle lemmar af en lekamen, ändoch the äro månge, äro the doch en lekamen: sammalunda ock Christus.",
+      "king_james": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also *is* Christ."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Etenim in uno Spiritu omnes nos in unum corpus baptizati sumus, sive Judæi, sive gentiles, sive servi, sive liberi: et omnes in uno Spiritu potati sumus.",
+      "greek_textus_receptus": "καὶ γὰρ ἐν ἑνὶ πνεύματι ἡμεῖς πάντες εἰς ἓν σῶμα ἐβαπτίσθημεν εἴτε ἰουδαῖοι εἴτε ἕλληνες εἴτε δοῦλοι εἴτε ἐλεύθεροι καὶ πάντες εἰς ἓν πνεῦμα ἐποτίσθημεν",
+      "finnish_biblia": "Sillä me olemme myös yhdessä Hengessä kaikki yhdeksi ruumiiksi kastetut, sekä Juudalaiset että Grekiläiset, sekä orjat että vapaat, ja kaikki me olemme yhteen Henkeen juotetut. ",
+      "swedish_karl_xii": "Ty wij äre vthi enom Anda alle döpte til en lekamen, ehwad wij äre Judar eller Greker, tienare, eller frije; och hafwe alle drucket til en Anda.",
+      "king_james": "For by one Spirit are we all baptized into one body, whether *we be* Jews or Gentiles, whether *we be* bond or free; and have been all made to drink into one Spirit."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Nam et corpus non est unum membrum, sed multa.",
+      "greek_textus_receptus": "καὶ γὰρ τὸ σῶμα οὐκ ἔστιν ἓν μέλος ἀλλὰ πολλά",
+      "finnish_biblia": "Sillä ei ruumis ole yksi jäsen, vaan usia. ",
+      "swedish_karl_xii": "Ty lekamen är icke en lem, vtan månge.",
+      "king_james": "For the body is not one member, but many."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Si dixerit pes: Quoniam non sum manus, non sum de corpore: num ideo non est de corpore?",
+      "greek_textus_receptus": "ἐὰν εἴπῃ ὁ πούς ὅτι οὐκ εἰμὶ χείρ οὐκ εἰμὶ ἐκ τοῦ σώματος οὐ παρὰ τοῦτο οὐκ ἔστιν ἐκ τοῦ σώματος",
+      "finnish_biblia": "Jos jalka sanois: en minä ole käsi, sentähden en minä ole ruumiista: eikö hän senvuoksi ole ruumiista? ",
+      "swedish_karl_xii": "När nu foten wille säija: Jagh är icke hand: therföre är jagh icke af lekamenom; skulle han förthenskul icke wara af lekamenom?",
+      "king_james": "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Et si dixerit auris: Quoniam non sum oculus, non sum de corpore: num ideo est de corpore?",
+      "greek_textus_receptus": "καὶ ἐὰν εἴπῃ τὸ οὖς ὅτι οὐκ εἰμὶ ὀφθαλμός οὐκ εἰμὶ ἐκ τοῦ σώματος οὐ παρὰ τοῦτο οὐκ ἔστιν ἐκ τοῦ σώματος",
+      "finnish_biblia": "Ja jos korva sanois: en minä ole silmä, sentähden en minä ole ruumiista: eikö hän senvuoksi ruumiista ole? ",
+      "swedish_karl_xii": "Och om örat wille säija: Jagh är icke öga: therföre är jagh icke af lekamenom; skulle thet förthenskul icke wara af lekamenom?",
+      "king_james": "And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Si totum corpus oculus: ubi auditus? Si totum auditus: ubi odoratus?",
+      "greek_textus_receptus": "εἰ ὅλον τὸ σῶμα ὀφθαλμός ποῦ ἡ ἀκοή εἰ ὅλον ἀκοή ποῦ ἡ ὄσφρησις",
+      "finnish_biblia": "Jos koko ruumis silmänä olis, kussas siis kuulo? Jos se kaikki kuulona, kussas siis haisto? ",
+      "swedish_karl_xii": "Om hele lekamen wore öga, hwar blefwe tå hörslen? Wore han aller hörsl, hwar blefwe luchten?",
+      "king_james": "If the whole body *were* an eye, where *were* the hearing? If the whole *were* hearing, where *were* the smelling?"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Nunc autem posuit Deus membra, unumquodque eorum in corpore sicut voluit.",
+      "greek_textus_receptus": "νυνὶ δὲ ὁ θεὸς ἔθετο τὰ μέλη ἓν ἕκαστον αὐτῶν ἐν τῷ σώματι καθὼς ἠθέλησεν",
+      "finnish_biblia": "Mutta nyt on Jumala pannut jäsenet erinänsä itsekunkin ruumiissa niinkuin hän on tahtonut. ",
+      "swedish_karl_xii": "Men nu hafwer Gudh satt lemmarna hwar för sigh, särdeles vthi lekamen, såsom han wille.",
+      "king_james": "But now hath God set the members every one of them in the body, as it hath pleased him."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Quod si essent omnia unum membrum, ubi corpus?",
+      "greek_textus_receptus": "εἰ δὲ ἦν τὰ πάντα ἓν μέλος ποῦ τὸ σῶμα",
+      "finnish_biblia": "Vai jos kaikki olisivat yksi jäsen, kussa sitte ruumis olis? ",
+      "swedish_karl_xii": "Om nu alle lemmar woro en lem, hwar blefwe tå lekamen?",
+      "king_james": "And if they were all one member, where *were* the body?"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Nunc autem multa quidem membra, unum autem corpus.",
+      "greek_textus_receptus": "νῦν δὲ πολλὰ μὲν μέλη ἓν δὲ σῶμα",
+      "finnish_biblia": "Mutta nyt on monta jäsentä, vaan yksi ruumis. ",
+      "swedish_karl_xii": "Men nu äro lemmarna månge, och lekamen är en.",
+      "king_james": "But now *are they* many members, yet but one body."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Non potest autem oculus dicere manui: Opera tua non indigeo: aut iterum caput pedibus: Non estis mihi necessarii.",
+      "greek_textus_receptus": "οὐ δύναται δὲ ὀφθαλμὸς εἰπεῖν τῇ χειρί χρείαν σου οὐκ ἔχω ἢ πάλιν ἡ κεφαλὴ τοῖς ποσίν χρείαν ὑμῶν οὐκ ἔχω",
+      "finnish_biblia": "Mutta ei silmä taida kädelle sanoa: en minä sinua tarvitse, eli taas pää jaloille: en minä teitä tarvitse. ",
+      "swedish_karl_xii": "Ögat kan icke säija til handena: Jagh behöfwer tigh intet; eller hufwudet til fötterna: Jagh behöfwer eder intet.",
+      "king_james": "And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Sed multo magis quæ videntur membra corporis infirmiora esse, necessariora sunt:",
+      "greek_textus_receptus": "ἀλλὰ πολλῷ μᾶλλον τὰ δοκοῦντα μέλη τοῦ σώματος ἀσθενέστερα ὑπάρχειν ἀναγκαῖά ἐστιν",
+      "finnish_biblia": "Vaan paljoa enemmin ne ruumiin jäsenet, jotka heikommaksi näkyvät, ovat tarpeelliset. ",
+      "swedish_karl_xii": "Vtan mycket meer the kropsens lemmar, som synas swagast wara, äro oß mäst af nöden:",
+      "king_james": "Nay, much more those members of the body, which seem to be more feeble, are necessary:"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "et quæ putamus ignobiliora membra esse corporis, his honorem abundantiorem circumdamus: et quæ inhonesta sunt nostra, abundantiorem honestatem habent.",
+      "greek_textus_receptus": "καὶ ἃ δοκοῦμεν ἀτιμότερα εἶναι τοῦ σώματος τούτοις τιμὴν περισσοτέραν περιτίθεμεν καὶ τὰ ἀσχήμονα ἡμῶν εὐσχημοσύνην περισσοτέραν ἔχει",
+      "finnish_biblia": "Ja jotka me luulemme häpiällisemmäksi ruumiissa, niiden päälle me enimmän kunnian panemme; ja jotka häijymmäksi näkyvät, niillä on enin kaunistusta: ",
+      "swedish_karl_xii": "Och the wij hålle blygeliga wara, them lägge wij mästa ähron vppå: och the oß snyppeliga synas, them pryde wij alramäst.",
+      "king_james": "And those *members* of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely *parts* have more abundant comeliness."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Honesta autem nostra nullius egent: sed Deus temperavit corpus, ei cui deerat, abundantiorem tribuendo honorem,",
+      "greek_textus_receptus": "τὰ δὲ εὐσχήμονα ἡμῶν οὐ χρείαν ἔχει ἀλλ᾽ ὁ θεὸς συνεκέρασεν τὸ σῶμα τῷ ὑστεροῦντι περισσοτέραν δοὺς τιμήν",
+      "finnish_biblia": "Sillä jotka meissä kauniit ovat, ei ne mitään tarvitse; mutta Jumala on ruumiin kokoon liittänyt ja sille puuttuvaiselle enemmän kunnian antanut, ",
+      "swedish_karl_xii": "Ty the som dägelige äro, behöfwa intet: men Gudh hafwer så tilhopa mängt lekamenen, och the lemmar som något fattades, thes meer prydelse tillagt:",
+      "king_james": "For our comely *parts* have no need: but God hath tempered the body together, having given more abundant honour to that *part* which lacked:"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "ut non sit schisma in corpore, sed idipsum pro invicem sollicita sint membra.",
+      "greek_textus_receptus": "ἵνα μὴ ᾖ σχίσμα ἐν τῷ σώματι ἀλλὰ τὸ αὐτὸ ὑπὲρ ἀλλήλων μεριμνῶσιν τὰ μέλη",
+      "finnish_biblia": "Ettei eripuraisuutta ruumiissa olisi; vaan kaikki jäsenet pitää toinen toisestansa surun pitämän. ",
+      "swedish_karl_xii": "På thet i lekamenen skal ingen skiliachtighet wara: vtan alle lemmar skola then ene för then andra eens omsorg hafwa.",
+      "king_james": "That there should be no schism in the body; but *that* the members should have the same care one for another."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Et si quid patitur unum membrum, compatiuntur omnia membra: sive gloriatur unum membrum, congaudent omnia membra.",
+      "greek_textus_receptus": "καὶ εἴτε πάσχει ἓν μέλος συμπάσχει πάντα τὰ μέλη εἴτε δοξάζεται ἓν μέλος συγχαίρει πάντα τὰ μέλη",
+      "finnish_biblia": "Ja jos yksi jäsen kärsii jotakin, niin kaikki muut jäsenet kanssa kärsivät, ja jos yksi jäsen kunniassa pidetään, niin kaikki jäsenet myös riemuitsevat. ",
+      "swedish_karl_xii": "Och om en lem lider något, så lida alle lemmarna medh: och om en lem warder härliga hållen, så frögda sigh alle lemmarna medh.",
+      "king_james": "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it."
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Vos autem estis corpus Christi, et membra de membro.",
+      "greek_textus_receptus": "ὑμεῖς δέ ἐστε σῶμα χριστοῦ καὶ μέλη ἐκ μέρους",
+      "finnish_biblia": "Mutta te olette Kristuksen ruumis ja jäsenet, jokainen osansa jälkeen. ",
+      "swedish_karl_xii": "Men J ären Christi lekamen och lemmar, hwar efter sin deel.",
+      "king_james": "Now ye are the body of Christ, and members in particular."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Et quosdam quidem posuit Deus in ecclesia primum apostolos, secundo prophetas, exinde doctores, deinde virtutes, exinde gratias curationum, opitulationes, gubernationes, genera linguarum, interpretationes sermonum.",
+      "greek_textus_receptus": "καὶ οὓς μὲν ἔθετο ὁ θεὸς ἐν τῇ ἐκκλησίᾳ πρῶτον ἀποστόλους δεύτερον προφήτας τρίτον διδασκάλους ἔπειτα δυνάμεις εἶτα χαρίσματα ἰαμάτων ἀντιλήψεις, κυβερνήσεις γένη γλωσσῶν",
+      "finnish_biblia": "Ja Jumala on pannut seurakuntaan ensin apostolit, sitte prophetat, senjälkeen opettajat, sitte voimalliset työt, jälleen parantamisen lahjat, avut, hallitukset, moninaiset kielet. ",
+      "swedish_karl_xii": "Och Gudh hafwer satt i församlingene, först Apostlar, ther näst Propheter, sedan lärare, sedan kraftwerckare, sedan helbregdo gåfwor, hielpare, regerare, mångahanda tungomål.",
+      "king_james": "And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Numquid omnes apostoli? numquid omnes prophetæ? numquid omnes doctores?",
+      "greek_textus_receptus": "μὴ πάντες ἀπόστολοι μὴ πάντες προφῆται μὴ πάντες διδάσκαλοι μὴ πάντες δυνάμεις",
+      "finnish_biblia": "Ovatko kaikki apostolit? Ovatko kaikki prophetat? Ovatko kaikki opettajat? Onko kaikilla voimalliset työt? ",
+      "swedish_karl_xii": "Äro the alle Apostlar? Äro the alle Propheter? Äro the alle lärare? Äro the alle kraftwerckare?",
+      "king_james": "*Are* all apostles? *are* all prophets? *are* all teachers? *are* all workers of miracles?"
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "numquid omnes virtutes? numquid omnes gratiam habent curationum? numquid omnes linguis loquuntur? numquid omnes interpretantur?",
+      "greek_textus_receptus": "μὴ πάντες χαρίσματα ἔχουσιν ἰαμάτων μὴ πάντες γλώσσαις λαλοῦσιν μὴ πάντες διερμηνεύουσιν",
+      "finnish_biblia": "Onko kaikilla parantamisen lahjat? Puhuvatko kaikki moninaisilla kielillä? Taitavatko kaikki selittää? ",
+      "swedish_karl_xii": "Hafwa the alle helbregdo gåfwor? Tala the alle mång tungomål? Kunna the alle vthtyda?",
+      "king_james": "Have all the gifts of healing? do all speak with tongues? do all interpret?"
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Æmulamini autem charismata meliora. Et adhuc excellentiorem viam vobis demonstro.",
+      "greek_textus_receptus": "ζηλοῦτε δὲ τὰ χαρίσματα τὰ κρείττονα καὶ ἔτι καθ᾽ ὑπερβολὴν ὁδὸν ὑμῖν δείκνυμι",
+      "finnish_biblia": "Mutta noudattakaat te paraita lahjoja. Ja vielä minä teille korkiamman tien osoitan.   ",
+      "swedish_karl_xii": "Men farer efter the yppersta gåfworna: och jagh wil ännu wisa eder en kosteligare wägh.",
+      "king_james": "But covet earnestly the best gifts: and yet shew I unto you a more excellent way."
+    }
+  ]
+}

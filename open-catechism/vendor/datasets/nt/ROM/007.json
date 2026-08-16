@@ -1,0 +1,211 @@
+{
+  "book_id": "ROM",
+  "latin_name": "Epistula ad Romanos",
+  "greek_name": "Πρὸς Ῥωμαίους",
+  "finnish_name": "Kirje roomalaisille",
+  "swedish_name": "S. Pauli Epistel Til the Romare",
+  "english_name": "The Epistle of Paul the Apostle to the Romans",
+  "chapter": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "An ignoratis, fratres (scientibus enim legem loquor), quia lex in homine dominatur quanto tempore vivit?",
+      "greek_textus_receptus": "ἢ ἀγνοεῖτε ἀδελφοί γινώσκουσιν γὰρ νόμον λαλῶ ὅτι ὁ νόμος κυριεύει τοῦ ἀνθρώπου ἐφ᾽ ὅσον χρόνον ζῇ",
+      "finnish_biblia": "Ettekö te tiedä, rakkaat veljet, (sillä minä puhun lain taitaville) että laki vallitsee ihmistä niinkauvan kuin hän elää? ",
+      "swedish_karl_xii": "Meten J icke, käre bröder, (ty jagh talar medh them som lagen weta,) at lagen regnerar öfwer menniskiona, så länge hon lefwer?",
+      "king_james": "Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Nam quæ sub viro est mulier, vivente viro, alligata est legi: si autem mortuus fuerit vir ejus, soluta est a lege viri.",
+      "greek_textus_receptus": "ἡ γὰρ ὕπανδρος γυνὴ τῷ ζῶντι ἀνδρὶ δέδεται νόμῳ ἐὰν δὲ ἀποθάνῃ ὁ ἀνήρ κατήργηται ἀπὸ τοῦ νόμου τοῦ ἀνδρός",
+      "finnish_biblia": "Sillä vaimo, joka miehen hallussa on, niinkauvan kuin mies elää, on häneen lailla sidottu, mutta jos mies kuolee, niin hän on miehen laista vapaa. ",
+      "swedish_karl_xii": "Ty een qwinna som i mans wåld är, så länge mannen lefwer, är hon bunden til lagen: men om mannen döör, så blifwer hon löös ifrå mansens lagh.",
+      "king_james": "For the woman which hath an husband is bound by the law to *her* husband so long as he liveth; but if the husband be dead, she is loosed from the law of *her* husband."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Igitur, vivente viro, vocabitur adultera si fuerit cum alio viro: si autem mortuus fuerit vir ejus, liberata est a lege viri, ut non sit adultera si fuerit cum alio viro.",
+      "greek_textus_receptus": "ἄρα οὖν ζῶντος τοῦ ἀνδρὸς μοιχαλὶς χρηματίσει ἐὰν γένηται ἀνδρὶ ἑτέρῳ ἐὰν δὲ ἀποθάνῃ ὁ ἀνήρ ἐλευθέρα ἐστὶν ἀπὸ τοῦ νόμου τοῦ μὴ εἶναι αὐτὴν μοιχαλίδα γενομένην ἀνδρὶ ἑτέρῳ",
+      "finnish_biblia": "Sentähden jos hän toisen miehen kanssa on miehensä eläissä, niin hän huoraksi kutsutaan; mutta jos mies kuolee, niin hän on laista vapaa, ettei hän huoraksi tule, jos hän toisen miehen kanssa on. ",
+      "swedish_karl_xii": "Men om hon är medh en annan man medan hennes man lefwer, tå warder hon kallad een hoorkona: men döör mannen, så är hon frij ifrå lagen, at hon icke warder een hoorkona, om hon är när en annan man.",
+      "king_james": "So then if, while *her* husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Itaque fratres mei, et vos mortificati estis legi per corpus Christi: ut sitis alterius, qui ex mortuis resurrexit, ut fructificemus Deo.",
+      "greek_textus_receptus": "ὥστε ἀδελφοί μου καὶ ὑμεῖς ἐθανατώθητε τῷ νόμῳ διὰ τοῦ σώματος τοῦ χριστοῦ εἰς τὸ γενέσθαι ὑμᾶς ἑτέρῳ τῷ ἐκ νεκρῶν ἐγερθέντι ἵνα καρποφορήσωμεν τῷ θεῷ",
+      "finnish_biblia": "Niin olette te myös, minun veljeni, laille kuoletetut Kristuksen ruumiin kautta, että teidän pitää toisen kanssa oleman, joka on noussut kuolleista, että me Jumalalle hedelmän kantaisimme. ",
+      "swedish_karl_xii": "Så ären ock J, mine bröder, dödade ifrå lagen, genom Christi lekamen: at J skolen wara när enom androm, nemliga, när honom som är vpstånden ifrå the döda, på thet wij skole giöra Gudi frucht.",
+      "king_james": "Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, *even* to him who is raised from the dead, that we should bring forth fruit unto God."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Cum enim essemus in carne, passiones peccatorum, quæ per legem erant, operabantur in membris nostris, ut fructificarent morti.",
+      "greek_textus_receptus": "ὅτε γὰρ ἦμεν ἐν τῇ σαρκί τὰ παθήματα τῶν ἁμαρτιῶν τὰ διὰ τοῦ νόμου ἐνηργεῖτο ἐν τοῖς μέλεσιν ἡμῶν εἰς τὸ καρποφορῆσαι τῷ θανάτῳ",
+      "finnish_biblia": "Sillä kuin me lihassa olimme, niin ne syntein himot, jotka lain kautta olivat meidän jäsenissämme, vaikuttivat kuolemalle hedelmää saattamaan. ",
+      "swedish_karl_xii": "Ty tå wij worom kötzlige, tå woro the syndiga begärelser, som lagen vpwäckte, mächtig i wåra lemmar, at giöra dödenom frucht.",
+      "king_james": "For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Nunc autem soluti sumus a lege mortis, in qua detinebamur, ita ut serviamus in novitate spiritus, et non in vetustate litteræ.",
+      "greek_textus_receptus": "νυνὶ δὲ κατηργήθημεν ἀπὸ τοῦ νόμου ἀποθανόντες ἐν ᾧ κατειχόμεθα ὥστε δουλεύειν ἡμᾶς ἐν καινότητι πνεύματος καὶ οὐ παλαιότητι γράμματος",
+      "finnish_biblia": "Mutta nyt me olemme laista vapahdetut ja hänelle kuolleet, jossa me pidettiin kiinni: että me palvelisimme hengen uudistuksessa ja ei puustavin vanhuudessa. ",
+      "swedish_karl_xii": "Men nu äre wij frijade ifrå lagen; döde ifrå henne, som oß hölt fångna: så at wij skole tiena vthi ett nytt wäsende efter andan, och icke vthi thet gamla wäsende efter bokstafwen.",
+      "king_james": "But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not *in* the oldness of the letter."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Quid ergo dicemus? lex peccatum est? Absit. Sed peccatum non cognovi, nisi per legem: nam concupiscentiam nesciebam, nisi lex diceret: Non concupisces.",
+      "greek_textus_receptus": "τί οὖν ἐροῦμεν ὁ νόμος ἁμαρτία μὴ γένοιτο ἀλλὰ τὴν ἁμαρτίαν οὐκ ἔγνων εἰ μὴ διὰ νόμου τήν τε γὰρ ἐπιθυμίαν οὐκ ᾔδειν εἰ μὴ ὁ νόμος ἔλεγεν οὐκ ἐπιθυμήσεις",
+      "finnish_biblia": "Mitäs me siis sanomme? Onko laki synti? Pois se! Mutta en minä muutoin syntiä olisi tuntenut, ellei lain kautta; sillä en minä olisi himoistakaan mitään tiennyt, ellei laki olisi sanonut: ei sinun pidä himoitseman. ",
+      "swedish_karl_xii": "Hwad wilje wij tå säija? Är lagen synd? Bort thet: men syndena kände jagh icke, vtan af lagen: ty jagh hade intet wist af begärelsen, hade icke lagen sagt: Tu skalt icke begära.",
+      "king_james": "What shall we say then? *Is* the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Occasione autem accepta, peccatum per mandatum operatum est in me omnem concupiscentiam. Sine lege enim peccatum mortuum erat.",
+      "greek_textus_receptus": "ἀφορμὴν δὲ λαβοῦσα ἡ ἁμαρτία διὰ τῆς ἐντολῆς κατειργάσατο ἐν ἐμοὶ πᾶσαν ἐπιθυμίαν χωρὶς γὰρ νόμου ἁμαρτία νεκρά",
+      "finnish_biblia": "Mutta synti otti tilan käskystä ja kehoitti minussa kaikkinaisen himon; sillä ilman lakia oli synti kuollut. ",
+      "swedish_karl_xii": "Tå tog synden tilfälle af budordet, och vpwäckte i migh all begärelse: ty vthan lagen, war synden död.",
+      "king_james": "But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin *was* dead."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Ego autem vivebam sine lege aliquando: sed cum venisset mandatum, peccatum revixit.",
+      "greek_textus_receptus": "ἐγὼ δὲ ἔζων χωρὶς νόμου ποτέ ἐλθούσης δὲ τῆς ἐντολῆς ἡ ἁμαρτία ἀνέζησεν ἐγὼ δὲ ἀπέθανον",
+      "finnish_biblia": "Mutta minä elin muinen ilman lakia. Kuin siis käsky tuli, niin synti taas virkosi, ",
+      "swedish_karl_xii": "Och jagh lefde fordom vthan lagh: men när budordet kom, fick synden lijf igen;",
+      "king_james": "For I was alive without the law once: but when the commandment came, sin revived, and I died."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Ego autem mortuus sum: et inventum est mihi mandatum, quod erat ad vitam, hoc esse ad mortem.",
+      "greek_textus_receptus": "καὶ εὑρέθη μοι ἡ ἐντολὴ ἡ εἰς ζωὴν αὕτη εἰς θάνατον",
+      "finnish_biblia": "Ja minä kuolin: ja niin löydettiin, että käsky, joka minulle oli elämäksi, tuli minulle kuolemaksi. ",
+      "swedish_karl_xii": "Och jagh wardt död: så fans tå, at budordet, som migh war gifwit til lifs, thet war migh til dödz.",
+      "king_james": "And the commandment, which *was ordained* to life, I found *to be* unto death."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Nam peccatum occasione accepta per mandatum, seduxit me, et per illud occidit.",
+      "greek_textus_receptus": "ἡ γὰρ ἁμαρτία ἀφορμὴν λαβοῦσα διὰ τῆς ἐντολῆς ἐξηπάτησέν με καὶ δι᾽ αὐτῆς ἀπέκτεινεν",
+      "finnish_biblia": "Sillä synti, joka otti tilan käskystä, petti minun ja tappoi sen kautta. ",
+      "swedish_karl_xii": "Ty synden tog tilfälle af budordet, och beswek migh, och drap migh ther medh.",
+      "king_james": "For sin, taking occasion by the commandment, deceived me, and by it slew *me*."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Itaque lex quidem sancta, et mandatum sanctum, et justum, et bonum.",
+      "greek_textus_receptus": "ὥστε ὁ μὲν νόμος ἅγιος καὶ ἡ ἐντολὴ ἁγία καὶ δικαία καὶ ἀγαθή",
+      "finnish_biblia": "Laki on kuitenkin itsestänsä pyhä ja käsky on myös pyhä, oikia ja hyvä. ",
+      "swedish_karl_xii": "Så är wäl lagen helig, och budordet heligt, och rättferdigt, och godt.",
+      "king_james": "Wherefore the law *is* holy, and the commandment holy, and just, and good."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Quod ergo bonum est, mihi factum est mors? Absit. Sed peccatum, ut appareat peccatum, per bonum operatum est mihi mortem: ut fiat supra modum peccans peccatum per mandatum.",
+      "greek_textus_receptus": "τὸ οὖν ἀγαθὸν ἐμοὶ γέγονεν θάνατος μὴ γένοιτο ἀλλὰ ἡ ἁμαρτία ἵνα φανῇ ἁμαρτία διὰ τοῦ ἀγαθοῦ μοι κατεργαζομένη θάνατον ἵνα γένηται καθ᾽ ὑπερβολὴν ἁμαρτωλὸς ἡ ἁμαρτία διὰ τῆς ἐντολῆς",
+      "finnish_biblia": "Onko siis se, mikä hyvä on, minulle kuolemaksi tullut? Pois se! Mutta että synti synniksi nähtäisiin, on hän minulle hyvän kautta kuoleman saattanut, että synti ylitse määrän synniksi tulis, käskyn kautta. ",
+      "swedish_karl_xii": "Är tå thet som godt är, wordet migh til dödz? Bort thet: men synden, på thet hon skulle synas wara synd, hafwer medh thet godt är, werckat döden i migh; på thet synden skulle warda öfwermåtton syndig genom budordet.",
+      "king_james": "Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Scimus enim quia lex spiritualis est: ego autem carnalis sum, venundatus sub peccato.",
+      "greek_textus_receptus": "οἴδαμεν γὰρ ὅτι ὁ νόμος πνευματικός ἐστιν ἐγὼ δὲ σάρκικός εἰμι πεπραμένος ὑπὸ τὴν ἁμαρτίαν",
+      "finnish_biblia": "Sillä me tiedämme, että laki on hengellinen: vaan minä olen lihallinen, synnin alle myyty. ",
+      "swedish_karl_xii": "Ty wij wete, at lagen är andelig; men jagh är kötzlig, sålder vnder syndena.",
+      "king_james": "For we know that the law is spiritual: but I am carnal, sold under sin."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Quod enim operor, non intelligo: non enim quod volo bonum, hoc ago: sed quod odi malum, illud facio.",
+      "greek_textus_receptus": "ὃ γὰρ κατεργάζομαι οὐ γινώσκω οὐ γὰρ ὃ θέλω τοῦτο πράσσω ἀλλ᾽ ὃ μισῶ τοῦτο ποιῶ",
+      "finnish_biblia": "Sillä en minä tiedä, mitä minä teen, etten minä tee sitä, mitä minä tahdon, vaan sitä, mitä minä vihaan, teen minä. ",
+      "swedish_karl_xii": "Ty jagh weet icke hwad jagh giör: ty jagh giör icke hwad jagh wil; vtan thet jagh hatar, thet giör jagh.",
+      "king_james": "For that which I do I allow not: for what I would, that do I not; but what I hate, that do I."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Si autem quod nolo, illud facio: consentio legi, quoniam bona est.",
+      "greek_textus_receptus": "εἰ δὲ ὃ οὐ θέλω τοῦτο ποιῶ σύμφημι τῷ νόμῳ ὅτι καλός",
+      "finnish_biblia": "Mutta jos minä teen, jota en minä tahdo, niin minä suostun lakiin, että se on hyvä. ",
+      "swedish_karl_xii": "Om jagh nu giör thet jagh icke wil, så samtycker jagh, at lagen är godh.",
+      "king_james": "If then I do that which I would not, I consent unto the law that *it is* good."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Nunc autem jam non ego operor illud, sed quod habitat in me peccatum.",
+      "greek_textus_receptus": "νυνὶ δὲ οὐκέτι ἐγὼ κατεργάζομαι αὐτὸ ἀλλ᾽ ἡ οἰκοῦσα ἐν ἐμοὶ ἁμαρτία",
+      "finnish_biblia": "Niin en minä sitä enää tee, vaan synti, joka minussa asuu. ",
+      "swedish_karl_xii": "Så giör icke nu jagh thet, vtan synden som boor i migh.",
+      "king_james": "Now then it is no more I that do it, but sin that dwelleth in me."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Scio enim quia non habitat in me, hoc est in carne mea, bonum. Nam velle, adjacet mihi: perficere autem bonum, non invenio.",
+      "greek_textus_receptus": "οἶδα γὰρ ὅτι οὐκ οἰκεῖ ἐν ἐμοί τουτέστιν ἐν τῇ σαρκί μου ἀγαθόν τὸ γὰρ θέλειν παράκειταί μοι τὸ δὲ κατεργάζεσθαι τὸ καλὸν οὐχ εὑρίσκω",
+      "finnish_biblia": "Sillä minä tiedän, ettei minussa (se on: minun lihassani) mitään hyvää asu. Sillä tahto minulla on, vaan täyttää hyvää, en minä sitä löydä. ",
+      "swedish_karl_xii": "Ty jagh weet, at i migh, thet är, i mitt kött, boor icke godt: wiljan hafwer jagh; men at giöra godt, thet finner jagh icke.",
+      "king_james": "For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but *how* to perform that which is good I find not."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Non enim quod volo bonum, hoc facio: sed quod nolo malum, hoc ago.",
+      "greek_textus_receptus": "οὐ γὰρ ὃ θέλω ποιῶ ἀγαθόν ἀλλ᾽ ὃ οὐ θέλω κακὸν τοῦτο πράσσω",
+      "finnish_biblia": "Sillä hyvää, jota minä tahdon, en minä tee, vaan pahaa, jota en minä tahdo, teen minä. ",
+      "swedish_karl_xii": "Ty thet goda som jagh wil, thet giör jagh intet: vtan thet onda som jagh icke wil, thet giör jagh.",
+      "king_james": "For the good that I would I do not: but the evil which I would not, that I do."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Si autem quod nolo, illud facio: jam non ego operor illud, sed quod habitat in me, peccatum.",
+      "greek_textus_receptus": "εἰ δὲ ὃ οὐ θέλω ἐγὼ τοῦτο ποιῶ οὐκέτι ἐγὼ κατεργάζομαι αὐτὸ ἀλλ᾽ ἡ οἰκοῦσα ἐν ἐμοὶ ἁμαρτία",
+      "finnish_biblia": "Mutta jos minä teen, jota en minä tahdo, niin en minä sitä enää tee, vaan synti, joka minussa asuu. ",
+      "swedish_karl_xii": "Om jagh nu giör thet jagh icke wil, så giör icke nu jagh thet, vtan synden som boor i migh.",
+      "king_james": "Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Invenio igitur legem, volenti mihi facere bonum, quoniam mihi malum adjacet:",
+      "greek_textus_receptus": "εὑρίσκω ἄρα τὸν νόμον τῷ θέλοντι ἐμοὶ ποιεῖν τὸ καλὸν ὅτι ἐμοὶ τὸ κακὸν παράκειται",
+      "finnish_biblia": "Niin minä löydän itsessäni lain, joka tahtoo hyvää tehdä, että minussa pahuus riippuu kiinni. ",
+      "swedish_karl_xii": "Så finner jagh nu migh een lagh, jagh som wil giöra thet godt är, at thet onda loder widh migh.",
+      "king_james": "I find then a law, that, when I would do good, evil is present with me."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "condelector enim legi Dei secundum interiorem hominem:",
+      "greek_textus_receptus": "συνήδομαι γὰρ τῷ νόμῳ τοῦ θεοῦ κατὰ τὸν ἔσω ἄνθρωπον",
+      "finnish_biblia": "Sillä minulla on halu Jumalan lakiin, sisällisen ihmisen puolesta; ",
+      "swedish_karl_xii": "Ty jagh hafwer lust til Gudz lagh, efter then inwärtes menniskiona:",
+      "king_james": "For I delight in the law of God after the inward man:"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "video autem aliam legem in membris meis, repugnantem legi mentis meæ, et captivantem me in lege peccati, quæ est in membris meis.",
+      "greek_textus_receptus": "βλέπω δὲ ἕτερον νόμον ἐν τοῖς μέλεσίν μου ἀντιστρατευόμενον τῷ νόμῳ τοῦ νοός μου καὶ αἰχμαλωτίζοντά με τῷ νόμῳ τῆς ἁμαρτίας τῷ ὄντι ἐν τοῖς μέλεσίν μου",
+      "finnish_biblia": "Mutta minä näen toisen lain minun jäsenissäni, joka sotii minun mieleni lakia vastaan ja ottaa minun vangiksi synnin laissa, joka minun jäsenissäni on. ",
+      "swedish_karl_xii": "Men jagh seer een annor lagh i mina lemmar, som strider emot then lagh som i min hogh är, och griper migh fången vthi syndenes lagh, som är i mina lemmar.",
+      "king_james": "But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Infelix ego homo, quis me liberabit de corpore mortis hujus?",
+      "greek_textus_receptus": "ταλαίπωρος ἐγὼ ἄνθρωπος τίς με ῥύσεται ἐκ τοῦ σώματος τοῦ θανάτου τούτου",
+      "finnish_biblia": "Minä viheliäinen ihminen: kuka päästää minun tästä kuoleman ruumiista? ",
+      "swedish_karl_xii": "Jagh arme menniskia, ho skal lösa migh ifrå thenna dödsens krop?",
+      "king_james": "O wretched man that I am! who shall deliver me from the body of this death?"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "gratia Dei per Jesum Christum Dominum nostrum. Igitur ego ipse mente servio legi Dei: carne autem, legi peccati.",
+      "greek_textus_receptus": "ἐυχάριστῶ τῷ θεῷ διὰ ἰησοῦ χριστοῦ τοῦ κυρίου ἡμῶν ἄρα οὖν αὐτὸς ἐγὼ τῷ μὲν νοῒ δουλεύω νόμῳ θεοῦ τῇ δὲ σαρκὶ νόμῳ ἁμαρτίας",
+      "finnish_biblia": "Minä kiitän Jumalaa Jesuksen Kristuksen meidän Herramme kautta. Niin minä itse palvelen nyt mielellä Jumalan lakia, mutta lihalla synnin lakia.   ",
+      "swedish_karl_xii": "Gudi tackar jagh, genom Jesum Christum wår Herra. Så tienar jagh nu Gudz lagh medh hogen; men medh kötet tienar jagh syndenes lagh.",
+      "king_james": "I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin."
+    }
+  ]
+}

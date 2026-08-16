@@ -1,0 +1,203 @@
+{
+  "book_id": "2CO",
+  "latin_name": "Epistula II ad Corinthios",
+  "greek_name": "Πρὸς Κορινθίους Β",
+  "finnish_name": "Toinen kirje korinttilaisille",
+  "swedish_name": "S. Pauli Epistel then andra Til the Corinther",
+  "english_name": "The Second Epistle of Paul the Apostle to the Corinthians",
+  "chapter": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Notam autem facimus vobis, fratres, gratiam Dei, quæ data est in ecclesiis Macedoniæ:",
+      "greek_textus_receptus": "γνωρίζομεν δὲ ὑμῖν ἀδελφοί τὴν χάριν τοῦ θεοῦ τὴν δεδομένην ἐν ταῖς ἐκκλησίαις τῆς μακεδονίας",
+      "finnish_biblia": "Mutta minä teen teille tiettäväksi, rakkaat veljet, Jumalan armon, joka Makedonian seurakuntiin annettu on; ",
+      "swedish_karl_xii": "Jagh giör eder kunnigt, käre bröder, om then Gudz nådh som gifwin är vthi the församlingar, som äro i Macedonien.",
+      "king_james": "Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "quod in multo experimento tribulationis abundantia gaudii ipsorum fuit, et altissima paupertas eorum, abundavit in divitias simplicitatis eorum:",
+      "greek_textus_receptus": "ὅτι ἐν πολλῇ δοκιμῇ θλίψεως ἡ περισσεία τῆς χαρᾶς αὐτῶν καὶ ἡ κατὰ βάθους πτωχεία αὐτῶν ἐπερίσσευσεν εἰς τὸν πλοῦτον τῆς ἁπλότητος αὐτῶν",
+      "finnish_biblia": "Sillä heidän ilonsa oli ylönpalttinen, kuin heitä monen vaivan kautta koeteltiin, ja vaikka he sangen köyhät olivat, ovat he kuitenkin runsaasti kaikessa yksinkertaisuudessa antaneet. ",
+      "swedish_karl_xii": "Ty theras glädie är osäijelig, tå the genom mycken bedröfwelse bepröfwade wordo; och ändoch the ganska fattige woro, hafwa the likwäl rikeliga gifwit i all enfallighet.",
+      "king_james": "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "quia secundum virtutem testimonium illis reddo, et supra virtutem voluntarii fuerunt,",
+      "greek_textus_receptus": "ὅτι κατὰ δύναμιν μαρτυρῶ καὶ ὑπὲρ δύναμιν αὐθαίρετοι",
+      "finnish_biblia": "Sillä he olivat kaikesta voimastansa (sen minä todistan) ja ylitsekin voimansa hyväntahtoiset, ",
+      "swedish_karl_xii": "Ty the woro wälwiljoge efter allo sine macht, och öfwer sina macht; thet betygar jagh:",
+      "king_james": "For to *their* power, I bear record, yea, and beyond *their* power *they were* willing of themselves;"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "cum multa exhortatione obsecrantes nos gratiam, et communicationem ministerii, quod fit in sanctos.",
+      "greek_textus_receptus": "μετὰ πολλῆς παρακλήσεως δεόμενοι ἡμῶν τὴν χάριν καὶ τὴν κοινωνίαν τῆς διακονίας τῆς εἰς τοὺς ἁγίους δέξασθαι ἡμᾶς",
+      "finnish_biblia": "Ja meitä suurella ahkeruudella rukoilivat, että me ottaisimme vastaan sen hyvän työn ja sen palveluksen osallisuuden, joka pyhäin varaksi koottu oli. ",
+      "swedish_karl_xii": "Bediandes oß medh mycken förmaning, at wij anamma wille wälgierningen, och tienstenes deelachtighet som skickad war til helgonen.",
+      "king_james": "Praying us with much intreaty that we would receive the gift, and *take upon us* the fellowship of the ministering to the saints."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et non sicut speravimus, sed semetipsos dederunt primum Domino, deinde nobis per voluntatem Dei,",
+      "greek_textus_receptus": "καὶ οὐ καθὼς ἠλπίσαμεν ἀλλ᾽ ἑαυτοὺς ἔδωκαν πρῶτον τῷ κυρίῳ καὶ ἡμῖν διὰ θελήματος θεοῦ",
+      "finnish_biblia": "Ja ei niinkuin me toivoimme, vaan he antoivat itsensä ensisti Herralle ja (sitte) meille Jumalan tahdon kautta. ",
+      "swedish_karl_xii": "Och icke som wij hade hoppas, vtan the gåfwo sigh sielfwa först Herranom, och sedan oß, genom Gudz wilja.",
+      "king_james": "And *this they did*, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "ita ut rogaremus Titum, ut quemadmodum cœpit, ita et perficiat in vobis etiam gratiam istam.",
+      "greek_textus_receptus": "εἰς τὸ παρακαλέσαι ἡμᾶς τίτον ἵνα καθὼς προενήρξατο οὕτως καὶ ἐπιτελέσῃ εἰς ὑμᾶς καὶ τὴν χάριν ταύτην",
+      "finnish_biblia": "Että meidän pitäis Titusta neuvoman, että, niinkuin hän oli ennen ruvennut, hänen pitäis senkaltaisen hyvän työn niin teidän seassanne päättämän; ",
+      "swedish_karl_xii": "At wij måstom förmana Titum, at såsom han hade tilförene begynt, så skulle han ock nu fulfölja sådana godwiljoghet när eder.",
+      "king_james": "Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Sed sicut in omnibus abundatis fide, et sermone, et scientia, et omni sollicitudine, insuper et caritate vestra in nos, ut et in hac gratia abundetis.",
+      "greek_textus_receptus": "ἀλλ᾽ ὥσπερ ἐν παντὶ περισσεύετε πίστει καὶ λόγῳ καὶ γνώσει καὶ πάσῃ σπουδῇ καὶ τῇ ἐξ ὑμῶν ἐν ἡμῖν ἀγάπῃ ἵνα καὶ ἐν ταύτῃ τῇ χάριτι περισσεύητε",
+      "finnish_biblia": "Mutta niinkuin te olette kaikissa rikkaat, uskossa ja sanassa, ja taidossa ja kaikkinaisessa ahkeruudessa, ja teidän rakkaudessanne meidän kohtaamme, (niin sovittakaat siis), että te myös tässä armossa rikkaat olisitte. ",
+      "swedish_karl_xii": "Men såsom J vthi all stycker rike ären i troo, och i ordom, och i förstånd, och i all flijt, och i edor kärlek til oß, så flyr thet så, at J ock i thenna edor vndsättning rike ären.",
+      "king_james": "Therefore, as ye abound in every *thing, in* faith, and utterance, and knowledge, and *in* all diligence, and *in* your love to us, *see* that ye abound in this grace also."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Non quasi imperans dico: sed per aliorum sollicitudinem, etiam vestræ caritatis ingenium bonum comprobans.",
+      "greek_textus_receptus": "οὐ κατ᾽ ἐπιταγὴν λέγω ἀλλὰ διὰ τῆς ἑτέρων σπουδῆς καὶ τὸ τῆς ὑμετέρας ἀγάπης γνήσιον δοκιμάζων",
+      "finnish_biblia": "Enpä minä vaatimisesta sitä sano, vaan muiden ahkeruudesta koettelen minä myös teidän rakkautenne vakuutta. ",
+      "swedish_karl_xii": "Jcke så, at jagh biuder eder något; vtan efter andre så winläggia sigh, försöker jagh ock edar kärlek, om han sanskyllig är.",
+      "king_james": "I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Scitis enim gratiam Domini nostri Jesu Christi, quoniam propter vos egenus factus est, cum esset dives, ut illius inopia vos divites essetis.",
+      "greek_textus_receptus": "γινώσκετε γὰρ τὴν χάριν τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ ὅτι δι᾽ ὑμᾶς ἐπτώχευσεν πλούσιος ὤν ἵνα ὑμεῖς τῇ ἐκείνου πτωχείᾳ πλουτήσητε",
+      "finnish_biblia": "Sillä te tiedätte meidän Herran Jesuksen Kristuksen armon, että hän rikkaana ollessansa tuli kuitenkin teidän tähtenne köyhäksi, että te hänen köyhyytensä kautta rikkaaksi tulisitte. ",
+      "swedish_karl_xii": "Ty J weten Herrans Jesu Christi godwiljoghet, at ändoch han war rijk, wardt han likwäl fattig för edra skul, på thet J genom hans fattigdom skullen rike warda.",
+      "king_james": "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Et consilium in hoc do: hoc enim vobis utile est, qui non solum facere, sed et velle cœpistis ab anno priore:",
+      "greek_textus_receptus": "καὶ γνώμην ἐν τούτῳ δίδωμι τοῦτο γὰρ ὑμῖν συμφέρει οἵτινες οὐ μόνον τὸ ποιῆσαι ἀλλὰ καὶ τὸ θέλειν προενήρξασθε ἀπὸ πέρυσι",
+      "finnish_biblia": "Minun neuvoni minä tästä annan; sillä se on teille hyödyllinen, että te olette ennen ruvenneet ei ainoasti sitä tekemään, vaan jo menneenä vuonna tahdoitte sitä. ",
+      "swedish_karl_xii": "Mitt rådh gifwer jagh här vthi: ty thet är eder nyttigt, efter J för ett åhr sedan haden begynt, icke allenast giöra, vtan jemwäl wilja.",
+      "king_james": "And herein I give *my* advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "nunc vero et facto perficite: ut quemadmodum promptus est animus voluntatis, ita sit et perficiendi ex eo quod habetis.",
+      "greek_textus_receptus": "νυνὶ δὲ καὶ τὸ ποιῆσαι ἐπιτελέσατε ὅπως καθάπερ ἡ προθυμία τοῦ θέλειν οὕτως καὶ τὸ ἐπιτελέσαι ἐκ τοῦ ἔχειν",
+      "finnish_biblia": "Täyttäkäät siis nyt se työ, jonka te rupesitte, että niinkuin tahto valmis oli, te myös sen voimanne perästä täyttäisitte. ",
+      "swedish_karl_xii": "Fulföljen nu medh gierningene såsom J begynten, at såsom wiljen war redebogen, så fulföljer ock af thet J förmågen.",
+      "king_james": "Now therefore perform the doing *of it*; that as *there was* a readiness to will, so *there may be* a performance also out of that which ye have."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Si enim voluntas prompta est, secundum id quod habet, accepta est, non secundum id quod non habet.",
+      "greek_textus_receptus": "εἰ γὰρ ἡ προθυμία πρόκειται καθὸ ἐὰν ἔχῃ τις εὐπρόσδεκτος οὐ καθὸ οὐκ ἔχει",
+      "finnish_biblia": "Sillä jos joku edellä mielellinen on, niin hän on otollinen varansa jälkeen, ja ei sen jälkeen, joka ei hänellä ole. ",
+      "swedish_karl_xii": "Ty tå wiljen är först godh, så är han tacknemlig, efter then deel han hafwer, och icke efter thet han icke hafwer.",
+      "king_james": "For if there be first a willing mind, *it is* accepted according to that a man hath, *and* not according to that he hath not."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Non enim ut aliis sit remissio, vobis autem tribulatio, sed ex æqualitate.",
+      "greek_textus_receptus": "οὐ γὰρ ἵνα ἄλλοις ἄνεσις ὑμῖν δὲ θλῖψις ἀλλ᾽ ἐξ ἰσότητος ἕν τῷ νῦν καιρῷ τό ὑμῶν περίσσευμα εἴς τό ἐκείνων ὑστέρημά",
+      "finnish_biblia": "Ei niin luullen, että muilla pitää oleman huojennus ja teillä ahdistus, vaan että se tasan olis, niin palvelkaan teidän rikkautenne heidän köyhyyttänsä tällä ajalla, ",
+      "swedish_karl_xii": "Jcke skeer thetta i then mening, at andre skola hafwa nogh, och i trång, vtan at thet skal gå lika til:",
+      "king_james": "For *I mean* not that other men be eased, and ye burdened:"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "In præsenti tempore vestra abundantia illorum inopiam suppleat: ut et illorum abundantia vestræ inopiæ sit supplementum, ut fiat æqualitas, sicut scriptum est:",
+      "greek_textus_receptus": "ἵνα καὶ τὸ ἐκείνων περίσσευμα γένηται εἰς τὸ ὑμῶν ὑστέρημα ὅπως γένηται ἰσότης",
+      "finnish_biblia": "Että myös heidän rikkautensa teidän puuttumistanne palvelis, että tasan tapahtuis, ",
+      "swedish_karl_xii": "At edar rikedom tienar theras fattigdom i thenna (dyra) tijd, och theras rikedom hielper edra fattigdom, på thet lika tilgå skal.",
+      "king_james": "But by an equality, *that* now at this time your abundance *may be a supply* for their want, that their abundance also may be *a supply* for your want: that there may be equality:"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Qui multum, non abundavit: et qui modicum, non minoravit.",
+      "greek_textus_receptus": "καθὼς γέγραπται ὁ τὸ πολὺ οὐκ ἐπλεόνασεν καὶ ὁ τὸ ὀλίγον οὐκ ἠλαττόνησεν",
+      "finnish_biblia": "Niinkuin kirjoitettu on: joka paljon kokosi, ei hänellä ollut liiaksi, ja joka vähän kokosi, ei häneltä mitään puuttunut. ",
+      "swedish_karl_xii": "Som skrifwit är: Then ther mycket samlade, han hade intet öfwerlöpse; och then ther litet samlade, honom fattades intet.",
+      "king_james": "As it is written, He that *had gathered* much had nothing over; and he that *had gathered* little had no lack."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Gratias autem Deo, qui dedit eamdem sollicitudinem pro vobis in corde Titi,",
+      "greek_textus_receptus": "χάρις δὲ τῷ θεῷ τῷ διδόντι τὴν αὐτὴν σπουδὴν ὑπὲρ ὑμῶν ἐν τῇ καρδίᾳ τίτου",
+      "finnish_biblia": "Mutta Jumalan olkoon kiitos, joka senkaltaisen ahkeruuden antoi Tituksen sydämeen teidän tähtenne! ",
+      "swedish_karl_xii": "Men Gudi ware tack, som sådana flijt gifwit hafwer vthi Titi hierta til eder.",
+      "king_james": "But thanks *be* to God, which put the same earnest care into the heart of Titus for you."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "quoniam exhortationem quidem suscepit: sed cum sollicitior esset, sua voluntate profectus est ad vos.",
+      "greek_textus_receptus": "ὅτι τὴν μὲν παράκλησιν ἐδέξατο σπουδαιότερος δὲ ὑπάρχων αὐθαίρετος ἐξῆλθεν πρὸς ὑμᾶς",
+      "finnish_biblia": "Sillä hän otti sen neuvon hyväksi, ja tosin oli sitä ahkerampi, että hän läksi mielellänsä teidän tykönne. ",
+      "swedish_karl_xii": "Ty han tog then förmaning på sigh; ja sannerliga, han war så flitig, at han tog sigh före sielfwiljandes fara til eder.",
+      "king_james": "For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Misimus etiam cum illo fratrem, cujus laus est in Evangelio per omnes ecclesias:",
+      "greek_textus_receptus": "συνεπέμψαμεν δὲ μετ᾽ αὐτοῦ τὸν ἀδελφὸν οὗ ὁ ἔπαινος ἐν τῷ εὐαγγελίῳ διὰ πασῶν τῶν ἐκκλησιῶν",
+      "finnish_biblia": "Mutta me olemme hänen kanssansa lähettäneet veljen, jota evankeliumissa kiitetään kaikissa seurakunnissa. ",
+      "swedish_karl_xii": "Men wij hafwe sändt medh honom en broder, then prijs hafwer i Evangelio i alla församlingar.",
+      "king_james": "And we have sent with him the brother, whose praise *is* in the gospel throughout all the churches;"
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "non solum autem, sed et ordinatus est ab ecclesiis comes peregrinationis nostræ in hanc gratiam, quæ ministratur a nobis ad Domini gloriam, et destinatam voluntatem nostram:",
+      "greek_textus_receptus": "οὐ μόνον δὲ ἀλλὰ καὶ χειροτονηθεὶς ὑπὸ τῶν ἐκκλησιῶν συνέκδημος ἡμῶν σὺν τῇ χάριτι ταύτῃ τῇ διακονουμένῃ ὑφ᾽ ἡμῶν πρὸς τὴν αὐτοῦ τοῦ κυρίου δόξαν καὶ προθυμίαν ὑμῶν",
+      "finnish_biblia": "(Mutta ei se ainoasti, vaan hän on myös säätty seurakunnilta meidän matkakumppaniksemme tämän armon kanssa, joka meidän kauttamme Herran kunniaksi toimitetaan, ja teidän hyvän tahtonne koettelemiseksi,) ",
+      "swedish_karl_xii": "Och icke thet allenast; vtan han är ock skickad af församlingarna, til at wara wår följeslage til thenna vndsättning, som beställes af oß Herranom til ähro, och edar goda wilja til prijs.",
+      "king_james": "And not *that* only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and *declaration of* your ready mind:"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "devitantes hoc, ne quis nos vituperet in hac plenitudine, quæ ministratur a nobis.",
+      "greek_textus_receptus": "στελλόμενοι τοῦτο μή τις ἡμᾶς μωμήσηται ἐν τῇ ἁδρότητι ταύτῃ τῇ διακονουμένῃ ὑφ᾽ ἡμῶν",
+      "finnish_biblia": "Karttain sitä, ettei kenkään meitä panettelisi senkaltaisen rikkaan avun puolesta, joka meidän kauttamme toimitetaan. ",
+      "swedish_karl_xii": "Och förwarar, at oß ingen straffa kan för thenna rika vndsättning skul, som af oß bestäld warder:",
+      "king_james": "Avoiding this, that no man should blame us in this abundance which is administered by us:"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Providemus enim bona non solum coram Deo, sed etiam coram hominibus.",
+      "greek_textus_receptus": "προνοοῦμενοι καλὰ οὐ μόνον ἐνώπιον κυρίου ἀλλὰ καὶ ἐνώπιον ἀνθρώπων",
+      "finnish_biblia": "Sillä me ahkeroitsemme sitä, mikä kunniallinen on, ei ainoasti Herran edessä, vaan myös ihmisten edessä. ",
+      "swedish_karl_xii": "Och seer ther på, at thet redeliga tilgår, icke allenast för Herranom, vtan ock för menniskiom.",
+      "king_james": "Providing for honest things, not only in the sight of the Lord, but also in the sight of men."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Misimus autem cum illis et fratrem nostrum, quem probavimus in multis sæpe sollicitum esse: nunc autem multo sollicitiorem, confidentia multa in vos,",
+      "greek_textus_receptus": "συνεπέμψαμεν δὲ αὐτοῖς τὸν ἀδελφὸν ἡμῶν ὃν ἐδοκιμάσαμεν ἐν πολλοῖς πολλάκις σπουδαῖον ὄντα νυνὶ δὲ πολὺ σπουδαιότερον πεποιθήσει πολλῇ τῇ εἰς ὑμᾶς",
+      "finnish_biblia": "Ja me olemme heidän kanssansa lähettäneet meidän veljemme, jonka me monessa olemme usiasti koetelleet, että hän ahkera on, ja vielä nyt paljoa ahkerampi, suurella uskalluksella, joka on teidän tykönne, ",
+      "swedish_karl_xii": "Och hafwe wij sändt medh honom wår broder, then wij ofta bepröfwat hafwe i mång stycke, at han flitig är, och nu mycket meer flitig: och försee wij oß storliga til eder:",
+      "king_james": "And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which *I have* in you."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "sive pro Tito, qui est socius meus, et in vos adjutor, sive fratres nostri, Apostoli ecclesiarum, gloria Christi.",
+      "greek_textus_receptus": "εἴτε ὑπὲρ τίτου κοινωνὸς ἐμὸς καὶ εἰς ὑμᾶς συνεργός εἴτε ἀδελφοὶ ἡμῶν ἀπόστολοι ἐκκλησιῶν δόξα χριστοῦ",
+      "finnish_biblia": "Sekä Tituksen puolesta, joka minun kumppanini on ja apulaiseni teidän seassanne, että myös meidän veljeimme tähden, jotka ovat seurakuntain apostolit, Kristuksen kunnia. ",
+      "swedish_karl_xii": "Ehwad thet är för Titi skul, hwilken min stalbroder och medhielpare är när eder, eller för wåra bröder skul, som äro församlingarnas Apostlar, och Christi ähra.",
+      "king_james": "Whether *any do enquire* of Titus, *he is* my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, *and* the glory of Christ."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Ostensionem ergo, quæ est caritatis vestræ, et nostræ gloriæ pro vobis, in illos ostendite in faciem ecclesiarum.",
+      "greek_textus_receptus": "τὴν οὖν ἔνδειξιν τῆς ἀγάπης ὑμῶν καὶ ἡμῶν καυχήσεως ὑπὲρ ὑμῶν εἰς αὐτοὺς ἐνδειξασθε καὶ εἰς πρόσωπον τῶν ἐκκλησιῶν",
+      "finnish_biblia": "Osoittakaat siis teidän rakkautenne merkki ja meidän kerskaamisemme teistänne niitä kohtaan, julkisesti seurakunnankin edessä.   ",
+      "swedish_karl_xii": "Läter nu skina någon bewisning til eder kärlek, och wår berömelse af eder, på them; ja ock vppenbarliga för församlingarna.",
+      "king_james": "Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf."
+    }
+  ]
+}

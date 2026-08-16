@@ -1,0 +1,211 @@
+{
+  "book_id": "COL",
+  "latin_name": "Epistula ad Colossenses",
+  "greek_name": "Πρὸς Κολοσσαεῖς",
+  "finnish_name": "Kirje kolossalaisille",
+  "swedish_name": "S. Pauli Epistel Til the Colosser",
+  "english_name": "The Epistle of Paul the Apostle to the Colossians",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Igitur, si consurrexistis cum Christo: quæ sursum sunt quærite, ubi Christus est in dextera Dei sedens:",
+      "greek_textus_receptus": "εἰ οὖν συνηγέρθητε τῷ χριστῷ τὰ ἄνω ζητεῖτε οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος",
+      "finnish_biblia": "Jos te siis Kristuksen kanssa olette nousseet ylös, niin etsikäät niitä, jotka ylhäällä ovat, kussa Kristus istuu Jumalan oikialla kädellä. ",
+      "swedish_karl_xii": "Om J nu ären vpständne medh Christo, så söker thet ofwan til är, ther Christus är sittiandes på Gudz högra hand.",
+      "king_james": "If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "quæ sursum sunt sapite, non quæ super terram.",
+      "greek_textus_receptus": "τὰ ἄνω φρονεῖτε μὴ τὰ ἐπὶ τῆς γῆς",
+      "finnish_biblia": "Pyrkikäät niiden perään, jotka ylhäällä ovat, ja ei niiden, jotka maan päällä ovat. ",
+      "swedish_karl_xii": "Farer efter thet som ofwan til är; icke efter thet som på jordene är.",
+      "king_james": "Set your affection on things above, not on things on the earth."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Mortui enim estis, et vita vestra est abscondita cum Christo in Deo.",
+      "greek_textus_receptus": "ἀπεθάνετε γάρ καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ χριστῷ ἐν τῷ θεῷ",
+      "finnish_biblia": "Sillä te olette kuolleet ja teidän elämänne on kätketty Kristuksen kanssa Jumalassa. ",
+      "swedish_karl_xii": "Ty J ären döde, och edart lijf är fördolt medh Christo i Gudi.",
+      "king_james": "For ye are dead, and your life is hid with Christ in God."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Cum Christus apparuerit, vita vestra: tunc et vos apparebitis cum ipso in gloria.",
+      "greek_textus_receptus": "ὅταν ὁ χριστὸς φανερωθῇ ἡ ζωὴ ἡμῶν τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ",
+      "finnish_biblia": "Kuin Kristus, meidän elämämme, ilmoitetuksi tulee, silloin tekin hänen kanssansa kunniassa ilmoitetaan. ",
+      "swedish_karl_xii": "Men när edart lijf Christus vppenbarat warder, tå warden ock J vppenbarade medh honom i härligheten.",
+      "king_james": "When Christ, *who is* our life, shall appear, then shall ye also appear with him in glory."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Mortificate ergo membra vestra, quæ sunt super terram: fornicationem, immunditiam, libidinem, concupiscentiam malam, et avaritiam, quæ est simulacrorum servitus:",
+      "greek_textus_receptus": "νεκρώσατε οὖν τὰ μέλη ὑμῶν τὰ ἐπὶ τῆς γῆς πορνείαν ἀκαθαρσίαν πάθος ἐπιθυμίαν κακήν καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρεία",
+      "finnish_biblia": "Niin kuolettakaat sentähden teidän jäsenenne, jotka maan päällä ovat, huoruus, saastaisuus, häpiällinen himo, rietas halaus ja ahneus, joka on epäjumalan palvelus, ",
+      "swedish_karl_xii": "Så döder nu edra lemmar som på jordene äro; bolerij, oreenlighet, lusta, ond begärelse, och girighet, hwilken afgudadyrkan är.",
+      "king_james": "Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "propter quæ venit ira Dei super filios incredulitatis:",
+      "greek_textus_receptus": "δι᾽ ἃ ἔρχεται ἡ ὀργὴ τοῦ θεοῦ ἐπὶ τοὺς υἱοὺς τῆς ἀπειθείας",
+      "finnish_biblia": "Joidenka tähden Jumalan viha epäuskoisten lasten päälle tulee; ",
+      "swedish_karl_xii": "För hwilka stycker skul, Gudz wrede kommer öfwer otrones barn:",
+      "king_james": "For which things' sake the wrath of God cometh on the children of disobedience:"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "in quibus et vos ambulastis aliquando, cum viveretis in illis.",
+      "greek_textus_receptus": "ἐν οἷς καὶ ὑμεῖς περιεπατήσατέ ποτε ὅτε ἐζῆτε ἐν αὔτοις",
+      "finnish_biblia": "Joissa tekin muinen vaelsitte, kuin te niissä elitte. ",
+      "swedish_karl_xii": "Vthi hwilka J ock fordom wandraden, tå J ther vthi lefden.",
+      "king_james": "In the which ye also walked some time, when ye lived in them."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Nunc autem deponite et vos omnia: iram, indignationem, malitiam, blasphemiam, turpem sermonem de ore vestro.",
+      "greek_textus_receptus": "νυνὶ δὲ ἀπόθεσθε καὶ ὑμεῖς τὰ πάντα ὀργήν θυμόν κακίαν βλασφημίαν αἰσχρολογίαν ἐκ τοῦ στόματος ὑμῶν",
+      "finnish_biblia": "Mutta nyt pankaat myös te pois nämät kaikki, viha, närkästys, pahuus, pilkka, ilkiät sanat, teidän suustanne. ",
+      "swedish_karl_xii": "Men lägger ock nu J bort altsammans; wrede, grymhet, ondsko, försmädelse, skämlig ord, af edar mun.",
+      "king_james": "But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Nolite mentiri invicem, expoliantes vos veterem hominem cum actibus suis,",
+      "greek_textus_receptus": "μὴ ψεύδεσθε εἰς ἀλλήλους ἀπεκδυσάμενοι τὸν παλαιὸν ἄνθρωπον σὺν ταῖς πράξεσιν αὐτοῦ",
+      "finnish_biblia": "Älkäät valehdelko keskenänne, ja riisukaat pois teistänne vanha ihminen tekoinensa, ",
+      "swedish_karl_xii": "Liuger icke för hwar annan: afkläder eder then gamla menniskian medh hans gierningar;",
+      "king_james": "Lie not one to another, seeing that ye have put off the old man with his deeds;"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "et induentes novum eum, qui renovatur in agnitionem secundum imaginem ejus qui creavit illum:",
+      "greek_textus_receptus": "καὶ ἐνδυσάμενοι τὸν νέον τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ᾽ εἰκόνα τοῦ κτίσαντος αὐτόν",
+      "finnish_biblia": "Ja pukekaat päällenne uusi, joka hänen tuntemiseensa uudistetaan, hänen kuvansa jälkeen, joka sen luonut on. ",
+      "swedish_karl_xii": "Och ikläder eder then nya, then ther förnyas til hans kundskap och beläte, som honom skapat hafwer.",
+      "king_james": "And have put on the new *man*, which is renewed in knowledge after the image of him that created him:"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "ubi non est gentilis et Judæus, circumcisio et præputium, Barbarus et Scytha, servus et liber: sed omnia, et in omnibus Christus.",
+      "greek_textus_receptus": "ὅπου οὐκ ἔνι ἕλλην καὶ ἰουδαῖος περιτομὴ καὶ ἀκροβυστία βάρβαρος σκύθης δοῦλος ἐλεύθερος ἀλλὰ τὰ πάντα καὶ ἐν πᾶσιν χριστός",
+      "finnish_biblia": "Kussa ei ole Grekiläinen ja Juudalainen, ympärileikkaus ja esinahka, Barbarus ja Skyta, orja ja vapaa, vaan kaikki ja kaikissa Kristus. ",
+      "swedish_karl_xii": "Ther icke Greek och Jude är, omskärelse och förhud, Barbarisk och Scytisk, tienare och frij, vtan alt i allom Christus.",
+      "king_james": "Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond *nor* free: but Christ *is* all, and in all."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Induite vos ergo, sicut electi Dei, sancti, et dilecti, viscera misericordiæ, benignitatem, humilitatem, modestiam, patientiam:",
+      "greek_textus_receptus": "ἐνδύσασθε οὖν ὡς ἐκλεκτοὶ τοῦ θεοῦ ἅγιοι καὶ ἠγαπημένοι σπλάγχνα οἰκτιρμῶν χρηστότητα ταπεινοφροσύνην πρᾳότητα μακροθυμίαν",
+      "finnish_biblia": "Niin pukekaat siis teitänne niinkuin Jumalan valitut, pyhät ja rakkaat, sydämellisellä laupiudella, ystävyydellä, nöyryydellä, hiljaisuudella ja pitkämielisyydellä, ",
+      "swedish_karl_xii": "Så kläder eder nu, såsom Gudz vthkorade, helgon och älskelige, vthi hiertans barmhertighet, wänlighet, ödmiukhet, sachtmodighet, långmodighet:",
+      "king_james": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "supportantes invicem, et donantes vobismetipsis si quis adversus aliquem habet querelam: sicut et Dominus donavit vobis, ita et vos.",
+      "greek_textus_receptus": "ἀνεχόμενοι ἀλλήλων καὶ χαριζόμενοι ἑαυτοῖς ἐάν τις πρός τινα ἔχῃ μομφήν καθὼς καὶ ὁ χριστὸς ἐχαρίσατο ὑμῖν οὕτως καὶ ὑμεῖς",
+      "finnish_biblia": "Ja kärsikäät toinen toistanne ja anteeksi antakaat toinen toisellenne, jos jollakin on kannetta toista vastaan; niinkuin myös Kristus teille on anteeksi antanut, niin myös tekin tehkäät. ",
+      "swedish_karl_xii": "Och vndrager hwar annan, och förlåter hwar androm, om någor hafwer någon klagomål emot then andra: såsom ock Christus eder förlåtit hafwer, så giörer ock J.",
+      "king_james": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also *do* ye."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Super omnia autem hæc, caritatem habete, quod est vinculum perfectionis:",
+      "greek_textus_receptus": "ἐπὶ πᾶσιν δὲ τούτοις τὴν ἀγάπην ἥτις ἐστιν σύνδεσμος τῆς τελειότητος",
+      "finnish_biblia": "Mutta ylitse näiden kaikkein pukekaat päällenne rakkaus, joka on täydellisyyden side. ",
+      "swedish_karl_xii": "Men öfwer alt thetta ikläder eder kärleken, hwilken är fulkomlighetenes band.",
+      "king_james": "And above all these things *put on* charity, which is the bond of perfectness."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "et pax Christi exsultet in cordibus vestris, in qua et vocati estis in uno corpore: et grati estote.",
+      "greek_textus_receptus": "καὶ ἡ εἰρήνη τοῦ θεοῦ βραβευέτω ἐν ταῖς καρδίαις ὑμῶν εἰς ἣν καὶ ἐκλήθητε ἐν ἑνὶ σώματι καὶ εὐχάριστοι γίνεσθε",
+      "finnish_biblia": "Ja Jumalan rauha hallitkoon teidän sydämissänne, johonka te myös kutsutut olette yhteen ruumiiseen, ja olkaat kiitolliset. ",
+      "swedish_karl_xii": "Och Gudz frijd regere i edor hierta, til hwilken J ock kallade ären vthi en lekamen; och warer tacksame.",
+      "king_james": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Verbum Christi habitet in vobis abundanter, in omni sapientia, docentes, et commonentes vosmetipsos, psalmis, hymnis, et canticis spiritualibus, in gratia cantantes in cordibus vestris Deo.",
+      "greek_textus_receptus": "λόγος τοῦ χριστοῦ ἐνοικείτω ἐν ὑμῖν πλουσίως ἐν πάσῃ σοφίᾳ διδάσκοντες καὶ νουθετοῦντες ἑαυτοὺς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς ἐν χάριτι ᾄδοντες ἐν τῇ καρδίᾳ ὑμῶν τῷ κυρίῳ",
+      "finnish_biblia": "Asukaan Jumalan sana runsaasti teissä, kaikella viisaudella. Opettakaat ja neuvokaat teitänne keskenänne psalmeilla ja kiitosvirsillä ja hengellisillä lauluilla, veisaten armon kautta Herralle teidän sydämissänne. ",
+      "swedish_karl_xii": "Läter Christi ord rikeliga boo vthi eder medh all wijsdom: lärer och förmaner eder inbyrdes medh psalmer och lofsånger, och andeliga wisor i nådene, och siunger Herranom i edart hierta.",
+      "king_james": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Omne, quodcumque facitis in verbo aut in opere, omnia in nomine Domini Jesu Christi, gratias agentes Deo et Patri per ipsum.",
+      "greek_textus_receptus": "καὶ πᾶν ὅ τι ἂν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ πάντα ἐν ὀνόματι κυρίου ἰησοῦ εὐχαριστοῦντες τῷ θεῷ καὶ πατρὶ δι᾽ αὐτοῦ",
+      "finnish_biblia": "Ja kaikki, mitä te teette puheella eli työllä, niin tehkäät kaikki Herran Jesuksen nimeen, ja kiittäkäät Jumalaa ja Isää hänen kauttansa. ",
+      "swedish_karl_xii": "Och alt thet J giören medh ord eller gierning, thet giörer alt i Herrans Jesu namn; och tacker Gudi och Fadrenom genom honom.",
+      "king_james": "And whatsoever ye do in word or deed, *do* all in the name of the Lord Jesus, giving thanks to God and the Father by him."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Mulieres, subditæ estote viris, sicut oportet, in Domino.",
+      "greek_textus_receptus": "αἱ γυναῖκες ὑποτάσσεσθε τοῖς ἰδίοις ἀνδράσιν ὡς ἀνῆκεν ἐν κυρίῳ",
+      "finnish_biblia": "Vaimot, olkaat teidän miehillenne alamaiset Herrassa, niinkuin kohtuullinen on. ",
+      "swedish_karl_xii": "J Hustrur, warer edra män vnderdåniga, såsom tilbörligit är, i Herranom.",
+      "king_james": "Wives, submit yourselves unto your own husbands, as it is fit in the Lord."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Viri, diligite uxores vestras, et nolite amari esse ad illas.",
+      "greek_textus_receptus": "οἱ ἄνδρες ἀγαπᾶτε τὰς γυναῖκας καὶ μὴ πικραίνεσθε πρὸς αὐτάς",
+      "finnish_biblia": "Miehet, rakastakaat vaimojanne, ja älkäät olko tylyt heitä vastaan. ",
+      "swedish_karl_xii": "J män, älsker edra hustrur; och warer icke bittre emot them.",
+      "king_james": "Husbands, love *your* wives, and be not bitter against them."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Filii, obedite parentibus per omnia: hoc enim placitum est in Domino.",
+      "greek_textus_receptus": "τὰ τέκνα ὑπακούετε τοῖς γονεῦσιν κατὰ πάντα τοῦτο γὰρ ἐστιν εὐάρεστόν τῷ κυρίῳ",
+      "finnish_biblia": "Lapset, olkaat kuuliaiset vanhemmillenne kaikissa; sillä se on Herralle hyvin otollinen. ",
+      "swedish_karl_xii": "J barn, warer edra föräldrar lydige i all ting: ty thet täckes wäl Herranom.",
+      "king_james": "Children, obey *your* parents in all things: for this is well pleasing unto the Lord."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Patres, nolite ad indignationem provocare filios vestros, ut non pusillo animo fiant.",
+      "greek_textus_receptus": "οἱ πατέρες μὴ ἐρεθίζετε τὰ τέκνα ὑμῶν ἵνα μὴ ἀθυμῶσιν",
+      "finnish_biblia": "Isät, älkäät kehoittako teidän lapsianne vihaan, ettei he araksi tulisi. ",
+      "swedish_karl_xii": "J fäder, reter icke edor barn: på thet the icke skola warda kleenmodige.",
+      "king_james": "Fathers, provoke not your children *to anger*, lest they be discouraged."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Servi, obedite per omnia dominis carnalibus, non ad oculum servientes, quasi hominibus placentes, sed in simplicitate cordis, timentes Deum.",
+      "greek_textus_receptus": "οἱ δοῦλοι ὑπακούετε κατὰ πάντα τοῖς κατὰ σάρκα κυρίοις μὴ ἐν ὀφθαλμοδουλείαις ὡς ἀνθρωπάρεσκοι ἀλλ᾽ ἐν ἁπλότητι καρδίας φοβούμενοι τὸν θεόν",
+      "finnish_biblia": "Palveliat, olkaat kuuliaiset kaikissa teidän ruumiillisille isännillenne, ei silmäin edessä palvellen, niinkuin ne, jotka ihmisten mieltä noutavat, vaan sydämen yksinkertaisuudessa ja Jumalan pelvossa, ",
+      "swedish_karl_xii": "J tienare, warer lydige edra kötzliga herrar i all ting: icke medh tienst för ögonen, såsom menniskiom til wilja, vtan medh hiertans enfållighet, och medh gudzfruchtan.",
+      "king_james": "Servants, obey in all things *your* masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Quodcumque facitis, ex animo operamini sicut Domino, et non hominibus:",
+      "greek_textus_receptus": "καὶ πᾶν ὃ τι ἐὰν ποιῆτε ἐκ ψυχῆς ἐργάζεσθε ὡς τῷ κυρίῳ καὶ οὐκ ἀνθρώποις",
+      "finnish_biblia": "Ja kaikki, mitä te teette, se tehkäät sydämestänne, niinkuin Herralle ja ei ihmisille, ",
+      "swedish_karl_xii": "Alt hwad J giören, thet giörer af hiertat, såsom Herranom, och icke menniskiom.",
+      "king_james": "And whatsoever ye do, do *it* heartily, as to the Lord, and not unto men;"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "scientes quod a Domino accipietis retributionem hæreditatis. Domino Christo servite.",
+      "greek_textus_receptus": "εἰδότες ὅτι ἀπὸ κυρίου ἀπολήψεσθε τὴν ἀνταπόδοσιν τῆς κληρονομίας τῷ γὰρ κυρίῳ χριστῷ δουλεύετε",
+      "finnish_biblia": "Ja tietäkäät, että te saatte Herralta perimisen palkan; sillä te palvelette Herraa Kristusta. ",
+      "swedish_karl_xii": "Och weter, at J af Herranom skolen få arfsens löön: ty J tienen Herranom Christo.",
+      "king_james": "Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Qui enim injuriam facit, recipiet id quod inique gessit: et non est personarum acceptio apud Deum.",
+      "greek_textus_receptus": "ὁ δὲ ἀδικῶν κομιεῖται ὃ ἠδίκησεν καὶ οὐκ ἔστιν προσωποληψία",
+      "finnish_biblia": "Mutta joka väärin tekee, sen pitää saaman sen jälkeen kuin hän väärin tehnyt on, ja ei pidä muotoa katsottaman.   ",
+      "swedish_karl_xii": "Men then som orätt giör, han skal vndfå hwad han orätt giordt hafwer; och warder intet anseende til personen.",
+      "king_james": "But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons."
+    }
+  ]
+}

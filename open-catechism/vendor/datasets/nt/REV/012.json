@@ -1,0 +1,147 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et signum magnum apparuit in cælo: mulier amicta sole, et luna sub pedibus ejus, et in capite ejus corona stellarum duodecim:",
+      "greek_textus_receptus": "καὶ σημεῖον μέγα ὤφθη ἐν τῷ οὐρανῷ γυνὴ περιβεβλημένη τὸν ἥλιον καὶ ἡ σελήνη ὑποκάτω τῶν ποδῶν αὐτῆς καὶ ἐπὶ τῆς κεφαλῆς αὐτῆς στέφανος ἀστέρων δώδεκα",
+      "finnish_biblia": "Ja suuri ihme ilmestyi taivaassa: vaimo oli puetettu auringolla, ja kuu hänen jalkainsa alla, ja hänen päässänsä kruunu kahdestatoistakymmenestä tähdestä. ",
+      "swedish_karl_xii": "Och i himmelen syntes ett stort tekn: Een qwinna beklädd medh solene, och månen vnder hennes fötter, och på hennes hufwud een erona af tolf stiernor.",
+      "king_james": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "et in utero habens, clamabat parturiens, et cruciabatur ut pariat.",
+      "greek_textus_receptus": "καὶ ἐν γαστρὶ ἔχουσα κράζει ὠδίνουσα καὶ βασανιζομένη τεκεῖν",
+      "finnish_biblia": "Ja hän oli raskas, ja huusi synnyttäissänsä, ja hänellä oli suuri vaiva synnyttää. ",
+      "swedish_karl_xii": "Och hon war hafwandes, ropade, och pijntes medh barn, och hade stort qwahl til at föda.",
+      "king_james": "And she being with child cried, travailing in birth, and pained to be delivered."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et visum est aliud signum in cælo: et ecce draco magnus rufus habens capita septem, et cornua decem: et in capitibus ejus diademata septem,",
+      "greek_textus_receptus": "καὶ ὤφθη ἄλλο σημεῖον ἐν τῷ οὐρανῷ καὶ ἰδού δράκων μέγας πυῤῥός ἔχων κεφαλὰς ἑπτὰ καὶ κέρατα δέκα καὶ ἐπὶ τὰς κεφαλὰς αὐτοῦ διαδήματα ἑπτὰ",
+      "finnish_biblia": "Ja toinen ihme näkyi taivaassa, katso: suuri ruskia lohikärme, jolla oli seitsemän päätä ja kymmenen sarvea, ja hänen päissänsä seitsemän kruunua. ",
+      "swedish_karl_xii": "Och så syntes ett annat tekn i himmelen; och sij, en stoor rödh drake, som hade siu hufwud och tijo horn, och på hans hufwud siu cronor.",
+      "king_james": "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "et cauda ejus trahebat tertiam partem stellarum cæli, et misit eas in terram: et draco stetit ante mulierem, quæ erat paritura, ut cum peperisset, filium ejus devoraret.",
+      "greek_textus_receptus": "καὶ ἡ οὐρὰ αὐτοῦ σύρει τὸ τρίτον τῶν ἀστέρων τοῦ οὐρανοῦ καὶ ἔβαλεν αὐτοὺς εἰς τὴν γῆν καὶ ὁ δράκων ἕστηκεν ἐνώπιον τῆς γυναικὸς τῆς μελλούσης τεκεῖν ἵνα ὅταν τέκῃ τὸ τέκνον αὐτῆς καταφάγῃ",
+      "finnish_biblia": "Ja hänen pyrstönsä veti kolmannen osan taivaan tähdistä, ja heitti ne maan päälle. Ja lohikärme seisoi vaimon edessä, joka oli synnyttämällänsä, että kuin hän olis synnyttänyt, se olisi syönyt hänen lapsensa. ",
+      "swedish_karl_xii": "Och hans stiert drog tredie parten af himmelens stiernor, och kastade them nedh på jordena: och draken stod för qwinnone som föda skulle: på thet, när hon födt hade, skulle han vpäta hennes barn.",
+      "king_james": "And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et peperit filium masculum, qui recturus erat omnes gentes in virga ferrea: et raptus est filius ejus ad Deum, et ad thronum ejus,",
+      "greek_textus_receptus": "καὶ ἔτεκεν υἱόν ἄῤῥενα ὃς μέλλει ποιμαίνειν πάντα τὰ ἔθνη ἐν ῥάβδῳ σιδηρᾷ καὶ ἡρπάσθη τὸ τέκνον αὐτῆς πρὸς τὸν θεὸν καὶ τὸν θρόνον αὐτοῦ",
+      "finnish_biblia": "Ja hän synnytti poikalapsen, joka oli kaikki pakanat hallitseva rautaisella vitsalla. Ja hänen poikansa temmattiin Jumalan tykö ja hänen istuimensa tykö. ",
+      "swedish_karl_xii": "Och hon födde ett swenbarn som regera skulle alla Hedningar medh jernrijs: och hennes barn wardt borttagit til Gudh och til hans stool.",
+      "king_james": "And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and *to* his throne."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "et mulier fugit in solitudinem ubi habebat locum paratum a Deo, ut ibi pascant eam diebus mille ducentis sexaginta.",
+      "greek_textus_receptus": "καὶ ἡ γυνὴ ἔφυγεν εἰς τὴν ἔρημον ὅπου ἔχει τόπον ἡτοιμασμένον ἀπὸ τοῦ θεοῦ ἵνα ἐκεῖ τρέφωσιν αὐτὴν ἡμέρας χιλίας διακοσίας ἑξήκοντα",
+      "finnish_biblia": "Ja vaimo pakeni korpeen, kussa hänelle oli sia Jumalalta valmistettu, siinä ruokittaa tuhannen kaksisataa ja kuusikymmentä päivää. ",
+      "swedish_karl_xii": "Och qwinnan flydde vthi öknena, ther hon rum hade, beredt af Gudi, at hon ther födas skulle, i tusende, twhundrade och sextijo dagar.",
+      "king_james": "And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred *and* threescore days."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et factum est prælium magnum in cælo: Michaël et angeli ejus præliabantur cum dracone, et draco pugnabat, et angeli ejus:",
+      "greek_textus_receptus": "καὶ ἐγένετο πόλεμος ἐν τῷ οὐρανῷ ὁ μιχαὴλ καὶ οἱ ἄγγελοι αὐτοῦ ἐπολέμησαν κατὰ τοῦ δράκοντος καὶ ὁ δράκων ἐπολέμησεν καὶ οἱ ἄγγελοι αὐτοῦ",
+      "finnish_biblia": "Ja (suuri) sota tapahtui taivaassa: Mikael ja hänen enkelinsä sotivat lohikärmeen kanssa, ja lohikärme soti ja hänen enkelinsä. ",
+      "swedish_karl_xii": "Och thet wardt en stoor strijd i himmelen: Michael och hans Änglar stridde medh drakan; och draken stridde och hans änglar:",
+      "king_james": "And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "et non valuerunt, neque locus inventus est eorum amplius in cælo.",
+      "greek_textus_receptus": "καὶ οὐκ ἴσχυσαν οὐτὲ τόπος εὑρέθη αὐτῶν ἔτι ἐν τῷ οὐρανῷ",
+      "finnish_biblia": "Ja ei he voittaneet, eikä heidän siaansa enää löydetty taivaassa. ",
+      "swedish_karl_xii": "Och the wunno intet; och theras rum wardt icke meer funnet i himmelen.",
+      "king_james": "And prevailed not; neither was their place found any more in heaven."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Et projectus est draco ille magnus, serpens antiquus, qui vocatur diabolus, et Satanas, qui seducit universum orbem: et projectus est in terram, et angeli ejus cum illo missi sunt.",
+      "greek_textus_receptus": "καὶ ἐβλήθη ὁ δράκων ὁ μέγας ὁ ὄφις ὁ ἀρχαῖος ὁ καλούμενος διάβολος καὶ ὁ σατανᾶς ὁ πλανῶν τὴν οἰκουμένην ὅλην ἐβλήθη εἰς τὴν γῆν καὶ οἱ ἄγγελοι αὐτοῦ μετ᾽ αὐτοῦ ἐβλήθησαν",
+      "finnish_biblia": "Ja suuri lohikärme, vanha mato, joka perkeleeksi ja saatanaksi kutsutaan, heitettiin ulos, joka koko maan piirin viettelee, hän heitettiin maan päälle, ja hänen enkelinsä myös hänen kanssansa heitettiin sinne. ",
+      "swedish_karl_xii": "Och then store draken, then gamle ormen, then ther heter diefwul och Satanas, wardt vthkastad, then ther bedrager hela werldena; och han wardt kastad på jordena, och hans änglar wordo ock bortkastade medh honom.",
+      "king_james": "And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Et audivi vocem magnam in cælo dicentem: Nunc facta est salus, et virtus, et regnum Dei nostri, et potestas Christi ejus: quia projectus est accusator fratrum nostrorum, qui accusabat illos ante conspectum Dei nostri die ac nocte.",
+      "greek_textus_receptus": "καὶ ἤκουσα φωνὴν μεγάλην λέγουσαν ἐν τῷ οὐρανῷ ἄρτι ἐγένετο ἡ σωτηρία καὶ ἡ δύναμις καὶ ἡ βασιλεία τοῦ θεοῦ ἡμῶν καὶ ἡ ἐξουσία τοῦ χριστοῦ αὐτοῦ ὅτι κατἐβλήθη ὁ κατήγορος τῶν ἀδελφῶν ἡμῶν ὁ κατηγορῶν αυτῶν ἐνώπιον τοῦ θεοῦ ἡμῶν ἡμέρας καὶ νυκτός",
+      "finnish_biblia": "Ja minä kuulin suuren äänen taivaassa sanovan: nyt on autuus, ja voima, ja valtakunta, ja väki meidän Jumalamme, ja valta hänen Kristuksensa: että meidän veljiemme päällekantaja on heitetty ulos, joka heidän päällensä yötä ja päivää Jumalan edessä kantoi. ",
+      "swedish_karl_xii": "Och jagh hörde en stoor röst som sade i himmelen: Nu är wår Gudz salighet, och kraft, och rike, och macht hans Christs worden, efter wåra bröders åklagare är förkastad, then them åklagade för Gudh, dagh och natt.",
+      "king_james": "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et ipsi vicerunt eum propter sanguinem Agni, et propter verbum testimonii sui, et non dilexerunt animas suas usque ad mortem.",
+      "greek_textus_receptus": "καὶ αὐτοὶ ἐνίκησαν αὐτὸν διὰ τὸ αἷμα τοῦ ἀρνίου καὶ διὰ τὸν λόγον τῆς μαρτυρίας αὐτῶν καὶ οὐκ ἠγάπησαν τὴν ψυχὴν αὐτῶν ἄχρι θανάτου",
+      "finnish_biblia": "Ja he ovat hänen voittaneet Karitsan veren kautta, ja heidän todistuksensa sanan kautta; ja ei he henkeänsä kuolemaan asti rakastaneet. ",
+      "swedish_karl_xii": "Och the wunno honom för Lambsens blodh skul, och för thes witnesbyrdz ord skul, och the hafwa icke älskat sitt lijf alt in til döden.",
+      "king_james": "And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Propterea lætamini cæli, et qui habitatis in eis. Væ terræ, et mari, quia descendit diabolus ad vos habens iram magnam, sciens quod modicum tempus habet.",
+      "greek_textus_receptus": "διὰ τοῦτο εὐφραίνεσθε οἱ οὐρανοὶ καὶ οἱ ἐν αὐτοῖς σκηνοῦντες οὐαὶ τοῖς κατοικοῦσιν τὴν γῆν καὶ τὴν θάλασσαν ὅτι κατέβη ὁ διάβολος πρὸς ὑμᾶς ἔχων θυμὸν μέγαν εἰδὼς ὅτι ὀλίγον καιρὸν ἔχει",
+      "finnish_biblia": "Sentähden te, taivaat, iloitkaat, ja jotka niissä asutte. Voi maan ja meren asuvia! sillä perkele astuu alas teidän tykönne, pitäin suurta vihaa, tietäen itsellänsä vähän aikaa olevan. ",
+      "swedish_karl_xii": "Therföre glädiens, J himlar, och the som boo i them. Wee them som boo på jordene, och på hafwet: ty diefwulen stiger nedh til eder, och hafwer en stoor wrede, wetandes, at han icke lång tijd hafwer.",
+      "king_james": "Therefore rejoice, *ye* heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Et postquam vidit draco quod projectus esset in terram, persecutus est mulierem, quæ peperit masculum:",
+      "greek_textus_receptus": "καὶ ὅτε εἶδεν ὁ δράκων ὅτι ἐβλήθη εἰς τὴν γῆν ἐδίωξεν τὴν γυναῖκα ἥτις ἔτεκεν τὸν ἄῤῥενα",
+      "finnish_biblia": "Ja kuin lohikärme näki itsensä maahan heitetyksi, vainosi hän vaimoa, joka pojan synnytti. ",
+      "swedish_karl_xii": "Och tå draken såg at han förkastad war på jordena, förfölgde han qwinnona som swenbarnet födt hade.",
+      "king_james": "And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man *child*."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "et datæ sunt mulieri alæ duæ aquilæ magnæ ut volaret in desertum in locum suum, ubi alitur per tempus et tempora, et dimidium temporis a facie serpentis.",
+      "greek_textus_receptus": "καὶ ἐδόθησαν τῇ γυναικὶ δύο πτέρυγες τοῦ ἀετοῦ τοῦ μεγάλου ἵνα πέτηται εἰς τὴν ἔρημον εἰς τὸν τόπον αὐτῆς ὅπου τρέφεται ἐκεῖ καιρὸν καὶ καιροὺς καὶ ἥμισυ καιροῦ ἀπὸ προσώπου τοῦ ὄφεως",
+      "finnish_biblia": "Ja vaimolle annettiin kaksi suuren kotkan siipeä, että hän olis korpeen siaansa lentänyt, kussa hän elätetään ajan, ja kaksi aikaa, ja puolen aikaa, kärmeen kasvoin edestä. ",
+      "swedish_karl_xii": "Och qwinnone wordo gifne twå wingar, såsom af en stoor örn: at hon skulle flyga vthi öknena vthi sitt rum, ther hon födes en tijd, och twå tider, och en half tijd, ifrån ormsens ansichte.",
+      "king_james": "And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Et misit serpens ex ore suo post mulierem, aquam tamquam flumen, ut eam faceret trahi a flumine.",
+      "greek_textus_receptus": "καὶ ἔβαλεν ὁ ὄφις ὀπίσω τῆς γυναικὸς ἐκ τοῦ στόματος αὐτοῦ ὕδωρ ὡς ποταμόν ἵνα ταὐτὴν ποταμοφόρητον ποιήσῃ",
+      "finnish_biblia": "Ja kärme puuskasi vaimon jälkeen suustansa vettä niinkuin kosken, upottaaksensa häntä. ",
+      "swedish_karl_xii": "Och ormen sputade vthu sin mun watn såsom en ström efter qwinnona: på thet han skulle fördränckia henne.",
+      "king_james": "And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Et adjuvit terra mulierem, et aperuit terra os suum, et absorbuit flumen, quod misit draco de ore suo.",
+      "greek_textus_receptus": "καὶ ἐβοήθησεν ἡ γῆ τῇ γυναικί καὶ ἤνοιξεν ἡ γῆ τὸ στόμα αὐτῆς καὶ κατέπιεν τὸν ποταμὸν ὃν ἔβαλεν ὁ δράκων ἐκ τοῦ στόματος αὐτοῦ",
+      "finnish_biblia": "Mutta maa autti vaimoa, ja maa avasi suunsa, ja särpi veden, jonka lohikärme suustansa puuskannut oli. ",
+      "swedish_karl_xii": "Men jorden halp qwinnone, och vplät sin mun, och vpswalg strömen som draken af sin mun vthsputat hade.",
+      "king_james": "And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Et iratus est draco in mulierem: et abiit facere prælium cum reliquis de semine ejus, qui custodiunt mandata Dei, et habent testimonium Jesu Christi.",
+      "greek_textus_receptus": "καὶ ὠργίσθη ὁ δράκων ἐπὶ τῇ γυναικί καὶ ἀπῆλθεν ποιῆσαι πόλεμον μετὰ τῶν λοιπῶν τοῦ σπέρματος αὐτῆς τῶν τηρούντων τὰς ἐντολὰς τοῦ θεοῦ καὶ ἐχόντων τὴν μαρτυρίαν τοῦ ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Ja lohikärme vihastui vaimon päälle, ja meni sotimaan muiden kanssa hänen siemenestänsä, jotka Jumalan käskyt kätkevät ja Jesuksen Kristuksen todistuksen pitävät. ",
+      "swedish_karl_xii": "Och draken wardt wredh på qwinnona, och gick bort, at han skulle örliga medh the andra af hennes sädh, the som hålla Gudz budh, och hafwa Jesu Christi witnesbyrd.",
+      "king_james": "And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "book_id": "ROM",
+  "latin_name": "Epistula ad Romanos",
+  "greek_name": "Πρὸς Ῥωμαίους",
+  "finnish_name": "Kirje roomalaisille",
+  "swedish_name": "S. Pauli Epistel Til the Romare",
+  "english_name": "The Epistle of Paul the Apostle to the Romans",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Quid ergo dicemus invenisse Abraham patrem nostrum secundum carnem?",
+      "greek_textus_receptus": "τί οὖν ἐροῦμεν ἀβραὰμ τὸν πατέρα ἡμῶν εὑρηκέναι κατὰ σάρκα",
+      "finnish_biblia": "Mitäs me siis sanomme meidän isämme Abrahamin lihan puolesta löytäneen? ",
+      "swedish_karl_xii": "Hwad säije wij tå, wår fader Abraham efter kötet hafwa funnet?",
+      "king_james": "What shall we say then that Abraham our father, as pertaining to the flesh, hath found?"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Si enim Abraham ex operibus justificatus est, habet gloriam, sed non apud Deum.",
+      "greek_textus_receptus": "εἰ γὰρ ἀβραὰμ ἐξ ἔργων ἐδικαιώθη ἔχει καύχημα ἀλλ᾽ οὐ πρὸς τὸν θεόν",
+      "finnish_biblia": "Sillä jos Abraham on töiden kautta vanhurskaaksi tullut, niin hänellä on kerskaamista, vaan ei Jumalan edessä. ",
+      "swedish_karl_xii": "Thet säije wij: Är Abraham rättferdig worden af gierningarna, så hafwer han thet han må beröma sigh af; men icke för Gudi.",
+      "king_james": "For if Abraham were justified by works, he hath *whereof* to glory; but not before God."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Quid enim dicit Scriptura? Credidit Abraham Deo, et reputatam est illi ad justitiam.",
+      "greek_textus_receptus": "τί γὰρ ἡ γραφὴ λέγει ἐπίστευσεν δὲ ἀβραὰμ τῷ θεῷ καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην",
+      "finnish_biblia": "Mutta mitä Raamattu sano: Abraham uskoi Jumalan, ja se luettiin hänelle vanhurskaudeksi. ",
+      "swedish_karl_xii": "Men hwad säger Skriften? Abraham trodde Gudi, och thet wardt honom räknat til rättferdighet.",
+      "king_james": "For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Ei autem qui operatur, merces non imputatur secundum gratiam, sed secundum debitum.",
+      "greek_textus_receptus": "τῷ δὲ ἐργαζομένῳ ὁ μισθὸς οὐ λογίζεται κατὰ χάριν ἀλλὰ κατὰ τό ὀφείλημα",
+      "finnish_biblia": "Mutta sille, joka työtä tekee, ei lueta palkkaa armosta, vaan ansiosta. ",
+      "swedish_karl_xii": "Men honom som håller sigh widh gierningarna, warder lönen icke räknad af nådh, vtan af plicht.",
+      "king_james": "Now to him that worketh is the reward not reckoned of grace, but of debt."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Ei vero qui non operatur, credenti autem in eum, qui justificat impium, reputatur fides ejus ad justitiam secundum propositum gratiæ Dei.",
+      "greek_textus_receptus": "τῷ δὲ μὴ ἐργαζομένῳ πιστεύοντι δὲ ἐπὶ τὸν δικαιοῦντα τὸν ἀσεβῆ λογίζεται ἡ πίστις αὐτοῦ εἰς δικαιοσύνην",
+      "finnish_biblia": "Mutta joka ei työtä tee, vaan uskoo sen päälle, joka jumalattoman vanhurskaaksi tekee, hänen uskonsa luetaan hänelle vanhurskaudeksi. ",
+      "swedish_karl_xii": "Men honom som icke håller sigh widh gierningarna, vtan troor på honom som then ogudachtiga giör rättferdigan, hans troo warder honom räknad til rättferdighet.",
+      "king_james": "But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Sicut et David dicit beatitudinem hominis, cui Deus accepto fert justitiam sine operibus:",
+      "greek_textus_receptus": "καθάπερ καὶ δαβὶδ λέγει τὸν μακαρισμὸν τοῦ ἀνθρώπου ᾧ ὁ θεὸς λογίζεται δικαιοσύνην χωρὶς ἔργων",
+      "finnish_biblia": "Niinkuin myös David sanoo: autuus on sen ihmisen, jolle Jumala vanhurskauden lukee ilman töitä: ",
+      "swedish_karl_xii": "Såsom ock David säger, at saligheten är thens menniskios, hwilko Gudh tilräknar rättferdighetena, vthan gierningar.",
+      "king_james": "Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "[Beati, quorum remissæ sunt iniquitates, et quorum tecta sunt peccata.",
+      "greek_textus_receptus": "μακάριοι ὧν ἀφέθησαν αἱ ἀνομίαι καὶ ὧν ἐπεκαλύφθησαν αἱ ἁμαρτίαι",
+      "finnish_biblia": "Autuaat ovat ne, joidenka vääryydet ovat anteeksi annetut, ja joidenka synnit peitetyt ovat. ",
+      "swedish_karl_xii": "Salige äro the som theras orättferdigheter äro förlåtna, och theras synder äro öfwerskylta.",
+      "king_james": "*Saying*, Blessed *are* they whose iniquities are forgiven, and whose sins are covered."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Beatus vir, cui non imputavit Dominus peccatum.]",
+      "greek_textus_receptus": "μακάριος ἀνὴρ ᾧ οὗ μὴ λογίσηται κύριος ἁμαρτίαν",
+      "finnish_biblia": "Autuas on se mies, jolle Jumala ei syntiä lue. ",
+      "swedish_karl_xii": "Salig är then man, som Gudh ingen synd tilräknar.",
+      "king_james": "Blessed *is* the man to whom the Lord will not impute sin."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Beatitudo ergo hæc in circumcisione tantum manet, an etiam in præputio? Dicimus enim quia reputata est Abrahæ fides ad justitiam.",
+      "greek_textus_receptus": "ὁ μακαρισμὸς οὖν οὗτος ἐπὶ τὴν περιτομὴν ἢ καὶ ἐπὶ τὴν ἀκροβυστίαν λέγομεν γάρ ὅτι ἐλογίσθη τῷ ἀβραὰμ ἡ πίστις εἰς δικαιοσύνην",
+      "finnish_biblia": "Lieneekö siis tämä autuus ainoastaan ympärileikkaukselle tullut, elikkä myös esinahalle? Niinpä me sanomme: Abrahamille luettiin usko vanhurskaudeksi. ",
+      "swedish_karl_xii": "Mån nu thenna saligheten allenast wara kommen öfwer omskärelsen, eller och öfwer förhudena? Wij säije ju, at Abrahe wardt troon räknad til rättferdighet.",
+      "king_james": "*Cometh* this blessedness then upon the circumcision *only*, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Quomodo ergo reputata est? in circumcisione, an in præputio? Non in circumcisione, sed in præputio.",
+      "greek_textus_receptus": "πῶς οὖν ἐλογίσθη ἐν περιτομῇ ὄντι ἢ ἐν ἀκροβυστίᾳ οὐκ ἐν περιτομῇ ἀλλ᾽ ἐν ἀκροβυστίᾳ",
+      "finnish_biblia": "Kuinkas se hänelle luettiin: koska hän oli ympärileikkauksessa, eli esinahassa? Ei ympärileikkauksessa, vaan esinahassa, ",
+      "swedish_karl_xii": "Huru blef hon tå honom tilräknad? När han war i omskärelsen, eller när han war i förhudene? Jcke i omskärelsen, vtan i förhudene.",
+      "king_james": "How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et signum accepit circumcisionis, signaculum justitiæ fidei, quæ est in præputio: ut sit pater omnium credentium per præputium, ut reputetur et illis ad justitiam:",
+      "greek_textus_receptus": "καὶ σημεῖον ἔλαβεν περιτομῆς σφραγῖδα τῆς δικαιοσύνης τῆς πίστεως τῆς ἐν τῇ ἀκροβυστίᾳ εἰς τὸ εἶναι αὐτὸν πατέρα πάντων τῶν πιστευόντων δι᾽ ἀκροβυστίας εἰς τὸ λογισθῆναι καὶ αὐτοῖς τὴν δικαιοσύνην",
+      "finnish_biblia": "Ja hän sai ympärileikkauksen merkin vahvistukseksi, että hän oli uskon kautta vanhurskaaksi tehty, joka hänellä esinahassa oli, että hänen piti oleman kaikkein uskovaisten isä esinahassa, että se niillekin vanhurskaudeksi luettaisiin, ",
+      "swedish_karl_xii": "Men han tog omskärelsens tekn för ett insigel til trones rättferdighet, hwilka han hade i förhudene: at han skulle wara allas theras fader som i förhudene trodde, at sådant skulle ock räknas them för rättferdighet:",
+      "king_james": "And he received the sign of circumcision, a seal of the righteousness of the faith which *he had yet* being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "et sit pater circumcisionis non iis tantum, qui sunt ex circumcisione, sed et iis qui sectantur vestigia fidei, quæ est in præputio patris nostri Abrahæ.",
+      "greek_textus_receptus": "καὶ πατέρα περιτομῆς τοῖς οὐκ ἐκ περιτομῆς μόνον ἀλλὰ καὶ τοῖς στοιχοῦσιν τοῖς ἴχνεσιν τῆς ἐν τῇ ἀκροβυστίᾳ πίστεως τοῦ πατρὸς ἡμῶν ἀβραάμ",
+      "finnish_biblia": "Ja hän tulis myös ympärileikkauksen isäksi, ei ainoasti niiden, jotka ympärileikatuista syntyneet ovat, mutta myös niiden, jotka sen uskon jälkiä vaeltavat, joka meidän isän Abrahamin esinahassa oli. ",
+      "swedish_karl_xii": "Theslikes ock omskärelsens fader, icke them allenast som äro af omskärelsen, vtan ock them som wandra i trones footspor, som war i wår faders Abrahams förhud.",
+      "king_james": "And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which *he had* being *yet* uncircumcised."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Non enim per legem promissio Abrahæ, aut semini ejus ut hæres esset mundi: sed per justitiam fidei.",
+      "greek_textus_receptus": "οὐ γὰρ διὰ νόμου ἡ ἐπαγγελία τῷ ἀβραὰμ ἢ τῷ σπέρματι αὐτοῦ τὸ κληρονόμον αὐτὸν εἶναι τοῦ κόσμου ἀλλὰ διὰ δικαιοσύνης πίστεως",
+      "finnish_biblia": "Sillä se lupaus, että hänen piti maailman perilliseksi tuleman, ei ole Abrahamille eikä hänen siemenellensä lain kautta tapahtunut, vaan uskon vanhurskauden kautta. ",
+      "swedish_karl_xii": "Ty thet löftet, at han skulle warda werldenes arfwinge, är icke skedt Abrahe och hans sädh, igenom lagen, vtan igenom trones rättferdighet.",
+      "king_james": "For the promise, that he should be the heir of the world, *was* not to Abraham, or to his seed, through the law, but through the righteousness of faith."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Si enim qui ex lege, hæredes sunt: exinanita est fides, abolita est promissio.",
+      "greek_textus_receptus": "εἰ γὰρ οἱ ἐκ νόμου κληρονόμοι κεκένωται ἡ πίστις καὶ κατήργηται ἡ ἐπαγγελία",
+      "finnish_biblia": "Sillä jos ne, jotka laista ovat, ovat perilliset, niin usko on turha ja lupaus on hukkaan tullut. ",
+      "swedish_karl_xii": "Ty om the som lyda til lagen, äro arfwingar, så är troon onyttig worden, och löftet är blifwit om intet.",
+      "king_james": "For if they which are of the law *be* heirs, faith is made void, and the promise made of none effect:"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Lex enim iram operatur. Ubi enim non est lex, nec prævaricatio.",
+      "greek_textus_receptus": "ὁ γὰρ νόμος ὀργὴν κατεργάζεται οὗ γὰρ οὐκ ἔστιν νόμος οὐδὲ παράβασις",
+      "finnish_biblia": "Sillä laki kehoittaa vihan; sillä kussa ei lakia ole, ei siellä ole myös ylitsekäymistä. ",
+      "swedish_karl_xii": "Ty lagen kommer wrede åstadh : ty ther ingen lagh är, ther är icke heller öfwerträdelse.",
+      "king_james": "Because the law worketh wrath: for where no law is, *there is* no transgression."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Ideo ex fide, ut secundum gratiam firma sit promissio omni semini, non ei qui ex lege est solum, sed et ei qui ex fide est Abrahæ, qui pater est omnium nostrum",
+      "greek_textus_receptus": "διὰ τοῦτο ἐκ πίστεως ἵνα κατὰ χάριν εἰς τὸ εἶναι βεβαίαν τὴν ἐπαγγελίαν παντὶ τῷ σπέρματι οὐ τῷ ἐκ τοῦ νόμου μόνον ἀλλὰ καὶ τῷ ἐκ πίστεως ἀβραάμ ὅς ἐστιν πατὴρ πάντων ἡμῶν",
+      "finnish_biblia": "Sentähden tulee se uskosta, että sen pitää armosta oleman: että se lupaus pitää vahva oleman kaikelle siemenelle, ei sille ainoastaan, joka lain alla on, mutta myös sille, joka Abrahamin uskosta on, joka on meidän kaikkein isämme, ",
+      "swedish_karl_xii": "Therföre måste thet wara af trone, at thet skal wara af nådh, och löftet fast blifwa allo sädene; icke honom allenast som är af lagen, vtan ock honom som är af Abrahams troo, hwilken är allas wåra fader:",
+      "king_james": "Therefore *it is* of faith, that *it might be* by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "(sicut scriptum est: Quia patrem multarum gentium posui te) ante Deum, cui credidit, qui vivificat mortuos, et vocat ea quæ non sunt, tamquam ea quæ sunt:",
+      "greek_textus_receptus": "καθὼς γέγραπται ὅτι πατέρα πολλῶν ἐθνῶν τέθεικά σε κατέναντι οὗ ἐπίστευσεν θεοῦ τοῦ ζῳοποιοῦντος τοὺς νεκροὺς καὶ καλοῦντος τὰ μὴ ὄντα ὡς ὄντα",
+      "finnish_biblia": "(Niinkuin kirjoitettu on: minä asetin sinun monen pakanan isäksi) Jumalan edessä, jonka hän uskonut on, joka kuolleet eläväksi tekee ja kutsuu ne, jotka ei ole, niinkuin ne olisivat. ",
+      "swedish_karl_xii": "Som skrifwit är: Jagh hafwer satt tigh til en fader öfwer många Hedningar ; för Gudi then tu trodt hafwer, hwilken the döda giör lefwande, och kallar the ting som icke äro, lika som the woro.",
+      "king_james": "(As it is written, I have made thee a father of many nations,) before him whom he believed, *even* God, who quickeneth the dead, and calleth those things which be not as though they were."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "qui contra spem in spem credidit, ut fieret pater multarum gentium secundum quod dictum est ei: Sic erit semen tuum.",
+      "greek_textus_receptus": "ὃς παρ᾽ ἐλπίδα ἐπ᾽ ἐλπίδι ἐπίστευσεν εἰς τὸ γενέσθαι αὐτὸν πατέρα πολλῶν ἐθνῶν κατὰ τὸ εἰρημένον οὕτως ἔσται τὸ σπέρμα σου",
+      "finnish_biblia": "Ja hän uskoo sen toivon, jossa ei toivoa ollut, että hänen piti oleman monen pakanan isän, sen jälkeen kuin hänelle sanottu oli: niin pitää sinun siemenes oleman. ",
+      "swedish_karl_xii": "Och han trodde på thet hopp, ther intet hopp war, at han skulle warda många Hedningars fader, som sagt war til honom: Så skal tin sädh wara.",
+      "king_james": "Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall thy seed be."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Et non infirmatus est fide, nec consideravit corpus suum emortuum, cum jam fere centum esset annorum, et emortuam vulvam Saræ.",
+      "greek_textus_receptus": "καὶ μὴ ἀσθενήσας τῇ πίστει οὐ κατενόησεν τὸ ἑαυτοῦ σῶμα ἤδη νενεκρωμένον ἑκατονταετής που ὑπάρχων καὶ τὴν νέκρωσιν τῆς μήτρας σάῤῥας",
+      "finnish_biblia": "Ja ei hän tullut heikoksi uskossa eikä katsonut kuollutta ruumistansa, ehkä hän jo lähes sadan ajastajan vanha oli, eikä Saaran kuollutta kohtua. ",
+      "swedish_karl_xii": "Och han wardt icke swag i trone, och achtade icke sin halfdöda krop: ty han war när hundrade åhra gammal; eij heller Saras halfdöda qwed.",
+      "king_james": "And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara's womb:"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "In repromissione etiam Dei non hæsitavit diffidentia, sed confortatus est fide, dans gloriam Deo:",
+      "greek_textus_receptus": "εἰς δὲ τὴν ἐπαγγελίαν τοῦ θεοῦ οὐ διεκρίθη τῇ ἀπιστίᾳ ἀλλ᾽ ἐνεδυναμώθη τῇ πίστει δοὺς δόξαν τῷ θεῷ",
+      "finnish_biblia": "Mutta ei hän epäillyt ensinkään Jumalan lupauksesta epäuskolla, vaan oli vahva uskossa ja antoi Jumalalle kunnian, ",
+      "swedish_karl_xii": "Ty han twiflade intet på Gudz löfte medh otro; vtan wardt starck i trone, gifwandes Gudi ährona.",
+      "king_james": "He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "plenissime sciens, quia quæcumque promisit, potens est et facere.",
+      "greek_textus_receptus": "καὶ πληροφορηθεὶς ὅτι ὃ ἐπήγγελται δυνατός ἐστιν καὶ ποιῆσαι",
+      "finnish_biblia": "Ja oli täydellisesti vahva siitä, että mitä Jumala lupaa, sen hän myös voi tehdä. ",
+      "swedish_karl_xii": "Och war fulwiß ther på, at then som låfwade, han war ock mächtig thet at hålla.",
+      "king_james": "And being fully persuaded that, what he had promised, he was able also to perform."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Ideo et reputatum est illi ad justitiam.",
+      "greek_textus_receptus": "διὸ καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην",
+      "finnish_biblia": "Sentähden se on myös hänelle vanhurskaudeksi luettu. ",
+      "swedish_karl_xii": "Therföre war thet ock räknat honom til rättferdighet.",
+      "king_james": "And therefore it was imputed to him for righteousness."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Non est autem scriptum tantum propter ipsum quia reputatum est illi ad justitiam:",
+      "greek_textus_receptus": "οὐκ ἐγράφη δὲ δι᾽ αὐτὸν μόνον ὅτι ἐλογίσθη αὐτῷ",
+      "finnish_biblia": "Niin ei se ole ainoastaan hänen tähtensä kirjoitettu, että se hänelle luettu oli, ",
+      "swedish_karl_xii": "Så är thetta icke allenast skrifwit för hans skul, at honom tilräknat wardt:",
+      "king_james": "Now it was not written for his sake alone, that it was imputed to him;"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "sed et propter nos, quibus reputabitur credentibus in eum, qui suscitavit Jesum Christum Dominum nostrum a mortuis,",
+      "greek_textus_receptus": "ἀλλὰ καὶ δι᾽ ἡμᾶς οἷς μέλλει λογίζεσθαι τοῖς πιστεύουσιν ἐπὶ τὸν ἐγείραντα ἰησοῦν τὸν κύριον ἡμῶν ἐκ νεκρῶν",
+      "finnish_biblia": "Vaan myös meidän tähtemme, joille se myös pitää luettaman, kuin me sen päälle uskomme, joka meidän Herran Jesuksen kuolleista herätti, ",
+      "swedish_karl_xii": "Vtan ock för wåra skul, som thet ock så tilräknat warder, när wij troom på honom, som wår Herra Jesum vpwäckte ifrå the döda:",
+      "king_james": "But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "qui traditus est propter delicta nostra, et resurrexit propter justificationem nostram.",
+      "greek_textus_receptus": "ὃς παρεδόθη διὰ τὰ παραπτώματα ἡμῶν καὶ ἠγέρθη διὰ τὴν δικαίωσιν ἡμῶν",
+      "finnish_biblia": "Joka meidän synteimme tähden on annettu ulos, ja meidän vanhurskauttamisemme tähden herätetty ylös.   ",
+      "swedish_karl_xii": "Hwilken för wåra synder skul är vthgifwen ; och för wåra rättferdighet skul vpwäckt.",
+      "king_james": "Who was delivered for our offences, and was raised again for our justification."
+    }
+  ]
+}

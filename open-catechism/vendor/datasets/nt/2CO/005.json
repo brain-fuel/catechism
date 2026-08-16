@@ -1,0 +1,179 @@
+{
+  "book_id": "2CO",
+  "latin_name": "Epistula II ad Corinthios",
+  "greek_name": "Πρὸς Κορινθίους Β",
+  "finnish_name": "Toinen kirje korinttilaisille",
+  "swedish_name": "S. Pauli Epistel then andra Til the Corinther",
+  "english_name": "The Second Epistle of Paul the Apostle to the Corinthians",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Scimus enim quoniam si terrestris domus nostra hujus habitationis dissolvatur, quod ædificationem ex Deo habemus, domum non manufactam, æternam in cælis.",
+      "greek_textus_receptus": "οἴδαμεν γὰρ ὅτι ἐὰν ἡ ἐπίγειος ἡμῶν οἰκία τοῦ σκήνους καταλυθῇ οἰκοδομὴν ἐκ θεοῦ ἔχομεν οἰκίαν ἀχειροποίητον αἰώνιον ἐν τοῖς οὐρανοῖς",
+      "finnish_biblia": "Sillä me tiedämme, että jos tämän majan meidän maallinen huone puretaan, meillä olevan rakennuksen Jumalalta, huoneen, ei käsillä tehdyn, joka on ijankaikkinen taivaissa; ",
+      "swedish_karl_xii": "Men wij wete, at om thenna hyddones wårt jordiska huus nederslaget warder, så hafwe wij ena byggning af Gudi bygd; ett huus, icke medh händer giordt, thet ewigt är i himmelen.",
+      "king_james": "For we know that if our earthly house of *this* tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Nam et in hoc ingemiscimus, habitationem nostram, quæ de cælo est, superindui cupientes:",
+      "greek_textus_receptus": "καὶ γὰρ ἐν τούτῳ στενάζομεν τὸ οἰκητήριον ἡμῶν τὸ ἐξ οὐρανοῦ ἐπενδύσασθαι ἐπιποθοῦντες",
+      "finnish_biblia": "Jota me myös huokaamme, ikävöiden, että me meidän majallamme, joka taivaasta on, puetetuksi tulisimme, ",
+      "swedish_karl_xii": "Och öfwer thet samma sucke wij ock, efter wårt heman som af himmelen är; och oß längtar, at wij ther medh måge öfwerklädde warda:",
+      "king_james": "For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "si tamen vestiti, non nudi inveniamur.",
+      "greek_textus_receptus": "εἴγε καὶ ἐνδυσάμενοι οὐ γυμνοὶ εὑρεθησόμεθα",
+      "finnish_biblia": "Jos me muutoin puetettuna, ja ei alasti löydettäisiin. ",
+      "swedish_karl_xii": "Doch om wij klädde, och icke nakne finnes.",
+      "king_james": "If so be that being clothed we shall not be found naked."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Nam et qui sumus in hoc tabernaculo, ingemiscimus gravati: eo quod nolumus expoliari, sed supervestiri, ut absorbeatur quod mortale est, a vita.",
+      "greek_textus_receptus": "καὶ γὰρ οἱ ὄντες ἐν τῷ σκήνει στενάζομεν βαρούμενοι ἐπειδή οὐ θέλομεν ἐκδύσασθαι ἀλλ᾽ ἐπενδύσασθαι ἵνα καταποθῇ τὸ θνητὸν ὑπὸ τῆς ζωῆς",
+      "finnish_biblia": "Sillä me, jotka tässä majassa olemme, huokaamme, että me rasitetut olemme, jossa emme tahdo riisuttuna, vaan puetettuna olla, että se kuolevainen elämältä nieltäisiin. ",
+      "swedish_karl_xii": "Ty medan wij äre vthi thenna hyddone, sucke wij, och äre betungade; efter wij wilje icke afklädde, vtan hällre öfwerklädde warda, på thet, at thet dödeliga måtte vpswolget warda af lifwet.",
+      "king_james": "For we that are in *this* tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Qui autem efficit nos in hoc ipsum, Deus, qui dedit nobis pignus Spiritus.",
+      "greek_textus_receptus": "ὁ δὲ κατεργασάμενος ἡμᾶς εἰς αὐτὸ τοῦτο θεός ὁ καὶ δοὺς ἡμῖν τὸν ἀῤῥαβῶνα τοῦ πνεύματος",
+      "finnish_biblia": "Mutta joka meitä siihen valmistaa, se on Jumala, joka myös Hengen on meille pantiksi antanut. ",
+      "swedish_karl_xii": "Men then oß ther til bereder, är Gudh, then oß Andan til pant gifwit hafwer.",
+      "king_james": "Now he that hath wrought us for the selfsame thing *is* God, who also hath given unto us the earnest of the Spirit."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Audentes igitur semper, scientes quoniam dum sumus in corpore, peregrinamur a Domino",
+      "greek_textus_receptus": "θαῤῥοῦντες οὖν πάντοτε καὶ εἰδότες ὅτι ἐνδημοῦντες ἐν τῷ σώματι ἐκδημοῦμεν ἀπὸ τοῦ κυρίου",
+      "finnish_biblia": "Niin me olemme sentähden aina hyvässä turvassa ja tiedämme, että niinkauvan kuin me ruumiissa asumme, niin me olemme kaukana Herrasta. ",
+      "swedish_karl_xii": "Så äre wij förthenskul widh goda tröst altid, och wete, at så länge wij hafwe heman vthi lekamen, så äre wij icke hema när Herranom:",
+      "king_james": "Therefore *we are* always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "(per fidem enim ambulamus, et non per speciem):",
+      "greek_textus_receptus": "διὰ πίστεως γὰρ περιπατοῦμεν οὐ διὰ εἴδους",
+      "finnish_biblia": "(Sillä me vaellamme uskossa ja emme katsomisessa.) ",
+      "swedish_karl_xii": "Ty wij wandrom i trone, och see honom intet.",
+      "king_james": "(For we walk by faith, not by sight:)"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "audemus autem, et bonam voluntatem habemus magis peregrinari a corpore, et præsentes esse ad Dominum.",
+      "greek_textus_receptus": "θαῤῥοῦμεν δὲ καὶ εὐδοκοῦμεν μᾶλλον ἐκδημῆσαι ἐκ τοῦ σώματος καὶ ἐνδημῆσαι πρὸς τὸν κύριον",
+      "finnish_biblia": "Mutta meillä on turva, ja paljo halaamme enemmin olla kaukana pois ruumiista ja mennä asumaan Herran tykö. ",
+      "swedish_karl_xii": "Men wij hafwe tröst, och hafwe mycket meer lust til at vthe wandra ifrå lekamen, och hema wara när Herranom.",
+      "king_james": "We are confident, *I say*, and willing rather to be absent from the body, and to be present with the Lord."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Et ideo contendimus, sive absentes, sive præsentes, placere illi.",
+      "greek_textus_receptus": "διὸ καὶ φιλοτιμούμεθα εἴτε ἐνδημοῦντες εἴτε ἐκδημοῦντες εὐάρεστοι αὐτῷ εἶναι",
+      "finnish_biblia": "Sentähden, joko me kotona olemme eli ulkona vaellamme, niin me ahkeroitsemme siitä, että me hänelle kelpaisimme. ",
+      "swedish_karl_xii": "Therföre hwad wij äre hema, eller vthe wandrande, winlägge wij oß ock, at wij måge honom täckias.",
+      "king_james": "Wherefore we labour, that, whether present or absent, we may be accepted of him."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Omnes enim non manifestari oportet ante tribunal Christi, ut referat unusquisque propria corporis, prout gessit, sive bonum, sive malum.",
+      "greek_textus_receptus": "τοὺς γὰρ πάντας ἡμᾶς φανερωθῆναι δεῖ ἔμπροσθεν τοῦ βήματος τοῦ χριστοῦ ἵνα κομίσηται ἕκαστος τὰ διὰ τοῦ σώματος πρὸς ἃ ἔπραξεν εἴτε ἀγαθὸν εἴτε κακόν",
+      "finnish_biblia": "Sillä meidän kaikkein pitää ilmestymän Kristuksen tuomio-istuimen eteen, että jokainen sais senjälkeen mitä hän ruumiissansa tehnyt on, olkoon se hyvä eli paha. ",
+      "swedish_karl_xii": "Ty wij mäste alle vppenbarade warda för Christi domstool : på thet hwar och en skal få efter som han handlat hafwer medan han lefde, ehwad thet är godt eller ondt.",
+      "king_james": "For we must all appear before the judgment seat of Christ; that every one may receive the things *done* in *his* body, according to that he hath done, whether *it be* good or bad."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Scientes ergo timorem Domini, hominibus suademus, Deo autem manifesti sumus. Spero autem et in conscientiis vestris manifestos nos esse.",
+      "greek_textus_receptus": "εἰδότες οὖν τὸν φόβον τοῦ κυρίου ἀνθρώπους πείθομεν θεῷ δὲ πεφανερώμεθα ἐλπίζω δὲ καὶ ἐν ταῖς συνειδήσεσιν ὑμῶν πεφανερῶσθαι",
+      "finnish_biblia": "Että me siis tiedämme, että Herraa pitää peljättämän, niin me neuvomme ihmisiä, mutta Jumalalle olemme me julkiset: kuitenkin minä toivon, että me olemme myös julki teidänkin omassatunnossanne. ",
+      "swedish_karl_xii": "Efter wij nu wete, at Herren är fruchtandes, fare wij sachta medh menniskiorna; men Gudi äre wij vppenbare: jagh hoppas, at wij ock äre vppenbare vthi edor samwet.",
+      "king_james": "Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Non iterum commendamus nos vobis, sed occasionem damus vobis gloriandi pro nobis: ut habeatis ad eos qui in facie gloriantur, et non in corde.",
+      "greek_textus_receptus": "οὐ γὰρ πάλιν ἑαυτοὺς συνιστάνομεν ὑμῖν ἀλλὰ ἀφορμὴν διδόντες ὑμῖν καυχήματος ὑπὲρ ἡμῶν ἵνα ἔχητε πρὸς τοὺς ἐν προσώπῳ καυχωμένους καὶ οὐ καρδίᾳ",
+      "finnish_biblia": "Emme taas kerskaa itsiämme teidän edessänne; vaan me annamme teille tilan kerskataksenne meistä, että teilläkin olis kerskaamista niitä vastaan, jotka itsiänsä kasvoin jälkeen kerskaavat ja ei sydämen jälkeen. ",
+      "swedish_karl_xii": "Wij prise oß icke åter för eder; men wij gifwe eder tilfälle til at beröma eder af oß: på thet J något hafwa skolen emot them, som sigh efter anseendet, och icke efter hiertat beröma.",
+      "king_james": "For we commend not ourselves again unto you, but give you occasion to glory on our behalf, that ye may have somewhat to *answer* them which glory in appearance, and not in heart."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Sive enim mente excedimus Deo: sive sobrii sumus, vobis.",
+      "greek_textus_receptus": "εἴτε γὰρ ἐξέστημεν θεῷ εἴτε σωφρονοῦμεν ὑμῖν",
+      "finnish_biblia": "Sillä jos me tyhmistyneet olemme, niin me sen Jumalalle olemme, eli jos me taidossa olemme, niin me teille taidossa olemme. ",
+      "swedish_karl_xii": "Ty äre wij förstränge, så äre wij thet Gudi; eller äre wij måttelige, så äre wij eder måttelige.",
+      "king_james": "For whether we be beside ourselves, *it is* to God: or whether we be sober, *it is* for your cause."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Caritas enim Christi urget nos: æstimantes hoc, quoniam si unus pro omnibus mortuus est, ergo omnes mortui sunt:",
+      "greek_textus_receptus": "ἡ γὰρ ἀγάπη τοῦ χριστοῦ συνέχει ἡμᾶς κρίναντας τοῦτο ὅτι εἰ εἷς ὑπὲρ πάντων ἀπέθανεν ἄρα οἱ πάντες ἀπέθανον",
+      "finnish_biblia": "Sillä Kristuksen rakkaus vaatii meitä, ",
+      "swedish_karl_xii": "Ty Christi kärlek twingar oß så, efter wij thet hålle, at om en är död för alla, så äro the alle döde:",
+      "king_james": "For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "et pro omnibus mortuus est Christus: ut, et qui vivunt, jam non sibi vivant, sed ei qui pro ipsis mortuus est et resurrexit.",
+      "greek_textus_receptus": "καὶ ὑπὲρ πάντων ἀπέθανεν ἵνα οἱ ζῶντες μηκέτι ἑαυτοῖς ζῶσιν ἀλλὰ τῷ ὑπὲρ αὐτῶν ἀποθανόντι καὶ ἐγερθέντι",
+      "finnish_biblia": "Että me sen niin pidämme, että jos yksi on kuollut kaikkein edestä, niin he kaikki ovat kuolleet, ja hän on sentähden kaikkein edestä kuollut, että ne, jotka elävät, ei nyt enään eläisi itsellensä, vaan hänelle, joka heidän edestänsä kuollut ja noussut on ylös. ",
+      "swedish_karl_xii": "Och han är förthenskul död för alla, at the som lefwa, skola icke nu lefwa sigh sielfwom, vtan honom som för them död och vpständen är.",
+      "king_james": "And *that* he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Itaque nos ex hoc neminem novimus secundum carnem. Et si cognovimus secundum carnem Christum, sed nunc jam non novimus.",
+      "greek_textus_receptus": "ὥστε ἡμεῖς ἀπὸ τοῦ νῦν οὐδένα οἴδαμεν κατὰ σάρκα εἰ δὲ καὶ ἐγνώκαμεν κατὰ σάρκα χριστόν ἀλλὰ νῦν οὐκέτι γινώσκομεν",
+      "finnish_biblia": "Sentähden emme tästedes lihan puolesta ketään tunne. Ja jos me olemme Kristuksen lihan puolesta tunteneet, niin emme kuitenkaan silleen tunne. ",
+      "swedish_karl_xii": "Så känne wij nu ingen ifrå thenna tijd efter kötet: och om wij än hafwe kändt Christum efter kötet, så känne wij honom doch nu intet meer.",
+      "king_james": "Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we *him* no more."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Si qua ergo in Christo nova creatura, vetera transierunt: ecce facta sunt omnia nova.",
+      "greek_textus_receptus": "ὥστε εἴ τις ἐν χριστῷ καινὴ κτίσις τὰ ἀρχαῖα παρῆλθεν ἰδού, γέγονεν καινά τὰ πάντα",
+      "finnish_biblia": "Sentähden jos joku on Kristuksessa, niin hän on uusi luontokappale; sillä vanhat ovat kadonneet, katso, kaikki ovat uudeksi tulleet. ",
+      "swedish_karl_xii": "Hwar nu någor är i Christo, så är han ett nytt creatur; thet gamla är förgånget: sij, all ting äro ny worden.",
+      "king_james": "Therefore if any man *be* in Christ, *he is* a new creature: old things are passed away; behold, all things are become new."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Omnia autem ex Deo, qui nos reconciliavit sibi per Christum: et dedit nobis ministerium reconciliationis,",
+      "greek_textus_receptus": "τὰ δὲ πάντα ἐκ τοῦ θεοῦ τοῦ καταλλάξαντος ἡμᾶς ἑαυτῷ διὰ ἰησοῦ χριστοῦ καὶ δόντος ἡμῖν τὴν διακονίαν τῆς καταλλαγῆς",
+      "finnish_biblia": "Mutta ne kaikki ovat Jumalasta, joka meitä on itse kanssansa sovittanut Jesuksen Kristuksen kautta, ja antoi meille viran sovinnosta saarnata. ",
+      "swedish_karl_xii": "Men altsamman är af Gudi, then oß medh sigh sielf försonat hafwer genom Jesum Christum, och gifwit oß ämbetet at predika samma försoning.",
+      "king_james": "And all things *are* of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;"
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "quoniam quidem Deus erat in Christo mundum reconcilians sibi, non reputans illis delicta ipsorum, et posuit in nobis verbum reconciliationis.",
+      "greek_textus_receptus": "ὡς ὅτι θεὸς ἦν ἐν χριστῷ κόσμον καταλλάσσων ἑαυτῷ μὴ λογιζόμενος αὐτοῖς τὰ παραπτώματα αὐτῶν καὶ θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς",
+      "finnish_biblia": "Sillä Jumala oli Kristuksessa ja sovitti maailman itse kanssansa, ja ei lukenut heille heidän syntiänsä, ja on meissä sovintosaarnan säätänyt. ",
+      "swedish_karl_xii": "Ty Gudh war i Christo , och försonade werldena medh sigh sielfwom , och förbrådde them intet theras synder, och hafwer beskickat ibland oß försoningenes ord.",
+      "king_james": "To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Pro Christo ergo legatione fungimur, tamquam Deo exhortante per nos. Obsecramus pro Christo, reconciliamini Deo.",
+      "greek_textus_receptus": "ὑπὲρ χριστοῦ οὖν πρεσβεύομεν ὡς τοῦ θεοῦ παρακαλοῦντος δι᾽ ἡμῶν δεόμεθα ὑπὲρ χριστοῦ καταλλάγητε τῷ θεῷ",
+      "finnish_biblia": "Niin olemme me Kristuksen puolesta käskyläiset; sillä Jumala neuvoo meidän kauttamme. Niin me rukoilemme siis Kristuksen puolesta, että te Jumalan kanssa sovitte. ",
+      "swedish_karl_xii": "Så äre wij nu sändningabod i Christi stadh: ty Gudh förmanar genom oß: så bedie wij nu i Christi stadh, läter försona eder medh Gudh.",
+      "king_james": "Now then we are ambassadors for Christ, as though God did beseech *you* by us: we pray *you* in Christ's stead, be ye reconciled to God."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Eum, qui non noverat peccatum, pro nobis peccatum fecit, ut nos efficeremur justitia Dei in ipso.",
+      "greek_textus_receptus": "τὸν γὰρ μὴ γνόντα ἁμαρτίαν ὑπὲρ ἡμῶν ἁμαρτίαν ἐποίησεν ἵνα ἡμεῖς γινώμεθα δικαιοσύνη θεοῦ ἐν αὐτῷ",
+      "finnish_biblia": "Sillä hän on sen, joka ei mitään synnistä tietänyt, meidän edestämme synniksi tehnyt, että me hänessä tulisimme siksi vanhurskaudeksi, joka Jumalan edessä kelpaa.   ",
+      "swedish_karl_xii": "Ty then ther af ingen synd wiste , honom hafwer han för oß giordt til synd : på thet wij skulle warda Gudz rättferdighet genom honom.",
+      "king_james": "For he hath made him *to be* sin for us, who knew no sin; that we might be made the righteousness of God in him."
+    }
+  ]
+}

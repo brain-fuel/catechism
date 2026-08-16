@@ -1,0 +1,139 @@
+{
+  "book_id": "1TI",
+  "latin_name": "Epistula I ad Timotheum",
+  "greek_name": "Πρὸς Τιμόθεον Α",
+  "finnish_name": "Ensimmäinen kirje Timoteukselle",
+  "swedish_name": "S. Pauli Epistel then förra Til Timotheum",
+  "english_name": "The First Epistle of Paul the Apostle to Timothy",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Fidelis sermo: si quis episcopatum desiderat, bonum opus desiderat.",
+      "greek_textus_receptus": "πιστὸς ὁ λόγος εἴ τις ἐπισκοπῆς ὀρέγεται καλοῦ ἔργου ἐπιθυμεῖ",
+      "finnish_biblia": "Se on totinen sana: jos joku piispan virkaa pyytää, hän hyvää työtä halajaa. ",
+      "swedish_karl_xii": "Thet är ju ett fast ord: Om någor begärar ett Biskops ämbete, han åstundar een godh gierning.",
+      "king_james": "This *is* a true saying, If a man desire the office of a bishop, he desireth a good work."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Oportet ergo episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, pudicum, hospitalem, doctorem,",
+      "greek_textus_receptus": "δεῖ οὖν τὸν ἐπίσκοπον ἀνεπίληπτον εἶναι μιᾶς γυναικὸς ἄνδρα νηφάλεον σώφρονα κόσμιον φιλόξενον διδακτικόν",
+      "finnish_biblia": "Niin pitää siis piispan oleman nuhteettoman, yhden emännän miehen, valppaan, raittiin, siviän, vierasten holhojan, opettavaisen. ",
+      "swedish_karl_xii": "Så skal nu en Biskop wara ostraffelig; ene hustrus man, wakande, nöchter, sedug, gästgifware, lärachtig.",
+      "king_james": "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "non vinolentum, non percussorem, sed modestum: non litigiosum, non cupidum, sed",
+      "greek_textus_receptus": "μὴ πάροινον μὴ πλήκτην μὴ αἰσχροκερδῆ ἀλλ᾽ ἐπιεικῆ ἄμαχον ἀφιλάργυρον",
+      "finnish_biblia": "Ei juomarin, ei tappelian, ei ilkiän voiton pyytäjän, vaan armeliaan, ei riitaisen eikä ahneen, ",
+      "swedish_karl_xii": "Jngen drinckare, icke bitter, icke sniken efter slem winning; vtan mild, icke trätosam, icke girig:",
+      "king_james": "Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "suæ domui bene præpositum: filios habentem subditos cum omni castitate.",
+      "greek_textus_receptus": "τοῦ ἰδίου οἴκου καλῶς προϊστάμενον τέκνα ἔχοντα ἐν ὑποταγῇ μετὰ πάσης σεμνότητος",
+      "finnish_biblia": "Joka oman huoneensa hyvin hallitsee, jolla kuuliaiset lapset ovat, kaikella kunniallisuudella: ",
+      "swedish_karl_xii": "Then sitt huus wäl förestår; then ther lydig barn hafwer medh alla ährlighet.",
+      "king_james": "One that ruleth well his own house, having his children in subjection with all gravity;"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Si quis autem domui suæ præesse nescit, quomodo ecclesiæ Dei diligentiam habebit?",
+      "greek_textus_receptus": "εἰ δέ τις τοῦ ἰδίου οἴκου προστῆναι οὐκ οἶδεν πῶς ἐκκλησίας θεοῦ ἐπιμελήσεται",
+      "finnish_biblia": "(Mutta jos joku ei taida omaa huonettansa hallita, kuinkas hän Jumalan seurakunnan taitaa hallita?) ",
+      "swedish_karl_xii": "Hwar nu någor icke kan förestå sitt egit huus, huru skal han förestå Gudz församling?",
+      "king_james": "(For if a man know not how to rule his own house, how shall he take care of the church of God?)"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Non neophytum: ne in superbiam elatus, in judicium incidat diaboli.",
+      "greek_textus_receptus": "μὴ νεόφυτον ἵνα μὴ τυφωθεὶς εἰς κρίμα ἐμπέσῃ τοῦ διαβόλου",
+      "finnish_biblia": "Ei äsken kristityn, ettei hän paisuneena laittajan tuomioon lankeaisi. ",
+      "swedish_karl_xii": "Jcke Nychristen: på thet han icke skal vpbläsas, och falla i lastarens doom.",
+      "king_james": "Not a novice, lest being lifted up with pride he fall into the condemnation of the devil."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Oportet autem illum et testimonium habere bonum ab iis qui foris sunt, ut non in opprobrium incidat, et in laqueum diaboli.",
+      "greek_textus_receptus": "δεῖ δὲ αὐτὸν καὶ μαρτυρίαν καλὴν ἔχειν ἀπὸ τῶν ἔξωθεν ἵνα μὴ εἰς ὀνειδισμὸν ἐμπέσῃ καὶ παγίδα τοῦ διαβόλου",
+      "finnish_biblia": "Mutta hänellä pitää myös hyvä todistus oleman niiltä, jotka ulkona ovat, ettei hän laittajan pilkkaan ja paulaan lankeaisi. ",
+      "swedish_karl_xii": "Han måste ock hafwa ett godt witnesbyrd af them som vthan til äro: på thet han icke skal falla vthi lastarens försmädelse och snaro.",
+      "king_james": "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Diaconos similiter pudicos, non bilingues, non multo vino deditos, non turpe lucrum sectantes:",
+      "greek_textus_receptus": "διακόνους ὡσαύτως σεμνούς μὴ διλόγους μὴ οἴνῳ πολλῷ προσέχοντας μὴ αἰσχροκερδεῖς",
+      "finnish_biblia": "Niin pitää myös seurakunnan palveliat toimelliset oleman, ei kaksikieliset, ei juomarit, ei häpiällisen voiton pyytäjät, ",
+      "swedish_karl_xii": "Sammalunda ock tienarena, skola ährlige wara, icke twetalige, icke drinckare, icke snikne efter slem winning:",
+      "king_james": "Likewise *must* the deacons *be* grave, not doubletongued, not given to much wine, not greedy of filthy lucre;"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "habentes mysterium fidei in conscientia pura.",
+      "greek_textus_receptus": "ἔχοντας τὸ μυστήριον τῆς πίστεως ἐν καθαρᾷ συνειδήσει",
+      "finnish_biblia": "Jotka uskon salaisuuden puhtaassa omassatunnossa pitävät, ",
+      "swedish_karl_xii": "Hållandes trones hemlighet medh ett reent samwet.",
+      "king_james": "Holding the mystery of the faith in a pure conscience."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Et hi autem probentur primum: et sic ministrent, nullum crimen habentes.",
+      "greek_textus_receptus": "kai outoi de dokimazesqwsan prwton eita diakoneitwsan anegklhtoi ontej",
+      "finnish_biblia": "Jotka pitää ensin koeteltaman, ja palvelkaan sitte kuin he nuhteettomiksi löydetään. ",
+      "swedish_karl_xii": "Och the skola först försökias: och sedan skola the tiena, när ingen kan straffa them.",
+      "king_james": "And let these also first be proved; then let them use the office of a deacon, being *found* blameless."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Mulieres similiter pudicas, non detrahentes, sobrias, fideles in omnibus.",
+      "greek_textus_receptus": "γυναῖκας ὡσαύτως σεμνάς μὴ διαβόλους νηφαλέους πιστὰς ἐν πᾶσιν",
+      "finnish_biblia": "Heidän emäntänsä pitää myös siviät oleman, ei laittajat, vaan raittiit, kaikissa uskolliset. ",
+      "swedish_karl_xii": "Theras hustrur sammaledes skola ock ährliga wara, icke förtalerskor; nöchtre, trofasta i all ting.",
+      "king_james": "Even so *must their* wives *be* grave, not slanderers, sober, faithful in all things."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Diaconi sint unius uxoris viri, qui filiis suis bene præsint, et suis domibus.",
+      "greek_textus_receptus": "διάκονοι ἔστωσαν μιᾶς γυναικὸς ἄνδρες τέκνων καλῶς προϊστάμενοι καὶ τῶν ἰδίων οἴκων",
+      "finnish_biblia": "Seurakunnan palveliat olkoon yhden emännän miehet, jotka lapsensa ja oman huoneensa hyvin hallitsevat. ",
+      "swedish_karl_xii": "Tienarena skola wara ene hustrus män, the sin barn wäl förestå, och sin egen huus.",
+      "king_james": "Let the deacons be the husbands of one wife, ruling their children and their own houses well."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Qui enim bene ministraverint, gradum bonum sibi acquirent, et multam fiduciam in fide, quæ est in Christo Jesu.",
+      "greek_textus_receptus": "οἱ γὰρ καλῶς διακονήσαντες βαθμὸν ἑαυτοῖς καλὸν περιποιοῦνται καὶ πολλὴν παῤῥησίαν ἐν πίστει τῇ ἐν χριστῷ ἰησοῦ",
+      "finnish_biblia": "Sillä jotka hyvin palvelevat, he hyvän menestyksen ansaitsevat ja suuren vapauden uskossa, joka on Kristuksessa Jesuksessa. ",
+      "swedish_karl_xii": "Ty the ther wäl tiena, förwärfwa sigh ett godt vpsteg, och mycken tröst i trone, som är i Christo Jesu.",
+      "king_james": "For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Hæc tibi scribo, sperans me ad te venire cito:",
+      "greek_textus_receptus": "ταῦτά σοι γράφω ἐλπίζων ἐλθεῖν πρὸς σὲ τάχιον",
+      "finnish_biblia": "Näitä minä kirjoitan sinulle, ja toivon pian tulevani sinun tykös; ",
+      "swedish_karl_xii": "Thetta skrifwer jagh tigh, förhoppandes skee skola, at jagh kommer snart til tigh.",
+      "king_james": "These things write I unto thee, hoping to come unto thee shortly:"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "si autem tardavero, ut scias quomodo oporteat te in domo Dei conversari, quæ est ecclesia Dei vivi, columna et firmamentum veritatis.",
+      "greek_textus_receptus": "ἐὰν δὲ βραδύνω ἵνα εἰδῇς πῶς δεῖ ἐν οἴκῳ θεοῦ ἀναστρέφεσθαι ἥτις ἐστὶν ἐκκλησία θεοῦ ζῶντος στῦλος καὶ ἑδραίωμα τῆς ἀληθείας",
+      "finnish_biblia": "Mutta jos minä viivyn, ettäs tietäisit kuinka sinun pitää Jumalan huoneessa vaeltaman, joka on elävän Jumalan seurakunta, totuuden patsas ja perustus. ",
+      "swedish_karl_xii": "Och om så hände, at jagh förtöfwar, at tu må weta, huruledes tu vmgå skalt vthi Gudz huus, som är lefwandes Gudz församling, en pelare, och sanningenes grundwal.",
+      "king_james": "But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Et manifeste magnum est pietatis sacramentum, quod manifestatum est in carne, justificatum est in spiritu, apparuit angelis, prædicatum est gentibus, creditum est in mundo, assumptum est in gloria.",
+      "greek_textus_receptus": "καὶ ὁμολογουμένως μέγα ἐστὶν τὸ τῆς εὐσεβείας μυστήριον Θεὸς ἐφανερώθη ἐν σαρκί ἐδικαιώθη ἐν πνεύματι ὤφθη ἀγγέλοις ἐκηρύχθη ἐν ἔθνεσιν ἐπιστεύθη ἐν κόσμῳ ἀνελήφθη ἐν δόξῃ",
+      "finnish_biblia": "Ja se on julkisesti suuri jumalisuuden salaisuus, että Jumala on ilmoitettu lihassa, vanhurskautettu hengessä, nähty enkeleiltä, saarnattu pakanoille, uskottu maailmassa ja otettu ylös kunniaan.   ",
+      "swedish_karl_xii": "Och vthan twifwel är gudachtighetenes hemlighet stoor: Gudh är vppenbar worden i kötet, rättferdigad i Andanom, synt Änglomen, predikad Hedningomen, trodd i werldene, vptagen i härligheten.",
+      "king_james": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory."
+    }
+  ]
+}

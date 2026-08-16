@@ -1,0 +1,50 @@
+# ref = PSA.133.1
+1	ᾨδὴ	ᾠδή	_	_	_	_	_	Strong=G5603|Align=exact
+2	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ἀναβαθμῶν	ἀναβαθμός	_	_	_	_	_	Strong=G0304|Align=positional
+4	Ἰδοὺ	ἰδού	_	_	_	_	_	Strong=G2400|Align=exact
+5	δὴ	δή	_	_	_	_	_	Strong=G1211|Align=exact
+6	εὐλογεῖτε	εὐλογέω	_	_	_	_	_	Strong=G2127|Align=positional
+7	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	κύριον	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+9	πάντες	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+10	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	δοῦλοι	δοῦλος	_	_	_	_	_	Strong=G1401|Align=positional
+12	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+13	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	ἑστῶτες	ἵστημι	_	_	_	_	_	Strong=G2476|Align=positional
+15	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+16	αὐλαῖς	_	_	_	_	_	_	Align=unmatched
+17	οἴκου	_	_	_	_	_	_	Align=unmatched
+18	θεοῦ	_	_	_	_	_	_	Align=unmatched
+19	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact,source_extra:6
+
+# ref = PSA.133.2
+1	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+2	ταῖς	_	_	_	_	_	_	Align=unmatched
+3	νυξὶν	_	_	_	_	_	_	Align=unmatched
+4	ἐπάρατε	_	_	_	_	_	_	Align=unmatched
+5	χεῖρας	_	_	_	_	_	_	Align=unmatched
+6	ὑμῶν	ὑμῶν	_	_	_	_	_	Align=exact
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	ἅγια	ἅγιος	_	_	_	_	_	Strong=G0040|Align=positional
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	εὐλογεῖτε	εὐλογέω	_	_	_	_	_	Strong=G2127|Align=positional
+12	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	κύριον	κύριος	_	_	_	_	_	Strong=G2962|Align=positional,source_extra:5
+
+# ref = PSA.133.3
+1	εὐλογήσει	εὐλογέω	_	_	_	_	_	Strong=G2127|Align=positional
+2	σε	σέ	_	_	_	_	_	Align=exact
+3	Κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+4	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+5	Σιών	Σιών	_	_	_	_	_	Strong=G4622|Align=exact
+6	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+7	ποιήσας	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	οὐρανὸν	οὐρανός	_	_	_	_	_	Strong=G3772|Align=positional
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	γῆν	γῆ	_	_	_	_	_	Strong=G1093|Align=positional
+

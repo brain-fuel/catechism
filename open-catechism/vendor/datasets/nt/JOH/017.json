@@ -1,0 +1,219 @@
+{
+  "book_id": "JOH",
+  "latin_name": "Evangelium secundum Ioannem",
+  "greek_name": "Κατὰ Ἰωάννην",
+  "finnish_name": "Johanneksen evankeliumi",
+  "swedish_name": "S. Johannis Evangelium",
+  "english_name": "The Gospel According to John",
+  "chapter": 17,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Hæc locutus est Jesus: et sublevatis oculis in cælum, dixit: Pater, venit hora: clarifica Filium tuum, ut Filius tuus clarificet te:",
+      "greek_textus_receptus": "ταῦτα ἐλάλησεν ὁ ἰησοῦς καὶ ἐπῆρεν τοὺς ὀφθαλμοὺς αὐτοῦ εἰς τὸν οὐρανὸν καὶ εἶπεν πάτερ ἐλήλυθεν ἡ ὥρα δόξασόν σου τὸν υἱόν ἵνα καὶ ὁ υἱὸς σου δοξάσῃ σέ",
+      "finnish_biblia": "Näitä puhui Jesus, ja nosti silmänsä taivasta päin ja sanoi: Isä, hetki tuli, kirkasta sinun Poikas, että sinun Poikas kirkastais myös sinun! ",
+      "swedish_karl_xii": "Thetta talade Jesus; och lyfte vp sin ögon til himmelen, och sade: Fader, stunden är kommen; förklara tin Son, at tin Son förklarar ock tigh.",
+      "king_james": "These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "sicut dedisti ei potestatem omnis carnis, ut omne, quod dedisti ei, det eis vitam æternam.",
+      "greek_textus_receptus": "καθὼς ἔδωκας αὐτῷ ἐξουσίαν πάσης σαρκός ἵνα πᾶν ὃ δέδωκας αὐτῷ δώσῃ αὐτοῖς ζωὴν αἰώνιον",
+      "finnish_biblia": "Niinkuin sinä annoit hänelle vallan kaiken lihan päälle, antaa ijankaikkisen elämän kaikille, jotka sinä hänelle annoit. ",
+      "swedish_karl_xii": "Såsom tu hafwer gifwit honom macht öfwer alt kött, at allom them som tu hafwer honom gifwit, skal han gifwa ewinnerligit lijf.",
+      "king_james": "As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Hæc est autem vita æterna: ut cognoscant te, solum Deum verum, et quem misisti Jesum Christum.",
+      "greek_textus_receptus": "αὕτη δέ ἐστιν ἡ αἰώνιος ζωή ἵνα γινώσκωσιν σὲ τὸν μόνον ἀληθινὸν θεὸν καὶ ὃν ἀπέστειλας ἰησοῦν χριστόν",
+      "finnish_biblia": "Mutta tämä on ijankaikkinen elämä, että he sinun ainoan totisen Jumalan tuntisivat, ja jonkas lähetit, Jesuksen Kristuksen. ",
+      "swedish_karl_xii": "Och thetta är ewinnerligit lijf, at the känna tigh allena sannan Gudh; och then tu sändt hafwer, Jesum Christum.",
+      "king_james": "And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Ego te clarificavi super terram: opus consummavi, quod dedisti mihi ut faciam:",
+      "greek_textus_receptus": "ἐγώ σε ἐδόξασα ἐπὶ τῆς γῆς τὸ ἔργον ετελείωσα ὃ δέδωκάς μοι ἵνα ποιήσω",
+      "finnish_biblia": "Minä kirkastin sinun maan päällä: minä täytin sen työn, jonkas minulle annoit tehdäkseni. ",
+      "swedish_karl_xii": "Jagh hafwer förklarat tigh på jordene; jagh hafwer fulbordat thet werck, som tu migh gifwit hafwer, at jagh giöra skulle.",
+      "king_james": "I have glorified thee on the earth: I have finished the work which thou gavest me to do."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "et nunc clarifica me tu, Pater, apud temetipsum, claritate quam habui, priusquam mundus esset, apud te.",
+      "greek_textus_receptus": "καὶ νῦν δόξασόν με σύ πάτερ παρὰ σεαυτῷ τῇ δόξῃ ᾗ εἶχον πρὸ τοῦ τὸν κόσμον εἶναι παρὰ σοί",
+      "finnish_biblia": "Ja nyt Isä, kirkasta sinä minua itse tykänäs sillä kirkkaudella, joka minulla sinun tykönäs oli ennenkuin tämä maailma olikaan. ",
+      "swedish_karl_xii": "Och nu, Fader, förklara tu migh när tigh sielfwom, medh then klarhet som jagh hade när tigh, förr än thenna werlden war.",
+      "king_james": "And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Manifestavi nomen tuum hominibus, quos dedisti mihi de mundo: tui erant, et mihi eos dedisti: et sermonem tuum servaverunt.",
+      "greek_textus_receptus": "ἐφανέρωσά σου τὸ ὄνομα τοῖς ἀνθρώποις οὓς δέδωκάς μοι ἐκ τοῦ κόσμου σοὶ ἦσαν καὶ ἐμοὶ αὐτοὺς δέδωκας καὶ τὸν λόγον σου τετηρήκασιν",
+      "finnish_biblia": "Minä ilmoitin sinun nimes ihmisille, jotkas minulle maailmasta annoit: he olivat sinun, ja minulle sinä ne annoit, ja sinun sanas he kätkivät. ",
+      "swedish_karl_xii": "Jagh hafwer vppenbarat titt namn menniskiomen, som tu hafwer migh gifwit af werldene: the woro tine, och tu hafwer gifwit migh them, och the hafwa hållet tin ord.",
+      "king_james": "I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Nunc cognoverunt quia omnia quæ dedisti mihi, abs te sunt:",
+      "greek_textus_receptus": "νῦν ἔγνωκαν ὅτι πάντα ὅσα δέδωκάς μοι παρὰ σοῦ ἐστιν",
+      "finnish_biblia": "He tiesivät nyt kaikki olevan sinusta, mitkä sinä minulle annoit. ",
+      "swedish_karl_xii": "Nu hafwa the förstådt, at alt thet tu migh gifwit hafwer, är af tigh.",
+      "king_james": "Now they have known that all things whatsoever thou hast given me are of thee."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "quia verba quæ dedisti mihi, dedi eis: et ipsi acceperunt, et cognoverunt vere quia a te exivi, et crediderunt quia tu me misisti.",
+      "greek_textus_receptus": "ὅτι τὰ ῥήματα ἃ δέδωκάς μοι δέδωκα αὐτοῖς καὶ αὐτοὶ ἔλαβον καὶ ἔγνωσαν ἀληθῶς ὅτι παρὰ σοῦ ἐξῆλθον καὶ ἐπίστευσαν ὅτι σύ με ἀπέστειλας",
+      "finnish_biblia": "Sillä ne sanat, jotka sinä minulle annoit, annoin minä heille; ja he ne ottivat vastaan, ja totisesti tunsivat minun sinusta lähteneen, ja uskoivat, että sinä minun lähetit. ",
+      "swedish_karl_xii": "Ty the ord tu hafwer migh gifwit, hafwer jagh gifwit them, och the togo widh them: och hafwa sannerliga förstådt, at jagh är vthgången af tigh, och hafwa trodt at tu migh sändt hafwer.",
+      "king_james": "For I have given unto them the words which thou gavest me; and they have received *them*, and have known surely that I came out from thee, and they have believed that thou didst send me."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Ego pro eis rogo; non pro mundo rogo, sed pro his quos dedisti mihi: quia tui sunt:",
+      "greek_textus_receptus": "ἐγὼ περὶ αὐτῶν ἐρωτῶ οὐ περὶ τοῦ κόσμου ἐρωτῶ ἀλλὰ περὶ ὧν δέδωκάς μοι ὅτι σοί εἰσιν",
+      "finnish_biblia": "Minä rukoilen heidän edestänsä: en minä maailman edestä rukoile, vaan niiden edestä, jotka sinä minulle annoit, että he ovat sinun omas. ",
+      "swedish_karl_xii": "Jagh beder för them: för werldene beder jagh icke, vtan för them som tu hafwer migh gifwit; ty the äro tine.",
+      "king_james": "I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "et mea omnia tua sunt, et tua mea sunt: et clarificatus sum in eis.",
+      "greek_textus_receptus": "καὶ τὰ ἐμὰ πάντα σά ἐστιν καὶ τὰ σὰ ἐμά καὶ δεδόξασμαι ἐν αὐτοῖς",
+      "finnish_biblia": "Ja kaikki minun omani ovat sinun, ja sinun omas ovat minun: ja minä olen kirkastettu heissä. ",
+      "swedish_karl_xii": "Och alt mitt är titt, och titt är mitt; och jagh är förklarad i them.",
+      "king_james": "And all mine are thine, and thine are mine; and I am glorified in them."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et jam non sum in mundo, et hi in mundo sunt, et ego ad te venio. Pater sancte, serva eos in nomine tuo, quos dedisti mihi: ut sint unum, sicut et nos.",
+      "greek_textus_receptus": "καὶ οὐκ ἔτι εἰμὶ ἐν τῷ κόσμῳ καὶ οὗτοι ἐν τῷ κόσμῳ εἰσίν καὶ ἐγὼ πρὸς σὲ ἔρχομαι πάτερ ἅγιε τήρησον αὐτοὺς ἐν τῷ ὀνόματί σου οὕς δέδωκάς μοι ἵνα ὦσιν ἓν καθὼς ἡμεῖς",
+      "finnish_biblia": "En minä silleen ole maailmassa, mutta he ovat maailmassa, ja minä tulen sinun tykös. Pyhä Isä! kätke niitä, jotka sinä minulle annoit, sinun nimes tähden, että he olisivat yksi niinkuin mekin! ",
+      "swedish_karl_xii": "Och nu är jagh icke meer i werldene; men the äro i werldene, och jagh kommer til tigh. Helge Fader, förwara, genom titt namn, them som tu migh gifwit hafwer, at the blifwa ett, såsom ock wij.",
+      "king_james": "And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we *are*."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Cum essem cum eis, ego servabam eos in nomine tuo. Quos dedisti mihi, custodivi: et nemo ex eis periit, nisi filius perditionis, ut Scriptura impleatur.",
+      "greek_textus_receptus": "ὅτε ἤμην μετ᾽ αὐτῶν ἐν τῷ κόσμῳ, ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου οὓς δέδωκάς μοι ἐφύλαξα καὶ οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας ἵνα ἡ γραφὴ πληρωθῇ",
+      "finnish_biblia": "Kuin minä olin heidän kanssansa maailmassa, niin minä kätkin heitä sinun nimessäs: ne, jotkas minulle annoit, kätkin minä, ja ei niistä kenkään kadonnut, vaan se kadotuksen lapsi, että Raamattu täytettäisiin. ",
+      "swedish_karl_xii": "När jagh war medh them i werldene, förwarade jagh them i titt namn: them tu migh gifwit hafwer, hafwer jagh förwarat, och ingen af them är borttapad, vtan thet förlorade barnet, at Skriften skulle fulbordas.",
+      "king_james": "While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Nunc autem ad te venio: et hæc loquor in mundo, ut habeant gaudium meum impletum in semetipsis.",
+      "greek_textus_receptus": "νῦν δὲ πρὸς σὲ ἔρχομαι καὶ ταῦτα λαλῶ ἐν τῷ κόσμῳ ἵνα ἔχωσιν τὴν χαρὰν τὴν ἐμὴν πεπληρωμένην ἐν αὐτοῖς",
+      "finnish_biblia": "Mutta nyt minä tulen sinun tykös ja puhun näitä maailmassa, että heissä olis minun iloni täydellinen. ",
+      "swedish_karl_xii": "Nu kommer jagh til tigh, och talar thetta i werldene; på thet the skola hafwa mina fulkomliga glädie i sigh.",
+      "king_james": "And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Ego dedi eis sermonem tuum, et mundus eos odio habuit, quia non sunt de mundo, sicut et ego non sum de mundo.",
+      "greek_textus_receptus": "ἐγὼ δέδωκα αὐτοῖς τὸν λόγον σου καὶ ὁ κόσμος ἐμίσησεν αὐτούς ὅτι οὐκ εἰσὶν ἐκ τοῦ κόσμου καθὼς ἐγὼ οὐκ εἰμὶ ἐκ τοῦ κόσμου",
+      "finnish_biblia": "Minä annoin heille sinun sanas, ja maailma vihasi heitä; sillä ei he ole maailmasta, niinkuin en minäkään maailmasta ole. ",
+      "swedish_karl_xii": "Jagh hafwer fått them tin ord, och werlden hafwer hatat them, efter the icke äro af werldene; såsom ock jagh icke är af werldene.",
+      "king_james": "I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Non rogo ut tollas eos de mundo, sed ut serves eos a malo.",
+      "greek_textus_receptus": "οὐκ ἐρωτῶ ἵνα ἄρῃς αὐτοὺς ἐκ τοῦ κόσμου ἀλλ᾽ ἵνα τηρήσῃς αὐτοὺς ἐκ τοῦ πονηροῦ",
+      "finnish_biblia": "En minä rukoile, ettäs heitä ottaisit pois maailmasta, vaan ettäs heitä pahasta varjelisit. ",
+      "swedish_karl_xii": "Jcke beder jagh, at tu skalt taga them af werldene; vtan at tu förwarar them ifrån ondo.",
+      "king_james": "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "De mundo non sunt, sicut et ego non sum de mundo.",
+      "greek_textus_receptus": "ἐκ τοῦ κόσμου οὐκ εἰσὶν καθὼς ἐγὼ ἐκ τοῦ κόσμου οὐκ εἰμὶ",
+      "finnish_biblia": "Ei he ole maailmasta, niinkuin en minäkään maailmasta ole. ",
+      "swedish_karl_xii": "The äro icke af werldene; såsom ock jagh icke är af werldene.",
+      "king_james": "They are not of the world, even as I am not of the world."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Sanctifica eos in veritate. Sermo tuus veritas est.",
+      "greek_textus_receptus": "ἁγίασον αὐτοὺς ἐν τῇ ἀληθείᾳ σου ὁ λόγος ὁ σὸς ἀλήθειά ἐστιν",
+      "finnish_biblia": "Pyhitä heitä totuudessas! Sinun puhees on totuus. ",
+      "swedish_karl_xii": "Helga them i tine sanning: titt taal är sanning.",
+      "king_james": "Sanctify them through thy truth: thy word is truth."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Sicut tu me misisti in mundum, et ego misi eos in mundum:",
+      "greek_textus_receptus": "καθὼς ἐμὲ ἀπέστειλας εἰς τὸν κόσμον κἀγὼ ἀπέστειλα αὐτοὺς εἰς τὸν κόσμον",
+      "finnish_biblia": "Niinkuin sinä minun lähetit maailmaan, niin minä myös lähetin heidät maailmaan, ",
+      "swedish_karl_xii": "Såsom tu hafwer migh sändt i werldena, så hafwer ock jagh sändt them i werldena.",
+      "king_james": "As thou hast sent me into the world, even so have I also sent them into the world."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "et pro eis ego sanctificabo meipsum: ut sint et ipsi sanctificati in veritate.",
+      "greek_textus_receptus": "καὶ ὑπὲρ αὐτῶν ἐγὼ ἁγιάζω ἐμαυτόν ἵνα καὶ αὐτοὶ ὦσιν ἡγιασμένοι ἐν ἀληθείᾳ",
+      "finnish_biblia": "Ja minä pyhitän itseni heidän tähtensä, että hekin olisivat totuudessa pyhitetyt. ",
+      "swedish_karl_xii": "Och jagh helgar migh sielf för them; at the skola ock wara helgade i sanningene.",
+      "king_james": "And for their sakes I sanctify myself, that they also might be sanctified through the truth."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Non pro eis rogo tantum, sed et pro eis qui credituri sunt per verbum eorum in me:",
+      "greek_textus_receptus": "οὐ περὶ τούτων δὲ ἐρωτῶ μόνον ἀλλὰ καὶ περὶ τῶν πιστευσόντων διὰ τοῦ λόγου αὐτῶν εἰς ἐμέ",
+      "finnish_biblia": "Mutta en minä ainoasti heidän edestänsä rukoile, vaan myös niiden edestä, jotka heidän sanansa kautta uskovat minun päälleni: ",
+      "swedish_karl_xii": "Men icke beder jagh allenast för them; vtan ock för them, som genom theras ord skola troo på migh.",
+      "king_james": "Neither pray I for these alone, but for them also which shall believe on me through their word;"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in nobis unum sint: ut credat mundus, quia tu me misisti.",
+      "greek_textus_receptus": "ἵνα πάντες ἓν ὦσιν καθὼς σύ πάτερ ἐν ἐμοὶ κἀγὼ ἐν σοί ἵνα καὶ αὐτοὶ ἐν ἡμῖν ἓν ὦσιν ἵνα ὁ κόσμος πιστεύσῃ ὅτι σύ με ἀπέστειλας",
+      "finnish_biblia": "Että he kaikki yhtä olisivat, niinkuin sinä Isä minussa olet ja minä sinussa, että hekin meissä niin yhtä olisivat: että maailma uskois sinun minua lähettäneeksi. ",
+      "swedish_karl_xii": "At the skola alle wara ett, såsom tu, Fader, i migh, och jagh i tigh; at the ock skola wara ett i oß, på thet at werlden skal troo, at tu hafwer migh sändt.",
+      "king_james": "That they all may be one; as thou, Father, *art* in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Et ego claritatem, quam dedisti mihi, dedi eis: ut sint unum, sicut et nos unum sumus.",
+      "greek_textus_receptus": "καὶ ἐγὼ τὴν δόξαν ἣν δέδωκάς μοι δέδωκα αὐτοῖς ἵνα ὦσιν ἓν καθὼς ἡμεῖς ἕν ἐσμεν",
+      "finnish_biblia": "Ja minä annoin heille sen kunnian, jonka sinä minulle annoit, että he yhtä olisivat, niinkuin mekin yhtä olemme. ",
+      "swedish_karl_xii": "Och jagh hafwer gifwit them then härlighet som tu migh gifwit hafwer; at the skola wara ett, såsom ock wij ärom ett.",
+      "king_james": "And the glory which thou gavest me I have given them; that they may be one, even as we are one:"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Ego in eis, et tu in me: ut sint consummati in unum: et cognoscat mundus quia tu me misisti, et dilexisti eos, sicut et me dilexisti.",
+      "greek_textus_receptus": "ἐγὼ ἐν αὐτοῖς καὶ σὺ ἐν ἐμοί ἵνα ὦσιν τετελειωμένοι εἰς ἕν καὶ ἵνα γινώσκῃ ὁ κόσμος ὅτι σύ με ἀπέστειλας καὶ ἠγάπησας αὐτοὺς καθὼς ἐμὲ ἠγάπησας",
+      "finnish_biblia": "Minä olen heissä ja sinä minussa, että he niin yhdessä täydelliset olisivat, ja maailma tietäis, että sinä minun lähetit, ja että sinä heitä rakastit, niinkuin sinä minua rakastit. ",
+      "swedish_karl_xii": "Jagh i them, och tu i migh; at the skola wara fulkomne vthi ett: och at werlden skal förstå, at tu migh sändt hafwer, och älskade them, såsom tu ock migh älskade.",
+      "king_james": "I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Pater, quos dedisti mihi, volo ut ubi sum ego, et illi sint mecum: ut videant claritatem meam, quam dedisti mihi: quia dilexisti me ante constitutionem mundi.",
+      "greek_textus_receptus": "πάτερ οὕς δέδωκάς μοι θέλω ἵνα ὅπου εἰμὶ ἐγὼ κἀκεῖνοι ὦσιν μετ᾽ ἐμοῦ ἵνα θεωρῶσιν τὴν δόξαν τὴν ἐμὴν ἣν ἔδωκάς μοι ὅτι ἠγάπησάς με πρὸ καταβολῆς κόσμου",
+      "finnish_biblia": "Isä, minä tahdon, että kussa minä olen, siellä nekin olisivat minun kanssani, jotka sinä minulle antanut olet: että he minun kunniani näkisivät, jonkas minulle annoit; sillä sinä rakastit minua ennenkuin maailman perustus laskettu oli. ",
+      "swedish_karl_xii": "Fader, jagh wil, at ther jagh är, skola ock the wara medh migh, som tu migh gifwit hafwer; at the skola see mina härlighet, then tu migh gifwit hafwer: ty tu hafwer älskat migh förr än werlden war skapad.",
+      "king_james": "Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Pater juste, mundus te non cognovit, ego autem te cognovi: et hi cognoverunt, quia tu me misisti.",
+      "greek_textus_receptus": "πάτερ δίκαιε καὶ ὁ κόσμος σε οὐκ ἔγνω ἐγὼ δέ σε ἔγνων καὶ οὗτοι ἔγνωσαν ὅτι σύ με ἀπέστειλας",
+      "finnish_biblia": "Vanhurskas Isä! ei maailma sinua tuntenut, mutta minä tunsin sinun, ja nämät ymmärsivät, että sinä minun lähetit. ",
+      "swedish_karl_xii": "Rättwise Fader, werlden hafwer icke kändt tigh; men jagh hafwer kändt tigh: och thesse hafwa förstådt, at tu migh sändt hafwer.",
+      "king_james": "O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Et notum feci eis nomen tuum, et notum faciam: ut dilectio, qua dilexisti me, in ipsis sit, et ego in ipsis.",
+      "greek_textus_receptus": "καὶ ἐγνώρισα αὐτοῖς τὸ ὄνομά σου καὶ γνωρίσω ἵνα ἡ ἀγάπη ἣν ἠγάπησάς με ἐν αὐτοῖς ᾖ κἀγὼ ἐν αὐτοῖς",
+      "finnish_biblia": "Ja minä julistin heille sinun nimes, ja vielä julistan: että se rakkaus, jolla sinä minua rakastit, heissä olis, ja minä myös heissä.   ",
+      "swedish_karl_xii": "Och jagh hafwer kungiordt them titt namn, och skal kungiörat: på thet at then kärlek som tu hafwer älskat migh medh, skal wara i them, och jagh i them.",
+      "king_james": "And I have declared unto them thy name, and will declare *it*: that the love wherewith thou hast loved me may be in them, and I in them."
+    }
+  ]
+}

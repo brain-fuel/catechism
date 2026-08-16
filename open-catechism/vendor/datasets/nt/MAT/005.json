@@ -1,0 +1,395 @@
+{
+  "book_id": "MAT",
+  "latin_name": "Evangelium secundum Matthaeum",
+  "greek_name": "Κατὰ Ματθαῖον",
+  "finnish_name": "Matteuksen evankeliumi",
+  "swedish_name": "S. Matthei Evangelium",
+  "english_name": "The Gospel According to Matthew",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Videns autem Jesus turbas, ascendit in montem, et cum sedisset, accesserunt ad eum discipuli ejus,",
+      "greek_textus_receptus": "ἰδὼν δὲ τοὺς ὄχλους ἀνέβη εἰς τὸ ὄρος καὶ καθίσαντος αὐτοῦ προσῆλθον αὐτῷ οἱ μαθηταὶ αὐτοῦ",
+      "finnish_biblia": "Mutta kuin hän näki kansan, astui hän ylös vuorelle, ja kuin hän oli istunut, tulivat hänen opetuslapsensa hänen tykönsä. ",
+      "swedish_karl_xii": "När han såg folcket, steg han vppå ett berg; och som han hade satt sigh, gingo hans Lärjungar fram til honom.",
+      "king_james": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "et aperiens os suum docebat eos dicens:",
+      "greek_textus_receptus": "καὶ ἀνοίξας τὸ στόμα αὑτοῦ ἐδίδασκεν αὐτοὺς λέγων",
+      "finnish_biblia": "Niin hän avasi suunsa, opetti heitä ja sanoi: ",
+      "swedish_karl_xii": "Tå öpnade han sin mun, lärde them, och sade:",
+      "king_james": "And he opened his mouth, and taught them, saying,"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Beati pauperes spiritu: quoniam ipsorum est regnum cælorum.",
+      "greek_textus_receptus": "μακάριοι οἱ πτωχοὶ τῷ πνεύματι ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν",
+      "finnish_biblia": "Autuaat ovat hengellisesti vaivaiset; sillä heidän on taivaan valtakunta. ",
+      "swedish_karl_xii": "Salige äro the som äro andelige fattige: ty himmelriket hörer them til.",
+      "king_james": "Blessed *are* the poor in spirit: for theirs is the kingdom of heaven."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Beati mites: quoniam ipsi possidebunt terram.",
+      "greek_textus_receptus": "μακάριοι οἱ πενθοῦντες ὅτι αὐτοὶ παρακληθήσονται",
+      "finnish_biblia": "Autuaat ovat murheelliset; sillä he saavat lohdutuksen. ",
+      "swedish_karl_xii": "Salige äro the bedröfwade: ty the skola få hugswalelse.",
+      "king_james": "Blessed *are* they that mourn: for they shall be comforted."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Beati qui lugent: quoniam ipsi consolabuntur.",
+      "greek_textus_receptus": "μακάριοι οἱ πρᾳεῖς ὅτι αὐτοὶ κληρονομήσουσιν τὴν γῆν",
+      "finnish_biblia": "Autuaat ovat siviät; sillä he saavat maan periä. ",
+      "swedish_karl_xii": "Salige äro the sachtmodige: ty the skola besittia jordena.",
+      "king_james": "Blessed *are* the meek: for they shall inherit the earth."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Beati qui esuriunt et sitiunt justitiam: quoniam ipsi saturabuntur.",
+      "greek_textus_receptus": "μακάριοι οἱ πεινῶντες καὶ διψῶντες τὴν δικαιοσύνην ὅτι αὐτοὶ χορτασθήσονται",
+      "finnish_biblia": "Autuaat ovat, jotka isoovat ja janoovat vanhurskautta; sillä he ravitaan. ",
+      "swedish_karl_xii": "Salige äro the som hungra och törsta efter rättferdighetena: ty the skola blifwa mättade.",
+      "king_james": "Blessed *are* they which do hunger and thirst after righteousness: for they shall be filled."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Beati misericordes: quoniam ipsi misericordiam consequentur.",
+      "greek_textus_receptus": "μακάριοι οἱ ἐλεήμονες ὅτι αὐτοὶ ἐλεηθήσονται",
+      "finnish_biblia": "Autuaat ovat laupiaat; sillä he saavat laupiuden. ",
+      "swedish_karl_xii": "Salige äro the barmhertige: ty them skal skee barmhertighet.",
+      "king_james": "Blessed *are* the merciful: for they shall obtain mercy."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Beati mundo corde: quoniam ipsi Deum videbunt.",
+      "greek_textus_receptus": "μακάριοι οἱ καθαροὶ τῇ καρδίᾳ ὅτι αὐτοὶ τὸν θεὸν ὄψονται",
+      "finnish_biblia": "Autuaat ovat puhtaat sydämestä; sillä he saavat nähdä Jumalan. ",
+      "swedish_karl_xii": "Salige äro the reenhiertade: ty the skola see Gudh.",
+      "king_james": "Blessed *are* the pure in heart: for they shall see God."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Beati pacifici: quoniam filii Dei vocabuntur.",
+      "greek_textus_receptus": "μακάριοι οἱ εἰρηνοποιοὶ ὅτι αὐτοὶ υἱοὶ θεοῦ κληθήσονται",
+      "finnish_biblia": "Autuaat ovat rauhan tekiät; sillä ne pitää Jumalan pojiksi kutsuttaman. ",
+      "swedish_karl_xii": "Salige äro the fridsame: ty the skola kallas Gudz barn.",
+      "king_james": "Blessed *are* the peacemakers: for they shall be called the children of God."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Beati qui persecutionem patiuntur propter justitiam: quoniam ipsorum est regnum cælorum.",
+      "greek_textus_receptus": "μακάριοι οἱ δεδιωγμένοι ἕνεκεν δικαιοσύνης ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν",
+      "finnish_biblia": "Autuaat ovat, jotka vanhurskauden tähden vainotaan; sillä heidän on taivaan valtakunta. ",
+      "swedish_karl_xii": "Salige äro the som lida förföljelse för rättwison skul: ty them hörer himmelriket til.",
+      "king_james": "Blessed *are* they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Beati estis cum maledixerint vobis, et persecuti vos fuerint, et dixerint omne malum adversum vos mentientes, propter me:",
+      "greek_textus_receptus": "μακάριοί ἐστε ὅταν ὀνειδίσωσιν ὑμᾶς καὶ διώξωσιν καὶ εἴπωσιν πᾶν πονηρὸν ῥῆμα καθ᾽ ὑμῶν ψευδόμενοι ἕνεκεν ἐμοῦ",
+      "finnish_biblia": "Autuaat olette te, kuin he pilkkaavat ja vainoovat teitä, ja puhuvat kaikkinaista pahuutta teitä vastaan, valhetellen minun tähteni. ",
+      "swedish_karl_xii": "Salige ären J, när menniskiorna försmäda och förfölja eder, och säija alt ondt emot eder, liugande, för mina skul:",
+      "king_james": "Blessed are ye, when *men* shall revile you, and persecute *you*, and shall say all manner of evil against you falsely, for my sake."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "gaudete, et exsultate, quoniam merces vestra copiosa est in cælis. Sic enim persecuti sunt prophetas, qui fuerunt ante vos.",
+      "greek_textus_receptus": "χαίρετε καὶ ἀγαλλιᾶσθε ὅτι ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς οὕτως γὰρ ἐδίωξαν τοὺς προφήτας τοὺς πρὸ ὑμῶν",
+      "finnish_biblia": "Iloitkaat ja riemuitkaat; sillä teidän palkkanne on suuri taivaissa. Sillä näin he vainosivat prophetaita, jotka teidän edellänne olivat. ",
+      "swedish_karl_xii": "Glädiens och frögden eder; ty edor löön är stoor i himmelen: förty, the hafwa sammalunda förfölgdt Propheterna, som hafwa warit för eder.",
+      "king_james": "Rejoice, and be exceeding glad: for great *is* your reward in heaven: for so persecuted they the prophets which were before you."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Vos estis sal terræ. Quod si sal evanuerit, in quo salietur? ad nihilum valet ultra, nisi ut mittatur foras, et conculcetur ab hominibus.",
+      "greek_textus_receptus": "ὑμεῖς ἐστε τὸ ἅλας τῆς γῆς ἐὰν δὲ τὸ ἅλας μωρανθῇ ἐν τίνι ἁλισθήσεται εἰς οὐδὲν ἰσχύει ἔτι εἰ μὴ βληθῆναι ἔξω καὶ καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων",
+      "finnish_biblia": "Te olette maan suola: jos siis suola tulee mauttomaksi, millä sitte suolataan? ei se enään kelpaa mihinkään, vaan heitettää pois ja ihmisiltä tallattaa. ",
+      "swedish_karl_xii": "Jären jordenes salt: är thet så at saltet mister sin sälto, hwar medh skal man tå salta? Til intet meer är thet nyttigt, vtan at man kastar thet vth, och låter thet trampas af menniskiomen.",
+      "king_james": "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Vos estis lux mundi. Non potest civitas abscondi supra montem posita,",
+      "greek_textus_receptus": "ὑμεῖς ἐστε τὸ φῶς τοῦ κόσμου οὐ δύναται πόλις κρυβῆναι ἐπάνω ὄρους κειμένη",
+      "finnish_biblia": "Te olette maailman valkeus. Ei sitä kaupunkia taideta peittää, joka vuorella on, ",
+      "swedish_karl_xii": "J ären werldenes lius: icke kan then staden döljas, som ligger på ett berg.",
+      "king_james": "Ye are the light of the world. A city that is set on an hill cannot be hid."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "neque accendunt lucernam, et ponunt eam sub modio, sed super candelabrum, ut luceat omnibus qui in domo sunt.",
+      "greek_textus_receptus": "οὐδὲ καίουσιν λύχνον καὶ τιθέασιν αὐτὸν ὑπὸ τὸν μόδιον ἀλλ᾽ ἐπὶ τὴν λυχνίαν καὶ λάμπει πᾶσιν τοῖς ἐν τῇ οἰκίᾳ",
+      "finnish_biblia": "Eikä kynttilää sytytetä ja panna vakan alle, vaan kynttiläjalkaan, valaisemaan kaikkia, jotka huoneessa ovat. ",
+      "swedish_karl_xii": "Jcke tänder man heller lius, och sätter thet vnder ena skeppo, vtan på en liusastaka; at thet lyser allom them som i huset äro.",
+      "king_james": "Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Sic luceat lux vestra coram hominibus: ut videant opera vestra bona, et glorificent Patrem vestrum, qui in cælis est.",
+      "greek_textus_receptus": "οὕτων λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα καὶ δοξάσωσιν τὸν πατέρα ὑμῶν τὸν ἐν τοῖς οὐρανοῖς",
+      "finnish_biblia": "Näin valistakoon teidän valkeutenne ihmisten edessä, että he näkisivät teidän hyvät työnne, ja kunnioittaisivat teidän Isäänne, joka on taivaissa. ",
+      "swedish_karl_xii": "Så läter edart lius lysa för menniskiomen, at the måga see edra goda gierningar, och prisa edar Fader som är i himmelen.",
+      "king_james": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Nolite putare quoniam veni solvere legem aut prophetas: non veni solvere, sed adimplere.",
+      "greek_textus_receptus": "μὴ νομίσητε ὅτι ἦλθον καταλῦσαι τὸν νόμον ἢ τοὺς προφήτας οὐκ ἦλθον καταλῦσαι ἀλλὰ πληρῶσαι",
+      "finnish_biblia": "Älkäät luulko, että minä tulin lakia ja prophetaita päästämään: en minä tullut päästämään, vaan täyttämään. ",
+      "swedish_karl_xii": "Jskolen icke mena, at jagh är kommen til at vplossa lagen eller Propheterna: jagh är icke kommen til at vplossa, vtan til at fulborda.",
+      "king_james": "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Amen quippe dico vobis, donec transeat cælum et terra, jota unum aut unus apex non præteribit a lege, donec omnia fiant.",
+      "greek_textus_receptus": "ἀμὴν γὰρ λέγω ὑμῖν ἕως ἂν παρέλθῃ ὁ οὐρανὸς καὶ ἡ γῆ ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου ἕως ἂν πάντα γένηται",
+      "finnish_biblia": "Sillä totisesti sanon minä teille: siihenasti kuin taivas ja maa katoo, ei pidä vähinkään piirto eikä joku rahtu laista katooman, siihenasti kuin kaikki tapahtuvat. ",
+      "swedish_karl_xii": "Ty jagh säger eder försant, til thes at himmel och jord förgås, warder eij förgången then minste bokstafwen, icke heller en prick af lagen, förr än thet är alt skedt.",
+      "king_james": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Qui ergo solverit unum de mandatis istis minimis, et docuerit sic homines, minimus vocabitur in regno cælorum: qui autem fecerit et docuerit, hic magnus vocabitur in regno cælorum.",
+      "greek_textus_receptus": "ὃς ἐὰν οὖν λύσῃ μίαν τῶν ἐντολῶν τούτων τῶν ἐλαχίστων καὶ διδάξῃ οὕτως τοὺς ἀνθρώπους ἐλάχιστος κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν ὃς δ᾽ ἂν ποιήσῃ καὶ διδάξῃ οὗτος μέγας κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν",
+      "finnish_biblia": "Kuka siis jonkun näistä vähimmistä käskyistä päästää, ja näin ihmisiä opettaa, hän pitää taivaan valtakunnassa vähimmäksi kutsuttaman; mutta joka sen tekee ja opettaa, se pitää suureksi taivaan valtakunnassa kutsuttaman. ",
+      "swedish_karl_xii": "Therföre, hwilken som vplossar ett af thessa minsta buden, och lärer så menniskiorna, han skal kallas then minste i himmelriket: men hwilken som thet giör, och lärer, han skal kallas stoor i himmelriket.",
+      "king_james": "Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach *them*, the same shall be called great in the kingdom of heaven."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Dico enim vobis, quia nisi abundaverit justitia vestra plus quam scribarum et pharisæorum, non intrabitis in regnum cælorum.",
+      "greek_textus_receptus": "λέγω γὰρ ὑμῖν ὅτι ἐὰν μὴ περισσεύσῃ ἡ δικαιοσύνη ὑμῶν πλεῖον τῶν γραμματέων καὶ φαρισαίων οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν",
+      "finnish_biblia": "Sillä minä sanon teille: ellei teidän vanhurskautenne ole paljoa enempi kuin kirjanoppineiden ja Pharisealaisten, niin ette tule taivaan valtakuntaan. ",
+      "swedish_karl_xii": "Ty jagh säger eder, at vtan edor rättferdighet öfwergår the Skriftlärdas och the Phariseers, tå skolen J icke komma i himmelriket.",
+      "king_james": "For I say unto you, That except your righteousness shall exceed *the righteousness* of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Audistis quia dictum est antiquis: Non occides: qui autem occiderit, reus erit judicio.",
+      "greek_textus_receptus": "ἠκούσατε ὅτι ἐῤῥέθη τοῖς ἀρχαίοις οὐ φονεύσεις ὃς δ᾽ ἂν φονεύσῃ ἔνοχος ἔσται τῇ κρίσει",
+      "finnish_biblia": "Te kuulitte mitä sanottu oli vanhoille: ei sinun pidä tappaman; mutta jokainen, joka tappaa, hänen pitää tuomioon vikapää oleman. ",
+      "swedish_karl_xii": "J hafwen hördt, at them gamlom sagt är: Tu skalt icke dräpa; men hwilken som dräper, han skal wara skyldig vnder domen.",
+      "king_james": "Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:"
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Ego autem dico vobis: quia omnis qui irascitur fratri suo, reus erit judicio. Qui autem dixerit fratri suo, raca: reus erit concilio. Qui autem dixerit, fatue: reus erit gehennæ ignis.",
+      "greek_textus_receptus": "ἐγὼ δὲ λέγω ὑμῖν ὅτι πᾶς ὁ ὀργιζόμενος τῷ ἀδελφῷ αὑτοῦ εἰκῆ ἔνοχος ἔσται τῇ κρίσει ὃς δ᾽ ἂν εἴπῃ τῷ ἀδελφῷ αὑτοῦ ῥακὰ ἔνοχος ἔσται τῷ συνεδρίῳ ὃς δ᾽ ἂν εἴπῃ μωρὲ ἔνοχος ἔσται εἰς τὴν γέενναν τοῦ πυρός",
+      "finnish_biblia": "Mutta minä sanon teille: että jokainen, joka tyhmästi vihastuu veljellensä, hänen pitää tuomioon vikapää oleman; mutta jokainen, joka sanoo veljellensä: raka, hänen pitää neuvon alle vikapää oleman; mutta jokainen, joka sanoo: sinä tyhmä, hänen pitää helvetin tuleen vikapää oleman. ",
+      "swedish_karl_xii": "Men jagh säger eder, at hwilken som förtörnas på sin broder, han skal wara skyldig vnder domen: men hwilken som säger, Racha, til sin broder, han är skyldig vnder rådet: men hwilken som säger, tu dåre, han är skyldig til helwetis eld.",
+      "king_james": "But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Si ergo offers munus tuum ad altare, et ibi recordatus fueris quia frater tuus habet aliquid adversum te:",
+      "greek_textus_receptus": "ἐὰν οὖν προσφέρῃς τὸ δῶρόν σου ἐπὶ τὸ θυσιαστήριον κἀκεῖ μνησθῇς ὅτι ὁ ἀδελφός σου ἔχει τι κατὰ σοῦ",
+      "finnish_biblia": "Sentähden, jos sinä uhraat lahjas alttarille, ja siellä muistat, että veljelläs on jotakin sinua vastaan: ",
+      "swedish_karl_xii": "Therföre om tu offrar tina gåfwo på altaret, och kommer så ihogh, at tin broder hafwer något emot tigh:",
+      "king_james": "Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "relinque ibi munus tuum ante altare, et vade prius reconciliari fratri tuo: et tunc veniens offeres munus tuum.",
+      "greek_textus_receptus": "ἄφες ἐκεῖ τὸ δῶρόν σου ἔμπροσθεν τοῦ θυσιαστηρίου καὶ ὕπαγε πρῶτον διαλλάγηθι τῷ ἀδελφῷ σου καὶ τότε ἐλθὼν πρόσφερε τὸ δῶρόν σου",
+      "finnish_biblia": "Niin jätä sinne lahjas alttarin eteen, ja mene ensin sopimaan veljes kanssa, ja tule sitte lahjas uhraamaan. ",
+      "swedish_karl_xii": "Så lägg ther tina gåfwo nedh för altaret, och gack först vort, och förlika tigh medh tin broder; och kom sedan, och offra tina gåfwo.",
+      "king_james": "Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Esto consentiens adversario tuo cito dum es in via cum eo: ne forte tradat te adversarius judici, et judex tradat te ministro: et in carcerem mittaris.",
+      "greek_textus_receptus": "Ἴσθι εὐνοῶν τῷ ἀντιδίκῳ σου ταχὺ ἕως ὅτου εἶ ἐν τῇ ὁδῷ μετ᾽ αὐτοῦ μήποτέ σε παραδῷ ὁ ἀντίδικος τῷ κριτῇ καὶ ὁ κριτής σε παραδῷ τῷ ὑπηρέτῃ καὶ εἰς φυλακὴν βληθήσῃ",
+      "finnish_biblia": "Sovi nopiasti riitaveljes kanssa, koskas vielä hänen kanssansa tiellä olet, ettei riitaveljes anna sinua joskus tuomarille, ja tuomari antaa sinun palvelialle, ja sinä heitetään torniin. ",
+      "swedish_karl_xii": "Tu skalt wara tin trätobroder benägen til wänskap snart, medan tu ännu äst medh honom på wägen; at tin trätobroder antwardar tigh icke domarenom, och domaren antwardar tigh tienarenom, och tu kastas så i hächtelse.",
+      "king_james": "Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Amen dico tibi, non exies inde, donec reddas novissimum quadrantem.",
+      "greek_textus_receptus": "ἀμὴν λέγω σοὶ οὐ μὴ ἐξέλθῃς ἐκεῖθεν ἕως ἂν ἀποδῷς τὸν ἔσχατον κοδράντην",
+      "finnish_biblia": "Totisesti sanon minä sinulle: et sinä suinkaan pääse sieltä ulos, siihenasti kuin sinä maksat viimeisen rovon. ",
+      "swedish_karl_xii": "Sannerliga säger jagh tigh: Tu warder ther icke vthkommandes, til thes tu hafwer betalat then yttersta stärfwen.",
+      "king_james": "Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing."
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Audistis quia dictum est antiquis: Non mœchaberis.",
+      "greek_textus_receptus": "ἠκούσατε ὅτι ἐῤῥέθη τοῖς ἀρχαίοις οὐ μοιχεύσεις",
+      "finnish_biblia": "Te kuulitte sanotuksi vanhoille: ei sinun pidä huorin tekemän. ",
+      "swedish_karl_xii": "J hafwen hördt, at thet war sagt them gamlom: Tu skalt icke giöra hoor.",
+      "king_james": "Ye have heard that it was said by them of old time, Thou shalt not commit adultery:"
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Ego autem dico vobis: quia omnis qui viderit mulierem ad concupiscendum eam, jam mœchatus est eam in corde suo.",
+      "greek_textus_receptus": "ἐγὼ δὲ λέγω ὑμῖν ὅτι πᾶς ὁ βλέπων γυναῖκα πρὸς τὸ ἐπιθυμῆσαι αὐτῆς ἤδη ἐμοίχευσεν αὐτὴν ἐν τῇ καρδίᾳ αὑτοῦ",
+      "finnish_biblia": "Mutta minä sanon teille: jokainen, joka katsoo vaimon päälle himoitaksensa häntä, hän teki jo huorin hänen kanssansa sydämessänsä. ",
+      "swedish_karl_xii": "Men jagh säger eder: Hwilken som seer på ena qwinno til at begära henne, han hafwer allaredo giordt hoor medh henne i sitt hierta.",
+      "king_james": "But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Quod si oculus tuus dexter scandalizat te, erue eum, et projice abs te: expedit enim tibi ut pereat unum membrorum tuorum, quam totum corpus tuum mittatur in gehennam.",
+      "greek_textus_receptus": "εἰ δὲ ὁ ὀφθαλμός σου ὁ δεξιὸς σκανδαλίζει σε ἔξελε αὐτὸν καὶ βάλε ἀπὸ σοῦ συμφέρει γάρ σοι ἵνα ἀπόληται ἓν τῶν μελῶν σου καὶ μὴ ὅλον τὸ σῶμά σου βληθῇ εἰς γέενναν",
+      "finnish_biblia": "Jos oikia silmäs pahentaa sinun, niin puhkaise se ulos, ja heitä pois tyköäs; sillä parempi on sinulle, että yksi jäsenistäs hukutetaan, kuin että koko ruumis pitäis heitettämän helvettiin. ",
+      "swedish_karl_xii": "Om så är, at titt högra öga är tigh til förargelse, så rif thet vth, och kastat ifrå tigh: thet är tigh bättre, at ett titt ledamot förderfwas, än at tin hela kropp skulle kastas til helwetes.",
+      "king_james": "And if thy right eye offend thee, pluck it out, and cast *it* from thee: for it is profitable for thee that one of thy members should perish, and not *that* thy whole body should be cast into hell."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Et si dextra manus tua scandalizat te, abscide eam, et projice abs te: expedit enim tibi ut pereat unum membrorum tuorum, quam totum corpus tuum eat in gehennam.",
+      "greek_textus_receptus": "καὶ εἰ ἡ δεξιά σου χεὶρ σκανδαλίζει σε ἔκκοψον αὐτὴν καὶ βάλε ἀπὸ σοῦ συμφέρει γάρ σοι ἵνα ἀπόληται ἓν τῶν μελῶν σου καὶ μὴ ὅλον τὸ σῶμά σου βληθῇ εἰς γέενναν",
+      "finnish_biblia": "Ja jos oikia kätes pahentaa sinun, niin hakkaa se poikki, ja heitä pois tyköäs! sillä parempi on sinulle, että yksi jäsenistäs hukutetaan, kuin että koko ruumis pitäis helvettiin heitettämän. ",
+      "swedish_karl_xii": "Är thet ock så, at tin högra hand är tigh til förargelse, så hugg henne af, och kasta henne ifrå tigh: thet är tigh bättre, at ett titt ledamot förderfwas, än at hela kroppen kastas til helwetes.",
+      "king_james": "And if thy right hand offend thee, cut it off, and cast *it* from thee: for it is profitable for thee that one of thy members should perish, and not *that* thy whole body should be cast into hell."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Dictum est autem: Quicumque dimiserit uxorem suam, det ei libellum repudii.",
+      "greek_textus_receptus": "ἐῤῥέθη δὲ ὅτι ὃς ἂν ἀπολύσῃ τὴν γυναῖκα αὑτοῦ δότω αὐτῇ ἀποστάσιον",
+      "finnish_biblia": "On myös sanottu: jokainen joka emäntänsä hylkää, hän antakaan hänelle erokirjan. ",
+      "swedish_karl_xii": "Thet är ock sagt: Hwilken som öfwergifwer sina hustru, han skal gifwa henne ett skiljobref.",
+      "king_james": "It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:"
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Ego autem dico vobis: quia omnis qui dimiserit uxorem suam, excepta fornicationis causa, facit eam mœchari: et qui dimissam duxerit, adulterat.",
+      "greek_textus_receptus": "ἐγὼ δὲ λέγω ὑμῖν ὅτι ὃς ἂν ἀπολύσῃ τὴν γυναῖκα αὑτοῦ παρεκτὸς λόγου πορνείας ποιεῖ αὐτὴν μοιχᾶσθαι καὶ ὃς ἐὰν ἀπολελυμένην γαμήσῃ μοιχᾶται",
+      "finnish_biblia": "Mutta minä sanon teille: joka emäntänsä hylkää, muutoin kuin huoruuden tähden, hän saattaa hänen huorin tekemään; ja joka nai sen hyljätyn, hän tekee huorin. ",
+      "swedish_karl_xii": "Men jagh säger eder: Hwilken som hälst öfwergifwer sina hustru, vtan för hoor skul, han kommer henne til at giöra hoor: och hwilken ena öfwergifna tager til hustru, han giör hoor.",
+      "king_james": "But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery."
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "Iterum audistis quia dictum est antiquis: Non perjurabis: reddes autem Domino juramenta tua.",
+      "greek_textus_receptus": "πάλιν ἠκούσατε ὅτι ἐῤῥέθη τοῖς ἀρχαίοις οὐκ ἐπιορκήσεις ἀποδώσεις δὲ τῷ κυρίῳ τοὺς ὅρκους σου",
+      "finnish_biblia": "Taas te kuulitte sanotuksi vanhoille: älä vanno väärin, vaan pidä valas Herralle. ",
+      "swedish_karl_xii": "Åter hafwen Jhördt, at thet war sagt them gamlom: Tu skalt icke swärja tigh meen; vtan skalt hålla Herranom tin eed.",
+      "king_james": "Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:"
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "Ego autem dico vobis, non jurare omnino, neque per cælum, quia thronus Dei est:",
+      "greek_textus_receptus": "ἐγὼ δὲ λέγω ὑμῖν μὴ ὀμόσαι ὅλως μήτε ἐν τῷ οὐρανῷ ὅτι θρόνος ἐστὶν τοῦ θεοῦ",
+      "finnish_biblia": "Mutta minä sanon teille: älkäät ensinkään vannoko, ei taivaan kautta, sillä se on Jumalan istuin; ",
+      "swedish_karl_xii": "Men jagh säger eder, at J skolen alsintet swärja; hwarken widh himmelen: ty han är Gudz stool;",
+      "king_james": "But I say unto you, Swear not at all; neither by heaven; for it is God's throne:"
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "neque per terram, quia scabellum est pedum ejus: neque per Jerosolymam, quia civitas est magni regis:",
+      "greek_textus_receptus": "μήτε ἐν τῇ γῇ ὅτι ὑποπόδιόν ἐστιν τῶν ποδῶν αὐτοῦ μήτε εἰς ἱεροσόλυμα ὅτι πόλις ἐστὶν τοῦ μεγάλου βασιλέως",
+      "finnish_biblia": "Eikä maan kautta, sillä se on hänen astinlautansa: ei myös Jerusalemin kautta, sillä se on suuren kuninkaan kaupunki: ",
+      "swedish_karl_xii": "Eller widh jordena: ty hon är hans fotapall; eij heller widh Jerusalem: ty thet är en mächtig Konungs stadh.",
+      "king_james": "Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King."
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "neque per caput tuum juraveris, quia non potes unum capillum album facere, aut nigrum.",
+      "greek_textus_receptus": "μήτε ἐν τῇ κεφαλῇ σου ὀμόσῃς ὅτι οὐ δύνασαι μίαν τρίχα λευκὴν ἢ μέλαιναν ποιῆσαι",
+      "finnish_biblia": "Ei sinun myös pidä vannoman pääs kautta, sillä et sinä voi yhtään hiusta valkiaksi eli mustaksi tehdä. ",
+      "swedish_karl_xii": "Eij heller skalt tu swärja widh titt hufwud: ty tu förmå icke giöra ett hår hwitt eller swart.",
+      "king_james": "Neither shalt thou swear by thy head, because thou canst not make one hair white or black."
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "Sit autem sermo vester, est, est: non, non: quod autem his abundantius est, a malo est.",
+      "greek_textus_receptus": "ἕστω δὲ ὁ λόγος ὑμῶν ναὶ ναί οὒ οὔ τὸ δὲ περισσὸν τούτων ἐκ τοῦ πονηροῦ ἐστιν",
+      "finnish_biblia": "Vaan teidän puheenne pitää oleman: on, on, ei, ei; mutta mitä siihen lisätään, se on pahasta. ",
+      "swedish_karl_xii": "Men edart taal skal wara: Ja, ja; neij, neij: hwad ther öfwer är, thet är af ondo.",
+      "king_james": "But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil."
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "Audistis quia dictum est: Oculum pro oculo, et dentem pro dente.",
+      "greek_textus_receptus": "ἠκούσατε ὅτι ἐῤῥέθη ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ καὶ ὀδόντα ἀντὶ ὀδόντος",
+      "finnish_biblia": "Te kuulitte sanotuksi: silmä silmästä, ja hammas hampaasta. ",
+      "swedish_karl_xii": "J Hafwen hördt, at thet är sagt: Öga för öga, tand för tand.",
+      "king_james": "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:"
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": "Ego autem dico vobis, non resistere malo: sed si quis te percusserit in dexteram maxillam tuam, præbe illi et alteram:",
+      "greek_textus_receptus": "ἐγὼ δὲ λέγω ὑμῖν μὴ ἀντιστῆναι τῷ πονηρῷ ἀλλ᾽ ὅστις σε ῥαπίσει ἐπὶ τὴν δεξιάν σου σιαγόνα στρέψον αὐτῷ καὶ τὴν ἄλλην",
+      "finnish_biblia": "Mutta minä sanon teille: älkäät olko pahaa vastaan; vaan joka sinua lyö oikialle poskelle, niin käännä myös hänelle toinen. ",
+      "swedish_karl_xii": "Men jagh säger eder, at J skolen icke stå thet onda emot: vtan är thet så, at någor slår tigh widh thet högra kindbenet, så wändt honom ock thet andra til.",
+      "king_james": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also."
+    },
+    {
+      "verse": 40,
+      "latin_vulgate": "et ei, qui vult tecum judicio contendere, et tunicam tuam tollere, dimitte ei et pallium:",
+      "greek_textus_receptus": "καὶ τῷ θέλοντί σοι κριθῆναι καὶ τὸν χιτῶνά σου λαβεῖν ἄφες αὐτῷ καὶ τὸ ἱμάτιον",
+      "finnish_biblia": "Ja joka sinua tahtoo oikeuden eteen, jo ottaa hamees, niin salli myös hänelle muukin vaate. ",
+      "swedish_karl_xii": "Och om någor wil gå til rätta medh tigh, och taga tin kiortel ifrå tigh, lät honom ock hafwa kåpona medh.",
+      "king_james": "And if any man will sue thee at the law, and take away thy coat, let him have *thy* cloke also."
+    },
+    {
+      "verse": 41,
+      "latin_vulgate": "et quicumque te angariaverit mille passus, vade cum illo et alia duo.",
+      "greek_textus_receptus": "καὶ ὅστις σε ἀγγαρεύσει μίλιον ἓν ὕπαγε μετ᾽ αὐτοῦ δύο",
+      "finnish_biblia": "Ja joka sinua vaatii peninkulman, mene hänen kanssansa kaksi. ",
+      "swedish_karl_xii": "Och om någor nödgar tigh ena milo, så gack twå medh honom.",
+      "king_james": "And whosoever shall compel thee to go a mile, go with him twain."
+    },
+    {
+      "verse": 42,
+      "latin_vulgate": "Qui petit a te, da ei: et volenti mutuari a te, ne avertaris.",
+      "greek_textus_receptus": "τῷ αἰτοῦντί σε δίδου καὶ τὸν θέλοντα ἀπὸ σοῦ δανείσασθαι μὴ ἀποστραφῇς",
+      "finnish_biblia": "Anna sille, joka sinulta anoo, ja älä käänny siltä pois, joka lainan pyytää. ",
+      "swedish_karl_xii": "Gjf honom som af tigh bedes, och wändt tigh icke ifrå honom, som något wil läna af tigh.",
+      "king_james": "Give to him that asketh thee, and from him that would borrow of thee turn not thou away."
+    },
+    {
+      "verse": 43,
+      "latin_vulgate": "Audistis quia dictum est: Diliges proximum tuum, et odio habebis inimicum tuum.",
+      "greek_textus_receptus": "ἠκούσατε ὅτι ἐῤῥέθη ἀγαπήσεις τὸν πλησίον σου καὶ μισήσεις τὸν ἐχθρόν σου",
+      "finnish_biblia": "Te kuulitte sanotuksi: rakasta lähimmäistäs, ja vihaa vihollistas; ",
+      "swedish_karl_xii": "J hafwen hördt, at thet är sagt: Tu skalt älska tin nästa, och hata tin fienda.",
+      "king_james": "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy."
+    },
+    {
+      "verse": 44,
+      "latin_vulgate": "Ego autem dico vobis: diligite inimicos vestros, benefacite his qui oderunt vos, et orate pro persequentibus et calumniantibus vos:",
+      "greek_textus_receptus": "ἐγὼ δὲ λέγω ὑμῖν ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν εὐλογεῖτε τοὺς καταρωμένους ὑμᾶς καλῶς ποιεῖτε τοὺς μισοῦντας ὑμᾶς καὶ προσεύχεσθε ὑπὲρ τῶν ἐπηρεαζόντων ὑμᾶς καὶ διωκόντων ὑμᾶς",
+      "finnish_biblia": "Mutta minä sanon teille: rakastakaat vihollisianne; siunatkaat niitä, jotka teitä sadattavat; tehkäät niille hyvin, jotka teitä vihaavat, ja rukoilkaat niiden edestä, jotka teitä vainoovat ja vahingoittavat, ",
+      "swedish_karl_xii": "Men jagh säger eder: Älsker edra owänner; wälsigner them som eder banna; giörer wäl emot them som eder hata; beder för them som giöra eder skada, och förfölja eder:",
+      "king_james": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;"
+    },
+    {
+      "verse": 45,
+      "latin_vulgate": "ut sitis filii Patris vestri, qui in cælis est: qui solem suum oriri facit super bonos et malos: et pluit super justos et injustos.",
+      "greek_textus_receptus": "ὅπως γένησθε υἱοὶ τοῦ πατρὸς ὑμῶν τοῦ ἐν οὐρανοῖς ὅτι τὸν ἥλιον αὑτοῦ ἀνατέλλει ἐπὶ πονηροὺς καὶ ἀγαθοὺς καὶ βρέχει ἐπὶ δικαίους καὶ ἀδίκους",
+      "finnish_biblia": "Että te olisitte teidän Isänne pojat, joka on taivaissa; sillä hän sallii aurinkonsa koittaa niin pahain ylitse kuin hyväinkin, ja antaa sataa niin väärille kuin vanhurskaillekin. ",
+      "swedish_karl_xii": "På thet J skolen wara edar Faders barn, som är i himmelen: ty han låter sina sool vpgå öfwer onda och goda, och låter regna öfwer rättferdiga och orättferdiga:",
+      "king_james": "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust."
+    },
+    {
+      "verse": 46,
+      "latin_vulgate": "Si enim diligitis eos qui vos diligunt, quam mercedem habebitis? nonne et publicani hoc faciunt?",
+      "greek_textus_receptus": "ἐὰν γὰρ ἀγαπήσητε τοὺς ἀγαπῶντας ὑμᾶς τίνα μισθὸν ἔχετε οὐχὶ καὶ οἱ τελῶναι τὸ αὐτὸ ποιοῦσιν",
+      "finnish_biblia": "Sillä jos te rakastatte niitä, jotka teitäkin rakastavat, mitä teidän siitä palkkaa on? eikö Publikanit myös niin tee? ",
+      "swedish_karl_xii": "Förty om J ålsken them som eder älska, hwad fåån J för löön? Giöra ock icke the Publicaner thet samma?",
+      "king_james": "For if ye love them which love you, what reward have ye? do not even the publicans the same?"
+    },
+    {
+      "verse": 47,
+      "latin_vulgate": "Et si salutaveritis fratres vestros tantum, quid amplius facitis? nonne et ethnici hoc faciunt?",
+      "greek_textus_receptus": "καὶ ἐὰν ἀσπάσησθε τοὺς ἀδελφοὺς ὑμῶν μόνον τί περισσὸν ποιεῖτε οὐχὶ καὶ οἱ τελῶναι οὕτως ποιοῦσιν",
+      "finnish_biblia": "Ja jos te ainoastaan veljeinne kanssa soveliaat olette, mitä te sen kanssa erinomaista teette? eikö Publikanit myös niin tee? ",
+      "swedish_karl_xii": "Om J hafwen eder wänliga emot edra bröder allenast, hwad besynnerligit giören J? Giöra icke ock så the Publicaner?",
+      "king_james": "And if ye salute your brethren only, what do ye more *than others* ? do not even the publicans so?"
+    },
+    {
+      "verse": 48,
+      "latin_vulgate": "Estote ergo vos perfecti, sicut et Pater vester cælestis perfectus est.",
+      "greek_textus_receptus": "ἔσεσθε οὖν ὑμεῖς τέλειοι ὥσπερ ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς τέλειός ἐστιν",
+      "finnish_biblia": "Olkaat siis te täydelliset, niinkuin teidän taivaallinen Isänne täydellinen on.   ",
+      "swedish_karl_xii": "Warer förthenskul fulkomlige, såsom edar himmelske Fader fulkomlig är.",
+      "king_james": "Be ye therefore perfect, even as your Father which is in heaven is perfect."
+    }
+  ]
+}

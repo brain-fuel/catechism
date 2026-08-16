@@ -1,0 +1,259 @@
+{
+  "book_id": "GAL",
+  "latin_name": "Epistula ad Galatas",
+  "greek_name": "Πρὸς Γαλάτας",
+  "finnish_name": "Kirje galatalaisille",
+  "swedish_name": "S. Pauli Epistel Til the Galater",
+  "english_name": "The Epistle of Paul the Apostle to the Galatians",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Dico autem: quanto tempore hæres parvulus est, nihil differt a servo, cum sit dominus omnium:",
+      "greek_textus_receptus": "λέγω δέ ἐφ᾽ ὅσον χρόνον ὁ κληρονόμος νήπιός ἐστιν οὐδὲν διαφέρει δούλου κύριος πάντων ὤν",
+      "finnish_biblia": "Mutta minä sanon: niin kauvan kuin perillinen on lapsi, ei ole hänen ja palvelian välillä eroitusta, vaikka hän on kaiken tavaran herra; ",
+      "swedish_karl_xii": "Men jagh säger: Så länge arfwingen är barn, är ingen åthskilnad emellan honom och en tienare; ändoch han är herre öfwer alla ägodelarna:",
+      "king_james": "Now I say, *That* the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "sed sub tutoribus et actoribus est usque ad præfinitum tempus a patre:",
+      "greek_textus_receptus": "ἀλλὰ ὑπὸ ἐπιτρόπους ἐστὶν καὶ οἰκονόμους ἄχρι τῆς προθεσμίας τοῦ πατρός",
+      "finnish_biblia": "Vaan hän on esimiesten ja haltiain hallussa, isältä määrättyyn aikaan asti. ",
+      "swedish_karl_xii": "Vtan är vnder förmyndare och förståndare in til then tiden, som af fadrenom förelagd är.",
+      "king_james": "But is under tutors and governors until the time appointed of the father."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "ita et nos cum essemus parvuli, sub elementis mundi eramus servientes.",
+      "greek_textus_receptus": "οὕτως καὶ ἡμεῖς ὅτε ἦμεν νήπιοι ὑπὸ τὰ στοιχεῖα τοῦ κόσμου ἦμεν δεδουλωμένοι",
+      "finnish_biblia": "Niin myös me, kuin me olimme lapset, niin me olimme vaaditut orjuuteen ulkonaisten säätyin alle. ",
+      "swedish_karl_xii": "Sammalunda ock wij, tå wij worom barn, wore wij twingade vnder vthwärtes stadgar.",
+      "king_james": "Even so we, when we were children, were in bondage under the elements of the world:"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "At ubi venit plenitudo temporis, misit Deus Filium suum factum ex muliere, factum sub lege,",
+      "greek_textus_receptus": "ὅτε δὲ ἦλθεν τὸ πλήρωμα τοῦ χρόνου ἐξαπέστειλεν ὁ θεὸς τὸν υἱὸν αὐτοῦ γενόμενον ἐκ γυναικός γενόμενον ὑπὸ νόμον",
+      "finnish_biblia": "Mutta koska aika oli täytetty, lähetti Jumala Poikansa, syntyneen vaimosta, lain alaiseksi tehdyn, ",
+      "swedish_karl_xii": "Men tå tiden wardt fulkommen, sände Gudh sin Son, föddan af qwinno, giordan vnder lagen :",
+      "king_james": "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "ut eos, qui sub lege erant, redimeret, ut adoptionem filiorum reciperemus.",
+      "greek_textus_receptus": "ἵνα τοὺς ὑπὸ νόμον ἐξαγοράσῃ ἵνα τὴν υἱοθεσίαν ἀπολάβωμεν",
+      "finnish_biblia": "Että hän ne, jotka lain alaiset olivat, lunastais, että me hänen lapsiksensa luettaisiin. ",
+      "swedish_karl_xii": "På thet han skulle förlossa them som vnder lagen woro, at wij skullom få barnaskapet.",
+      "king_james": "To redeem them that were under the law, that we might receive the adoption of sons."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Quoniam autem estis filii, misit Deus Spiritum Filii sui in corda vestra, clamantem: Abba, Pater.",
+      "greek_textus_receptus": "ὅτι δέ ἐστε υἱοί ἐξαπέστειλεν ὁ θεὸς τὸ πνεῦμα τοῦ υἱοῦ αὐτοῦ εἰς τὰς καρδίας ὑμῶν, κρᾶζον αββα ὁ πατήρ",
+      "finnish_biblia": "Mutta että te olette lapset, lähetti Jumala Poikansa Hengen teidän sydämiinne, joka huutaa: Abba, rakas Isä! ",
+      "swedish_karl_xii": "Efter J nu ären söner, hafwer Gudh sändt sins Sons Anda vthi edor hiertan, hwilken ropar, Abba, käre Fader.",
+      "king_james": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Itaque jam non est servus, sed filius: quod si filius, et hæres per Deum.",
+      "greek_textus_receptus": "ὥστε οὐκέτι εἶ δοῦλος ἀλλ᾽ υἱός εἰ δὲ υἱός καὶ κληρονόμος θεοῦ διὰ χριστοῦ",
+      "finnish_biblia": "Niin ei silleen ole orja, vaan poika; mutta jos poika, niin myös Jumalan perillinen Kristuksen kautta. ",
+      "swedish_karl_xii": "Så är här nu icke meer tienare, vtan son: är han son, så är han ock Gudz arfwinge genom Christum.",
+      "king_james": "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Sed tunc quidem ignorantes Deum, iis, qui natura non sunt dii, serviebatis.",
+      "greek_textus_receptus": "ἀλλὰ τότε μὲν οὐκ εἰδότες θεὸν ἐδουλεύσατε τοῖς μὴ φύσει οὖσιν θεοῖς",
+      "finnish_biblia": "Mutta sillä ajalla, koska ette Jumalaa tunteneet, palvelitte te niitä, jotka ei luonnostansa jumalat olleetkaan. ",
+      "swedish_karl_xii": "Men then tijd J intet känden Gudh, tienten J them som af naturen icke äro gudar.",
+      "king_james": "Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Nunc autem cum cognoveritis Deum, immo cogniti sitis a Deo: quomodo convertimini iterum ad infirma et egena elementa, quibus denuo servire vultis?",
+      "greek_textus_receptus": "νῦν δὲ γνόντες θεόν μᾶλλον δὲ γνωσθέντες ὑπὸ θεοῦ πῶς ἐπιστρέφετε πάλιν ἐπὶ τὰ ἀσθενῆ καὶ πτωχὰ στοιχεῖα οἷς πάλιν ἄνωθεν δουλεύειν θέλετε",
+      "finnish_biblia": "Mutta nyt, sittekuin te Jumalan tunnette ja tosin enemmin Jumalalta tutut olette, kuinka te siis käännytte jälleen heikkoihin ja köyhiin säätyihin, joita te vasta-uudesta palvella tahdotte? ",
+      "swedish_karl_xii": "Men nu medan J Gudh kändt hafwen, ja mycket meer kände ären af Gudi, hwij wänden J eder tå om til the swaga och wedertorftiga stadgar igen, hwilkom J på nytt tiena wiljen?",
+      "king_james": "But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Dies observatis, et menses, et tempora, et annos.",
+      "greek_textus_receptus": "ἡμέρας παρατηρεῖσθε καὶ μῆνας καὶ καιροὺς καὶ ἐνιαυτούς",
+      "finnish_biblia": "Te otatte vaarin päivistä, ja kuukausista, ja ajoista, ja vuosista. ",
+      "swedish_karl_xii": "J hållen dagar och månader, högtider och åhrstider.",
+      "king_james": "Ye observe days, and months, and times, and years."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Timeo vos, ne forte sine causa laboraverim in vobis.",
+      "greek_textus_receptus": "φοβοῦμαι ὑμᾶς μήπως εἰκῇ κεκοπίακα εἰς ὑμᾶς",
+      "finnish_biblia": "Minä pelkään teidän tähtenne, etten minä turhaan olisi teidän tähtenne työtä tehnyt. ",
+      "swedish_karl_xii": "Jagh fruchtar om eder, at jagh til ewentyrs icke hafwer fåfängt arbetat på eder.",
+      "king_james": "I am afraid of you, lest I have bestowed upon you labour in vain."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Estote sicut ego, quia et ego sicut vos: fratres, obsecro vos. Nihil me læsistis.",
+      "greek_textus_receptus": "γίνεσθε ὡς ἐγώ ὅτι κἀγὼ ὡς ὑμεῖς ἀδελφοί δέομαι ὑμῶν οὐδέν με ἠδικήσατε",
+      "finnish_biblia": "Olkaat niinkuin minä olen, että minäkin olen niinkuin te. Rakkaat veljet! minä rukoilen teitä: ette ole mitään minua vastaan tehneet; ",
+      "swedish_karl_xii": "Warer såsom jagh är, efter jagh ock är såsom J. Käre bröder, jagh beder eder, J hafwen migh intet emot giordt:",
+      "king_james": "Brethren, I beseech you, be as I *am*; for I *am* as ye *are*: ye have not injured me at all."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Scitis autem quia per infirmitatem carnis evangelizavi vobis jampridem: et tentationem vestram in carne mea",
+      "greek_textus_receptus": "οἴδατε δὲ ὅτι δι᾽ ἀσθένειαν τῆς σαρκὸς εὐηγγελισάμην ὑμῖν τὸ πρότερον",
+      "finnish_biblia": "Mutta te tiedätte, että minä olen lihan heikkoudessa teille ensisti evankeliumia saarnannut, ",
+      "swedish_karl_xii": "J weten, at jagh genom kötsens swaghet i förstone predikade eder Evangelium.",
+      "king_james": "Ye know how through infirmity of the flesh I preached the gospel unto you at the first."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "non sprevistis, neque respuistis: sed sicut angelum Dei excepistis me, sicut Christum Jesum.",
+      "greek_textus_receptus": "καὶ τὸν πειρασμὸν μου τὸν ἐν τῇ σαρκί μοῦ οὐκ ἐξουθενήσατε οὐδὲ ἐξεπτύσατε ἀλλ᾽ ὡς ἄγγελον θεοῦ ἐδέξασθέ με ὡς χριστὸν ἰησοῦν",
+      "finnish_biblia": "Ja minun kiusaustani, jota minä lihan puolesta kärsin, ette ole katsoneet ylön ettekä hyljänneet, vaan korjasitte minun niinkuin Jumalan enkelin, niinkuin Kristuksen Jesuksen. ",
+      "swedish_karl_xii": "Och min frestelse, som jagh led på kötsens wägna, hafwen J intet förachtat, icke heller försmådt: vtan anammaden migh såsom en Gudz Ångel; ja, såsom Christum Jesum.",
+      "king_james": "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, *even* as Christ Jesus."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Ubi est ergo beatitudo vestra? testimonium enim perhibeo vobis, quia, si fieri posset, oculos vestros eruissetis, et dedissetis mihi.",
+      "greek_textus_receptus": "τίς οὖν ἧν ὁ μακαρισμὸς ὑμῶν μαρτυρῶ γὰρ ὑμῖν ὅτι εἰ δυνατὸν τοὺς ὀφθαλμοὺς ὑμῶν ἐξορύξαντες ἂν ἐδώκατέ μοι",
+      "finnish_biblia": "Kuinka autuaat te silloin olitte! Minä olen teidän todistajanne, että jos se olis mahdollinen ollut, niin te olisitte teidän silmänne kaivaneet ulos ja minulle antaneet. ",
+      "swedish_karl_xii": "Huru salige woren J tå? Jagh är edart witne, at om thet hade mögeligit warit, haden J edor ögon vthtaget, och gifwit migh.",
+      "king_james": "Where is then the blessedness ye spake of? for I bear you record, that, if *it had been* possible, ye would have plucked out your own eyes, and have given them to me."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Ergo inimicus vobis factus sum, verum dicens vobis?",
+      "greek_textus_receptus": "ὥστε ἐχθρὸς ὑμῶν γέγονα ἀληθεύων ὑμῖν",
+      "finnish_biblia": "Olenko minä siis nyt teidän viholliseksenne tullut, että minä teille totuuden sanon? ",
+      "swedish_karl_xii": "Är jagh tå nu worden edar owän, at jagh säger eder sanningen?",
+      "king_james": "Am I therefore become your enemy, because I tell you the truth?"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Æmulantur vos non bene: sed excludere vos volunt, ut illos æmulemini.",
+      "greek_textus_receptus": "ζηλοῦσιν ὑμᾶς οὐ καλῶς ἀλλὰ ἐκκλεῖσαι ὑμᾶς θέλουσιν ἵνα αὐτοὺς ζηλοῦτε",
+      "finnish_biblia": "Ei he teitä oikein kiivaudesta rakasta, vaan he tahtovat teitä minusta pois kääntää, että te heitä kiivaudessa rakastaisitte. ",
+      "swedish_karl_xii": "The nijtälska eder icke rätteliga, vtan wilja draga eder ifrå migh, at J skolen nijtälska them.",
+      "king_james": "They zealously affect you, *but* not well; yea, they would exclude you, that ye might affect them."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Bonum autem æmulamini in bono semper: et non tantum cum præsens sum apud vos.",
+      "greek_textus_receptus": "καλὸν δὲ τὸ ζηλοῦσθαι ἐν καλῷ πάντοτε καὶ μὴ μόνον ἐν τῷ παρεῖναί με πρὸς ὑμᾶς",
+      "finnish_biblia": "Kyllä kiivaten rakastaa hyvä on, aina hyvyydessä, ja ei ainoastaan silloin, kuin minä teidän tykönänne olen. ",
+      "swedish_karl_xii": "Så är nu wäl godt nijtälska, tå thet skeer om thet godt är altid, och icke allenast tå jagh tilstädes är.",
+      "king_james": "But *it is* good to be zealously affected always in *a* good *thing*, and not only when I am present with you."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Filioli mei, quos iterum parturio, donec formetur Christus in vobis:",
+      "greek_textus_receptus": "τεκνία μου οὓς πάλιν ὠδίνω ἄχρις οὗ μορφωθῇ χριστὸς ἐν ὑμῖν",
+      "finnish_biblia": "Minun rakkaat lapseni, jotka minun täytyy vasta-uudesta kivulla synnyttää, siihenasti kuin Kristus teissä jonkun muodon sais! ",
+      "swedish_karl_xii": "Min kära barn, hwilka jagh på nytt föder medh ångest, til thes Christus kommer til stadga vthi eder.",
+      "king_james": "My little children, of whom I travail in birth again until Christ be formed in you,"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "vellem autem esse apud vos modo, et mutare vocem meam: quoniam confundor in vobis.",
+      "greek_textus_receptus": "ἤθελον δὲ παρεῖναι πρὸς ὑμᾶς ἄρτι καὶ ἀλλάξαι τὴν φωνήν μου ὅτι ἀποροῦμαι ἐν ὑμῖν",
+      "finnish_biblia": "Mutta minä soisin olevani teidän tykönänne, että minä taitaisin äänenikin muuttaa; enpä minä tiedä, mitä minä tästedes teen teidän kanssanne. ",
+      "swedish_karl_xii": "Jagh wille wäl, at jagh nu wore när eder, och förwandla kunde mina röst: ty jagh weet här näst ingen rådh medh eder.",
+      "king_james": "I desire to be present with you now, and to change my voice; for I stand in doubt of you."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Dicite mihi qui sub lege vultis esse: legem non legistis?",
+      "greek_textus_receptus": "λέγετέ μοι οἱ ὑπὸ νόμον θέλοντες εἶναι τὸν νόμον οὐκ ἀκούετε",
+      "finnish_biblia": "Sanokaat minulle te, jotka lain alla olla tahdotte: ettekö te lakia kuule? ",
+      "swedish_karl_xii": "Säger migh, J som wiljen wara vnder lagen: hafwen J icke hördt lagen?",
+      "king_james": "Tell me, ye that desire to be under the law, do ye not hear the law?"
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Scriptum est enim: Quoniam Abraham duos filios habuit: unum de ancilla, et unum de libera.",
+      "greek_textus_receptus": "γέγραπται γὰρ ὅτι ἀβραὰμ δύο υἱοὺς ἔσχεν ἕνα ἐκ τῆς παιδίσκης καὶ ἕνα ἐκ τῆς ἐλευθέρας",
+      "finnish_biblia": "Sillä kirjoitettu on: Abrahamilla oli kaksi poikaa, yksi palkkavaimosta ja yksi vapaasta. ",
+      "swedish_karl_xii": "Ty thet är skrifwit, at Abraham hade twå söner; en af tienstaqwinnone , then andra af then frija.",
+      "king_james": "For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Sed qui de ancilla, secundum carnem natus est: qui autem de libera, per repromissionem:",
+      "greek_textus_receptus": "ἀλλ᾽ ὁ μὲν ἐκ τῆς παιδίσκης κατὰ σάρκα γεγέννηται ὁ δὲ ἐκ τῆς ἐλευθέρας διὰ τῆς ἐπαγγελίας",
+      "finnish_biblia": "Mutta joka palkkavaimosta oli, se oli lihan jälkeen syntynyt, ja joka vapaasta oli, se oli lupauksen kautta. ",
+      "swedish_karl_xii": "Men then som war af tienstaqwinnone, han war född efter kötet: men then af the frijo, han war född genom löftet.",
+      "king_james": "But he *who was* of the bondwoman was born after the flesh; but he of the freewoman *was* by promise."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "quæ sunt per allegoriam dicta. Hæc enim sunt duo testamenta. Unum quidem in monte Sina, in servitutem generans, quæ est Agar:",
+      "greek_textus_receptus": "ἅτινά ἐστιν ἀλληγορούμενα αὗται γάρ εἰσιν αἱ δύο διαθῆκαι μία μὲν ἀπὸ ὄρους σινᾶ εἰς δουλείαν γεννῶσα ἥτις ἐστὶν ἁγάρ",
+      "finnish_biblia": "Nämät jotakin merkitsevät; sillä nämät ovat ne kaksi Testamenttia: yksi Sinain vuoresta, joka orjuuteen synnyttää, joka on Agar. ",
+      "swedish_karl_xii": "Hwilka ord betyda något: ty thessa äro the tw testamenten; ett af thet berg Sina, som föder til träldom, hwilket är Agar:",
+      "king_james": "Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Sina enim mons est in Arabia, qui conjunctus est ei quæ nunc est Jerusalem, et servit cum filiis suis.",
+      "greek_textus_receptus": "τὸ γὰρ ἁγὰρ σινᾶ ὄρος ἐστὶν ἐν τῇ ἀραβίᾳ συστοιχεῖ δὲ τῇ νῦν ἰερουσαλήμ δουλεύει δὲ μετὰ τῶν τέκνων αὐτῆς",
+      "finnish_biblia": "Sillä Agar on Sinain vuori Arabiassa ja ulottuu hamaan Jerusalemiin, joka nyt on, ja on lastensa kanssa orjana. ",
+      "swedish_karl_xii": "Ty Agar heter i Arabien thet berg Sina, och sträcker sigh moot Jerusalem, thet nu är, och är icke frij medh sinom barnom.",
+      "king_james": "For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Illa autem, quæ sursum est Jerusalem, libera est, quæ est mater nostra.",
+      "greek_textus_receptus": "ἡ δὲ ἄνω ἰερουσαλὴμ ἐλευθέρα ἐστίν ἥτις ἐστὶν μήτηρ πάντων ἡμῶν",
+      "finnish_biblia": "Mutta se Jerusalem, joka ylhäältä on, on vapaa, joka on kaikkein meidän äitimme. ",
+      "swedish_karl_xii": "Men thet Jerusalem som ofwan til är, thet är then frija; hon är allas wår moder.",
+      "king_james": "But Jerusalem which is above is free, which is the mother of us all."
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Scriptum est enim: [Lætare sterilis, quæ non paris; erumpe et clama, quæ non parturis: quia multi filii desertæ, magis quam ejus quæ habet virum.]",
+      "greek_textus_receptus": "γέγραπται γάρ εὐφράνθητι στεῖρα ἡ οὐ τίκτουσα ῥῆξον καὶ βόησον ἡ οὐκ ὠδίνουσα ὅτι πολλὰ τὰ τέκνα τῆς ἐρήμου μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα",
+      "finnish_biblia": "Sillä kirjoitettu on: iloitse, sinä hedelmätöin, joka et synnytä, pakahda ja huuda sinä, joka et raskas ole; sillä yksinäisellä on enempi lapsia kuin sillä, jolla mies on. ",
+      "swedish_karl_xii": "Ty thet är skrifwit: War gladh, tu ofruchtsama, tu som intet föder; brist vth och ropa, tu som icke är hafwandes : ty then ensamma hafwer flera barn, än then som man hafwer.",
+      "king_james": "For it is written, Rejoice, *thou* barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Nos autem, fratres, secundum Isaac promissionis filii sumus.",
+      "greek_textus_receptus": "ἡμεῖς δέ ἀδελφοί κατὰ ἰσαὰκ ἐπαγγελίας τέκνα ἐσμέν",
+      "finnish_biblia": "Mutta me, rakkaat veljet, olemme niinkuin Isaakikin, lupauksen lapset. ",
+      "swedish_karl_xii": "Men wij, käre bröder, äre löftsens barn efter Jsaac.",
+      "king_james": "Now we, brethren, as Isaac was, are the children of promise."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Sed quomodo tunc is, qui secundum carnem natus fuerat, persequebatur eum qui secundum spiritum: ita et nunc.",
+      "greek_textus_receptus": "ἀλλ᾽ ὥσπερ τότε ὁ κατὰ σάρκα γεννηθεὶς ἐδίωκεν τὸν κατὰ πνεῦμα οὕτως καὶ νῦν",
+      "finnish_biblia": "Mutta niinkuin se silloin, joka lihan jälkeen syntynyt oli, vainosi sitä, joka hengen jälkeen syntynyt oli, niin se nytkin tapahtuu. ",
+      "swedish_karl_xii": "Men såsom then som tå född war efter kötet, förfölgde honom som född war efter Andan: så går thet ock nu.",
+      "king_james": "But as then he that was born after the flesh persecuted him *that was born* after the Spirit, even so *it is* now."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Sed quid dicit Scriptura? Ejice ancillam, et filium ejus: non enim hæres erit filius ancillæ cum filio liberæ.",
+      "greek_textus_receptus": "ἀλλὰ τί λέγει ἡ γραφή ἕκβαλε τὴν παιδίσκην καὶ τὸν υἱὸν αὐτῆς οὐ γὰρ μὴ κληρονομήσῃ ὁ υἱὸς τῆς παιδίσκης μετὰ τοῦ υἱοῦ τῆς ἐλευθέρας",
+      "finnish_biblia": "Mutta mitä Raamattu sanoo? aja palkkavaimo poikinensa ulos; sillä ei palkkavaimon pojan pidä perimän vapaan pojan kanssa. ",
+      "swedish_karl_xii": "Men hwad säger Skriften? Drif vth tienstaqwinnona medh hennes son: ty tienstaqwinnones son skal icke blifwa arfwinge medh thens frijos son.",
+      "king_james": "Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Itaque, fratres, non sumus ancillæ filii, sed liberæ: qua libertate Christus nos liberavit.",
+      "greek_textus_receptus": "ἄρα, ἀδελφοί οὐκ ἐσμὲν παιδίσκης τέκνα ἀλλὰ τῆς ἐλευθέρας",
+      "finnish_biblia": "Niin me siis olemme, rakkaat veljet, emme palkkavaimon poikia, vaan vapaan.   ",
+      "swedish_karl_xii": "Så äre wij nu, käre bröder, icke tienstaqwinnones söner, vtan thens frijos.",
+      "king_james": "So then, brethren, we are not children of the bondwoman, but of the free."
+    }
+  ]
+}

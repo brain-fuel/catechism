@@ -1,0 +1,14 @@
+changes:
+  - source_id: scripture-layer-global
+    before: Holy Spirit
+    after: Holy Ghost
+    category: terminology concordance
+    reason: Required edition-wide title for the Third Person.
+    evidence: Historic English Svebilius usage and editorial policy.
+  - source_id: scripture-ot-global
+    before: LORD/GOD/JEHOVAH at H3068/H3069 loci
+    after: Yahweh
+    category: Divine Name concordance
+    reason: Restore the Hebrew proper name in the reading layer.
+    evidence: Westminster Hebrew morphology at pinned source commit.
+

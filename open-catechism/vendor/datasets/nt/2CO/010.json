@@ -1,0 +1,155 @@
+{
+  "book_id": "2CO",
+  "latin_name": "Epistula II ad Corinthios",
+  "greek_name": "Πρὸς Κορινθίους Β",
+  "finnish_name": "Toinen kirje korinttilaisille",
+  "swedish_name": "S. Pauli Epistel then andra Til the Corinther",
+  "english_name": "The Second Epistle of Paul the Apostle to the Corinthians",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Ipse autem ego Paulus obsecro vos per mansuetudinem et modestiam Christi, qui in facie quidem humilis sum inter vos, absens autem confido in vos.",
+      "greek_textus_receptus": "αὐτὸς δὲ ἐγὼ παῦλος παρακαλῶ ὑμᾶς διὰ τῆς πρᾳότητος καὶ ἐπιεικείας τοῦ χριστοῦ ὃς κατὰ πρόσωπον μὲν ταπεινὸς ἐν ὑμῖν ἀπὼν δὲ θαῤῥῶ εἰς ὑμᾶς",
+      "finnish_biblia": "Mutta minä Paavali neuvon teitä Kristuksen siveyden ja vakuuden tähden, minä, joka teidän tykönänne ollessani kehno olen, vaan poissa ollessani olen rohkia teitä vastaan. ",
+      "swedish_karl_xii": "Men jagh Paulus förmanar eder, genom Christi sachtmodighet och mildhet; jagh som ringa är, när jagh är när eder; men frånwarandes är jagh dristig widh eder.",
+      "king_james": "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence *am* base among you, but being absent am bold toward you:"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Rogo autem vos ne præsens audeam per eam confidentiam, qua existimor audere in quosdam, qui arbitrantur nos tamquam secundum carnem ambulemus.",
+      "greek_textus_receptus": "δέομαι δὲ τὸ μὴ παρὼν θαῤῥῆσαι τῇ πεποιθήσει ᾗ λογίζομαι τολμῆσαι ἐπί τινας τοὺς λογιζομένους ἡμᾶς ὡς κατὰ σάρκα περιπατοῦντας",
+      "finnish_biblia": "Mutta minä rukoilen teitä, ettei minua vaadittaisi rohkiaksi tykönä ollessani, niinkuin minulla luullaan rohkeus muutamia vastaan olevan, jotka meidän luulevat lihan jälkeen vaeltavan. ",
+      "swedish_karl_xii": "Men jagh beder eder, at jagh icke skal nödgas närwarandes handla dristeliga, och bruka then dierfhet, som man migh tillägger, emot några som oß räkna såsom wij wandrade efter kötet.",
+      "king_james": "But I beseech *you*, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "In carne enim ambulantes, non secundum carnem militamus.",
+      "greek_textus_receptus": "ἐν σαρκὶ γὰρ περιπατοῦντες οὐ κατὰ σάρκα στρατευόμεθα",
+      "finnish_biblia": "Sillä ehkä me lihassa vaellamme, emmepä me sentähden lihan jälkeen sodi. ",
+      "swedish_karl_xii": "Ty ändoch wij wandre i kötet, likwäl stride wij icke efter kötet.",
+      "king_james": "For though we walk in the flesh, we do not war after the flesh:"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Nam arma militiæ nostræ non carnalia sunt, sed potentia Deo ad destructionem munitionum, consilia destruentes,",
+      "greek_textus_receptus": "τὰ γὰρ ὅπλα τῆς στρατείας ἡμῶν οὐ σαρκικὰ ἀλλὰ δυνατὰ τῷ θεῷ πρὸς καθαίρεσιν ὀχυρωμάτων",
+      "finnish_biblia": "Sillä meidän sota-aseemme ei ole lihalliset, vaan väkevät Jumalan edessä kukistamaan varjeluksia. ",
+      "swedish_karl_xii": "Ty wår krigswapn äro icke kötzlig, vtan mächtig för Gudh, at nederslå fäste:",
+      "king_james": "(For the weapons of our warfare *are* not carnal, but mighty through God to the pulling down of strong holds;)"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "et omnem altitudinem extollentem se adversus scientiam Dei, et in captivitatem redigentes omnem intellectum in obsequium Christi,",
+      "greek_textus_receptus": "λογισμούς καθαιροῦντες καὶ πᾶν ὕψωμα ἐπαιρόμενον κατὰ τῆς γνώσεως τοῦ θεοῦ καὶ αἰχμαλωτίζοντες πᾶν νόημα εἰς τὴν ὑπακοὴν τοῦ χριστοῦ",
+      "finnish_biblia": "Ja me maahan lyömme aivoitukset ja kaiken korkeuden, joka hänensä korottaa Jumalan tuntemista vastaan, ja vangiksi otamme kaiken ajatuksen Kristuksen kuuliaisuuden alle, ",
+      "swedish_karl_xii": "Medh hwilko wij kulslå the anslag, och all höghet som sigh vphäfwer emot Gudz kundskap; och til fånga taga alt förnuft vnder Christi lydno:",
+      "king_james": "Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "et in promptu habentes ulcisci omnem inobedientiam, cum impleta fuerit vestra obedientia.",
+      "greek_textus_receptus": "καὶ ἐν ἑτοίμῳ ἔχοντες ἐκδικῆσαι πᾶσαν παρακοήν ὅταν πληρωθῇ ὑμῶν ἡ ὑπακοή",
+      "finnish_biblia": "Ja olemme valmiit kostamaan kaikkea kovakorvaisuutta, kuin teidän kuuliaisuutenne täytetään. ",
+      "swedish_karl_xii": "Och äro redobogne at hämnas alla olydno, när edor lydna fulbordad är.",
+      "king_james": "And having in a readiness to revenge all disobedience, when your obedience is fulfilled."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Quæ secundum faciem sunt, videte. Si quis confidit sibi Christi se esse, hoc cogitet iterum apud se: quia sicut ipse Christi est, ita et nos.",
+      "greek_textus_receptus": "τὰ κατὰ πρόσωπον βλέπετε εἴ τις πέποιθεν ἑαυτῷ χριστοῦ εἶναι τοῦτο λογιζέσθω πάλιν ἀφ᾽ ἑαυτοῦ ὅτι καθὼς αὐτὸς χριστοῦ οὕτως καὶ ἡμεῖς χριστοῦ",
+      "finnish_biblia": "Katsotteko te niiden jälkeen, mitkä silmäin edessä ovat? Jos joku uskaltaa sen päälle, että hän on Kristuksen oma, se ajatelkaan itsellänsä, että niinkuin hän on Kristuksen oma, niin olemme mekin Kristuksen omat. ",
+      "swedish_karl_xii": "Dömen J efter ansichtet? Om någor förlåter sigh ther på, at han hörer Christo til, han täncke thet ock medh sigh sielf, at såsom han hörer Christo til, så höre ock wij Christo til.",
+      "king_james": "Do ye look on things after the outward appearance? If any man trust to himself that he is Christ's, let him of himself think this again, that, as he *is* Christ's, even so *are* we Christ's."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Nam etsi amplius aliquid gloriatus fuero de potestate nostra, quam dedit nobis Dominus in ædificationem, et non in destructionem vestram, non erubescam.",
+      "greek_textus_receptus": "ἐάν τε γὰρ καὶ περισσότερόν τι καυχήσωμαι περὶ τῆς ἐξουσίας ἡμῶν ἡς ἔδωκεν ὁ κύριος ἡμῖν εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν ὑμῶν οὐκ αἰσχυνθήσομαι",
+      "finnish_biblia": "Sillä jos minä vielä enemmän kerskaisin meidän vallastamme, jonka Herra meille antanut on teidän parannukseksenne, ja ei kadotukseksenne, enpä minä häpeäisi, ",
+      "swedish_karl_xii": "Och om jagh ock något meer berömde migh om wåra macht, hwilka Herren oß gifwit hafwer, eder til förbättring, och icke til förderf, wille jagh äntå icke blyjas.",
+      "king_james": "For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Ut autem non existimer tamquam terrere vos per epistolas:",
+      "greek_textus_receptus": "ἵνα μὴ δόξω ὡς ἂν ἐκφοβεῖν ὑμᾶς διὰ τῶν ἐπιστολῶν",
+      "finnish_biblia": "Etten minä näkyisi teitä lähetyskirjoilla peljättäväni. ",
+      "swedish_karl_xii": "Men thetta säger jagh, på thet J icke skolen tänckia, at jagh hade welat förskräckia eder medh bref.",
+      "king_james": "That I may not seem as if I would terrify you by letters."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "quoniam quidem epistolæ, inquiunt, graves sunt et fortes: præsentia autem corporis infirma, et sermo contemptibilis:",
+      "greek_textus_receptus": "ὅτι αἱ μέν ἐπιστολαὶ φησίν βαρεῖαι καὶ ἰσχυραί ἡ δὲ παρουσία τοῦ σώματος ἀσθενὴς καὶ ὁ λόγος ἐξουθενημένος",
+      "finnish_biblia": "Sillä lähetyskirjat (sanovat he) ovat raskaat ja väkevät, mutta ruumiillinen läsnäolemus on heikko ja puhe on ylönkatsottu. ",
+      "swedish_karl_xii": "Ty brefwen, säija the, äro swår och starck; men lekamliga närwarelsen är swag, och orden förachtelig.",
+      "king_james": "For *his* letters, say they, *are* weighty and powerful; but *his* bodily presence *is* weak, and *his* speech contemptible."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "hoc cogitet qui ejusmodi est, quia quales sumus verbo per epistolas absentes, tales et præsentes in facto.",
+      "greek_textus_receptus": "τοῦτο λογιζέσθω ὁ τοιοῦτος ὅτι οἷοί ἐσμεν τῷ λόγῳ δι᾽ ἐπιστολῶν ἀπόντες τοιοῦτοι καὶ παρόντες τῷ ἔργῳ",
+      "finnish_biblia": "Senkaltainen ajatelkaan, että niinkuin me olemme lähetysvirkain kautta sanoissa poissa-ollessamme, niin me myös olemme itse työllä läsnä-ollessamme. ",
+      "swedish_karl_xii": "Then sådana är, han täncke, at sådana som wij äre medh orden i brefwen frånwarande, så äre wij ock wäl medh gierningen närwarande.",
+      "king_james": "Let such an one think this, that, such as we are in word by letters when we are absent, such *will we be* also in deed when we are present."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Non enim audemus inserere, aut comparare nos quibusdam, qui seipsos commendant: sed ipsi in nobis nosmetipsos metientes, et comparantes nosmetipsos nobis.",
+      "greek_textus_receptus": "οὐ γὰρ τολμῶμεν ἐγκρῖναι ἢ συγκρῖναι ἑαυτούς τισιν τῶν ἑαυτοὺς συνιστανόντων ἀλλὰ αὐτοὶ ἐν ἑαυτοῖς ἑαυτοὺς μετροῦντες καὶ συγκρίνοντες ἑαυτοὺς ἑαυτοῖς οὐ συνιοῦσιν",
+      "finnish_biblia": "Sillä emmepä me rohkene meitämme lukea eli verrata niihin, jotka itsiänsä ylistävät; mutta että he itse heillänsä heitänsä mittaavat ja pitävät ainoastaan itse heistänsä, niin ei he mitään ymmärrä. ",
+      "swedish_karl_xii": "Ty wij töre icke sättia eller räkna oß ibland them, som sigh sielfwa prisa: men efter the mäta sigh widh sigh sielfwa, och hålla allena af sigh sielfwa, förstå the intet.",
+      "king_james": "For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Nos autem non in immensum gloriabimur, sed secundum mensuram regulæ, qua mensus est nobis Deus, mensuram pertingendi usque ad vos.",
+      "greek_textus_receptus": "ἡμεῖς δὲ οὐχι εἰς τὰ ἄμετρα καυχησόμεθα ἀλλὰ κατὰ τὸ μέτρον τοῦ κανόνος οὗ ἐμέρισεν ἡμῖν ὁ θεὸς μέτρου ἐφικέσθαι ἄχρι καὶ ὑμῶν",
+      "finnish_biblia": "Mutta emme meitämme kerskaa ylitse määrän, vaan ainoastaan kohtuullisen määrätyn mitan jälkeen, jonka Jumala meille mitannut on, joka myös teihinkin ulottuu. ",
+      "swedish_karl_xii": "Men wij beröme oß icke öfwer måtton: vtan allena efter reglones mått, medh hwilko Gudh hafwer oß afmätet ett mått til at hinna ock alt in til eder.",
+      "king_james": "But we will not boast of things without *our* measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Non enim quasi non pertingentes ad vos, superextendimus nos: usque ad vos enim pervenimus in Evangelio Christi.",
+      "greek_textus_receptus": "οὐ γὰρ ὡς μὴ ἐφικνούμενοι εἰς ὑμᾶς ὑπερεκτείνομεν ἑαυτούς ἄχρι γὰρ καὶ ὑμῶν ἐφθάσαμεν ἐν τῷ εὐαγγελίῳ τοῦ χριστοῦ",
+      "finnish_biblia": "Sillä emmepä me itsiämme leviämmältä anna ulos kuin sopii, niinkuin emme oliskaan teihin ulottuneet; sillä me olemme jo hamaan teidän tykönne Kristuksen evankeliumilla tulleet. ",
+      "swedish_karl_xii": "Ty wij försträckiom oß icke öfwer måtton, lika som wij icke hint hade in til eder: ty wij äre ju ock komne alt in til eder, medh Christi Evangelio:",
+      "king_james": "For we stretch not ourselves beyond *our measure*, as though we reached not unto you: for we are come as far as to you also in *preaching* the gospel of Christ:"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Non in immensum gloriantes in alienis laboribus: spem autem habentes crescentis fidei vestræ, in vobis magnificari secundum regulam nostram in abundantiam,",
+      "greek_textus_receptus": "οὐκ εἰς τὰ ἄμετρα καυχώμενοι ἐν ἀλλοτρίοις κόποις ἐλπίδα δὲ ἔχοντες αὐξανομένης τῆς πίστεως ὑμῶν ἐν ὑμῖν μεγαλυνθῆναι κατὰ τὸν κανόνα ἡμῶν εἰς περισσείαν",
+      "finnish_biblia": "Ja emme kerskaa meitämme ylitse määrän vieraissa töissä; vaan me toivomme, kuin teidän uskonne kasvaa teissä, että mekin meidän määrämme jälkeen tahdomme levitä yltäkylläisesti, ",
+      "swedish_karl_xii": "Jcke berömandes oß öfwermåtton af annars mans arbete: förhoppandes at skee skal, tå edor troo begynnar wäxa vthi eder, at wij efter wåra reglo wilje widare komma:",
+      "king_james": "Not boasting of things without *our* measure, *that is*, of other men's labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "etiam in illa, quæ ultra vos sunt, evangelizare, non in aliena regula in iis quæ præparata sunt gloriari.",
+      "greek_textus_receptus": "εἰς τὰ ὑπερέκεινα ὑμῶν εὐαγγελίσασθαι οὐκ ἐν ἀλλοτρίῳ κανόνι εἰς τὰ ἕτοιμα καυχήσασθαι",
+      "finnish_biblia": "Evankeliumia saarnaamaan niille, jotka tuolla puolen teitä asuvat: emmekä meitämme kerskaa niistä, jotka vieraan mitan jälkeen valmistetut ovat. ",
+      "swedish_karl_xii": "Och predika ock them Evangelium, som boo vthom eder, och icke beröma oß af thet genom främmande reglo tilredt är.",
+      "king_james": "To preach the gospel in the *regions* beyond you, *and* not to boast in another man's line of things made ready to our hand."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Qui autem gloriatur, in Domino glorietur.",
+      "greek_textus_receptus": "ὁ δὲ καυχώμενος ἐν κυρίῳ καυχάσθω",
+      "finnish_biblia": "Mutta joka kerskaa, se kerskatkaan Herrassa; ",
+      "swedish_karl_xii": "Men then sigh berömer, han beröme sigh i Herranom.",
+      "king_james": "But he that glorieth, let him glory in the Lord."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Non enim qui seipsum commendat, ille probatus est: sed quem Deus commendat.",
+      "greek_textus_receptus": "οὐ γὰρ ὁ ἑαυτὸν συνίστων ἐκεῖνός ἐστιν δόκιμος ἀλλ᾽ ὃν ὁ κύριος συνίστησιν",
+      "finnish_biblia": "Sillä joka itsiänsä kiittää, ei se ole koeteltu, vaan se, jota Herra kiittää.   ",
+      "swedish_karl_xii": "Ty then som lofwar sigh sielf, han är icke bepröfwad; vtan then Herren lofwar.",
+      "king_james": "For not he that commendeth himself is approved, but whom the Lord commendeth."
+    }
+  ]
+}

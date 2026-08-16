@@ -1,0 +1,147 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Post hæc vidi quatuor angelos stantes super quatuor angulos terræ, tenentes quatuor ventos terræ, ne flarent super terram, neque super mare, neque in ullam arborem.",
+      "greek_textus_receptus": "καὶ μετὰ ταῦτα εἶδον τέσσαρας ἀγγέλους ἑστῶτας ἐπὶ τὰς τέσσαρας γωνίας τῆς γῆς κρατοῦντας τοὺς τέσσαρας ἀνέμους τῆς γῆς ἵνα μὴ πνέῃ ἄνεμος ἐπὶ τῆς γῆς μήτε ἐπὶ τῆς θαλάσσης μήτε ἐπὶ πᾶν δένδρον",
+      "finnish_biblia": "Ja sitte näin minä neljä enkeliä seisovan neljän maan kulman päällä, ja neljää maan tuulta pitävän, ettei tuuli oisi puhaltanut maan päälle, eikä meren päälle, eikä yhdenkään puun päälle. ",
+      "swedish_karl_xii": "Sedan såg jagh fyra Änglar stå på fyra jordenes hörn, hållande fyra jordenes wäder, at intet wäder skulle blåsa på jordena, eller på hafwet, eller på något trä.",
+      "king_james": "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et vidi alterum angelum ascendentem ab ortu solis, habentem signum Dei vivi: et clamavit voce magna quatuor angelis, quibus datum est nocere terræ et mari,",
+      "greek_textus_receptus": "καὶ εἶδον ἄλλον ἄγγελον ἀναβάντα ἀπὸ ἀνατολῆς ἡλίου ἔχοντα σφραγῖδα θεοῦ ζῶντος καὶ ἔκραξεν φωνῇ μεγάλῃ τοῖς τέσσαρσιν ἀγγέλοις οἷς ἐδόθη αὐτοῖς ἀδικῆσαι τὴν γῆν καὶ τὴν θάλασσαν",
+      "finnish_biblia": "Ja minä näin toisen enkelin auringon koitosta tulevan ylös jolla oli elävän Jumalan sinetti, ja hän huusi suurella äänellä niille neljälle enkelille, joiden maata ja merta oli annettu vahingoittaa. ",
+      "swedish_karl_xii": "Och jagh såg en annan Ängel vpstiga ifrå solenes vpgång, han hade lefwandes Gudz insigel, och ropade medh höga röst til the fyra Änglar, hwilkom gifwit war skada giöra jordene och hafwena;",
+      "king_james": "And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "dicens: Nolite nocere terræ, et mari, neque arboribus, quoadusque signemus servos Dei nostri in frontibus eorum.",
+      "greek_textus_receptus": "λέγων μὴ ἀδικήσητε τὴν γῆν μήτε τὴν θάλασσαν μήτε τὰ δένδρα ἄχρις οὗ σφραγίζωμεν τοὺς δούλους τοῦ θεοῦ ἡμῶν ἐπὶ τῶν μετώπων αὐτῶν",
+      "finnish_biblia": "Ja sanoi: älkäät maata eikä merta eikä puita vahingoittako siihenasti kuin me merkitsemme meidän Jumalamme palveliat heidän otsissansa. ",
+      "swedish_karl_xii": "Och sade: Giörer icke jordene skada, eller hafwena, eller trään, så länge wij medh insigel teknom wår Gudz tienare på theras anlete.",
+      "king_james": "Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Et audivi numerum signatorum, centum quadraginta quatuor millia signati, ex omni tribu filiorum Israël.",
+      "greek_textus_receptus": "καὶ ἤκουσα τὸν ἀριθμὸν τῶν ἐσφραγισμένων ρμδ´ χιλιάδες ἐσφραγισμένοι ἐκ πάσης φυλῆς υἱῶν ἰσραήλ",
+      "finnish_biblia": "Ja minä kuulin, että merkittyin luku oli sata ja neljäviidettäkymmentä tuhatta, jotka kaikkein Israelin lasten sukukunnista merkityt olivat: ",
+      "swedish_karl_xii": "Och jagh hörde talet på them som teknade woro, hundrade fyra och fyratijo tusend, som teknade woro * af all Jsraels barnas slächter.",
+      "king_james": "And I heard the number of them which were sealed: *and there were* sealed an hundred *and* forty *and* four thousand of all the tribes of the children of Israel."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Ex tribu Juda duodecim millia signati: ex tribu Ruben duodecim millia signati: ex tribu Gad duodecim millia signati:",
+      "greek_textus_receptus": "ἐκ φυλῆς ἰούδα ιβ´ χιλιάδες ἐσφραγισμένοι ἐκ φυλῆς Ῥουβὴν ιβ´ χιλιάδες ἐσφραγισμένοι ἐκ φυλῆς γὰδ ιβ´ χιλιάδες ἐσφραγισμένοι",
+      "finnish_biblia": "Juudan sukukunnasta kaksitoistakymmentä tuhatta merkityt Rubenin sukukunnasta kaksitoistakymmentätuhatta merkityt, Gadin sukukunnasta kaksitoistakymmentätuhatta merkityt: ",
+      "swedish_karl_xii": "Af Juda slächte, tolf tusend teknade: af Rubens slächte, tolf tusend teknade: af Gads slächte, tolf tusend teknade.",
+      "king_james": "Of the tribe of Juda *were* sealed twelve thousand. Of the tribe of Reuben *were* sealed twelve thousand. Of the tribe of Gad *were* sealed twelve thousand."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "ex tribu Aser duodecim millia signati: ex tribu Nephthali duodecim millia signati: ex tribu Manasse duodecim millia signati:",
+      "greek_textus_receptus": "ἐκ φυλῆς ἀσὴρ ιβ´ χιλιάδες ἐσφραγισμένοι ἐκ φυλῆς νεφθαλείμ ιβ´ χιλιάδες ἐσφραγισμένοι ἐκ φυλῆς μανασσῆ ιβ´ χιλιάδες ἐσφραγισμένοι",
+      "finnish_biblia": "Asserin sukukunnasta kaksitoistakymmentä tuhatta merkityt, Naphtalin sukukunnasta kaksitoistakymmentä tuhatta merkityt, Manassen sukukunnasta kaksitoistakymmentä tuhatta merkityt: ",
+      "swedish_karl_xii": "Af Asers slächte, tolf tusend teknade: af Nephthali slächte, tolf tusend teknade: af Manasse slächte, tolf tusend teknade.",
+      "king_james": "Of the tribe of Aser *were* sealed twelve thousand. Of the tribe of Nepthalim *were* sealed twelve thousand. Of the tribe of Manasses *were* sealed twelve thousand."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "ex tribu Simeon duodecim millia signati: ex tribu Levi duodecim millia signati: ex tribu Issachar duodecim millia signati:",
+      "greek_textus_receptus": "ἐκ φυλῆς συμεὼν ιβ´ χιλιάδες ἐσφραγισμένοι ἐκ φυλῆς λευὶ ιβ´ χιλιάδες ἐσφραγισμένοι ἐκ φυλῆς ἰσαχάρ ιβ´ χιλιάδες ἐσφραγισμένοι",
+      "finnish_biblia": "Simeonin sukukunnasta kaksitoistakymmentä tuhatta merkityt, Levin sukukunnasta kaksitoistakymmentä tuhatta merkityt, Isaskarin sukukunnasta kaksitoistakymmentä tuhatta merkityt: ",
+      "swedish_karl_xii": "Af Simeons slächte, tolf tusend teknade: af Levi slächte, tolf tusend teknade: af Jsaschars slächte, tolf tusend teknade.",
+      "king_james": "Of the tribe of Simeon *were* sealed twelve thousand. Of the tribe of Levi *were* sealed twelve thousand. Of the tribe of Issachar *were* sealed twelve thousand."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "ex tribu Zabulon duodecim millia signati: ex tribu Joseph duodecim millia signati: ex tribu Benjamin duodecim millia signati.",
+      "greek_textus_receptus": "ἐκ φυλῆς Ζαβουλὼν ιβ´ χιλιάδες ἐσφραγισμένοι ἐκ φυλῆς ἰωσὴφ ιβ´ χιλιάδες ἐσφραγισμένοι ἐκ φυλῆς βενιαμὶν ιβ´ χιλιάδες ἐσφραγισμένοι",
+      "finnish_biblia": "Zebulonin sukukunnasta kaksitoistakymmentä tuhatta merkityt, Josephin sukukunnasta kaksitoistakymmentä tuhatta merkityt, Benjaminen sukukunnasta kaksitoistakymmentä tuhatta merkityt. ",
+      "swedish_karl_xii": "Af Zabulons slächte, tolf tusend teknade: af Josephs slächte, tolf tusend teknade: af Ben Jamins slächte, tolf tusend teknade.",
+      "king_james": "Of the tribe of Zabulon *were* sealed twelve thousand. Of the tribe of Joseph *were* sealed twelve thousand. Of the tribe of Benjamin *were* sealed twelve thousand."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Post hæc vidi turbam magnam, quam dinumerare nemo poterat, ex omnibus gentibus, et tribubus, et populis, et linguis: stantes ante thronum, et in conspectu Agni, amicti stolis albis, et palmæ in manibus eorum:",
+      "greek_textus_receptus": "μετὰ ταῦτα εἶδον καὶ ἰδού ὄχλος πολύς ὃν ἀριθμῆσαι αὐτὸν οὐδεὶς ἠδύνατο ἐκ παντὸς ἔθνους καὶ φυλῶν καὶ λαῶν καὶ γλωσσῶν ἑστῶτες ἐνώπιον τοῦ θρόνου καὶ ἐνώπιον τοῦ ἀρνίου περιβεβλημένοι στολὰς λευκάς καὶ φοίνικες ἐν ταῖς χερσὶν αὐτῶν",
+      "finnish_biblia": "Sen jälkeen näin minä, ja katso, suuri joukko, jota ei yksikään lukea taitanut, kaikista pakanoista, ja sukukunnista, ja kansoista ja kielistä, seisovan istuimen edessä ja Karitsan edessä, valkeilla vaatteilla puetetut, ja palmut heidän käsissänsä. ",
+      "swedish_karl_xii": "Sedan såg jagh, och sij, en stoor skare then ingen räkna kunde, af allom Hedningom, och slächtom, och folckom, och tungomålom, ståndande för stolen, och för Lambena, klädd i sijd hwijt kläder, och palmar i theras händer:",
+      "king_james": "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "et clamabant voce magna, dicentes: Salus Deo nostro, qui sedet super thronum, et Agno.",
+      "greek_textus_receptus": "καὶ κράζοντες φωνῇ μεγάλῃ λέγοντες ἡ σωτηρία τῷ καθημένῳ ἐπὶ τοῦ θρόνου τοῦ θεοῦ ἡμῶν καὶ τῷ ἀρνίῳ",
+      "finnish_biblia": "Ja he huusivat suurella äänellä, sanoen: autuus olkoon meidän Jumalallemme, joka istuimella istuu, ja Karitsalle! ",
+      "swedish_karl_xii": "Och the ropade medh höga röst, och sade: Salighet honom som sitter på stolen, wårom Gudi och Lambena.",
+      "king_james": "And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et omnes angeli stabant in circuitu throni, et seniorum, et quatuor animalium: et ceciderunt in conspectu throni in facies suas, et adoraverunt Deum,",
+      "greek_textus_receptus": "καὶ πάντες οἱ ἄγγελοι ἑστήκεσαν κύκλῳ τοῦ θρόνου καὶ τῶν πρεσβυτέρων καὶ τῶν τεσσάρων ζῴων καὶ ἔπεσον ἐνώπιον τοῦ θρόνου ἐπὶ πρόσωπον αὐτῶν καὶ προσεκύνησαν τῷ θεῷ",
+      "finnish_biblia": "Ja kaikki enkelit seisoivat ympäri istuinta, ja vanhimpia, ja neljää eläintä, ja lankesivat kasvoillensa istuimen eteen, kumarsivat ja rukoilivat Jumalaa, ",
+      "swedish_karl_xii": "Och alle Änglar stodo kring om stolen, och om the Äldsta, och om the fyra diuren; och föllo på sin ansichte fram för stolen, och tilbådo Gudh;",
+      "king_james": "And all the angels stood round about the throne, and *about* the elders and the four beasts, and fell before the throne on their faces, and worshipped God,"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "dicentes: Amen. Benedictio, et claritas, et sapientia, et gratiarum actio, honor, et virtus, et fortitudo Deo nostro in sæcula sæculorum. Amen.",
+      "greek_textus_receptus": "λέγοντες ἀμήν ἡ εὐλογία καὶ ἡ δόξα καὶ ἡ σοφία καὶ ἡ εὐχαριστία καὶ ἡ τιμὴ καὶ ἡ δύναμις καὶ ἡ ἰσχὺς τῷ θεῷ ἡμῶν εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν",
+      "finnish_biblia": "Sanoen: amen! Siunaus, ja ylistys, ja viisaus, ja kiitos, ja kunnia, ja voima, ja väkevyys olkoon meidän Jumalallemme ijankaikkisesta ijankaikkiseen. Amen! ",
+      "swedish_karl_xii": "Och sade: Amen, lof, och ähra, och wijshet, och tack, och prijs, och kraft, och starckhet, ware wårom Gudh ifrån ewighet til ewighet: Amen.",
+      "king_james": "Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, *be* unto our God for ever and ever. Amen."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Et respondit unus de senioribus et dixit mihi: Hi, qui amicti sunt stolis albis, qui sunt? et unde venerunt?",
+      "greek_textus_receptus": "καὶ ἀπεκρίθη εἷς ἐκ τῶν πρεσβυτέρων λέγων μοι οὗτοι οἱ περιβεβλημένοι τὰς στολὰς τὰς λευκὰς τίνες εἰσὶν καὶ πόθεν ἦλθον",
+      "finnish_biblia": "Ja yksi vanhimmista vastasi ja sanoi minulle: kutka nämät valkeilla vaatteilla puetetut ovat, ja kusta he tulleet ovat? ",
+      "swedish_karl_xii": "Och en af the Äldsta swarade, och sade til migh: Ho äro thesse som vthi the sida hwita kläder klädde äro? Och hwadan äro the komne?",
+      "king_james": "And one of the elders answered, saying unto me, What are these which are arrayed in white robes? and whence came they?"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Et dixi illi: Domine mi, tu scis. Et dixit mihi: Hi sunt, qui venerunt de tribulatione magna, et laverunt stolas suas, et dealbaverunt eas in sanguine Agni.",
+      "greek_textus_receptus": "καὶ εἴρηκα αὐτῷ κύριέ σὺ οἶδας καὶ εἶπέν μοι οὗτοί εἰσιν οἱ ἐρχόμενοι ἐκ τῆς θλίψεως τῆς μεγάλης καὶ ἔπλυναν τὰς στολὰς αὐτῶν καὶ ἐλεύκαναν στολὰς αὐτῶν ἐν τῷ αἵματι τοῦ ἀρνίου",
+      "finnish_biblia": "Ja minä sanoin hänelle: herra, sinäpä sen tiedät. Ja hän sanoi minulle: nämät ovat ne, jotka suuresta vaivasta tulivat, ja he ovat vaatteensa pesseet ja ovat vaatteensa Karitsan veressä valaisseet. ",
+      "swedish_karl_xii": "Och jagh sade til honom: Herre, tu wetst thet. Och han sade til migh: Thesse äro the som komne äro vthu stoor bedröfwelse, och hafwa twagit sin kläder, och giordt them hwijt i Lambsens blodh.",
+      "king_james": "And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Ideo sunt ante thronum Dei, et serviunt ei die ac nocte in templo ejus: et qui sedet in throno, habitabit super illos:",
+      "greek_textus_receptus": "διὰ τοῦτό εἰσιν ἐνώπιον τοῦ θρόνου τοῦ θεοῦ καὶ λατρεύουσιν αὐτῷ ἡμέρας καὶ νυκτὸς ἐν τῷ ναῷ αὐτοῦ καὶ ὁ καθήμενος ἐπὶ τοῦ θρόνου σκηνώσει ἐπ᾽ αὐτούς",
+      "finnish_biblia": "Sentähden ovat he Jumalan istuimen edessä ja palvelevat häntä päivällä ja yöllä hänen templissänsä. Ja se, joka istuimella istuu, asuu heidän päällänsä. ",
+      "swedish_karl_xii": "Therföre äro the för Gudz stool, och tiena honom dagh och natt vthi hans tempel: och then på stolen sitter, skal boo öfwer them.",
+      "king_james": "Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "non esurient, neque sitient amplius, nec cadet super illos sol, neque ullus æstus:",
+      "greek_textus_receptus": "οὐ πεινάσουσιν ἔτι οὐδὲ διψήσουσιν ἔτι οὐδὲ μὴ πέσῃ ἐπ᾽ αὐτοὺς ὁ ἥλιος οὐδὲ πᾶν καῦμα",
+      "finnish_biblia": "Ei heidän pidä enään isooman, eikä enään janooman, eikä aurinko lankee heidän päällensä, ei myös yksikään palavuus. ",
+      "swedish_karl_xii": "The skola intet meer hungra, eller törsta: icke heller skal solen falla på them, icke heller någon hete:",
+      "king_james": "They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "quoniam Agnus, qui in medio throni est, reget illos et deducet eos ad vitæ fontes aquarum, et absterget Deus omnem lacrimam ab oculis eorum.",
+      "greek_textus_receptus": "ὅτι τὸ ἀρνίον τὸ ἀναμέσον τοῦ θρόνου ποιμανεῖ αὐτούς καὶ ὁδηγήσει αὐτοὺς ἐπὶ ζώσας πηγὰς ὑδάτων καὶ ἐξαλείψει ὁ θεὸς πᾶν δάκρυον ἀπὸ τῶν ὀφθαλμῶν αὐτῶν",
+      "finnish_biblia": "Sillä Karitsa, joka istuimen keskellä on, kaitsee heitä ja johdattaa heitä eläväin vesilähdetten tykö, ja Jumala on kuivaava kaikki kyyneleet heidän silmistänsä.   ",
+      "swedish_karl_xii": "Ty Lambet som mitt i stolen är, skal regera them, och leda them til lefwande watukällor: och Gudh skal aftorka alla tårar af theras ögon.",
+      "king_james": "For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes."
+    }
+  ]
+}

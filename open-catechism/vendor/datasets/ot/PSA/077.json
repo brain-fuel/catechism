@@ -1,0 +1,472 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 77,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "  Voce mea ad Dominum clamavi ;  voce mea ad Deum, et intendit mihi. ",
+      "hebrew_masoretic": "קוֹלִ֣י אֶל־אֱלֹהִ֣ים וְאֶצְעָ֑קָה קוֹלִ֥י אֶל־אֱ֝לֹהִ֗ים וְהַאֲזִ֥ין אֵלָֽי׃",
+      "douay_rheims": "I cried to the Lord with my voice; to God with my voice, and he gave ear to me.",
+      "finnish_biblia": "Asaphin Psalmi, Jedutunin edestä, edelläveisaajalle. (H77:2) Minä huudan äänelläni Jumalaa: Jumalaa minä huudan, ja hän kuultelee minua. ",
+      "swedish_karl_xii": "Jagh ropar medh mine röst til Gudh: til Gudh ropar jagh, och han hörer migh.",
+      "king_james": "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:2"
+        },
+        "hebrew_masoretic": {
+          "src": "77:2"
+        },
+        "douay_rheims": {
+          "src": "76:2"
+        },
+        "swedish_karl_xii": {
+          "src": "77:2"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " In die tribulationis meæ Deum exquisivi ;  manibus meis nocte contra eum, et non sum deceptus.  Renuit consolari anima mea ; ",
+      "hebrew_masoretic": "בְּי֥וֹם צָרָתִי֮ אֲדֹנָ֢י דָּ֫רָ֥שְׁתִּי יָדִ֤י ׀ לַ֣יְלָה נִ֭גְּרָה וְלֹ֣א תָפ֑וּג מֵאֲנָ֖ה הִנָּחֵ֣ם נַפְשִֽׁי׃",
+      "douay_rheims": "In the days of my trouble I sought God, with my hands lifted up to him in the night, and I was not deceived. My soul refused to be comforted:",
+      "finnish_biblia": "Minun hätä-ajallani etsin minä Herraa: minun käteni on yöllä ojettu, ja ei lakkaa; sillä ei minun sieluni salli itseänsä lohduttaa. ",
+      "swedish_karl_xii": "Vthi mine nöds tijd söker jagh Herran; min hand är om nattena vthräckt, och håller intet vp: ty min siäl wil sigh icke trösta låta.",
+      "king_james": "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:3"
+        },
+        "hebrew_masoretic": {
+          "src": "77:3"
+        },
+        "douay_rheims": {
+          "src": "76:3"
+        },
+        "swedish_karl_xii": {
+          "src": "77:3"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " memor fui Dei, et delectatus sum,  et exercitatus sum, et defecit spiritus meus. ",
+      "hebrew_masoretic": "אֶזְכְּרָ֣ה אֱלֹהִ֣ים וְאֶהֱמָ֑יָה אָשִׂ֓יחָה ׀ וְתִתְעַטֵּ֖ף רוּחִ֣י סֶֽלָה׃",
+      "douay_rheims": "I remembered God, and was delighted, and was exercised, and my spirit swooned away.",
+      "finnish_biblia": "Minä ajattelen tosin Jumalan päälle, olen kuitenkin murheissani: minä tutkin, ja henkeni on sittekin ahdistuksessa, Sela! ",
+      "swedish_karl_xii": "När jagh bedröfwad är, så täncker jagh vppå Gudh; när mitt hierta i ångest är, så talar jagh. Sela.",
+      "king_james": "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:4"
+        },
+        "hebrew_masoretic": {
+          "src": "77:4"
+        },
+        "douay_rheims": {
+          "src": "76:4"
+        },
+        "swedish_karl_xii": {
+          "src": "77:4"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Anticipaverunt vigilias oculi mei ;  turbatus sum, et non sum locutus. ",
+      "hebrew_masoretic": "אָ֭חַזְתָּ שְׁמֻר֣וֹת עֵינָ֑י נִ֝פְעַ֗מְתִּי וְלֹ֣א אֲדַבֵּֽר׃",
+      "douay_rheims": "My eyes prevented the watches: I was troubled, and I spoke not.",
+      "finnish_biblia": "Sinä pidät minun silmäni, että he valvovat: minä olen niin voimatoin, etten minä voi puhua. ",
+      "swedish_karl_xii": "Min ögon håller tu at the waka: jagh är så wahnmächtig, at jagh icke tala kan.",
+      "king_james": "Thou holdest mine eyes waking: I am so troubled that I cannot speak.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:5"
+        },
+        "hebrew_masoretic": {
+          "src": "77:5"
+        },
+        "douay_rheims": {
+          "src": "76:5"
+        },
+        "swedish_karl_xii": {
+          "src": "77:5"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Cogitavi dies antiquos,  et annos æternos in mente habui. ",
+      "hebrew_masoretic": "חִשַּׁ֣בְתִּי יָמִ֣ים מִקֶּ֑דֶם שְׁ֝נ֗וֹת עוֹלָמִֽים׃",
+      "douay_rheims": "I thought upon the days of old: and I had in my mind the eternal years.",
+      "finnish_biblia": "Minä ajattelen vanhoja aikoja, entisiä vuosia: ",
+      "swedish_karl_xii": "Jagh täncker vppå then gamla tiden, på the förra åhr.",
+      "king_james": "I have considered the days of old, the years of ancient times.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:6"
+        },
+        "hebrew_masoretic": {
+          "src": "77:6"
+        },
+        "douay_rheims": {
+          "src": "76:6"
+        },
+        "swedish_karl_xii": {
+          "src": "77:6"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Et meditatus sum nocte cum corde meo,  et exercitabar, et scopebam spiritum meum. ",
+      "hebrew_masoretic": "אֶ֥זְכְּרָ֥ה נְגִינָתִ֗י בַּ֫לָּ֥יְלָה עִם־לְבָבִ֥י אָשִׂ֑יחָה וַיְחַפֵּ֥שׂ רוּחִֽי׃",
+      "douay_rheims": "And I meditated in the night with my own heart: and I was exercised and I swept my spirit.",
+      "finnish_biblia": "Minä muistan yöllä minun kantelettani: minä puhun sydämelleni, ja minun henkeni tutkii: ",
+      "swedish_karl_xii": "Jagh täncker om nattena på mitt strängiaspel, och talar medh mino hierta; min ande ransakar.",
+      "king_james": "I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:7"
+        },
+        "hebrew_masoretic": {
+          "src": "77:7"
+        },
+        "douay_rheims": {
+          "src": "76:7"
+        },
+        "swedish_karl_xii": {
+          "src": "77:7"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Numquid in æternum projiciet Deus ?  aut non apponet ut complacitior sit adhuc ? ",
+      "hebrew_masoretic": "הַֽ֭לְעוֹלָמִים יִזְנַ֥ח ׀ אֲדֹנָ֑י וְלֹא־יֹסִ֖יף לִרְצ֣וֹת עֽוֹד׃",
+      "douay_rheims": "Will God then cast off for ever? or will he never be more favourable again?",
+      "finnish_biblia": "Heittäneekö Jumala pois ijankaikkisesti, ja ei yhtään armoa silleen osoittane? ",
+      "swedish_karl_xii": "Mån tå Herren förkasta ewinnerliga? Och ingen nådh meer bewisa?",
+      "king_james": "Will the Lord cast off for ever? and will he be favourable no more?",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:8"
+        },
+        "hebrew_masoretic": {
+          "src": "77:8"
+        },
+        "douay_rheims": {
+          "src": "76:8"
+        },
+        "swedish_karl_xii": {
+          "src": "77:8"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " aut in finem misericordiam suam abscindet,  a generatione in generationem ? ",
+      "hebrew_masoretic": "הֶאָפֵ֣ס לָנֶ֣צַח חַסְדּ֑וֹ גָּ֥מַר אֹ֝֗מֶר לְדֹ֣ר וָדֹֽר׃",
+      "douay_rheims": "Or will he cut off his mercy for ever, from generation to generation?",
+      "finnish_biblia": "Puuttuneeko hänen laupiutensa ijankaikkisesti, ja olleeko lupauksella jo loppu suvusta sukuhun? ",
+      "swedish_karl_xii": "Är thet så aldeles vthe medh hans godhet? Och hafwer tilsäijelsen en ända?",
+      "king_james": "Is his mercy clean gone for ever? doth his promise fail for evermore?",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:9"
+        },
+        "hebrew_masoretic": {
+          "src": "77:9"
+        },
+        "douay_rheims": {
+          "src": "76:9"
+        },
+        "swedish_karl_xii": {
+          "src": "77:9"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": " aut obliviscetur misereri Deus ?  aut continebit in ira sua misericordias suas ? ",
+      "hebrew_masoretic": "הֲשָׁכַ֣ח חַנּ֣וֹת אֵ֑ל אִם־קָפַ֥ץ בְּ֝אַ֗ף רַחֲמָ֥יו סֶֽלָה׃",
+      "douay_rheims": "Or will God forget to shew mercy? or will he in his anger shut up his mercies?",
+      "finnish_biblia": "Onko Jumala unohtanut olla armollinen? ja sulkenut laupiutensa vihan tähden? Sela! ",
+      "swedish_karl_xii": "Hafwer tå Gudh förgätit at wara nådelig? Och tillyckt sina barmhertighet för wrede skul? Sela.",
+      "king_james": "Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:10"
+        },
+        "hebrew_masoretic": {
+          "src": "77:10"
+        },
+        "douay_rheims": {
+          "src": "76:10"
+        },
+        "swedish_karl_xii": {
+          "src": "77:10"
+        }
+      }
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": " Et dixi : Nunc cœpi ;  hæc mutatio dexteræ Excelsi. ",
+      "hebrew_masoretic": "וָ֭אֹמַר חַלּ֣וֹתִי הִ֑יא שְׁ֝נ֗וֹת יְמִ֣ין עֶלְיֽוֹן׃",
+      "douay_rheims": "And I said, Now have I begun: this is the change of the right hand of the most High.",
+      "finnish_biblia": "Minä sanoin: se on minun heikkouteni; mutta Ylimmäisen oikia käsi voi kaikki muuttaa. ",
+      "swedish_karl_xii": "Men doch sade jagh: Ther medh qwäl jagh migh sielf: then Högstas högra hand kan all ting förwandla.",
+      "king_james": "And I said, This is my infirmity: but I will remember the years of the right hand of the most High.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:11"
+        },
+        "hebrew_masoretic": {
+          "src": "77:11"
+        },
+        "douay_rheims": {
+          "src": "76:11"
+        },
+        "swedish_karl_xii": {
+          "src": "77:11"
+        }
+      }
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": " Memor fui operum Domini,  quia memor ero ab initio mirabilium tuorum : ",
+      "hebrew_masoretic": "(אזכיר) [אֶזְכּ֥וֹר] מַעַלְלֵי־יָ֑הּ כִּֽי־אֶזְכְּרָ֖ה מִקֶּ֣דֶם פִּלְאֶֽךָ׃",
+      "douay_rheims": "I remembered the works of the Lord: for I will be mindful of thy wonders from the beginning.",
+      "finnish_biblia": "Sentähden minä muistan Herran töitä, ja minä ajattelen entisiä ihmeitäs, ",
+      "swedish_karl_xii": "Therföre täncker jagh vppå Herrans gierningar: ja, jagh täncker vppå tin förra vnder.",
+      "king_james": "I will remember the works of the LORD: surely I will remember thy wonders of old.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:12"
+        },
+        "hebrew_masoretic": {
+          "src": "77:12"
+        },
+        "douay_rheims": {
+          "src": "76:12"
+        },
+        "swedish_karl_xii": {
+          "src": "77:12"
+        }
+      }
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": " et meditabor in omnibus operibus tuis,  et in adinventionibus tuis exercebor. ",
+      "hebrew_masoretic": "וְהָגִ֥יתִי בְכׇל־פׇּעֳלֶ֑ךָ וּֽבַעֲלִ֖ילוֹתֶ֣יךָ אָשִֽׂיחָה׃",
+      "douay_rheims": "And I will meditate on all thy works: and will be employed in thy inventions.",
+      "finnish_biblia": "Ja puhun kaikista sinun töistäs, ja sanon sinun teoistas. ",
+      "swedish_karl_xii": "Och talar om all tin werck, och säger om tin anslag.",
+      "king_james": "I will meditate also of all thy work, and talk of thy doings.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:13"
+        },
+        "hebrew_masoretic": {
+          "src": "77:13"
+        },
+        "douay_rheims": {
+          "src": "76:13"
+        },
+        "swedish_karl_xii": {
+          "src": "77:13"
+        }
+      }
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": " Deus, in sancto via tua :  quis deus magnus sicut Deus noster ? ",
+      "hebrew_masoretic": "אֱ֭לֹהִים בַּקֹּ֣דֶשׁ דַּרְכֶּ֑ךָ מִי־אֵ֥ל גָּ֝ד֗וֹל כֵּאלֹהִֽים׃",
+      "douay_rheims": "Thy way, O God, is in the holy place: who is the great God like our God?",
+      "finnish_biblia": "Jumala, sinun ties on pyhä: kussa on niin väkevää Jumalaa kuin sinä Jumala? ",
+      "swedish_karl_xii": "Gudh, tin wägh är helig: hwar är en så mächtig Gudh, såsom tu, Gudh, äst?",
+      "king_james": "Thy way, O God, is in the sanctuary: who is so great a God as our God?",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:14"
+        },
+        "hebrew_masoretic": {
+          "src": "77:14"
+        },
+        "douay_rheims": {
+          "src": "76:14"
+        },
+        "swedish_karl_xii": {
+          "src": "77:14"
+        }
+      }
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": " Tu es Deus qui facis mirabilia :  notam fecisti in populis virtutem tuam. ",
+      "hebrew_masoretic": "אַתָּ֣ה הָ֭אֵל עֹ֣שֵׂה פֶ֑לֶא הוֹדַ֖עְתָּ בָעַמִּ֣ים עֻזֶּֽךָ׃",
+      "douay_rheims": "Thou art the God that dost wonders. Thou hast made thy power known among the nations:",
+      "finnish_biblia": "Sinä olet se Jumala, joka ihmeitä tekee: sinä osoitit voimas kansain seassa. ",
+      "swedish_karl_xii": "Tu äst then Gudh som vnder giör; tu hafwer bewisat tina macht ibland folcken.",
+      "king_james": "Thou art the God that doest wonders: thou hast declared thy strength among the people.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:15"
+        },
+        "hebrew_masoretic": {
+          "src": "77:15"
+        },
+        "douay_rheims": {
+          "src": "76:15"
+        },
+        "swedish_karl_xii": {
+          "src": "77:15"
+        }
+      }
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": " Redemisti in brachio tuo populum tuum,  filios Jacob et Joseph. ",
+      "hebrew_masoretic": "גָּאַ֣לְתָּ בִּזְר֣וֹעַ עַמֶּ֑ךָ בְּנֵֽי־יַעֲקֹ֖ב וְיוֹסֵ֣ף סֶֽלָה׃",
+      "douay_rheims": "With thy arm thou hast redeemed thy people the children of Jacob and of Joseph.",
+      "finnish_biblia": "Sinä lunastit sinun kansas käsivarrellas, Jakobin ja Josephin lapset, Sela! ",
+      "swedish_karl_xii": "Tu hafwer förlossat titt folck wäldeliga, Jacobs barn och Josephs. Sela.",
+      "king_james": "Thou hast with thine arm redeemed thy people, the sons of Jacob and Joseph. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:16"
+        },
+        "hebrew_masoretic": {
+          "src": "77:16"
+        },
+        "douay_rheims": {
+          "src": "76:16"
+        },
+        "swedish_karl_xii": {
+          "src": "77:16"
+        }
+      }
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": " Viderunt te aquæ, Deus ;  viderunt te aquæ, et timuerunt :  et turbatæ sunt abyssi. ",
+      "hebrew_masoretic": "רָ֘א֤וּךָ מַּ֨יִם ׀ אֱֽלֹהִ֗ים רָא֣וּךָ מַּ֣יִם יָחִ֑ילוּ אַ֝֗ף יִרְגְּז֥וּ תְהֹמֽוֹת׃",
+      "douay_rheims": "The waters saw thee, O God, the waters saw thee: and they were afraid, and the depths were troubled.",
+      "finnish_biblia": "Vedet näkivät sinun, Jumala, vedet näkivät sinun ja vapisivat, ja syvyydet pauhasivat, ",
+      "swedish_karl_xii": "Watnen sågo tigh, Gudh; watnen sågo tigh, och ängslades; och diupen stormade.",
+      "king_james": "The waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:17"
+        },
+        "hebrew_masoretic": {
+          "src": "77:17"
+        },
+        "douay_rheims": {
+          "src": "76:17"
+        },
+        "swedish_karl_xii": {
+          "src": "77:17"
+        }
+      }
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": " Multitudo sonitus aquarum ;  vocem dederunt nubes.  Etenim sagittæ tuæ transeunt ; ",
+      "hebrew_masoretic": "זֹ֤רְמוּ מַ֨יִם ׀ עָב֗וֹת ק֭וֹל נָתְנ֣וּ שְׁחָקִ֑ים אַף־חֲ֝צָצֶ֗יךָ יִתְהַלָּֽכוּ׃",
+      "douay_rheims": "Great was the noise of the waters: the clouds sent out a sound. For thy arrows pass:",
+      "finnish_biblia": "Paksut pilvet kaasivat vettä, pilvet jylisivät ja nuolet lensivät sekaan. ",
+      "swedish_karl_xii": "The tiocke skyer vthguto watn; skyarna dundrade, och skotten foro ther ibland.",
+      "king_james": "The clouds poured out water: the skies sent out a sound: thine arrows also went abroad.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:18"
+        },
+        "hebrew_masoretic": {
+          "src": "77:18"
+        },
+        "douay_rheims": {
+          "src": "76:18"
+        },
+        "swedish_karl_xii": {
+          "src": "77:18"
+        }
+      }
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": " vox tonitrui tui in rota.  Illuxerunt coruscationes tuæ orbi terræ ;  commota est, et contremuit terra. ",
+      "hebrew_masoretic": "ק֤וֹל רַעַמְךָ֨ ׀ בַּגַּלְגַּ֗ל הֵאִ֣ירוּ בְרָקִ֣ים תֵּבֵ֑ל רָגְזָ֖ה וַתִּרְעַ֣שׁ הָאָֽרֶץ׃",
+      "douay_rheims": "The voice of thy thunder in a wheel. Thy lightnings enlightened the world: the earth shook and trembled.",
+      "finnish_biblia": "Se jylisi taivaassa, ja sinun leimaukses välkkyi maan piirin päälle: maa liikkui ja värisi siitä. ",
+      "swedish_karl_xii": "Thet dundrade i himmelen; titt liungande lyste på jordene: jorden rördes och bäfwade ther af.",
+      "king_james": "The voice of thy thunder was in the heaven: the lightnings lightened the world: the earth trembled and shook.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:19"
+        },
+        "hebrew_masoretic": {
+          "src": "77:19"
+        },
+        "douay_rheims": {
+          "src": "76:19"
+        },
+        "swedish_karl_xii": {
+          "src": "77:19"
+        }
+      }
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": " In mari via tua, et semitæ tuæ in aquis multis,  et vestigia tua non cognoscentur. ",
+      "hebrew_masoretic": "בַּיָּ֤ם דַּרְכֶּ֗ךָ (ושביליך) [וּֽ֭שְׁבִילְךָ] בְּמַ֣יִם רַבִּ֑ים וְ֝עִקְּבוֹתֶ֗יךָ לֹ֣א נֹדָֽעוּ׃",
+      "douay_rheims": "Thy way is in the sea, and thy paths in many waters: and thy footsteps shall not be known.",
+      "finnish_biblia": "Sinun ties oli meressä, ja sinun polkus olivat suurissa vesissä, ja ei sinun jälkiäs kenkään tuntenut. ",
+      "swedish_karl_xii": "Tin wägh war i hafwet, och tin stigh i stort watn: och man fan doch intet tin footspor.",
+      "king_james": "Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:20"
+        },
+        "hebrew_masoretic": {
+          "src": "77:20"
+        },
+        "douay_rheims": {
+          "src": "76:20"
+        },
+        "swedish_karl_xii": {
+          "src": "77:20"
+        }
+      }
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": " Deduxisti sicut oves populum tuum,  in manu Moysi et Aaron.  ",
+      "hebrew_masoretic": "נָחִ֣יתָ כַצֹּ֣אן עַמֶּ֑ךָ בְּֽיַד־מֹשֶׁ֥ה וְאַהֲרֹֽן׃ {פ}",
+      "douay_rheims": "Thou hast conducted thy people like sheep, by the hand of Moses and Aaron. ",
+      "finnish_biblia": "Sinä veit kansas niinkuin lammaslauman, Moseksen ja Aaronin kautta.   ",
+      "swedish_karl_xii": "Tu förde titt folck såsom en fårahiord, genom Mose och Aaron.",
+      "king_james": "Thou leddest thy people like a flock by the hand of Moses and Aaron. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "76:21"
+        },
+        "hebrew_masoretic": {
+          "src": "77:21"
+        },
+        "douay_rheims": {
+          "src": "76:21"
+        },
+        "swedish_karl_xii": {
+          "src": "77:21"
+        }
+      }
+    }
+  ]
+}

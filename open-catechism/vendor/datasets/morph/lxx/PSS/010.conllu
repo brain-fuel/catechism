@@ -1,0 +1,157 @@
+# ref = PSS.10.1
+1	Ἐν	_	_	_	_	_	_	Align=unmatched
+2	ὕμνοις	_	_	_	_	_	_	Align=unmatched
+3	τῷ	_	_	_	_	_	_	Align=unmatched
+4	Σαλωμών	_	_	_	_	_	_	Align=unmatched
+5	Μακάριος	μακάριος	_	_	_	_	_	Strong=G3107|Align=exact
+6	ἀνὴρ	ἀνήρ	_	_	_	_	_	Strong=G0435|Align=exact
+7	οὗ	ὅς	_	_	_	_	_	Strong=G3739|Align=positional
+8	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+9	κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+10	ἐμνήσθη	μνάομαι	_	_	_	_	_	Align=positional
+11	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+12	ἐλεγμῷ	ἐλεγμός	_	_	_	_	_	Align=positional
+13	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+14	ἐκυκλώθη	κυκλόω	_	_	_	_	_	Strong=G2944|Align=positional
+15	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+16	ὁδοῦ	ὁδός	_	_	_	_	_	Strong=G3598|Align=positional
+17	πονηρᾶς	πονηρός	_	_	_	_	_	Strong=G4190|Align=positional
+18	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+19	μάστιγι	μάστιξ	_	_	_	_	_	Strong=G3148|Align=positional
+20	καθαρισθῆναι	καθαρίζω	_	_	_	_	_	Strong=G2511|Align=positional
+21	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+22	ἁμαρτίας	ἁμαρτία	_	_	_	_	_	Strong=G0266|Align=positional
+23	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+24	μὴ	μή	_	_	_	_	_	Strong=G3361|Align=exact
+25	πληθῦναι	πληθύνω	_	_	_	_	_	Strong=G4129|Align=positional
+
+# ref = PSS.10.2
+1	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+2	ἑτοιμάζων	ἑτοιμάζω	_	_	_	_	_	Strong=G2090|Align=positional
+3	νῶτον	νῶτος	_	_	_	_	_	Strong=G3577|Align=positional
+4	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+5	μάστιγας	_	_	_	_	_	_	Align=unmatched
+6	καὶ	_	_	_	_	_	_	Align=unmatched
+7	καθαρισθήσεται	_	_	_	_	_	_	Align=unmatched
+8	χρηστὸς	χρηστός	_	_	_	_	_	Strong=G5543|Align=exact
+9	γὰρ	γάρ	_	_	_	_	_	Strong=G1063|Align=exact
+10	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+11	κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+12	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	ὑπομένουσιν	ὑπομένω	_	_	_	_	_	Strong=G5278|Align=positional
+14	παιδείαν	παιδεία	_	_	_	_	_	Strong=G3809|Align=positional,source_extra:2
+
+# ref = PSS.10.3
+1	ὀρθώσει	ὀρθόω	_	_	_	_	_	Align=positional
+2	γὰρ	γάρ	_	_	_	_	_	Strong=G1063|Align=exact
+3	ὁδοὺς	ὁδός	_	_	_	_	_	Strong=G3598|Align=positional
+4	δικαίων	δίκαιος	_	_	_	_	_	Strong=G1342|Align=positional
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	οὐ	οὐ	_	_	_	_	_	Strong=G3756|Align=exact
+7	διαπρέψει	διαστρέφω	_	_	_	_	_	Strong=G1294|Align=positional
+8	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+9	παιδείᾳ	παιδεία	_	_	_	_	_	Strong=G3809|Align=exact,source_extra:10
+
+# ref = PSS.10.4
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὸ	_	_	_	_	_	_	Align=unmatched
+3	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+4	Κυρίου	_	_	_	_	_	_	Align=unmatched
+5	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+6	τοὺς	_	_	_	_	_	_	Align=unmatched
+7	ἀγαπῶντας	_	_	_	_	_	_	Align=unmatched
+8	αὐτὸν	_	_	_	_	_	_	Align=unmatched
+9	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+10	ἀληθείᾳ	_	_	_	_	_	_	Align=unmatched
+11	καὶ	_	_	_	_	_	_	Align=unmatched
+12	μνήσεται	_	_	_	_	_	_	Align=unmatched
+13	Κύριος	_	_	_	_	_	_	Align=unmatched
+14	τῶν	_	_	_	_	_	_	Align=unmatched
+15	δούλων	_	_	_	_	_	_	Align=unmatched
+16	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+17	ἐν	_	_	_	_	_	_	Align=unmatched
+18	ἐλέει	_	_	_	_	_	_	Align=unmatched,source_extra:19
+
+# ref = PSS.10.5
+1	ἡ	_	_	_	_	_	_	Align=unmatched
+2	γὰρ	_	_	_	_	_	_	Align=unmatched
+3	μαρτυρία	_	_	_	_	_	_	Align=unmatched
+4	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+5	νόμῳ	_	_	_	_	_	_	Align=unmatched
+6	διαθήκης	_	_	_	_	_	_	Align=unmatched
+7	αἰωνίου	_	_	_	_	_	_	Align=unmatched
+8	ἡ	_	_	_	_	_	_	Align=unmatched
+9	μαρτυρία	_	_	_	_	_	_	Align=unmatched
+10	Κυρίου	_	_	_	_	_	_	Align=unmatched
+11	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+12	ὁδοὺς	_	_	_	_	_	_	Align=unmatched
+13	ἀνθρώπων	_	_	_	_	_	_	Align=unmatched
+14	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+15	ἐπισκοπῇ	εὐφροσύνη	_	_	_	_	_	Strong=G2167|Align=positional,source_extra:17
+
+# ref = PSS.10.6
+1	δίκαιος	_	_	_	_	_	_	Align=unmatched
+2	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+3	ὅσιος	ὅσιος	_	_	_	_	_	Strong=G3741|Align=exact
+4	Κύριος	_	_	_	_	_	_	Align=unmatched
+5	ἡμῶν	_	_	_	_	_	_	Align=unmatched
+6	κρίμασιν	_	_	_	_	_	_	Align=unmatched
+7	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+8	εἰς	_	_	_	_	_	_	Align=unmatched
+9	τὸν	_	_	_	_	_	_	Align=unmatched
+10	αἰῶνα	_	_	_	_	_	_	Align=unmatched
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	Ἰσραὴλ	_	_	_	_	_	_	Align=unmatched
+13	αἰνέσει	_	_	_	_	_	_	Align=unmatched
+14	τῷ	_	_	_	_	_	_	Align=unmatched
+15	ὀνόματι	_	_	_	_	_	_	Align=unmatched
+16	Κυρίου	_	_	_	_	_	_	Align=unmatched
+17	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+18	εὐφροσύνῃ	εὐφροσύνη	_	_	_	_	_	Strong=G2167|Align=exact,source_extra:9
+
+# ref = PSS.10.7
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ὅσιοι	_	_	_	_	_	_	Align=unmatched
+3	ἐξομολογήσονται	_	_	_	_	_	_	Align=unmatched
+4	ἐν	_	_	_	_	_	_	Align=unmatched
+5	ἐκκλησίᾳ	_	_	_	_	_	_	Align=unmatched
+6	λαοῦ	_	_	_	_	_	_	Align=unmatched
+7	καὶ	_	_	_	_	_	_	Align=unmatched
+8	πτωχοὺς	_	_	_	_	_	_	Align=unmatched
+9	ἐλεήσει	_	_	_	_	_	_	Align=unmatched
+10	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+11	θεὸς	θεός	_	_	_	_	_	Strong=G2316|Align=exact
+12	ἐν	_	_	_	_	_	_	Align=unmatched
+13	εὐφροσύνῃ	_	_	_	_	_	_	Align=unmatched
+14	Ἰσραήλ	Ἰσραήλ	_	_	_	_	_	Strong=G2474|Align=exact,source_extra:12
+
+# ref = PSS.10.8
+1	ὅτι	_	_	_	_	_	_	Align=unmatched
+2	χρηστὸς	_	_	_	_	_	_	Align=unmatched
+3	καὶ	_	_	_	_	_	_	Align=unmatched
+4	ἐλεήμων	_	_	_	_	_	_	Align=unmatched
+5	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+6	θεὸς	_	_	_	_	_	_	Align=unmatched
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	τὸν	_	_	_	_	_	_	Align=unmatched
+9	αἰῶνα	_	_	_	_	_	_	Align=unmatched
+10	καὶ	_	_	_	_	_	_	Align=unmatched
+11	συναγωγαὶ	_	_	_	_	_	_	Align=unmatched
+12	Ἰσραὴλ	_	_	_	_	_	_	Align=unmatched
+13	δοξάσουσιν	_	_	_	_	_	_	Align=unmatched
+14	τὸ	_	_	_	_	_	_	Align=unmatched
+15	ὄνομα	_	_	_	_	_	_	Align=unmatched
+16	Κυρίου	_	_	_	_	_	_	Align=unmatched,source_extra:8
+
+# ref = PSS.10.9
+1	τοῦ	_	_	_	_	_	_	Align=unmatched
+2	κυρίου	_	_	_	_	_	_	Align=unmatched
+3	ἡ	_	_	_	_	_	_	Align=unmatched
+4	σωτηρία	_	_	_	_	_	_	Align=unmatched
+5	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+6	οἶκον	_	_	_	_	_	_	Align=unmatched
+7	Ἰσραὴλ	_	_	_	_	_	_	Align=unmatched
+8	εἰς	_	_	_	_	_	_	Align=unmatched
+9	σωφροσύνην	_	_	_	_	_	_	Align=unmatched
+10	αἰώνιον	_	_	_	_	_	_	Align=unmatched
+

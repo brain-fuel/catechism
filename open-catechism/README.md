@@ -1,0 +1,36 @@
+# Open Catechism: Svebilius/Laine Edition
+
+A canonical, offline-buildable English edition in 35 units. The historic
+Svebilius/Luther substrate is preserved; clearly labelled Laine additions map
+every inherited reference group and supply teaching, narratives, illustrations,
+memory work, prayer, discussion, and provenance.
+
+From this directory, run:
+
+```sh
+make generate
+go run ./cmd/open-catechism sources sync
+go run ./cmd/open-catechism validate
+go run ./cmd/open-catechism coverage
+go run ./cmd/open-catechism build --format web
+go run ./cmd/open-catechism build --format epub
+go run ./cmd/open-catechism build --format pdf
+go run ./cmd/open-catechism build --format all
+```
+
+The ready-to-serve site is committed in `public/`. Publication binaries are
+built into ignored `dist/`. The build source is GoML and lowers through
+`brain-fuel/goplus` v0.145.1 to ordinary Go; Typst is needed for PDF output.
+All textual datasets are local after synchronization.
+
+## Editorial policy
+
+Scripture is labelled “KJV-based reading text with Divine Name and terminology
+concordance.” Untouched KJV records remain in `vendor/datasets`. Old Testament
+small-cap Divine Name forms are rendered Yahweh, with JAH rendered Yah. New
+Testament restorations require and appear in the approved registry. “Holy Ghost”
+is used for the Third Person; distinct titles and other senses of spirit remain.
+
+The principal credit is “Open Catechism.” Contributors are credited by role in
+the generated provenance. New content is CC BY-SA 4.0; independent build code is
+MIT; third-party licenses are preserved under `vendor/`.

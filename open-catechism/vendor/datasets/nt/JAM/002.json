@@ -1,0 +1,219 @@
+{
+  "book_id": "JAM",
+  "latin_name": "Epistula Jacobi",
+  "greek_name": "Ἰάκωβος",
+  "finnish_name": "Jaakobin kirje",
+  "swedish_name": "S. Jacobs Epistel",
+  "english_name": "The General Epistle of James",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Fratres mei, nolite in personarum acceptione habere fidem Domini nostri Jesu Christi gloriæ.",
+      "greek_textus_receptus": "ἀδελφοί μου μὴ ἐν προσωποληψίαις ἔχετε τὴν πίστιν τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ τῆς δόξης",
+      "finnish_biblia": "Rakkaat veljeni, älkäät muodonkatsomisessa pitäkö uskoa kunnian Herran Jesuksen Kristuksen päälle. ",
+      "swedish_karl_xii": "Mjne bröder, håller thet icke therföre, at troon på Jesum Christum wår Herra til härlighetena, kan lida personers anseende.",
+      "king_james": "My brethren, have not the faith of our Lord Jesus Christ, *the Lord* of glory, with respect of persons."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Etenim si introierit in conventum vestrum vir aureum annulum habens in veste candida, introierit autem et pauper in sordido habitu,",
+      "greek_textus_receptus": "ἐὰν γὰρ εἰσέλθῃ εἰς τήν συναγωγὴν ὑμῶν ἀνὴρ χρυσοδακτύλιος ἐν ἐσθῆτι λαμπρᾷ εἰσέλθῃ δὲ καὶ πτωχὸς ἐν ῥυπαρᾷ ἐσθῆτι",
+      "finnish_biblia": "Sillä jos teidän seurakuntaanne tulis joku mies, kantain kultasormusta, ja kiiltävällä vaatteella puetettu; ja tulis myös köyhä ryysyllä, ",
+      "swedish_karl_xii": "Ty, om vthi edra församling komme en man medh en guldring, och medh en härlig klädnad; komme ock en fattig man i snöplig klädnad:",
+      "king_james": "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "et intendatis in eum qui indutus est veste præclara, et dixeritis ei: Tu sede hic bene: pauperi autem dicatis: Tu sta illic; aut sede sub scabello pedum meorum:",
+      "greek_textus_receptus": "καὶ ἐπιβλέψητε ἐπὶ τὸν φοροῦντα τὴν ἐσθῆτα τὴν λαμπρὰν καὶ εἴπητε αὐτῷ σὺ κάθου ὧδε καλῶς καὶ τῷ πτωχῷ εἴπητε σὺ στῆθι ἐκεῖ ἢ κάθου ὧδε ὑπὸ τὸ ὑποπόδιόν μου",
+      "finnish_biblia": "Ja te katsoisitte sitä, joka kiiltävissä vaatteissa on, ja sanoisitte hänelle: istu tässä hyvästi; ja sille köyhälle sanoisitte: seiso sinä siellä, taikka istu tässä minun jaloissani: ",
+      "swedish_karl_xii": "Och J sågen på then som hafwer the härliga kläden, och saden til honom: Sitt här wäl; och them fattiga saden J: Statt ther; eller, sitt här widh mina fötter:",
+      "king_james": "And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "nonne judicatis apud vosmetipsos, et facti estis judices cogitationum iniquarum?",
+      "greek_textus_receptus": "καὶ οὐ διεκρίθητε ἐν ἑαυτοῖς καὶ ἐγένεσθε κριταὶ διαλογισμῶν πονηρῶν",
+      "finnish_biblia": "Niin ette sitä oikein ajattele, vaan te tulette tuomariksi ja teette pahan eroituksen. ",
+      "swedish_karl_xii": "Och betäncken thet icke rätt, vtan warden domare, och giören en ond åthskilnad.",
+      "king_james": "Are ye not then partial in yourselves, and are become judges of evil thoughts?"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Audite, fratres mei dilectissimi: nonne Deus elegit pauperes in hoc mundo, divites in fide, et hæredes regni, quod repromisit Deus diligentibus se?",
+      "greek_textus_receptus": "ἀκούσατε ἀδελφοί μου ἀγαπητοί οὐχ ὁ θεὸς ἐξελέξατο τοὺς πτωχοὺς τοῦ κόσμου τούτου πλουσίους ἐν πίστει καὶ κληρονόμους τῆς βασιλείας ἡς ἐπηγγείλατο τοῖς ἀγαπῶσιν αὐτόν",
+      "finnish_biblia": "Kuulkaat, rakkaat veljeni: eikö Jumala ole tämän maailman köyhiä valinnut, jotka uskossa rikkaat ja valtakunnan perilliset ovat, jonka hän lupasi niille, jotka häntä rakastavat? ",
+      "swedish_karl_xii": "Hörer til, mine käre bröder: Hafwer icke Gudh vthwaldt the fattiga i thenna werldene, the ther rike woro på trona, och arfwingar til riket som han låfwat hade them som honom älska?",
+      "king_james": "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "vos autem exhonorastis pauperem. Nonne divites per potentiam opprimunt vos, et ipsi trahunt vos ad judicia?",
+      "greek_textus_receptus": "ὑμεῖς δὲ ἠτιμάσατε τὸν πτωχόν οὐχ οἱ πλούσιοι καταδυναστεύουσιν ὑμῶν καὶ αὐτοὶ ἕλκουσιν ὑμᾶς εἰς κριτήρια",
+      "finnish_biblia": "Mutta te olette häväisseet köyhän. Eikö rikkaat ole väkivaltaiset teitä polkemaan ja vetämään teitä oikeuden eteen? ",
+      "swedish_karl_xii": "Men J hafwen förachtat then fattiga. Förtryckia icke the rike eder medh wåld, och draga eder fram för rätten?",
+      "king_james": "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "nonne ipsi blasphemant bonum nomen, quod invocatum est super vos?",
+      "greek_textus_receptus": "οὐκ αὐτοὶ βλασφημοῦσιν τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ᾽ ὑμᾶς",
+      "finnish_biblia": "Eikö he pilkkaa sitä hyvää nimeä, josta te nimitetyt olette? ",
+      "swedish_karl_xii": "Försmäda icke the thet goda namnet, ther J af nämnde ären?",
+      "king_james": "Do not they blaspheme that worthy name by the which ye are called?"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Si tamen legem perficitis regalem secundum Scripturas: Diliges proximum tuum sicut teipsum: bene facitis:",
+      "greek_textus_receptus": "εἰ μέντοι νόμον τελεῖτε βασιλικὸν κατὰ τὴν γραφήν ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν καλῶς ποιεῖτε",
+      "finnish_biblia": "Jos te kuninkaallisen lain, Raamatun jälkeen, täytätte: rakasta lähimmäistäs niinkuin itsiäs, niin te hyvin teette. ",
+      "swedish_karl_xii": "Fulborden J then Konungsliga lagen efter skriften: Älska tin nästa, såsom tigh sielf; så giören J wäl.",
+      "king_james": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "si autem personas accipitis, peccatum operamini, redarguti a lege quasi transgressores.",
+      "greek_textus_receptus": "εἰ δὲ προσωποληπτεῖτε ἁμαρτίαν ἐργάζεσθε ἐλεγχόμενοι ὑπὸ τοῦ νόμου ὡς παραβάται",
+      "finnish_biblia": "Mutta jos te ihmisten muotoa katsotte, niin te syntiä teette ja rangaistaan lailta, niinkuin sen rikkojat. ",
+      "swedish_karl_xii": "Men seen J efter personen, tå synden J, och warden straffade af lagen, såsom öfwerträdare.",
+      "king_james": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Quicumque autem totam legem servaverit, offendat autem in uno, factus est omnium reus.",
+      "greek_textus_receptus": "ὅστις γὰρ ὅλον τὸν νόμον τηρήσει πταίσει δὲ ἐν ἑνί γέγονεν πάντων ἔνοχος",
+      "finnish_biblia": "Sillä jos joku koko lain pitää, ja rikkoo yhdessä, hän on vikapää kaikissa. ",
+      "swedish_karl_xii": "Ty om någor håller hela lagen, och syndar på ett, han är saker til alt.",
+      "king_james": "For whosoever shall keep the whole law, and yet offend in one *point*, he is guilty of all."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Qui enim dixit: Non mœchaberis, dixit et: Non occides. Quod si non mœchaberis, occides autem, factus es transgressor legis.",
+      "greek_textus_receptus": "ὁ γὰρ εἰπών μὴ μοιχεύσῃς εἶπεν καί μὴ φονεύσῃς εἰ δὲ οὐ μοιχεύσεις φονεύσεις δέ γέγονας παραβάτης νόμου",
+      "finnish_biblia": "Sillä se, joka sanoi: ei sinun pidä huorin tekemän, hän on myös sanonut: ei sinun pidä tappaman. Jos et sinä huorin tee, mutta tapat, niin sinä olet lainrikkojaksi tullut. ",
+      "swedish_karl_xii": "Ty, then som sade: Tu skalt icke giöra hoor; han hafwer ock sagt: Tu skalt icke dräpa. Hwar tu nu icke giör hoor, och dräper likwäl, äst tu lagsens öfwerträdare.",
+      "king_james": "For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Sic loquimini, et sic facite sicut per legem libertatis incipientes judicari.",
+      "greek_textus_receptus": "οὕτως λαλεῖτε καὶ οὕτως ποιεῖτε ὡς διὰ νόμου ἐλευθερίας μέλλοντες κρίνεσθαι",
+      "finnish_biblia": "Näin te puhukaat ja näin te tehkäät, niinkuin ne, jotka vapauden lain kautta pitää tuomittaman. ",
+      "swedish_karl_xii": "Så taler, och så giörer, som the ther skola genom frihetenes lagh dömde warda.",
+      "king_james": "So speak ye, and so do, as they that shall be judged by the law of liberty."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Judicium enim sine misericordia illi qui non fecit misericordiam: superexaltat autem misericordia judicium.",
+      "greek_textus_receptus": "ἡ γὰρ κρίσις ἀνίλεως τῷ μὴ ποιήσαντι ἔλεος καὶ κατακαυχᾶται ἔλεος κρίσεως",
+      "finnish_biblia": "Sillä armotoin tuomio pitää hänen päällensä tuleman, joka ei laupiutta tehnyt; ja laupius kehuu tuomiota vastaan. ",
+      "swedish_karl_xii": "Ty doom vthan barmhertighet skal honom öfwergå, som barmhertighet icke giordt hafwer: och barmhertigheten berömer sigh emot domen.",
+      "king_james": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Quid proderit, fratres mei, si fidem quis dicat se habere, opera autem non habeat? numquid poterit fides salvare eum?",
+      "greek_textus_receptus": "τί τὸ ὄφελος ἀδελφοί μου ἐὰν πίστιν λέγῃ τις ἔχειν ἔργα δὲ μὴ ἔχῃ μὴ δύναται ἡ πίστις σῶσαι αὐτόν",
+      "finnish_biblia": "Mitä se auttaa, rakkaat veljeni, jos joku sanoo hänellänsä uskon olevan, ja ei hänellä kuitenkaan ole töitä? Taitaako usko hänen autuaaksi saattaa? ",
+      "swedish_karl_xii": "Hwad hielper thet, mine bröder, om någor säger sigh hafwa trona, och hafwer doch icke gierningarna? Kan ock troon giöra honom salig?",
+      "king_james": "What *doth it* profit, my brethren, though a man say he hath faith, and have not works? can faith save him?"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Si autem frater et soror nudi sint, et indigeant victu quotidiano,",
+      "greek_textus_receptus": "ἐὰν δὲ ἀδελφὸς ἢ ἀδελφὴ γυμνοὶ ὑπάρχωσιν καὶ λειπόμενοι ὦσιν τῆς ἐφημέρου τροφῆς",
+      "finnish_biblia": "Mutta jos veli taikka sisar alasti olis ja puuttuis jokapäiväistä ravintoa, ",
+      "swedish_karl_xii": "Om en broder eller syster wore nakot, och fattades daglig föda;",
+      "king_james": "If a brother or sister be naked, and destitute of daily food,"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "dicat autem aliquis ex vobis illis: Ite in pace, calefacimini et saturamini: non dederitis autem eis quæ necessaria sunt corpori, quid proderit?",
+      "greek_textus_receptus": "εἴπῃ δέ τις αὐτοῖς ἐξ ὑμῶν ὑπάγετε ἐν εἰρήνῃ θερμαίνεσθε καὶ χορτάζεσθε μὴ δῶτε δὲ αὐτοῖς τὰ ἐπιτήδεια τοῦ σώματος τί τὸ ὄφελος",
+      "finnish_biblia": "Jos joku teistä heille sanois: menkäät rauhassa, lämmittäkäät ja ravitkaat teitänne; ja ette kuitenkaan anna heille mitään ruumiin tarvetta: mitä se heitä auttais? ",
+      "swedish_karl_xii": "Och någor edra sade til them: Går i frijd, wärmer eder, och mätter eder; och gifwen them likwäl intet hwad lekamen behöfwer: hwad hulpe them thet?",
+      "king_james": "And one of you say unto them, Depart in peace, be *ye* warmed and filled; notwithstanding ye give them not those things which are needful to the body; what *doth it* profit?"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Sic et fides, si non habeat opera, mortua est in semetipsa.",
+      "greek_textus_receptus": "οὕτως καὶ ἡ πίστις ἐὰν μὴ ἔργα ἔχῃ νεκρά ἐστιν καθ᾽ ἑαυτήν",
+      "finnish_biblia": "Näin myös usko, jos ei hänellä töitä ole, on kuollut itsessänsä. ",
+      "swedish_karl_xii": "Så ock troon, tå hon icke hafwer gierningarna, är hon död i sigh sielf.",
+      "king_james": "Even so faith, if it hath not works, is dead, being alone."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Sed dicet quis: Tu fidem habes, et ego opera habeo: ostende mihi fidem tuam sine operibus: et ego ostendam tibi ex operibus fidem meam.",
+      "greek_textus_receptus": "ἀλλ ἐρεῖ τις σὺ πίστιν ἔχεις κἀγὼ ἔργα ἔχω δεῖξόν μοι τὴν πίστιν σου ἐκ τῶν ἔργων σου κἀγώ δείξω σοι ἐκ τῶν ἔργων μου τὴν πίστιν μου",
+      "finnish_biblia": "Mutta sanokaan joku: sinulla on usko, ja minulla on työt: osoita minulle sinun uskos sinun töilläs, niin minäkin tahdon minun uskoni osoittaa minun töilläni. ",
+      "swedish_karl_xii": "Nu måtte någor säija: Tu hafwer trona, och jagh hafwer gierningarna: wisa migh tina troo medh tina gierningar, så wil jagh ock wisa tigh mina troo medh mina gierningar.",
+      "king_james": "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Tu credis quoniam unus est Deus: bene facis: et dæmones credunt, et contremiscunt.",
+      "greek_textus_receptus": "σὺ πιστεύεις ὅτι ὁ θεός εἷς ἐστιν καλῶς ποιεῖς καὶ τὰ δαιμόνια πιστεύουσιν καὶ φρίσσουσιν",
+      "finnish_biblia": "Sinä uskot, että yksi Jumala on, sen sinä oikein teet; perkeleet myös sen uskovat ja vapisevat. ",
+      "swedish_karl_xii": "Tu troor at en Gudh är; ther giör tu rätt vthi: dieflarna troo thet ock, och bäfwa.",
+      "king_james": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Vis autem scire, o homo inanis, quoniam fides sine operibus mortua est?",
+      "greek_textus_receptus": "θέλεις δὲ γνῶναι ὦ ἄνθρωπε κενέ ὅτι ἡ πίστις χωρὶς τῶν ἔργων νεκρά ἐστιν",
+      "finnish_biblia": "Mutta tahdotkos tietää, sinä turha ihminen, että usko ilman töitä kuollut on? ",
+      "swedish_karl_xii": "Wilt tu fåfängelig menniskia weta, at troon vthan gierningar är död?",
+      "king_james": "But wilt thou know, O vain man, that faith without works is dead?"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Abraham pater noster nonne ex operibus justificatus est, offerens Isaac filium suum super altare?",
+      "greek_textus_receptus": "ἀβραὰμ ὁ πατὴρ ἡμῶν οὐκ ἐξ ἔργων ἐδικαιώθη ἀνενέγκας ἰσαὰκ τὸν υἱὸν αὐτοῦ ἐπὶ τὸ θυσιαστήριον",
+      "finnish_biblia": "Eikö Abraham, meidän isämme, töiden kautta vanhurskautetuksi osoitettu, kuin hän poikansa Isaakin alttarille uhrasi? ",
+      "swedish_karl_xii": "Wardt icke Abraham wår fader af gierningarna rättferdigad, tå han sin son Jsaac offrade på altaret?",
+      "king_james": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?"
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Vides quoniam fides cooperabatur operibus illius: et ex operibus fides consummata est?",
+      "greek_textus_receptus": "βλέπεις ὅτι ἡ πίστις συνήργει τοῖς ἔργοις αὐτοῦ καὶ ἐκ τῶν ἔργων ἡ πίστις ἐτελειώθη",
+      "finnish_biblia": "Näetkös, että usko on myös vaikuttanut hänen töissänsä, ja että usko on töissä täydelliseksi tullut? ",
+      "swedish_karl_xii": "Seer tu, at troon hafwer medwerckat i hans gierningar, och at troon är fulkommen worden af gierningarna.",
+      "king_james": "Seest thou how faith wrought with his works, and by works was faith made perfect?"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Et suppleta est Scriptura, dicens: Credidit Abraham Deo, et reputatum est illi ad justitiam, et amicus Dei appellatus est.",
+      "greek_textus_receptus": "καὶ ἐπληρώθη ἡ γραφὴ ἡ λέγουσα ἐπίστευσεν δὲ ἀβραὰμ τῷ θεῷ καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην καὶ φίλος θεοῦ ἐκλήθη",
+      "finnish_biblia": "Ja se Raamattu on täytetty, joka sanoo: Abraham uskoi Jumalan, ja se luettiin hänelle vanhurskaudeksi, ja hän kutsuttiin Jumalan ystäväksi. ",
+      "swedish_karl_xii": "Och Skriften är fulkomnad, som säger: Abraham trodde Gudi, och thet wardt honom räknat til rättferdighet; och wardt kallad Gudz wän.",
+      "king_james": "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Videtis quoniam ex operibus justificatur homo, et non ex fide tantum?",
+      "greek_textus_receptus": "ὁρᾶτε τοίνυν ὅτι ἐξ ἔργων δικαιοῦται ἄνθρωπος καὶ οὐκ ἐκ πίστεως μόνον",
+      "finnish_biblia": "Niin te siis näette, että ihminen töistä vanhurskautetuksi osoitetaan ja ei ainoastansa uskosta. ",
+      "swedish_karl_xii": "Seen J nu, at af gierningarna rättferdigas menniskian, och icke af trone allena.",
+      "king_james": "Ye see then how that by works a man is justified, and not by faith only."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Similiter et Rahab meretrix, nonne ex operibus justificata est, suscipiens nuntios, et alia via ejiciens?",
+      "greek_textus_receptus": "ὁμοίως δὲ καὶ ῥαὰβ ἡ πόρνη οὐκ ἐξ ἔργων ἐδικαιώθη ὑποδεξαμένη τοὺς ἀγγέλους καὶ ἑτέρᾳ ὁδῷ ἐκβαλοῦσα",
+      "finnish_biblia": "Niin myös portto Rahab, eikö hän töiden kautta vanhurskautetuksi nähty, koska hän korjasi ne vakoojat ja toista tietä heidät päästi ulos? ",
+      "swedish_karl_xii": "Sammalunda ock then skiökian Rahab, wardt hon icke af gierningom rättferdigad, tå hon vndfick sändningaboden, och släppte them en annan wägh vth?",
+      "king_james": "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent *them* out another way?"
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Sicut enim corpus sine spiritu mortuum est, ita et fides sine operibus mortua est.",
+      "greek_textus_receptus": "ὥσπερ γὰρ τὸ σῶμα χωρὶς πνεύματος νεκρόν ἐστιν οὕτως καὶ ἡ πίστις χωρὶς τῶν ἔργων νεκρά ἐστιν",
+      "finnish_biblia": "Sillä niinkuin ruumis ilman henkeä on kuollut, niin myös usko on ilman töitä kuollut.   ",
+      "swedish_karl_xii": "Therföre, såsom kroppen vthan anda är död, så är ock troon vthan gierningar död.",
+      "king_james": "For as the body without the spirit is dead, so faith without works is dead also."
+    }
+  ]
+}

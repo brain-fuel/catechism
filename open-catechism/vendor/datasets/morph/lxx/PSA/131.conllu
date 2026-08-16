@@ -1,0 +1,267 @@
+# ref = PSA.131.1
+1	ᾨδὴ	ᾠδή	_	_	_	_	_	Strong=G5603|Align=exact
+2	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ἀναβαθμῶν	ἀναβαθμός	_	_	_	_	_	Strong=G0304|Align=positional
+4	Μνήσθητι	μνάομαι	_	_	_	_	_	Align=positional
+5	Κύριε	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+6	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	Δαυεὶδ	Δαβίδ	_	_	_	_	_	Align=positional
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	πάσης	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+10	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	πρᾳύτητος	πραΰτης	_	_	_	_	_	Align=positional
+12	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.131.2
+1	ὡς	ὥς	_	_	_	_	_	Align=exact
+2	ὤμοσεν	ὀμνύω	_	_	_	_	_	Strong=G3660|Align=positional
+3	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+5	ηὔξατο	εὔχομαι	_	_	_	_	_	Strong=G2172|Align=positional
+6	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	θεῷ	θεός	_	_	_	_	_	Strong=G2316|Align=positional
+8	Ἰακώβ	Ἰακώβ	_	_	_	_	_	Strong=G2384|Align=exact
+
+# ref = PSA.131.3
+1	Εἰ	εἰ	_	_	_	_	_	Strong=G1487|Align=exact
+2	εἰσελεύσομαι	εἰσέρχομαι	_	_	_	_	_	Strong=G1525|Align=positional
+3	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+4	σκήνωμα	σκήνωμα	_	_	_	_	_	Strong=G4638|Align=exact
+5	οἴκου	οἶκος	_	_	_	_	_	Strong=G3624|Align=positional
+6	μου	μου	_	_	_	_	_	Align=exact
+7	εἰ	εἰ	_	_	_	_	_	Strong=G1487|Align=exact
+8	ἀναβήσομαι	ἀναβαίνω	_	_	_	_	_	Strong=G0305|Align=positional
+9	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+10	κλίνης	κλίνη	_	_	_	_	_	Strong=G2825|Align=positional
+11	στρωμνῆς	στρωμνή	_	_	_	_	_	Align=positional
+12	μου	μου	_	_	_	_	_	Align=exact
+
+# ref = PSA.131.4
+1	εἰ	εἰ	_	_	_	_	_	Strong=G1487|Align=exact
+2	δώσω	δίδωμι	_	_	_	_	_	Strong=G1325|Align=positional
+3	ὕπνον	ὕπνος	_	_	_	_	_	Strong=G5258|Align=positional
+4	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	ὀφθαλμοῖς	ὀφθαλμός	_	_	_	_	_	Strong=G3788|Align=positional
+6	μου	μου	_	_	_	_	_	Align=exact
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	βλεφάροις	βλέφαρον	_	_	_	_	_	Align=positional
+10	μου	μου	_	_	_	_	_	Align=exact
+11	νυσταγμὸν	νυσταγμός	_	_	_	_	_	Align=positional
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	ἀνάπαυσιν	ἀνάπαυσις	_	_	_	_	_	Strong=G0372|Align=positional
+14	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+15	κροτάφοις	κρόταφος	_	_	_	_	_	Align=positional
+16	μου	μου	_	_	_	_	_	Align=exact
+
+# ref = PSA.131.5
+1	ἕως	ἕως	_	_	_	_	_	Strong=G2193|Align=exact
+2	οὗ	ὅς	_	_	_	_	_	Strong=G3739|Align=positional
+3	εὕρω	εὑρίσκω	_	_	_	_	_	Strong=G2147|Align=positional
+4	τόπον	τόπος	_	_	_	_	_	Strong=G5117|Align=positional
+5	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+7	σκήνωμα	σκήνωμα	_	_	_	_	_	Strong=G4638|Align=exact
+8	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	θεῷ	θεός	_	_	_	_	_	Strong=G2316|Align=positional
+10	Ἰακώβ	Ἰακώβ	_	_	_	_	_	Strong=G2384|Align=exact
+
+# ref = PSA.131.6
+1	ἰδοὺ	ἰδού	_	_	_	_	_	Strong=G2400|Align=exact
+2	ἠκούσαμεν	ἀκούω	_	_	_	_	_	Strong=G0191|Align=positional
+3	αὐτὴν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+4	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+5	Ἐφραθά	Εφραθα	_	_	_	_	_	Align=exact
+6	εὕρομεν	εὑρίσκω	_	_	_	_	_	Strong=G2147|Align=positional
+7	αὐτὴν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+8	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+9	ταῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	δασέσι	πεδίον	_	_	_	_	_	Align=positional
+11	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	δρυμοῦ	δρυμός	_	_	_	_	_	Align=positional
+
+# ref = PSA.131.7
+1	εἰσελεύσομαι	εἰσέρχομαι	_	_	_	_	_	Strong=G1525|Align=positional
+2	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+3	τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	σκηνώματα	σκήνωμα	_	_	_	_	_	Strong=G4638|Align=positional
+5	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+6	προσκυνήσομεν	προσκυνέω	_	_	_	_	_	Strong=G4352|Align=positional
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	τόπον	τόπος	_	_	_	_	_	Strong=G5117|Align=positional
+10	οὗ	ὅς	_	_	_	_	_	Strong=G3739|Align=positional
+11	ἔστησαν	ἵστημι	_	_	_	_	_	Strong=G2476|Align=positional
+12	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	πόδες	πούς	_	_	_	_	_	Strong=G4228|Align=positional
+14	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.131.8
+1	ἀνάστηθι	ἀνίστημι	_	_	_	_	_	Strong=G0450|Align=positional
+2	Κύριε	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+3	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+4	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	ἀνάπαυσίν	ἀνάπαυσις	_	_	_	_	_	Strong=G0372|Align=positional
+6	σου	σοῦ	_	_	_	_	_	Align=exact
+7	σὺ	σύ	_	_	_	_	_	Strong=G4771|Align=exact
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	κιβωτὸς	κιβωτός	_	_	_	_	_	Strong=G2787|Align=exact
+11	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ἁγιάσματός	ἁγίασμα	_	_	_	_	_	Align=positional
+13	σου	σοῦ	_	_	_	_	_	Align=exact
+
+# ref = PSA.131.9
+1	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	ἱερεῖς	ἱερεύς	_	_	_	_	_	Strong=G2409|Align=positional
+3	σου	σοῦ	_	_	_	_	_	Align=exact
+4	ἐνεδύσαντο	ἐνδύω	_	_	_	_	_	Strong=G1746|Align=positional
+5	δικαιοσύνην	δικαιοσύνη	_	_	_	_	_	Strong=G1343|Align=positional
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	ὅσιοί	ὅσιος	_	_	_	_	_	Strong=G3741|Align=positional
+9	σου	σοῦ	_	_	_	_	_	Align=exact
+10	ἀγαλλιάσονται	ἀγαλλιάω	_	_	_	_	_	Strong=G0021|Align=positional
+
+# ref = PSA.131.10
+1	ἕνεκεν	ἕνεκα	_	_	_	_	_	Strong=G1752|Align=positional
+2	Δαυεὶδ	Δαβίδ	_	_	_	_	_	Align=positional
+3	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	δούλου	δοῦλος	_	_	_	_	_	Strong=G1401|Align=positional
+5	σου	σοῦ	_	_	_	_	_	Align=exact
+6	μὴ	μή	_	_	_	_	_	Strong=G3361|Align=exact
+7	ἀποστρέψῃς	ἀποστρέφω	_	_	_	_	_	Strong=G0654|Align=positional
+8	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	πρόσωπον	πρόσωπον	_	_	_	_	_	Strong=G4383|Align=exact
+10	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	χριστοῦ	χριστός	_	_	_	_	_	Align=positional
+12	σου	σοῦ	_	_	_	_	_	Align=exact
+
+# ref = PSA.131.11
+1	ὤμοσεν	ὀμνύω	_	_	_	_	_	Strong=G3660|Align=positional
+2	Κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+3	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	Δαυεὶδ	Δαβίδ	_	_	_	_	_	Align=positional
+5	ἀλήθειαν	ἀλήθεια	_	_	_	_	_	Strong=G0225|Align=positional
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	οὐ	οὐ	_	_	_	_	_	Strong=G3756|Align=exact
+8	μὴ	μή	_	_	_	_	_	Strong=G3361|Align=exact
+9	ἀθετήσει	ἀθετέω	_	_	_	_	_	Strong=G0114|Align=positional
+10	αὐτήν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+11	Ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+12	καρποῦ	καρπός	_	_	_	_	_	Strong=G2590|Align=positional
+13	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	κοιλίας	κοιλία	_	_	_	_	_	Strong=G2836|Align=positional
+15	σου	σοῦ	_	_	_	_	_	Align=exact
+16	θήσομαι	τίθημι	_	_	_	_	_	Strong=G5087|Align=positional
+17	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+18	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+19	θρόνον	θρόνος	_	_	_	_	_	Strong=G2362|Align=positional
+20	σου	σοῦ	_	_	_	_	_	Align=exact
+
+# ref = PSA.131.12
+1	ἐὰν	ἐάν	_	_	_	_	_	Strong=G1437|Align=exact
+2	φυλάξωνται	φυλάσσω	_	_	_	_	_	Strong=G5442|Align=positional
+3	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	υἱοί	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+5	σου	σοῦ	_	_	_	_	_	Align=exact
+6	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	διαθήκην	διαθήκη	_	_	_	_	_	Strong=G1242|Align=positional
+8	μου	μου	_	_	_	_	_	Align=exact
+9	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+10	τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	μαρτύριά	μαρτύριον	_	_	_	_	_	Strong=G3142|Align=positional
+12	μου	μου	_	_	_	_	_	Align=exact
+13	ταῦτα	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+14	ἃ	ὅς	_	_	_	_	_	Strong=G3739|Align=positional
+15	διδάξω	διδάσκω	_	_	_	_	_	Strong=G1321|Align=positional
+16	αὐτούς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+17	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+18	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+19	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+20	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+21	ἕως	ἕως	_	_	_	_	_	Strong=G2193|Align=exact
+22	αἰῶνος	_	_	_	_	_	_	Align=unmatched
+23	καθιοῦνται	_	_	_	_	_	_	Align=unmatched
+24	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+25	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+26	θρόνον	θρόνος	_	_	_	_	_	Strong=G2362|Align=positional
+27	σου	σοῦ	_	_	_	_	_	Align=exact,source_extra:3
+
+# ref = PSA.131.13
+1	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+2	ἐξελέξατο	ἐκλέγω	_	_	_	_	_	Align=positional
+3	Κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+4	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	Σιών	Σιών	_	_	_	_	_	Strong=G4622|Align=exact
+6	ᾑρετίσατο	αἱρετίζω	_	_	_	_	_	Strong=G0140|Align=positional
+7	αὐτὴν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+8	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+9	κατοικίαν	κατοικία	_	_	_	_	_	Strong=G2733|Align=positional
+10	ἑαυτῷ	ἑαυτοῦ	_	_	_	_	_	Strong=G1438|Align=positional
+
+# ref = PSA.131.14
+1	αὕτη	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+2	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	κατάπαυσίς	κατάπαυσις	_	_	_	_	_	Strong=G2663|Align=exact
+4	μου	μου	_	_	_	_	_	Align=exact
+5	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+6	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+7	αἰῶνος	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+8	ὧδε	ὧδε	_	_	_	_	_	Strong=G5602|Align=exact
+9	κατοικήσω	κατοικέω	_	_	_	_	_	Strong=G2730|Align=positional
+10	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+11	ᾑρετισάμην	αἱρετίζω	_	_	_	_	_	Strong=G0140|Align=positional
+12	αὐτήν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.131.15
+1	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	χήραν	θήρα	_	_	_	_	_	Strong=G2339|Align=positional
+3	αὐτῆς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+4	εὐλογῶν	εὐλογέω	_	_	_	_	_	Strong=G2127|Align=positional
+5	εὐλογήσω	εὐλογέω	_	_	_	_	_	Strong=G2127|Align=positional
+6	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	πτωχοὺς	πτωχός	_	_	_	_	_	Strong=G4434|Align=positional
+8	αὐτῆς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+9	χορτάσω	χορτάζω	_	_	_	_	_	Strong=G5526|Align=positional
+10	ἄρτων	ἄρτος	_	_	_	_	_	Strong=G0740|Align=positional
+
+# ref = PSA.131.16
+1	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	ἱερεῖς	ἱερεύς	_	_	_	_	_	Strong=G2409|Align=positional
+3	αὐτῆς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+4	ἐνδύσω	ἐνδύω	_	_	_	_	_	Strong=G1746|Align=positional
+5	σωτηρίαν	σωτηρία	_	_	_	_	_	Strong=G4991|Align=positional
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	ὅσιοι	ὅσιος	_	_	_	_	_	Strong=G3741|Align=positional
+9	αὐτῆς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+10	ἀγαλλιάσει	ἀγαλλίασις	_	_	_	_	_	Strong=G0020|Align=positional
+11	ἀγαλλιάσονται	ἀγαλλιάω	_	_	_	_	_	Strong=G0021|Align=positional
+
+# ref = PSA.131.17
+1	ἐκεῖ	ἐκεῖ	_	_	_	_	_	Strong=G1563|Align=exact
+2	ἐξανατελῶ	ἐξανατέλλω	_	_	_	_	_	Strong=G1816|Align=positional
+3	κέρας	κέρας	_	_	_	_	_	Strong=G2768|Align=exact
+4	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	Δαυείδ	Δαβίδ	_	_	_	_	_	Align=positional
+6	ἡτοίμασα	ἑτοιμάζω	_	_	_	_	_	Strong=G2090|Align=positional
+7	λύχνον	λύχνος	_	_	_	_	_	Strong=G3088|Align=positional
+8	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	χριστῷ	χριστός	_	_	_	_	_	Align=positional
+10	σου	μου	_	_	_	_	_	Align=positional
+
+# ref = PSA.131.18
+1	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	ἐχθροὺς	ἐχθρός	_	_	_	_	_	Strong=G2190|Align=positional
+3	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+4	ἐνδύσω	ἐνδύω	_	_	_	_	_	Strong=G1746|Align=positional
+5	αἰσχύνην	αἰσχύνη	_	_	_	_	_	Strong=G0152|Align=positional
+6	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+7	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+8	αὐτὸν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+9	ἐξανθήσει	ἐξανθέω	_	_	_	_	_	Align=positional
+10	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	ἁγίασμά	ἁγίασμα	_	_	_	_	_	Align=exact
+12	μου	μου	_	_	_	_	_	Align=exact
+

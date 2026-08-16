@@ -1,0 +1,574 @@
+# ref = NEH.10.1
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐπὶ	ἐν	_	_	_	_	_	Strong=G1722|Align=positional
+3	τῶν	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+4	σφραγιζόντων	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+5	Νεεμίας	ἡμεῖς	_	_	_	_	_	Align=positional
+6	υἱὸς	διατίθεμαι	_	_	_	_	_	Strong=G1303|Align=positional
+7	Ἁχελιά	πίστις	_	_	_	_	_	Strong=G4102|Align=positional
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	Σεδεκίας	_	_	_	_	_	_	Align=unmatched,source_extra:10
+
+# ref = NEH.10.2
+1	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+2	Σαραιά	Αχαλια	_	_	_	_	_	Align=positional
+3	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+4	Ἀζαριά	_	_	_	_	_	_	Align=unmatched
+5	καὶ	_	_	_	_	_	_	Align=unmatched
+6	Ἰερμιά	_	_	_	_	_	_	Align=unmatched,source_extra:6
+
+# ref = NEH.10.3
+1	Φασούρ	_	_	_	_	_	_	Align=unmatched
+2	Ἀμαριά	_	_	_	_	_	_	Align=unmatched
+3	Μελχειά	_	_	_	_	_	_	Align=unmatched,source_extra:6
+
+# ref = NEH.10.4
+1	Τούς	Φασουρ	_	_	_	_	_	Align=positional
+2	Ἐβανεί	Αμαρια	_	_	_	_	_	Align=positional
+3	Μαλούχ	Μελχια	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.5
+1	Εἱράμ	Ατους	_	_	_	_	_	Align=positional
+2	Ἀμεραμώς	Σεβανι	_	_	_	_	_	Align=positional
+3	Ἀβδειά	Μαλουχ	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.6
+1	Δανιήλ	Ιραμ	_	_	_	_	_	Align=positional
+2	Τνατόθ	Μεραμωθ	_	_	_	_	_	Align=positional
+3	Βαρούχ	Αβδια	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.7
+1	Μεσουλάμ	Δανιήλ	_	_	_	_	_	Strong=G1158|Align=positional
+2	Ἀβειά	Γαναθων	_	_	_	_	_	Align=positional
+3	Μιαμείμ	Βαρουχ	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.8
+1	Ναδειά	_	_	_	_	_	_	Align=unmatched
+2	Βελσειά	_	_	_	_	_	_	Align=unmatched
+3	Σαμαιά	_	_	_	_	_	_	Align=unmatched
+4	οὗτοι	_	_	_	_	_	_	Align=unmatched
+5	ἱερεῖς	_	_	_	_	_	_	Align=unmatched,source_extra:3
+
+# ref = NEH.10.9
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	οἱ	_	_	_	_	_	_	Align=unmatched
+3	Λευεῖται	_	_	_	_	_	_	Align=unmatched
+4	Ἰησοῦς	_	_	_	_	_	_	Align=unmatched
+5	υἱὸς	_	_	_	_	_	_	Align=unmatched
+6	Ἀζανειά	_	_	_	_	_	_	Align=unmatched
+7	Βαναιοὺ	_	_	_	_	_	_	Align=unmatched
+8	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+9	υἱῶν	_	_	_	_	_	_	Align=unmatched
+10	Ἡναδάβ	_	_	_	_	_	_	Align=unmatched
+11	Καδμιὴλ	_	_	_	_	_	_	Align=unmatched,source_extra:5
+
+# ref = NEH.10.10
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	οἱ	_	_	_	_	_	_	Align=unmatched
+3	ἀδελφοὶ	_	_	_	_	_	_	Align=unmatched
+4	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+5	Σαβανιά	_	_	_	_	_	_	Align=unmatched
+6	Ὡδουιά	_	_	_	_	_	_	Align=unmatched
+7	Καντά	_	_	_	_	_	_	Align=unmatched,source_extra:10
+
+# ref = NEH.10.12
+1	Ζαχώρ	Μιχα	_	_	_	_	_	Align=positional
+2	Ζαραβιά	Ροωβ	_	_	_	_	_	Align=positional
+3	Σεβανιά	Εσεβιας	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.13
+1	Ὡδούμ	Ζαχωρ	_	_	_	_	_	Align=positional
+2	υἱοὶ	Σαραβια	_	_	_	_	_	Align=positional
+3	Βενιαμείν	Σεβανια	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.14
+1	ἄρχοντες	_	_	_	_	_	_	Align=unmatched
+2	τοῦ	_	_	_	_	_	_	Align=unmatched
+3	λαοῦ	_	_	_	_	_	_	Align=unmatched
+4	Φόρος	_	_	_	_	_	_	Align=unmatched
+5	Φααδμωάβ	_	_	_	_	_	_	Align=unmatched
+6	Ἠλάμ	_	_	_	_	_	_	Align=unmatched
+7	Ζαθουιά	_	_	_	_	_	_	Align=unmatched
+8	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+9	Βανί	_	_	_	_	_	_	Align=unmatched,source_extra:3
+
+# ref = NEH.10.15
+1	Ἀσγάδ	_	_	_	_	_	_	Align=unmatched
+2	Βηδαί	_	_	_	_	_	_	Align=unmatched,source_extra:8
+
+# ref = NEH.10.16
+1	Ἐδανιά	Βανι	_	_	_	_	_	Align=positional
+2	Βαγοσί	Ασγαδ	_	_	_	_	_	Align=positional
+3	Ἠδείν	Βηβαί	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.17
+1	Ἀδήρ	Εδανια	_	_	_	_	_	Align=positional
+2	Ἑζεκιά	Βαγοι	_	_	_	_	_	Align=positional
+3	Ἀδούρ	Ηδιν	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.18
+1	Ὁδουιά	Ατηρ	_	_	_	_	_	Align=positional
+2	Ἡσάμ	Εζεκια	_	_	_	_	_	Align=positional
+3	Βησεί	Αζουρ	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.19
+1	Ἁρείφ	Οδουια	_	_	_	_	_	Align=positional
+2	Ἀναθώθ	Ησαμ	_	_	_	_	_	Align=positional
+3	Βωναί	Βησι	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.20
+1	Βαγαφής	Αριφ	_	_	_	_	_	Align=positional
+2	Μεσουλάμ	Αναθωθ	_	_	_	_	_	Align=positional
+3	Ἡζείρ	Νωβαι	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.21
+1	Μεσωζεβήλ	_	_	_	_	_	_	Align=unmatched
+2	Σαδδούκ	_	_	_	_	_	_	Align=unmatched,source_extra:3
+
+# ref = NEH.10.22
+1	Φαλτιά	Μεσωζεβηλ	_	_	_	_	_	Align=positional
+2	Ἁνάν	Σαδδουκ	_	_	_	_	_	Align=positional
+3	Αἰά	Ιεδδουα	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.23
+1	Ὡσηθά	Φαλτια	_	_	_	_	_	Align=positional
+2	Ἁνανιά	Αναν	_	_	_	_	_	Align=positional
+3	Ἁσούθ	Αναια	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.24
+1	Ἁλωής	Ὡσηέ	_	_	_	_	_	Strong=G5617|Align=positional
+2	Φαδαείς	Ἀνανίας	_	_	_	_	_	Strong=G0367|Align=positional
+3	Σωβήκ	Ασουβ	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.25
+1	Ῥαούμ	Αλωης	_	_	_	_	_	Align=positional
+2	Ἑσαβανά	Φαλαϊ	_	_	_	_	_	Align=positional
+3	Μαασαιὰ	Σωβηκ	_	_	_	_	_	Align=positional
+
+# ref = NEH.10.26
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	Ἀρά	_	_	_	_	_	_	Align=unmatched
+3	Αἱνάν	_	_	_	_	_	_	Align=unmatched
+4	Ἠνάμ	_	_	_	_	_	_	Align=unmatched,source_extra:3
+
+# ref = NEH.10.27
+1	Μαλούχ	_	_	_	_	_	_	Align=unmatched
+2	Ἡράμ	_	_	_	_	_	_	Align=unmatched
+3	Βαανά	_	_	_	_	_	_	Align=unmatched,source_extra:4
+
+# ref = NEH.10.28
+1	Καὶ	_	_	_	_	_	_	Align=unmatched
+2	οἱ	_	_	_	_	_	_	Align=unmatched
+3	κατάλοιποι	_	_	_	_	_	_	Align=unmatched
+4	τοῦ	_	_	_	_	_	_	Align=unmatched
+5	λαοῦ	_	_	_	_	_	_	Align=unmatched
+6	οἱ	_	_	_	_	_	_	Align=unmatched
+7	ἱερεῖς	_	_	_	_	_	_	Align=unmatched
+8	οἱ	_	_	_	_	_	_	Align=unmatched
+9	Λευεῖται	_	_	_	_	_	_	Align=unmatched
+10	οἱ	_	_	_	_	_	_	Align=unmatched
+11	πυλωροί	_	_	_	_	_	_	Align=unmatched
+12	οἱ	_	_	_	_	_	_	Align=unmatched
+13	ᾄδοντες	_	_	_	_	_	_	Align=unmatched
+14	οἱ	_	_	_	_	_	_	Align=unmatched
+15	Ναθινείμ	_	_	_	_	_	_	Align=unmatched
+16	καὶ	_	_	_	_	_	_	Align=unmatched
+17	πᾶς	_	_	_	_	_	_	Align=unmatched
+18	ὁ	_	_	_	_	_	_	Align=unmatched
+19	προσπορευόμενος	_	_	_	_	_	_	Align=unmatched
+20	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+21	λαῶν	_	_	_	_	_	_	Align=unmatched
+22	τῆς	_	_	_	_	_	_	Align=unmatched
+23	γῆς	_	_	_	_	_	_	Align=unmatched
+24	πρὸς	_	_	_	_	_	_	Align=unmatched
+25	νόμον	_	_	_	_	_	_	Align=unmatched
+26	τοῦ	_	_	_	_	_	_	Align=unmatched
+27	θεοῦ	_	_	_	_	_	_	Align=unmatched
+28	γυναῖκες	_	_	_	_	_	_	Align=unmatched
+29	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+30	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+31	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+32	θυγατέρες	_	_	_	_	_	_	Align=unmatched
+33	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+34	πᾶς	_	_	_	_	_	_	Align=unmatched
+35	ὁ	_	_	_	_	_	_	Align=unmatched
+36	εἰδὼς	_	_	_	_	_	_	Align=unmatched
+37	καὶ	_	_	_	_	_	_	Align=unmatched
+38	συνίων	_	_	_	_	_	_	Align=unmatched,source_extra:3
+
+# ref = NEH.10.29
+1	ἐνίσχυον	_	_	_	_	_	_	Align=unmatched
+2	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+3	τοὺς	_	_	_	_	_	_	Align=unmatched
+4	ἀδελφοὺς	_	_	_	_	_	_	Align=unmatched
+5	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+6	κατηράσαντο	_	_	_	_	_	_	Align=unmatched
+7	αὐτοὺς	_	_	_	_	_	_	Align=unmatched
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	εἰσήλθοσαν	_	_	_	_	_	_	Align=unmatched
+10	ἐν	_	_	_	_	_	_	Align=unmatched
+11	ἀρᾷ	_	_	_	_	_	_	Align=unmatched
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	ἐν	_	_	_	_	_	_	Align=unmatched
+14	ὅρκῳ	_	_	_	_	_	_	Align=unmatched
+15	Τοῦ	_	_	_	_	_	_	Align=unmatched
+16	πορεύεσθαι	_	_	_	_	_	_	Align=unmatched
+17	ἐν	_	_	_	_	_	_	Align=unmatched
+18	νόμῳ	_	_	_	_	_	_	Align=unmatched
+19	τοῦ	_	_	_	_	_	_	Align=unmatched
+20	θεοῦ	_	_	_	_	_	_	Align=unmatched
+21	ὃς	_	_	_	_	_	_	Align=unmatched
+22	ἐδόθη	_	_	_	_	_	_	Align=unmatched
+23	ἐν	_	_	_	_	_	_	Align=unmatched
+24	χειρὶ	_	_	_	_	_	_	Align=unmatched
+25	Μωυσῆ	_	_	_	_	_	_	Align=unmatched
+26	δούλου	_	_	_	_	_	_	Align=unmatched
+27	τοῦ	_	_	_	_	_	_	Align=unmatched
+28	θεοῦ	_	_	_	_	_	_	Align=unmatched
+29	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+30	φυλάσσεσθαι	_	_	_	_	_	_	Align=unmatched
+31	καὶ	_	_	_	_	_	_	Align=unmatched
+32	ποιεῖν	_	_	_	_	_	_	Align=unmatched
+33	πάσας	_	_	_	_	_	_	Align=unmatched
+34	τὰς	_	_	_	_	_	_	Align=unmatched
+35	ἐντολὰς	_	_	_	_	_	_	Align=unmatched
+36	ἡμῶν	_	_	_	_	_	_	Align=unmatched
+37	καὶ	_	_	_	_	_	_	Align=unmatched
+38	κρίματα	_	_	_	_	_	_	Align=unmatched
+39	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:35
+
+# ref = NEH.10.30
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τοῦ	_	_	_	_	_	_	Align=unmatched
+3	μὴ	_	_	_	_	_	_	Align=unmatched
+4	δοῦναι	_	_	_	_	_	_	Align=unmatched
+5	θυγατέρας	_	_	_	_	_	_	Align=unmatched
+6	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+7	τοῖς	_	_	_	_	_	_	Align=unmatched
+8	λαοῖς	_	_	_	_	_	_	Align=unmatched
+9	τῆς	_	_	_	_	_	_	Align=unmatched
+10	γῆς	_	_	_	_	_	_	Align=unmatched
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	τὰς	_	_	_	_	_	_	Align=unmatched
+13	θυγατέρας	_	_	_	_	_	_	Align=unmatched
+14	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+15	οὐ	_	_	_	_	_	_	Align=unmatched
+16	λημψόμεθα	_	_	_	_	_	_	Align=unmatched
+17	τοῖς	_	_	_	_	_	_	Align=unmatched
+18	υἱοῖς	_	_	_	_	_	_	Align=unmatched
+19	ἡμῶν	_	_	_	_	_	_	Align=unmatched,source_extra:37
+
+# ref = NEH.10.31
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	λαοὶ	_	_	_	_	_	_	Align=unmatched
+3	τῆς	_	_	_	_	_	_	Align=unmatched
+4	γῆς	_	_	_	_	_	_	Align=unmatched
+5	οἱ	_	_	_	_	_	_	Align=unmatched
+6	φέροντες	_	_	_	_	_	_	Align=unmatched
+7	τοὺς	_	_	_	_	_	_	Align=unmatched
+8	ἀγορασμοὺς	_	_	_	_	_	_	Align=unmatched
+9	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+10	πᾶσαν	_	_	_	_	_	_	Align=unmatched
+11	πρᾶσιν	_	_	_	_	_	_	Align=unmatched
+12	ἐν	_	_	_	_	_	_	Align=unmatched
+13	ἡμέρᾳ	_	_	_	_	_	_	Align=unmatched
+14	τοῦ	_	_	_	_	_	_	Align=unmatched
+15	σαββάτου	_	_	_	_	_	_	Align=unmatched
+16	ἀποδόσθαι	_	_	_	_	_	_	Align=unmatched
+17	οὐκ	_	_	_	_	_	_	Align=unmatched
+18	ἀγορῶμεν	_	_	_	_	_	_	Align=unmatched
+19	παρ᾽	_	_	_	_	_	_	Align=unmatched
+20	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+21	ἐν	_	_	_	_	_	_	Align=unmatched
+22	σαββάτῳ	_	_	_	_	_	_	Align=unmatched
+23	καὶ	_	_	_	_	_	_	Align=unmatched
+24	ἐν	_	_	_	_	_	_	Align=unmatched
+25	ἡμέρᾳ	_	_	_	_	_	_	Align=unmatched
+26	ἁγίᾳ	_	_	_	_	_	_	Align=unmatched
+27	καὶ	_	_	_	_	_	_	Align=unmatched
+28	ἀνήσομεν	_	_	_	_	_	_	Align=unmatched
+29	τὸ	_	_	_	_	_	_	Align=unmatched
+30	ἔτος	_	_	_	_	_	_	Align=unmatched
+31	τὸ	_	_	_	_	_	_	Align=unmatched
+32	ζ᾽	_	_	_	_	_	_	Align=unmatched
+33	καὶ	_	_	_	_	_	_	Align=unmatched
+34	ἀπαίτησιν	_	_	_	_	_	_	Align=unmatched
+35	πάσης	_	_	_	_	_	_	Align=unmatched
+36	χειρός	_	_	_	_	_	_	Align=unmatched,source_extra:17
+
+# ref = NEH.10.32
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ποιήσομεν	_	_	_	_	_	_	Align=unmatched
+3	ἐφ᾽	_	_	_	_	_	_	Align=unmatched
+4	ἡμᾶς	_	_	_	_	_	_	Align=unmatched
+5	ἐντολάς	_	_	_	_	_	_	Align=unmatched
+6	δοῦναι	_	_	_	_	_	_	Align=unmatched
+7	ἐφ᾽	_	_	_	_	_	_	Align=unmatched
+8	ἡμᾶς	_	_	_	_	_	_	Align=unmatched
+9	τρίτον	_	_	_	_	_	_	Align=unmatched
+10	τοῦ	_	_	_	_	_	_	Align=unmatched
+11	διδράχμου	_	_	_	_	_	_	Align=unmatched
+12	κατ᾽	_	_	_	_	_	_	Align=unmatched
+13	ἐνιαυτὸν	_	_	_	_	_	_	Align=unmatched
+14	εἰς	_	_	_	_	_	_	Align=unmatched
+15	δουλείαν	_	_	_	_	_	_	Align=unmatched
+16	οἴκου	_	_	_	_	_	_	Align=unmatched
+17	θεοῦ	_	_	_	_	_	_	Align=unmatched
+18	ἡμῶν	_	_	_	_	_	_	Align=unmatched,source_extra:35
+
+# ref = NEH.10.33
+1	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+2	ἄρτους	_	_	_	_	_	_	Align=unmatched
+3	τοῦ	_	_	_	_	_	_	Align=unmatched
+4	προσώπου	_	_	_	_	_	_	Align=unmatched
+5	καὶ	_	_	_	_	_	_	Align=unmatched
+6	θυσίαν	_	_	_	_	_	_	Align=unmatched
+7	τοῦ	_	_	_	_	_	_	Align=unmatched
+8	ἐνδελεχισμοῦ	_	_	_	_	_	_	Align=unmatched
+9	καὶ	_	_	_	_	_	_	Align=unmatched
+10	εἰς	_	_	_	_	_	_	Align=unmatched
+11	ὁλοκαύτωμα	_	_	_	_	_	_	Align=unmatched
+12	τοῦ	_	_	_	_	_	_	Align=unmatched
+13	ἐνδελεχισμοῦ	_	_	_	_	_	_	Align=unmatched
+14	τῶν	_	_	_	_	_	_	Align=unmatched
+15	σαββάτων	_	_	_	_	_	_	Align=unmatched
+16	τῶν	_	_	_	_	_	_	Align=unmatched
+17	νουμηνιῶν	_	_	_	_	_	_	Align=unmatched
+18	εἰς	_	_	_	_	_	_	Align=unmatched
+19	τὰς	_	_	_	_	_	_	Align=unmatched
+20	ἑορτὰς	_	_	_	_	_	_	Align=unmatched
+21	καὶ	_	_	_	_	_	_	Align=unmatched
+22	εἰς	_	_	_	_	_	_	Align=unmatched
+23	τὰ	_	_	_	_	_	_	Align=unmatched
+24	ἅγια	_	_	_	_	_	_	Align=unmatched
+25	καὶ	_	_	_	_	_	_	Align=unmatched
+26	τὰ	_	_	_	_	_	_	Align=unmatched
+27	περὶ	_	_	_	_	_	_	Align=unmatched
+28	ἁμαρτίας	_	_	_	_	_	_	Align=unmatched
+29	ἐξιλάσασθαι	_	_	_	_	_	_	Align=unmatched
+30	περὶ	_	_	_	_	_	_	Align=unmatched
+31	Ἰσραήλ	_	_	_	_	_	_	Align=unmatched
+32	καὶ	_	_	_	_	_	_	Align=unmatched
+33	εἰς	_	_	_	_	_	_	Align=unmatched
+34	ἔργα	_	_	_	_	_	_	Align=unmatched
+35	οἴκου	_	_	_	_	_	_	Align=unmatched
+36	θεοῦ	_	_	_	_	_	_	Align=unmatched
+37	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact,source_extra:16
+
+# ref = NEH.10.34
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	κλήρους	_	_	_	_	_	_	Align=unmatched
+3	ἐβάλομεν	_	_	_	_	_	_	Align=unmatched
+4	περὶ	_	_	_	_	_	_	Align=unmatched
+5	κλήρου	_	_	_	_	_	_	Align=unmatched
+6	ξυλοφορίας	_	_	_	_	_	_	Align=unmatched
+7	οἱ	_	_	_	_	_	_	Align=unmatched
+8	ἱερεῖς	_	_	_	_	_	_	Align=unmatched
+9	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+10	οἱ	_	_	_	_	_	_	Align=unmatched
+11	Λευεῖται	_	_	_	_	_	_	Align=unmatched
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+14	λαὸς	_	_	_	_	_	_	Align=unmatched
+15	ἐνέγκαι	_	_	_	_	_	_	Align=unmatched
+16	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+17	οἶκον	_	_	_	_	_	_	Align=unmatched
+18	θεοῦ	_	_	_	_	_	_	Align=unmatched
+19	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+20	εἰς	_	_	_	_	_	_	Align=unmatched
+21	οἶκον	_	_	_	_	_	_	Align=unmatched
+22	πατριῶν	_	_	_	_	_	_	Align=unmatched
+23	ἡμῶν	_	_	_	_	_	_	Align=unmatched
+24	εἰς	_	_	_	_	_	_	Align=unmatched
+25	καιροὺς	_	_	_	_	_	_	Align=unmatched
+26	χρόνων	_	_	_	_	_	_	Align=unmatched
+27	ἐνιαυτὸν	_	_	_	_	_	_	Align=unmatched
+28	κατ᾽	_	_	_	_	_	_	Align=unmatched
+29	ἐνιαυτόν	_	_	_	_	_	_	Align=unmatched
+30	ἐκκαῦσαι	_	_	_	_	_	_	Align=unmatched
+31	περὶ	_	_	_	_	_	_	Align=unmatched
+32	τὸ	_	_	_	_	_	_	Align=unmatched
+33	θυσιαστήριον	_	_	_	_	_	_	Align=unmatched
+34	τοῦ	_	_	_	_	_	_	Align=unmatched
+35	θεοῦ	_	_	_	_	_	_	Align=unmatched
+36	ἡμῶν	_	_	_	_	_	_	Align=unmatched
+37	ὡς	_	_	_	_	_	_	Align=unmatched
+38	γέγραπται	_	_	_	_	_	_	Align=unmatched
+39	ἐν	_	_	_	_	_	_	Align=unmatched
+40	βιβλίῳ	_	_	_	_	_	_	Align=unmatched,source_extra:31
+
+# ref = NEH.10.35
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐνέγκαι	_	_	_	_	_	_	Align=unmatched
+3	τὰ	_	_	_	_	_	_	Align=unmatched
+4	πρωτογενήματα	_	_	_	_	_	_	Align=unmatched
+5	τῆς	_	_	_	_	_	_	Align=unmatched
+6	γῆς	_	_	_	_	_	_	Align=unmatched
+7	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+8	καὶ	_	_	_	_	_	_	Align=unmatched
+9	πρωτογενήματα	_	_	_	_	_	_	Align=unmatched
+10	καρποῦ	_	_	_	_	_	_	Align=unmatched
+11	παντὸς	_	_	_	_	_	_	Align=unmatched
+12	ξύλου	_	_	_	_	_	_	Align=unmatched
+13	ἐνιαυτὸν	_	_	_	_	_	_	Align=unmatched
+14	κατ᾽	_	_	_	_	_	_	Align=unmatched
+15	ἐνιαυτὸν	_	_	_	_	_	_	Align=unmatched
+16	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+17	οἶκον	_	_	_	_	_	_	Align=unmatched,source_extra:39
+
+# ref = NEH.10.36
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὰ	_	_	_	_	_	_	Align=unmatched
+3	πρωτότοκα	_	_	_	_	_	_	Align=unmatched
+4	υἱῶν	_	_	_	_	_	_	Align=unmatched
+5	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	κτηνῶν	_	_	_	_	_	_	Align=unmatched
+8	ἡμῶν	_	_	_	_	_	_	Align=unmatched
+9	ὡς	_	_	_	_	_	_	Align=unmatched
+10	γέγραπται	_	_	_	_	_	_	Align=unmatched
+11	ἐν	_	_	_	_	_	_	Align=unmatched
+12	τῷ	_	_	_	_	_	_	Align=unmatched
+13	νόμῳ	_	_	_	_	_	_	Align=unmatched
+14	καὶ	_	_	_	_	_	_	Align=unmatched
+15	τὰ	_	_	_	_	_	_	Align=unmatched
+16	πρωτότοκα	_	_	_	_	_	_	Align=unmatched
+17	βοῶν	_	_	_	_	_	_	Align=unmatched
+18	ἡμῶν	_	_	_	_	_	_	Align=unmatched
+19	καὶ	_	_	_	_	_	_	Align=unmatched
+20	ποιμνίων	_	_	_	_	_	_	Align=unmatched
+21	ἡμῶν	_	_	_	_	_	_	Align=unmatched
+22	ἐνέγκαι	_	_	_	_	_	_	Align=unmatched
+23	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+24	οἶκον	_	_	_	_	_	_	Align=unmatched
+25	θεοῦ	_	_	_	_	_	_	Align=unmatched
+26	ἡμῶν	_	_	_	_	_	_	Align=unmatched
+27	τοῖς	_	_	_	_	_	_	Align=unmatched
+28	ἱερεῦσιν	_	_	_	_	_	_	Align=unmatched
+29	τοῖς	_	_	_	_	_	_	Align=unmatched
+30	λειτουργοῦσιν	_	_	_	_	_	_	Align=unmatched
+31	ἐν	_	_	_	_	_	_	Align=unmatched
+32	οἴκῳ	_	_	_	_	_	_	Align=unmatched
+33	θεοῦ	_	_	_	_	_	_	Align=unmatched
+34	ἡμῶν	_	_	_	_	_	_	Align=unmatched,source_extra:14
+
+# ref = NEH.10.37
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ἀπαρχὴν	πρωτότοκος	_	_	_	_	_	Strong=G4416|Align=positional
+4	σίτων	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+5	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	τὸν	_	_	_	_	_	_	Align=unmatched
+8	καρπὸν	_	_	_	_	_	_	Align=unmatched
+9	παντὸς	_	_	_	_	_	_	Align=unmatched
+10	ξύλου	_	_	_	_	_	_	Align=unmatched
+11	οἴνου	_	_	_	_	_	_	Align=unmatched
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	ἐλαίου	_	_	_	_	_	_	Align=unmatched
+14	οἴσομεν	_	_	_	_	_	_	Align=unmatched
+15	τοῖς	_	_	_	_	_	_	Align=unmatched
+16	ἱερεῦσι	_	_	_	_	_	_	Align=unmatched
+17	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+18	γαζοφυλάκιον	_	_	_	_	_	_	Align=unmatched
+19	οἴκου	_	_	_	_	_	_	Align=unmatched
+20	τοῦ	_	_	_	_	_	_	Align=unmatched
+21	θεοῦ	_	_	_	_	_	_	Align=unmatched
+22	καὶ	_	_	_	_	_	_	Align=unmatched
+23	δεκάτην	_	_	_	_	_	_	Align=unmatched
+24	γῆς	_	_	_	_	_	_	Align=unmatched
+25	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+26	τοῖς	_	_	_	_	_	_	Align=unmatched
+27	Λευείταις	_	_	_	_	_	_	Align=unmatched
+28	καὶ	_	_	_	_	_	_	Align=unmatched
+29	αὐτοὶ	_	_	_	_	_	_	Align=unmatched
+30	οἱ	_	_	_	_	_	_	Align=unmatched
+31	Λευεῖται	_	_	_	_	_	_	Align=unmatched
+32	δεκατοῦντες	_	_	_	_	_	_	Align=unmatched
+33	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+34	πάσαις	_	_	_	_	_	_	Align=unmatched
+35	πόλεσιν	_	_	_	_	_	_	Align=unmatched
+36	δουλείας	_	_	_	_	_	_	Align=unmatched
+37	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact,source_extra:23
+
+# ref = NEH.10.38
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἔσται	_	_	_	_	_	_	Align=unmatched
+3	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+4	ἱερεὺς	ἱερεύς	_	_	_	_	_	Strong=G2409|Align=exact
+5	Ἀαρὼν	_	_	_	_	_	_	Align=unmatched
+6	μετὰ	_	_	_	_	_	_	Align=unmatched
+7	τοῦ	_	_	_	_	_	_	Align=unmatched
+8	Λευείτου	_	_	_	_	_	_	Align=unmatched
+9	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+10	τῇ	_	_	_	_	_	_	Align=unmatched
+11	δεκάτῃ	_	_	_	_	_	_	Align=unmatched
+12	τοῦ	_	_	_	_	_	_	Align=unmatched
+13	Λευείτου	_	_	_	_	_	_	Align=unmatched
+14	καὶ	_	_	_	_	_	_	Align=unmatched
+15	οἱ	_	_	_	_	_	_	Align=unmatched
+16	Λευεῖται	_	_	_	_	_	_	Align=unmatched
+17	ἀνοίσουσιν	_	_	_	_	_	_	Align=unmatched
+18	τὴν	_	_	_	_	_	_	Align=unmatched
+19	δεκάτην	_	_	_	_	_	_	Align=unmatched
+20	τῆς	_	_	_	_	_	_	Align=unmatched
+21	δεκάδος	_	_	_	_	_	_	Align=unmatched
+22	εἰς	_	_	_	_	_	_	Align=unmatched
+23	οἶκον	_	_	_	_	_	_	Align=unmatched
+24	θεοῦ	_	_	_	_	_	_	Align=unmatched
+25	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+26	εἰς	_	_	_	_	_	_	Align=unmatched
+27	τὰ	_	_	_	_	_	_	Align=unmatched
+28	γαζοφυλάκια	_	_	_	_	_	_	Align=unmatched
+29	εἰς	_	_	_	_	_	_	Align=unmatched
+30	οἶκον	_	_	_	_	_	_	Align=unmatched
+31	τοῦ	_	_	_	_	_	_	Align=unmatched
+32	θεοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:32
+
+# ref = NEH.10.39
+1	ὅτι	_	_	_	_	_	_	Align=unmatched
+2	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+3	τοὺς	_	_	_	_	_	_	Align=unmatched
+4	θησαυροὺς	_	_	_	_	_	_	Align=unmatched
+5	οἴσουσιν	_	_	_	_	_	_	Align=unmatched
+6	οἱ	_	_	_	_	_	_	Align=unmatched
+7	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+8	Ἰσραὴλ	_	_	_	_	_	_	Align=unmatched
+9	καὶ	_	_	_	_	_	_	Align=unmatched
+10	οἱ	_	_	_	_	_	_	Align=unmatched
+11	Λευεῖται	_	_	_	_	_	_	Align=unmatched
+12	ἀπαρχὰς	_	_	_	_	_	_	Align=unmatched
+13	τοῦ	_	_	_	_	_	_	Align=unmatched
+14	σίτου	_	_	_	_	_	_	Align=unmatched
+15	καὶ	_	_	_	_	_	_	Align=unmatched
+16	τοῦ	_	_	_	_	_	_	Align=unmatched
+17	οἴνου	_	_	_	_	_	_	Align=unmatched
+18	καὶ	_	_	_	_	_	_	Align=unmatched
+19	τοῦ	_	_	_	_	_	_	Align=unmatched
+20	ἐλαίου	_	_	_	_	_	_	Align=unmatched
+21	καὶ	_	_	_	_	_	_	Align=unmatched
+22	ἐκεῖ	_	_	_	_	_	_	Align=unmatched
+23	σκεύη	_	_	_	_	_	_	Align=unmatched
+24	τὰ	_	_	_	_	_	_	Align=unmatched
+25	ἅγια	_	_	_	_	_	_	Align=unmatched
+26	καὶ	_	_	_	_	_	_	Align=unmatched
+27	οἱ	_	_	_	_	_	_	Align=unmatched
+28	ἱερεῖς	_	_	_	_	_	_	Align=unmatched
+29	καὶ	_	_	_	_	_	_	Align=unmatched
+30	οἱ	_	_	_	_	_	_	Align=unmatched
+31	λειτουργοὶ	_	_	_	_	_	_	Align=unmatched
+32	καὶ	_	_	_	_	_	_	Align=unmatched
+33	οἱ	_	_	_	_	_	_	Align=unmatched
+34	πυλωροὶ	_	_	_	_	_	_	Align=unmatched
+35	καὶ	_	_	_	_	_	_	Align=unmatched
+36	οἱ	_	_	_	_	_	_	Align=unmatched
+37	ᾄδοντες	_	_	_	_	_	_	Align=unmatched
+38	καὶ	_	_	_	_	_	_	Align=unmatched
+39	οὐκ	_	_	_	_	_	_	Align=unmatched
+40	ἐνκαταλείψομεν	_	_	_	_	_	_	Align=unmatched
+41	τὸν	_	_	_	_	_	_	Align=unmatched
+42	οἶκον	_	_	_	_	_	_	Align=unmatched
+43	τοῦ	_	_	_	_	_	_	Align=unmatched
+44	θεοῦ	_	_	_	_	_	_	Align=unmatched
+45	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact,source_extra:31
+

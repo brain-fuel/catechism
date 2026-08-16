@@ -1,0 +1,518 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 34,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "  Benedicam Dominum in omni tempore ;  semper laus ejus in ore meo. ",
+      "hebrew_masoretic": "אֲבָרְכָ֣ה אֶת־יְהֹוָ֣ה בְּכׇל־עֵ֑ת תָּ֝מִ֗יד תְּֽהִלָּת֥וֹ בְּפִֽי׃",
+      "douay_rheims": "I will bless the Lord at all times, his praise shall be always in my mouth.",
+      "finnish_biblia": "Davidin Psalmi, koska hän muotonsa muutti Abimelekin edessä, joka hänen ajoi pois tyköänsä ja hän meni pois. (H34:2) Minä kiitän Herraa aina: hänen kiitoksensa on alati minun suussani. ",
+      "swedish_karl_xii": "Jagh wil lofwa HERRAN i allom tijd; hans lof skal altid wara i minom mun.",
+      "king_james": "I will bless the LORD at all times: his praise shall continually be in my mouth.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:2"
+        },
+        "hebrew_masoretic": {
+          "src": "34:2"
+        },
+        "douay_rheims": {
+          "src": "33:2"
+        },
+        "swedish_karl_xii": {
+          "src": "34:2"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " In Domino laudabitur anima mea :  audiant mansueti, et lætentur. ",
+      "hebrew_masoretic": "בַּ֭יהֹוָה תִּתְהַלֵּ֣ל נַפְשִׁ֑י יִשְׁמְע֖וּ עֲנָוִ֣ים וְיִשְׂמָֽחוּ׃",
+      "douay_rheims": "In the Lord shall my soul be praised: let the meek hear and rejoice.",
+      "finnish_biblia": "Minun sieluni kerskaa Herrassa, että raadolliset sen kuulevat ja iloitsevat. ",
+      "swedish_karl_xii": "Min siäl skal beröma sigh af HERRANOM; at the elände skola höra thet, och glädia sigh.",
+      "king_james": "My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:3"
+        },
+        "hebrew_masoretic": {
+          "src": "34:3"
+        },
+        "douay_rheims": {
+          "src": "33:3"
+        },
+        "swedish_karl_xii": {
+          "src": "34:3"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Magnificate Dominum mecum,  et exaltemus nomen ejus in idipsum. ",
+      "hebrew_masoretic": "גַּדְּל֣וּ לַיהֹוָ֣ה אִתִּ֑י וּנְרוֹמְמָ֖ה שְׁמ֣וֹ יַחְדָּֽו׃",
+      "douay_rheims": "O magnify the Lord with me; and let us extol his name together.",
+      "finnish_biblia": "Ylistäkäät Herraa minun kanssani, ja korottakaamme ynnä hänen nimeänsä. ",
+      "swedish_karl_xii": "Priser medh migh HERRAN; och läter oß medh hwar annan vphöija hans namn.",
+      "king_james": "O magnify the LORD with me, and let us exalt his name together.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:4"
+        },
+        "hebrew_masoretic": {
+          "src": "34:4"
+        },
+        "douay_rheims": {
+          "src": "33:4"
+        },
+        "swedish_karl_xii": {
+          "src": "34:4"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Exquisivi Dominum, et exaudivit me ;  et ex omnibus tribulationibus meis eripuit me. ",
+      "hebrew_masoretic": "דָּרַ֣שְׁתִּי אֶת־יְהֹוָ֣ה וְעָנָ֑נִי וּמִכׇּל־מְ֝גוּרוֹתַ֗י הִצִּילָֽנִי׃",
+      "douay_rheims": "I sought the Lord, and he heard me; and he delivered me from all my troubles.",
+      "finnish_biblia": "Kuin minä Herraa etsin, kuuli hän minun rukoukseni, ja pelasti minun kaikista vavistuksistani. ",
+      "swedish_karl_xii": "Tå jagh sökte HERRAN, swarade han migh, och frälste migh vthur all min fruchtan.",
+      "king_james": "I sought the LORD, and he heard me, and delivered me from all my fears.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:5"
+        },
+        "hebrew_masoretic": {
+          "src": "34:5"
+        },
+        "douay_rheims": {
+          "src": "33:5"
+        },
+        "swedish_karl_xii": {
+          "src": "34:5"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Accedite ad eum, et illuminamini ;  et facies vestræ non confundentur. ",
+      "hebrew_masoretic": "הִבִּ֣יטוּ אֵלָ֣יו וְנָהָ֑רוּ וּ֝פְנֵיהֶ֗ם אַל־יֶחְפָּֽרוּ׃",
+      "douay_rheims": "Come ye to him and be enlightened: and your faces shall not be confounded.",
+      "finnish_biblia": "Jotka häntä katsovat, ne valaistaan: heidän kasvonsa ei tule häpiään. ",
+      "swedish_karl_xii": "The som vppå honom see, the warda vplyste; och theras ansichte warder icke til skam.",
+      "king_james": "They looked unto him, and were lightened: and their faces were not ashamed.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:6"
+        },
+        "hebrew_masoretic": {
+          "src": "34:6"
+        },
+        "douay_rheims": {
+          "src": "33:6"
+        },
+        "swedish_karl_xii": {
+          "src": "34:6"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Iste pauper clamavit, et Dominus exaudivit eum,  et de omnibus tribulationibus ejus salvavit eum. ",
+      "hebrew_masoretic": "זֶ֤ה עָנִ֣י קָ֭רָא וַיהֹוָ֣ה שָׁמֵ֑עַ וּמִכׇּל־צָ֝רוֹתָ֗יו הוֹשִׁיעֽוֹ׃",
+      "douay_rheims": "This poor man cried, and the Lord heard him: and saved him out of all his troubles.",
+      "finnish_biblia": "Kuin raadollinen huusi, kuuli Herra häntä, ja autti hänen kaikista tuskistansa. ",
+      "swedish_karl_xii": "Tå thenne elände ropade, hörde honom HERREN; och halp honom vthur all hans nödh.",
+      "king_james": "This poor man cried, and the LORD heard him, and saved him out of all his troubles.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:7"
+        },
+        "hebrew_masoretic": {
+          "src": "34:7"
+        },
+        "douay_rheims": {
+          "src": "33:7"
+        },
+        "swedish_karl_xii": {
+          "src": "34:7"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Immittet angelus Domini in circuitu timentium eum,  et eripiet eos. ",
+      "hebrew_masoretic": "חֹנֶ֤ה מַלְאַךְ־יְהֹוָ֓ה סָ֘בִ֤יב לִירֵאָ֗יו וַֽיְחַלְּצֵֽם׃",
+      "douay_rheims": "The angel of the Lord shall encamp round about them that fear him: and shall deliver them.",
+      "finnish_biblia": "Herran enkeli piirittää niitä, jotka häntä pelkäävät, ja pelastaa heitä. ",
+      "swedish_karl_xii": "HERRANS Ängel lägrar sigh omkring them som fruchta honom, och hielper them vth.",
+      "king_james": "The angel of the LORD encampeth round about them that fear him, and delivereth them.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:8"
+        },
+        "hebrew_masoretic": {
+          "src": "34:8"
+        },
+        "douay_rheims": {
+          "src": "33:8"
+        },
+        "swedish_karl_xii": {
+          "src": "34:8"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " Gustate et videte quoniam suavis est Dominus ;  beatus vir qui sperat in eo. ",
+      "hebrew_masoretic": "טַעֲמ֣וּ וּ֭רְאוּ כִּֽי־ט֣וֹב יְהֹוָ֑ה אַֽשְׁרֵ֥י הַ֝גֶּ֗בֶר יֶחֱסֶה־בּֽוֹ׃",
+      "douay_rheims": "O taste, and see that the Lord is sweet: blessed is the man that hopeth in him.",
+      "finnish_biblia": "Maistakaat ja katsokaat, kuinka Herra on suloinen: autuas on se, joka häneen turvaa. ",
+      "swedish_karl_xii": "Smaker och seer huru liuflig HERREN är: säll är then som tröster vppå honom.",
+      "king_james": "O taste and see that the LORD is good: blessed is the man that trusteth in him.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:9"
+        },
+        "hebrew_masoretic": {
+          "src": "34:9"
+        },
+        "douay_rheims": {
+          "src": "33:9"
+        },
+        "swedish_karl_xii": {
+          "src": "34:9"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": " Timete Dominum, omnes sancti ejus,  quoniam non est inopia timentibus eum. ",
+      "hebrew_masoretic": "יְר֣אוּ אֶת־יְהֹוָ֣ה קְדֹשָׁ֑יו כִּי־אֵ֥ין מַ֝חְס֗וֹר לִירֵאָֽיו׃",
+      "douay_rheims": "Fear the Lord, all ye his saints: for there is no want to them that fear him.",
+      "finnish_biblia": "Peljätkään Herraa kaikki hänen pyhänsä; sillä jotka häntä pelkäävät, ei niiltä mitään puutu. ",
+      "swedish_karl_xii": "Fruchter HERRAN, J hans helige; ty the som fruchta honom the hafwa ingen brist.",
+      "king_james": "O fear the LORD, ye his saints: for there is no want to them that fear him.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:10"
+        },
+        "hebrew_masoretic": {
+          "src": "34:10"
+        },
+        "douay_rheims": {
+          "src": "33:10"
+        },
+        "swedish_karl_xii": {
+          "src": "34:10"
+        }
+      }
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": " Divites eguerunt, et esurierunt ;  inquirentes autem Dominum non minuentur omni bono. ",
+      "hebrew_masoretic": "כְּ֭פִירִים רָשׁ֣וּ וְרָעֵ֑בוּ וְדֹרְשֵׁ֥י יְ֝הֹוָ֗ה לֹא־יַחְסְר֥וּ כׇל־טֽוֹב׃",
+      "douay_rheims": "The rich have wanted, and have suffered hunger: but they that seek the Lord shall not be deprived of any good.",
+      "finnish_biblia": "Nuorten jalopeurain pitää tarvitseman ja isooman; mutta jotka Herraa etsivät, ei heiltä mitään hyvää puutu. ",
+      "swedish_karl_xii": "The rike skola torftige wara, och hungra: men the, som HERRAN sökia, hafwa ingen brist på något godt.",
+      "king_james": "The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:11"
+        },
+        "hebrew_masoretic": {
+          "src": "34:11"
+        },
+        "douay_rheims": {
+          "src": "33:11"
+        },
+        "swedish_karl_xii": {
+          "src": "34:11"
+        }
+      }
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": " Venite, filii ; audite me :  timorem Domini docebo vos. ",
+      "hebrew_masoretic": "לְֽכוּ־בָ֭נִים שִׁמְעוּ־לִ֑י יִֽרְאַ֥ת יְ֝הֹוָ֗ה אֲלַמֶּדְכֶֽם׃",
+      "douay_rheims": "Come, children, hearken to me: I will teach you the fear of the Lord.",
+      "finnish_biblia": "Tulkaat tänne, lapset, kuulkaat minua: Herran pelvon minä teille opetan. ",
+      "swedish_karl_xii": "Kommer hijt barn, hörer migh: jagh wil lära eder HERRANS fruchtan.",
+      "king_james": "Come, ye children, hearken unto me: I will teach you the fear of the LORD.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:12"
+        },
+        "hebrew_masoretic": {
+          "src": "34:12"
+        },
+        "douay_rheims": {
+          "src": "33:12"
+        },
+        "swedish_karl_xii": {
+          "src": "34:12"
+        }
+      }
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": " Quis est homo qui vult vitam ;  diligit dies videre bonos ? ",
+      "hebrew_masoretic": "מִֽי־הָ֭אִישׁ הֶחָפֵ֣ץ חַיִּ֑ים אֹהֵ֥ב יָ֝מִ֗ים לִרְא֥וֹת טֽוֹב׃",
+      "douay_rheims": "Who is the man that desireth life: who liveth to see good days?",
+      "finnish_biblia": "Kuka on, joka (hyvää) elämää pyytää? ja pitäis mielellänsä hyviä päiviä? ",
+      "swedish_karl_xii": "Hwilken är then som ett godt lefwande begärar, och gierna goda dagar hade?",
+      "king_james": "What man is he that desireth life, and loveth many days, that he may see good?",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:13"
+        },
+        "hebrew_masoretic": {
+          "src": "34:13"
+        },
+        "douay_rheims": {
+          "src": "33:13"
+        },
+        "swedish_karl_xii": {
+          "src": "34:13"
+        }
+      }
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": " Prohibe linguam tuam a malo,  et labia tua ne loquantur dolum. ",
+      "hebrew_masoretic": "נְצֹ֣ר לְשׁוֹנְךָ֣ מֵרָ֑ע וּ֝שְׂפָתֶ֗יךָ מִדַּבֵּ֥ר מִרְמָֽה׃",
+      "douay_rheims": "Keep thy tongue from evil, and thy lips from speaking guile.",
+      "finnish_biblia": "Varjele kieles pahuudesta, ja huules vilppiä puhumasta. ",
+      "swedish_karl_xii": "Bewara tina tungo för thet ondt är, och tina läppar at the intet bedrägerij tala.",
+      "king_james": "Keep thy tongue from evil, and thy lips from speaking guile.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:14"
+        },
+        "hebrew_masoretic": {
+          "src": "34:14"
+        },
+        "douay_rheims": {
+          "src": "33:14"
+        },
+        "swedish_karl_xii": {
+          "src": "34:14"
+        }
+      }
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": " Diverte a malo, et fac bonum ;  inquire pacem, et persequere eam. ",
+      "hebrew_masoretic": "ס֣וּר מֵ֭רָע וַעֲשֵׂה־ט֑וֹב בַּקֵּ֖שׁ שָׁל֣וֹם וְרׇדְפֵֽהוּ׃",
+      "douay_rheims": "Turn away from evil and do good: seek after peace and pursue it.",
+      "finnish_biblia": "Lakkaa pahasta ja tee hyvää: etsi rauhaa ja noutele häntä. ",
+      "swedish_karl_xii": "Lät af thet onda, och giör thet goda; sök friden och faar efter honom.",
+      "king_james": "Depart from evil, and do good; seek peace, and pursue it.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:15"
+        },
+        "hebrew_masoretic": {
+          "src": "34:15"
+        },
+        "douay_rheims": {
+          "src": "33:15"
+        },
+        "swedish_karl_xii": {
+          "src": "34:15"
+        }
+      }
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": " Oculi Domini super justos,  et aures ejus in preces eorum. ",
+      "hebrew_masoretic": "עֵינֵ֣י יְ֭הֹוָה אֶל־צַדִּיקִ֑ים וְ֝אׇזְנָ֗יו אֶל־שַׁוְעָתָֽם׃",
+      "douay_rheims": "The eyes of the Lord are upon the just: and his ears unto their prayers.",
+      "finnish_biblia": "Herran silmät katsovat vanhurskaita, ja hänen korvansa heidän huutoansa. ",
+      "swedish_karl_xii": "HERRANS ögon see vppå the rättferdiga, och hans öron på theras ropande.",
+      "king_james": "The eyes of the LORD are upon the righteous, and his ears are open unto their cry.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:16"
+        },
+        "hebrew_masoretic": {
+          "src": "34:16"
+        },
+        "douay_rheims": {
+          "src": "33:16"
+        },
+        "swedish_karl_xii": {
+          "src": "34:16"
+        }
+      }
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": " Vultus autem Domini super facientes mala,  ut perdat de terra memoriam eorum. ",
+      "hebrew_masoretic": "פְּנֵ֣י יְ֭הֹוָה בְּעֹ֣שֵׂי רָ֑ע לְהַכְרִ֖ית מֵאֶ֣רֶץ זִכְרָֽם׃",
+      "douay_rheims": "But the countenance of the Lord is against them that do evil things: to cut off the remembrance of them from the earth.",
+      "finnish_biblia": "Mutta Herran kasvot ovat pahointekiöitä vastaan, hukuttamaan maasta heidän muistoansa. ",
+      "swedish_karl_xii": "Men HERRANS ansichte står öfwer them som ondt giöra, så at han vthskrapar theras åminnelse af jordene.",
+      "king_james": "The face of the LORD is against them that do evil, to cut off the remembrance of them from the earth.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:17"
+        },
+        "hebrew_masoretic": {
+          "src": "34:17"
+        },
+        "douay_rheims": {
+          "src": "33:17"
+        },
+        "swedish_karl_xii": {
+          "src": "34:17"
+        }
+      }
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": " Clamaverunt justi, et Dominus exaudivit eos ;  et ex omnibus tribulationibus eorum liberavit eos. ",
+      "hebrew_masoretic": "צָ֭עֲקוּ וַיהֹוָ֣ה שָׁמֵ֑עַ וּמִכׇּל־צָ֝רוֹתָ֗ם הִצִּילָֽם׃",
+      "douay_rheims": "The just cried, and the Lord heard them: and delivered them out of all their troubles.",
+      "finnish_biblia": "Kuin (vanhurskaat) huutavat, niin Herra kuulee, ja pelastaa heitä kaikista heidän tuskistansa. ",
+      "swedish_karl_xii": "Tå the rättferdige ropa, så hörer HERREN, och hielper them vthur alla theras nödh.",
+      "king_james": "The righteous cry, and the LORD heareth, and delivereth them out of all their troubles.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:18"
+        },
+        "hebrew_masoretic": {
+          "src": "34:18"
+        },
+        "douay_rheims": {
+          "src": "33:18"
+        },
+        "swedish_karl_xii": {
+          "src": "34:18"
+        }
+      }
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": " Juxta est Dominus iis qui tribulato sunt corde,  et humiles spiritu salvabit. ",
+      "hebrew_masoretic": "קָר֣וֹב יְ֭הֹוָה לְנִשְׁבְּרֵי־לֵ֑ב וְֽאֶת־דַּכְּאֵי־ר֥וּחַ יוֹשִֽׁיעַ׃",
+      "douay_rheims": "The Lord is nigh unto them that are of a contrite heart: and he will save the humble of spirit.",
+      "finnish_biblia": "Herra on juuri läsnä niitä, joilla on murheellinen sydän, ja auttaa niitä, joilla on surkia mieli. ",
+      "swedish_karl_xii": "HERREN är hardt när them som ett förbråkat hierta hafwa; och hielper them som ett bedröfwat modh hafwa.",
+      "king_james": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:19"
+        },
+        "hebrew_masoretic": {
+          "src": "34:19"
+        },
+        "douay_rheims": {
+          "src": "33:19"
+        },
+        "swedish_karl_xii": {
+          "src": "34:19"
+        }
+      }
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": " Multæ tribulationes justorum ;  et de omnibus his liberabit eos Dominus. ",
+      "hebrew_masoretic": "רַ֭בּוֹת רָע֣וֹת צַדִּ֑יק וּ֝מִכֻּלָּ֗ם יַצִּילֶ֥נּוּ יְהֹוָֽה׃",
+      "douay_rheims": "Many are the afflictions of the just; but out of them all will the Lord deliver them.",
+      "finnish_biblia": "Vanhurskaalle tapahtuu paljo pahaa; mutta Herra hänen niistä kaikista päästää. ",
+      "swedish_karl_xii": "Then rättferdige måste mycket lida; men HERREN hielper honom vthu thy allo.",
+      "king_james": "Many are the afflictions of the righteous: but the LORD delivereth him out of them all.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:20"
+        },
+        "hebrew_masoretic": {
+          "src": "34:20"
+        },
+        "douay_rheims": {
+          "src": "33:20"
+        },
+        "swedish_karl_xii": {
+          "src": "34:20"
+        }
+      }
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": " Custodit Dominus omnia ossa eorum :  unum ex his non conteretur. ",
+      "hebrew_masoretic": "שֹׁמֵ֥ר כׇּל־עַצְמוֹתָ֑יו אַחַ֥ת מֵ֝הֵ֗נָּה לֹ֣א נִשְׁבָּֽרָה׃",
+      "douay_rheims": "The Lord keepeth all their bones, not one of them shall be broken.",
+      "finnish_biblia": "Hän kätkee kaikki hänen luunsa, ettei yhtäkään niistä murreta. ",
+      "swedish_karl_xii": "Han bewarar honom all hans been, at icke ett sönderbrutit warder.",
+      "king_james": "He keepeth all his bones: not one of them is broken.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:21"
+        },
+        "hebrew_masoretic": {
+          "src": "34:21"
+        },
+        "douay_rheims": {
+          "src": "33:21"
+        },
+        "swedish_karl_xii": {
+          "src": "34:21"
+        }
+      }
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": " Mors peccatorum pessima ;  et qui oderunt justum delinquent. ",
+      "hebrew_masoretic": "תְּמוֹתֵ֣ת רָשָׁ֣ע רָעָ֑ה וְשֹׂנְאֵ֖י צַדִּ֣יק יֶאְשָֽׁמוּ׃",
+      "douay_rheims": "The death of the wicked is very evil: and they that hate the just shall be guilty.",
+      "finnish_biblia": "Pahuus tappaa jumalattoman, ja jotka vanhurskasta vihaavat, ne hukutetaan. ",
+      "swedish_karl_xii": "Then ogudachtiga skal thet onda dräpa: och the som hata then rättferdiga, the skola bråtslige warda.",
+      "king_james": "Evil shall slay the wicked: and they that hate the righteous shall be desolate.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:22"
+        },
+        "hebrew_masoretic": {
+          "src": "34:22"
+        },
+        "douay_rheims": {
+          "src": "33:22"
+        },
+        "swedish_karl_xii": {
+          "src": "34:22"
+        }
+      }
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": " Redimet Dominus animas servorum suorum,  et non delinquent omnes qui sperant in eo.  ",
+      "hebrew_masoretic": "פֹּדֶ֣ה יְ֭הֹוָה נֶ֣פֶשׁ עֲבָדָ֑יו וְלֹ֥א יֶ֝אְשְׁמ֗וּ כׇּֽל־הַחֹסִ֥ים בּֽוֹ׃ {פ}",
+      "douay_rheims": "The Lord will redeem the souls of his servants: and none of them that trust in him shall offend. ",
+      "finnish_biblia": "Herra lunastaa palveliansa sielut; ja kaikki, jotka häneen toivovat, ei pidä hukkuman.   ",
+      "swedish_karl_xii": "HERREN förlöser sina tienares siälar: och alle the som trösta på honom, skola icke warda brotslige.",
+      "king_james": "The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "33:23"
+        },
+        "hebrew_masoretic": {
+          "src": "34:23"
+        },
+        "douay_rheims": {
+          "src": "33:23"
+        },
+        "swedish_karl_xii": {
+          "src": "34:23"
+        }
+      }
+    }
+  ]
+}

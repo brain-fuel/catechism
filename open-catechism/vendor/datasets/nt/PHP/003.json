@@ -1,0 +1,179 @@
+{
+  "book_id": "PHP",
+  "latin_name": "Epistula ad Philippenses",
+  "greek_name": "Πρὸς Φιλιππησίους",
+  "finnish_name": "Kirje filippiläisille",
+  "swedish_name": "S. Pauli Epistel Til the Philipper",
+  "english_name": "The Epistle of Paul the Apostle to the Philippians",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "De cetero, fratres mei, gaudete in Domino. Eadem vobis scribere, mihi quidem non pigrum, vobis autem necessarium.",
+      "greek_textus_receptus": "τὸ λοιπόν ἀδελφοί μου χαίρετε ἐν κυρίῳ τὰ αὐτὰ γράφειν ὑμῖν ἐμοὶ μὲν οὐκ ὀκνηρόν ὑμῖν δὲ ἀσφαλές",
+      "finnish_biblia": "Vielä, minun veljeni, iloitkaat Herrassa. Että minä teille yhdellä tavalla kirjoitan, en minä siitä suutu; sillä se tekee teidän vahvemmaksi. ",
+      "swedish_karl_xii": "Ytterligare, mine bröder, frögder eder i Herranom. At jagh eder ju alt thet samma skrifwer, thet förtryter migh intet; men thet giör eder thes wissare.",
+      "king_james": "Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed *is* not grievous, but for you *it is* safe."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Videte canes, videte malos operarios, videte concisionem.",
+      "greek_textus_receptus": "βλέπετε τοὺς κύνας βλέπετε τοὺς κακοὺς ἐργάτας βλέπετε τὴν κατατομήν",
+      "finnish_biblia": "Kavahtakaat teitänne koirilta, kavahtakaat teitänne pahoilta työmiehiltä, kavahtakaat poisleikkaamisesta. ",
+      "swedish_karl_xii": "Wachter eder för the hundar, wachter eder för the onda arbetare, wachter eder för afskärelsen.",
+      "king_james": "Beware of dogs, beware of evil workers, beware of the concision."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Nos enim sumus circumcisio, qui spiritu servimus Deo, et gloriamur in Christo Jesu, et non in carne fiduciam habentes,",
+      "greek_textus_receptus": "ἡμεῖς γάρ ἐσμεν ἡ περιτομή οἱ πνεύματι φεῷ λατρεύοντες καὶ καυχώμενοι ἐν χριστῷ ἰησοῦ καὶ οὐκ ἐν σαρκὶ πεποιθότες",
+      "finnish_biblia": "Sillä me olemme se ympärileikkaus, jotka Jumalaa hengessä palvelemme ja kerskaamme meitämme Kristuksessa Jesuksessa, ja emme turvaa lihaan, ",
+      "swedish_karl_xii": "Ty wij äre omskärelsen, wij som tiene Gudi i Andanom, och berömom oß af Christo Jesu, och sättiom icke tröst på kötet.",
+      "king_james": "For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "quamquam ego habeam confidentiam et in carne. Si quis alius videtur confidere in carne, ego magis,",
+      "greek_textus_receptus": "καίπερ ἐγὼ ἔχων πεποίθησιν καὶ ἐν σαρκί εἴ τις δοκεῖ ἄλλος πεποιθέναι ἐν σαρκί ἐγὼ μᾶλλον",
+      "finnish_biblia": "Ehkä minulla on, johon minä lihassakin turvaan. Jos joku näkyy lihaan uskaltavan, minä paljoa enemmin. ",
+      "swedish_karl_xii": "Ändoch jagh ock wäl må trösta på kötet. Hwar en annar sigh tyckia låter, at han må förtrösta sigh på kötet, jagh mycket meer:",
+      "king_james": "Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "circumcisus octavo die, ex genere Israël, de tribu Benjamin, Hebræus ex Hebræis, secundum legem pharisæus,",
+      "greek_textus_receptus": "περιτομῇ ὀκταήμερος ἐκ γένους ἰσραήλ φυλῆς βενιαμίν ἑβραῖος ἐξ ἑβραίων κατὰ νόμον φαρισαῖος",
+      "finnish_biblia": "Joka kahdeksantena päivänä ympärileikattu olen, Israelin kansasta, Benjaminin suvusta, Hebrealainen Hebrealaisista, lain jälkeen Pharisealainen, ",
+      "swedish_karl_xii": "Som på ottonde dagen omskoren är, en af Jsraels folck och Ben Jamins slächte, en Ebree af Ebreer, efter lagen en Pharisee:",
+      "king_james": "Circumcised the eighth day, of the stock of Israel, *of* the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "secundum æmulationem persequens Ecclesiam Dei, secundum justitiam, quæ in lege est, conversatus sine querela.",
+      "greek_textus_receptus": "κατὰ ζῆλον διώκων τὴν ἐκκλησίαν κατὰ δικαιοσύνην τὴν ἐν νόμῳ γενόμενος ἄμεμπτος",
+      "finnish_biblia": "Kiivaudesta seurakunnan vainooja, vanhurskaudessa, joka laista tulee, laittamatoin. ",
+      "swedish_karl_xii": "Efter nitet förföljandes församlingen, efter then rättferdighet som är af lagen ostraffelig.",
+      "king_james": "Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Sed quæ mihi fuerunt lucra, hæc arbitratus sum propter Christum detrimenta.",
+      "greek_textus_receptus": "ἀλλ᾽ ἅτινα ἦν μοι κέρδη ταῦτα ἥγημαι διὰ τὸν χριστὸν ζημίαν",
+      "finnish_biblia": "Mutta ne, mitkä minulla olivat voittona, olen minä Kristuksen tähden vahingoksi lukenut; ",
+      "swedish_karl_xii": "Men thet migh een winning war, thet hafwer jagh räknat för skada, för Christi skul.",
+      "king_james": "But what things were gain to me, those I counted loss for Christ."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Verumtamen existimo omnia detrimentum esse propter eminentem scientiam Jesu Christi Domini mei: propter quem omnia detrimentum feci, et arbitror ut stercora, ut Christum lucrifaciam,",
+      "greek_textus_receptus": "ἀλλὰ μενοῦνγε καὶ ἡγοῦμαι πάντα ζημίαν εἶναι διὰ τὸ ὑπερέχον τῆς γνώσεως χριστοῦ ἰησοῦ τοῦ κυρίου μου δι᾽ ὃν τὰ πάντα ἐζημιώθην καὶ ἡγοῦμαι σκύβαλα εἶναι ἵνα χριστὸν κερδήσω",
+      "finnish_biblia": "Sillä minä luen kaikki vahingoksi sen ylönpalttisen Kristuksen Jesuksen, minun Herrani tuntemisen suhteen, jonka tähden minä olen kaikki vahingoksi lukenut, ja ne raiskana pidän, että minä Kristuksen voittaisin, ",
+      "swedish_karl_xii": "Ja, jagh räknar thet alt för skada, emot then öfwerswinnerliga mins Herras Christi Jesu kundskap, för hwilkens skul jagh alt hafwer för skada räknat, och håller thet för träck, på thet jagh må winna Christum;",
+      "king_james": "Yea doubtless, and I count all things *but* loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them *but* dung, that I may win Christ,"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "et inveniar in illo non habens meam justitiam, quæ ex lege est, sed illam, quæ ex fide est Christi Jesu: quæ ex Deo est justitia in fide,",
+      "greek_textus_receptus": "καὶ εὑρεθῶ ἐν αὐτῷ μὴ ἔχων ἐμὴν δικαιοσύνην τὴν ἐκ νόμου ἀλλὰ τὴν διὰ πίστεως χριστοῦ τὴν ἐκ θεοῦ δικαιοσύνην ἐπὶ τῇ πίστει",
+      "finnish_biblia": "Ja hänessä löydettäisiin, ettei minun vanhurskauteni laista olisi, vaan joka tulee uskosta Kristuksen päälle, nimittäin se vanhurskaus, joka Jumalalta uskolle omistetaan, ",
+      "swedish_karl_xii": "Och warda funnen i honom, icke hafwandes mina rättferdighet som kommer af lagen, vtan then som af Christi troo kommer; nemliga, then rättferdighet som af Gudi kommer genom trona:",
+      "king_james": "And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "ad cognoscendum illum, et virtutem resurrectionis ejus, et societatem passionum illius: configuratus morti ejus:",
+      "greek_textus_receptus": "τοῦ γνῶναι αὐτὸν καὶ τὴν δύναμιν τῆς ἀναστάσεως αὐτοῦ καὶ τὴν κοινωνίαν τῶν παθημάτων αὐτοῦ συμμορφούμενος τῷ θανάτῳ αὐτοῦ",
+      "finnish_biblia": "Häntä tutakseni, ja hänen ylösnousemisensa voimaa ja kärsimisensä osallisuutta, koska minä tulen hänen kuolemansa kaltaiseksi; ",
+      "swedish_karl_xii": "Til at känna honom, och hans vpståndelses kraft, och hans pinos deelachtighet, lijk worden hans dödh:",
+      "king_james": "That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "si quo modo occurram ad resurrectionem, quæ est ex mortuis:",
+      "greek_textus_receptus": "εἴ πως καταντήσω εἰς τὴν ἐξανάστασιν τῶν νεκρῶν",
+      "finnish_biblia": "Jolla muodolla minä kuolleitten ylösnousemisessa tuleva olen. ",
+      "swedish_karl_xii": "Om jagh ock måtte komma emot honom i the dödas vpståndelse.",
+      "king_james": "If by any means I might attain unto the resurrection of the dead."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "non quod jam acceperim, aut jam perfectus sim: sequor autem, si quomodo comprehendam in quo et comprehensus sum a Christo Jesu.",
+      "greek_textus_receptus": "οὐχ ὅτι ἤδη ἔλαβον ἢ ἤδη τετελείωμαι διώκω δὲ εἰ καὶ καταλάβω ἐφ᾽ ᾧ καὶ κατελήφθην ὑπὸ τοῦ χριστοῦ ἰησοῦ",
+      "finnish_biblia": "Ei niin, että minä sen jo käsittänyt olen, eli jo täydellinen olen; mutta minä ahkeroitsen suuresti, että minä sen myös käsittäisin, niinkuin minäkin Jesuksessa Kristuksessa käsitetty olen. ",
+      "swedish_karl_xii": "Jcke at jagh allaredo hafwer thet fattat, eller allaredo fulkommen är: men jagh faar fast ther efter, om jagh thet ock fatta må, som jagh ock fattad är af Christo Jesu.",
+      "king_james": "Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also i am apprehended of Christ Jesus."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Fratres, ego me non arbitror comprehendisse. Unum autem, quæ quidem retro sunt obliviscens, ad ea vero quæ sunt priora, extendens meipsum,",
+      "greek_textus_receptus": "ἀδελφοί ἐγὼ ἐμαυτὸν οὐ λογίζομαι κατειληφέναι ἓν δέ τὰ μὲν ὀπίσω ἐπιλανθανόμενος τοῖς δὲ ἔμπροσθεν ἐπεκτεινόμενος",
+      "finnish_biblia": "Minun veljeni! enpä minä pidä itseni sitä käsittäneen; ",
+      "swedish_karl_xii": "Käre bröder, jagh kan icke säija, at jagh ännu sielf thet fattat hafwer; men ett säger jagh: Jagh förgäter thet til ryggia är, och sträcker migh til thet som framman til är;",
+      "king_james": "Brethren, I count not myself to have apprehended: but *this* one thing *I do*, forgetting those things which are behind, and reaching forth unto those things which are before,"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "ad destinatum persequor, ad bravium supernæ vocationis Dei in Christo Jesu.",
+      "greek_textus_receptus": "κατὰ σκοπὸν διώκω ἐπὶ τὸ βραβεῖον τῆς ἄνω κλήσεως τοῦ θεοῦ ἐν χριστῷ ἰησοῦ",
+      "finnish_biblia": "Mutta yksi on se: minä unohdan ne, mitkä takaperin ovat, ja kokotan niiden perään, jotka edessä ovat, ja samoan eteenpannun määrän jälkeen, sen kalliin tavaran jälkeen, joka Jumalan kutsumisen kautta ylhäältä Kristuksessa Jesuksessa ilmoitetaan. ",
+      "swedish_karl_xii": "Jagandes efter målet som föresatt är, til then löön som förehålles ofwan efter af Gudz kallelse i Christo Jesu.",
+      "king_james": "I press toward the mark for the prize of the high calling of God in Christ Jesus."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Quicumque ergo perfecti sumus, hoc sentiamus: et si quid aliter sapitis, et hoc vobis Deus revelabit.",
+      "greek_textus_receptus": "ὅσοι οὖν τέλειοι τοῦτο φρονῶμεν καὶ εἴ τι ἑτέρως φρονεῖτε καὶ τοῦτο ὁ θεὸς ὑμῖν ἀποκαλύψει",
+      "finnish_biblia": "Niin monta siis, jotka meistä täydellistä on, ajatelkaamme niin, ja jos te toisin ajattelette, niin Jumala on sen teille ilmoittava. ",
+      "swedish_karl_xii": "Så månge wij nu fulkomne äre, warom så sinnade, och om J något annorlunda hålla skolen, så läter Gudh eder thet vppenbara;",
+      "king_james": "Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Verumtamen ad quod pervenimus ut idem sapiamus, et in eadem permaneamus regula.",
+      "greek_textus_receptus": "πλὴν εἰς ὃ ἐφθάσαμεν τῷ αὐτῷ στοιχεῖν κανόνι, τὸ ἀυτο φρονεῖν",
+      "finnish_biblia": "Kuitenkin että me yhden mitan jälkeen siinä vaellamme, johon me joutuneet olemme, ja että me yksimieliset olisimme. ",
+      "swedish_karl_xii": "Doch så, at wij vthi thet ther wij allaredo tilkomne äre, wandrom efter ena reglo, och äre eens sinnade.",
+      "king_james": "Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Imitatores mei estote, fratres, et observate eos qui ita ambulant, sicut habetis formam nostram.",
+      "greek_textus_receptus": "συμμιμηταί μου γίνεσθε ἀδελφοί καὶ σκοπεῖτε τοὺς οὕτως περιπατοῦντας καθὼς ἔχετε τύπον ἡμᾶς",
+      "finnish_biblia": "Seuratkaat, rakkaat veljet, minua ja katsokaat niitä, jotka niin vaeltavat, kuin me teille esikuva olemme. ",
+      "swedish_karl_xii": "Warer ock, käre bröder, mine efterföljare, och seer på them som så wandra, som J oß för een efterdömelse hafwen.",
+      "king_james": "Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Multi enim ambulant, quos sæpe dicebam vobis (nunc autem et flens dico) inimicos crucis Christi:",
+      "greek_textus_receptus": "πολλοὶ γὰρ περιπατοῦσιν οὓς πολλάκις ἔλεγον ὑμῖν νῦν δὲ καὶ κλαίων λέγω τοὺς ἐχθροὺς τοῦ σταυροῦ τοῦ χριστοῦ",
+      "finnish_biblia": "Sillä monta vaeltavat, joista minä jo usein olen teille sanonut, ja nytkin itkien sanon: he ovat Kristuksen ristin viholliset, ",
+      "swedish_karl_xii": "Ty månge wandra, af hwilkom jagh eder ofta sagt hafwer: men nu säger jagh ock gråtandes, fiendar til Christi kors:",
+      "king_james": "(For many walk, of whom I have told you often, and now tell you even weeping, *that they are* the enemies of the cross of Christ:"
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "quorum finis interitus: quorum Deus venter est: et gloria in confusione ipsorum, qui terrena sapiunt.",
+      "greek_textus_receptus": "ὧν τὸ τέλος ἀπώλεια ὧν ὁ θεὸς ἡ κοιλία καὶ ἡ δόξα ἐν τῇ αἰσχύνῃ αὐτῶν οἱ τὰ ἐπίγεια φρονοῦντες",
+      "finnish_biblia": "Joidenka loppu on kadotus, ja heidän vatsansa on heidän jumalansa ja heidän kunniansa joutuu heille häpiäksi, jotka maallisia rakastavat. ",
+      "swedish_karl_xii": "Hwilkas ände är förtapelse, och theras buuk theras Gudh, och theras ähra til skam, the ther achta hwad jordene tilhörer.",
+      "king_james": "Whose end *is* destruction, whose God *is their* belly, and *whose* glory *is* in their shame, who mind earthly things.)"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Nostra autem conversatio in cælis est: unde etiam Salvatorem exspectamus Dominum nostrum Jesum Christum,",
+      "greek_textus_receptus": "ἡμῶν γὰρ τὸ πολίτευμα ἐν οὐρανοῖς ὑπάρχει ἐξ οὗ καὶ σωτῆρα ἀπεκδεχόμεθα κύριον ἰησοῦν χριστόν",
+      "finnish_biblia": "Mutta meidän menomme on taivaissa, josta me myös lunastajaa Herraa Jesusta Kristusta odotamme, ",
+      "swedish_karl_xii": "Men wår vmgängelse är i himmelen, tädan wij ock wänte Frälsaren Herran Jesum Christum:",
+      "king_james": "For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "qui reformabit corpus humilitatis nostræ, configuratum corpori claritatis suæ, secundum operationem, qua etiam possit subjicere sibi omnia.",
+      "greek_textus_receptus": "ὃς μετασχηματίσει τὸ σῶμα τῆς ταπεινώσεως ἡμῶν εἰς τὸ γενέσθαι αὐτὸ σύμμορφον τῷ σώματι τῆς δόξης αὐτοῦ κατὰ τὴν ἐνέργειαν τοῦ δύνασθαι αὐτὸν καὶ ὑποτάξαι ἑαὐτῷ τὰ πάντα",
+      "finnish_biblia": "Joka meidän heikon ruumiimme kirkastaa, että se hänen kirkkaan ruumiinsa kaltainen olis, sillä voimalla, jolla hän myös voi kaikki itsellensä alamaiseksi tehdä.   ",
+      "swedish_karl_xii": "Hwilken wår skröpeliga lekamen skal förklara: på thet han skal giöra honom lijk medh sinom förklarada lekamen, af then kraft, ther han medh förmår sigh all ting vnderläggia.",
+      "king_james": "Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself."
+    }
+  ]
+}

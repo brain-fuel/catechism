@@ -1,0 +1,139 @@
+# ref = PSS.12.1
+1	Τῷ	_	_	_	_	_	_	Align=unmatched
+2	Σαλωμών	_	_	_	_	_	_	Align=unmatched
+3	ἐν	_	_	_	_	_	_	Align=unmatched
+4	γλώσσῃ	_	_	_	_	_	_	Align=unmatched
+5	παρανόμων	_	_	_	_	_	_	Align=unmatched
+6	Κύριε	_	_	_	_	_	_	Align=unmatched
+7	ῥῦσαι	_	_	_	_	_	_	Align=unmatched
+8	τὴν	_	_	_	_	_	_	Align=unmatched
+9	ψυχήν	_	_	_	_	_	_	Align=unmatched
+10	μου	μου	_	_	_	_	_	Align=exact
+11	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+12	ἀνδρὸς	ἀνήρ	_	_	_	_	_	Strong=G0435|Align=positional
+13	παρανόμου	παράνομος	_	_	_	_	_	Align=positional
+14	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+15	πονηροῦ	πονηρός	_	_	_	_	_	Strong=G4190|Align=positional
+16	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+17	γλώσσης	γλῶσσα	_	_	_	_	_	Strong=G1100|Align=positional
+18	παρανόμου	παράνομος	_	_	_	_	_	Align=positional
+19	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+20	ψιθυροῦ	ψίθυρος	_	_	_	_	_	Align=positional
+21	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+22	λαλούσης	λαλέω	_	_	_	_	_	Strong=G2980|Align=positional
+23	ψευδῆ	ψευδής	_	_	_	_	_	Strong=G5571|Align=positional
+24	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+25	δόλια	δόλιος	_	_	_	_	_	Strong=G1386|Align=positional,source_extra:4
+
+# ref = PSS.12.2
+1	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+2	ποικιλίᾳ	ποικιλία	_	_	_	_	_	Align=exact
+3	στροφῆς	στρέφω	_	_	_	_	_	Strong=G4762|Align=positional
+4	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	λόγοι	λόγος	_	_	_	_	_	Strong=G3056|Align=positional
+6	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	γλώσσης	γλῶσσα	_	_	_	_	_	Strong=G1100|Align=positional
+8	ἀνδρὸς	ἀνήρ	_	_	_	_	_	Strong=G0435|Align=positional
+9	πονηροῦ	πονηρός	_	_	_	_	_	Strong=G4190|Align=positional
+10	ὥσπερ	ὥσπερ	_	_	_	_	_	Strong=G5618|Align=exact
+11	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+12	λαῷ	λαός	_	_	_	_	_	Strong=G2992|Align=positional
+13	πῦρ	πῦρ	_	_	_	_	_	Strong=G4442|Align=exact
+14	ἀνάπτον	ἀνάπτω	_	_	_	_	_	Strong=G0381|Align=positional
+15	καλλονὴν	καλλονή	_	_	_	_	_	Align=positional
+16	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSS.12.3
+1	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	παροικία	παροικία	_	_	_	_	_	Strong=G3940|Align=exact
+3	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+4	ἐμπλῆσαι	ἐμπρήθω	_	_	_	_	_	Strong=G1714|Align=positional
+5	οἴκους	οἶκος	_	_	_	_	_	Strong=G3624|Align=positional
+6	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+7	γλώσσῃ	_	_	_	_	_	_	Align=unmatched
+8	ψεύδει	_	_	_	_	_	_	Align=unmatched
+9	ἐκκόψαι	_	_	_	_	_	_	Align=unmatched
+10	δένδρα	_	_	_	_	_	_	Align=unmatched
+11	εὐφροσύνης	_	_	_	_	_	_	Align=unmatched
+12	φλογιζούσης	_	_	_	_	_	_	Align=unmatched
+13	παρανόμους	_	_	_	_	_	_	Align=unmatched,source_extra:13
+
+# ref = PSS.12.4
+1	συνχέαι	_	_	_	_	_	_	Align=unmatched
+2	οἴκους	_	_	_	_	_	_	Align=unmatched
+3	παρανόμους	_	_	_	_	_	_	Align=unmatched
+4	ἐν	_	_	_	_	_	_	Align=unmatched
+5	πολέμῳ	_	_	_	_	_	_	Align=unmatched
+6	χείλεσι	_	_	_	_	_	_	Align=unmatched
+7	ψιθυροῖς	_	_	_	_	_	_	Align=unmatched
+8	μακρύναι	_	_	_	_	_	_	Align=unmatched
+9	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+10	θεὸς	θεός	_	_	_	_	_	Strong=G2316|Align=exact
+11	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+12	ἀκάκων	ἄκακος	_	_	_	_	_	Strong=G0172|Align=positional
+13	χείλη	χεῖλος	_	_	_	_	_	Strong=G5491|Align=positional
+14	παρανόμων	παράνομος	_	_	_	_	_	Align=positional
+15	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+16	ἀπορίᾳ	ἀπορία	_	_	_	_	_	Strong=G0640|Align=exact
+17	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+18	σκορπισθείησαν	σκορπίζω	_	_	_	_	_	Strong=G4650|Align=positional
+19	ὀστᾶ	ὀστέον	_	_	_	_	_	Strong=G3747|Align=positional
+20	ψιθύρων	ψίθυρος	_	_	_	_	_	Align=positional
+21	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+22	φοβουμένων	_	_	_	_	_	_	Align=unmatched
+23	Κύριον	_	_	_	_	_	_	Align=unmatched,source_extra:11
+
+# ref = PSS.12.5
+1	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+2	πυρὶ	_	_	_	_	_	_	Align=unmatched
+3	φλογὸς	_	_	_	_	_	_	Align=unmatched
+4	γλῶσσα	_	_	_	_	_	_	Align=unmatched
+5	ψιθυρὸς	_	_	_	_	_	_	Align=unmatched
+6	ἀπόλοιτο	_	_	_	_	_	_	Align=unmatched
+7	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+8	ὁσίων	_	_	_	_	_	_	Align=unmatched,source_extra:13
+
+# ref = PSS.12.6
+1	φυλάξαι	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	Κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+3	ψυχὴν	_	_	_	_	_	_	Align=unmatched
+4	ἡσύχιον	_	_	_	_	_	_	Align=unmatched
+5	μισοῦσαν	_	_	_	_	_	_	Align=unmatched
+6	ἀδίκους	_	_	_	_	_	_	Align=unmatched
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	κατευθύναι	_	_	_	_	_	_	Align=unmatched
+9	Κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+10	ἄνδρα	_	_	_	_	_	_	Align=unmatched
+11	ποιοῦντα	_	_	_	_	_	_	Align=unmatched
+12	εἰρήνην	_	_	_	_	_	_	Align=unmatched
+13	ἐν	_	_	_	_	_	_	Align=unmatched
+14	οἴκῳ	_	_	_	_	_	_	Align=unmatched,source_extra:21
+
+# ref = PSS.12.7
+1	τοῦ	_	_	_	_	_	_	Align=unmatched
+2	κυρίου	_	_	_	_	_	_	Align=unmatched
+3	ἡ	_	_	_	_	_	_	Align=unmatched
+4	σωτηρία	_	_	_	_	_	_	Align=unmatched
+5	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+6	Ἰσραὴλ	_	_	_	_	_	_	Align=unmatched
+7	παῖδα	_	_	_	_	_	_	Align=unmatched
+8	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+9	εἰς	_	_	_	_	_	_	Align=unmatched
+10	τὸν	_	_	_	_	_	_	Align=unmatched
+11	αἰῶνα	_	_	_	_	_	_	Align=unmatched
+
+# ref = PSS.12.8
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	ἀπόλοιντο	_	_	_	_	_	_	Align=unmatched
+3	οἱ	_	_	_	_	_	_	Align=unmatched
+4	ἁμαρτωλοὶ	_	_	_	_	_	_	Align=unmatched
+5	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+6	προσώπου	_	_	_	_	_	_	Align=unmatched
+7	Κυρίου	_	_	_	_	_	_	Align=unmatched
+8	ἅπαξ	_	_	_	_	_	_	Align=unmatched
+9	καὶ	_	_	_	_	_	_	Align=unmatched
+10	ὅσιοι	_	_	_	_	_	_	Align=unmatched
+11	Κυρίου	_	_	_	_	_	_	Align=unmatched
+12	κληρονομήσαισαν	_	_	_	_	_	_	Align=unmatched
+13	ἐπαγγελίας	_	_	_	_	_	_	Align=unmatched
+

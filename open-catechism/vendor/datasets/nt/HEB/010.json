@@ -1,0 +1,323 @@
+{
+  "book_id": "HEB",
+  "latin_name": "Epistula ad Hebraeos",
+  "greek_name": "Πρὸς Ἑβραίους",
+  "finnish_name": "Kirje heprealaisille",
+  "swedish_name": "Then Epistel Til the Ebreer",
+  "english_name": "The Epistle of Paul the Apostle to the Hebrews",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Umbram enim habens lex futurorum bonorum, non ipsam imaginem rerum: per singulos annos, eisdem ipsis hostiis quas offerunt indesinenter, numquam potest accedentes perfectos facere:",
+      "greek_textus_receptus": "σκιὰν γὰρ ἔχων ὁ νόμος τῶν μελλόντων ἀγαθῶν οὐκ αὐτὴν τὴν εἰκόνα τῶν πραγμάτων κατ᾽ ἐνιαυτὸν ταῖς αὐταῖς θυσίαις ἃς προσφέρουσιν εἰς τὸ διηνεκὲς οὐδέποτε δύναται τοὺς προσερχομένους τελειῶσαι",
+      "finnish_biblia": "Sillä lailla on tulevaisten tavarain varjo, ei itse hyvyyden olento; niillä uhreilla, joita he joka vuosi alinomaa uhraavat, ei se ikänä taida niitä täydelliseksi tehdä, jotka uhraavat. ",
+      "swedish_karl_xii": "Ty lagen hafwer skuggan af thet tilkommande goda, och icke sielfwa warelsen. Ährliga måste man offra altid enahanda offer, och kan icke giöra them fulborda som thet offra.",
+      "king_james": "For the law having a shadow of good things to come, *and* not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "alioquin cessassent offerri: ideo quod nullam haberent ultra conscientiam peccati, cultores semel mundati:",
+      "greek_textus_receptus": "ἐπεὶ οὐκ ἂν ἐπαύσαντο προσφερόμεναι διὰ τὸ μηδεμίαν ἔχειν ἔτι συνείδησιν ἁμαρτιῶν τοὺς λατρεύοντας ἅπαξ κεκαθαρμένους",
+      "finnish_biblia": "Muutoin olis uhraamasta lakattu, jos ei niillä, jotka uhrasivat, synneistä silleen omaatuntoa olisi, koska he kerran puhdistetut ovat. ",
+      "swedish_karl_xii": "Annars hade thet återwändt offras: efter the som så offra, hade sedan intet samwet haft af synder, när the hade ena reso warit rene giorde.",
+      "king_james": "For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "sed in ipsis commemoratio peccatorum per singulos annos fit.",
+      "greek_textus_receptus": "ἀλλ᾽ ἐν αὐταῖς ἀνάμνησις ἁμαρτιῶν κατ᾽ ἐνιαυτόν",
+      "finnish_biblia": "Vaan sillä tapahtuu joka vuosi synnin muistuttamus. ",
+      "swedish_karl_xii": "Vtan ther medh skeer een åminnelse på synderna hwart åhr:",
+      "king_james": "But in those *sacrifices there is* a remembrance again *made* of sins every year."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Impossibile enim est sanguine taurorum et hircorum auferri peccata.",
+      "greek_textus_receptus": "ἀδύνατον γὰρ αἷμα ταύρων καὶ τράγων ἀφαιρεῖν ἁμαρτίας",
+      "finnish_biblia": "Sillä mahdotoin on härkäin ja kauristen veren kautta syntejä ottaa pois. ",
+      "swedish_karl_xii": "Ty omögeligit är genom oxablod och bockablod borttaga synder.",
+      "king_james": "For *it is* not possible that the blood of bulls and of goats should take away sins."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Ideo ingrediens mundum dicit: Hostiam et oblationem noluisti: corpus autem aptasti mihi:",
+      "greek_textus_receptus": "διὸ εἰσερχόμενος εἰς τὸν κόσμον λέγει θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας σῶμα δὲ κατηρτίσω μοι",
+      "finnish_biblia": "Sentähden, kuin hän maailmaan tuli, sanoi hän: uhria ja lahjaa et sinä tahtonut, mutta ruumiin olet sinä minulle valmistanut; ",
+      "swedish_karl_xii": "Therföre, tå han kommer i werldena, säger han: Offer och gåfwor hafwer tu icke welat: men kroppen hafwer tu migh beredt.",
+      "king_james": "Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "holocautomata pro peccato non tibi placuerunt.",
+      "greek_textus_receptus": "ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ εὐδόκησας",
+      "finnish_biblia": "Polttouhrit ja syntiuhrit ei ole sinun mieleises. ",
+      "swedish_karl_xii": "Bränneoffer och syndoffer behaga tigh icke.",
+      "king_james": "In burnt offerings and *sacrifices* for sin thou hast had no pleasure."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Tunc dixi: Ecce venio: in capite libri scriptum est de me: Ut faciam, Deus, voluntatem tuam.",
+      "greek_textus_receptus": "τότε εἶπον ἰδού ἥκω ἐν κεφαλίδι βιβλίου γέγραπται περὶ ἐμοῦ τοῦ ποιῆσαι ὁ θεός τὸ θέλημά σου",
+      "finnish_biblia": "Silloin minä sanoin: katso, minä tulen, (Raamatussa on minusta kirjoitettu,) että minun pitää tekemän sinun tahtos, Jumala. ",
+      "swedish_karl_xii": "Tå sade jagh: Sij, jagh kommer; i bokene är skrifwit om migh, at jagh skal giöra tin wilja, o Gudh.",
+      "king_james": "Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Superius dicens: Quia hostias, et oblationes, et holocautomata pro peccato noluisti, nec placita sunt tibi, quæ secundum legem offeruntur,",
+      "greek_textus_receptus": "ἀνώτερον λέγων ὅτι θυσίαν καὶ προσφορὰν καὶ ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ ἠθέλησας οὐδὲ εὐδόκησας αἵτινες κατὰ τόν νόμον προσφέρονται",
+      "finnish_biblia": "Niinkuin hän ennen sanoi: uhria ja lahjaa, ja polttouhria ja syntiuhria et sinä tahtonut, ei myös ne sinulle kelvanneet, (jotka lain jälkeen uhrataan,) ",
+      "swedish_karl_xii": "Tilförene tå han sade: Offer och gåfwor, bränneoffer och syndoffer hafwer tu icke welat; icke behaga the tigh heller, hwilke efter lagen offras;",
+      "king_james": "Above when he said, Sacrifice and offering and burnt offerings and *offering* for sin thou wouldest not, neither hadst pleasure *therein*; which are offered by the law;"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "tunc dixi: Ecce venio, ut faciam, Deus, voluntatem tuam: aufert primum, ut sequens statuat.",
+      "greek_textus_receptus": "τότε εἴρηκεν ἰδού ἥκω τοῦ ποιῆσαι ὁ θεός τὸ θέλημά σου ἀναιρεῖ τὸ πρῶτον ἵνα τὸ δεύτερον στήσῃ",
+      "finnish_biblia": "Silloin hän sanoi: katso, minä tulen tekemään, Jumala, sinun tahtos. Hän ottaa pois entisen, että hän toisen asettais. ",
+      "swedish_karl_xii": "Tå sade han: Sij, jagh kommer, til at giöra, o Gudh, tin wilja. Ther tager han thet första bort, at han thet andra insättia skal.",
+      "king_james": "Then said he, Lo, I come to do thy will, O God. He taketh away the first, that he may establish the second."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "In qua voluntate sanctificati sumus per oblationem corporis Jesu Christi semel.",
+      "greek_textus_receptus": "ἐν ᾧ θελήματι ἡγιασμένοι ἐσμὲν οἱ διὰ τῆς προσφορᾶς τοῦ σώματος τοῦ ἰησοῦ χριστοῦ ἐφάπαξ",
+      "finnish_biblia": "Jonka tahdon kautta me kerran pyhitetyt olemme, Jesuksen Kristuksen ruumiin uhraamisella. ",
+      "swedish_karl_xii": "J hwilkom wilja wij helgade ärom ena reso, genom Jesu Christi krops offer.",
+      "king_james": "By the which will we are sanctified through the offering of the body of Jesus Christ once *for all*."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et omnis quidem sacerdos præsto est quotidie ministrans, et easdem sæpe offerens hostias, quæ numquam possunt auferre peccata:",
+      "greek_textus_receptus": "καὶ πᾶς μὲν ἱερεὺς ἕστηκεν καθ᾽ ἡμέραν λειτουργῶν καὶ τὰς αὐτὰς πολλάκις προσφέρων θυσίας αἵτινες οὐδέποτε δύνανται περιελεῖν ἁμαρτίας",
+      "finnish_biblia": "Ja jokainen pappi on siihen pantu, että hänen joka päivä jumalanpalvelusta tekemän pitää ja usein yhtäläistä uhria uhraaman, jotka ei koskaan voi syntejä ottaa pois. ",
+      "swedish_karl_xii": "Och hwar och en Prest är insatt, at han dagliga skal skiöta Gudztiensten, och ofta offra enahanda offer, hwilke aldrig kunna borttaga synder.",
+      "king_james": "And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins:"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "hic autem unam pro peccatis offerens hostiam, in sempiternum sedet in dextera Dei,",
+      "greek_textus_receptus": "αὗτος δὲ μίαν ὑπὲρ ἁμαρτιῶν προσενέγκας θυσίαν εἰς τὸ διηνεκὲς ἐκάθισεν ἐν δεξιᾷ τοῦ θεοῦ",
+      "finnish_biblia": "Mutta kuin tämä oli yhden ijankaikkisesti kelpaavan uhrin syntein edestä uhrannut, istuu hän nyt Jumalan oikialla kädellä, ",
+      "swedish_karl_xii": "Men thenne, tå han hade offrat ett offer för synderna, thet ewinnerliga gäller, sitter han på Gudz högra hand;",
+      "king_james": "But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "de cetero exspectans donec ponantur inimici ejus scabellum pedum ejus.",
+      "greek_textus_receptus": "τὸ λοιπὸν ἐκδεχόμενος ἕως τεθῶσιν οἱ ἐχθροὶ αὐτοῦ ὑποπόδιον τῶν ποδῶν αὐτοῦ",
+      "finnish_biblia": "Ja odottaa, että hänen vihollisensa pannaan hänen jalkainsa astinlaudaksi. ",
+      "swedish_karl_xii": "Och wänter nu, til thes hans owänner lagde warda, honom til en fotapall.",
+      "king_james": "From henceforth expecting till his enemies be made his footstool."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Una enim oblatione, consummavit in sempiternum sanctificatos.",
+      "greek_textus_receptus": "μιᾷ γὰρ προσφορᾷ τετελείωκεν εἰς τὸ διηνεκὲς τοὺς ἁγιαζομένους",
+      "finnish_biblia": "Sillä yhdellä uhrilla on hän ijankaikkisesti täydelliseksi tehnyt ne, jotka pyhitetään. ",
+      "swedish_karl_xii": "Ty medh ett offer hafwer han ewinnerliga fulkomnat them som helige warda.",
+      "king_james": "For by one offering he hath perfected for ever them that are sanctified."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Contestatur autem nos et Spiritus Sanctus. Postquam enim dixit:",
+      "greek_textus_receptus": "μαρτυρεῖ δὲ ἡμῖν καὶ τὸ πνεῦμα τὸ ἅγιον μετὰ γὰρ τὸ προειρηκέναι",
+      "finnish_biblia": "Mutta sen todistaa myös meille itse Pyhä Henki, sillä että hän ennen sanoi: ",
+      "swedish_karl_xii": "Thet betygar oß ock then Helge Ande: ty tå han tilförene sagt hade:",
+      "king_james": "*Whereof* the Holy Ghost also is a witness to us: for after that he had said before,"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Hoc autem testamentum, quod testabor ad illos post dies illos, dicit Dominus, dando leges meas in cordibus eorum, et in mentibus eorum superscribam eas:",
+      "greek_textus_receptus": "αὕτη ἡ διαθήκη ἣν διαθήσομαι πρὸς αὐτοὺς μετὰ τὰς ἡμέρας ἐκείνας λέγει κύριος διδοὺς νόμους μου ἐπὶ καρδίας αὐτῶν καὶ ἐπὶ τῶν διανοιῶν αὐτῶν ἐπιγράψω αὐτούς",
+      "finnish_biblia": "Tämä on se Testamentti, jonka minä tahdon heille tehdä niiden päiväin jälkeen, sanoo Herra: minä tahdon antaa minun lakini heidän sydämiinsä, ja heidän mieliinsä minä ne kirjoitan, ",
+      "swedish_karl_xii": "Thet är thet Testamentet som jagh them giöra wil, efter the dagar, säger Herren: Jagh wil gifwa min lagh i theras hierta, och i theras sinne wil jagh skrifwa them;",
+      "king_james": "This *is* the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "et peccatorum, et iniquitatum eorum jam non recordabor amplius.",
+      "greek_textus_receptus": "καὶ τῶν ἁμαρτιῶν αὐτῶν καὶ τῶν ἀνομιῶν αὐτῶν οὐ μὴ μνησθῶ ἔτι",
+      "finnish_biblia": "Ja heidän syntejänsä ja vääryyttänsä en minä enempi tahdo muistaa. ",
+      "swedish_karl_xii": "Och theras synder och orättferdighet wil jagh icke meer ihogkomma.",
+      "king_james": "And their sins and iniquities will I remember no more."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Ubi autem horum remissio: jam non est oblatio pro peccato.",
+      "greek_textus_receptus": "ὅπου δὲ ἄφεσις τούτων οὐκέτι προσφορὰ περὶ ἁμαρτίας",
+      "finnish_biblia": "Mutta kussa näiden anteeksiantamus on, siinä ei silleen uhria syntein edestä ole. ",
+      "swedish_karl_xii": "Ther nu sådana förlåtelse är, ther är icke meer offer för synder.",
+      "king_james": "Now where remission of these *is, there is* no more offering for sin."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Habentes itaque, fratres, fiduciam in introitu sanctorum in sanguine Christi,",
+      "greek_textus_receptus": "ἕχοντες οὖν ἀδελφοί παῤῥησίαν εἰς τὴν εἴσοδον τῶν ἁγίων ἐν τῷ αἵματι ἰησοῦ",
+      "finnish_biblia": "Että siis meillä, rakkaat veljet, on vapaus mennä pyhään, Jesuksen veren kautta. ",
+      "swedish_karl_xii": "Efter wij nu hafwe, käre bröder, frijhet til at ingå vthi thet helga, genom Jesu blodh;",
+      "king_james": "Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "quam initiavit nobis viam novam, et viventem per velamen, id est, carnem suam,",
+      "greek_textus_receptus": "ἣν ἐνεκαίνισεν ἡμῖν ὁδὸν πρόσφατον καὶ ζῶσαν διὰ τοῦ καταπετάσματος τουτέστιν τῆς σαρκὸς αὐτοῦ",
+      "finnish_biblia": "Jonka hän meille on valmistanut uudeksi ja eläväksi tieksi, esiripun kautta, se on: hänen lihansa kautta, ",
+      "swedish_karl_xii": "Hwilken han oß beredt hafwer til en ny och lefwande wägh, genom förloten, thet är, genom sitt kött;",
+      "king_james": "By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "et sacerdotem magnum super domum Dei:",
+      "greek_textus_receptus": "καὶ ἱερέα μέγαν ἐπὶ τὸν οἶκον τοῦ θεοῦ",
+      "finnish_biblia": "Ja meillä on yksi suuri Pappi, Jumalan huoneen haltia; ",
+      "swedish_karl_xii": "Och hafwom en öfwersta Prest öfwer Gudz huus:",
+      "king_james": "And *having* an high priest over the house of God;"
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "accedamus cum vero corde in plenitudine fidei, aspersi corda a conscientia mala, et abluti corpus aqua munda,",
+      "greek_textus_receptus": "προσερχώμεθα μετὰ ἀληθινῆς καρδίας ἐν πληροφορίᾳ πίστεως ἐῤῥαντισμένοι τὰς καρδίας ἀπὸ συνειδήσεως πονηρᾶς καὶ λελουμένοι τὸ σῶμα ὕδατι καθαρῷ",
+      "finnish_biblia": "Niin käykäämme hänen tykönsä totisella sydämellä, täydellä uskolla, priiskotetut meidän sydämissämme, (ja päästetyt) pahasta omastatunnosta, ",
+      "swedish_karl_xii": "Så lät oß framgå, medh ett sanskylligt hierta, vthi een fulkomlig troo, bestänckte i hiertan ifrån ett ondt samwet, och twagne om kroppen medh reent watn.",
+      "king_james": "Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "teneamus spei nostræ confessionem indeclinabilem (fidelis enim est qui repromisit),",
+      "greek_textus_receptus": "κατέχωμεν τὴν ὁμολογίαν τῆς ἐλπίδος ἀκλινῆ πιστὸς γὰρ ὁ ἐπαγγειλάμενος",
+      "finnish_biblia": "Ja pestyt ruumiin puolesta puhtaalla vedellä, ja pitäkäämme horjumatoin toivon tunnustus: (sillä se on uskollinen, joka ne lupasi), ",
+      "swedish_karl_xii": "Och lät oß hålla hopsens bekännelse owikliga: ty han är trofast som thet låfwat hafwer.",
+      "king_james": "Let us hold fast the profession of *our* faith without wavering; (for he *is* faithful that promised;)"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "et consideremus invicem in provocationem caritatis, et bonorum operum:",
+      "greek_textus_receptus": "καὶ κατανοῶμεν ἀλλήλους εἰς παροξυσμὸν ἀγάπης καὶ καλῶν ἔργων",
+      "finnish_biblia": "Ja ottakaamme vaari toinen toisestamme, että me ahkeroitsemme rakkaudesta ja hyvistä töistä, ",
+      "swedish_karl_xii": "Och lät oß achta på oß inbyrdes, til at vpwäckia til kärlek och goda gierningar:",
+      "king_james": "And let us consider one another to provoke unto love and to good works:"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "non deserentes collectionem nostram, sicut consuetudinis est quibusdam, sed consolantes, et tanto magis quanto videritis appropinquantem diem.",
+      "greek_textus_receptus": "μὴ ἐγκαταλείποντες τὴν ἐπισυναγωγὴν ἑαυτῶν καθὼς ἔθος τισίν ἀλλὰ παρακαλοῦντες καὶ τοσούτῳ μᾶλλον ὅσῳ βλέπετε ἐγγίζουσαν τὴν ἡμέραν",
+      "finnish_biblia": "Ei antain ylön yhteistä seurakuntaa, niinkuin muutamain tapa on, vaan neuvokaat teitänne keskenänne, ja sitä enemmin kuin te näette sen päivän lähestyvän. ",
+      "swedish_karl_xii": "Jcke öfwergifwandes wår församling, såsom somlige för sedh hafwa: vtan förmaner eder inbyrdes, och thet thes meer, at J seen huru dagen nalkas.",
+      "king_james": "Not forsaking the assembling of ourselves together, as the manner of some *is*; but exhorting *one another*: and so much the more, as ye see the day approaching."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Voluntarie enim peccantibus nobis post acceptam notitiam veritatis, jam non relinquitur pro peccatis hostia,",
+      "greek_textus_receptus": "ἑκουσίως γὰρ ἁμαρτανόντων ἡμῶν μετὰ τὸ λαβεῖν τὴν ἐπίγνωσιν τῆς ἀληθείας οὐκέτι περὶ ἁμαρτιῶν ἀπολείπεται θυσία",
+      "finnish_biblia": "Sillä jos me ehdollamme sitte syntiä teemme, kuin me olemme totuuden tuntoon tulleet, niin ei meillä ole enään yhtään uhria syntein edestä, ",
+      "swedish_karl_xii": "Ty om wij sielfwiljande syndom, sedan wij förstådt hafwe sanningen, tå står oß intet offer igen för synderna:",
+      "king_james": "For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "terribilis autem quædam exspectatio judicii, et ignis æmulatio, quæ consumptura est adversarios.",
+      "greek_textus_receptus": "φοβερὰ δέ τις ἐκδοχὴ κρίσεως καὶ πυρὸς ζῆλος ἐσθίειν μέλλοντος τοὺς ὑπεναντίους",
+      "finnish_biblia": "Vaan hirmuinen tuomion odotus ja tulen kiivaus, joka vastahakoiset syövä on. ",
+      "swedish_karl_xii": "Vtan een förskräckelig domsens förbidelse, och eldsens nijt, som motståndarena förtära skal.",
+      "king_james": "But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Irritam quis faciens legem Moysi, sine ulla miseratione duobus vel tribus testibus moritur:",
+      "greek_textus_receptus": "ἀθετήσας τις νόμον μωσέως χωρὶς οἰκτιρμῶν ἐπὶ δυσὶν ἢ τρισὶν μάρτυσιν ἀποθνῄσκει",
+      "finnish_biblia": "Jos joku Moseksen lain rikkoo, hänen pitää ilman armoa kuoleman kahden taikka kolmen todistajan kautta. ",
+      "swedish_karl_xii": "Ho som bryter Mosi lagh, han måste döö vthan barmhertighet, efter tw eller try witne:",
+      "king_james": "He that despised Moses' law died without mercy under two or three witnesses:"
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "quanto magis putatis deteriora mereri supplicia qui Filium Dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est, et spiritui gratiæ contumeliam fecerit?",
+      "greek_textus_receptus": "πόσῳ δοκεῖτε χείρονος ἀξιωθήσεται τιμωρίας ὁ τὸν υἱὸν τοῦ θεοῦ καταπατήσας καὶ τὸ αἷμα τῆς διαθήκης κοινὸν ἡγησάμενος ἐν ᾧ ἡγιάσθη καὶ τὸ πνεῦμα τῆς χάριτος ἐνυβρίσας",
+      "finnish_biblia": "Kuinka paljoa enemmän rangaistuksen te luulette sen ansainneen, joka Jumalan Pojan jaloilla tallaa ja Testamentin veren saastuttaa, jonka kautta hän pyhitetty on, ja armon Henkeä pilkkaa? ",
+      "swedish_karl_xii": "Huru mycket större näpst, menen J, förtienar then, som Gudz Son förtrampar, och Testamentsens blodh, såsom oreent achtar, genom hwilket han helgad är, och försmäder nådenes Anda?",
+      "king_james": "Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?"
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Scimus enim qui dixit: Mihi vindicta, et ego retribuam. Et iterum: Quia judicabit Dominus populum suum.",
+      "greek_textus_receptus": "οἴδαμεν γὰρ τὸν εἰπόντα ἐμοὶ ἐκδίκησις ἐγὼ ἀνταποδώσω λέγει κύριος καὶ πάλιν κύριος κρινεῖ τὸν λαὸν αὐτοῦ",
+      "finnish_biblia": "Sillä me tunnemme hänen, joka sanoi: minun on kosto, minä tahdon kostaa, sanoo Herra; ja taas: Herra on kansansa tuomitseva. ",
+      "swedish_karl_xii": "Ty wij kännom then som sade: Hämnden är min; jagh skal wedergällat, säger Herren . Och åter: Herren skal döma sitt folck.",
+      "king_james": "For we know him that hath said, Vengeance *belongeth* unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Horrendum est incidere in manus Dei viventis.",
+      "greek_textus_receptus": "φοβερὸν τὸ ἐμπεσεῖν εἰς χεῖρας θεοῦ ζῶντος",
+      "finnish_biblia": "Hirmuinen on langeta elävän Jumalan käsiin. ",
+      "swedish_karl_xii": "Thet är gräseligit falla vthi lefwandes Gudz händer.",
+      "king_james": "*It is* a fearful thing to fall into the hands of the living God."
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Rememoramini autem pristinos dies, in quibus illuminati, magnum certamen sustinuistis passionum:",
+      "greek_textus_receptus": "ἀναμιμνῄσκεσθε δὲ τὰς πρότερον ἡμέρας ἐν αἷς φωτισθέντες πολλὴν ἄθλησιν ὑπεμείνατε παθημάτων",
+      "finnish_biblia": "Muistakaa siis entisiä päiviä, joina te valistetut olitte ja kärsitte monen vaivan kilvoituksen: ",
+      "swedish_karl_xii": "Men kommer ihogh the framledna dagar, i hwilkom J vplyste woren, och stoden en stoor törning i bedröfwelsen:",
+      "king_james": "But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;"
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "et in altero quidem opprobriis et tribulationibus spectaculum facti: in altero autem socii taliter conversantium effecti.",
+      "greek_textus_receptus": "τοῦτο μὲν ὀνειδισμοῖς τε καὶ θλίψεσιν θεατριζόμενοι τοῦτο δὲ κοινωνοὶ τῶν οὕτως ἀναστρεφομένων γενηθέντες",
+      "finnish_biblia": "Puolittain silloin, kuin te sekä pilkkain että tuskain kautta kaikille ihmeeksi olitte: puolittain, kuin te niiden kanssa osalliset olitte, joille myös niin kävi. ",
+      "swedish_karl_xii": "Endeels, tå J sielfwe genom hädelse och bedröfwelse ett widvnder worden; och endeels, tå J sälskap haden medh them som thet så går.",
+      "king_james": "Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used."
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "Nam et vinctis compassi estis, et rapinam bonorum vestrorum cum gaudio suscepistis, cognoscentes vos habere meliorem et manentem substantiam.",
+      "greek_textus_receptus": "καὶ γὰρ τοῖς δεσμοῖς μου συνεπαθήσατε καὶ τὴν ἁρπαγὴν τῶν ὑπαρχόντων ὑμῶν μετὰ χαρᾶς προσεδέξασθε γινώσκοντες ἔχειν ἐν ἑαυτοῖς κρείττονα ὕπαρξιν ἐν οὐρανοῖς καὶ μένουσαν",
+      "finnish_biblia": "Sillä te olette myös niistä vaivoista, jotka minun siteistäni tapahtuivat, osalliset olleet, ja teidän hyvyytenne raatelemisen olette te ilolla kärsineet, tietäen, että teillä on parempi ja pysyväisempi tavara taivaissa. ",
+      "swedish_karl_xii": "Ty J hafwen deelachtige warit af the bedröfwelse som af minom boijom gingo, och medh frögd lidit edra ägodelars förskiöfling, wetandes at J när eder sielfwa bättre och blifwande ägodelar hafwen i himmelen.",
+      "king_james": "For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance."
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "Nolite itaque amittere confidentiam vestram, quæ magnam habet remunerationem.",
+      "greek_textus_receptus": "μὴ ἀποβάλητε οὖν τὴν παῤῥησίαν ὑμῶν ἥτις ἔχει μισθαποδοσίαν μεγάλην",
+      "finnish_biblia": "Älkäät siis heittäkö pois teidän uskallustanne, jolla suuri palkan makso on. ",
+      "swedish_karl_xii": "Så kaster icke nu bort edra tröst, som een stoor löön hafwer.",
+      "king_james": "Cast not away therefore your confidence, which hath great recompence of reward."
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "Patientia enim vobis necessaria est: ut voluntatem Dei facientes, reportetis promissionem.",
+      "greek_textus_receptus": "ὑπομονῆς γὰρ ἔχετε χρείαν ἵνα τὸ θέλημα τοῦ θεοῦ ποιήσαντες κομίσησθε τὴν ἐπαγγελίαν",
+      "finnish_biblia": "Sillä kärsivällisyys on teille tarpeellinen, tehdäksenne Jumalan tahtoa, että te lupauksen saisitte. ",
+      "swedish_karl_xii": "Ty tolamodet är eder behof; på thet J mågen giöra Gudz wilja, och få thet som låfwat är.",
+      "king_james": "For ye have need of patience, that, after ye have done the will of God, ye might receive the promise."
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "Adhuc enim modicum aliquantulum, qui venturus est, veniet, et non tardabit.",
+      "greek_textus_receptus": "eti gar mikron oson oson o erxomenoj hcei kai ou xroniei",
+      "finnish_biblia": "Sillä vähän hetken perästä tulee se, joka tuleva on, ja ei viivyttele. ",
+      "swedish_karl_xii": "Ty ännu en liten tijd, så kommer then som komma skal, och fördröijer icke.",
+      "king_james": "For yet a little while, and he that shall come will come, and will not tarry."
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "Justus autem meus ex fide vivit: quod si subtraxerit se, non placebit animæ meæ.",
+      "greek_textus_receptus": "ὁ δὲ δίκαιός ἐκ πίστεως ζήσεται καὶ ἐὰν ὑποστείληται οὐκ εὐδοκεῖ ἡ ψυχή μου ἐν αὐτῷ",
+      "finnish_biblia": "Mutta vanhurskas elää uskosta: ja joka välttää, siihen ei minun sieluni mielisty. ",
+      "swedish_karl_xii": "Men then rättferdige skal lefwa af troon: och hwilken sigh vndandrager, han skal icke behaga mine siäl.",
+      "king_james": "Now the just shall live by faith: but if *any man* draw back, my soul shall have no pleasure in him."
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": "Nos autem non sumus subtractionis filii in perditionem, sed fidei in acquisitionem animæ.",
+      "greek_textus_receptus": "ἡμεῖς δὲ οὐκ ἐσμὲν ὑποστολῆς εἰς ἀπώλειαν ἀλλὰ πίστεως εἰς περιποίησιν ψυχῆς",
+      "finnish_biblia": "Mutta emme ole ne, jotka meitämme kadotukseen vältämme, vaan jotka uskomme sielun tallella pitämiseen.   ",
+      "swedish_karl_xii": "Men wij ärom icke the som oß vndandrage til förtapelse: vtan af them som troo, och frälsa siälena.",
+      "king_james": "But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul."
+    }
+  ]
+}

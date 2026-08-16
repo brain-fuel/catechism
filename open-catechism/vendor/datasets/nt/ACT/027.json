@@ -1,0 +1,363 @@
+{
+  "book_id": "ACT",
+  "latin_name": "Actus Apostolorum",
+  "greek_name": "Πράξεις Ἀποστόλων",
+  "finnish_name": "Apostolien teot",
+  "swedish_name": "Apostla Hierningar, Af S. Luca beskrifna",
+  "english_name": "The Acts of the Apostles",
+  "chapter": 27,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Ut autem judicatum est navigare eum in Italiam, et tradi Paulum cum reliquis custodiis centurioni nomine Julio cohortis Augustæ,",
+      "greek_textus_receptus": "ὡς δὲ ἐκρίθη τοῦ ἀποπλεῖν ἡμᾶς εἰς τὴν ἰταλίαν παρεδίδουν τόν τε παῦλον καί τινας ἑτέρους δεσμώτας ἑκατοντάρχῃ ὀνόματι ἰουλίῳ σπείρης σεβαστῆς",
+      "finnish_biblia": "Mutta sittenkuin päätetty oli, että meidän piti Italiaan purjehtiman, antoivat he Paavalin muiden vankien kanssa yhden sadanpäämiehen haltuun, joka kutsuttiin Julius, keisarin sotajoukosta. ",
+      "swedish_karl_xii": "Sedan nu beslutit war, at wij skulle segla til Walland, antwardade the Paulum, och några andra fångar vnderhöfwitzmannenom, som heet Julius, af then Keiserska skaren.",
+      "king_james": "And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto *one* named Julius, a centurion of Augustus' band."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "ascendentes navem Adrumetinam, incipientes navigare circa Asiæ loca, sustulimus, perseverante nobiscum Aristarcho Macedone Thessalonicensi.",
+      "greek_textus_receptus": "ἐπιβάντες δὲ πλοίῳ ἀδραμυττηνῷ μέλλοντες πλεῖν τοὺς κατὰ τὴν ἀσίαν τόπους ἀνήχθημεν ὄντος σὺν ἡμῖν ἀριστάρχου μακεδόνος θεσσαλονικέως",
+      "finnish_biblia": "Kuin me siis astuimme Adramytin haahteen, ja meidän piti purjehtiman Asian ohitse, laskimme me ulos maalta. Ja meidän kanssamme oli Aristarkus, Makedonian mies, Tessalonikasta. ",
+      "swedish_karl_xii": "Och som wij stege vthi ett Adramytiskt skep, och skulle segla vth medh Asien, lade wij af: och medh oß blef Aristarchus en Macedonisk man, af Thessalonica.",
+      "king_james": "And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; *one* Aristarchus, a Macedonian of Thessalonica, being with us."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Sequenti autem die devenimus Sidonem. Humane autem tractans Julius Paulum, permisit ad amicos ire, et curam sui agere.",
+      "greek_textus_receptus": "τῇ τε ἑτέρᾳ κατήχθημεν εἰς σιδῶνα φιλανθρώπως τε ὁ ἰούλιος τῷ παύλῳ χρησάμενος ἐπέτρεψεν πρὸς φίλους πορευθέντα ἐπιμελείας τυχεῖν",
+      "finnish_biblia": "Ja me tulimme toisena päivänä Sidoniin. Ja Julius meni hyvästi Paavalin kanssa, ja salli hänen mennä ystäväinsä tykö ja heiltä holhottaa. ",
+      "swedish_karl_xii": "Och dagen ther efter, lade wij til Sidon. Och Julius foor wäl medh Paulo, och tilstadde, at han gick til sina wänner, och lät giöra sigh til godo.",
+      "king_james": "And the next *day* we touched at Sidon. And Julius courteously entreated Paul, and gave *him* liberty to go unto his friends to refresh himself."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Et inde cum sustulissemus, subnavigavimus Cyprum, propterea quod essent venti contrarii.",
+      "greek_textus_receptus": "κἀκεῖθεν ἀναχθέντες ὑπεπλεύσαμεν τὴν κύπρον διὰ τὸ τοὺς ἀνέμους εἶναι ἐναντίους",
+      "finnish_biblia": "Ja kuin me sieltä laskimme ulos, niin me purjehdimme Kyprin ohitse, että vastatuulet olivat. ",
+      "swedish_karl_xii": "Och när wij lade tädan, seglade wij vth medh Cypren; ty wädret war oß emot:",
+      "king_james": "And when we had launched from thence, we sailed under Cyprus, because the winds were contrary."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et pelagus Ciliciæ et Pamphyliæ navigantes, venimus Lystram, quæ est Lyciæ:",
+      "greek_textus_receptus": "τό τε πέλαγος τὸ κατὰ τὴν κιλικίαν καὶ παμφυλίαν διαπλεύσαντες κατήλθομεν εἰς μύρα τῆς λυκίας",
+      "finnish_biblia": "Ja kuin me olimme purjehtineet yli meren, joka Kilikian ja Pamphilian kohdalla on, ja tulimme Myraan, joka on Lykiassa, ",
+      "swedish_karl_xii": "Och seglade wij öfwer hafwet, som är emot Cilicien och Pamphylien, och kommom in til Myra som är i Lycien.",
+      "king_james": "And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, *a city* of Lycia."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "et ibi inveniens centurio navem Alexandrinam navigantem in Italiam, transposuit nos in eam.",
+      "greek_textus_receptus": "κἀκεῖ εὑρὼν ὁ ἑκατόνταρχος πλοῖον ἀλεξανδρῖνον πλέον εἰς τὴν ἰταλίαν ἐνεβίβασεν ἡμᾶς εἰς αὐτό",
+      "finnish_biblia": "Niin löysi sadanpäämies siellä yhden Aleksandrialaisen haahden, joka Italiaan purjehti, ja pani meidät siihen. ",
+      "swedish_karl_xii": "Och ther fick höfwitzmannen ett skep som war af Alexandria, och segla skulle til Walland; ther satte han oß in.",
+      "king_james": "And there the centurion found a ship of Alexandria sailing into Italy; and he put us therein."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et cum multis diebus tarde navigaremus, et vix devenissemus contra Gnidum, prohibente nos vento, adnavigavimus Cretæ juxta Salmonem:",
+      "greek_textus_receptus": "ἐν ἱκαναῖς δὲ ἡμέραις βραδυπλοοῦντες καὶ μόλις γενόμενοι κατὰ τὴν κνίδον μὴ προσεῶντος ἡμᾶς τοῦ ἀνέμου ὑπεπλεύσαμεν τὴν κρήτην κατὰ σαλμώνην",
+      "finnish_biblia": "Kuin me monta päivää hitaasti purjehdimme ja tuskalla Knidon saavutimme, ettemme päässeet tuulelta, niin me purjehdimme Kretan alle, Salmoneen päin. ",
+      "swedish_karl_xii": "Och tå wij långsamliga seglat hade i många dagar, och som nogast komma kunde in moot Gnidum, för motwäder skul, seglade wij in vnder Creta, widh Salmone.",
+      "king_james": "And when we had sailed slowly many days, and scarce were come over against Cnidus, the wind not suffering us, we sailed under Crete, over against Salmone;"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "et vix juxta navigantes, venimus in locum quemdam qui vocatur Boniportus, cui juxta erat civitas Thalassa.",
+      "greek_textus_receptus": "μόλις τε παραλεγόμενοι αὐτὴν ἤλθομεν εἰς τόπον τινὰ καλούμενον καλοὺς λιμένας ᾧ ἐγγὺς ἦν πόλις λασαία",
+      "finnish_biblia": "Ja kuin me tuskin sen ohitse pääsimme, niin me tulimme yhteen paikkaan, joka Kauniiksi satamaksi kutsutaan, jota läsnä oli Lasean kaupunki. ",
+      "swedish_karl_xii": "Och kommom som nogast fram om, och in til ett rum, som kallades Skiöna hamn; och war staden Lasea icke långt ther ifrå.",
+      "king_james": "And, hardly passing it, came unto a place which is called The fair havens; nigh whereunto was the city *of* Lasea."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Multo autem tempore peracto, et cum jam non esset tuta navigatio eo quod et jejunium jam præteriisset, consolabatur eos Paulus,",
+      "greek_textus_receptus": "ἱκανοῦ δὲ χρόνου διαγενομένου καὶ ὄντος ἤδη ἐπισφαλοῦς τοῦ πλοὸς διὰ τὸ καὶ τὴν νηστείαν ἤδη παρεληλυθέναι παρῄνει ὁ παῦλος",
+      "finnish_biblia": "Koska paljo aikaa oli kulunut, ja purjehdus oli vaarallinen, ja paaston aika oli jo kulunut, neuvoi Paavali heitä, ",
+      "swedish_karl_xii": "Tå nu mycken tijd war förlupen, och seglatsen begynte wara fahrlig, therföre, at ock fastan war allaredo förliden, förmanade Paulus them,",
+      "king_james": "Now when much time was spent, and when sailing was now dangerous, because the fast was now already past, Paul admonished *them*,"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "dicens eis: Viri, video quoniam cum injuria et multo damno non solum oneris, et navis, sed etiam animarum nostrarum incipit esse navigatio.",
+      "greek_textus_receptus": "λέγων αὐτοῖς, ἄνδρες θεωρῶ ὅτι μετὰ ὕβρεως καὶ πολλῆς ζημίας οὐ μόνον τοῦ φόρτου καὶ τοῦ πλοίου ἀλλὰ καὶ τῶν ψυχῶν ἡμῶν μέλλειν ἔσεσθαι τὸν πλοῦν",
+      "finnish_biblia": "Sanoen: armaat miehet! minä näen, että purjehdus tulee vaaralliseksi ja vahingolliseksi, ei ainoastaan kalulle ja haahdelle, mutta myös meidän hengellemme. ",
+      "swedish_karl_xii": "Och sade til them: J män, jagh seer at seglatsen wil wara medh wedermödo, och stoor skada, icke allenast til skep och godz, vtan jemwäl på wårt lijf.",
+      "king_james": "And said unto them, Sirs, I perceive that this voyage will be with hurt and much damage, not only of the lading and ship, but also of our lives."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Centurio autem gubernatori et nauclero magis credebat, quam his quæ a Paulo dicebantur.",
+      "greek_textus_receptus": "ὁ δὲ ἑκατόνταρχος τῷ κυβερνήτῃ καὶ τῷ ναυκλήρῳ ἐπείθετο μᾶλλον ἢ τοῖς ὑπὸ τοῦ παύλου λεγομένοις",
+      "finnish_biblia": "Mutta sadanpäämies uskoi enemmin haahdenhaltiaa ja peränpitäjää kuin Paavalin sanoja. ",
+      "swedish_karl_xii": "Men höfwitzmannen trodde skeparenom, och styremannenom, meer än thet Paulus sade.",
+      "king_james": "Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Et cum aptus portus non esset ad hiemandum, plurimi statuerunt consilium navigare inde, si quomodo possent, devenientes Phœnicen hiemare, portum Cretæ respicientem ad Africum et ad Corum.",
+      "greek_textus_receptus": "ἀνευθέτου δὲ τοῦ λιμένος ὑπάρχοντος πρὸς παραχειμασίαν οἱ πλείους ἔθεντο βουλὴν ἀναχθῆναι κἀκεῖθεν εἴπως δύναιντο καταντήσαντες εἰς φοίνικα παραχειμάσαι λιμένα τῆς κρήτης βλέποντα κατὰ λίβα καὶ κατὰ χῶρον",
+      "finnish_biblia": "Ja kuin ei satama ollut sovelias yli talvea olla, niin he enimmitten mielistyivät siihen neuvoon, että sieltä piti laskettaman pois, jos he jollakin muotoa olisivat voineet tulla Phoinikaan talvea pitämään, joka on Kretan satama, etelälänteä ja luodepohjaa päin. ",
+      "swedish_karl_xii": "Och efter ther war icke hamn til at liggia i winterläge, föllo the mästa parten på thet rådet, at läggia tädan, at the, om någorlunda skee kunde, måtte komma til Phenicen, och liggia ther i winterläge: then hamnen är på Creta, för sudwäst och nordwäst.",
+      "king_james": "And because the haven was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, *and there* to winter; *which is* an haven of Crete, and lieth toward the south west and north west."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Aspirante autem austro, æstimantes propositum se tenere, cum sustulissent de Asson, legebant Cretam.",
+      "greek_textus_receptus": "ὑποπνεύσαντος δὲ νότου δόξαντες τῆς προθέσεως κεκρατηκέναι ἄραντες ἆσσον παρελέγοντο τὴν κρήτην",
+      "finnish_biblia": "Mutta kuin etelätuuli rupesi puhaltamaan, luulivat he aikomisensa käyvän edes, läksivät matkaan ja purjehtivat Kretan ohitse lähempänä maata. ",
+      "swedish_karl_xii": "Och som nu sönnan wäder begynte blåsa, meente the hafwa efter sin wilja: och tå the lade ifrån Asson, seglade the vth medh Creta.",
+      "king_james": "And when the south wind blew softly, supposing that they had obtained *their* purpose, loosing *thence*, they sailed close by Crete."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Non post multum autem misit se contra ipsam ventus typhonicus, qui vocatur Euroaquilo.",
+      "greek_textus_receptus": "μετ᾽ οὐ πολὺ δὲ ἔβαλεν κατ᾽ αὐτῆς ἄνεμος τυφωνικὸς ὁ καλούμενος εὐροκλύδων",
+      "finnish_biblia": "Mutta ei kauvan aikaa jälkeen löi sen päälle ankara puuskatuuli, joka itäpohjaksi kutsutaan. ",
+      "swedish_karl_xii": "Men icke långt efter, stack sigh vp emot them ett iligt wäder, som kallas nordost.",
+      "king_james": "But not long after there arose against it a tempestuous wind, called Euroclydon."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Cumque arrepta esset navis, et non posset conari in ventum, data nave flatibus, ferebamur.",
+      "greek_textus_receptus": "συναρπασθέντος δὲ τοῦ πλοίου καὶ μὴ δυναμένου ἀντοφθαλμεῖν τῷ ἀνέμῳ ἐπιδόντες ἐφερόμεθα",
+      "finnish_biblia": "Ja kuin haaksi tuli sen valtaan eikä voinut tuulta vastaan seisoa, laskimme me sen tuulen haltuun kulkemaan. ",
+      "swedish_karl_xii": "Och tå skepet wardt begripit, och kunde icke begå sigh för wädret, läte wij drifwa för wädret;",
+      "king_james": "And when the ship was caught, and could not bear up into the wind, we let *her* drive."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "In insulam autem quamdam decurrentes, quæ vocatur Cauda, potuimus vix obtinere scapham.",
+      "greek_textus_receptus": "νησίον δέ τι ὑποδραμόντες καλούμενον κλαύδην, μόλις ἰσχύσαμεν περικρατεῖς γενέσθαι τῆς σκάφης",
+      "finnish_biblia": "Ja kuin me tulimme yhden vähän saaren alle, joka kutsutaan Klauda, saimme me tuskalla venheesen ruveta, ",
+      "swedish_karl_xii": "Och kommom vnder ena öö, som kallas Clauda, och kundom medh platz få in båten.",
+      "king_james": "And running under a certain island which is called Clauda, we had much work to come by the boat:"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Qua sublata, adjutoriis utebantur, accingentes navem, timentes ne in Syrtim inciderent, summisso vase sic ferebantur.",
+      "greek_textus_receptus": "ἣν ἄραντες βοηθείαις ἐχρῶντο ὑποζωννύντες τὸ πλοῖον φοβούμενοί τε μὴ εἰς τὴν σύρτιν ἐκπέσωσιν χαλάσαντες τὸ σκεῦος οὕτως ἐφέροντο",
+      "finnish_biblia": "Jonka me otimme avuksemme ja sidoimme haahteen, peljäten, ettei sen pitänyt kariin sattuman; ja he laskivat alas purheen ja antoivat kulkea. ",
+      "swedish_karl_xii": "Tå the tagit then vp, brukade the hielp, och bundo skepet: och tå the fruchtade, at thet skulle komma på sandräfwelen, kastade the vth ett hinderfat, och läto så wräka.",
+      "king_james": "Which when they had taken up, they used helps, undergirding the ship; and, fearing lest they should fall into the quicksands, strake sail, and so were driven."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Valida autem nobis tempestate jactatis, sequenti die jactum fecerunt:",
+      "greek_textus_receptus": "σφοδρῶς δὲ χειμαζομένων ἡμῶν τῇ ἑξῆς ἐκβολὴν ἐποιοῦντο",
+      "finnish_biblia": "Mutta koska suuri ilma kävi päälle, heittivät he toisena päivänä kalun ulos. ",
+      "swedish_karl_xii": "Och som stormen gick oß swårliga vppå, kastade the dagen ther efter godset vth.",
+      "king_james": "And we being exceedingly tossed with a tempest, the next *day* they lightened the ship;"
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "et tertia die suis manibus armamenta navis projecerunt.",
+      "greek_textus_receptus": "καὶ τῇ τρίτῃ αὐτόχειρες τὴν σκευὴν τοῦ πλοίου ἔῤῥιψαμεν",
+      "finnish_biblia": "Ja kolmantena päivänä heitimme me omilla käsillämme ulos haahden kaluja. ",
+      "swedish_karl_xii": "Och tredie dagen kastade wij skepredzskapen vth medh wåra händer.",
+      "king_james": "And the third *day* we cast out with our own hands the tackling of the ship."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Neque autem sole, neque sideribus apparentibus per plures dies, et tempestate non exigua imminente, jam ablata erat spes omnis salutis nostræ.",
+      "greek_textus_receptus": "μήτε δὲ ἡλίου μήτε ἄστρων ἐπιφαινόντων ἐπὶ πλείονας ἡμέρας χειμῶνός τε οὐκ ὀλίγου ἐπικειμένου λοιπὸν περιῃρεῖτο πᾶσα ἐλπὶς τοῦ σῴζεσθαι ἡμᾶς",
+      "finnish_biblia": "Mutta kuin emme monena päivänä aurinkoa emmekä tähtiä nähneet, eikä vähin ilma meidän päällemme käynyt, niin meidän elämämme toivo oli jo kaikki pois. ",
+      "swedish_karl_xii": "Och tå hwarken sool eller stiernor syntes i många dagar, och stormen låg oß swårliga vppå, war oß alt hopp borto om wår wälfärd.",
+      "king_james": "And when neither sun nor stars in many days appeared, and no small tempest lay on *us*, all hope that we should be saved was then taken away."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Et cum multa jejunatio fuisset, tunc stans Paulus in medio eorum, dixit: Oportebat quidem, o viri, audito me, non tollere a Creta, lucrique facere injuriam hanc et jacturam.",
+      "greek_textus_receptus": "πολλῆς δέ ἀσιτίας ὑπαρχούσης τότε σταθεὶς ὁ παῦλος ἐν μέσῳ αὐτῶν εἶπεν ἔδει μέν ὦ ἄνδρες πειθαρχήσαντάς μοι μὴ ἀνάγεσθαι ἀπὸ τῆς κρήτης κερδῆσαί τε τὴν ὕβριν ταύτην καὶ τὴν ζημίαν",
+      "finnish_biblia": "Ja koska me kauvan aikaa olimme syömättä, silloin seisoi Paavali heidän keskellänsä ja sanoi: miehet, teidän olis tullut minua kuulla ja ei Kretasta laskea ulos, että me olisimme välttäneet tainkaltaisen tuskan ja vahingon. ",
+      "swedish_karl_xii": "Och tå the nu i lång tijd intet ätit hade, stod Paulus vp mitt ibland them, och sade: J män, thet hade wäl tilbörligit warit, at J haden hördt migh, och icke lagt ifrå Creta, och icke kommet oß thenna wedermödon och skadan vppå.",
+      "king_james": "But after long abstinence Paul stood forth in the midst of them, and said, Sirs, ye should have hearkened unto me, and not have loosed from Crete, and to have gained this harm and loss."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Et nunc suadeo vobis bono animo esse: amissio enim nullius animæ erit ex vobis, præterquam navis.",
+      "greek_textus_receptus": "καὶ τανῦν παραινῶ ὑμᾶς εὐθυμεῖν ἀποβολὴ γὰρ ψυχῆς οὐδεμία ἔσται ἐξ ὑμῶν πλὴν τοῦ πλοίου",
+      "finnish_biblia": "Ja nytkin minä neuvon teitä, olkaat hyvässä uskalluksesta, ei teistä yksikään huku, vaan ainoastaan haaksi. ",
+      "swedish_karl_xii": "Och nu förmanar jagh, at J waren widh ett godt modh: ty ingom af eder skal något skada til lifwet, vtan allena skepet.",
+      "king_james": "And now I exhort you to be of good cheer: for there shall be no loss of *any man's* life among you, but of the ship."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Astitit enim mihi hac nocte angelus Dei, cujus sum ego, et cui deservio,",
+      "greek_textus_receptus": "παρέστη γάρ μοι τῇ νυκτὶ ταύτῃ ἄγγελος τοῦ θεοῦ οὗ εἰμι ᾧ καὶ λατρεύω",
+      "finnish_biblia": "Sillä minun tykönäni seisoi tänä yönä Jumalan enkeli, jonka oma minä olen, jota minä myös palvelen, ",
+      "swedish_karl_xii": "Ty i thenna nattene stod Gudz Ängel när migh, then jagh tilhörer, och then jagh dyrkar, och sade:",
+      "king_james": "For there stood by me this night the angel of God, whose I am, and whom I serve,"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "dicens: Ne timeas, Paule: Cæsari te oportet assistere: et ecce donavit tibi Deus omnes qui navigant tecum.",
+      "greek_textus_receptus": "λέγων, μὴ φοβοῦ παῦλε καίσαρί σε δεῖ παραστῆναι καὶ ἰδού, κεχάρισταί σοι ὁ θεὸς πάντας τοὺς πλέοντας μετὰ σοῦ",
+      "finnish_biblia": "Ja sanoi: älä pelkää, Paavali, sinä pitää keisarin eteen asetettaman, ja katso, Jumala on sinulle lahjoittanut ne kaikki, jotka sinun kanssas purjehtivat. ",
+      "swedish_karl_xii": "Fruchta tigh intet, Paule, tu måste komma fram för Keisaren: och sij, Gudh hafwer gifwit tigh alla the som segla medh tigh.",
+      "king_james": "Saying, Fear not, Paul; thou must be brought before Caesar: and, lo, God hath given thee all them that sail with thee."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Propter quod bono animo estote, viri: credo enim Deo quia sic erit, quemadmodum dictum est mihi.",
+      "greek_textus_receptus": "διὸ εὐθυμεῖτε ἄνδρες πιστεύω γὰρ τῷ θεῷ ὅτι οὕτως ἔσται καθ᾽ ὃν τρόπον λελάληταί μοι",
+      "finnish_biblia": "Sentähden miehet, olkaat hyvässä uskalluksessa! Sillä minä uskon Jumalan päälle, että se niin tapahtuu, kuin minulle sanottu on. ",
+      "swedish_karl_xii": "Therföre warer widh ett godt modh, J män: ty jagh troor Gudi, at så skeer som migh sagt är.",
+      "king_james": "Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "In insulam autem quamdam oportet nos devenire.",
+      "greek_textus_receptus": "εἰς νῆσον δέ τινα δεῖ ἡμᾶς ἐκπεσεῖν",
+      "finnish_biblia": "Mutta yhteen luotoon pitää meidän kulkeman. ",
+      "swedish_karl_xii": "Vppå ena öö skole wij wräkne warda.",
+      "king_james": "Howbeit we must be cast upon a certain island."
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Sed posteaquam quartadecima nox supervenit, navigantibus nobis in Adria circa mediam noctem, suspicabantur nautæ apparere sibi aliquam regionem.",
+      "greek_textus_receptus": "ὡς δὲ τεσσαρεσκαιδεκάτη νὺξ ἐγένετο διαφερομένων ἡμῶν ἐν τῷ ἀδρίᾳ κατὰ μέσον τῆς νυκτὸς ὑπενόουν οἱ ναῦται προσάγειν τινὰ αὐτοῖς χώραν",
+      "finnish_biblia": "Kuin neljästoistakymmenes yö joutui, ja me ajeltiin Adrian merellä, äkkäsivät haaksimiehet puoliyön aikaan jonkun maan heitä lähestyvän, ",
+      "swedish_karl_xii": "Tå fiortonde natten kom, och wij forom vthi Adria, widh midnatz tijd, tycktes skepmännerna, at them syntes ett land:",
+      "king_james": "But when the fourteenth night was come, as we were driven up and down in Adria, about midnight the shipmen deemed that they drew near to some country;"
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Qui et summittentes bolidem, invenerunt passus viginti: et pusillum inde separati, invenerunt passus quindecim.",
+      "greek_textus_receptus": "καὶ βολίσαντες εὗρον ὀργυιὰς εἴκοσι βραχὺ δὲ διαστήσαντες καὶ πάλιν βολίσαντες εὗρον ὀργυιὰς δεκαπέντε",
+      "finnish_biblia": "Ja heittivät ulos luotirihman ja löysivät kaksikymmentä kyynärää syväksi; kuin he tulivat vähää edemmä, heittivät he taas ulos luotirihman ja löysivät viisitoistakymmentä kyynärää. ",
+      "swedish_karl_xii": "Och kastade vth lodet, och funno tiugu famnar diup; och kommo litet länger fram, och kastade åter lodet, och funno femton famnar diup.",
+      "king_james": "And sounded, and found *it* twenty fathoms: and when they had gone a little further, they sounded again, and found *it* fifteen fathoms."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Timentes autem ne in aspera loca incideremus, de puppi mittentes anchoras quatuor, optabant diem fieri.",
+      "greek_textus_receptus": "φοβούμενοί τε μήπως εἰς τραχεῖς τόπους ἐκπέσωσιν ἐκ πρύμνης ῥίψαντες ἀγκύρας τέσσαρας ηὔχοντο ἡμέραν γενέσθαι",
+      "finnish_biblia": "Niin he pelkäsivät joutuvansa johonkuhun kariin, ja heittivät ulos neljä ankkuria perältä haahta, ja toivoivat päivän koittavan. ",
+      "swedish_karl_xii": "Och så fruchtade the, at the skulle komma på något skarpt grund, och kastade fyra ankar vth af bakskepet, och önskade at dagas skulle.",
+      "king_james": "Then fearing lest we should have fallen upon rocks, they cast four anchors out of the stern, and wished for the day."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Nautis vero quærentibus fugere de navi, cum misissent scapham in mare, sub obtentu quasi inciperent a prora anchoras extendere,",
+      "greek_textus_receptus": "τῶν δὲ ναυτῶν ζητούντων φυγεῖν ἐκ τοῦ πλοίου καὶ χαλασάντων τὴν σκάφην εἰς τὴν θάλασσαν προφάσει ὡς ἐκ πρώρας μελλόντων ἀγκύρας ἐκτείνειν",
+      "finnish_biblia": "Mutta kuin haaksimiehet pyysivät haahdesta paeta, ja lykkäsivät venheen mereen, sanoen että he tahtoivat ankkuria viedä ulos haahden keulasta, ",
+      "swedish_karl_xii": "Tå sökte skepmännerna efter, huru the skulle komma sina färde vthu skepet, och kastade vth båten i hafwet vnder thet skien, at the wille föra vth ankare af framskepet.",
+      "king_james": "And as the shipmen were about to flee out of the ship, when they had let down the boat into the sea, under colour as though they would have cast anchors out of the foreship,"
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "dixit Paulus centurioni et militibus: Nisi hi in navi manserint, vos salvi fieri non potestis.",
+      "greek_textus_receptus": "εἶπεν ὁ παῦλος τῷ ἑκατοντάρχῃ καὶ τοῖς στρατιώταις ἐὰν μὴ οὗτοι μείνωσιν ἐν τῷ πλοίῳ ὑμεῖς σωθῆναι οὐ δύνασθε",
+      "finnish_biblia": "Niin Paavali sanoi sadanpäämiehelle ja sotamiehille: ellei nämät haahdessa pysy, ette suinkaan henkeänne pelasta. ",
+      "swedish_karl_xii": "Tå sade Paulus til höfwitzmannen, och til krigsknechterna: Vtan thesse blifwa i skepet, så warden icke J behåldne.",
+      "king_james": "Paul said to the centurion and to the soldiers, Except these abide in the ship, ye cannot be saved."
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Tunc absciderunt milites funes scaphæ, et passi sunt eam excidere.",
+      "greek_textus_receptus": "τότε οἱ στρατιῶται ἀπέκοψαν τὰ σχοινία τῆς σκάφης καὶ εἴασαν αὐτὴν ἐκπεσεῖν",
+      "finnish_biblia": "Niin sotamiehet hakkasivat poikki venheen pestin, ja antoivat sen pudota. ",
+      "swedish_karl_xii": "Tå höggo krigsknechterna af fästona til båten, och läto honom fara.",
+      "king_james": "Then the soldiers cut off the ropes of the boat, and let her fall off."
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "Et cum lux inciperet fieri, rogabat Paulus omnes sumere cibum, dicens: Quartadecima die hodie exspectantes jejuni permanetis, nihil accipientes.",
+      "greek_textus_receptus": "ἄχρι δὲ οὗ ἔμελλεν ἡμέρα γίνεσθαι παρεκάλει ὁ παῦλος ἅπαντας μεταλαβεῖν τροφῆς λέγων, τεσσαρεσκαιδεκάτην σήμερον ἡμέραν προσδοκῶντες ἄσιτοι διατελεῖτε μηδὲν προσλαβόμενοι",
+      "finnish_biblia": "Ja kuin päivä rupesi valkenemaan, neuvoi Paavali kaikkia heitä ruokaa ottamaan, sanoen: tänäpänä on neljästoistakymmenes päivä, kuin te odottaneet olette, ja syömättä olleet, ja ette mitään ole tykönne ottaneet: ",
+      "swedish_karl_xii": "Och som dagen begynte synas, rådde Paulus them allom, at the skulle få sigh maat; och sade: Thetta är fiortonde dagen, at J hafwen förbidt, och blifwit fastande, och hafwen intet taget til eder.",
+      "king_james": "And while the day was coming on, Paul besought *them* all to take meat, saying, This day is the fourteenth day that ye have tarried and continued fasting, having taken nothing."
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "Propter quod rogo vos accipere cibum pro salute vestra: quia nullius vestrum capillus de capite peribit.",
+      "greek_textus_receptus": "διὸ παρακαλῶ ὑμᾶς προσλαβεῖν τροφῆς τοῦτο γὰρ πρὸς τῆς ὑμετέρας σωτηρίας ὑπάρχει οὐδενὸς γὰρ ὑμῶν θρὶξ ἐκ τῆς κεφαλῆς πεσεῖται",
+      "finnish_biblia": "Sentähden neuvon minä teitä ruokaa ottamaan, joka on teille terveydeksi; sillä ei yhdenkään teidän päästänne ole hiuskarva putoova. ",
+      "swedish_karl_xii": "Hwarföre råder jagh eder at J fåån eder maat: ty thet hörer edra wälfärd til: ty ingens edars ett hår skal falla af hans hufwud.",
+      "king_james": "Wherefore I pray you to take *some* meat: for this is for your health: for there shall not an hair fall from the head of any of you."
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "Et cum hæc dixisset, sumens panem, gratias egit Deo in conspectu omnium: et cum fregisset, cœpit manducare.",
+      "greek_textus_receptus": "εἴπων δὲ ταῦτα καὶ λαβὼν ἄρτον εὐχαρίστησεν τῷ θεῷ ἐνώπιον πάντων καὶ κλάσας ἤρξατο ἐσθίειν",
+      "finnish_biblia": "Ja kuin hän sen oli sanonut, otti hän leivän, ja kiitti Jumalaa kaikkein nähden, mursi, ja rupesi syömään. ",
+      "swedish_karl_xii": "Och när han thet sagt hade, tog han brödet, och tackade Gudh i allas theras åsyn: och tå han thet brutit hade, begynte han äta.",
+      "king_james": "And when he had thus spoken, he took bread, and gave thanks to God in presence of them all: and when he had broken *it*, he began to eat."
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "Animæquiores autem facti omnes, et ipsi sumpserunt cibum.",
+      "greek_textus_receptus": "εὔθυμοι δὲ γενόμενοι πάντες καὶ αὐτοὶ προσελάβοντο τροφῆς",
+      "finnish_biblia": "Ja kuin he kaikki itsensä vahvistivat, rupesivat he myös syömään. ",
+      "swedish_karl_xii": "Tå wordo the alle widh ett bättre modh, och begynte ock the äta.",
+      "king_james": "Then were they all of good cheer, and they also took *some* meat."
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "Eramus vero universæ animæ in navi ducentæ septuaginta sex.",
+      "greek_textus_receptus": "ἤμεν δὲ ἐν τῷ πλοίῳ αἱ πᾶσαι ψυχαὶ διακόσιαι ἑβδομήκονταέξ",
+      "finnish_biblia": "Mutta meitä oli haahdessa kaikki yhteen kaksisataa ja kuusikahdeksattakymmentä henkeä. ",
+      "swedish_karl_xii": "Och wij woro i skepet alle tilhopa, twhundrade sex och siutijo siälar:",
+      "king_james": "And we were in all in the ship two hundred threescore and sixteen souls."
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "Et satiati cibo alleviabant navem, jactantes triticum in mare.",
+      "greek_textus_receptus": "κορεσθέντες δὲ τροφῆς ἐκούφιζον τὸ πλοῖον ἐκβαλλόμενοι τὸν σῖτον εἰς τὴν θάλασσαν",
+      "finnish_biblia": "Ja kuin he olivat ravitut, kevensivät he haahden ja heittivät jyvät mereen. ",
+      "swedish_karl_xii": "Och tå the woro mätte, lättade the skepet, och kastade vth hwete i hafwet.",
+      "king_james": "And when they had eaten enough, they lightened the ship, and cast out the wheat into the sea."
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": "Cum autem dies factus esset, terram non agnoscebant: sinum vero quemdam considerabant habentem littus, in quem cogitabant si possent ejicere navem.",
+      "greek_textus_receptus": "ὅτε δὲ ἡμέρα ἐγένετο τὴν γῆν οὐκ ἐπεγίνωσκον κόλπον δέ τινα κατενόουν ἔχοντα αἰγιαλὸν εἰς ὃν ἐβουλεύσαντο, εἰ δύναιντο ἐξῶσαι τὸ πλοῖον",
+      "finnish_biblia": "Mutta kuin päivä tuli, niin ei he tunteneet maata, mutta havaitsivat lahden, jossa ranta oli, jonka päälle he mielivät antaa haahden ajaa, jos he olisivat taitaneet. ",
+      "swedish_karl_xii": "När dager wardt, kände the intet landet: men the wordo warse ena wijk, i hwilko een strand war, tijt the meente wilja låta drifwa skepet, om the kunde.",
+      "king_james": "And when it was day, they knew not the land: but they discovered a certain creek with a shore, into the which they were minded, if it were possible, to thrust in the ship."
+    },
+    {
+      "verse": 40,
+      "latin_vulgate": "Et cum anchoras sustulissent, committebant se mari, simul laxantes juncturas gubernaculorum: et levato artemone secundum auræ flatum, tendebant ad littus.",
+      "greek_textus_receptus": "καὶ τὰς ἀγκύρας περιελόντες εἴων εἰς τὴν θάλασσαν ἅμα ἀνέντες τὰς ζευκτηρίας τῶν πηδαλίων καὶ ἐπάραντες τὸν ἀρτέμονα τῇ πνεούσῃ κατεῖχον εἰς τὸν αἰγιαλόν",
+      "finnish_biblia": "Ja kuin he ankkurit olivat ottaneet ylös, läksivät he mereen ja päästivät perälautain siteet, ja asettivat purjeen tuuleen, ja antoivat juosta rantaa kohden. ",
+      "swedish_karl_xii": "Och när the hade vptagit ankaren, gåfwo the sigh til siös, och vplöste roderbanden, och hade vp seglet til wäders, och läto gå åth stran dene.",
+      "king_james": "And when they had taken up the anchors, they committed *themselves* unto the sea, and loosed the rudder bands, and hoised up the mainsail to the wind, and made toward shore."
+    },
+    {
+      "verse": 41,
+      "latin_vulgate": "Et cum incidissemus in locum dithalassum, impegerunt navem: et prora quidem fixa manebat immobilis, puppis vero solvebatur a vi maris.",
+      "greek_textus_receptus": "περιπεσόντες δὲ εἰς τόπον διθάλασσον ἐπώκειλαν τὴν ναῦν καὶ ἡ μὲν πρῷρα ἐρείσασα ἔμεινεν ἀσάλευτος ἡ δὲ πρύμνα ἐλύετο ὑπὸ τῆς βίας τῶν κυμάτων",
+      "finnish_biblia": "Vaan kuin me tulimme yhden niemen tykö, loukkaantui haaksi, ja sen keula tarttui kiinni ja jäi seisomaan, mutta kastari tuli valallensa aaltoin väestä. ",
+      "swedish_karl_xii": "Doch kommo the på en räfwel, och skepet stötte: och framskepet blef ståndandes fast orörligit; men bakskepet lossades af wågene.",
+      "king_james": "And falling into a place where two seas met, they ran the ship aground; and the forepart stuck fast, and remained unmoveable, but the hinder part was broken with the violence of the waves."
+    },
+    {
+      "verse": 42,
+      "latin_vulgate": "Militum autem consilium fuit ut custodias occiderent, ne quis cum enatasset, effugeret.",
+      "greek_textus_receptus": "τῶν δὲ στρατιωτῶν βουλὴ ἐγένετο ἵνα τοὺς δεσμώτας ἀποκτείνωσιν μήτις ἐκκολυμβήσας διαφύγοι",
+      "finnish_biblia": "Mutta sotamiesten neuvo oli vankeja tappaa, ettei joku uiden olisi karannut pois. ",
+      "swedish_karl_xii": "Men krigsknechterna tyckte rådh wara slå fångarna ihiäl, at tå the vthsummo, icke skulle någor vndfly.",
+      "king_james": "And the soldiers' counsel was to kill the prisoners, lest any of them should swim out, and escape."
+    },
+    {
+      "verse": 43,
+      "latin_vulgate": "Centurio autem volens servare Paulum, prohibuit fieri: jussitque eos qui possent natare, emittere se primos, et evadere, et ad terram exire:",
+      "greek_textus_receptus": "ὁ δὲ ἑκατόνταρχος βουλόμενος διασῶσαι τὸν παῦλον ἐκώλυσεν αὐτοὺς τοῦ βουλήματος ἐκέλευσέν τε τοὺς δυναμένους κολυμβᾶν ἀποῤῥίψαντας πρώτους ἐπὶ τὴν γῆν ἐξιέναι",
+      "finnish_biblia": "Mutta sadanpäämies tahtoi Paavalia vapahtaa, ja esti heidät siitä neuvosta, ja käski niitä, jotka uida taisivat, että he ensin itsensä antaisivat ulos ja maalle pääsisivät. ",
+      "swedish_karl_xii": "Men höfwitzmannen wille förwara Paulum, och stilte them ifrå thet rådet, och bad, at the som simma kunde, skulle gifwa sigh först vth åth landet:",
+      "king_james": "But the centurion, willing to save Paul, kept them from *their* purpose; and commanded that they which could swim should cast *themselves* first *into the sea*, and get to land:"
+    },
+    {
+      "verse": 44,
+      "latin_vulgate": "et ceteros, alios in tabulis ferebant, quosdam super ea quæ de navi erant. Et sic factum est, ut omnes animæ evaderent ad terram.",
+      "greek_textus_receptus": "καὶ τοὺς λοιποὺς οὓς μὲν ἐπὶ σανίσιν οὓς δὲ ἐπί τινων τῶν ἀπὸ τοῦ πλοίου καὶ οὕτως ἐγένετο πάντας διασωθῆναι ἐπὶ τὴν γῆν",
+      "finnish_biblia": "Mutta muita lautain päällä, muutamia taas haahden kappaleilla (kulkea). Ja niin tapahtui, että jokainen tuli hengissä maalle.   ",
+      "swedish_karl_xii": "Och the andre, somlige på bräder, och somlige på skepswraket. Och ther medh skedde, at the vndsluppo alle behåldne i land.",
+      "king_james": "And the rest, some on boards, and some on *broken pieces* of the ship. And so it came to pass, that they escaped all safe to land."
+    }
+  ]
+}

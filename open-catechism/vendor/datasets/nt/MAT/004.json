@@ -1,0 +1,211 @@
+{
+  "book_id": "MAT",
+  "latin_name": "Evangelium secundum Matthaeum",
+  "greek_name": "Κατὰ Ματθαῖον",
+  "finnish_name": "Matteuksen evankeliumi",
+  "swedish_name": "S. Matthei Evangelium",
+  "english_name": "The Gospel According to Matthew",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Tunc Jesus ductus est in desertum a Spiritu, ut tentaretur a diabolo.",
+      "greek_textus_receptus": "τότε ὁ ἰησοῦς ἀνήχθη εἰς τὴν ἔρημον ὑπὸ τοῦ πνεύματος πειρασθῆναι ὑπὸ τοῦ διαβόλου",
+      "finnish_biblia": "Silloin vietiin Jesus hengeltä korpeen kiusattaa perkeleeltä. ",
+      "swedish_karl_xii": "Tå wardt Jesus förd af Andanom i öknena, på thet han skulle försökias af diefwulen.",
+      "king_james": "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et cum jejunasset quadraginta diebus, et quadraginta noctibus, postea esuriit.",
+      "greek_textus_receptus": "καὶ νηστεύσας ἡμέρας τεσσαράκοντα καὶ νύκτας τεσσαράκοντα ὕστερον ἐπείνασεν",
+      "finnish_biblia": "Ja kuin hän oli paastonnut neljäkymmentä päivää ja neljäkymmentä yötä, sitte hän isosi. ",
+      "swedish_karl_xii": "Och när han hade fastat i fyratijo dagar, och fyratijo nåtter, så hungrade honom.",
+      "king_james": "And when he had fasted forty days and forty nights, he was afterward an hungred."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et accedens tentator dixit ei: Si Filius Dei es, dic ut lapides isti panes fiant.",
+      "greek_textus_receptus": "καὶ προσελθὼν αὐτῷ ὁ πειράζων εἶπεν εἰ υἱὸς εἶ τοῦ θεοῦ εἰπὲ ἵνα οἱ λίθοι οὗτοι ἄρτοι γένωνται",
+      "finnish_biblia": "Ja kiusaaja tuli hänen tykönsä ja sanoi: jos sinä olet Jumalan Poika, niin sano, että nämät kivet leiviksi tulevat. ",
+      "swedish_karl_xii": "Och frestaren gick fram til honom, och sade: Äst tu Gudz Son, så säg, at thesse stenar warda brödh.",
+      "king_james": "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Qui respondens dixit: Scriptum est: Non in solo pane vivit homo, sed in omni verbo, quod procedit de ore Dei.",
+      "greek_textus_receptus": "ὁ δὲ ἀποκριθεὶς εἶπεν γέγραπται οὐκ ἐπ᾽ ἄρτῳ μόνῳ ζήσεται ἄνθρωπος ἀλλ᾽ ἐπὶ παντὶ ῥήματι ἐκπορευομένῳ διὰ στόματος θεοῦ",
+      "finnish_biblia": "Mutta hän vastasi ja sanoi: kirjoitettu on: ei ihminen elä ainoasti leivästä, mutta jokaisesta sanasta, joka Jumalan suusta lähtee. ",
+      "swedish_karl_xii": "Tå swarade han, och sade: Thet är skrifwit: Menniskian lefwer icke allenast widh brödh, vtan af hwart och ett ord, som går af Gudz mun.",
+      "king_james": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Tunc assumpsit eum diabolus in sanctam civitatem, et statuit eum super pinnaculum templi,",
+      "greek_textus_receptus": "τότε παραλαμβάνει αὐτὸν ὁ διάβολος εἰς τὴν ἁγίαν πόλιν καὶ ἵστησιν αὐτὸν ἐπὶ τὸ πτερύγιον τοῦ ἱεροῦ",
+      "finnish_biblia": "Silloin otti perkele hänen kanssansa pyhään kaupunkiin, ja asetti hänen templin harjalle, ",
+      "swedish_karl_xii": "Tå tog diefwulen honom medh sigh til then heliga staden, och satte honom öfwerst på tinnarna af templet;",
+      "king_james": "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "et dixit ei: Si Filius Dei es, mitte te deorsum. Scriptum est enim: Quia angelis suis mandavit de te, et in manibus tollent te, ne forte offendas ad lapidem pedem tuum.",
+      "greek_textus_receptus": "καὶ λέγει αὐτῷ εἰ υἱὸς εἶ τοῦ θεοῦ βάλε σεαυτὸν κάτω γέγραπται γὰρ ὅτι τοῖς ἀγγέλοις αὑτοῦ ἐντελεῖται περὶ σοῦ καὶ ἐπὶ χειρῶν ἀροῦσίν σε μήποτε προσκόψῃς πρὸς λίθον τὸν πόδα σου",
+      "finnish_biblia": "Ja sanoi hänelle: jos sinä olet Jumalan Poika, niin laske sinus alaspäin; sillä kirjoitettu on: hän antaa käskyn enkeleillensä sinusta, ja he käsissä kantavat sinun, ettet joskus jalkaas kiveen loukkaa. ",
+      "swedish_karl_xii": "Och sade til honom: Äst tu Gudz Son, så gif tigh här vth före; ty thet är skrifwit: Han skal gifwa sinom Änglom befalning om tigh; och the skola båra tigh på sina händer, at tu icke skalt stöta tin foot emot stenen.",
+      "king_james": "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in *their* hands they shall bear thee up, lest at any time thou dash thy foot against a stone."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Ait illi Jesus: Rursum scriptum est: Non tentabis Dominum Deum tuum.",
+      "greek_textus_receptus": "ἕφη αὐτῷ ὁ ἰησοῦς πάλιν γέγραπται οὐκ ἐκπειράσεις κύριον τὸν φεόν σου",
+      "finnish_biblia": "Niin Jesus sanoi hänelle: taas on kirjoitettu: ei sinun pidä kiusaaman Herraa sinun Jumalaas. ",
+      "swedish_karl_xii": "Tå sade Jesus til honom: Thet är ock skrifwit: Herran tin Gudh skalt tu icke fresta.",
+      "king_james": "Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Iterum assumpsit eum diabolus in montem excelsum valde: et ostendit ei omnia regna mundi, et gloriam eorum,",
+      "greek_textus_receptus": "πάλιν παραλαμβάνει αὐτὸν ὁ διάβολος εἰς ὄρος ὑψηλὸν λίαν καὶ δείκνυσιν αὐτῷ πάσας τὰς βασιλείας τοῦ κόσμου καὶ τὴν δόξαν αὐτῶν",
+      "finnish_biblia": "Taas vei hänen perkele sangen korkialle vuorelle, ja osoitti hänelle kaikki maailman valtakunnat ja niiden kunnian, ",
+      "swedish_karl_xii": "Tå tog åter diefwulen honom medh sigh vppå ett ganska högt berg, och wijste honom all rike i werldene, och theras härlighet;",
+      "king_james": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "et dixit ei: Hæc omnia tibi dabo, si cadens adoraveris me.",
+      "greek_textus_receptus": "καὶ λέγει αὐτῷ ταῦτα πάντα σοι δώσω ἐὰν πεσὼν προσκυνήσῃς μοι",
+      "finnish_biblia": "Ja sanoi hänelle: nämät kaikki minä annan sinulle, jos sinä lankeat maahan ja rukoilet minua. ",
+      "swedish_karl_xii": "Och sade til honom: Alt thetta wil jagh gifwa tigh, om tu faller neder, och tilbeder migh.",
+      "king_james": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Tunc dicit ei Jesus: Vade Satana: Scriptum est enim: Dominum Deum tuum adorabis, et illi soli servies.",
+      "greek_textus_receptus": "τότε λέγει αὐτῷ ὁ ἰησοῦς ὕπαγε σατανᾶ γέγραπται γὰρ κύριον τὸν φεόν σου προσκυνήσεις καὶ αὐτῷ μόνῳ λατρεύσεις",
+      "finnish_biblia": "Niin sanoi Jesus hänelle: mene pois, saatana! Sillä kirjoitettu on: Herraa sinun Jumalaas pitää sinun kumartaman, ja häntä ainoaa palveleman. ",
+      "swedish_karl_xii": "Tå sade Jesus til honom: Gack bort, Satan; ty thet är skrifwit: Herran tin Gudh skalt tu tilbedia, och honom allena skalt tu tiena.",
+      "king_james": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Tunc reliquit eum diabolus: et ecce angeli accesserunt, et ministrabant ei.",
+      "greek_textus_receptus": "τότε ἀφίησιν αὐτὸν ὁ διάβολος καὶ ἰδοὺ ἄγγελοι προσῆλθον καὶ διηκόνουν αὐτῷ",
+      "finnish_biblia": "Silloin jätti hänen perkele; ja katso, enkelit tulivat ja palvelivat häntä. ",
+      "swedish_karl_xii": "Tå öfwergaf diefwulen honom; och sij, Ånglarna gingo fram, och tiente honom.",
+      "king_james": "Then the devil leaveth him, and, behold, angels came and ministered unto him."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Cum autem audisset Jesus quod Joannes traditus esset, secessit in Galilæam:",
+      "greek_textus_receptus": "ἀκούσας δὲ ὁ ἰησοῦς ὅτι ἰωάννης παρεδόθη ἀνεχώρησεν εἰς τὴν γαλιλαίαν",
+      "finnish_biblia": "Mutta kuin Jesus kuuli, että Johannes oli vankiuteen annettu ylön, poikkesi hän Galileaan, ",
+      "swedish_karl_xii": "Tå nu Jesus hörde, at Johannes war fången, drog han in i Galileen;",
+      "king_james": "Now when Jesus had heard that John was cast into prison, he departed into Galilee;"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "et, relicta civitate Nazareth, venit, et habitavit in Capharnaum maritima, in finibus Zabulon et Nephthalim:",
+      "greek_textus_receptus": "καὶ καταλιπὼν τὴν ναζαρὲτ ἐλθὼν κατῴκησεν εἰς καπερναοὺμ τὴν παραθαλασσίαν ἐν ὁρίοις ζαβουλὼν καὶ νεφθαλεὶμ",
+      "finnish_biblia": "Ja jätti Natsaretin, tuli ja asui Kapernaumissa, joka on merikaupunki, Zebulonin ja Naphtalin äärissä; ",
+      "swedish_karl_xii": "Och öfwergaf Nazareth; och kom och bodde i Capernaum, som ligger widh hafwet, på gränson widh Zabulon och Nephthalim:",
+      "king_james": "And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "ut adimpleretur quod dictum est per Isaiam prophetam:",
+      "greek_textus_receptus": "ἵνα πληρωθῇ τὸ ῥηθὲν διὰ ἡσαΐου τοῦ προφήτου λέγοντος",
+      "finnish_biblia": "Että täytettäisiin se mikä sanottu oli Jesaias prophetan kautta, joka sanoo: ",
+      "swedish_karl_xii": "På thet at fulkomnas skulle, thet som sagt war genom Esaia Propheten, som sade:",
+      "king_james": "That it might be fulfilled which was spoken by Esaias the prophet, saying,"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "[Terra Zabulon, et terra Nephthalim, via maris trans Jordanem, Galilæa gentium:",
+      "greek_textus_receptus": "γῆ ζαβουλὼν καὶ γῆ νεφθαλεὶμ ὁδὸν θαλάσσης πέραν τοῦ ἰορδάνου γαλιλαία τῶν ἐθνῶν",
+      "finnish_biblia": "Zebulonin maa ja Naphtalin maa, läsnä meritietä, sillä puolella Jordanin, pakanain Galilea, ",
+      "swedish_karl_xii": "Thet landet Zabulon, och thet landet Nephthalim, widh hafsens wägh, på thenna sidon Jordan, och then hedniska Galileen.",
+      "king_james": "The land of Zabulon, and the land of Nephthalim, *by* the way of the sea, beyond Jordan, Galilee of the Gentiles;"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "populus, qui sedebat in tenebris, vidit lucem magnam: et sedentibus in regione umbræ mortis, lux orta est eis.]",
+      "greek_textus_receptus": "ὁ λαὸς ὁ καθήμενος ἐν σκότει εἶδε φῶς μέγα καὶ τοῖς καθημένοις ἐν χώρᾳ καὶ σκιᾷ θανάτου φῶς ἀνέτειλεν αὐτοῖς",
+      "finnish_biblia": "Kansa, joka pimiässä istui, näki suuren valkeuden, ja niille, jotka kuoleman maassa ja varjossa istuivat, koitti valkeus. ",
+      "swedish_karl_xii": "Folcket som satt i mörkret, hafwer sedt ett stort lius; och them som bodde i dödsens engd och skugga, är ett lius vpgånget.",
+      "king_james": "The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Exinde cœpit Jesus prædicare, et dicere: Pœnitentiam agite: appropinquavit enim regnum cælorum.",
+      "greek_textus_receptus": "ἀπὸ τότε ἤρξατο ὁ ἰησοῦς κηρύσσειν καὶ λέγειν μετανοεῖτε ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν",
+      "finnish_biblia": "Siitä ajasta rupesi Jesus saarnaamaan ja sanomaan: tehtäät parannus; sillä taivaan valtakunta lähestyi. ",
+      "swedish_karl_xii": "Jfrå then tiden begynte Jesus til at predika, och sade: Giörer bättring; himmelriket är kommet hardt när.",
+      "king_james": "From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Ambulans autem Jesus juxta mare Galilææ, vidit duos fratres, Simonem, qui vocatur Petrus, et Andream fratrem ejus, mittentes rete in mare (erant enim piscatores),",
+      "greek_textus_receptus": "περιπατῶν δὲ ὁ ἰησοῦς παρὰ τὴν θάλασσαν τῆς γαλιλαίας εἶδεν δύο ἀδελφοὺς σίμωνα τὸν λεγόμενον πέτρον καὶ ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ βάλλοντας ἀμφίβληστρον εἰς τὴν θάλασσαν ἦσαν γὰρ ἁλιεῖς",
+      "finnish_biblia": "Mutta kuin Jesus käveli Galilean meren tykönä, näki hän kaksi veljestä, Simonin, joka kutsutaan Pietariksi, ja Andreaksen hänen veljensä, laskevan verkkoa mereen; (Sillä he olivat kalamiehet,) ",
+      "swedish_karl_xii": "När Jesus gick vth medh thet Galileeska hafwet, såg han twå bröder, Simon som kallas Petrus, och Andreas hans broder, the kastade sin näät i hafwet: ty the woro fiskiare.",
+      "king_james": "And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "et ait illis: Venite post me, et faciam vos fieri piscatores hominum.",
+      "greek_textus_receptus": "καὶ λέγει αὐτοῖς δεῦτε ὀπίσω μου καὶ ποιήσω ὑμᾶς ἁλιεῖς ἀνθρώπων",
+      "finnish_biblia": "Ja sanoi heille: seuratkaat minua, ja minä teen teidät ihmisten kalamiehiksi. ",
+      "swedish_karl_xii": "Och han sade til them: Följer migh; jagh wil giöra eder til menniskiors fiskiare.",
+      "king_james": "And he saith unto them, Follow me, and I will make you fishers of men."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "At illi continuo relictis retibus secuti sunt eum.",
+      "greek_textus_receptus": "οἱ δὲ εὐθέως ἀφέντες τὰ δίκτυα ἠκολούθησαν αὐτῷ",
+      "finnish_biblia": "Niin he jättivät kohta verkot ja seurasivat häntä. ",
+      "swedish_karl_xii": "The öfwergåfwo strax näten, och fölgde honom.",
+      "king_james": "And they straightway left *their* nets, and followed him."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Et procedens inde, vidit alios duos fratres, Jacobum Zebedæi, et Joannem fratrem ejus, in navi cum Zebedæo patre eorum, reficientes retia sua: et vocavit eos.",
+      "greek_textus_receptus": "καὶ προβὰς ἐκεῖθεν εἶδεν ἄλλους δύο ἀδελφοὺς ἰάκωβον τὸν τοῦ ζεβεδαίου καὶ ἰωάννην τὸν ἀδελφὸν αὐτοῦ ἐν τῷ πλοίῳ μετὰ ζεβεδαίου τοῦ πατρὸς αὐτῶν καταρτίζοντας τὰ δίκτυα αὑτῶν καὶ ἐκάλεσεν αὐτούς",
+      "finnish_biblia": "Ja kuin hän sieltä edemmä kävi, näki hän toiset kaksi veljestä, Jakobin Zebedeuksen pojan ja Johanneksen hänen veljensä, venheessä isänsä Zebedeuksen kanssa, parantavan verkkojansa; ja hän kutsui heitä. ",
+      "swedish_karl_xii": "Och när han gick fram bätter, säg han twå andra bröder, Jacob Zebedei son, och Johannes hans broder, i båten medh theras fader Zebedeus, botande sin näät; och han kallade them.",
+      "king_james": "And going on from thence, he saw other two brethren, James *the son* of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Illi autem statim relictis retibus et patre, secuti sunt eum.",
+      "greek_textus_receptus": "οἱ δὲ εὐθέως ἀφέντες τὸ πλοῖον καὶ τὸν πατέρα αὑτῶν ἠκολούθησαν αὐτῷ",
+      "finnish_biblia": "Niin he kohta jättivät venheen ja isänsä, ja seurasivat häntä. ",
+      "swedish_karl_xii": "Strax öfwergåfwo the båten, och sin fader, och fölgde honom.",
+      "king_james": "And they immediately left the ship and their father, and followed him."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Et circuibat Jesus totam Galilæam, docens in synagogis eorum, et prædicans Evangelium regni: et sanans omnem languorem, et omnem infirmitatem in populo.",
+      "greek_textus_receptus": "καὶ περιῆγεν ὅλην τὴν γαλιλαίαν ὁ ἰησοῦς διδάσκων ἐν ταῖς συναγωγαῖς αὐτῶν καὶ κηρύσσων τὸ εὐαγγέλιον τῆς βασιλείας καὶ θεραπεύων πᾶσαν νόσον καὶ πᾶσαν μαλακίαν ἐν τῷ λαῷ",
+      "finnish_biblia": "Ja Jesus vaelsi ympäri kaiken Galilean, ja opetti heidän synagogissansa, ja saarnasi valtakunnan evankeliumia, ja paransi kaikkinaiset taudit ja kaiken sairauden kansan seassa. ",
+      "swedish_karl_xii": "Och Jesus gick omkring alt Galileeska landet, och lärde i theras Synagogor, och predikade Evangelium om riket, och botade allahanda siukdom och kranckhet i folcket.",
+      "king_james": "And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Et abiit opinio ejus in totam Syriam, et obtulerunt ei omnes male habentes, variis languoribus, et tormentis comprehensos, et qui dæmonia habebant, et lunaticos, et paralyticos, et curavit eos:",
+      "greek_textus_receptus": "καὶ ἀπῆλθεν ἡ ἀκοὴ αὐτοῦ εἰς ὅλην τὴν συρίαν καὶ προσήνεγκαν αὐτῷ πάντας τοὺς κακῶς ἔχοντας ποικίλαις νόσοις καὶ βασάνοις συνεχομένους καὶ δαιμονιζομένους καὶ σεληνιαζομένους καὶ παραλυτικοὺς καὶ ἐθεράπευσεν αὐτούς",
+      "finnish_biblia": "Ja sanoma kuului hänestä kaikkeen Syrian maahan. Ja he toivat hänen tykönsä kaikkinaisia sairaita, moninaisilla taudeilla ja kivuilla vaivatuita ja piruilta riivatuita, ja kuutaudillisia ja halvatuita; ja hän paransi ne. ",
+      "swedish_karl_xii": "Och hans rychte gick öfwer hela Syrien: och the hade til honom alla the ther krancke woro af mångahanda siukdom, och wårckbrutna, och besatta, och månaderasanda, och borttagna; och han giorde them alla helbregda.",
+      "king_james": "And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "et secutæ sunt eum turbæ multæ de Galilæa, et Decapoli, et de Jerosolymis, et de Judæa, et de trans Jordanem.",
+      "greek_textus_receptus": "καὶ ἠκολούθησαν αὐτῷ ὄχλοι πολλοὶ ἀπὸ τῆς γαλιλαίας καὶ δεκαπόλεως καὶ ἱεροσολύμων καὶ ἰουδαίας καὶ πέραν τοῦ ἰορδάνου",
+      "finnish_biblia": "Ja häntä seurasi paljo väkeä Galileasta ja kymmenestä kaupungista, ja Jerusalemista ja Juudeasta, ja maakunnista sillä puolella Jordania.   ",
+      "swedish_karl_xii": "Och honom fölgde mycket folck vthaf Galileen, och vthaf the tijo städer, och vthaf Jerusalem, och vthaf Judeen, och vthaf the land på thenna sidon widh Jordan.",
+      "king_james": "And there followed him great multitudes of people from Galilee, and *from* Decapolis, and *from* Jerusalem, and *from* Judaea, and *from* beyond Jordan."
+    }
+  ]
+}

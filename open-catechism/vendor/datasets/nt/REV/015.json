@@ -1,0 +1,75 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et vidi aliud signum in cælo magnum et mirabile, angelos septem, habentes plagas septem novissimas: quoniam in illis consummata est ira Dei.",
+      "greek_textus_receptus": "καὶ εἶδον ἄλλο σημεῖον ἐν τῷ οὐρανῷ μέγα καὶ θαυμαστόν ἀγγέλους ἑπτὰ ἔχοντας πληγὰς ἑπτὰ τὰς ἐσχάτας ὅτι ἐν αὐταῖς ἐτελέσθη ὁ θυμὸς τοῦ θεοῦ",
+      "finnish_biblia": "Ja minä näin toisen merkin taivaassa, suuren ja ihmeellisen: seitsemän enkeliä, joilla seitsemän viimeistä vitsausta oli; sillä niissä on Jumalan viha täytetty. ",
+      "swedish_karl_xii": "Och jagh såg ett annat tekn i himmelen, stort och vnderligit: Siu Änglar, som hade siu the yttersta plågor: ty medh them är fulkomnad Gudz wrede.",
+      "king_james": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et vidi tamquam mare vitreum mistum igne, et eos, qui vicerunt bestiam, et imaginem ejus, et numerum nominis ejus, stantes super mare vitreum, habentes citharas Dei:",
+      "greek_textus_receptus": "καὶ εἶδον ὡς θάλασσαν ὑαλίνην μεμιγμένην πυρί καὶ τοὺς νικῶντας ἐκ τοῦ θηρίου καὶ ἐκ τῆς εἰκόνος αὐτοῦ καὶ ἐκ τοῦ χαράγματος αὐτοῦ ἐκ τοῦ ἀριθμοῦ τοῦ ὀνόματος αὐτοῦ ἑστῶτας ἐπὶ τὴν θάλασσαν τὴν ὑαλίνην ἔχοντας κιθάρας τοῦ θεοῦ",
+      "finnish_biblia": "Ja minä näin niinkuin lasisen meren, tulella sekoitetun, ja ne, jotka pedosta voiton saaneet olivat ja hänen kuvastansa ja hänen merkistänsä ja hänen nimensä luvusta, seisovan lasisen meren päällä, ja heillä oli Jumalan kanteleet, ",
+      "swedish_karl_xii": "Och jagh såg såsom ett glaashaf, beblandat medh eld, och them stå på samma glaashaf, som seger wunnet hade på willdiuret, och thes beläte, och wedertekn, och på thes namns tahl; och the hade Gudz harpor.",
+      "king_james": "And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, *and* over the number of his name, stand on the sea of glass, having the harps of God."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "et cantantes canticum Moysi servi Dei, et canticum Agni, dicentes: Magna et mirabilia sunt opera tua, Domine Deus omnipotens: justæ et veræ sunt viæ tuæ, Rex sæculorum.",
+      "greek_textus_receptus": "καὶ ᾄδουσιν τὴν ᾠδὴν μωσέως δούλου τοῦ θεοῦ καὶ τὴν ᾠδὴν τοῦ ἀρνίου λέγοντες μεγάλα καὶ θαυμαστὰ τὰ ἔργα σου κύριε ὁ θεὸς ὁ παντοκράτωρ δίκαιαι καὶ ἀληθιναὶ αἱ ὁδοί σου ὁ βασιλεὺς τῶν ἁγίων",
+      "finnish_biblia": "Ja he veisasivat Moseksen, Jumalan palvelian virttä, sanoen: suuret ja ihmeelliset ovat sinun tekos, Herra Jumala kaikkivaltias! oikiat ja totiset ovat sinun ties, sinä pyhäin Kuningas! ",
+      "swedish_karl_xii": "Och the sungo Mose Gudz tienares sång, och Lambsens sång, säijande: Stoor och vnderlig äro tin werck, Herre Gudh alswåldig; rättferdige och sanne äro tine wägar, tu helgonens Konung.",
+      "king_james": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous *are* thy works, Lord God Almighty; just and true *are* thy ways, thou King of saints."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Quis non timebit te, Domine, et magnificabit nomen tuum? quia solus pius es: quoniam omnes gentes venient, et adorabunt in conspectu tuo, quoniam judicia tua manifesta sunt.",
+      "greek_textus_receptus": "τίς οὐ μὴ φοβηθῇ σε κύριε καὶ δοξάσῃ τὸ ὄνομά σου ὅτι μόνος ὅσιος ὅτι πάντα τὰ ἔθνη ἥξουσιν καὶ προσκυνήσουσιν ἐνώπιόν σου ὅτι τὰ δικαιώματά σου ἐφανερώθησαν",
+      "finnish_biblia": "Kuka ei pelkää sinua, Herra, ja sinun nimeäs ylistä? Sillä sinä yksinäs pyhä olet; sillä kaikki pakanat tulevat, ja sinun kasvois edessä kumartavat ja rukoilevat: että sinun tuomios julistetut ovat. ",
+      "swedish_karl_xii": "Ho skulle icke fruchta tigh, Herre, och prisa titt namn? Ty tu äst allena helig; och alle Hedningar skola komma och tilbedia i tin åsyn: ty tine domar äro vppenbare wordne.",
+      "king_james": "Who shall not fear thee, O Lord, and glorify thy name? for *thou* only *art* holy: for all nations shall come and worship before thee; for thy judgments are made manifest."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et post hæc vidi: et ecce apertum est templum tabernaculi testimonii in cælo,",
+      "greek_textus_receptus": "καὶ μετὰ ταῦτα εἶδον καὶ ἰδού ἠνοίγη ὁ ναὸς τῆς σκηνῆς τοῦ μαρτυρίου ἐν τῷ οὐρανῷ",
+      "finnish_biblia": "Sitte näin minä, ja katso, todistuksen majan templi avattiin taivaassa. ",
+      "swedish_karl_xii": "Sedan såg jagh; och sij, witnesbyrdsens tabernakels tempel wardt öpnat i himmelen:",
+      "king_james": "And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "et exierunt septem angeli habentes septem plagas de templo, vestiti lino mundo et candido, et præcincti circa pectora zonis aureis.",
+      "greek_textus_receptus": "καὶ ἐξῆλθον οἱ ἑπτὰ ἄγγελοι ἔχοντες τὰς ἑπτὰ πληγὰς ἐκ τοῦ ναοῦ ἐνδεδυμένοι λίνον καθαρὸν καὶ λαμπρὸν καὶ περιεζωσμένοι περὶ τὰ στήθη ζώνας χρυσᾶς",
+      "finnish_biblia": "Ja templistä läksivät seitsemän enkeliä, joilla seitsemän vitsausta oli, puetetut puhtailla ja kirkkailla liinavaatteilla, ja vyötetyt rinnoilta kultaisilla vöillä. ",
+      "swedish_karl_xii": "Och gingo ther vth af templet the siu Änglar, som the siu plågor hade, klädde vthi reent, hwitt linkläde, och omgiordade kring om bröstet medh gyldene bälte.",
+      "king_james": "And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et unum de quatuor animalibus dedit septem angelis septem phialas aureas, plenas iracundiæ Dei viventis in sæcula sæculorum.",
+      "greek_textus_receptus": "καὶ ἓν ἐκ τῶν τεσσάρων ζῴων ἔδωκεν τοῖς ἑπτὰ ἀγγέλοις ἑπτὰ φιάλας χρυσᾶς γεμούσας τοῦ θυμοῦ τοῦ θεοῦ τοῦ ζῶντος εἰς τοὺς αἰῶνας τῶν αἰώνων",
+      "finnish_biblia": "Ja yksi neljästä eläimestä antoi seitsemälle enkelille seitsemän kultaista maljaa, täynnänsä Jumalan vihaa, joka elää ijankaikkisesta ijankaikkiseen. ",
+      "swedish_karl_xii": "Och ett af the fyra diuren, gaf the siu Änglar siu gyldene skålar, fulla medh Gudz wrede, then ther lefwer af ewighet til ewighet.",
+      "king_james": "And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Et impletum est templum fumo a majestate Dei, et de virtute ejus: et nemo poterat introire in templum, donec consummarentur septem plagæ septem angelorum.",
+      "greek_textus_receptus": "καὶ ἐγεμίσθη ὁ ναὸς καπνοῦ ἐκ τῆς δόξης τοῦ θεοῦ καὶ ἐκ τῆς δυνάμεως αὐτοῦ καὶ οὐδεὶς ἠδύνατο εἰσελθεῖν εἰς τὸν ναὸν ἄχρι τελεσθῶσιν αἱ ἑπτὰ πληγαὶ τῶν ἑπτὰ ἀγγέλων",
+      "finnish_biblia": "Ja templi täytettiin savulla Jumalan kunniasta ja hänen voimastansa, ja ei yksikään voinut templiin mennä sisälle, siihenasti kuin seitsemän enkelin seitsemän vitsausta täytetyiksi tulivat.   ",
+      "swedish_karl_xii": "Och templet wardt vpfylt medh röök af Gudz härlighet, och af hans kraft: och ingen kunde gå in i templet, til thes the siu plågor, som the siu Änglar hade, fulkomnade wordo.",
+      "king_james": "And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled."
+    }
+  ]
+}

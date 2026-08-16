@@ -1,0 +1,179 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et ostendit mihi fluvium aquæ vitæ, splendidum tamquam crystallum, procedentem de sede Dei et Agni.",
+      "greek_textus_receptus": "καὶ ἔδειξέν μοι καθαρὸν ποταμὸν ὕδατος ζωῆς λαμπρὸν ὡς κρύσταλλον ἐκπορευόμενον ἐκ τοῦ θρόνου τοῦ θεοῦ καὶ τοῦ ἀρνίου",
+      "finnish_biblia": "Ja hän osoitti minulle puhtaan elämän veden virran, selkiän niinkuin kristallin, vuotavan Jumalan ja Karitsan istuimesta. ",
+      "swedish_karl_xii": "Och han wijste migh ena klara älf medh lefwande watn, klar som christal, then gick ifrå Gudz stool och Lambsens.",
+      "king_james": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "In medio plateæ ejus, et ex utraque parte fluminis, lignum vitæ, afferens fructus duodecim per menses singulos, reddens fructum suum et folia ligni ad sanitatem gentium.",
+      "greek_textus_receptus": "ἐν μέσῳ τῆς πλατείας αὐτῆς καὶ τοῦ ποταμοῦ ἐντεῦθεν καὶ ἐντεῦθεν ξύλον ζωῆς ποιοῦν καρποὺς δώδεκα κατὰ μῆνα ἕνα ἕκαστον ἀποδιδοῦν τὸν καρπὸν αὐτοῦ καὶ τὰ φύλλα τοῦ ξύλου εἰς θεραπείαν τῶν ἐθνῶν",
+      "finnish_biblia": "Keskellä hänen katuansa ja molemmilla puolilla virtaa seisoi elämän puu, joka kantoi kaksitoistakymmeniset hedelmät, ja antoi hedelmänsä kunakin kuukautena, ja puun lehdet pakanain terveydeksi. ",
+      "swedish_karl_xii": "Mitt vppå hans gator, och på båda sidor widh älfwena stod lifsens trä, bärandes tolf fåll frucht, och bar sina frucht alla månader: och löfwen af trädh tiente til Hedningarnas helbregdo.",
+      "king_james": "In the midst of the street of it, and on either side of the river, *was there* the tree of life, which bare twelve *manner of* fruits, *and* yielded her fruit every month: and the leaves of the tree *were* for the healing of the nations."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et omne maledictum non erit amplius: sed sedes Dei et Agni in illa erunt, et servi ejus servient illi.",
+      "greek_textus_receptus": "καὶ πᾶν κατανάθεμα οὐκ ἔσται ἔτι καὶ ὁ θρόνος τοῦ θεοῦ καὶ τοῦ ἀρνίου ἐν αὐτῇ ἔσται καὶ οἱ δοῦλοι αὐτοῦ λατρεύσουσιν αὐτῷ",
+      "finnish_biblia": "Ja ei kirousta pidä silleen ensinkään oleman; vaan Jumalan ja Karitsan istuin pitää hänessä oleman, ja hänen palveliansa pitää häntä palveleman, ",
+      "swedish_karl_xii": "Och intet förbannat skal wara meer: vtan Gudz och Lambsens stool skal blifwa ther vthi, och hans tienare skola honom tiena.",
+      "king_james": "And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Et videbunt faciem ejus: et nomen ejus in frontibus eorum.",
+      "greek_textus_receptus": "καὶ ὄψονται τὸ πρόσωπον αὐτοῦ καὶ τὸ ὄνομα αὐτοῦ ἐπὶ τῶν μετώπων αὐτῶν",
+      "finnish_biblia": "Ja näkemän hänen kasvonsa, ja hänen nimensä pitää heidän otsissansa oleman. ",
+      "swedish_karl_xii": "Och the skola see hans ansichte, och hans namn skal wara på theras anleten.",
+      "king_james": "And they shall see his face; and his name *shall be* in their foreheads."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et nox ultra non erit: et non egebunt lumine lucernæ, neque lumine solis, quoniam Dominus Deus illuminabit illos, et regnabunt in sæcula sæculorum.",
+      "greek_textus_receptus": "καὶ νὺξ οὐκ ἔσται ἐκει καὶ χρείαν οὐκ ἔχουσιν λύχνου καὶ φωτὸς ἡλίου ὅτι κύριος ὁ θεὸς φωτίζει αὐτούς καὶ βασιλεύσουσιν εἰς τοὺς αἰῶνας τῶν αἰώνων",
+      "finnish_biblia": "Ja yötä ei pidä siellä oleman, eikä he tarvitse kynttilää taikka auringon valkeutta; sillä Herra Jumala valaisee heitä: ja heidän pitää hallitseman ijankaikkisesta ijankaikkiseen. ",
+      "swedish_karl_xii": "Och natt blifwer icke meer ther, och the behöfwa icke lius, icke heller solenes lius: ty Herren Gudh vplyser them, och the skola regnera ifrån ewighet til ewighet.",
+      "king_james": "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Et dixit mihi: Hæc verba fidelissima sunt, et vera. Et Dominus Deus spirituum prophetarum misit angelum suum ostendere servis suis quæ oportet fieri cito.",
+      "greek_textus_receptus": "καὶ εἶπέν μοι οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί καὶ κύριος ὁ θεὸς τῶν ἁγίων προφητῶν ἀπέστειλεν τὸν ἄγγελον αὐτοῦ δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει",
+      "finnish_biblia": "Ja hän sanoi minulle: nämät sanat ovat vahvat ja totiset, ja Herra, pyhäin prophetain Jumala, on enkelinsä lähettänyt osoittamaan palvelioillensa niitä, mitkä pian tapahtuman pitää. ",
+      "swedish_karl_xii": "Och han sade til migh: Thessa ord äro wiß och san: och Herren the helga Propheters Gudh sände sin Ängel, at wisa sina tienare hwad skee skal innan kort tijd.",
+      "king_james": "And he said unto me, These sayings *are* faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et ecce venio velociter. Beatus, qui custodit verba prophetiæ libri hujus.",
+      "greek_textus_receptus": "ἰδού ἔρχομαι ταχύ μακάριος ὁ τηρῶν τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου",
+      "finnish_biblia": "Katso, minä tulen nopiasti. Autuas on se, joka kätkee tämän kirjan prophetian sanat. ",
+      "swedish_karl_xii": "Och sij, jagh kommer snarliga: salig är then som håller prophetiens ord i thesso book.",
+      "king_james": "Behold, I come quickly: blessed *is* he that keepeth the sayings of the prophecy of this book."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Et ego Joannes, qui audivi, et vidi hæc. Et postquam audissem, et vidissem, cecidi ut adorarem ante pedes angeli, qui mihi hæc ostendebat:",
+      "greek_textus_receptus": "καὶ ἐγὼ ἰωάννης ὁ βλέπων ταῦτα καὶ ἀκούων καὶ ὅτε ἤκουσα καὶ ἔβλεψα ἔπεσα προσκυνῆσαι ἔμπροσθεν τῶν ποδῶν τοῦ ἀγγέλου τοῦ δεικνύοντός μοι ταῦτα",
+      "finnish_biblia": "Ja minä Johannes olen se, joka näitä näin ja kuulin. Ja kuin minä näitä kuulin ja näin, lankesin minä maahan rukoilemaan enkelin jalkain eteen, joka minulle näitä osoitti. ",
+      "swedish_karl_xii": "Och jagh är Johannes som hörde och såg thetta: och sedan jagh hade thet hördt och sedt, föll jagh nedh at tilbedia för Ängelens fötter, som migh thetta wijste.",
+      "king_james": "And I John saw these things, and heard *them*. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "et dixit mihi: Vide ne feceris: conservus enim tuus sum, et fratrum tuorum prophetarum, et eorum qui servant verba prophetiæ libri hujus: Deum adora.",
+      "greek_textus_receptus": "καὶ λέγει μοι ὅρα μή σύνδουλός σου γάρ εἰμι καὶ τῶν ἀδελφῶν σου τῶν προφητῶν καὶ τῶν τηρούντων τοὺς λόγους τοῦ βιβλίου τούτου τῷ θεῷ προσκύνησον",
+      "finnish_biblia": "Ja hän sanoi minulle: katso, ettes sitä tee; sillä minä olen sinun kanssapalvelias, ja sinun veljeis prophetain ja niiden, jotka tämän kirjan sanat kätkevät: kumarra ja rukoile Jumalaa. ",
+      "swedish_karl_xii": "Och han sade til migh: Se til at tu giör thet icke: ty jagh är tin medtienare, och tina bröders Propheternas, och theras som hålla thenna books ord: Tilbed Gudh.",
+      "king_james": "Then saith he unto me, See *thou do it* not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Et dicit mihi: Ne signaveris verba prophetiæ libri hujus: tempus enim prope est.",
+      "greek_textus_receptus": "καὶ λέγει μοι μὴ σφραγίσῃς τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου ὅτι ὁ καιρὸς ἐγγύς ἐστιν",
+      "finnish_biblia": "Ja hän sanoi minulle: älä tämän kirjan prophetian sanoja lukitse; sillä aika on läsnä. ",
+      "swedish_karl_xii": "Och han sade til migh: Besegla icke thenna propheties ord i thesso book: ty tiden är när.",
+      "king_james": "And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Qui nocet, noceat adhuc: et qui in sordibus est, sordescat adhuc: et qui justus est, justificetur adhuc: et sanctus, sanctificetur adhuc.",
+      "greek_textus_receptus": "ὁ ἀδικῶν ἀδικησάτω ἔτι καὶ ὁ ῥυπῶν ῥυπωσάτω ἔτι καὶ ὁ δίκαιος δικαιωθήτω ἔτι καὶ ὁ ἅγιος ἁγιασθήτω ἔτι",
+      "finnish_biblia": "Joka paha on, se olkoon vielä paha, ja joka saastainen on, se tulkoon vielä saastaiseksi; mutta joka vanhurskas on, se tulkoon vielä hurskaaksi, ja joka pyhä on, se tulkoon vielä pyhäksi. ",
+      "swedish_karl_xii": "Then som onder är, han ware ännu onder; och then som oreen är, han ware ännu oreen: men then som from är, han warde ännu fromare; och then helig är, warde ännu heligare.",
+      "king_james": "He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Ecce venio cito, et merces mea mecum est, reddere unicuique secundum opera sua.",
+      "greek_textus_receptus": "καὶ ἰδού ἔρχομαι ταχύ καὶ ὁ μισθός μου μετ᾽ ἐμοῦ ἀποδοῦναι ἑκάστῳ ὡς τὸ ἔργον αὐτοῦ ἐσται",
+      "finnish_biblia": "Ja katso, minä tulen pian, ja minun palkkani on minun kanssani, antamaan kullekin niinkuin hänen työnsä on. ",
+      "swedish_karl_xii": "Och sij, jagh kommer snart, och min löön medh migh, til at wedergälla hwarjom och enom såsom hans gierning är.",
+      "king_james": "And, behold, I come quickly; and my reward *is* with me, to give every man according as his work shall be."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Ego sum alpha et omega, primus et novissimus, principium et finis.",
+      "greek_textus_receptus": "ἐγώ εἰμι τὸ α καὶ τὸ ω ἀρχὴ καὶ τέλος ὁ πρῶτος καὶ ὁ ἔσχατος",
+      "finnish_biblia": "Minä olen A ja O, alku ja loppu, ensimäinen ja viimeinen. ",
+      "swedish_karl_xii": "Jagh är A och O, begynnelsen och änden, then förste och then sidste.",
+      "king_james": "I am Alpha and Omega, the beginning and the end, the first and the last."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Beati, qui lavant stolas suas in sanguine Agni: ut sit potestas eorum in ligno vitæ, et per portas intrent in civitatem.",
+      "greek_textus_receptus": "μακάριοι οἱ ποιοῦντες τὰς ἐντολὰς αὐτοῦ ἵνα ἔσται ἡ ἐξουσία αὐτῶν ἐπὶ τὸ ξύλον τῆς ζωῆς καὶ τοῖς πυλῶσιν εἰσέλθωσιν εἰς τὴν πόλιν",
+      "finnish_biblia": "Autuaat ovat ne, jotka hänen käskynsä pitävät, että heidän voimansa elämän puussa olis ja he porteista kaupunkiin sisälle menisivät. ",
+      "swedish_karl_xii": "Salige äro the som hålla hans budh: på thet theras macht skal wara i lifsens trä, och ingå genom portarna i staden.",
+      "king_james": "Blessed *are* they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Foris canes, et venefici, et impudici, et homicidæ, et idolis servientes, et omnis qui amat et facit mendacium.",
+      "greek_textus_receptus": "ἔξω δὲ οἱ κύνες καὶ οἱ φάρμακοι καὶ οἱ πόρνοι καὶ οἱ φονεῖς καὶ οἱ εἰδωλολάτραι καὶ πᾶς ὁ φιλῶν καὶ ποιῶν ψεῦδος",
+      "finnish_biblia": "Mutta ulkona ovat koirat ja velhot, ja huorintekiät ja murhaajat, ja epäjumalan palveliat, ja kaikki ne, jotka valhetta rakastavat ja tekevät. ",
+      "swedish_karl_xii": "Ty vthan til äro hundar och trulkarlar, och bolare, och mandråpare, och afgudadyrkare, och alle the som älska och giöra lögnen.",
+      "king_james": "For without *are* dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Ego Jesus misi angelum meum testificari vobis hæc in ecclesiis. Ego sum radix, et genus David, stella splendida et matutina.",
+      "greek_textus_receptus": "ἐγὼ ἰησοῦς ἔπεμψα τὸν ἄγγελόν μου μαρτυρῆσαι ὑμῖν ταῦτα ἐπὶ ταῖς ἐκκλησίαις ἐγώ εἰμι ἡ ῥίζα καὶ τὸ γένος τοῦ δαβίδ ὁ ἀστὴρ ὁ λαμπρὸς καὶ ὀρθρινός",
+      "finnish_biblia": "Minä Jesus lähetin minun enkelini todistamaan näitä teille seurakunnissa. Minä olen Davidin juuri ja suku, se kirkas kointahti. ",
+      "swedish_karl_xii": "Jagh Jesus sände min Ängel, at han skulle betyga eder thetta i församlingarna: Jagh är Davidz root och slächte, een klar morgonstierna.",
+      "king_james": "I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, *and* the bright and morning star."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Et spiritus, et sponsa dicunt: Veni. Et qui audit, dicat: Veni. Et qui sitit, veniat: et qui vult, accipiat aquam vitæ, gratis.",
+      "greek_textus_receptus": "καὶ τὸ πνεῦμα καὶ ἡ νύμφη λέγουσιν ἐλθε καὶ ὁ ἀκούων εἰπάτω ἐλθε καὶ ὁ διψῶν ἐλθέτω καὶ ὁ θέλων λαμβανέτω τὸ ὕδωρ ζωῆς δωρεάν",
+      "finnish_biblia": "Ja henki ja morsian sanovat: tule. Ja joka kuulee, se sanokaan: tule. Joka janoo, se tulkaan, ja joka tahtoo, se ottakaan elämän vettä lahjaksi. ",
+      "swedish_karl_xii": "Och Anden och bruden säija: Kom. Och then thet hörer, han säije: Kom. Och then ther törster, han komme; och then ther wil, han tage lifsens watn för intet.",
+      "king_james": "And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Contestor enim omni audienti verba prophetiæ libri hujus: si quis apposuerit ad hæc, apponet Deus super illum plagas scriptas in libro isto.",
+      "greek_textus_receptus": "συμμαρτυροῦμαι γὰρ παντὶ ἀκούοντι τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου ἐάν τις ἐπιτιθῇ πρὸς ταῦτα ἐπιθήσει ὁ θεὸς ἐπ᾽ αὐτὸν τὰς πληγὰς τὰς γεγραμμένας ἐν βιβλίῳ τούτῳ",
+      "finnish_biblia": "Mutta minä todistan jokaiselle, joka tämän kirjan prophetian sanoja kuuleva on: jos joku lisää näihin, niin Jumala on paneva hänen päällensä ne vitsaukset, jotka tässä kirjassa kirjoitetut ovat. ",
+      "swedish_karl_xii": "Men jagh betygar hwar och en som hörer prophetienes ord i thesso book: Ho som lägger något här til, på honom skal Gudh läggia the plågor, som skrefne äro i thenna book.",
+      "king_james": "For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:"
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Et si quis diminuerit de verbis libri prophetiæ hujus, auferet Deus partem ejus de libro vitæ, et de civitate sancta, et de his quæ scripta sunt in libro isto:",
+      "greek_textus_receptus": "καὶ ἐάν τις ἀφαιρῇ ἀπὸ τῶν λόγων βίβλου τῆς προφητείας ταύτης ἀφαιρήσει ὁ θεὸς τὸ μέρος αὐτοῦ ἀπὸ βίβλου τῆς ζωῆς καὶ ἐκ τῆς πόλεως τῆς ἁγίας καὶ τῶν γεγραμμένων ἐν βιβλίῳ τούτῳ",
+      "finnish_biblia": "Ja jos joku tämän kirjan prophetian sanoista ottaa pois, niin Jumala ottaa pois hänen osansa elämän kirjasta, ja pyhästä kaupungista, ja niistä, mitkä tässä kirjassa kirjoitetut ovat. ",
+      "swedish_karl_xii": "Och om någor tager något ifrå thenna books propheties ord, hans deel skal Gudh borttaga vthu lifsens book, och vthu then helga staden, och vthu thet som skrifwit är i thenna book.",
+      "king_james": "And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and *from* the things which are written in this book."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "dicit qui testimonium perhibet istorum. Etiam venio cito: amen. Veni, Domine Jesu.",
+      "greek_textus_receptus": "λέγει ὁ μαρτυρῶν ταῦτα ναί ἔρχομαι ταχύ ἀμήν ναί ἔρχου κύριε ἰησοῦ",
+      "finnish_biblia": "Se, joka näitä todistaa, sanoo: jaa, minä tulen pian: amen! Niin tule, Herra Jesus! ",
+      "swedish_karl_xii": "Thet säger han som witnesbyrd bär här til: Ja, jagh kommer snart: Amen: Ja, kom Herre Jesu.",
+      "king_james": "He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Gratia Domini nostri Jesu Christi cum omnibus vobis. Amen.",
+      "greek_textus_receptus": "ἡ χάρις τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ μετὰ πάντων ὑμῶν ἀμήν",
+      "finnish_biblia": "Meidän Herran Jesuksen Kristuksen armo olkoon teidän kaikkein kanssanne. Amen!    ",
+      "swedish_karl_xii": "Wårs Herras Jesu Christi nådh ware medh eder allom: Amen.",
+      "king_james": "The grace of our Lord Jesus Christ *be* with you all. Amen."
+    }
+  ]
+}

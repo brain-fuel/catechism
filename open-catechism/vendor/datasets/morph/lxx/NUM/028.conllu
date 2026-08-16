@@ -1,0 +1,595 @@
+# ref = NUM.28.1
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐλάλησεν	λαλέω	_	_	_	_	_	Strong=G2980|Align=positional
+3	Κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+4	πρὸς	πρός	_	_	_	_	_	Strong=G4314|Align=exact
+5	Μωυσῆν	Μωσεύς	_	_	_	_	_	Strong=G3475|Align=positional
+6	λέγων	λέγω	_	_	_	_	_	Strong=G3004|Align=positional
+
+# ref = NUM.28.2
+1	Ἔντειλαι	ἐντέλλομαι	_	_	_	_	_	Strong=G1781|Align=positional
+2	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	υἱοῖς	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Ἰσραὴλ	Ἰσραήλ	_	_	_	_	_	Strong=G2474|Align=exact
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	ἐρεῖς	ἐρέω	_	_	_	_	_	Strong=G2046|Align=positional
+7	πρὸς	πρός	_	_	_	_	_	Strong=G4314|Align=exact
+8	αὐτοὺς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+9	λέγων	λέγω	_	_	_	_	_	Strong=G3004|Align=positional
+10	Τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	δῶρά	δῶρον	_	_	_	_	_	Strong=G1435|Align=positional
+12	μου	μου	_	_	_	_	_	Align=exact
+13	δόματά	δόμα	_	_	_	_	_	Strong=G1390|Align=positional
+14	μου	μου	_	_	_	_	_	Align=exact
+15	καρπώματά	κάρπωμα	_	_	_	_	_	Align=positional
+16	μου	μου	_	_	_	_	_	Align=exact
+17	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+18	ὀσμὴν	ὀσμή	_	_	_	_	_	Strong=G3744|Align=positional
+19	εὐωδίας	εὐωδία	_	_	_	_	_	Strong=G2175|Align=positional
+20	διατηρήσετε	διατηρέω	_	_	_	_	_	Strong=G1301|Align=positional
+21	προσφέρειν	προσφέρω	_	_	_	_	_	Strong=G4374|Align=positional
+22	ἐμοὶ	ἐμοί	_	_	_	_	_	Align=exact
+23	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+24	ταῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+25	ἑορταῖς	ἑορτή	_	_	_	_	_	Strong=G1859|Align=positional
+26	μου	μου	_	_	_	_	_	Align=exact
+
+# ref = NUM.28.3
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐρεῖς	ἐρέω	_	_	_	_	_	Strong=G2046|Align=positional
+3	πρὸς	πρός	_	_	_	_	_	Strong=G4314|Align=exact
+4	αὐτούς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+5	Ταῦτα	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+6	τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	καρπώματα	κάρπωμα	_	_	_	_	_	Align=positional
+8	ὅσα	ὅσος	_	_	_	_	_	Strong=G3745|Align=positional
+9	προσάξετε	προσάγω	_	_	_	_	_	Strong=G4317|Align=positional
+10	Κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+11	ἀμνοὺς	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+12	ἐνιαυσίους	ἐνιαύσιος	_	_	_	_	_	Align=positional
+13	ἀμώμους	ἄμωμος	_	_	_	_	_	Strong=G0299|Align=positional
+14	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
+15	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+16	ἡμέραν	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=positional
+17	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+18	ὁλοκαύτωσιν	ὁλοκαύτωσις	_	_	_	_	_	Align=positional
+19	ἐνδελεχῶς	ἐνδελεχῶς	_	_	_	_	_	Align=exact
+
+# ref = NUM.28.4
+1	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	ἀμνὸν	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+3	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	ἕνα	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+5	ποιήσεις	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+6	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	πρωί	πρωΐ	_	_	_	_	_	Strong=G4404|Align=exact
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	ἀμνὸν	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+11	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	δεύτερον	δεύτερος	_	_	_	_	_	Strong=G1208|Align=positional
+13	ποιήσεις	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+14	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+15	πρὸς	πρός	_	_	_	_	_	Strong=G4314|Align=exact
+16	ἑσπέραν	ἑσπέρα	_	_	_	_	_	Strong=G2073|Align=positional
+
+# ref = NUM.28.5
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ποιήσεις	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+3	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	δέκατον	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+5	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	οἰφὶ	οἰφί	_	_	_	_	_	Align=exact
+7	σεμίδαλιν	σεμίδαλις	_	_	_	_	_	Strong=G4585|Align=positional
+8	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+9	θυσίαν	θυσία	_	_	_	_	_	Strong=G2378|Align=positional
+10	ἀναπεποιημένην	ἀναποιέω	_	_	_	_	_	Align=positional
+11	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+12	ἐλαίῳ	ἔλαιον	_	_	_	_	_	Strong=G1637|Align=positional
+13	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+14	τετάρτῳ	τέταρτος	_	_	_	_	_	Strong=G5067|Align=positional
+15	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+16	εἵν	ιν	_	_	_	_	_	Align=positional
+
+# ref = NUM.28.6
+1	ὁλοκαύτωμα	ὁλοκαύτωμα	_	_	_	_	_	Strong=G3646|Align=exact
+2	ἐνδελεχισμοῦ	ἐνδελεχισμός	_	_	_	_	_	Align=positional
+3	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	γενομένη	γίνομαι	_	_	_	_	_	Strong=G1096|Align=positional
+5	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+6	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	ὄρει	ὄρος	_	_	_	_	_	Strong=G3735|Align=positional
+8	Σεινὰ	Σινᾶ	_	_	_	_	_	Strong=G4614|Align=positional
+9	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+10	ὀσμὴν	ὀσμή	_	_	_	_	_	Strong=G3744|Align=positional
+11	εὐωδίας	εὐωδία	_	_	_	_	_	Strong=G2175|Align=positional
+12	Κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+
+# ref = NUM.28.7
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	σπονδὴν	σπονδή	_	_	_	_	_	Align=positional
+3	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+4	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	τέταρτον	τέταρτος	_	_	_	_	_	Strong=G5067|Align=positional
+6	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	εἳν	ιν	_	_	_	_	_	Align=positional
+8	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	ἀμνῷ	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+10	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	ἑνί	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+12	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+13	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	ἁγίῳ	ἅγιος	_	_	_	_	_	Strong=G0040|Align=positional
+15	σπείσεις	σπένδω	_	_	_	_	_	Strong=G4689|Align=positional
+16	σπονδὴν	σπονδή	_	_	_	_	_	Align=positional
+17	σίκερα	σίκερα	_	_	_	_	_	Strong=G4608|Align=exact
+18	Κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+
+# ref = NUM.28.8
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ἀμνὸν	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+4	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	δεύτερον	δεύτερος	_	_	_	_	_	Strong=G1208|Align=positional
+6	ποιήσεις	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+7	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	πρὸς	πρός	_	_	_	_	_	Strong=G4314|Align=exact
+9	ἑσπέραν	ἑσπέρα	_	_	_	_	_	Strong=G2073|Align=positional
+10	κατὰ	κατά	_	_	_	_	_	Strong=G2596|Align=exact
+11	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	θυσίαν	θυσία	_	_	_	_	_	Strong=G2378|Align=positional
+13	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+14	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+15	κατὰ	κατά	_	_	_	_	_	Strong=G2596|Align=exact
+16	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+17	σπονδὴν	σπονδή	_	_	_	_	_	Align=positional
+18	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+19	ποιήσετε	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+20	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+21	ὀσμὴν	ὀσμή	_	_	_	_	_	Strong=G3744|Align=positional
+22	εὐωδίας	εὐωδία	_	_	_	_	_	Strong=G2175|Align=positional
+23	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+
+# ref = NUM.28.9
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τῇ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ἡμέρᾳ	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=exact
+4	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	σαββάτων	σάββατον	_	_	_	_	_	Strong=G4521|Align=positional
+6	προσάξετε	προσάγω	_	_	_	_	_	Strong=G4317|Align=positional
+7	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
+8	ἀμνοὺς	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+9	ἐνιαυσίους	ἐνιαύσιος	_	_	_	_	_	Align=positional
+10	ἀμώμους	ἄμωμος	_	_	_	_	_	Strong=G0299|Align=positional
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
+13	δέκατα	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+14	σεμιδάλεως	σεμίδαλις	_	_	_	_	_	Strong=G4585|Align=positional
+15	ἀναπεποιημένης	ἀναποιέω	_	_	_	_	_	Align=positional
+16	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+17	ἐλαίῳ	ἔλαιον	_	_	_	_	_	Strong=G1637|Align=positional
+18	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+19	θυσίαν	θυσία	_	_	_	_	_	Strong=G2378|Align=positional
+20	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+21	σπονδήν	σπονδή	_	_	_	_	_	Align=positional
+
+# ref = NUM.28.10
+1	ὁλοκαύτωμα	ὁλοκαύτωμα	_	_	_	_	_	Strong=G3646|Align=exact
+2	σαββάτων	σάββατον	_	_	_	_	_	Strong=G4521|Align=positional
+3	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+4	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	σαββάτοις	σάββατον	_	_	_	_	_	Strong=G4521|Align=positional
+6	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+7	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	ὁλοκαυτώσεως	ὁλοκαύτωσις	_	_	_	_	_	Align=positional
+9	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	διὰ	διά	_	_	_	_	_	Strong=G1223|Align=exact
+11	παντός	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	σπονδὴν	σπονδή	_	_	_	_	_	Align=positional
+15	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = NUM.28.11
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+3	ταῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	νεομηνίαις	νουμηνία	_	_	_	_	_	Align=positional
+5	προσάξετε	προσάγω	_	_	_	_	_	Strong=G4317|Align=positional
+6	ὁλοκαυτώματα	ὁλοκαύτωμα	_	_	_	_	_	Strong=G3646|Align=positional
+7	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+9	μόσχους	μόσχος	_	_	_	_	_	Strong=G3448|Align=positional
+10	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+11	βοῶν	βοῦς	_	_	_	_	_	Strong=G1016|Align=positional
+12	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
+13	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+14	κριὸν	κριός	_	_	_	_	_	Align=positional
+15	ἕνα	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+16	ἀμνοὺς	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+17	ἐνιαυσίους	ἐνιαύσιος	_	_	_	_	_	Align=positional
+18	ἑπτὰ	ἑπτά	_	_	_	_	_	Strong=G2033|Align=exact
+19	ἀμώμους	ἄμωμος	_	_	_	_	_	Strong=G0299|Align=positional
+
+# ref = NUM.28.12
+1	τρία	τρεῖς	_	_	_	_	_	Strong=G5140|Align=positional
+2	δέκατα	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+3	σεμιδάλεως	σεμίδαλις	_	_	_	_	_	Strong=G4585|Align=positional
+4	ἀναπεποιημένης	ἀναποιέω	_	_	_	_	_	Align=positional
+5	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+6	ἐλαίῳ	ἔλαιον	_	_	_	_	_	Strong=G1637|Align=positional
+7	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	μόσχῳ	μόσχος	_	_	_	_	_	Strong=G3448|Align=positional
+9	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	ἑνί	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
+13	δέκατα	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+14	σεμιδάλεως	σεμίδαλις	_	_	_	_	_	Strong=G4585|Align=positional
+15	ἀναπεποιημένης	ἀναποιέω	_	_	_	_	_	Align=positional
+16	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+17	ἐλαίῳ	ἔλαιον	_	_	_	_	_	Strong=G1637|Align=positional
+18	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+19	κριῷ	κριός	_	_	_	_	_	Align=positional
+20	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+21	ἑνί	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+
+# ref = NUM.28.13
+1	δέκατον	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+2	σεμιδάλεως	σεμίδαλις	_	_	_	_	_	Strong=G4585|Align=positional
+3	ἀναπεποιημένης	ἀναποιέω	_	_	_	_	_	Align=positional
+4	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+5	ἐλαίῳ	ἔλαιον	_	_	_	_	_	Strong=G1637|Align=positional
+6	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	ἀμνῷ	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+8	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	ἑνί	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+10	θυσίαν	θυσία	_	_	_	_	_	Strong=G2378|Align=positional
+11	ὀσμὴν	ὀσμή	_	_	_	_	_	Strong=G3744|Align=positional
+12	εὐωδίας	εὐωδία	_	_	_	_	_	Strong=G2175|Align=positional
+13	κάρπωμα	κάρπωμα	_	_	_	_	_	Align=exact
+14	Κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+
+# ref = NUM.28.14
+1	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	σπονδὴ	σπονδή	_	_	_	_	_	Align=exact
+3	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+4	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	ἥμισυ	ἥμισυς	_	_	_	_	_	Align=positional
+6	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	εἳν	ιν	_	_	_	_	_	Align=positional
+8	ἔσται	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+9	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	μόσχῳ	μόσχος	_	_	_	_	_	Strong=G3448|Align=positional
+11	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ἑνί	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+13	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+14	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+15	τρίτον	τρίτος	_	_	_	_	_	Strong=G5154|Align=positional
+16	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+17	εἳν	ιν	_	_	_	_	_	Align=positional
+18	ἔσται	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+19	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+20	κριῷ	κριός	_	_	_	_	_	Align=positional
+21	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+22	ἑνί	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+23	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+24	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+25	τέταρτον	τέταρτος	_	_	_	_	_	Strong=G5067|Align=positional
+26	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+27	εἳν	ιν	_	_	_	_	_	Align=positional
+28	ἔσται	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+29	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+30	ἀμνῷ	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+31	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+32	ἑνὶ	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+33	οἴνου	οἶνος	_	_	_	_	_	Strong=G3631|Align=positional
+34	τοῦτο	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+35	ὁλοκαύτωμα	ὁλοκαύτωμα	_	_	_	_	_	Strong=G3646|Align=exact
+36	μῆνα	μήν	_	_	_	_	_	Strong=G3376|Align=positional
+37	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+38	μηνὸς	μήν	_	_	_	_	_	Strong=G3376|Align=positional
+39	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+40	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+41	μῆνας	μήν	_	_	_	_	_	Strong=G3376|Align=positional
+42	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+43	ἐνιαυτοῦ	ἐνιαυτός	_	_	_	_	_	Strong=G1763|Align=positional
+
+# ref = NUM.28.15
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	χίμαρον	χίμαρος	_	_	_	_	_	Align=positional
+3	ἐξ	ἐκ	_	_	_	_	_	Strong=G1537|Align=positional
+4	αἰγῶν	αἴξ	_	_	_	_	_	Align=positional
+5	ἕνα	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+6	περὶ	περί	_	_	_	_	_	Strong=G4012|Align=exact
+7	ἁμαρτίας	ἁμαρτία	_	_	_	_	_	Strong=G0266|Align=positional
+8	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+9	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+10	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	ὁλοκαυτώσεως	ὁλοκαύτωσις	_	_	_	_	_	Align=positional
+12	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	διὰ	διά	_	_	_	_	_	Strong=G1223|Align=exact
+14	παντὸς	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+15	ποιηθήσεται	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+16	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+17	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+18	σπονδὴ	σπονδή	_	_	_	_	_	Align=exact
+19	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = NUM.28.16
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+3	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	μηνὶ	μήν	_	_	_	_	_	Strong=G3376|Align=positional
+5	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	πρώτῳ	πρῶτος	_	_	_	_	_	Strong=G4413|Align=positional
+7	τεσσαρεσκαιδεκάτῃ	τεσσαρεσκαιδέκατος	_	_	_	_	_	Strong=G5065|Align=positional
+8	ἡμέρᾳ	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=exact
+9	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	μηνὸς	μήν	_	_	_	_	_	Strong=G3376|Align=positional
+11	πάσχα	πάσχα	_	_	_	_	_	Strong=G3957|Align=exact
+12	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+
+# ref = NUM.28.17
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τῇ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	πεντεκαιδεκάτῃ	πεντεκαιδέκατος	_	_	_	_	_	Strong=G4003|Align=positional
+4	ἡμέρᾳ	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=exact
+5	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	μηνὸς	μήν	_	_	_	_	_	Strong=G3376|Align=positional
+7	τούτου	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+8	ἑορτή	ἑορτή	_	_	_	_	_	Strong=G1859|Align=exact
+9	ἑπτὰ	ἑπτά	_	_	_	_	_	Strong=G2033|Align=exact
+10	ἡμέρας	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=positional
+11	ἄζυμα	ἄζυμος	_	_	_	_	_	Strong=G0106|Align=positional
+12	ἔδεσθε	ἐσθίω	_	_	_	_	_	Strong=G2068|Align=positional
+
+# ref = NUM.28.18
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ἡμέρα	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=exact
+4	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	πρώτη	πρῶτος	_	_	_	_	_	Strong=G4413|Align=positional
+6	ἐπίκλητος	ἐπίκλητος	_	_	_	_	_	Align=exact
+7	ἁγία	ἅγιος	_	_	_	_	_	Strong=G0040|Align=positional
+8	ἔσται	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+9	ὑμῖν	ὑμῖν	_	_	_	_	_	Align=exact
+10	πᾶν	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+11	ἔργον	ἔργον	_	_	_	_	_	Strong=G2041|Align=exact
+12	λατρευτὸν	λατρευτός	_	_	_	_	_	Align=positional
+13	οὐ	οὐ	_	_	_	_	_	Strong=G3756|Align=exact
+14	ποιήσετε	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+
+# ref = NUM.28.19
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	προσάξετε	προσάγω	_	_	_	_	_	Strong=G4317|Align=positional
+3	ὁλοκαυτώματα	ὁλοκαύτωμα	_	_	_	_	_	Strong=G3646|Align=positional
+4	καρπώματα	κάρπωμα	_	_	_	_	_	Align=positional
+5	Κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+6	μόσχους	μόσχος	_	_	_	_	_	Strong=G3448|Align=positional
+7	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+8	βοῶν	βοῦς	_	_	_	_	_	Strong=G1016|Align=positional
+9	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
+10	κριὸν	κριός	_	_	_	_	_	Align=positional
+11	ἕνα	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+12	ἀμνοὺς	ἑπτά	_	_	_	_	_	Strong=G2033|Align=positional
+13	ἐνιαυσίους	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+14	ζ᾽	ἐνιαύσιος	_	_	_	_	_	Align=positional
+15	ἄμωμοι	ἄμωμος	_	_	_	_	_	Strong=G0299|Align=positional
+16	ἔσονται	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+17	ὑμῖν	ὑμῖν	_	_	_	_	_	Align=exact
+
+# ref = NUM.28.20
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	θυσία	θυσία	_	_	_	_	_	Strong=G2378|Align=exact
+3	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+4	σεμίδαλις	σεμίδαλις	_	_	_	_	_	Strong=G4585|Align=exact
+5	ἀναπεποιημένη	ἀναποιέω	_	_	_	_	_	Align=positional
+6	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+7	ἐλαίῳ	ἔλαιον	_	_	_	_	_	Strong=G1637|Align=positional
+8	τρία	τρεῖς	_	_	_	_	_	Strong=G5140|Align=positional
+9	δέκατα	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+10	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	μόσχῳ	μόσχος	_	_	_	_	_	Strong=G3448|Align=positional
+12	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	ἑνὶ	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+14	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+15	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
+16	δέκατα	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+17	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+18	κριῷ	κριός	_	_	_	_	_	Align=positional
+19	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+20	ἑνί	εἷς	_	_	_	_	_	Strong=G1520|Align=positional,source_extra:1
+
+# ref = NUM.28.21
+1	δέκατον	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+2	δέκατον	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+3	ποιήσεις	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+4	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	ἀμνῷ	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+6	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	ἑνὶ	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+8	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	ἑπτὰ	ἑπτά	_	_	_	_	_	Strong=G2033|Align=exact
+10	ἀμνοῖς	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+
+# ref = NUM.28.22
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	χίμαρον	χίμαρος	_	_	_	_	_	Align=positional
+3	ἐξ	ἐκ	_	_	_	_	_	Strong=G1537|Align=positional
+4	αἰγῶν	αἴξ	_	_	_	_	_	Align=positional
+5	ἕνα	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+6	περὶ	περί	_	_	_	_	_	Strong=G4012|Align=exact
+7	ἁμαρτίας	ἁμαρτία	_	_	_	_	_	Strong=G0266|Align=positional
+8	ἐξιλάσασθαι	ἐξιλάσκομαι	_	_	_	_	_	Align=positional
+9	περὶ	περί	_	_	_	_	_	Strong=G4012|Align=exact
+10	ὑμῶν	ὑμῶν	_	_	_	_	_	Align=exact
+
+# ref = NUM.28.23
+1	πλὴν	πλήν	_	_	_	_	_	Strong=G4133|Align=exact
+2	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ὁλοκαυτώσεως	ὁλοκαύτωσις	_	_	_	_	_	Align=positional
+4	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	διὰ	διά	_	_	_	_	_	Strong=G1223|Align=exact
+6	παντὸς	_	_	_	_	_	_	Align=unmatched
+7	τῆς	_	_	_	_	_	_	Align=unmatched
+8	πρωινῆς	_	_	_	_	_	_	Align=unmatched
+9	ὅ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+10	ἐστιν	_	_	_	_	_	_	Align=unmatched
+11	ὁλοκαύτωμα	ὁλοκαύτωμα	_	_	_	_	_	Strong=G3646|Align=exact
+12	ἐνδελεχισμοῦ	ἐνδελεχισμός	_	_	_	_	_	Align=positional,source_extra:4
+
+# ref = NUM.28.24
+1	ταῦτα	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+2	κατὰ	κατά	_	_	_	_	_	Strong=G2596|Align=exact
+3	ταῦτα	οὗτος	_	_	_	_	_	Strong=G3778|Align=positional
+4	ποιήσετε	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+5	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	ἡμέραν	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=positional
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	τὰς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	ἑπτὰ	ἑπτά	_	_	_	_	_	Strong=G2033|Align=exact
+10	ἡμέρας	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=positional
+11	δῶρον	δῶρον	_	_	_	_	_	Strong=G1435|Align=exact
+12	κάρπωμα	κάρπωμα	_	_	_	_	_	Align=exact
+13	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+14	ὀσμὴν	ὀσμή	_	_	_	_	_	Strong=G3744|Align=positional
+15	εὐωδίας	εὐωδία	_	_	_	_	_	Strong=G2175|Align=positional
+16	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+17	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+18	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+19	ὁλοκαυτώματος	ὁλοκαύτωμα	_	_	_	_	_	Strong=G3646|Align=positional
+20	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+21	διὰ	διά	_	_	_	_	_	Strong=G1223|Align=exact
+22	παντὸς	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+23	ποιήσεις	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+24	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+25	σπονδὴν	σπονδή	_	_	_	_	_	Align=positional
+26	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = NUM.28.25
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ἡμέρα	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=exact
+4	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	ἑβδόμη	ἕβδομος	_	_	_	_	_	Strong=G1442|Align=positional
+6	κλητὴ	κλητός	_	_	_	_	_	Strong=G2822|Align=positional
+7	ἁγία	ἅγιος	_	_	_	_	_	Strong=G0040|Align=positional
+8	ἔσται	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+9	ὑμῖν	ὑμῖν	_	_	_	_	_	Align=exact
+10	πᾶν	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+11	ἔργον	ἔργον	_	_	_	_	_	Strong=G2041|Align=exact
+12	λατρευτὸν	λατρευτός	_	_	_	_	_	Align=positional
+13	οὐ	οὐ	_	_	_	_	_	Strong=G3756|Align=exact
+14	ποιήσετε	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+15	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+16	αὐτῇ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = NUM.28.26
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τῇ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ἡμέρᾳ	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=exact
+4	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	νέων	νέος	_	_	_	_	_	Strong=G3501|Align=positional
+6	ὅταν	ὅταν	_	_	_	_	_	Strong=G3752|Align=exact
+7	προσφέρητε	προσφέρω	_	_	_	_	_	Strong=G4374|Align=positional
+8	θυσίαν	θυσία	_	_	_	_	_	Strong=G2378|Align=positional
+9	νέαν	νέος	_	_	_	_	_	Strong=G3501|Align=positional
+10	Κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+11	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ἑβδομάδων	ἑβδομάς	_	_	_	_	_	Align=positional
+13	ἐπίκλητος	ἐπίκλητος	_	_	_	_	_	Align=exact
+14	ἁγία	ἅγιος	_	_	_	_	_	Strong=G0040|Align=positional
+15	ἔσται	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+16	ὑμῖν	ὑμῖν	_	_	_	_	_	Align=exact
+17	πᾶν	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+18	ἔργον	ἔργον	_	_	_	_	_	Strong=G2041|Align=exact
+19	λατρευτὸν	λατρευτός	_	_	_	_	_	Align=positional
+20	οὐ	οὐ	_	_	_	_	_	Strong=G3756|Align=exact
+21	ποιήσετε	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+
+# ref = NUM.28.27
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	προσάξετε	προσάγω	_	_	_	_	_	Strong=G4317|Align=positional
+3	ὁλοκαυτώματα	ὁλοκαύτωμα	_	_	_	_	_	Strong=G3646|Align=positional
+4	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+5	ὀσμὴν	ὀσμή	_	_	_	_	_	Strong=G3744|Align=positional
+6	εὐωδίας	εὐωδία	_	_	_	_	_	Strong=G2175|Align=positional
+7	Κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+8	μόσχους	μόσχος	_	_	_	_	_	Strong=G3448|Align=positional
+9	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+10	βοῶν	βοῦς	_	_	_	_	_	Strong=G1016|Align=positional
+11	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
+12	κριὸν	κριός	_	_	_	_	_	Align=positional
+13	ἕνα	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+14	ἑπτὰ	ἑπτά	_	_	_	_	_	Strong=G2033|Align=exact
+15	ἀμνοὺς	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+16	ἐνιαυσίους	ἐνιαύσιος	_	_	_	_	_	Align=positional
+17	ἀμώμους	ἄμωμος	_	_	_	_	_	Strong=G0299|Align=positional
+
+# ref = NUM.28.28
+1	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	θυσία	θυσία	_	_	_	_	_	Strong=G2378|Align=exact
+3	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+4	σεμίδαλις	σεμίδαλις	_	_	_	_	_	Strong=G4585|Align=exact
+5	ἀναπεποιημένη	ἀναποιέω	_	_	_	_	_	Align=positional
+6	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+7	ἐλαίῳ	ἔλαιον	_	_	_	_	_	Strong=G1637|Align=positional
+8	τρία	τρεῖς	_	_	_	_	_	Strong=G5140|Align=positional
+9	δέκατα	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+10	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	μόσχῳ	μόσχος	_	_	_	_	_	Strong=G3448|Align=positional
+12	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	ἑνὶ	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+14	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+15	δύο	δύο	_	_	_	_	_	Strong=G1417|Align=exact
+16	δέκατα	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+17	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+18	κριῷ	κριός	_	_	_	_	_	Align=positional
+19	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+20	ἑνί	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+
+# ref = NUM.28.29
+1	δέκατον	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+2	δέκατον	δέκατος	_	_	_	_	_	Strong=G1182|Align=positional
+3	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	ἀμνῷ	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+5	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	ἑνὶ	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+7	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	ἑπτὰ	ἑπτά	_	_	_	_	_	Strong=G2033|Align=exact
+9	ἀμνοῖς	ἀμνός	_	_	_	_	_	Strong=G0286|Align=positional
+
+# ref = NUM.28.30
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	χίμαρον	χίμαρος	_	_	_	_	_	Align=positional
+3	ἐξ	ἐκ	_	_	_	_	_	Strong=G1537|Align=positional
+4	αἰγῶν	αἴξ	_	_	_	_	_	Align=positional
+5	ἕνα	εἷς	_	_	_	_	_	Strong=G1520|Align=positional
+6	περὶ	περί	_	_	_	_	_	Strong=G4012|Align=exact
+7	ἁμαρτίας	ἁμαρτία	_	_	_	_	_	Strong=G0266|Align=positional
+8	ἐξιλάσασθαι	ἐξιλάσκομαι	_	_	_	_	_	Align=positional
+9	περὶ	περί	_	_	_	_	_	Strong=G4012|Align=exact
+10	ὑμῶν	ὑμῶν	_	_	_	_	_	Align=exact
+
+# ref = NUM.28.31
+1	πλὴν	πλήν	_	_	_	_	_	Strong=G4133|Align=exact
+2	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ὁλοκαυτώματος	ὁλοκαύτωμα	_	_	_	_	_	Strong=G3646|Align=positional
+4	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	διὰ	διά	_	_	_	_	_	Strong=G1223|Align=exact
+6	παντὸς	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	θυσὶαν	θυσία	_	_	_	_	_	Strong=G2378|Align=positional
+10	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+11	ποιήσετέ	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+12	μοι	μοι	_	_	_	_	_	Align=exact
+13	ἄμωμοι	ἄμωμος	_	_	_	_	_	Strong=G0299|Align=positional
+14	ἔσονται	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+15	ὑμῖν	ὑμῖν	_	_	_	_	_	Align=exact
+16	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+17	τὰς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+18	σπονδὰς	σπονδή	_	_	_	_	_	Align=positional
+19	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+

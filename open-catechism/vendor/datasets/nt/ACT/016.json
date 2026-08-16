@@ -1,0 +1,331 @@
+{
+  "book_id": "ACT",
+  "latin_name": "Actus Apostolorum",
+  "greek_name": "Πράξεις Ἀποστόλων",
+  "finnish_name": "Apostolien teot",
+  "swedish_name": "Apostla Hierningar, Af S. Luca beskrifna",
+  "english_name": "The Acts of the Apostles",
+  "chapter": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Pervenit autem Derben et Lystram. Et ecce discipulus quidam erat ibi nomine Timotheus, filius mulieris Judææ fidelis, patre gentili.",
+      "greek_textus_receptus": "κατήντησεν δὲ εἰς δέρβην καὶ λύστραν καὶ ἰδού, μαθητής τις ἦν ἐκεῖ ὀνόματι τιμόθεος υἱὸς γυναικὸς τινος ἰουδαίας πιστῆς πατρὸς δὲ ἕλληνος",
+      "finnish_biblia": "Niin hän tuli Derbeen ja Lystraan. Ja katso, siellä oli yksi opetuslapsi, Timoteus nimeltä, uskovaisen Juudalaisvaimon poika, mutta isä oli Grekiläinen. ",
+      "swedish_karl_xii": "Och han kom til Derben, och Lystra: och sij, ther war en lärjunge, benämnd Timotheus, een Judesk qwinnos son, then ther trogen war; men fadren war en Greek.",
+      "king_james": "Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father *was* a Greek:"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Huic testimonium bonum reddebant qui in Lystris erant et Iconio fratres.",
+      "greek_textus_receptus": "ὃς ἐμαρτυρεῖτο ὑπὸ τῶν ἐν λύστροις καὶ ἰκονίῳ ἀδελφῶν",
+      "finnish_biblia": "Sillä oli hyvä todistus veljiltä, jotka Lystrassa ja Ikoniossa olivat. ",
+      "swedish_karl_xii": "Then samme hade ett godt rychte af the bröder som woro i Lystris, och Jconien.",
+      "king_james": "Which was well reported of by the brethren that were at Lystra and Iconium."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Hunc voluit Paulus secum proficisci: et assumens circumcidit eum propter Judæos qui erant in illis locis. Sciebant enim omnes quod pater ejus erat gentilis.",
+      "greek_textus_receptus": "τοῦτον ἠθέλησεν ὁ παῦλος σὺν αὐτῷ ἐξελθεῖν καὶ λαβὼν περιέτεμεν αὐτὸν διὰ τοὺς ἰουδαίους τοὺς ὄντας ἐν τοῖς τόποις ἐκείνοις ᾔδεισαν γὰρ ἅπαντες τὸν πατὲρα αὐτοῦ ὅτι ἕλλην ὑπῆρχεν",
+      "finnish_biblia": "Tätä tahtoi Paavali kanssansa vaeltamaan, otti ja ympärileikkasi hänen Juudalaisten tähden, jotka niissä paikoissa olivat; sillä he tiesivät kaikki, että hänen isänsä oli Grekiläinen. ",
+      "swedish_karl_xii": "Tå wille Paulus, at han skulle fara medh honom; och tog och omskar honom, för the Judar skul som woro i the rum: ty the wiste alle, at hans fader war en Greek.",
+      "king_james": "Him would Paul have to go forth with him; and took and circumcised him because of the Jews which were in those quarters: for they knew all that his father was a Greek."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Cum autem pertransirent civitates, tradebant eis custodiri dogmata quæ erant decreta ab Apostolis et senioribus qui erant Jerosolymis.",
+      "greek_textus_receptus": "ὡς δὲ διεπορεύοντο τὰς πόλεις παρεδίδουν αὐτοῖς φυλάσσειν τὰ δόγματα τὰ κεκριμένα ὑπὸ τῶν ἀποστόλων καὶ τῶν πρεσβυτέρων τῶν ἐν ἰερουσαλήμ",
+      "finnish_biblia": "Mutta kuin he kaupungeita lävitse vaelsivat, antoivat he heille pidettäväksi ne säädyt, jotka asetetut olivat apostoleilta ja vanhimmilta, jotka Jerusalemissa olivat. ",
+      "swedish_karl_xii": "Och ther the foro genom städerna, befalte the them hålla the stadgar som af Apostlarna och Presterna i Jerusalem beslutne woro.",
+      "king_james": "And as they went through the cities, they delivered them the decrees for to keep, that were ordained of the apostles and elders which were at Jerusalem."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et ecclesiæ quidem confirmabantur fide, et abundabunt numero quotidie.",
+      "greek_textus_receptus": "αἱ μὲν οὖν ἐκκλησίαι ἐστερεοῦντο τῇ πίστει καὶ ἐπερίσσευον τῷ ἀριθμῷ καθ᾽ ἡμέραν",
+      "finnish_biblia": "Niin seurakunnat vahvistuivat uskossa ja heidän lukunsa eneni joka päivä. ",
+      "swedish_karl_xii": "Och wordo the församlingar stadfästa i trone, och förökades på talet hwar dagh.",
+      "king_james": "And so were the churches established in the faith, and increased in number daily."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Transeuntes autem Phrygiam et Galatiæ regionem, vetati sunt a Spiritu Sancto loqui verbum Dei in Asia.",
+      "greek_textus_receptus": "διελθόντες δὲ τὴν φρυγίαν καὶ τὴν γαλατικὴν χώραν κωλυθέντες ὑπὸ τοῦ ἁγίου πνεύματος λαλῆσαι τὸν λόγον ἐν τῇ ἀσίᾳ",
+      "finnish_biblia": "Mutta kuin he Phrygian ja Galatian maakunnan lävitse vaelsivat, kiellettiin heitä Pyhältä Hengeltä puhumasta Jumalan sanaa Asiassa. ",
+      "swedish_karl_xii": "Tå the wandrade genom Phrygien, och Galatie landskap, wardt them förmeent af them Helga Anda tala ordet i Asten.",
+      "king_james": "Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia,"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Cum venissent autem in Mysiam, tentabant ire in Bithyniam: et non permisit eos Spiritus Jesu.",
+      "greek_textus_receptus": "ἐλθόντες κατὰ τὴν μυσίαν ἐπείραζον κατὰ τὴν βιθυνίαν πορεύεσθαι καὶ οὐκ εἴασεν αὐτοὺς τὸ πνεῦμα",
+      "finnish_biblia": "Kuin he olivat tulleet Mysiaan, kiusasivat he vaeltaa Bitynian lävitse; mutta ei Henki sitä sallinut. ",
+      "swedish_karl_xii": "Therföre foro the in i Mysien, och bödo til at fara in i Bithynien; och Anden tilstadde them icke.",
+      "king_james": "After they were come to Mysia, they assayed to go into Bithynia: but the Spirit suffered them not."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Cum autem pertransissent Mysiam, descenderunt Troadem:",
+      "greek_textus_receptus": "παρελθόντες δὲ τὴν μυσίαν κατέβησαν εἰς τρῳάδα",
+      "finnish_biblia": "Kuin he siis Mysian ohitse vaeltaneet olivat, menivät he alas Troadiin. ",
+      "swedish_karl_xii": "Men tå the hade farit genom Mysien, foro the nedh til Troadem.",
+      "king_james": "And they passing by Mysia came down to Troas."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "et visio per noctem Paulo ostensa est: vir Macedo quidam erat stans et deprecans eum, et dicens: Transiens in Macedoniam, adjuva nos.",
+      "greek_textus_receptus": "καὶ ὅραμα διὰ τῆς νυκτὸς ὤφθη τῷ παύλῳ ἀνὴρ τις ἦν μακεδών ἑστὼς παρακαλῶν αὐτὸν καὶ λέγων, διαβὰς εἰς μακεδονίαν βοήθησον ἡμῖν",
+      "finnish_biblia": "Ja Paavali näki näyn yöllä: yksi Makedonian mies seisoi, rukoili häntä ja sanoi: tule Makedoniaan ja auta meitä. ",
+      "swedish_karl_xii": "Och een syyn syntes Paulo om nattena: En Macedonisk man stod och bad honom, säijandes: Faar in i Macedonien, och hielp oß.",
+      "king_james": "And a vision appeared to Paul in the night; There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Ut autem visum vidit, statim quæsivimus proficisci in Macedoniam, certi facti quod vocasset nos Deus evangelizare eis.",
+      "greek_textus_receptus": "ὡς δὲ τὸ ὅραμα εἶδεν εὐθέως ἐζητήσαμεν ἐξελθεῖν εἰς τὴν μακεδονίαν συμβιβάζοντες ὅτι προσκέκληται ἡμᾶς ὁ κύριος εὐαγγελίσασθαι αὐτούς",
+      "finnish_biblia": "Ja kuin hän näyn näki, hankitsimme me kohta Makedoniaan menemään, tietäen täydellisesti Herran meitä kutsuneen heille evankeliumia saarnaamaan. ",
+      "swedish_karl_xii": "Och strax han hade sedt synena, tänckte wij til at fara in i Macedonien; och wore wisse ther vppå, at Herren hade kallat oß til at predika Evangelium för them.",
+      "king_james": "And after he had seen the vision, immediately we endeavoured to go into Macedonia, assuredly gathering that the Lord had called us for to preach the gospel unto them."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Navigantes autem a Troade, recto cursu venimus Samothraciam, et sequenti die Neapolim:",
+      "greek_textus_receptus": "ἀναχθέντες οὖν ἀπὸ τὴς τρῳάδος εὐθυδρομήσαμεν εἰς σαμοθρᾴκην τῇ τε ἐπιούσῃ εἰς νεάπολιν",
+      "finnish_biblia": "Kuin me siis Troadista purjehdimme, niin me juoksimme kohdastansa Samotrakiaan, ja toisena päivänä Neapoliin, ",
+      "swedish_karl_xii": "Tå wij nu seglade af Troade, kommo wij wår rätta koos til Samothracien; och dagen ther efter til Neapolis:",
+      "king_james": "Therefore loosing from Troas, we came with a straight course to Samothracia, and the next *day* to Neapolis;"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "et inde Philippos, quæ est prima partis Macedoniæ civitas, colonia. Eramus autem in hac urbe diebus aliquot, conferentes.",
+      "greek_textus_receptus": "ἐκειθέν τε εἰς φιλίππους ἥτις ἐστὶν πρώτη τῆς μερίδος τὴς μακεδονίας πόλις κολωνία ἦμεν δὲ ἐν ταύτῃ τῇ πόλει διατρίβοντες ἡμέρας τινάς",
+      "finnish_biblia": "Ja sieltä Philippiin, joka on Makedonian maakunnan pääkaupunki ja vapaa kaupunki; ja siinä kaupungissa me muutamia päiviä oleskelimme. ",
+      "swedish_karl_xii": "Och tädan til Philippos, som är ypperste staden i Macedonien, och är en fristad. Och wistades wij vthi then staden några dagar.",
+      "king_james": "And from thence to Philippi, which is the chief city of that part of Macedonia, *and* a colony: and we were in that city abiding certain days."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Die autem sabbatorum egressi sumus foras portam juxta flumen, ubi videbatur oratio esse: et sedentes loquebamur mulieribus quæ convenerant.",
+      "greek_textus_receptus": "τῇ τε ἡμέρᾳ τῶν σαββάτων ἐξήλθομεν ἔξω τῆς πόλεως παρὰ ποταμὸν οὗ ἐνομίζετο προσευχή εἶναι καὶ καθίσαντες ἐλαλοῦμεν ταῖς συνελθούσαις γυναιξίν",
+      "finnish_biblia": "Ja me menimme lepopäivänä ulos kaupungista, virran tykö, kussa tapa oli rukoilla: jossa me istuimme ja puhuttelimme vaimoja, jotka sinne tulleet olivat. ",
+      "swedish_karl_xii": "Och om Sabbathsdagen ginge wij vth af staden til älfwena, ther man plägade bedia; och satte oß nedh, och talade medh qwinnor, som ther tilsamman kommo.",
+      "king_james": "And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted *thither*."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Et quædam mulier nomine Lydia, purpuraria civitatis Thyatirenorum, colens Deum, audivit: cujus Dominus aperuit cor intendere his quæ dicebantur a Paulo.",
+      "greek_textus_receptus": "καί τις γυνὴ ὀνόματι λυδία πορφυρόπωλις πόλεως θυατείρων σεβομένη τὸν θεόν ἤκουεν ἡς ὁ κύριος διήνοιξεν τὴν καρδίαν προσέχειν τοῖς λαλουμένοις ὑπὸ τοῦ παύλου",
+      "finnish_biblia": "Ja vaimo, Lydia nimeltä, purpurain myyjä Tyatiron kaupungista, Jumalaa palvelevainen, kuulteli: jonka sydämen Herra avasi ottamaan vaaria niistä, mitä Paavalilta sanottiin. ",
+      "swedish_karl_xii": "Och een gudelig qwinna, benämnd Lydia, een purpurkrämerska, vthaf the Thyatirers stadh, lydde til: och Herren öpnade hennes hierta, at hon gaf acht på thet Paulus sade.",
+      "king_james": "And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard *us*: whose heart the Lord opened, that she attended unto the things which were spoken of Paul."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Cum autem baptizata esset, et domus ejus, deprecata est, dicens: Si judicastis me fidelem Domino esse, introite in domum meam, et manete. Et coëgit nos.",
+      "greek_textus_receptus": "ὡς δὲ ἐβαπτίσθη καὶ ὁ οἶκος αὐτῆς παρεκάλεσεν λέγουσα εἰ κεκρίκατέ με πιστὴν τῷ κυρίῳ εἶναι εἰσελθόντες εἰς τὸν οἶκόν μου μείνατε καὶ παρεβιάσατο ἡμᾶς",
+      "finnish_biblia": "Ja kuin hän ja hänen huoneensa kastettu oli, rukoili hän meitä, sanoen: jos te minun Herralle uskollisena pidätte, niin tulkaat minun huoneeseeni ja olkaat siinä. Ja hän vaati heitä. ",
+      "swedish_karl_xii": "Och hon lät sigh döpa, och alt sitt huus: och bad them, säijandes: Om J hållen migh therföre, at jagh troor på Herran, så kommer i mitt huus, och blifwer ther. Och hon nödgade oß.",
+      "king_james": "And when she was baptized, and her household, she besought *us*, saying, If ye have judged me to be faithful to the Lord, come into my house, and abide *there*. And she constrained us."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Factum est autem euntibus nobis ad orationem, puellam quamdam habentem spiritum pythonem obviare nobis, quæ quæstum magnum præstabat dominis suis divinando.",
+      "greek_textus_receptus": "ἐγένετο δὲ πορευομένων ἡμῶν εἰς προσευχὴν παιδίσκην τινὰ ἔχουσαν πνεῦμα πύθωνος ἀπαντῆσαι ἡμῖν ἥτις ἐργασίαν πολλὴν παρεῖχεν τοῖς κυρίοις αὐτῆς μαντευομένη",
+      "finnish_biblia": "Ja tapahtui, kuin me rukoukseen menimme, kohtasi meitä piika, jolla noituuden henki oli, joka isännillensä saatti suuren saaliin noitumisellansa. ",
+      "swedish_karl_xii": "Och hände sigh, tå wij gingom til bönen, mötte oß een piga som hade en spådoms anda, och hon drog sina herrar mycken båtning til, medh sin spådom.",
+      "king_james": "And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Hæc subsecuta Paulum et nos, clamabat dicens: Isti homines servi Dei excelsi sunt, qui annuntiant vobis viam salutis.",
+      "greek_textus_receptus": "αὕτη κατακολουθήσασα τῷ παύλῳ καὶ ἡμῖν ἔκραζεν λέγουσα οὗτοι οἱ ἄνθρωποι δοῦλοι τοῦ θεοῦ τοῦ ὑψίστου εἰσίν οἵτινες καταγγέλλουσιν ἡμῖν, ὁδὸν σωτηρίας",
+      "finnish_biblia": "Tämä noudatti alati Paavalia ja meitä, ja huusi, sanoen: nämät miehet ovat korkeimman Jumalan palveliat, jotka meille autuuden tien ilmoittavat. ",
+      "swedish_karl_xii": "Hon fölgde Paulum och oß efter, och ropade, säijandes: Thesse männerna äro högsta Gudz tienare, the ther eder förkunna salighetenes wägh:",
+      "king_james": "The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Hoc autem faciebat multis diebus. Dolens autem Paulus, et conversus, spiritui dixit: Præcipio tibi in nomine Jesu Christi exire ab ea. Et exiit eadem hora.",
+      "greek_textus_receptus": "τοῦτο δὲ ἐποίει ἐπὶ πολλὰς ἡμέρας διαπονηθεὶς δὲ ὁ παῦλος καὶ ἐπιστρέψας τῷ πνεύματι εἶπεν παραγγέλλω σοι ἐν τῷ ὀνόματι ἰησοῦ χριστοῦ ἐξελθεῖν ἀπ᾽ αὐτῆς καὶ ἐξῆλθεν αὐτῇ τῇ ὥρᾳ",
+      "finnish_biblia": "Ja sitä hän teki monta päivää. Mutta Paavali otti sen pahaksi, käänsi itsensä ja sanoi sille hengelle: minä käsken sinun Jesuksen Kristuksen nimeen hänestä mennä ulos; ja hän läksi ulos sillä hetkellä. ",
+      "swedish_karl_xii": "Och thet giorde hon i många dagar. Men Paulus tog thetta illa widh sigh, och wände sigh om, säijandes til andan: Jagh biuder tigh, widh Jesu Christi namn, at tu faar vth af henne. Och han foor vth i samma stund.",
+      "king_james": "And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Videntes autem domini ejus quia exivit spes quæstus eorum, apprehendentes Paulum et Silam, perduxerunt in forum ad principes:",
+      "greek_textus_receptus": "ἰδόντες δὲ οἱ κύριοι αὐτῆς ὅτι ἐξῆλθεν ἡ ἐλπὶς τῆς ἐργασίας αὐτῶν ἐπιλαβόμενοι τὸν παῦλον καὶ τὸν σιλᾶν εἵλκυσαν εἰς τὴν ἀγορὰν ἐπὶ τοὺς ἄρχοντας",
+      "finnish_biblia": "Mutta kuin hänen isäntänsä sen näkivät, että heidän saaliinsa tuli pois, ottivat he Paavalin ja Silaan kiinni ja veivät heidät turulle päämiesten tykö, ",
+      "swedish_karl_xii": "Tå hennes herrar sågo, at hoppet war borto til theras båtning, togo the fatt på Paulus och Silas, och drogo them på torget til the öfwersta.",
+      "king_james": "And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew *them* into the marketplace unto the rulers,"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "et offerentes eos magistratibus, dixerunt: Hi homines conturbant civitatem nostram, cum sint Judæi:",
+      "greek_textus_receptus": "καὶ προσαγαγόντες αὐτοὺς τοῖς στρατηγοῖς εἶπον, οὗτοι οἱ ἄνθρωποι ἐκταράσσουσιν ἡμῶν τὴν πόλιν ἰουδαῖοι ὑπάρχοντες",
+      "finnish_biblia": "Ja veivät heidän esivallan eteen, ja sanoivat: nämät miehet meidän kaupungin häiritsevät, jotka ovat Juudalaiset, ",
+      "swedish_karl_xii": "Och antwardade them Rådherrarna i händer, säijande: Thesse männerna giöra ena willo i wår stadh, efter the äro Judar:",
+      "king_james": "And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city,"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "et annuntiant morem quem non licet nobis suscipere neque facere, cum simus Romani.",
+      "greek_textus_receptus": "καὶ καταγγέλλουσιν ἔθη ἃ οὐκ ἔξεστιν ἡμῖν παραδέχεσθαι οὐδὲ ποιεῖν ῥωμαίοις οὖσιν",
+      "finnish_biblia": "Ja opettavat niitä tapoja, joita ei meidän sovi ottaa vastaan eikä tehdä, sillä me olemme Roomalaiset. ",
+      "swedish_karl_xii": "Och lära thet sätt som oß icke höfwes anamma eller hålla, efter wij äre Romerske.",
+      "king_james": "And teach customs, which are not lawful for us to receive, neither to observe, being Romans."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Et cucurrit plebs adversus eos: et magistratus, scissis tunicis eorum, jusserunt eos virgis cædi.",
+      "greek_textus_receptus": "καὶ συνεπέστη ὁ ὄχλος κατ᾽ αὐτῶν καὶ οἱ στρατηγοὶ περιῤῥήξαντες αὐτῶν τὰ ἱμάτια ἐκέλευον ῥαβδίζειν",
+      "finnish_biblia": "Ja kansa nousi ynnä heitä vastaan, ja esivalta antoi heidän vaatteensa repiä, ja käski heitä piestä. ",
+      "swedish_karl_xii": "Och folcket lop ihoop emot them; och Rådherrarna refwo theras kläder sönder, och läto hudflängia them medh rijs.",
+      "king_james": "And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat *them*."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Et cum multas plagas eis imposuissent, miserunt eos in carcerem, præcipientes custodi ut diligenter custodiret eos.",
+      "greek_textus_receptus": "πολλάς τε ἐπιθέντες αὐτοῖς πληγὰς ἔβαλον εἰς φυλακήν παραγγείλαντες τῷ δεσμοφύλακι ἀσφαλῶς τηρεῖν αὐτούς",
+      "finnish_biblia": "Kuin he olivat heidät juuri pahoin pieksäneet, heittivät he heidät torniin ja käskivät vartian visusti heitä vartioida, ",
+      "swedish_karl_xii": "Och när the hade mycket slagit them, kastade the them i fängelse, och befalte fångawachtaren, at han skulle granneliga taga wahra på them.",
+      "king_james": "And when they had laid many stripes upon them, they cast *them* into prison, charging the jailor to keep them safely:"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Qui cum tale præceptum accepisset, misit eos in interiorem carcerem, et pedes eorum strinxit ligno.",
+      "greek_textus_receptus": "ὃς παραγγελίαν τοιαύτην εἰληφως ἔβαλεν αὐτοὺς εἰς τὴν ἐσωτέραν φυλακὴν καὶ τοὺς πόδας αὐτῶν ἠσφαλίσατο εἰς τὸ ξύλον",
+      "finnish_biblia": "Joka, kuin hän senkaltaisen käskyn sai, heitti heidät sisimmäiseen torniin ja pani heidät jalkapuuhun. ",
+      "swedish_karl_xii": "Tå, efter han fick så sträng befalning, kastade han them in i innersta fångahuset, och slog en stock öfwer theras fötter.",
+      "king_james": "Who, having received such a charge, thrust them into the inner prison, and made their feet fast in the stocks."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Media autem nocte Paulus et Silas orantes, laudabant Deum: et audiebant eos qui in custodia erant.",
+      "greek_textus_receptus": "κατὰ δὲ τὸ μεσονύκτιον παῦλος καὶ σιλᾶς προσευχόμενοι ὕμνουν τὸν θεόν ἐπηκροῶντο δὲ αὐτῶν οἱ δέσμιοι",
+      "finnish_biblia": "Mutta puoliyön aikana oli Paavali ja Silas rukouksissa, ylistäin Jumalaa kiitosvirsillä, ja vangit, jotka siellä olivat, sen myös kuulivat. ",
+      "swedish_karl_xii": "Om midnatztijd woro Paulus och Silas i sina böner, och lofwade Gudh medh sång; och fångarna hörde them.",
+      "king_james": "And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Subito vero terræmotus factus est magnus, ita ut moverentur fundamenta carceris. Et statim aperta sunt omnia ostia: et universorum vincula soluta sunt.",
+      "greek_textus_receptus": "ἄφνω δὲ σεισμὸς ἐγένετο μέγας ὥστε σαλευθῆναι τὰ θεμέλια τοῦ δεσμωτηρίου ἀνεῴχθησαν τε παραχρῆμα αἱ θύραι πᾶσαι καὶ πάντων τὰ δεσμὰ ἀνέθη",
+      "finnish_biblia": "Niin tapahtui äkisti suuri maan järistys, niin että tornin perustus vapisi; ja kohta kaikki ovet aukenivat, ja jokaisen siteet pääsivät. ",
+      "swedish_karl_xii": "Och medh hast wardt een stoor jordbäfning, så at grundwalen i fångahuset bäfwade: och strax wordo alla dörarna öpna, och allas theras boijor wordo lösa.",
+      "king_james": "And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one's bands were loosed."
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Expergefactus autem custos carceris, et videns januas apertas carceris, evaginato gladio volebat se interficere, æstimans fugisse vinctos.",
+      "greek_textus_receptus": "ἔξυπνος δὲ γενόμενος ὁ δεσμοφύλαξ καὶ ἰδὼν ἀνεῳγμένας τὰς θύρας τῆς φυλακῆς σπασάμενος μάχαιραν ἔμελλεν ἑαυτὸν ἀναιρεῖν νομίζων ἐκπεφευγέναι τοὺς δεσμίους",
+      "finnish_biblia": "Kuin vartia heräsi ja näki tornin ovet avoinna olevan, veti hän ulos miekkansa ja tahtoi surmata itsensä, ja luuli vangit paenneen pois. ",
+      "swedish_karl_xii": "Tå waknade fångawachtaren, och fick see dörarna på fångahuset öpna, och drog sitt swärd vth, wiljandes dräpa sigh sielf: och meente at fångarna woro bortflydde.",
+      "king_james": "And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Clamavit autem Paulus voce magna, dicens: Nihil tibi mali feceris: universi enim hic sumus.",
+      "greek_textus_receptus": "ἐφώνησεν δὲ φωνῇ μεγάλῃ ὁ παῦλος λέγων, μηδὲν πράξῃς σεαυτῷ κακόν ἅπαντες γάρ ἐσμεν ἐνθάδε",
+      "finnish_biblia": "Niin Paavali huusi suurella äänellä ja sanoi: älä itselles mitään pahaa tee; sillä me olemme kaikki täällä. ",
+      "swedish_karl_xii": "Tå ropade Paulus medh höga röst, säijandes: Giör tigh sielfwom intet ondt; ty wij äre alle här.",
+      "king_james": "But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Petitoque lumine, introgressus est: et tremefactus procidit Paulo et Silæ ad pedes:",
+      "greek_textus_receptus": "αἰτήσας δὲ φῶτα εἰσεπήδησεν καὶ ἔντρομος γενόμενος προσέπεσεν τῷ παύλῳ καὶ τῷ σιλᾷ",
+      "finnish_biblia": "Niin hän anoi kynttilää, meni sisälle ja lankesi peljästyksissä Paavalin ja Silaan jalkain juureen, ",
+      "swedish_karl_xii": "Tå beddes han ett lius, och gaf sigh ther in, och föll nedh för Pauli och Sile fötter, bäfwandes:",
+      "king_james": "Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas,"
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "et producens eos foras, ait: Domini, quid me oportet facere, ut salvus fiam?",
+      "greek_textus_receptus": "καὶ προαγαγὼν αὐτοὺς ἔξω ἔφη κύριοι τί με δεῖ ποιεῖν ἵνα σωθῶ",
+      "finnish_biblia": "Ja toi heidät ulos ja sanoi: herrat, mitä minun pitää tekemän, että minä autuaaksi tulisin? ",
+      "swedish_karl_xii": "Och han hade them vth, och sade: Herrar, hwad skal jagh giöra, at jagh må blifwa salig?",
+      "king_james": "And brought them out, and said, Sirs, what must I do to be saved?"
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "At illi dixerunt: Crede in Dominum Jesum, et salvus eris tu, et domus tua.",
+      "greek_textus_receptus": "οἱ δὲ εἶπον, πίστευσον ἐπὶ τὸν κύριον ἰησοῦν χριστὸν, καὶ σωθήσῃ σὺ καὶ ὁ οἶκός σου",
+      "finnish_biblia": "Mutta he sanoivat: usko Herran Jesuksen Kristuksen päälle, niin sinä ja sinun huonees autuaaksi tulee. ",
+      "swedish_karl_xii": "Tå sade the: Tro på Herran Jesum, så blifwer tu och titt huus saligt.",
+      "king_james": "And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house."
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Et locuti sunt ei verbum Domini cum omnibus qui erant in domo ejus.",
+      "greek_textus_receptus": "καὶ ἐλάλησαν αὐτῷ τὸν λόγον τοῦ κυρίου καὶ πᾶσιν τοῖς ἐν τῇ οἰκίᾳ αὐτοῦ",
+      "finnish_biblia": "Ja he puhuivat hänelle Herran sanaa ja kaikille, jotka hänen huoneessansa olivat. ",
+      "swedish_karl_xii": "Och talade för honom Herrans ord, och för allom them som i hans huse woro.",
+      "king_james": "And they spake unto him the word of the Lord, and to all that were in his house."
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "Et tollens eos in illa hora noctis, lavit plagas eorum: et baptizatus est ipse, et omnis domus ejus continuo.",
+      "greek_textus_receptus": "καὶ παραλαβὼν αὐτοὺς ἐν ἐκείνῃ τῇ ὥρᾳ τῆς νυκτὸς ἔλουσεν ἀπὸ τῶν πληγῶν καὶ ἐβαπτίσθη αὐτὸς καὶ οἱ αὐτοῦ πάντες παραχρῆμα",
+      "finnish_biblia": "Ja hän otti heidät sillä hetkellä yöstä tykönsä ja pesi heidän haavansa, ja hän kohta kastettiin ja kaikki hänen perheensä, ",
+      "swedish_karl_xii": "Och i samma stunden om natten, tog han them til sigh, och twådde theras såår: och lät sigh strax döpa, och alt sitt folck.",
+      "king_james": "And he took them the same hour of the night, and washed *their* stripes; and was baptized, he and all his, straightway."
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "Cumque perduxisset eos in domum suam, apposuit eis mensam, et lætatus est cum omni domo sua credens Deo.",
+      "greek_textus_receptus": "ἀναγαγών τε αὐτοὺς εἰς τὸν οἶκον αὑτοῦ, παρέθηκεν τράπεζαν καὶ ἠγαλλιάσατο πανοικὶ πεπιστευκὼς τῷ θεῷ",
+      "finnish_biblia": "Ja vei heidät kotiansa, ja valmisti heille pöydän, ja iloitsi, että hän koko huoneensa kanssa tuli Jumalan päälle uskovaiseksi. ",
+      "swedish_karl_xii": "Och hade them heem i sitt huus, och gaf them maat; frögdandes sigh, at han medh alt sitt huus trodde Gudi.",
+      "king_james": "And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house."
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "Et cum dies factus esset, miserunt magistratus lictores, dicentes: Dimitte homines illos.",
+      "greek_textus_receptus": "ἡμέρας δὲ γενομένης ἀπέστειλαν οἱ στρατηγοὶ τοὺς ῥαβδούχους λέγοντες ἀπόλυσον τοὺς ἀνθρώπους ἐκείνους",
+      "finnish_biblia": "Ja kuin päivä tuli, niin esivalta lähetti kylänlapset sanomaan: päästä ne miehet. ",
+      "swedish_karl_xii": "Tå dager wardt, sände Rådherrarna stadztienarena, säijande: Släpp the männerna vth.",
+      "king_james": "And when it was day, the magistrates sent the serjeants, saying, Let those men go."
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "Nuntiavit autem custos carceris verba hæc Paulo: Quia miserunt magistratus ut dimittamini: nunc igitur exeuntes, ite in pace.",
+      "greek_textus_receptus": "ἀπήγγειλεν δὲ ὁ δεσμοφύλαξ τοὺς λόγους τούτους πρὸς τὸν παῦλον ὅτι ἀπεστάλκασιν οἱ στρατηγοὶ ἵνα ἀπολυθῆτε νῦν οὖν ἐξελθόντες πορεύεσθε ἐν εἰρήνῃ",
+      "finnish_biblia": "Niin tornin vartia ilmoitti nämät sanat Paavalille, sanoen: esivalta on käskenyt päästää teidät: menkäät siis nyt ulos rauhassa. ",
+      "swedish_karl_xii": "Thetta talet förkunnade fångawachtaren Paulo: Rådherrarna hafwa budit, at J skolen släppas; går förthenskul vth, och farer i frijd.",
+      "king_james": "And the keeper of the prison told this saying to Paul, The magistrates have sent to let you go: now therefore depart, and go in peace."
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "Paulus autem dixit eis: Cæsos nos publice, indemnatos homines Romanos, miserunt in carcerem: et nunc occulte nos ejiciunt? Non ita: sed veniant,",
+      "greek_textus_receptus": "ὁ δὲ παῦλος ἔφη πρὸς αὐτούς δείραντες ἡμᾶς δημοσίᾳ ἀκατακρίτους ἀνθρώπους ῥωμαίους ὑπάρχοντας ἔβαλον εἰς φυλακήν καὶ νῦν λάθρᾳ ἡμᾶς ἐκβάλλουσιν οὐ γάρ ἀλλὰ ἐλθόντες αὐτοὶ ἡμᾶς ἐξαγαγέτωσαν",
+      "finnish_biblia": "Mutta Paavali sanoi heille: he ovat julkisesti tuomitsematta pieksäneet meidät, jotka olemme Roomalaiset, ja heittäneet torniin, ja nyt salaa tahtoisivat sysätä meidät ulos. Ei niin, vaan tulkaan he itse meitä ottamaan täältä ulos. ",
+      "swedish_karl_xii": "Tå sade Paulus til them: The hafwa hudflängdt oß vppenbarliga, vthan lagh och doom, ändoch wij äre Romerske, och kastat oß i fängelse; och wilja nu hemliga hafwa oß här vth! Neij, icke så; vtan komme sielfwe, och tage oß här vth.",
+      "king_james": "But Paul said unto them, They have beaten us openly uncondemned, being Romans, and have cast *us* into prison; and now do they thrust us out privily? nay verily; but let them come themselves and fetch us out."
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "et ipsi nos ejiciant. Nuntiaverunt autem magistratibus lictores verba hæc. Timueruntque audito quod Romani essent:",
+      "greek_textus_receptus": "ἀνήγγειλάν δὲ τοῖς στρατηγοῖς οἱ ῥαβδοῦχοι τὰ ῥήματα ταῦτα καὶ ἐφοβήθησαν ἀκούσαντες ὅτι ῥωμαῖοί εἰσιν",
+      "finnish_biblia": "Niin kylänlapset ilmoittivat nämät sanat esivallalle jällensä; ja he pelkäsivät, että he heidät Roomalaisiksi kuulivat, ",
+      "swedish_karl_xii": "Tå bådade stadztienarena Rådherromen thessa ord. Tå wordo the förfärade, hörande at the woro Romerske:",
+      "king_james": "And the serjeants told these words unto the magistrates: and they feared, when they heard that they were Romans."
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": "et venientes deprecati sunt eos, et educentes rogabant ut egrederentur de urbe.",
+      "greek_textus_receptus": "καὶ ἐλθόντες παρεκάλεσαν αὐτούς καὶ ἐξαγαγόντες ἠρώτων ἐξελθεῖν τῆς πόλεως",
+      "finnish_biblia": "Ja tulivat ja rukoilivat heitä, ja veivät heidät ulos, ja käskivät heidän mennä pois kaupungista. ",
+      "swedish_karl_xii": "Och kommo tijt, och förmante them; och togo them vth, bediande at the vthgå skulle af staden.",
+      "king_james": "And they came and besought them, and brought *them* out, and desired *them* to depart out of the city."
+    },
+    {
+      "verse": 40,
+      "latin_vulgate": "Exeuntes autem de carcere, introierunt ad Lydiam: et visis fratribus consolati sunt eos, et profecti sunt.",
+      "greek_textus_receptus": "ἐξελθόντες δὲ ἐκ τῆς φυλακῆς εἰσῆλθον εἰς τὴν λυδίαν καὶ ἰδόντες τοὺς ἀδελφοὺς παρεκάλεσαν αὐτοῦς, καὶ ἐξῆλθον",
+      "finnish_biblia": "Niin he läksivät tornista ja menivät Lydian tykö. Ja kuin he veljet nähneet olivat ja heitä lohduttaneet, vaelsivat he matkaansa.   ",
+      "swedish_karl_xii": "Tå gingo the vthu fängelset, och kommo til Lydia: och när the hade sedt bröderna, och styrckt them, foro the sina färde.",
+      "king_james": "And they went out of the prison, and entered into *the house of* Lydia: and when they had seen the brethren, they comforted them, and departed."
+    }
+  ]
+}

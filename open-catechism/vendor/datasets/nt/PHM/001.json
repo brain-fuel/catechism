@@ -1,0 +1,211 @@
+{
+  "book_id": "PHM",
+  "latin_name": "Epistula ad Philemonem",
+  "greek_name": "Πρὸς Φιλήμονα",
+  "finnish_name": "Kirje Filemonille",
+  "swedish_name": "S. Pauli Epistel Til Philemon",
+  "english_name": "The Epistle of Paul the Apostle to Philemon",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Paulus vinctus Christi Jesu, et Timotheus frater, Philemoni dilecto, et adjutori nostro,",
+      "greek_textus_receptus": "παῦλος δέσμιος χριστοῦ ἰησοῦ, καὶ τιμόθεος ὁ ἀδελφὸς, φιλήμονι τῷ ἀγαπητῷ καὶ συνεργῷ ἡμῶν",
+      "finnish_biblia": "Paavali, Kristuksen Jesuksen vanki, ja veli Timoteus, rakkaalle Philemonille, ja meidän apulaisellemme, ",
+      "swedish_karl_xii": "Paulus, Christi Jesu fånge, och Timotheus broderen: them älskeliga, och wårom hielpare Philemon;",
+      "king_james": "Paul, a prisoner of Jesus Christ, and Timothy *our* brother, unto Philemon our dearly beloved, and fellowlabourer,"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "et Appiæ sorori carissimæ, et Archippo commilitoni nostro, et ecclesiæ, quæ in domo tua est.",
+      "greek_textus_receptus": "καὶ ἀπφίᾳ τῇ ἀγαπητῇ, καὶ ἀρχίππῳ τῷ συστρατιώτῃ ἡμῶν, καὶ τῇ κατ᾽ οἶκόν σου ἐκκλησίᾳ",
+      "finnish_biblia": "Ja rakkaalle Appialle ja Arkippukselle, meidän kanssapalveliallemme, ja seurakunnalle, joka sinun huoneessas on: ",
+      "swedish_karl_xii": "Och the älskeliga Apphie, och Archippo wår medstridare; och then församling som i titt huus är:",
+      "king_james": "And to *our* beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.",
+      "greek_textus_receptus": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν, καὶ κυρίου ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Armo olkoon teille ja rauha Jumalalta, meidän Isältämme ja Herralta Jesukselta Kristukselta! ",
+      "swedish_karl_xii": "Nådh ware medh eder, och frijd af Gudi wårom Fader, och Herranom Jesu Christo.",
+      "king_james": "Grace to you, and peace, from God our Father and the Lord Jesus Christ."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Gratias ago Deo meo, semper memoriam tui faciens in orationibus meis,",
+      "greek_textus_receptus": "εὐχαριστῶ τῷ θεῷ μου, πάντοτε μνείαν σου ποιούμενος ἐπὶ τῶν προσευχῶν μου",
+      "finnish_biblia": "Minä kiitän minun Jumalaani ja muistan aina sinua minun rukouksissani, ",
+      "swedish_karl_xii": "Jagh tackar min Gudh, och hafwer tin åminnelse altid i mina böner:",
+      "king_james": "I thank my God, making mention of thee always in my prayers,"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "audiens caritatem tuam, et fidem, quam habes in Domino Jesu, et in omnes sanctos:",
+      "greek_textus_receptus": "ἀκούων σου τὴν ἀγάπην καὶ τὴν πίστιν ἣν ἔχεις πρὸς τὸν κύριον ἰησοῦν καὶ εἰς πάντας τοὺς ἁγίους",
+      "finnish_biblia": "Että minä kuulen siitä rakkaudesta ja uskosta, joka sinulla Herran Jesuksen päälle on ja kaikkein pyhäin tykö: ",
+      "swedish_karl_xii": "Efter jagh hörer af tin kärlek, och then troo som tu hafwer til Herran Jesum, och emot all helgon:",
+      "king_james": "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "ut communicatio fidei tuæ evidens fiat in agnitione omnis operis boni, quod est in vobis in Christo Jesu.",
+      "greek_textus_receptus": "ὅπως ἡ κοινωνία τῆς πίστεώς σου ἐνεργὴς γένηται ἐν ἐπιγνώσει παντὸς ἀγαθοῦ τοῦ ἐν ὑμῖν εἰς χριστὸν ἰησοῦν",
+      "finnish_biblia": "Että sinun uskos, joka meille yhteinen on, tulis sinussa kaiken hyvyyden tuntemisen kautta voimalliseksi, joka teillä Kristuksessa Jesuksessa on. ",
+      "swedish_karl_xii": "At tin troo som wij hafwe medh hwar annan, må kraftig warda, genom kundskapen på alt godt som J hafwen i Christo Jesu.",
+      "king_james": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Gaudium enim magnum habui, et consolationem in caritate tua: quia viscera sanctorum requieverunt per te, frater.",
+      "greek_textus_receptus": "χάριν γὰρ ἔχομεν πολλὴν καὶ παράκλησιν ἐπὶ τῇ ἀγάπῃ σου, ὅτι τὰ σπλάγχνα τῶν ἁγίων ἀναπέπαυται διὰ σοῦ, ἀδελφέ",
+      "finnish_biblia": "Sillä meillä on suuri ilo ja lohdutus sinun rakkaudestas, että pyhäin sydämet sinun kauttas, rakas veljeni, virvoitetut ovat. ",
+      "swedish_karl_xii": "Ty wij hafwe stoor glädie och hugnad af tin kärlek: at helgonen äro hierteliga wederqweckte af tigh, käre broder.",
+      "king_james": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Propter quod multam fiduciam habens in Christo Jesu imperandi tibi quod ad rem pertinet:",
+      "greek_textus_receptus": "διὸ πολλὴν ἐν χριστῷ παῤῥησίαν ἔχων ἐπιτάσσειν σοι τὸ ἀνῆκον",
+      "finnish_biblia": "Sentähden vaikka minulla on suuri uskallus Kristuksessa käskeä sinua, mitä sinun tehdä tulee, ",
+      "swedish_karl_xii": "Therföre, ändoch jagh hafwer i Christo een stoor tröst, til at biuda tigh thet tigh bör giöra:",
+      "king_james": "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "propter caritatem magis obsecro, cum sis talis, ut Paulus senex, nunc autem et vinctus Jesu Christi:",
+      "greek_textus_receptus": "διὰ τὴν ἀγάπην μᾶλλον παρακαλῶ τοιοῦτος ὢν ὡς παῦλος πρεσβύτης νυνὶ δὲ καὶ δέσμιος ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Niin minä kuitenkin tahdon rakkauden puolesta ennen rukoilla, minä, joka tainkaltainen olen, nimittäin vanha Paavali, mutta nyt myös Jesuksen Kristuksen vanki. ",
+      "swedish_karl_xii": "Doch likwäl, för kärlekens skul beder jagh hällre, jagh som en sådana är, nemliga, then gamle Paulus, och ännu ther vthöfwer en Jesu Christi fånge.",
+      "king_james": "Yet for love's sake I rather beseech *thee*, being such an one as Paul the aged, and now also a prisoner of Jesus Christ."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "obsecro te pro meo filio, quem genui in vinculis, Onesimo,",
+      "greek_textus_receptus": "παρακαλῶ σε περὶ τοῦ ἐμοῦ τέκνου ὃν ἐγέννησα ἐν τοῖς δεσμοῖς μου ὀνήσιμον",
+      "finnish_biblia": "Niin minä siis neuvon sinua, minun poikani Onesimuksen puolesta, jonka minä siteissäni siitin, ",
+      "swedish_karl_xii": "Så förmanar jagh tigh, för min son Onesimo, then jagh födde i minom bandom:",
+      "king_james": "I beseech thee for my son Onesimus, whom I have begotten in my bonds:"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "qui tibi aliquando inutilis fuit, nunc autem et mihi et tibi utilis,",
+      "greek_textus_receptus": "τὸν ποτέ σοι ἄχρηστον νυνὶ δέ σοι καὶ ἐμοὶ εὔχρηστον",
+      "finnish_biblia": "Joka sinulle muinen kelvotoin oli, mutta nyt sinulle ja minulle kyllä tarpeellinen, jonka minä nyt olen lähettänyt jälleen. ",
+      "swedish_karl_xii": "Then tigh fordom onyttig war; men nu, både tigh och migh wäl nyttig är:",
+      "king_james": "Which in time past was to thee unprofitable, but now profitable to thee and to me:"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "quem remisi tibi. Tu autem illum, ut mea viscera, suscipe:",
+      "greek_textus_receptus": "ὃν ἀνέπεμψα σὺ δὲ αὐτὸν τουτέστι τὰ ἐμὰ σπλάγχνα προσλαβοῦ",
+      "finnish_biblia": "Mutta ota häntä vastaan; sillä hän on minun oma sydämeni. ",
+      "swedish_karl_xii": "Hwilken jagh nu igensändt hafwer: men anamma tu honom såsom mitt hierta.",
+      "king_james": "Whom I have sent again: thou therefore receive him, that is, mine own bowels:"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "quem ego volueram mecum detinere, ut pro te mihi ministraret in vinculis Evangelii:",
+      "greek_textus_receptus": "ὃν ἐγὼ ἐβουλόμην πρὸς ἐμαυτὸν κατέχειν ἵνα ὑπὲρ σοῦ διακονῇ μοι ἐν τοῖς δεσμοῖς τοῦ εὐαγγελίου",
+      "finnish_biblia": "Minä tahdoin häntä pitää minun tykönäni, että hän minua sinun puolestas evankeliumin siteissä palvelis. ",
+      "swedish_karl_xii": "Jagh hade welat behålla honom när migh, at han skulle tient migh i tin stadh, vthi Evangelij bandom:",
+      "king_james": "Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "sine consilio autem tuo nihil volui facere, uti ne velut ex necessitate bonum tuum esset, sed voluntarium.",
+      "greek_textus_receptus": "χωρὶς δὲ τῆς σῆς γνώμης οὐδὲν ἠθέλησα ποιῆσαι ἵνα μὴ ὡς κατὰ ἀνάγκην τὸ ἀγαθόν σου ᾖ ἀλλὰ κατὰ ἑκούσιον",
+      "finnish_biblia": "Mutta en minä tahtonut mitään ilman sinun suosiotas tehdä, ettei sinun hyvyytes pitänyt oleman niinkuin vaadittu, vaan vapaamielinen. ",
+      "swedish_karl_xii": "Men jagh wille intet giöra vthan titt samtycke: på thet titt goda icke skulle wara nödgat, vtan sielfwiljogt.",
+      "king_james": "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Forsitan enim ideo discessit ad horam a te, ut æternum illum reciperes:",
+      "greek_textus_receptus": "τάχα γὰρ διὰ τοῦτο ἐχωρίσθη πρὸς ὥραν ἵνα αἰώνιον αὐτὸν ἀπέχῃς",
+      "finnish_biblia": "Sillä sentähden hän hetkeksi sinulta läksi, ettäs hänen ijäksi saisit jällensä, ",
+      "swedish_karl_xii": "Men therföre til ewentyrs foor han sin wägh til en tijd, at tu skulle få honom ewigan igen;",
+      "king_james": "For perhaps he therefore departed for a season, that thou shouldest receive him for ever;"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "jam non ut servum, sed pro servo carissimum fratrem, maxime mihi: quanto autem magis tibi et in carne, et in Domino?",
+      "greek_textus_receptus": "οὐκέτι ὡς δοῦλον ἀλλ᾽ ὑπὲρ δοῦλον ἀδελφὸν ἀγαπητὸν μάλιστα ἐμοὶ πόσῳ δὲ μᾶλλόν σοι καὶ ἐν σαρκὶ καὶ ἐν κυρίῳ",
+      "finnish_biblia": "Ei nyt silleen niinkuin palvelian, vaan enemmin palvelian ja niinkuin rakkaan veljen, erinomattain minulle, mutta kuinka paljoa enemmin sinulle, sekä lihan kautta että Herrassa. ",
+      "swedish_karl_xii": "Jcke nu såsom en tienare, vtan meer än en tienare; ja, såsom en älskelig broder, besynnerliga migh; huru mycket meer tigh, både efter kötet, och efter Herran?",
+      "king_james": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Si ergo habes me socium, suscipe illum sicut me:",
+      "greek_textus_receptus": "εἰ οὖν ἐμὲ ἔχεις κοινωνὸν προσλαβοῦ αὐτὸν ὡς ἐμέ",
+      "finnish_biblia": "Jos sinä siis minun kumppaninas pidät, niin ota häntä vastaan niinkuin minuakin. ",
+      "swedish_karl_xii": "Hwar tu nu håller migh för tin medbroder, så anamma honom lika som migh.",
+      "king_james": "If thou count me therefore a partner, receive him as myself."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "si autem aliquid nocuit tibi, aut debet, hoc mihi imputa.",
+      "greek_textus_receptus": "εἰ δέ τι ἠδίκησέν σε ἢ ὀφείλει τοῦτο ἐμοὶ ἐλλόγει",
+      "finnish_biblia": "Mutta jos hän jotakin sinua vahingoittanut on eli on sinulle velkaa, niin sano minun syykseni. ",
+      "swedish_karl_xii": "Om han tigh någon skada giordt hafwer, eller något skyllig är, thet räkna migh til.",
+      "king_james": "If he hath wronged thee, or oweth *thee* ought, put that on mine account;"
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Ego Paulus scripsi mea manu: ego reddam, ut non dicam tibi, quod et teipsum mihi debes:",
+      "greek_textus_receptus": "ἐγὼ παῦλος ἔγραψα τῇ ἐμῇ χειρὶ ἐγὼ ἀποτίσω ἵνα μὴ λέγω σοι ὅτι καὶ σεαυτόν μοι προσοφείλεις",
+      "finnish_biblia": "Minä Paavali olen tämän omalla kädelläni kirjoittanut ja tahdon sen sinulle maksaa, etten minä sinulle sanoisi, ettäs myös sinun itses minulle velkapää olet. ",
+      "swedish_karl_xii": "Jagh Paulus hafwer thetta skrifwit medh mine hand, jagh wil betalat: at jagh icke skal säija, at tu tigh sielfwan migh plichtig äst.",
+      "king_james": "I Paul have written *it* with mine own hand, I will repay *it* : albeit I do not say to thee how thou owest unto me even thine own self besides."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "ita, frater. Ego te fruar in Domino: refice viscera mea in Domino.",
+      "greek_textus_receptus": "ναὶ ἀδελφέ ἐγώ σου ὀναίμην ἐν κυρίῳ ἀνάπαυσόν μου τὰ σπλάγχνα ἐν κυρίῳ",
+      "finnish_biblia": "Armas veljeni! suo minun ihastua sinusta Herrassa, virvoita minun sydämeni Herrassa. ",
+      "swedish_karl_xii": "Ja, käre broder, städ til at jagh hafwer lust af tigh i Herranom; wederqweck mitt hierta i Herranom.",
+      "king_james": "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Confidens in obedientia tua scripsi tibi: sciens quoniam et super id, quod dico, facies.",
+      "greek_textus_receptus": "πεποιθὼς τῇ ὑπακοῇ σου ἔγραψά σοι εἰδὼς ὅτι καὶ ὑπὲρ ὃ λέγω ποιήσεις",
+      "finnish_biblia": "Minä kirjoitin sinulle luottain sinun kuuliaisuutees, tietäen sinun enemmin tekevän kuin minä sanonkaan. ",
+      "swedish_karl_xii": "Jagh hafwer skrifwit tigh til, förtröstandes på tina lydachtighet, wetandes, at tu giör wäl meer än jagh säger.",
+      "king_james": "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Simul autem et para mihi hospitium: nam spero per orationes vestras donari me vobis.",
+      "greek_textus_receptus": "ἅμα δὲ καὶ ἑτοίμαζέ μοι ξενίαν ἐλπίζω γὰρ ὅτι διὰ τῶν προσευχῶν ὑμῶν χαρισθήσομαι ὑμῖν",
+      "finnish_biblia": "Valmista myös minulle majaa; sillä minä toivon, että minä teidän rukoustenne kautta teille lahjoitetaan. ",
+      "swedish_karl_xii": "Ther medh bered migh herberge: ty jagh hoppas, at jagh medh edra böners hielp, eder gifwen warder.",
+      "king_james": "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Salutat te Epaphras concaptivus meus in Christo Jesu,",
+      "greek_textus_receptus": "ἀσπάζονταί σε ἐπαφρᾶς ὁ συναιχμάλωτός μου ἐν χριστῷ ἰησοῦ",
+      "finnish_biblia": "Sinua tervehtivät Epaphras, (minun kanssavankini Kristuksessa Jesuksessa,) ",
+      "swedish_karl_xii": "Helsa tigh Epaphras, min medfånge i Christo Jesu;",
+      "king_james": "There salute thee Epaphras, my fellowprisoner in Christ Jesus;"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Marcus, Aristarchus, Demas, et Lucas, adjutores mei.",
+      "greek_textus_receptus": "μάρκος ἀρίσταρχος δημᾶς λουκᾶς οἱ συνεργοί μου",
+      "finnish_biblia": "Markus, Aristarkus, Demas, Luukas, minun apulaiseni. ",
+      "swedish_karl_xii": "Marcus, Aristarchus, Demas, Lucas, mine hielpare.",
+      "king_james": "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Gratia Domini nostri Jesu Christi cum spiritu vestro. Amen.",
+      "greek_textus_receptus": "Ἡ χάρις τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν ἀμήν",
+      "finnish_biblia": "Meidän Herran Jesuksen Kristuksen armo olkoon teidän henkenne kanssa, amen!    ",
+      "swedish_karl_xii": "Wårs Herras Jesu Christi nådh ware medh edar anda: Amen. Sänd af Rom, medh Onesimus tienaren.",
+      "king_james": "The grace of our Lord Jesus Christ *be* with your spirit. Amen."
+    }
+  ]
+}

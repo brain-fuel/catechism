@@ -1,0 +1,59 @@
+1:
+  title: "The Washing of Regeneration"
+  refs: !!set
+    ? "Titus 3:5-8"
+
+2:
+  title: "Nicodemus and the New Birth"
+  refs: !!set
+    ? "John 3:1-15"
+
+3:
+  title: "Naaman and the Cleansing Word"
+  refs: !!set
+    ? "2 Kings 5:1-15"
+    ? "Ephesians 5:25-26"
+    ? "Galatians 3:26-27"
+    ? "Colossians 2:11-15"
+    ? "Acts 22:16"
+
+4:
+  title: "A New Creation, Heirs with Christ"
+  refs: !!set
+    ? "Titus 3:5-8"
+    ? "2 Corinthians 5:17"
+    ? "Romans 8:11-17"
+
+5:
+  title: "An Appeal for a Good Conscience"
+  refs: !!set
+    ? "1 Peter 3:21"
+
+6:
+  title: "One Baptism"
+  refs: !!set
+    ? "Ephesians 4:5"
+    ? "1 Corinthians 12:13"
+    ? "Hebrews 6:2"
+    ? "Mark 7:4"
+
+7:
+  title: "Baptized with the Holy Spirit"
+  refs: !!set
+    ? "John 3:5"
+    ? "Titus 3:5"
+    ? "1 Corinthians 6:11"
+    ? "Matthew 3:11"
+    ? "Acts 1:4-5"
+    ? "John 7:39"
+    ? "Acts 2"
+
+8:
+  title: "Devoted to the Apostles' Teaching"
+  refs: !!set
+    ? "Acts 2:42-43"
+
+9:
+  title: "Send Out Your Light and Your Truth"
+  refs: !!set
+    ? "Psalm 43"

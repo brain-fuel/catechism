@@ -1,0 +1,171 @@
+{
+  "book_id": "1CO",
+  "latin_name": "Epistula I ad Corinthios",
+  "greek_name": "Πρὸς Κορινθίους Α",
+  "finnish_name": "Ensimmäinen kirje korinttilaisille",
+  "swedish_name": "S. Pauli Epistel then förra Til the Corinther",
+  "english_name": "The First Epistle of Paul the Apostle to the Corinthians",
+  "chapter": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Audet aliquis vestrum habens negotium adversus alterum, judicari apud iniquos, et non apud sanctos?",
+      "greek_textus_receptus": "τολμᾷ τις ὑμῶν πρᾶγμα ἔχων πρὸς τὸν ἕτερον κρίνεσθαι ἐπὶ τῶν ἀδίκων καὶ οὐχὶ ἐπὶ τῶν ἁγίων",
+      "finnish_biblia": "Miksi joku teistä, jolla on toisen kanssa jotakin asiaa, rohkenee riidellä vääräin ja ei pyhäin edestä? ",
+      "swedish_karl_xii": "Sjtter någor edra, som något hafwer vthe ståndandes medh en annan, sigh döma låta vnder the orättferdiga, och icke hällre vnder the heliga?",
+      "king_james": "Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "an nescitis quoniam sancti de hoc mundo judicabunt? et si in vobis judicabitur mundus, indigni estis qui de minimis judicetis?",
+      "greek_textus_receptus": "οὐκ οἴδατε ὅτι οἱ ἅγιοι τὸν κόσμον κρινοῦσιν καὶ εἰ ἐν ὑμῖν κρίνεται ὁ κόσμος ἀνάξιοί ἐστε κριτηρίων ἐλαχίστων",
+      "finnish_biblia": "Ettekö te tiedä, että pyhät pitää maailmaa tuomitseman? Ja jos maailma pitää teidän kauttanne tuomittaman, ettekö siis te kelpaa pienempiä asioita tuomitsemaan? ",
+      "swedish_karl_xii": "Weten J icke at the helige skola döma werldena? Skal nu werlden dömas af eder, ären J tå icke gode nogh til at döma the ringa saker?",
+      "king_james": "Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Nescitis quoniam angelos judicabimus? quanto magis sæcularia?",
+      "greek_textus_receptus": "οὐκ οἴδατε ὅτι ἀγγέλους κρινοῦμεν μήτι γε βιωτικά",
+      "finnish_biblia": "Ettekö te tiedä, että meidän pitää enkeleitäkin tuomitseman? kuinka siis ei ajallisia asioita? ",
+      "swedish_karl_xii": "Weten J icke at wij skole döma Änglarna? Huru mycket meer timmelig ting?",
+      "king_james": "Know ye not that we shall judge angels? how much more things that pertain to this life?"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Sæcularia igitur judicia si habueritis: contemptibiles, qui sunt in ecclesia, illos constituite ad judicandum.",
+      "greek_textus_receptus": "βιωτικὰ μὲν οὖν κριτήρια ἐὰν ἔχητε τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ τούτους καθίζετε",
+      "finnish_biblia": "Kuin siis teillä on jotakuta asiaa ajallisesta hyvyydestä, niin te otatte ne, jotka seurakunnassa ovat katsotut ylön, ja asetatte tuomariksi. ",
+      "swedish_karl_xii": "Men J, när J hafwen några saker om timmelig ting, så tagen J them som förachtade äro i församlingene, och sättien them til domare.",
+      "king_james": "If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Ad verecundiam vestram dico. Sic non est inter vos sapiens quisquam, qui possit judicare inter fratrem suum?",
+      "greek_textus_receptus": "πρὸς ἐντροπὴν ὑμῖν λέγω οὕτως οὐκ ἐστὶν ἐν ὑμῖν σοφὸς οὐδὲ εἷς, ὃς δυνήσεται διακρῖναι ἀνὰ μέσον τοῦ ἀδελφοῦ αὐτοῦ",
+      "finnish_biblia": "Teille minä sanon näitä häpiäksi: eikö niin yhtään viisasta ole teidän seassanne, joka taitais tuomita veljiensä välillä? ",
+      "swedish_karl_xii": "Eder til blygd säger jagh thetta: Är ther ju platt ingen wijs ibland eder? Eller en som kan döma emellan sin broder, och broder?",
+      "king_james": "I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Sed frater cum fratre judicio contendit: et hoc apud infideles?",
+      "greek_textus_receptus": "ἀλλὰ ἀδελφὸς μετὰ ἀδελφοῦ κρίνεται καὶ τοῦτο ἐπὶ ἀπίστων",
+      "finnish_biblia": "Vaan veli riitelee veljensä kanssa, ja sittenkin uskottoman edessä. ",
+      "swedish_karl_xii": "Vtan then ene broderen träter medh then andra; och ther til in för the otrogna.",
+      "king_james": "But brother goeth to law with brother, and that before the unbelievers."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Jam quidem omnino delictum est in vobis, quod judicia habetis inter vos. Quare non magis injuriam accipitis? quare non magis fraudem patimini?",
+      "greek_textus_receptus": "ἤδη μὲν οὖν ὅλως ἥττημα ἐν ὑμῖν ἐστιν ὅτι κρίματα ἔχετε μεθ᾽ ἑαυτῶν διατί οὐχὶ μᾶλλον ἀδικεῖσθε διατί οὐχὶ μᾶλλον ἀποστερεῖσθε",
+      "finnish_biblia": "Niin on siis kaiketi vika teidän seassanne, että te toinen toisenne kanssa käytte oikeuden eteen. Miksi ette paremmin vääryyttä kärsi? miksi ette ennen suo teitänne vahingoittaa? ",
+      "swedish_karl_xii": "Thet är allaredo een brist medh eder, at J gån medh hwar annan til rätta: hwij låten J icke hällre giöra eder orätt? Hwij låten J icke hällre giöra eder skada?",
+      "king_james": "Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Sed vos injuriam facitis, et fraudatis: et hoc fratribus.",
+      "greek_textus_receptus": "ἀλλὰ ὑμεῖς ἀδικεῖτε καὶ ἀποστερεῖτε καὶ ταῦτα ἀδελφούς",
+      "finnish_biblia": "Vaan te itse vääryyden ja vahingon teette, ja semminkin teidän veljillenne. ",
+      "swedish_karl_xii": "Ja, J giören orätt och skada, och thet brödromen.",
+      "king_james": "Nay, ye do wrong, and defraud, and that *your* brethren."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "An nescitis quia iniqui regnum Dei non possidebunt? Nolite errare: neque fornicarii, neque idolis servientes, neque adulteri,",
+      "greek_textus_receptus": "ἢ οὐκ οἴδατε ὅτι ἄδικοι βασιλείαν θεοῦ οὐ κληρονομήσουσιν μὴ πλανᾶσθε οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται",
+      "finnish_biblia": "Ettekö te tiedä, ettei väärät pidä Jumalan valtakuntaa perimän? Älkäät eksykö; ei huorintekiäin, eikä epäjumalten palvelijain, eikä salavuoteisten, eikä pehmiäin, eikä miesten kanssa makaajain, ",
+      "swedish_karl_xii": "Weten J icke, at the orättferdige icke skola ärfwa Gudz rike? Farer icke wille: hwarken bolare, eller afgudadyrkare, eller horkarlar, eller the weklingar, eller drängiaskändare;",
+      "king_james": "Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "neque molles, neque masculorum concubitores, neque fures, neque avari, neque ebriosi, neque maledici, neque rapaces regnum Dei possidebunt.",
+      "greek_textus_receptus": "οὔτε κλέπται οὔτε πλεονέκται οὔτε μέθυσοι οὐ λοίδοροι οὐχ ἅρπαγες βασιλείαν θεοῦ οὐ κληρονομήσουσιν",
+      "finnish_biblia": "Eikä varasten, eikä ahnetten, eikä juomarien, eikä pilkkaajain eikä raateliain pidä Jumalan valtakuntaa perimän. ",
+      "swedish_karl_xii": "Eller tiufwar, eller girige, eller drinckare, eller hädare, eller röfware, skola ärfwa Gudz rike.",
+      "king_james": "Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et hæc quidam fuistis: sed abluti estis, sed sanctificati estis, sed justificati estis in nomine Domini nostri Jesu Christi, et in Spiritu Dei nostri.",
+      "greek_textus_receptus": "καὶ ταῦτά τινες ἦτε ἀλλὰ ἀπελούσασθε ἀλλὰ ἡγιάσθητε ἀλλ᾽ ἐδικαιώθητε ἐν τῷ ὀνόματι τοῦ κυρίου ἰησοῦ καὶ ἐν τῷ πνεύματι τοῦ θεοῦ ἡμῶν",
+      "finnish_biblia": "Ja senkaltaiset te muutamat olitte; mutta te olette pestyt, te olette pyhitetyt, te olette vanhurskaaksi tulleet Herran Jesuksen nimen kautta ja meidän Jumalamme hengen kautta. ",
+      "swedish_karl_xii": "Och thetta woren J somlige: men J ären aftwagne, J ären helgade, J ären rättferdigade, genom Herrans Jesu namn, och genom wår Gudz Anda.",
+      "king_james": "And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Omnia mihi licent, sed non omnia expediunt: omnia mihi licent, sed ego sub nullis redigar potestate.",
+      "greek_textus_receptus": "πάντα μοι ἔξεστιν ἀλλ᾽ οὐ πάντα συμφέρει πάντα μοι ἔξεστιν ἀλλ᾽ οὐκ ἐγὼ ἐξουσιασθήσομαι ὑπό τινος",
+      "finnish_biblia": "Kaikissa on minulla valta, vaan ei kaikki ole hyväksi: kaikissa on minulla valta, mutta en minä kenenkään alamainen ole. ",
+      "swedish_karl_xii": "Jagh hafwer macht til alt; men thet är icke alt nyttigt: jagh hafwer macht til alt; men ingen ting skal taga migh fången.",
+      "king_james": "All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Esca ventri, et venter escis: Deus autem et hunc et has destruet: corpus autem non fornicationi, sed Domino: et Dominus corpori.",
+      "greek_textus_receptus": "τὰ βρώματα τῇ κοιλίᾳ καὶ ἡ κοιλία τοῖς βρώμασιν ὁ δὲ θεὸς καὶ ταύτην καὶ ταῦτα καταργήσει τὸ δὲ σῶμα οὐ τῇ πορνείᾳ ἀλλὰ τῷ κυρίῳ καὶ ὁ κύριος τῷ σώματι",
+      "finnish_biblia": "Ruoka on vatsalle säätty ja vatsa rualle; mutta Jumala on tämän ja sen hukuttava. Ei ruumis ole säätty huoruuteen, vaan Herralle, ja Herra ruumiille. ",
+      "swedish_karl_xii": "Maten til buken, och buken til maten: men Gudh skal både maat och buuk til intet giöra: men kroppen icke til bolerij; vtan Herranom, och Herren kroppenom.",
+      "king_james": "Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body *is* not for fornication, but for the Lord; and the Lord for the body."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Deus vero et Dominum suscitavit: et nos suscitabit per virtutem suam.",
+      "greek_textus_receptus": "ὁ δὲ θεὸς καὶ τὸν κύριον ἤγειρεν καὶ ἡμᾶς ἐξεγερεῖ διὰ τῆς δυνάμεως αὐτοῦ",
+      "finnish_biblia": "Mutta Jumala on Herran herättänyt, niin hän on myös meitäkin voimallansa herättävä. ",
+      "swedish_karl_xii": "Men Gudh hafwer vpwäckt Herran; han skal ock så vpwäckia oß, genom sina kraft.",
+      "king_james": "And God hath both raised up the Lord, and will also raise up us by his own power."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Nescitis quoniam corpora vestra membra sunt Christi? Tollens ergo membra Christi, faciam membra meretricis? Absit.",
+      "greek_textus_receptus": "οὐκ οἴδατε ὅτι τὰ σώματα ὑμῶν μέλη χριστοῦ ἐστιν ἄρας οὖν τὰ μέλη τοῦ χριστοῦ ποιήσω πόρνης μέλη μὴ γένοιτο",
+      "finnish_biblia": "Ettekö te tiedä, että teidän ruumiinne ovat Kristuksen jäsenet? Pitäiskö siis minun Kristuksen jäsenet ottaman ja porton jäseniksi tekemän? Pois se! ",
+      "swedish_karl_xii": "Weten J icke, at edre kroppar äro Christi lemmar? Skulle jagh nu taga Christi lemmar, och giöra ther skiökio lemmar af? Bort thet.",
+      "king_james": "Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make *them* the members of an harlot? God forbid."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "An nescitis quoniam qui adhæret meretrici, unum corpus efficitur? Erunt enim (inquit) duo in carne una.",
+      "greek_textus_receptus": "ἢ οὐκ οἴδατε ὅτι ὁ κολλώμενος τῇ πόρνῃ ἓν σῶμά ἐστιν ἕσονται γάρ φησίν οἱ δύο εἰς σάρκα μίαν",
+      "finnish_biblia": "Taikka ettekö te tiedä, että se, joka porttoon ryhtyy, hän on yksi ruumis sen kanssa? Sillä he tulevat, sanoo hän, kaksi yhdeksi lihaksi. ",
+      "swedish_karl_xii": "Eller weten J icke, at then sigh håller til een skiökio, han blifwer en krop medh henne? Ty the warda, säger han, tw vthi ett kött.",
+      "king_james": "What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Qui autem adhæret Domino, unus spiritus est.",
+      "greek_textus_receptus": "ὁ δὲ κολλώμενος τῷ κυρίῳ ἓν πνεῦμά ἐστιν",
+      "finnish_biblia": "Mutta joka Herraan ryhtyy, se on yksi henki hänen kanssansa. ",
+      "swedish_karl_xii": "Men then som håller sigh til Herran, han är en Ande medh honom.",
+      "king_james": "But he that is joined unto the Lord is one spirit."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Fugite fornicationem. Omne peccatum, quodcumque fecerit homo, extra corpus est: qui autem fornicatur, in corpus suum peccat.",
+      "greek_textus_receptus": "φεύγετε τὴν πορνείαν πᾶν ἁμάρτημα ὃ ἐὰν ποιήσῃ ἄνθρωπος ἐκτὸς τοῦ σώματός ἐστιν ὁ δὲ πορνεύων εἰς τὸ ἴδιον σῶμα ἁμαρτάνει",
+      "finnish_biblia": "Välttäkäät huoruutta. Kaikki synnit, joita ihminen tekee, ovat ulkona ruumiista; vaan joka huorin tekee, tekee syntiä omassa ruumiissansa. ",
+      "swedish_karl_xii": "Flyr bolerij. All synd som menniskian giör, är vthan kroppen: men then som bedrifwer bolerij, han syndar på sin egen krop.",
+      "king_james": "Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "An nescitis quoniam membra vestra, templum sunt Spiritus Sancti, qui in vobis est, quem habetis a Deo, et non estis vestri?",
+      "greek_textus_receptus": "ἢ οὐκ οἴδατε ὅτι τὸ σῶμα ὑμῶν ναὸς τοῦ ἐν ὑμῖν ἁγίου πνεύματός ἐστιν οὗ ἔχετε ἀπὸ θεοῦ καὶ οὐκ ἐστὲ ἑαυτῶν",
+      "finnish_biblia": "Vai ettekö te tiedä, että teidän ruumiinne on Pyhän Hengen templi, joka teissä on, jonka te Jumalalta saitte, ja ettepä te ole teidän omanne? ",
+      "swedish_karl_xii": "Eller weten J icke, at edar krop är thens Helga Andas tempel, som är i eder, hwilken J hafwen af Gudi; och ären icke edre egne?",
+      "king_james": "What? know ye not that your body is the temple of the Holy Ghost *which is* in you, which ye have of God, and ye are not your own?"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Empti enim estis pretio magno. Glorificate, et portate Deum in corpore vestro.",
+      "greek_textus_receptus": "ἠγοράσθητε γὰρ τιμῆς δοξάσατε δὴ τὸν θεὸν ἐν τῷ σώματι ὑμῶν καὶ ἐν τῷ πνεύματι ὑμῶν, ἅτινά ἐστιν τοῦ θεοῦ",
+      "finnish_biblia": "Sillä te olette kalliisti ostetut; kunnioittakaat siis Jumalaa teidän ruumiissanne ja teidän hengessänne, jotka Jumalan ovat.   ",
+      "swedish_karl_xii": "Ty J ären dyrt köpte. Therföre priser nu Gudh vthi edar krop, och i edrom anda, hwilke Gudi tilhöra.",
+      "king_james": "For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's."
+    }
+  ]
+}

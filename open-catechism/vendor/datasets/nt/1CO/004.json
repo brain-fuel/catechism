@@ -1,0 +1,179 @@
+{
+  "book_id": "1CO",
+  "latin_name": "Epistula I ad Corinthios",
+  "greek_name": "Πρὸς Κορινθίους Α",
+  "finnish_name": "Ensimmäinen kirje korinttilaisille",
+  "swedish_name": "S. Pauli Epistel then förra Til the Corinther",
+  "english_name": "The First Epistle of Paul the Apostle to the Corinthians",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Sic nos existimet homo ut ministros Christi, et dispensatores mysteriorum Dei.",
+      "greek_textus_receptus": "οὕτως ἡμᾶς λογιζέσθω ἄνθρωπος ὡς ὑπηρέτας χριστοῦ καὶ οἰκονόμους μυστηρίων θεοῦ",
+      "finnish_biblia": "Jokainen pitäköön meitä Kristuksen palvelioina ja Jumalan salaisuutten huoneenhaltioina. ",
+      "swedish_karl_xii": "Ther skal man hålla oß före, at wij äre Christi tienare , och skaffare til Gudz hemlighet.",
+      "king_james": "Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Hic jam quæritur inter dispensatores ut fidelis quis inveniatur.",
+      "greek_textus_receptus": "ὅ δὲ λοιπὸν ζητεῖται ἐν τοῖς οἰκονόμοις ἵνα πιστός τις εὑρεθῇ",
+      "finnish_biblia": "Mutta ainoastaan se huoneenhaltiain seassa etsitään, että joku uskolliseksi löydettäisiin. ",
+      "swedish_karl_xii": "Nu söker man intet ibland skaffarena annat, än at the finnas måga trogne.",
+      "king_james": "Moreover it is required in stewards, that a man be found faithful."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Mihi autem pro minimo est ut a vobis judicer, aut ab humano die: sed neque meipsum judico.",
+      "greek_textus_receptus": "ἐμοὶ δὲ εἰς ἐλάχιστόν ἐστιν ἵνα ὑφ᾽ ὑμῶν ἀνακριθῶ ἢ ὑπὸ ἀνθρωπίνης ἡμέρας ἀλλ᾽ οὐδὲ ἐμαυτὸν ἀνακρίνω",
+      "finnish_biblia": "Mutta vähän minä sitä tottelen, että minä teiltä tuomitaan eli inhimilliseltä päivältä: ja en minä itsekään tuomitse minuani; ",
+      "swedish_karl_xii": "Men migh är thet en ringa ting, at jagh warder dömd af eder, eller af mennisklig dagh: dömer jagh migh icke heller sielf.",
+      "king_james": "But with me it is a very small thing that I should be judged of you, or of man's judgment: yea, I judge not mine own self."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Nihil enim mihi conscius sum, sed non in hoc justificatus sum: qui autem judicat me, Dominus est.",
+      "greek_textus_receptus": "οὐδὲν γὰρ ἐμαυτῷ σύνοιδα ἀλλ᾽ οὐκ ἐν τούτῳ δεδικαίωμαι ὁ δὲ ἀνακρίνων με κύριός ἐστιν",
+      "finnish_biblia": "Sillä en minä tiedä mitään kanssani; mutta en minä sentähden vanhurskautettu ole, vaan Herra on se, joka minun tuomitsee. ",
+      "swedish_karl_xii": "Jagh weet intet medh migh; doch ther vthinnan är jagh icke rättferdigad: men Herren är then migh dömer.",
+      "king_james": "For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Itaque nolite ante tempus judicare, quoadusque veniat Dominus: qui et illuminabit abscondita tenebrarum, et manifestabit consilia cordium: et tunc laus erit unicuique a Deo.",
+      "greek_textus_receptus": "ὥστε μὴ πρὸ καιροῦ τι κρίνετε ἕως ἂν ἔλθῃ ὁ κύριος ὃς καὶ φωτίσει τὰ κρυπτὰ τοῦ σκότους καὶ φανερώσει τὰς βουλὰς τῶν καρδιῶν καὶ τότε ὁ ἔπαινος γενήσεται ἑκάστῳ ἀπὸ τοῦ θεοῦ",
+      "finnish_biblia": "Sentähden älkäät tuomitko ennen aikaa, siihenasti kuin Herra tulee, joka nekin valkeuteen saattaa, mitkä pimeydessä peitetyt ovat, ja ilmoittaa sydänten aivoitukset: ja silloin kukin saa kunnian Jumalalta. ",
+      "swedish_karl_xii": "Therföre dömer icke förr än tijd är, så länge at Herren kommer, hwilken ock skal låta komma thet i liuset, som i mörkrena fördoldt är, och vppenbara hiertas anslag: och tå warder hwarjom och enom prijs af Gudi.",
+      "king_james": "Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall every man have praise of God."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Hæc autem, fratres, transfiguravi in me et Apollo, propter vos: ut in nobis discatis, ne supra quam scriptum est, unus adversus alterum infletur pro alio.",
+      "greek_textus_receptus": "ταῦτα δέ ἀδελφοί μετεσχημάτισα εἰς ἐμαυτὸν καὶ ἀπολλῶ δι᾽ ὑμᾶς ἵνα ἐν ἡμῖν μάθητε τὸ μὴ ὑπὲρ ὃ γέγραπται φρονεῖν, ἵνα μὴ εἷς ὑπὲρ τοῦ ἑνὸς φυσιοῦσθε κατὰ τοῦ ἑτέρου",
+      "finnish_biblia": "Mutta näitä, rakkaat veljet, olen minä minustani ja Apollosta ulostoimittanut teidän tähtenne, että te meistä oppisitte, ettei kenkään enempää itsestänsä ajattelisi kuin kirjoitettu on, ettei yksikään teistä toistansa vastaan pidä jonkun tähden itsiänsä paisuttaman. ",
+      "swedish_karl_xii": "Men thetta hafwer jagh, käre bröder, vthtydt på migh, och på Apollos, för edra skul, at J af oß lära måtten, at ingen hålle meer af sigh än som nu skrifwit är: på thet J icke högmodens emot hwar annan för någors mans skul.",
+      "king_james": "And these things, brethren, I have in a figure transferred to myself and *to* Apollos for your sakes; that ye might learn in us not to think *of men* above that which is written, that no one of you be puffed up for one against another."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Quis enim te discernit? quid autem habes quod non accepisti? si autem accepisti, quid gloriaris quasi non acceperis?",
+      "greek_textus_receptus": "τίς γάρ σε διακρίνει τί δὲ ἔχεις ὃ οὐκ ἔλαβες εἰ δὲ καὶ ἔλαβες τί καυχᾶσαι ὡς μὴ λαβών",
+      "finnish_biblia": "Sillä kuka sinun eroittaa? Taikka mitä sinulla on, jota et sinä ole saanut? Jos siitä siis saanut olet, mitäs kerskaat niinkuin et sinä saanut olisi? ",
+      "swedish_karl_xii": "Ty ho framsätter tigh? Eller hwad hafwer tu, thet tu icke vndfått hafwer? Hafwer tu thet vndfått, hwij berömer tu tigh tå, lika som tu thet icke vndfått hade?",
+      "king_james": "For who maketh thee to differ *from another*? and what hast thou that thou didst not receive? now if thou didst receive *it*, why dost thou glory, as if thou hadst not received *it* ?"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Jam saturati estis, jam divites facti estis: sine nobis regnatis: et utinam regnetis, ut et nos vobiscum regnemus.",
+      "greek_textus_receptus": "ἤδη κεκορεσμένοι ἐστέ ἤδη ἐπλουτήσατε χωρὶς ἡμῶν ἐβασιλεύσατε καὶ ὄφελόν γε ἐβασιλεύσατε ἵνα καὶ ἡμεῖς ὑμῖν συμβασιλεύσωμεν",
+      "finnish_biblia": "Jo te olette ravitut, jo te olette rikastuneet, ilman meitä te vallitsette: ja oi jospa te tosin vallitsisitte, että mekin teidän kanssanne vallitsisimme! ",
+      "swedish_karl_xii": "J ären nu mätte, J ären nu rike wordne, J regneren vthan oß: och gåfwe Gudh at J regneraden, på thet wij ock måtte regnera medh eder.",
+      "king_james": "Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Puto enim quod Deus nos Apostolos novissimos ostendit, tamquam morti destinatos: quia spectaculum facti sumus mundo, et angelis, et hominibus.",
+      "greek_textus_receptus": "δοκῶ γάρ ὅτι ὁ θεὸς ἡμᾶς τοὺς ἀποστόλους ἐσχάτους ἀπέδειξεν ὡς ἐπιθανατίους ὅτι θέατρον ἐγενήθημεν τῷ κόσμῳ καὶ ἀγγέλοις καὶ ἀνθρώποις",
+      "finnish_biblia": "Sillä minä luulen, että Jumala on meitä apostoleita viimeisiksi asettanut, niinkuin surmattaviksi; sillä me olemme maailmalle, ja enkeleille, ja ihmisille ihmeeksi tulleet. ",
+      "swedish_karl_xii": "Men migh tycker, at Gudh hafwer vthgifwit oß Apostlar för the alraringasta, såsom the ther dödenom äro ämnade: ty wij äre wordne ett widvnder werldene, och Änglomen, och menniskiomen.",
+      "king_james": "For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Nos stulti propter Christum, vos autem prudentes in Christo: nos infirmi, vos autem fortes: vos nobiles, nos autem ignobiles.",
+      "greek_textus_receptus": "ἡμεῖς μωροὶ διὰ χριστόν ὑμεῖς δὲ φρόνιμοι ἐν χριστῷ ἡμεῖς ἀσθενεῖς ὑμεῖς δὲ ἰσχυροί ὑμεῖς ἔνδοξοι ἡμεῖς δὲ ἄτιμοι",
+      "finnish_biblia": "Me olemme tomppelit Kristuksen tähden, mutta te toimelliset Kristuksessa: me heikot, mutta te väkevät: te kunnialliset, mutta me katsotut ylön. ",
+      "swedish_karl_xii": "Wij äre dårar, för Christi skul; men J ären kloke i Christo: wij swage; J starcke: J härlige; wij förachtade.",
+      "king_james": "We *are* fools for Christ's sake, but ye *are* wise in Christ; we *are* weak, but ye *are* strong; ye *are* honourable, but we *are* despised."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Usque in hanc horam et esurimus, et sitimus, et nudi sumus, et colaphis cædimur, et instabiles sumus,",
+      "greek_textus_receptus": "ἄχρι τῆς ἄρτι ὥρας καὶ πεινῶμεν καὶ διψῶμεν καὶ γυμνητεύομεν, καὶ κολαφιζόμεθα καὶ ἀστατοῦμεν",
+      "finnish_biblia": "Hamaan tähän hetkeen asti kärsimme me nälkää ja janoa, ja olemme alasti, ja meitä lyödään korvalle ja ei meillä ole vahvaa asuinsiaa: ",
+      "swedish_karl_xii": "Alt in til thenna tijd lide wij både hunger och torst, och äre nakne; och warde kindpustade, och hafwe intet wist heman:",
+      "king_james": "Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "et laboramus operantes manibus nostris: maledicimur, et benedicimus: persecutionem patimur, et sustinemus:",
+      "greek_textus_receptus": "καὶ κοπιῶμεν ἐργαζόμενοι ταῖς ἰδίαις χερσίν λοιδορούμενοι εὐλογοῦμεν διωκόμενοι ἀνεχόμεθα",
+      "finnish_biblia": "Ja me näemme vaivaa, työtä tehden omilla käsillämme. Kuin meitä soimataan, niin me hyvästi lausumme: kuin meitä vainotaan, niin me kärsimme. ",
+      "swedish_karl_xii": "Och arbetom, werckande medh wåra egna händer. Tå wij blifwe bannade, wälsigne wij: tå wij blifwe förfölgde, lide wij.",
+      "king_james": "And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "blasphemamur, et obsecramus: tamquam purgamenta hujus mundi facti sumus, omnium peripsema usque adhuc.",
+      "greek_textus_receptus": "βλασφημούμενοι παρακαλοῦμεν ὡς περικαθάρματα τοῦ κόσμου ἐγενήθημεν πάντων περίψημα ἕως ἄρτι",
+      "finnish_biblia": "Kuin meitä pilkataan, niin me rukoilemme: me olemme tulleet niinkuin maailman tunkioksi ja kaikkein saastaisuudeksi tähän päivään asti. ",
+      "swedish_karl_xii": "Tå wij blifwe hädde, bedies wij före: såsom werldenes afskrap äre wij wordne, hwars mans afhugg, til thenna dagh.",
+      "king_james": "Being defamed, we intreat: we are made as the filth of the world, *and are* the offscouring of all things unto this day."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Non ut confundam vos, hæc scribo, sed ut filios meos carissimos moneo.",
+      "greek_textus_receptus": "οὐκ ἐντρέπων ὑμᾶς γράφω ταῦτα ἀλλ᾽ ὡς τέκνα μου ἀγαπητὰ νουθετῶ",
+      "finnish_biblia": "En minä näitä kirjoita häväistäkseni teitä, vaan minä neuvon teitä niinkuin rakkaita lapsiani. ",
+      "swedish_karl_xii": "Thetta skrifwer jagh icke förthenskul, at jagh wil skämma eder; men jagh förmanar eder, såsom min kära barn.",
+      "king_james": "I write not these things to shame you, but as my beloved sons I warn *you*."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Nam si decem millia pædagogorum habeatis in Christo, sed non multos patres. Nam in Christo Jesu per Evangelium ego vos genui.",
+      "greek_textus_receptus": "ἐὰν γὰρ μυρίους παιδαγωγοὺς ἔχητε ἐν χριστῷ ἀλλ᾽ οὐ πολλοὺς πατέρας ἐν γὰρ χριστῷ ἰησοῦ διὰ τοῦ εὐαγγελίου ἐγὼ ὑμᾶς ἐγέννησα",
+      "finnish_biblia": "Sillä ehkä teillä olis kymmenentuhatta opettajaa Kristuksessa, niin ei teillä kuitenkaan ole monta isää; sillä minä olen teitä Kristuksessa Jesuksessa siittänyt evankeliumin kautta. ",
+      "swedish_karl_xii": "Ty om J än haden tijotusend tuchtomästare i Christo, så hafwen J doch icke många fäder: jagh hafwer födt eder i Christo Jesu, genom Evangelium.",
+      "king_james": "For though ye have ten thousand instructors in Christ, yet *have ye* not many fathers: for in Christ Jesus I have begotten you through the gospel."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Rogo ergo vos, imitatores mei estote, sicut et ego Christi.",
+      "greek_textus_receptus": "παρακαλῶ οὖν ὑμᾶς μιμηταί μου γίνεσθε",
+      "finnish_biblia": "Sentähden neuvon minä teitä, olkaat minun tavoittajani. ",
+      "swedish_karl_xii": "Therföre förmanar jagh eder, warer mine efterföljare.",
+      "king_james": "Wherefore I beseech you, be ye followers of me."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Ideo misi ad vos Timotheum, qui est filius meus carissimus, et fidelis in Domino: qui vos commonefaciet vias meas, quæ sunt in Christo Jesu, sicut ubique in omni ecclesia doceo.",
+      "greek_textus_receptus": "διὰ τοῦτο ἔπεμψα ὑμῖν τιμόθεον ὅς ἐστίν τέκνον μου ἀγαπητὸν καὶ πιστὸν ἐν κυρίῳ ὃς ὑμᾶς ἀναμνήσει τὰς ὁδούς μου τὰς ἐν χριστῷ καθὼς πανταχοῦ ἐν πάσῃ ἐκκλησίᾳ διδάσκω",
+      "finnish_biblia": "Sentähden lähetin minä teille Timoteuksen, joka on minun rakas ja uskollinen poikani Herrassa, jonka pitää muistuttaman teille minun tieni, jotka ovat Kristuksessa, niinkuin minä joka paikassa kaikissa seurakunnissa opetan. ",
+      "swedish_karl_xii": "För samma saak skul hafwer jagh sändt til eder Timotheum, hwilken är min käre son, och trogen i Herranom; at han skal draga eder til minnes mina wägar som äro i Christo, såsom jagh allestädz, och i alla församlingar lärer.",
+      "king_james": "For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Tamquam non venturus sim ad vos, sic inflati sunt quidam.",
+      "greek_textus_receptus": "ὡς μὴ ἐρχομένου δέ μου πρὸς ὑμᾶς ἐφυσιώθησάν τινες",
+      "finnish_biblia": "Mutta muutamat ovat teistä paisuneet, niinkuin en minä teidän tykönne tuleva oliskaan. ",
+      "swedish_karl_xii": "Somlige af eder äro så vpbläste, lika som jagh icke skulle komma til eder.",
+      "king_james": "Now some are puffed up, as though I would not come to you."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Veniam autem ad vos cito, si Dominus voluerit: et cognoscam non sermonem eorum qui inflati sunt, sed virtutem.",
+      "greek_textus_receptus": "ἐλεύσομαι δὲ ταχέως πρὸς ὑμᾶς ἐὰν ὁ κύριος θελήσῃ καὶ γνώσομαι οὐ τὸν λόγον τῶν πεφυσιωμένων ἀλλὰ τὴν δύναμιν",
+      "finnish_biblia": "Mutta ennen paljoa aikaa tulen minä teidän tykönne, jos Herra tahtoo, ja tahdon tietää, ei paisuneitten sanojen, vaan voimaa. ",
+      "swedish_karl_xii": "Men jagh wil innan en kort tijd komma, om Herren wil; och tå skal jagh röna, icke theras ord, som så vpbläste äro, vtan kraft.",
+      "king_james": "But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Non enim in sermone est regnum Dei, sed in virtute.",
+      "greek_textus_receptus": "οὐ γὰρ ἐν λόγῳ ἡ βασιλεία τοῦ θεοῦ ἀλλ᾽ ἐν δυνάμει",
+      "finnish_biblia": "Sillä Jumalan valtakunta ei ole puheessa, vaan voimassa. ",
+      "swedish_karl_xii": "Ty Gudz rike står icke i ordom, vtan i kraft.",
+      "king_james": "For the kingdom of God *is* not in word, but in power."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Quid vultis? in virga veniam ad vos, an in caritate, et spiritu mansuetudinis?",
+      "greek_textus_receptus": "τί θέλετε ἐν ῥάβδῳ ἔλθω πρὸς ὑμᾶς ἢ ἐν ἀγάπῃ πνεύματί τε πρᾳότητος",
+      "finnish_biblia": "Kumman te tahdotte: että minä tulen vitsalla teidän tykönne, taikka rakkaudella ja hengen siveydellä?   ",
+      "swedish_karl_xii": "Hwad wiljen J? Skal jagh komma medh rijs til eder, eller medh kärlek, och sachtmodigom anda?",
+      "king_james": "What will ye? shall I come unto you with a rod, or in love, and *in* the spirit of meekness?"
+    }
+  ]
+}

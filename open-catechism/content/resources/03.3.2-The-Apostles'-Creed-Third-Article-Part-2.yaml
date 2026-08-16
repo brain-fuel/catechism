@@ -1,0 +1,222 @@
+1:
+  title: "The Life of the First Congregation"
+  refs: !!set
+    ? "Acts 2:42-47"
+
+2:
+  title: "One Body, One Household"
+  refs: !!set
+    ? "1 Corinthians 12:13"
+    ? "Ephesians 2:19-22"
+
+3:
+  title: "One Flock from Every Nation"
+  refs: !!set
+    ? "John 10:16"
+    ? "1 Corinthians 12:27"
+    ? "Matthew 18:20"
+    ? "Revelation 5:9"
+
+4:
+  title: "Christ the Head of the Body"
+  refs: !!set
+    ? "Colossians 1:18"
+    ? "Ephesians 5:23"
+
+5:
+  title: "Rescued and Forgiven"
+  refs: !!set
+    ? "Colossians 1:13-14"
+    ? "John 20:23"
+
+6:
+  title: "Built on the Apostles' Foundation"
+  refs: !!set
+    ? "Acts 1:1-2"
+    ? "Ephesians 2:19-20"
+
+7:
+  title: "One Lord, One Faith, One Baptism"
+  refs: !!set
+    ? "Ephesians 4:4-6"
+
+8:
+  title: "With You There Is Forgiveness"
+  refs: !!set
+    ? "Psalm 130:3-4"
+    ? "1 John 1:7"
+    ? "2 Corinthians 5:19"
+    ? "Matthew 18:23-35"
+    ? "Isaiah 1:18"
+    ? "Micah 7:18-19"
+    ? "1 John 2:1"
+
+9:
+  title: "The Riches of God's Grace"
+  refs: !!set
+    ? "Psalm 86:15"
+    ? "John 3:16"
+    ? "Ephesians 1:7"
+    ? "1 John 2:2"
+
+10:
+  title: "The Great Exchange"
+  refs: !!set
+    ? "2 Corinthians 5:21"
+    ? "Romans 3:22-24"
+    ? "Romans 4:25"
+    ? "Romans 5:17-19"
+
+11:
+  title: "Forgiveness Proclaimed to All Nations"
+  refs: !!set
+    ? "Luke 24:46-47"
+    ? "Romans 1:16"
+    ? "2 Corinthians 5:19"
+
+12:
+  title: "Counted Righteous Through Faith"
+  refs: !!set
+    ? "Genesis 15:6"
+    ? "John 3:18"
+    ? "Romans 3:28"
+    ? "Romans 4:5"
+
+13:
+  title: "All God's Promises Are Yes"
+  refs: !!set
+    ? "Romans 8:38-39"
+    ? "2 Corinthians 1:20"
+
+14:
+  title: "It Is Finished"
+  refs: !!set
+    ? "John 19:30"
+    ? "1 Peter 1:18-19"
+    ? "Hebrews 10:12-14"
+
+15:
+  title: "Forgiveness Delivered by Word and Sacrament"
+  refs: !!set
+    ? "Acts 2:38"
+    ? "John 20:22-23"
+    ? "Matthew 26:28"
+
+16:
+  title: "Known and Kept by God"
+  refs: !!set
+    ? "John 10:27-28"
+    ? "Romans 8:28-30"
+    ? "Ephesians 1:3-6"
+    ? "2 Timothy 2:19"
+
+17:
+  title: "Salvation in No One Else"
+  refs: !!set
+    ? "Acts 4:12"
+    ? "Romans 3:21-25"
+    ? "Galatians 5:4-5"
+    ? "Revelation 1:5-6"
+    ? "Romans 5:1-14"
+
+18:
+  title: "The Means the Spirit Uses"
+  refs: !!set
+    ? "Isaiah 55:10-11"
+    ? "Romans 10:17"
+    ? "1 Corinthians 10:16"
+    ? "Matthew 18:20"
+
+19:
+  title: "Life Together in Love"
+  refs: !!set
+    ? "John 13:35"
+    ? "1 Peter 2:21"
+    ? "2 Timothy 1:8"
+    ? "Acts 2:42-43"
+    ? "Hebrews 10:24-25"
+    ? "Romans 12:14"
+
+20:
+  title: "Sent to Witness and Proclaim"
+  refs: !!set
+    ? "Matthew 28:19"
+    ? "Acts 2:42"
+    ? "1 Peter 2:9"
+    ? "Acts 8:26-35"
+    ? "Acts 4:23-30"
+    ? "Acts 8:1, 4"
+    ? "Acts 13:2"
+    ? "1 Peter 3:15"
+
+21:
+  title: "Abiding in the Word"
+  refs: !!set
+    ? "John 8:31-32"
+    ? "John 15:5"
+    ? "Colossians 3:16"
+
+22:
+  title: "Testing Everything by Scripture"
+  refs: !!set
+    ? "Acts 17:11"
+    ? "2 Corinthians 6:14"
+    ? "2 Timothy 4:3-4"
+
+23:
+  title: "Beware of False Teachers"
+  refs: !!set
+    ? "Matthew 7:15-16"
+    ? "Galatians 1:8"
+    ? "Romans 16:17-18"
+    ? "1 John 4:1"
+
+24:
+  title: "Sending and Supporting the Ministry"
+  refs: !!set
+    ? "John 20:21"
+    ? "Luke 10:2"
+    ? "Galatians 6:6"
+    ? "Acts 2:17-39"
+    ? "Philippians 4:16-19"
+    ? "2 Corinthians 8-9"
+
+25:
+  title: "That They May All Be One"
+  refs: !!set
+    ? "Ephesians 4:3-6"
+    ? "1 Corinthians 1:10"
+    ? "John 17:17-21"
+
+26:
+  title: "Forgiving as We Are Forgiven"
+  refs: !!set
+    ? "Luke 23:34"
+    ? "Matthew 18:21-35"
+
+27:
+  title: "The Gates of Hell Shall Not Prevail"
+  refs: !!set
+    ? "Matthew 16:18"
+    ? "Matthew 28:20"
+    ? "John 17:12"
+
+28:
+  title: "The Church Under the Cross"
+  refs: !!set
+    ? "John 16:33"
+    ? "Ephesians 6:12"
+    ? "1 Peter 4:12-14"
+    ? "1 Peter 5:8-9"
+
+29:
+  title: "Every Tear Wiped Away"
+  refs: !!set
+    ? "Isaiah 25:8"
+    ? "Revelation 7:17"
+    ? "Revelation 21:4"
+
+30:
+  title: "The Lord Is My Light and My Salvation"
+  refs: !!set
+    ? "Psalm 27"

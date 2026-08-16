@@ -1,0 +1,224 @@
+# ref = SOS.6.1
+1	Ἀδελφός	_	_	_	_	_	_	Align=unmatched
+2	μου	_	_	_	_	_	_	Align=unmatched
+3	κατέβη	_	_	_	_	_	_	Align=unmatched
+4	εἰς	_	_	_	_	_	_	Align=unmatched
+5	κῆπον	_	_	_	_	_	_	Align=unmatched
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+7	εἰς	_	_	_	_	_	_	Align=unmatched
+8	φιάλας	_	_	_	_	_	_	Align=unmatched
+9	τοῦ	_	_	_	_	_	_	Align=unmatched
+10	ἀρώματος	_	_	_	_	_	_	Align=unmatched
+11	ποιμαίνειν	_	_	_	_	_	_	Align=unmatched
+12	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+13	κήποις	_	_	_	_	_	_	Align=unmatched
+14	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+15	συλλέγειν	_	_	_	_	_	_	Align=unmatched
+16	κρίνα	_	_	_	_	_	_	Align=unmatched,source_extra:17
+
+# ref = SOS.6.2
+1	ἐγὼ	_	_	_	_	_	_	Align=unmatched
+2	τῷ	_	_	_	_	_	_	Align=unmatched
+3	ἀδελφιδῷ	_	_	_	_	_	_	Align=unmatched
+4	μου	_	_	_	_	_	_	Align=unmatched
+5	καὶ	_	_	_	_	_	_	Align=unmatched
+6	ἀδελφιδός	ἀδελφιδός	_	_	_	_	_	Align=exact
+7	μου	μου	_	_	_	_	_	Align=exact
+8	ἐμοί	_	_	_	_	_	_	Align=unmatched
+9	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+10	ποιμαίνων	_	_	_	_	_	_	Align=unmatched
+11	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+12	τοῖς	_	_	_	_	_	_	Align=unmatched
+13	κρίνοις	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = SOS.6.3
+1	Καλὴ	ἐγώ	_	_	_	_	_	Strong=G1473|Align=positional
+2	εἶ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	πλησίον	ἀδελφιδός	_	_	_	_	_	Align=positional
+4	μου	μου	_	_	_	_	_	Align=exact
+5	ὡς	_	_	_	_	_	_	Align=unmatched
+6	εὐδοκία	_	_	_	_	_	_	Align=unmatched
+7	ὡραία	_	_	_	_	_	_	Align=unmatched
+8	ὡς	_	_	_	_	_	_	Align=unmatched
+9	Ἰερουσαλήμ	_	_	_	_	_	_	Align=unmatched
+10	θάμβος	_	_	_	_	_	_	Align=unmatched
+11	ὡς	_	_	_	_	_	_	Align=unmatched
+12	τεταγμέναι	_	_	_	_	_	_	Align=unmatched,source_extra:9
+
+# ref = SOS.6.4
+1	ἀπόστρεψον	καλός	_	_	_	_	_	Strong=G2570|Align=positional
+2	ὀφθαλμούς	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+3	σου	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	ἀπεναντίον	πλησίον	_	_	_	_	_	Strong=G4139|Align=positional
+5	μου	μου	_	_	_	_	_	Align=exact
+6	ὅτι	_	_	_	_	_	_	Align=unmatched
+7	αὐτοὶ	_	_	_	_	_	_	Align=unmatched
+8	ἀνεπτέρωσάν	_	_	_	_	_	_	Align=unmatched
+9	με	_	_	_	_	_	_	Align=unmatched
+10	τρίχωμά	_	_	_	_	_	_	Align=unmatched
+11	σου	_	_	_	_	_	_	Align=unmatched
+12	ὡς	ὥς	_	_	_	_	_	Align=exact
+13	ἀγέλαι	_	_	_	_	_	_	Align=unmatched
+14	τῶν	_	_	_	_	_	_	Align=unmatched
+15	αἰγῶν	_	_	_	_	_	_	Align=unmatched
+16	αἳ	_	_	_	_	_	_	Align=unmatched
+17	ἀνεφάνησαν	_	_	_	_	_	_	Align=unmatched
+18	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+19	τοῦ	_	_	_	_	_	_	Align=unmatched
+20	Γαλαάδ	_	_	_	_	_	_	Align=unmatched,source_extra:7
+
+# ref = SOS.6.5
+1	ὀδόντες	_	_	_	_	_	_	Align=unmatched
+2	σου	σοῦ	_	_	_	_	_	Align=exact
+3	ὡς	ὥς	_	_	_	_	_	Align=exact
+4	ἀγέλαι	ἀγέλη	_	_	_	_	_	Strong=G0034|Align=positional
+5	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	κεκαρμένων	αἴξ	_	_	_	_	_	Align=positional
+7	αἳ	ὅς	_	_	_	_	_	Strong=G3739|Align=positional
+8	ἀνέβησαν	ἀναφαίνω	_	_	_	_	_	Strong=G0398|Align=positional
+9	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+10	τοῦ	_	_	_	_	_	_	Align=unmatched
+11	λουτροῦ	_	_	_	_	_	_	Align=unmatched
+12	αἱ	_	_	_	_	_	_	Align=unmatched
+13	πᾶσαι	_	_	_	_	_	_	Align=unmatched
+14	διδυμεύουσαι	_	_	_	_	_	_	Align=unmatched
+15	καὶ	_	_	_	_	_	_	Align=unmatched
+16	ἀτεκνοῦσα	_	_	_	_	_	_	Align=unmatched
+17	οὐκ	_	_	_	_	_	_	Align=unmatched
+18	ἔστιν	_	_	_	_	_	_	Align=unmatched
+19	ἐν	_	_	_	_	_	_	Align=unmatched
+20	αὐταῖς	_	_	_	_	_	_	Align=unmatched
+21	ὡς	_	_	_	_	_	_	Align=unmatched
+22	σπαρτίον	_	_	_	_	_	_	Align=unmatched
+23	τὸ	_	_	_	_	_	_	Align=unmatched
+24	κόκκινον	_	_	_	_	_	_	Align=unmatched
+25	χείλη	_	_	_	_	_	_	Align=unmatched
+26	σου	_	_	_	_	_	_	Align=unmatched
+27	καὶ	_	_	_	_	_	_	Align=unmatched
+28	ἡ	_	_	_	_	_	_	Align=unmatched
+29	λαλιά	_	_	_	_	_	_	Align=unmatched
+30	σου	_	_	_	_	_	_	Align=unmatched
+31	ὡραία	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = SOS.6.6
+1	ὡς	ὥς	_	_	_	_	_	Align=exact
+2	λέπυρον	_	_	_	_	_	_	Align=unmatched
+3	ῥόας	_	_	_	_	_	_	Align=unmatched
+4	μῆλόν	_	_	_	_	_	_	Align=unmatched
+5	σου	_	_	_	_	_	_	Align=unmatched
+6	ἐκτὸς	_	_	_	_	_	_	Align=unmatched
+7	τῆς	_	_	_	_	_	_	Align=unmatched
+8	σιωπήσεώς	_	_	_	_	_	_	Align=unmatched
+9	σου	_	_	_	_	_	_	Align=unmatched,source_extra:19
+
+# ref = SOS.6.7
+1	ἑξήκοντά	_	_	_	_	_	_	Align=unmatched
+2	εἰσιν	_	_	_	_	_	_	Align=unmatched
+3	βασίλισσαι	_	_	_	_	_	_	Align=unmatched
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	ὀγδοήκοντα	_	_	_	_	_	_	Align=unmatched
+6	παλλακαί	_	_	_	_	_	_	Align=unmatched
+7	καὶ	_	_	_	_	_	_	Align=unmatched
+8	νεάνιδες	_	_	_	_	_	_	Align=unmatched
+9	ὧν	_	_	_	_	_	_	Align=unmatched
+10	οὐκ	_	_	_	_	_	_	Align=unmatched
+11	ἔστιν	_	_	_	_	_	_	Align=unmatched
+12	ἀριθμός	_	_	_	_	_	_	Align=unmatched,source_extra:20
+
+# ref = SOS.6.8
+1	μία	_	_	_	_	_	_	Align=unmatched
+2	ἐστὶν	_	_	_	_	_	_	Align=unmatched
+3	περιστερά	_	_	_	_	_	_	Align=unmatched
+4	μου	_	_	_	_	_	_	Align=unmatched
+5	τελεία	_	_	_	_	_	_	Align=unmatched
+6	μου	_	_	_	_	_	_	Align=unmatched
+7	μία	_	_	_	_	_	_	Align=unmatched
+8	ἐστὶν	_	_	_	_	_	_	Align=unmatched
+9	τῇ	_	_	_	_	_	_	Align=unmatched
+10	μητρὶ	_	_	_	_	_	_	Align=unmatched
+11	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+12	ἐκλεκτή	_	_	_	_	_	_	Align=unmatched
+13	ἐστιν	_	_	_	_	_	_	Align=unmatched
+14	τῇ	_	_	_	_	_	_	Align=unmatched
+15	τεκούσῃ	_	_	_	_	_	_	Align=unmatched
+16	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+17	εἴδοσαν	_	_	_	_	_	_	Align=unmatched
+18	αὐτὴν	_	_	_	_	_	_	Align=unmatched
+19	θυγατέρες	_	_	_	_	_	_	Align=unmatched
+20	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+21	μακαριοῦσιν	_	_	_	_	_	_	Align=unmatched
+22	αὐτήν	_	_	_	_	_	_	Align=unmatched
+23	βασίλισσαι	_	_	_	_	_	_	Align=unmatched
+24	καί	καί	_	_	_	_	_	Strong=G2532|Align=exact
+25	γε	νεᾶνις	_	_	_	_	_	Align=positional
+26	παλλακαί	ὅς	_	_	_	_	_	Strong=G3739|Align=positional
+27	καὶ	οὐ	_	_	_	_	_	Strong=G3756|Align=positional
+28	αἰνέσουσιν	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+29	αὐτήν	ἀριθμός	_	_	_	_	_	Strong=G0706|Align=positional,source_extra:5
+
+# ref = SOS.6.9
+1	Τίς	_	_	_	_	_	_	Align=unmatched
+2	αὕτη	_	_	_	_	_	_	Align=unmatched
+3	ἡ	_	_	_	_	_	_	Align=unmatched
+4	ἐκκύπτουσα	_	_	_	_	_	_	Align=unmatched
+5	ὡσεὶ	_	_	_	_	_	_	Align=unmatched
+6	ὄρθρος	_	_	_	_	_	_	Align=unmatched
+7	καλὴ	_	_	_	_	_	_	Align=unmatched
+8	ὡς	_	_	_	_	_	_	Align=unmatched
+9	σελήνη	_	_	_	_	_	_	Align=unmatched
+10	ἐκλεκτὴ	_	_	_	_	_	_	Align=unmatched
+11	ὡς	_	_	_	_	_	_	Align=unmatched
+12	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+13	ἥλιος	_	_	_	_	_	_	Align=unmatched
+14	θάμβος	_	_	_	_	_	_	Align=unmatched
+15	ὡς	_	_	_	_	_	_	Align=unmatched
+16	τεταγμέναι	_	_	_	_	_	_	Align=unmatched,source_extra:27
+
+# ref = SOS.6.10
+1	Εἰς	_	_	_	_	_	_	Align=unmatched
+2	κῆπον	_	_	_	_	_	_	Align=unmatched
+3	καρύας	_	_	_	_	_	_	Align=unmatched
+4	κατέβην	_	_	_	_	_	_	Align=unmatched
+5	ἰδεῖν	_	_	_	_	_	_	Align=unmatched
+6	ἐν	_	_	_	_	_	_	Align=unmatched
+7	γενήμασιν	_	_	_	_	_	_	Align=unmatched
+8	τοῦ	_	_	_	_	_	_	Align=unmatched
+9	χειμάρρου	_	_	_	_	_	_	Align=unmatched
+10	ἰδεῖν	_	_	_	_	_	_	Align=unmatched
+11	εἰ	_	_	_	_	_	_	Align=unmatched
+12	ἤνθησεν	_	_	_	_	_	_	Align=unmatched
+13	ἡ	_	_	_	_	_	_	Align=unmatched
+14	ἄμπελος	_	_	_	_	_	_	Align=unmatched
+15	ἐξήνθησαν	_	_	_	_	_	_	Align=unmatched
+16	αἱ	_	_	_	_	_	_	Align=unmatched
+17	ῥόαι	_	_	_	_	_	_	Align=unmatched
+18	ἐκεῖ	_	_	_	_	_	_	Align=unmatched
+19	δώσω	_	_	_	_	_	_	Align=unmatched
+20	τοὺς	_	_	_	_	_	_	Align=unmatched
+21	μαστούς	_	_	_	_	_	_	Align=unmatched
+22	μου	_	_	_	_	_	_	Align=unmatched
+23	σοί	_	_	_	_	_	_	Align=unmatched,source_extra:16
+
+# ref = SOS.6.11
+1	οὐκ	_	_	_	_	_	_	Align=unmatched
+2	ἔγνω	_	_	_	_	_	_	Align=unmatched
+3	ἡ	_	_	_	_	_	_	Align=unmatched
+4	ψυχή	_	_	_	_	_	_	Align=unmatched
+5	μου	μου	_	_	_	_	_	Align=exact
+6	ἔθετό	_	_	_	_	_	_	Align=unmatched
+7	με	_	_	_	_	_	_	Align=unmatched
+8	ἅρματα	_	_	_	_	_	_	Align=unmatched
+9	Ἀμειναδάβ	_	_	_	_	_	_	Align=unmatched,source_extra:22
+
+# ref = SOS.6.12
+1	Ἐπίστρεφε	_	_	_	_	_	_	Align=unmatched
+2	ἐπίστρεφε	_	_	_	_	_	_	Align=unmatched
+3	ἡ	_	_	_	_	_	_	Align=unmatched
+4	Σουμανεῖτις	_	_	_	_	_	_	Align=unmatched
+5	ἐπίστρεφε	_	_	_	_	_	_	Align=unmatched
+6	ἐπίστρεφε	_	_	_	_	_	_	Align=unmatched
+7	καὶ	_	_	_	_	_	_	Align=unmatched
+8	ὀφόμεθα	_	_	_	_	_	_	Align=unmatched
+9	ἐν	_	_	_	_	_	_	Align=unmatched
+10	σοί	_	_	_	_	_	_	Align=unmatched,source_extra:9
+

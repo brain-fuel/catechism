@@ -1,0 +1,165 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 122,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Canticum graduum.   Lætatus sum in his quæ dicta sunt mihi :  In domum Domini ibimus. ",
+      "hebrew_masoretic": "שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד שָׂ֭מַחְתִּי בְּאֹמְרִ֣ים לִ֑י בֵּ֖ית יְהֹוָ֣ה נֵלֵֽךְ׃",
+      "douay_rheims": "A gradual canticle. I rejoiced at the things that were said to me: We shall go into the house of the Lord.",
+      "finnish_biblia": "Davidin veisu korkeimmassa Kuorissa. Minä iloitsen niistä, jotka minulle sanovat: että me menemme Herran huoneeseen, ",
+      "swedish_karl_xii": "Een wisa Davidz i högre choren. Jagh glädes i thet migh sagt är, at wij skole gå in vthi HERRANS huus:",
+      "king_james": "I was glad when they said unto me, Let us go into the house of the LORD.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "121:1"
+        },
+        "douay_rheims": {
+          "src": "121:1"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " Stantes erant pedes nostri  in atriis tuis, Jerusalem. ",
+      "hebrew_masoretic": "עֹ֭מְדוֹת הָי֣וּ רַגְלֵ֑ינוּ בִּ֝שְׁעָרַ֗יִךְ יְרוּשָׁלָֽ͏ִם׃",
+      "douay_rheims": "Our feet were standing in thy courts, O Jerusalem.",
+      "finnish_biblia": "Ja että meidän jalkamme pitää seisoman sinun porteissas, Jerusalem. ",
+      "swedish_karl_xii": "Och at wåre fötter skola stå i tinom portom, Jerusalem.",
+      "king_james": "Our feet shall stand within thy gates, O Jerusalem.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "121:2"
+        },
+        "douay_rheims": {
+          "src": "121:2"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Jerusalem, quæ ædificatur ut civitas,  cujus participatio ejus in idipsum. ",
+      "hebrew_masoretic": "יְרוּשָׁלַ֥͏ִם הַבְּנוּיָ֑ה כְּ֝עִ֗יר שֶׁחֻבְּרָה־לָּ֥הּ יַחְדָּֽו׃",
+      "douay_rheims": "Jerusalem, which is built as a city, which is compact together.",
+      "finnish_biblia": "Jerusalem on rakennettu kaupungiksi, johon on tuleminen kokoon, ",
+      "swedish_karl_xii": "Jerusalem är bygdt, at thet skal wara en stadh, ther man tilsamman komma skal:",
+      "king_james": "Jerusalem is builded as a city that is compact together:",
+      "refs": {
+        "latin_vulgate": {
+          "src": "121:3"
+        },
+        "douay_rheims": {
+          "src": "121:3"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Illuc enim ascenderunt tribus, tribus Domini :  testimonium Israël,  ad confitendum nomini Domini. ",
+      "hebrew_masoretic": "שֶׁשָּׁ֨ם עָל֪וּ שְׁבָטִ֡ים שִׁבְטֵי־יָ֭הּ עֵד֣וּת לְיִשְׂרָאֵ֑ל לְ֝הֹד֗וֹת לְשֵׁ֣ם יְהֹוָֽה׃",
+      "douay_rheims": "For thither did the tribes go up, the tribes of the Lord: the testimony of Israel, to praise the name of the Lord.",
+      "finnish_biblia": "Että sukukunnat astuisivat sinne ylös, Herran sukukunnat, Israelille todistukseksi, kiittämään Herran nimeä. ",
+      "swedish_karl_xii": "Tijt slächterna vpgå skola, nemliga, Herrans slächter, til at predika Jsraels folcke, til at tacka HERRANS namne.",
+      "king_james": "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "121:4"
+        },
+        "douay_rheims": {
+          "src": "121:4"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Quia illic sederunt sedes in judicio,  sedes super domum David. ",
+      "hebrew_masoretic": "כִּ֤י שָׁ֨מָּה ׀ יָשְׁב֣וּ כִסְא֣וֹת לְמִשְׁפָּ֑ט כִּ֝סְא֗וֹת לְבֵ֣ית דָּוִֽד׃",
+      "douay_rheims": "Because their seats have sat in judgment, seats upon the house of David.",
+      "finnish_biblia": "Sillä siellä ovat istuimet rakennetut tuomittaa, Davidin huoneen istuimet. ",
+      "swedish_karl_xii": "Ty ther äro satte stolar til dooms: Davidz huus stolar.",
+      "king_james": "For there are set thrones of judgment, the thrones of the house of David.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "121:5"
+        },
+        "douay_rheims": {
+          "src": "121:5"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Rogate quæ ad pacem sunt Jerusalem,  et abundantia diligentibus te. ",
+      "hebrew_masoretic": "שַׁ֭אֲלוּ שְׁל֣וֹם יְרוּשָׁלָ֑͏ִם יִ֝שְׁלָ֗יוּ אֹהֲבָֽיִךְ׃",
+      "douay_rheims": "Pray ye for the things that are for the peace of Jerusalem: and abundance for them that love thee.",
+      "finnish_biblia": "Toivottakaat Jerusalemille rauhaa: he menestyköön, jotka sinua rakastavat! ",
+      "swedish_karl_xii": "Önsker Jerusalem lycko: them gånge wäl som tigh älska.",
+      "king_james": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "121:6"
+        },
+        "douay_rheims": {
+          "src": "121:6"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Fiat pax in virtute tua,  et abundantia in turribus tuis. ",
+      "hebrew_masoretic": "יְהִי־שָׁל֥וֹם בְּחֵילֵ֑ךְ שַׁ֝לְוָ֗ה בְּאַרְמְנוֹתָֽיִךְ׃",
+      "douay_rheims": "Let peace be in thy strength: and abundance in thy towers.",
+      "finnish_biblia": "Rauha olkoon sinun muureis sisällä, ja onni sinun huoneissas! ",
+      "swedish_karl_xii": "Frijd ware innan tina murar; och lycka i tine palats.",
+      "king_james": "Peace be within thy walls, and prosperity within thy palaces.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "121:7"
+        },
+        "douay_rheims": {
+          "src": "121:7"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " Propter fratres meos et proximos meos,  loquebar pacem de te. ",
+      "hebrew_masoretic": "לְ֭מַעַן אַחַ֣י וְרֵעָ֑י אֲדַבְּרָה־נָּ֖א שָׁל֣וֹם בָּֽךְ׃",
+      "douay_rheims": "For the sake of my brethren, and of my neighbours, I spoke peace of thee.",
+      "finnish_biblia": "Minun veljieni ja ystäväini tähden minä toivotan nyt sinulle rauhaa! ",
+      "swedish_karl_xii": "För mina bröder och fränder skul, wil jagh tigh frijd önska.",
+      "king_james": "For my brethren and companions’ sakes, I will now say, Peace be within thee.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "121:8"
+        },
+        "douay_rheims": {
+          "src": "121:8"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": " Propter domum Domini Dei nostri,  quæsivi bona tibi.  ",
+      "hebrew_masoretic": "לְ֭מַעַן בֵּית־יְהֹוָ֣ה אֱלֹהֵ֑ינוּ אֲבַקְשָׁ֖ה ט֣וֹב לָֽךְ׃ {פ}",
+      "douay_rheims": "Because of the house of the Lord our God, I have sought good things for thee. ",
+      "finnish_biblia": "Herran meidän Jumalamme huoneen tähden etsin minä sinun parastas.   ",
+      "swedish_karl_xii": "För HERRANS wår Gudz huus skul, wil jagh titt bästa sökia.",
+      "king_james": "Because of the house of the LORD our God I will seek thy good. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "121:9"
+        },
+        "douay_rheims": {
+          "src": "121:9"
+        }
+      }
+    }
+  ]
+}

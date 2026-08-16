@@ -1,0 +1,344 @@
+{
+  "book_id": "ACT",
+  "latin_name": "Actus Apostolorum",
+  "greek_name": "Πράξεις Ἀποστόλων",
+  "finnish_name": "Apostolien teot",
+  "swedish_name": "Apostla Hierningar, Af S. Luca beskrifna",
+  "english_name": "The Acts of the Apostles",
+  "chapter": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Factum est autem cum Apollo esset Corinthi, ut Paulus peragratis superioribus partibus veniret Ephesum, et inveniret quosdam discipulos:",
+      "greek_textus_receptus": "ἐγένετο δὲ, ἐν τῷ τὸν ἀπολλῶ εἶναι ἐν κορίνθῳ, παῦλον διελθόντα τὰ ἀνωτερικὰ μέρη ἐλθεῖν εἰς ἔφεσον καὶ εὑρών τινας μαθητάς",
+      "finnish_biblia": "Niin tapahtui, kuin Apollos oli Korintossa, että Paavali matkusti lävitse ylimaakuntain, ja tuli Ephesoon, ja löysi muutamia opetuslapsia, ",
+      "swedish_karl_xii": "Och begaf sigh, medan Apollos war i Corintho, at Paulus wandrade genom the öfra landen, och kom til Ephesum: ther fan han några Lärjungar;",
+      "king_james": "And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "dixitque ad eos: Si Spiritum Sanctum accepistis credentes? At illi dixerunt ad eum: Sed neque si Spiritus Sanctus est, audivimus.",
+      "greek_textus_receptus": "εἶπέ πρὸς αὐτούς, εἰ πνεῦμα ἅγιον ἐλάβετε πιστεύσαντες; οἱ δὲ εῖπον πρὸς αὐτόν, ἀλλ οὐδὲ εἰ πνεῦμα ἅγιον ἔστιν, ἠκούσαμεν.",
+      "finnish_biblia": "Ja sanoi heille: oletteko te saaneet Pyhän Hengen, sittenkuin te uskoitte? He sanoivat hänelle: emme ensinkään ole kuulleet, josko Pyhää Henkeä lieneekään. ",
+      "swedish_karl_xii": "Och han sade til them: Hafwen J fått then Helga Anda, sedan J trodden? Tå sade the til honom: Wij hafwe icke ens hördt, om någor Helig Ande är til.",
+      "king_james": "He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Ille vero ait: In quo ergo baptizati estis? Qui dixerunt: In Joannis baptismate.",
+      "greek_textus_receptus": "εἶπέ τε πρὸς αὐτοὺς, εἰς τί οὖν ἐβαπτίσθητε; οἱ δὲ εἶπον, εἰς τὸ ἰωάννου βάπτισμα.",
+      "finnish_biblia": "Ja hän sanoi heille: milläs te olette kastetut? He sanoivat: Johanneksen kasteella. ",
+      "swedish_karl_xii": "Och han sade til them: Hwar medh ären J tå döpte? The sade: Medh Johannis döpelse.",
+      "king_james": "And he said unto them, Unto what then were ye baptized? And they said, Unto John's baptism."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Dixit autem Paulus: Joannes baptizavit baptismo pœnitentiæ populum, dicens in eum qui venturus esset post ipsum ut crederent, hoc est, in Jesum.",
+      "greek_textus_receptus": "εἶπε δὲ παῦλος, ἰωάννης μὲν ἐβάπτισεν βάπτισμα μετανοίας, τῷ λαῷ λέγων εἰς τὸν ἐρχόμενον μετ᾽ αὐτὸν ἵνα πιστεύσωσι τουτ’ ἔστιν, εἰς τὸν χριστὸν ἰησοῦν.",
+      "finnish_biblia": "Niin sanoi Paavali: Johannes tosin kasti parannuksen kasteella, sanoen kansalle, että heidän piti uskoman sen päälle, joka hänen jälkeensä tuleva oli, se on, Kristuksen Jesuksen päälle. ",
+      "swedish_karl_xii": "Tå sade Paulus: Johannes döpte medh bättringens döpelse, och sade folckena, at the skulle troo på then som komma skulle efter honom; thet är, på Christum Jesum:",
+      "king_james": "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "His auditis, baptizati sunt in nomine Domini Jesu.",
+      "greek_textus_receptus": "ἀκούσαντες δὲ ἐβαπτίσθησαν εἰς τὸ ὄνομα τοῦ κυρίου ἰησοῦ.",
+      "finnish_biblia": "Niin ne, jotka sen kuulivat, kastettiin Herran Jesuksen nimeen. ",
+      "swedish_karl_xii": "Och at, tå the thet hörde, läto the döpa sigh i Herrans Jesu namn.",
+      "king_james": "When they heard *this*, they were baptized in the name of the Lord Jesus."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Et cum imposuisset illis manus Paulus, venit Spiritus Sanctus super eos, et loquebantur linguis, et prophetabant.",
+      "greek_textus_receptus": "καὶ ἐπιθέντος αὐτοῖς τοῦ παύλου τὰς χεῖρας, ἦλθε τὸ πνεῦμα τὸ ἅγιον ἐπ᾽ αὐτούς, ἐλάλουν τε γλώσσαις καὶ προεφήτευον.",
+      "finnish_biblia": "Ja kuin Paavali pani kätensä heidän päällensä, tuli Pyhä Henki heidän päällensä, ja he puhuivat kielillä ja ennustivat. ",
+      "swedish_karl_xii": "Och tå Paulus lade händer på them, kom then Helige Ande öfwer them; och the begynte tala medh tungomål, och propheterade.",
+      "king_james": "And when Paul had laid *his* hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Erant autem omnes viri fere duodecim.",
+      "greek_textus_receptus": "ἦσαν δὲ οἱ πάντες ἄνδρες ὡσεὶ δεκαδύο.",
+      "finnish_biblia": "Ja kaikki ne miehet olivat lähes kaksitoistakymmentä. ",
+      "swedish_karl_xii": "Och alle thesse woro widh tolf män.",
+      "king_james": "And all the men were about twelve."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Introgressus autem synagogam, cum fiducia loquebatur per tres menses, disputans et suadens de regno Dei.",
+      "greek_textus_receptus": "εἰσελθὼν δὲ εἰς τὴν συναγωγὴν ἐπαῤῥησιάζετο ἐπὶ μῆνας τρεῖς διαλεγόμενος καὶ πείθων τὰ περὶ τῆς βασιλείας τοῦ θεοῦ",
+      "finnish_biblia": "Niin hän meni synagogaan ja saarnasi rohkiasti kolme kuukautta, opetti ja neuvoi heitä Jumalan valtakunnasta. ",
+      "swedish_karl_xii": "Och han gick in i Synagogon, och talade dristeliga i tre månader, disputerade och rådde til Gudz rike.",
+      "king_james": "And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Cum autem quidam indurarentur, et non crederent, maledicentes viam Domini coram multitudine, discedens ab eis, segregavit discipulos, quotidie disputans in schola tyranni cujusdam.",
+      "greek_textus_receptus": "ὡς δέ τινες ἐσκληρύνοντο καὶ ἠπείθουν κακολογοῦντες τὴν ὁδὸν ἐνώπιον τοῦ πλήθους ἀποστὰς ἀπ᾽ αὐτῶν ἀφώρισεν τοὺς μαθητάς καθ᾽ ἡμέραν διαλεγόμενος ἐν τῇ σχολῇ τυράννου τινός",
+      "finnish_biblia": "Mutta kuin muutamat heistä paatuivat ja ei uskoneet, vaan panettelivat Herran tietä yhteiselle kansalle, meni hän pois heidän tyköänsä, ja eroitti opetuslapset, ja puhui joka päivä yhden miehen koulussa, joka kutsuttiin Tyrannus. ",
+      "swedish_karl_xii": "Och efter thet någre af them wordo förhärde, och icke trodde, vtan talade illa om then wägen för then meniga man, gick han ifrå them, och afskilde Lärjungarna, disputerandes dageliga vthi ens mans schola, som heet Tyrannus.",
+      "king_james": "But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Hoc autem factum est per biennium, ita ut omnes qui habitabant in Asia audirent verbum Domini, Judæi atque gentiles.",
+      "greek_textus_receptus": "τοῦτο δὲ ἐγένετο ἐπὶ ἔτη δύο ὥστε πάντας τοὺς κατοικοῦντας τὴν ἀσίαν ἀκοῦσαι τὸν λόγον τοῦ κυρίου ἰησοῦ, ἰουδαίους τε καὶ ἕλληνας",
+      "finnish_biblia": "Ja sitä tehtiin kaksi ajastaikaa, niin että kaikki ne, jota Asiassa asuivat, saivat kuulla Herran Jesuksen sanan, sekä Juudalaiset että Grekiläiset. ",
+      "swedish_karl_xii": "Och thetta gick så til i tw åhr: så at alle the som bodde i Asien, hörde Herrans Jesu ord, både Judar och Greker.",
+      "king_james": "And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Virtutesque non quaslibet faciebat Deus per manum Pauli,",
+      "greek_textus_receptus": "δυνάμεις τε οὐ τὰς τυχούσας ἐποίει ὁ θεὸς διὰ τῶν χειρῶν παύλου",
+      "finnish_biblia": "Ja Jumala teki Paavalin kätten kautta ei vähiä voimallisia töitä, ",
+      "swedish_karl_xii": "Och Gudh giorde icke ringa krafter genom Pauli händer:",
+      "king_james": "And God wrought special miracles by the hands of Paul:"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "ita ut etiam super languidos deferrentur a corpore ejus sudaria et semicinctia, et recedebant ab eis languores, et spiritus nequam egrediebantur.",
+      "greek_textus_receptus": "ὥστε καὶ ἐπὶ τοὺς ἀσθενοῦντας ἐπιφέρεσθαι ἀπὸ τοῦ χρωτὸς αὐτοῦ σουδάρια ἢ σιμικίνθια καὶ ἀπαλλάσσεσθαι ἀπ᾽ αὐτῶν τὰς νόσους τά τε πνεύματα τὰ πονηρὰ ἐξέρχεσθαι ἀπ᾽ αὐτῶν",
+      "finnish_biblia": "Niin että hikiliinat ja esiliinat hänen iholtansa sairasten päälle tuotiin, ja taudit luopuivat heistä, ja pahat henget heistä läksivät ulos. ",
+      "swedish_karl_xii": "Så at the ock togo swettedukar och skiörte, som widh hans krop hade kommet, och lade på the siuka: och siukdomen gick vthaf them, och the onde andar foro vth.",
+      "king_james": "So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Tentaverunt autem quidam et de circumeuntibus Judæis exorcistis invocare super eos qui habebant spiritus malos nomen Domini Jesu, dicentes: Adjuro vos per Jesum, quem Paulus prædicat.",
+      "greek_textus_receptus": "ἐπεχείρησαν δέ τινες ἀπὸ τῶν περιερχομένων ἰουδαίων ἐξορκιστῶν ὀνομάζειν ἐπὶ τοὺς ἔχοντας τὰ πνεύματα τὰ πονηρὰ τὸ ὄνομα τοῦ κυρίου ἰησοῦ λέγοντες ὁρκίζομεν ὑμᾶς τὸν ἰησοῦν ὃν ὁ παῦλος κηρύσσει",
+      "finnish_biblia": "Niin muutamat Juudalaiset, jotka olivat lumoojat, vaelsivat ympäri, ja kiusasivat mainita Herran Jesuksen nimeä niiden päälle, joilla pahat henget olivat, ja sanoivat: me vannotamme teitä Jesuksen puolesta, jota Paavali saarnaa. ",
+      "swedish_karl_xii": "Så woro någre Judar beswärjare, som foro omkring, the togo sigh före åkalla Herrans Jesu namn, öfwer them som hade the onda andar, säijande: Wij beswärje eder widh Jesum, then Paulus predikar.",
+      "king_james": "Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Erant autem quidam Judæi, Scevæ principis sacerdotum septem filii, qui hoc faciebant.",
+      "greek_textus_receptus": "ἦσαν δέ τινές υἱοὶ σκευᾶ ἰουδαίου ἀρχιερέως ἑπτὰ οἱ τοῦτο ποιοῦντες",
+      "finnish_biblia": "Ja muutamat niiden seassa, jotka tätä tekivät, olivat Skevan, Juudalaisten ylimmäisen papin, seitsemän poikaa. ",
+      "swedish_karl_xii": "Och ibland them som thetta giorde, woro en Judes siu söner, Scewe öfwersta Prestens.",
+      "king_james": "And there were seven sons of *one* Sceva, a Jew, *and* chief of the priests, which did so."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Respondens autem spiritus nequam dixit eis: Jesum novi, et Paulum scio: vos autem qui estis?",
+      "greek_textus_receptus": "ἀποκριθὲν δὲ τὸ πνεῦμα τὸ πονηρὸν εἶπεν τὸν ἰησοῦν γινώσκω καὶ τὸν παῦλον ἐπίσταμαι ὑμεῖς δὲ τίνες ἐστέ",
+      "finnish_biblia": "Mutta paha henki vastasi ja sanoi: Jesuksen minä tunnen, ja Paavalin minä tiedän, mutta mitkä te olette? ",
+      "swedish_karl_xii": "Tå swarade then onde anden, och sade: Jesum känner jagh wäl, och Paulum weet jagh wäl; men ho ären J?",
+      "king_james": "And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Et insiliens in eos homo, in quo erat dæmonium pessimum, et dominatus amborum, invaluit contra eos, ita ut nudi et vulnerati effugerent de domo illa.",
+      "greek_textus_receptus": "καὶ ἐφαλλόμενος ἐπ᾽ αὐτοὺς ὁ ἄνθρωπος ἐν ᾧ ἦν τὸ πνεῦμα τὸ πονηρὸν καὶ κατακυριεύσας αὐτῶν ἴσχυσεν κατ᾽ αὐτῶν, ὥστε γυμνοὺς καὶ τετραυματισμένους ἐκφυγεῖν ἐκ τοῦ οἴκου ἐκείνου",
+      "finnish_biblia": "Ja ihminen, jossa paha henki oli, karkasi heidän päällensä, ja voitti heidät ja paiskasi heidät allensa, niin, että he alasti ja haavoitettuna pääsivät siitä huoneesta ulos pakenemaan. ",
+      "swedish_karl_xii": "Och mannen som then onde anden vthi war, språng vppå them, och wardt them öfwermächtig; och kastade them vnder sigh, så at the nakne och sargade vndflydde vthaf thet huset.",
+      "king_james": "And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Hoc autem notum factum est omnibus Judæis, atque gentilibus qui habitabant Ephesi: et cecidit timor super omnes illos, et magnificabatur nomen Domini Jesu.",
+      "greek_textus_receptus": "τοῦτο δὲ ἐγένετο γνωστὸν πᾶσιν ἰουδαίοις τε καὶ ἕλλησιν τοῖς κατοικοῦσιν τὴν ἔφεσον καὶ ἐπέπεσεν φόβος ἐπὶ πάντας αὐτούς καὶ ἐμεγαλύνετο τὸ ὄνομα τοῦ κυρίου ἰησοῦ",
+      "finnish_biblia": "Ja tämä tuli tiettäväksi sekä kaikille Juudalaisille että Grekiläisille, jotka Ephesossa asuivat, ja pelko tuli kaikkein päälle ja Herran Jesuksen nimi suuresti ylistettiin. ",
+      "swedish_karl_xii": "Och thetta wardt allom wetterligit, både Judom och Grekom som bodde i Epheso: och en räddhoge föll öfwer them alla, och Herrans Jesu namn wardt storliga prisat.",
+      "king_james": "And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Multique credentium veniebant, confitentes et annuntiantes actus suos.",
+      "greek_textus_receptus": "πολλοί τε τῶν πεπιστευκότων ἤρχοντο ἐξομολογούμενοι καὶ ἀναγγέλλοντες τὰς πράξεις αὐτῶν",
+      "finnish_biblia": "Ja tuli myös monta niistä, jotka uskoivat, tunnustivat ja ilmoittivat tekonsa. ",
+      "swedish_karl_xii": "Och månge af them som trodde, kommo och bekände, och förkunnade hwad the vthrättat hade.",
+      "king_james": "And many that believed came, and confessed, and shewed their deeds."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Multi autem ex eis, qui fuerant curiosa sectati, contulerunt libros, et combusserunt coram omnibus: et computatis pretiis illorum, invenerunt pecuniam denariorum quinquaginta millium.",
+      "greek_textus_receptus": "ἱκανοὶ δὲ τῶν τὰ περίεργα πραξάντων συνενέγκαντες τὰς βίβλους κατέκαιον ἐνώπιον πάντων καὶ συνεψήφισαν τὰς τιμὰς αὐτῶν καὶ εὗρον ἀργυρίου μυριάδας πέντε",
+      "finnish_biblia": "Ja monta niistä, jotka hempeitä juonia harjoitelleet olivat, toivat kirjat ja polttivat kaikkein nähden. Ja kuin niiden hinnat laskettu oli, niin löydettiin viisikymmentä tuhatta hopiapenninkiä. ",
+      "swedish_karl_xii": "Men månge af them som förwetna kånster brukat hade, båro fram böckerna, och brände vp i hwars mans åsyn: och tå theras wärde räknat wardt, wardt thet funnet til femtijo tusend penningar.",
+      "king_james": "Many of them also which used curious arts brought their books together, and burned them before all *men*: and they counted the price of them, and found *it* fifty thousand *pieces* of silver."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Ita fortiter crescebat verbum Dei, et confirmabatur.",
+      "greek_textus_receptus": "οὕτως κατὰ κράτος ὁ λόγος τοῦ κυρίου ηὔξανεν καὶ ἴσχυεν",
+      "finnish_biblia": "Niin voimallisesti kasvoi Herran sana ja vahvistui. ",
+      "swedish_karl_xii": "Så fast wäxte tå Herrans ord, och kom til macht.",
+      "king_james": "So mightily grew the word of God and prevailed."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "His autem expletis, proposuit Paulus in Spiritu, transita Macedonia et Achaia, ire Jerosolymam, dicens: Quoniam postquam fuero ibi, oportet me et Romam videre.",
+      "greek_textus_receptus": "ὡς δὲ ἐπληρώθη ταῦτα ἔθετο ὁ παῦλος ἐν τῷ πνεύματι διελθὼν τὴν μακεδονίαν καὶ ἀχαΐαν πορεύεσθαι εἰς ἱερουσάλημ, εἰπὼν ὅτι μετὰ τὸ γενέσθαι με ἐκεῖ δεῖ με καὶ ῥώμην ἰδεῖν",
+      "finnish_biblia": "Kuin nämät toimitetut olivat, aikoi Paavali hengessä Makedonian ja Akajan lävitse vaeltaa Jerusalemiin, sanoen: sittekuin minä siellä ollut olen, täytyy minun myös Roomiin mennä. ",
+      "swedish_karl_xii": "Tå thetta skedt war, satte Paulus sigh före i Andanom, at fara genom Macedonien och Achaia til Jerusalem, säijandes: När jagh hafwer warit ther, måste jagh ock see Rom.",
+      "king_james": "After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Mittens autem in Macedoniam duos ex ministrantibus sibi, Timotheum et Erastum, ipse remansit ad tempus in Asia.",
+      "greek_textus_receptus": "ἀποστείλας δὲ εἰς τὴν μακεδονίαν δύο τῶν διακονούντων αὐτῷ τιμόθεον καὶ ἔραστον αὐτὸς ἐπέσχεν χρόνον εἰς τὴν ἀσίαν",
+      "finnish_biblia": "Niin hän lähetti Makedoniaan kaksi niistä, jotka häntä palvelivat, Timoteuksen ja Erastuksen, mutta itse hän jäi hetkeksi aikaa Asiaan. ",
+      "swedish_karl_xii": "Tå sände han til Macedonien, twå af them som honom tiente, nemliga Timotheum, och Erastum; men sielf blef han qwar til en tijd i Asien.",
+      "king_james": "So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Facta est autem illo tempore turbatio non minima de via Domini.",
+      "greek_textus_receptus": "ἐγένετο δὲ κατὰ τὸν καιρὸν ἐκεῖνον τάραχος οὐκ ὀλίγος περὶ τῆς ὁδοῦ",
+      "finnish_biblia": "Mutta sillä ajalla nousi ei vähin kapina siitä tiestä. ",
+      "swedish_karl_xii": "På then tiden wardt icke litet buller om then wägen.",
+      "king_james": "And the same time there arose no small stir about that way."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Demetrius enim quidam nomine, argentarius, faciens ædes argenteas Dianæ, præstabat artificibus non modicum quæstum:",
+      "greek_textus_receptus": "δημήτριος γάρ τις ὀνόματι ἀργυροκόπος ποιῶν ναοὺς ἀργυροῦς ἀρτέμιδος παρείχετο τοῖς τεχνίταις ἐργασίαν οὐκ ὀλίγην",
+      "finnish_biblia": "Sillä hopiaseppä, Demetrius nimeltä, teki hopiaisia Diana-templiä, josta niille, jotka sitä ammattia pitivät, oli ei vähin voitto. ",
+      "swedish_karl_xii": "Ty thet war en guldsmed, benämnd Demetrius, som giorde silftempel til Diana, ther the en stoor winning af hade, som thet handwerck brukade:",
+      "king_james": "For a certain *man* named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "quos convocans, et eos qui hujusmodi erant opifices, dixit: Viri, scitis quia de hoc artificio est nobis acquisitio:",
+      "greek_textus_receptus": "οὓς συναθροίσας καὶ τοὺς περὶ τὰ τοιαῦτα ἐργάτας εἶπεν ἄνδρες ἐπίστασθε ὅτι ἐκ ταύτης τῆς ἐργασίας ἡ εὐπορία ἡμῶν ἐστιν",
+      "finnish_biblia": "Ne hän kutsui kokoon, ja jotka senkaltaista työtä tekivät, ja sanoi: miehet, te tiedätte, että meillä on tästä työstä jalo voitto, ",
+      "swedish_karl_xii": "Hwilka han tilhopa kallade, och the ther slijkt arbete plägade bruka, och sade: J män, J weten at wij hafwe wår näring af thetta handwercket:",
+      "king_james": "Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "et videtis et auditis quia non solum Ephesi, sed pene totius Asiæ, Paulus hic suadens avertit multam turbam, dicens: Quoniam non sunt dii, qui manibus fiunt.",
+      "greek_textus_receptus": "καὶ θεωρεῖτε καὶ ἀκούετε ὅτι οὐ μόνον ἐφέσου ἀλλὰ σχεδὸν πάσης τῆς ἀσίας ὁ παῦλος οὗτος πείσας μετέστησεν ἱκανὸν ὄχλον λέγων ὅτι οὐκ εἰσὶν θεοὶ οἱ διὰ χειρῶν γινόμενοι",
+      "finnish_biblia": "Ja te näette ja kuulette, ettei ainoasti Ephesossa, mutta lähes kaikessa Asiassa on tämä Paavali uskottanut ja kääntänyt pois paljon kansaa, sanoen, ettei ne ole jumalat, joita ihmisten käsillä tehdään, ",
+      "swedish_karl_xii": "Och J seen och hören, at thenne Paulus hafwer bedragit eij allenast i Epheso, vtan så när i hela Asien, och förwändt mycket folck, säijandes, at thet är icke gudar, som giöras medh menniskio händer.",
+      "king_james": "Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Non solum autem hæc periclitabitur nobis pars in redargutionem venire, sed et magnæ Dianæ templum in nihilum reputabitur, sed et destrui incipiet majestas ejus, quam tota Asia et orbis colit.",
+      "greek_textus_receptus": "οὐ μόνον δὲ τοῦτο κινδυνεύει ἡμῖν τὸ μέρος εἰς ἀπελεγμὸν ἐλθεῖν ἀλλὰ καὶ τὸ τῆς μεγάλης θεᾶς ἀρτέμιδος ἱερὸν εἰς οὐδὲν λογισθῆναι μέλλειν δὲ καὶ καθαιρεῖσθαι τήν μεγαλειότητα αὐτῆς ἣν ὅλη ἡ ἀσία καὶ ἡ οἰκουμένη σέβεται",
+      "finnish_biblia": "Niin ei ainoasti vaara ole, että tämä meidän elatuksemme häpiään joutuisi, vaan myös että suuren naisjumalan Dianan tepliä ei minäkään pidettäisi ja hänen korkia kunniansa hukkuisi, jota koko Asia ja kaikki maailma palvelee. ",
+      "swedish_karl_xii": "Och warder icke allenast gällandes then delen af wårt handwerck, at thet nederlägs; vtan jemwål ock at then stora gudinnones Diane tempel, warder för intet hållet: och måtte tå skee, at hennes härlighet afkommer, then doch hela Asien och hela werlden dyrkar.",
+      "king_james": "So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "His auditis, repleti sunt ira, et exclamaverunt dicentes: Magna Diana Ephesiorum.",
+      "greek_textus_receptus": "ἀκούσαντες δὲ καὶ γενόμενοι πλήρεις θυμοῦ ἔκραζον λέγοντες μεγάλη ἡ ἄρτεμις ἐφεσίων",
+      "finnish_biblia": "Mutta kuin he nämät kuulivat, tulivat he täyteen vihaa ja huusivat, sanoen: suuri on Ephesiläisten Diana! ",
+      "swedish_karl_xii": "När the thetta hörde, wordo the fulle medh wrede, och ropade, säijande: Stoor är the Ephesiers Diana.",
+      "king_james": "And when they heard *these sayings*, they were full of wrath, and cried out, saying, Great *is* Diana of the Ephesians."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Et impleta est civitas confusione, et impetum fecerunt uno animo in theatrum, rapto Gajo et Aristarcho Macedonibus, comitibus Pauli.",
+      "greek_textus_receptus": "καὶ ἐπλήσθη ἡ πόλις ὅλη συγχύσεως ὥρμησάν τε ὁμοθυμαδὸν εἰς τὸ θέατρον συναρπάσαντες γάϊον καὶ ἀρίσταρχον μακεδόνας συνεκδήμους τοῦ παύλου",
+      "finnish_biblia": "Ja kaikki kaupunki tuli meteliä täyteen, ja he karkasivat yksimielisesti katseluspaikkaan, ja ottivat kiinni Gajuksen ja Aristarkuksen, jotka olivat Makedoniasta Paavalin matkakumppanit. ",
+      "swedish_karl_xii": "Och i hela staden wardt ett vplop: och the föllo hasteliga til, alle medh ett modh in på skådoplatsen, och togo fatt på Gaius, och Aristarchus, som woro af Macedonien, och af Pauli sällskap.",
+      "king_james": "And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul's companions in travel, they rushed with one accord into the theatre."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Paulo autem volente intrare in populum, non permiserunt discipuli.",
+      "greek_textus_receptus": "τοῦ δὲ παύλου βουλομένου εἰσελθεῖν εἰς τὸν δῆμον οὐκ εἴων αὐτὸν οἱ μαθηταί",
+      "finnish_biblia": "Mutta kuin Paavali tahtoi kansan sekaan mennä, niin ei opetuslapset häntä laskeneet. ",
+      "swedish_karl_xii": "Och Paulus wille gånget in i hopen til folcket: tå wille Lärjungarna thet icke tilstädia.",
+      "king_james": "And when Paul would have entered in unto the people, the disciples suffered him not."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Quidam autem et de Asiæ principibus, qui erant amici ejus, miserunt ad eum rogantes ne se daret in theatrum:",
+      "greek_textus_receptus": "τινὲς δὲ καὶ τῶν ἀσιαρχῶν ὄντες αὐτῷ φίλοι πέμψαντες πρὸς αὐτὸν παρεκάλουν μὴ δοῦναι ἑαυτὸν εἰς τὸ θέατρον",
+      "finnish_biblia": "Ja muutamat päämiehet Asiasta, jotka hänen ystävänsä olivat, lähettivät hänen tykönsä ja rukoilivat, ettei hänen pitänyt katseluspaikkaan itsiänsä antaman. ",
+      "swedish_karl_xii": "Sände ock någre af the Öfwersta i Asien, som hans wänner woro, til honom, och bådo, at han skulle icke gifwa sigh in på platsen.",
+      "king_james": "And certain of the chief of Asia, which were his friends, sent unto him, desiring *him* that he would not adventure himself into the theatre."
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "alii autem aliud clamabant. Erat enim ecclesia confusa: et plures nesciebant qua ex causa convenissent.",
+      "greek_textus_receptus": "ἄλλοι μὲν οὖν ἄλλο τι ἔκραζον ἦν γὰρ ἡ ἐκκλησία συγκεχυμένη καὶ οἱ πλείους οὐκ ᾔδεισαν τίνος ἕνεκεν συνεληλύθεισαν",
+      "finnish_biblia": "Ja muutamat muuta huusivat, niin että joukko oli peräti sekaseuraisin, ja enin osa ei tietänyt, minkätähden he olivat tulleet kokoon. ",
+      "swedish_karl_xii": "Och andre ropade annat: ty menigheten war förbistrad, och mästa delen wiste icke, för hwad saak the woro församlade.",
+      "king_james": "Some therefore cried one thing, and some another: for the assembly was confused; and the more part knew not wherefore they were come together."
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "De turba autem detraxerunt Alexandrum, propellentibus eum Judæis. Alexander autem manu silentio postulato, volebat reddere rationem populo.",
+      "greek_textus_receptus": "ἐκ δὲ τοῦ ὄχλου προεβίβασαν ἀλέξανδρον προβαλόντων αὐτὸν τῶν ἰουδαίων ὁ δὲ ἀλέξανδρος κατασείσας τὴν χεῖρα ἤθελεν ἀπολογεῖσθαι τῷ δήμῳ",
+      "finnish_biblia": "Niin väkijoukosta vedettiin edes Aleksanteri, jonka Juudalaiset eteen syöksivät. Ja Aleksanteri viittasi kädellänsä, ja tahtoi edestänsä vastata kansan edessä. ",
+      "swedish_karl_xii": "Och somlige af folcket drogo Alexandrum fram, then Judarna framstötte. Tå teknade Alexander medh handene, at the skulle wara tyste, och achtade förswara sigh för folcket.",
+      "king_james": "And they drew Alexander out of the multitude, the Jews putting him forward. And Alexander beckoned with the hand, and would have made his defence unto the people."
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "Quem ut cognoverunt Judæum esse, vox facta una est omnium, quasi per horas duas clamantium: Magna Diana Ephesiorum.",
+      "greek_textus_receptus": "ἐπιγνόντων δὲ ὅτι ἰουδαῖός ἐστιν φωνὴ ἐγένετο μία ἐκ πάντων ὡς ἐπὶ ὥρας δύο κραζόντων μεγάλη ἡ ἄρτεμις ἐφεσίων",
+      "finnish_biblia": "Kuin he siis ymmärsivät, että hän Juudalainen oli, huusivat he kaikki yhteen suuhun, lähes kaksi hetkeä, ja sanoivat: suuri on Ephesiläisten Diana! ",
+      "swedish_karl_xii": "När the förnummo, at han war en Jude, ropade the alle medh en mun, så när i twå timar, säijande: Stoor är the Ephesiers Diana.",
+      "king_james": "But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great *is* Diana of the Ephesians."
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "Et cum sedasset scriba turbas, dixit: Viri Ephesii, quis enim est hominum, qui nesciat Ephesiorum civitatem cultricem esse magnæ Dianæ, Jovisque prolis?",
+      "greek_textus_receptus": "καταστείλας δὲ ὁ γραμματεὺς τὸν ὄχλον φησίν ἄνδρες ἐφέσιοι τίς γάρ ἐστιν ἄνθρωπος ὃς οὐ γινώσκει τὴν ἐφεσίων πόλιν νεωκόρον οὖσαν τῆς μεγάλης θεᾶς ἀρτέμιδος καὶ τοῦ διοπετοῦς",
+      "finnish_biblia": "Mutta kuin kansleri oli hillinnyt kansan, sanoi hän: Epheson miehet! kuka on se ihminen, joka ei tiedä, että Epheson kaupunki palvelee suurta Dianaa ja taivaista pudonnutta kuvaa? ",
+      "swedish_karl_xii": "Tå Canceleren hade stillat folcket, sade han: J män af Epheso, ho är then menniskia som icke weet, at Ephesiers stadh dyrkar then stora gudinnan Diana, och thet beläte som af himmelen nederkommet är?",
+      "king_james": "And when the townclerk had appeased the people, he said, *Ye* men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the *image* which fell down from Jupiter?"
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "Cum ergo his contradici non possit, oportet vos sedatos esse, et nihil temere agere.",
+      "greek_textus_receptus": "ἀναντιῤῥήτων οὖν ὄντων τούτων δέον ἐστὶν ὑμᾶς κατεσταλμένους ὑπάρχειν καὶ μηδὲν προπετὲς πράττειν",
+      "finnish_biblia": "Koska ei siis taideta sanoa sitä vastaan, niin asettakaat teitänne ja älkäät mitään tyhmiä tehkö. ",
+      "swedish_karl_xii": "Så efter ther säger ingen emot, måsten J stilla eder, och intet orådeligit företaga.",
+      "king_james": "Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly."
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "Adduxistis enim homines istos, neque sacrilegos, neque blasphemantes deam vestram.",
+      "greek_textus_receptus": "ἠγάγετε γὰρ τοὺς ἄνδρας τούτους οὔτε ἱεροσύλους οὔτε βλασφημοῦντας τὴν θεὰν ὑμῶν",
+      "finnish_biblia": "Sillä te olette nämät miehet vetäneet edes, jotka ei ole kirkon varkaita eikä teidän jumalanne pilkkaajia. ",
+      "swedish_karl_xii": "J hafwen dragit thessa männerna fram, som hwarken äro kyrkioröfware, eller edor gudinnos försmädare.",
+      "king_james": "For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess."
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "Quod si Demetrius et qui cum eo sunt artifices, habent adversus aliquem causam, conventus forenses aguntur, et proconsules sunt: accusent invicem.",
+      "greek_textus_receptus": "εἰ μὲν οὖν δημήτριος καὶ οἱ σὺν αὐτῷ τεχνῖται πρός τινα λόγον ἔχουσιν ἀγοραῖοι ἄγονται καὶ ἀνθύπατοί εἰσιν ἐγκαλείτωσαν ἀλλήλοις",
+      "finnish_biblia": "Jos siis Demetriuksella ja niillä, jotka hänen kanssansa työkumppanit ovat, on jonkun kanssa asiaa, niin pidetään laki ja oikeus; ovat myös maanvanhimmat: kantakaan toinen toisensa päälle. ",
+      "swedish_karl_xii": "Om Demetrius, och the medh honom äro af hans handwerck, hafwa saak emot någon, så hafwer man Rådh, och rättgång, och fogtar: ther må the klaga och swara hwar annan.",
+      "king_james": "Wherefore if Demetrius, and the craftsmen which are with him, have a matter against any man, the law is open, and there are deputies: let them implead one another."
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": "Si quid autem alterius rei quæritis, in legitima ecclesia poterit absolvi.",
+      "greek_textus_receptus": "εἰ δέ τι πὲρι ἑτέρων ἐπιζητεῖτε ἐν τῇ ἐννόμῳ ἐκκλησίᾳ ἐπιλυθήσεται",
+      "finnish_biblia": "Mutta jos teillä on riita muista asioista, niin ratkaistakoon asia laillisessa kokouksessa. ",
+      "swedish_karl_xii": "Men hafwen J om något annat handla, tå må thet åthskiljas vthi någon tilbörlig samqwämd.",
+      "king_james": "But if ye enquire any thing concerning other matters, it shall be determined in a lawful assembly."
+    },
+    {
+      "verse": 40,
+      "latin_vulgate": "Nam et periclitamur argui seditionis hodiernæ, cum nullus obnoxius sit de quo possimus reddere rationem concursus istius.",
+      "greek_textus_receptus": "καὶ γὰρ κινδυνεύομεν ἐγκαλεῖσθαι στάσεως περὶ τῆς σήμερον μηδενὸς αἰτίου ὑπάρχοντος περὶ οὗ δυνησόμεθα ἀποδοῦναι λόγον τῆς συστροφῆς ταύτης",
+      "finnish_biblia": "Sillä vaara on, että me nuhteesen tulemme tämänpäiväisen kapinan tähden, koska ei yhtään syytä ole, josta me taitaisimme tämän metelin tähden tilin tehdä. ",
+      "swedish_karl_xii": "Ty thet är fahra, at wij komme i skul, för thet vplop som i dagh skedt är, efter ingen saak på färde är, ther wij kunne någon skiäl af taga til thetta vplop. Och tå han thet sagt hade, lät han folcket gå.",
+      "king_james": "For we are in danger to be called in question for this day's uproar, there being no cause whereby we may give an account of this concourse."
+    },
+    {
+      "verse": 41,
+      "latin_vulgate": "Et cum hæc dixisset, dimisit ecclesiam.",
+      "greek_textus_receptus": "καί ταῦτά εἰπών ἀπέλυσεν τήν ἐκκλησίαν",
+      "finnish_biblia": "Ja kuin hän nämät sanonut oli, laski hän kansan menemään.   ",
+      "swedish_karl_xii": "",
+      "king_james": "And when he had thus spoken, he dismissed the assembly.",
+      "refs": {
+        "swedish_karl_xii": {
+          "absent": true
+        }
+      }
+    }
+  ]
+}

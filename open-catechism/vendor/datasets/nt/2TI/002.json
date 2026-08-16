@@ -1,0 +1,219 @@
+{
+  "book_id": "2TI",
+  "latin_name": "Epistula II ad Timotheum",
+  "greek_name": "Πρὸς Τιμόθεον Β",
+  "finnish_name": "Toinen kirje Timoteukselle",
+  "swedish_name": "S. Pauli Epistel then andra Til Timotheum",
+  "english_name": "The Second Epistle of Paul the Apostle to Timothy",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Tu ergo fili mi, confortare in gratia, quæ est in Christo Jesu:",
+      "greek_textus_receptus": "σὺ οὖν τέκνον μου ἐνδυναμοῦ ἐν τῇ χάριτι τῇ ἐν χριστῷ ἰησοῦ",
+      "finnish_biblia": "Vahvista siis sinus, minun poikani, sen armon kautta, joka Jesuksessa Kristuksessa on. ",
+      "swedish_karl_xii": "Så stärck tigh nu, min son, genom nådena, som är i Christo Jesu.",
+      "king_james": "Thou therefore, my son, be strong in the grace that is in Christ Jesus."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "et quæ audisti a me per multos testes, hæc commenda fidelibus hominibus, qui idonei erant et alios docere.",
+      "greek_textus_receptus": "καὶ ἃ ἤκουσας παρ᾽ ἐμοῦ διὰ πολλῶν μαρτύρων ταῦτα παράθου πιστοῖς ἀνθρώποις οἵτινες ἱκανοὶ ἔσονται καὶ ἑτέρους διδάξαι",
+      "finnish_biblia": "Ja mitä sinä olet minulta monen todistajan kautta kuullut, niin käske uskollisille ihmisille, jotka myös muita olisivat soveliaat opettamaan. ",
+      "swedish_karl_xii": "Och hwad tu af migh hördt hafwer genom mång witne, thet befalla trogna menniskior, som ock duglige äro at lära andra.",
+      "king_james": "And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Labora sicut bonus miles Christi Jesu.",
+      "greek_textus_receptus": "σὺ οὖν κακοπάθησον ὡς καλὸς στρατιώτης ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Kärsi vaivaa niinkuin luja Jesuksen Kristuksen sotamies. ",
+      "swedish_karl_xii": "Lid och vmgäll såsom en godh Jesu Christi stridzman.",
+      "king_james": "Thou therefore endure hardness, as a good soldier of Jesus Christ."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Nemo militans Deo implicat se negotiis sæcularibus: ut ei placeat, cui se probavit.",
+      "greek_textus_receptus": "οὐδεὶς στρατευόμενος ἐμπλέκεται ταῖς τοῦ βίου πραγματείαις ἵνα τῷ στρατολογήσαντι ἀρέσῃ",
+      "finnish_biblia": "Ei yksikään sotamies sekoita itsiänsä elatuksen menoihin, sille kelvataksensa, joka hänen sotaan ottanut on. ",
+      "swedish_karl_xii": "Jngen stridzman befattar sigh medh närings handel: på thet han skal täckias honom, som honom til en stridzman vptagit hafwer.",
+      "king_james": "No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Nam et qui certat in agone, non coronatur nisi legitime certaverit.",
+      "greek_textus_receptus": "ἐὰν δὲ καὶ ἀθλῇ τις οὐ στεφανοῦται ἐὰν μὴ νομίμως ἀθλήσῃ",
+      "finnish_biblia": "Ja jos joku kilvoittelee, niin ei hän kruunata, ellei hän toimellisesti kilvoittele. ",
+      "swedish_karl_xii": "Hwar ock nu någor kämpar, han krönes icke, vtan han redeliga kämpar.",
+      "king_james": "And if a man also strive for masteries, yet is he not crowned, except he strive lawfully."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Laborantem agricolam oportet primum de fructibus percipere.",
+      "greek_textus_receptus": "τὸν κοπιῶντα γεωργὸν δεῖ πρῶτον τῶν καρπῶν μεταλαμβάνειν",
+      "finnish_biblia": "Peltomiehen, joka pellon rakentaa, pitää ensin hedelmästä nautitseman. ",
+      "swedish_karl_xii": "Åkermannen, som åkren brukar, honom bör först få af fruchtene.",
+      "king_james": "The husbandman that laboureth must be first partaker of the fruits."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Intellige quæ dico: dabit enim tibi Dominus in omnibus intellectum.",
+      "greek_textus_receptus": "νόει α λέγω δῴη γάρ σοι ὃ κύριος σύνεσιν ἐν πᾶσιν",
+      "finnish_biblia": "Ymmärrä, mitä minä sanon: Herra antakoon sinulle ymmärryksen kaikissa; ",
+      "swedish_karl_xii": "Märck hwad jagh säger: men Herren skal gifwa tigh i all ting förstånd.",
+      "king_james": "Consider what I say; and the Lord give thee understanding in all things."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Memor esto Dominum Jesum Christum resurrexisse a mortuis ex semine David, secundum Evangelium meum,",
+      "greek_textus_receptus": "μνημόνευε ἰησοῦν χριστὸν ἐγηγερμένον ἐκ νεκρῶν ἐκ σπέρματος δαβίδ κατὰ τὸ εὐαγγέλιόν μου",
+      "finnish_biblia": "Muista Jesuksen Kristuksen päälle, joka kuolleista noussut on: Davidin siemenestä minun evankeliumini jälkeen, ",
+      "swedish_karl_xii": "Tänck på Jesum Christum, som är vpstånden ifrå the döda, af Davidz sädh, efter mitt Evangelium:",
+      "king_james": "Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "in quo laboro usque ad vincula, quasi male operans: sed verbum Dei non est alligatum.",
+      "greek_textus_receptus": "ἐν ᾧ κακοπαθῶ μέχρι δεσμῶν ὡς κακοῦργος ἀλλ᾽ ὁ λόγος τοῦ θεοῦ οὐ δέδεται",
+      "finnish_biblia": "Jossa minä vaivaa kärsin kahleisiin asti niinkuin pahantekiä; vaan ei Jumalan sana ole sidottu. ",
+      "swedish_karl_xii": "Vthi hwilket jagh bedröfwelse lider in til boijor, såsom en ogierningsman: men Gudz ord är icke bundet.",
+      "king_james": "Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Ideo omnia sustineo propter electos, ut et ipsi salutem consequantur, quæ est in Christo Jesu, cum gloria cælesti.",
+      "greek_textus_receptus": "διὰ τοῦτο πάντα ὑπομένω διὰ τοὺς ἐκλεκτούς ἵνα καὶ αὐτοὶ σωτηρίας τύχωσιν τῆς ἐν χριστῷ ἰησοῦ μετὰ δόξης αἰωνίου",
+      "finnish_biblia": "Sentähden minä kärsin kaikki valittuin tähden, että hekin saisivat Jesuksessa Kristuksessa autuuden, ijankaikkisen kunnian kanssa. ",
+      "swedish_karl_xii": "Therföre lider jagh thet alt, för the vthkorada skul, at the skola ock få salighet i Christo Jesu, medh ewiga härlighet.",
+      "king_james": "Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Fidelis sermo: nam si commortui sumus, et convivemus:",
+      "greek_textus_receptus": "πιστὸς ὁ λόγος εἰ γὰρ συναπεθάνομεν καὶ συζήσομεν",
+      "finnish_biblia": "Se on totinen sana: jos me ynnä olemme kuolleet, niin me myös ynnä elämme; ",
+      "swedish_karl_xii": "Thet är ju ett fast ord: Döö wij medh, så skole wij lefwa medh:",
+      "king_james": "It is a faithful saying: For if we be dead with him, we shall also live with him:"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "si sustinebimus, et conregnabimus: si negaverimus, et ille negabit nos:",
+      "greek_textus_receptus": "εἰ ὑπομένομεν καὶ συμβασιλεύσομεν εἰ ἀρνούμεθα κἀκεῖνος ἀρνήσεται ἡμᾶς",
+      "finnish_biblia": "Jos me kärsimme, niin me myös ynnä hallitsemme; jos me hänen kiellämme, niin hän meidätkin kieltää; ",
+      "swedish_karl_xii": "Lide wij, så skole wij medh regnera: om wij försake honom, så försaker ock han oß.",
+      "king_james": "If we suffer, we shall also reign with him : if we deny him, he also will deny us:"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "si non credimus, ille fidelis permanet, negare seipsum non potest.",
+      "greek_textus_receptus": "εἰ ἀπιστοῦμεν ἐκεῖνος πιστὸς μένει ἀρνήσασθαι ἑαυτὸν οὐ δύναται",
+      "finnish_biblia": "Ellemme usko, niin hän pysyy kuitenkin uskollisena, joka ei itsiänsä kieltää taida. ",
+      "swedish_karl_xii": "Troo wij honom icke, så blifwer han doch trofast: han kan icke neka sigh sielf.",
+      "king_james": "If we believe not, yet he abideth faithful: he cannot deny himself."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Hæc commone, testificans coram Domino. Noli contendere verbis: ad nihil enim utile est, nisi ad subversionem audientium.",
+      "greek_textus_receptus": "ταῦτα ὑπομίμνῃσκε διαμαρτυρόμενος ἐνώπιον τοῦ κυρίοῦ μὴ λογομαχεῖν εἰς οὐδὲν χρήσιμον ἐπὶ καταστροφῇ τῶν ἀκουόντων",
+      "finnish_biblia": "Näitä neuvo ja todista Herran edessä, ettei he sanoista riitelisi, joka ei mihinkään kelpaa, vaan ainoastaan luovuttamaan niitä jotka kuulevat. ",
+      "swedish_karl_xii": "Sådant förmana, och betyga för Herranom, at the icke träta om ord til ingen nytto, vtan til at afwända them som på höra.",
+      "king_james": "Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Sollicite cura teipsum probabilem exhibere Deo, operarium inconfusibilem, recte tractantem verbum veritatis.",
+      "greek_textus_receptus": "σπούδασον σεαυτὸν δόκιμον παραστῆσαι τῷ θεῷ ἐργάτην ἀνεπαίσχυντον ὀρθοτομοῦντα τὸν λόγον τῆς ἀληθείας",
+      "finnish_biblia": "Pyydä itses Jumalalle osoittaa toimelliseksi ja laittamattomaksi työntekijäksi, joka oikein totuuden sanan jakaa. ",
+      "swedish_karl_xii": "Winlägg tigh at bewisa tigh Gudi en bepröfwad och ostraffelig arbetare, som rätt delar sanningenes ord.",
+      "king_james": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Profana autem et vaniloquia devita: multum enim proficiunt ad impietatem:",
+      "greek_textus_receptus": "τὰς δὲ βεβήλους κενοφωνίας περιΐστασο ἐπὶ πλεῖον γὰρ προκόψουσιν ἀσεβείας",
+      "finnish_biblia": "Mutta siivottomat ja kelvottomat sanat hylkää, jotka paljon jumalatointa menoa saattavat. ",
+      "swedish_karl_xii": "Men oandelig och onyttig ord kasta bort: ty thet hielper mycket til ogudachtighet:",
+      "king_james": "But shun profane and vain babblings: for they will increase unto more ungodliness."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "et sermo eorum ut cancer serpit: ex quibus est Hymenæus et Philetus,",
+      "greek_textus_receptus": "καὶ ὁ λόγος αὐτῶν ὡς γάγγραινα νομὴν ἕξει ὧν ἐστιν ὑμέναιος καὶ φίλητος",
+      "finnish_biblia": "Ja heidän puheensa syö ympäriltänsä niinkuin ruumiin mato; joista on Hymeneus ja Philetus, ",
+      "swedish_karl_xii": "Och theras taal fräter omkring sigh, såsom kräfwetan: ibland hwilka är Hymeneus, och Philetus;",
+      "king_james": "And their word will eat as doth a canker: of whom is Hymenaeus and Philetus;"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "qui a veritate exciderunt, dicentes resurrectionem esse jam factam, et subverterunt quorumdam fidem.",
+      "greek_textus_receptus": "οἵτινες περὶ τὴν ἀλήθειαν ἠστόχησαν λέγοντες τὴν ἀνάστασιν ἤδη γεγονέναι καὶ ἀνατρέπουσιν τήν τινων πίστιν",
+      "finnish_biblia": "Jotka totuudesta ovat erehtyneet, sanoen ylösnousemisen jo tapahtuneen, ja ovat muutamat uskosta kääntäneet. ",
+      "swedish_karl_xii": "The ther om sanningen felat hafwa, säijande vpståndelsen redo skedd wara: och hafwa förwändt somliga menniskiors troo.",
+      "king_james": "Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Sed firmum fundamentum Dei stat, habens signaculum hoc: cognovit Dominus qui sunt ejus, et discedat ab iniquitate omnis qui nominat nomen Domini.",
+      "greek_textus_receptus": "ὁ μέντοι στερεὸς θεμέλιος τοῦ θεοῦ ἕστηκεν ἔχων τὴν σφραγῖδα ταύτην Ἕγνω κύριος τοὺς ὄντας αὐτοῦ καί ἀποστήτω ἀπὸ ἀδικίας πᾶς ὁ ὀνομάζων τὸ ὄνομα χριστοῦ",
+      "finnish_biblia": "Mutta Jumalan vahva perustus kuitenkin pysyy, joka tällä kiinnitetty on: Herra tuntee omansa: ja lakatkaan jokainen vääryydestä, joka Kristuksen nimeä mainitsee. ",
+      "swedish_karl_xii": "Men then faste Gudz grund blifwer ståndandes, och hafwer thetta insegel: Herren känner sina; och hwar och en som åkallar Christi namn, gånge ifrån orättferdighetene.",
+      "king_james": "Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "In magna autem domo non solum sunt vasa aurea, et argentea, sed et lignea, et fictilia: et quædam quidem in honorem, quædam autem in contumeliam.",
+      "greek_textus_receptus": "ἐν μεγάλῃ δὲ οἰκίᾳ οὐκ ἔστιν μόνον σκεύη χρυσᾶ καὶ ἀργυρᾶ ἀλλὰ καὶ ξύλινα καὶ ὀστράκινα καὶ ἃ μὲν εἰς τιμὴν ἃ δὲ εἰς ἀτιμίαν",
+      "finnish_biblia": "Mutta suuressa huoneessa ei ole ainoastaan kultaiset ja hopiaiset astiat, vaan myös puiset ja saviset, ja muutamat tosin kunniaksi, mutta muutamat häpiäksi. ",
+      "swedish_karl_xii": "Men vthi ett stort huus, äro icke allenast gyldene och silffat, vtan jemwäl träfat och leerfat; och somlig til heder, och somlig til wanheder.",
+      "king_james": "But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Si quis ergo emundaverit se ab istis, erit vas in honorem sanctificatum, et utile Domino ad omne opus bonum paratum.",
+      "greek_textus_receptus": "ἐὰν οὖν τις ἐκκαθάρῃ ἑαυτὸν ἀπὸ τούτων ἔσται σκεῦος εἰς τιμήν ἡγιασμένον καὶ εὔχρηστον τῷ δεσπότῃ εἰς πᾶν ἔργον ἀγαθὸν ἡτοιμασμένον",
+      "finnish_biblia": "Jos joku itsensä senkaltaisista ihmisistä puhdistaa, se tulee kunniaan pyhitetyksi astiaksi, perheenisännälle tarpeelliseksi ja kaikkiin hyviin töihin valmistetuksi. ",
+      "swedish_karl_xii": "Hwar nu någor renar sigh ifrå sådant folck, han warder ett helgat faat til heder, huusherranom brukeligit, beredt til alt godt werck.",
+      "king_james": "If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master's use, and prepared unto every good work."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Juvenilia autem desideria fuge, sectare vero justitiam, fidem, spem, caritatem, et pacem cum iis qui invocant Dominum de corde puro.",
+      "greek_textus_receptus": "τὰς δὲ νεωτερικὰς ἐπιθυμίας φεῦγε δίωκε δὲ δικαιοσύνην πίστιν ἀγάπην εἰρήνην μετὰ τῶν ἐπικαλουμένων τὸν κύριον ἐκ καθαρᾶς καρδίας",
+      "finnish_biblia": "Nuoruuden himot vältä; mutta noudata vanhurskautta, uskoa, rakkautta ja rauhaa kaikkein niiden kanssa, jotka puhtaasta sydämestä Herraa rukoilevat. ",
+      "swedish_karl_xii": "Fly vngdomsens lustar; men faar efter rättferdigheten, troon, kärleken, frijd medh allom them som af reent hierta åkalla Herran.",
+      "king_james": "Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Stultas autem et sine disciplina quæstiones devita: sciens quia generant lites.",
+      "greek_textus_receptus": "τὰς δὲ μωρὰς καὶ ἀπαιδεύτους ζητήσεις παραιτοῦ εἰδὼς ὅτι γεννῶσιν μάχας",
+      "finnish_biblia": "Hullut ja turhat kysymykset hylkää, tietäen, että ne ainoastaan riidat synnyttävät. ",
+      "swedish_karl_xii": "Men förkasta dårachtig och öfwerdådig spörsmål, wetandes, at the föda träto af sigh.",
+      "king_james": "But foolish and unlearned questions avoid, knowing that they do gender strifes."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Servum autem Domini non oportet litigare: sed mansuetum esse ad omnes, docibilem, patientem,",
+      "greek_textus_receptus": "δοῦλον δὲ κυρίου οὐ δεῖ μάχεσθαι ἀλλ᾽ ἤπιον εἶναι πρὸς πάντας διδακτικόν ἀνεξίκακον",
+      "finnish_biblia": "Mutta ei Herran palvelian tule riitaisen olla, vaan siviän jokaista kohtaan, opettavaisen, pahoja kärsiväisen. ",
+      "swedish_karl_xii": "Men Herrans tienare skal icke wara trätosam, vtan liuflig widh hwar man; lärachtig, then the onda lida kan;",
+      "king_james": "And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "cum modestia corripientem eos qui resistunt veritati, nequando Deus det illis pœnitentiam ad cognoscendam veritatem,",
+      "greek_textus_receptus": "ἐν πρᾶότητι παιδεύοντα τοὺς ἀντιδιατιθεμένους μήποτε δῷ αὐτοῖς ὁ θεὸς μετάνοιαν εἰς ἐπίγνωσιν ἀληθείας",
+      "finnish_biblia": "Hiljaisuudessa nuhtelevaisen vastahakoisia; jos Jumala heille joskus antais parannuksen totuutta ymmärtämään, ",
+      "swedish_karl_xii": "Och medh sachtmodighet straffa them som emot stå: om Gudh en gång wil gifwa them bättring, til at förstå sanningen;",
+      "king_james": "In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;"
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "et resipiscant a diaboli laqueis, a quo captivi tenentur ad ipsius voluntatem.",
+      "greek_textus_receptus": "καὶ ἀνανήψωσιν ἐκ τῆς τοῦ διαβόλου παγίδος ἐζωγρημένοι ὑπ᾽ αὐτοῦ εἰς τὸ ἐκείνου θέλημα",
+      "finnish_biblia": "Ja he jälleen katuisivat ja perkeleen paulasta pääsisivät, jolta he hänen tahtonsa jälkeen vangitut ovat.   ",
+      "swedish_karl_xii": "Och besinna sigh ifrå diefwulsens snaro, af hwilkom the fångne äro efter hans wilja.",
+      "king_james": "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will."
+    }
+  ]
+}

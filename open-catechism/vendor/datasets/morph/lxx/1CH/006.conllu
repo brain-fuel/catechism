@@ -1,0 +1,1249 @@
+# ref = 1CH.6.1
+1	Υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	Λευεί	Λευΐ	_	_	_	_	_	Strong=G3017|Align=positional
+3	Γεδσών	Γεδσων	_	_	_	_	_	Align=exact
+4	Καὰθ	Κααθ	_	_	_	_	_	Align=exact
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	Μαραρεί	Μεραρι	_	_	_	_	_	Align=positional
+
+# ref = 1CH.6.2
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+3	Καάθ	_	_	_	_	_	_	Align=unmatched
+4	Ἀμβρὰμ	_	_	_	_	_	_	Align=unmatched
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	Ἰσσάαρ	_	_	_	_	_	_	Align=unmatched
+7	Χεβρὼν	_	_	_	_	_	_	Align=unmatched
+8	καὶ	_	_	_	_	_	_	Align=unmatched
+9	Ὀζειήλ	_	_	_	_	_	_	Align=unmatched,source_extra:8
+
+# ref = 1CH.6.3
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+3	Ἀμβράν	_	_	_	_	_	_	Align=unmatched
+4	Ἀαρὼν	_	_	_	_	_	_	Align=unmatched
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	Μωυσῆς	_	_	_	_	_	_	Align=unmatched
+7	καὶ	_	_	_	_	_	_	Align=unmatched
+8	Μαριάμ	_	_	_	_	_	_	Align=unmatched
+9	καὶ	_	_	_	_	_	_	Align=unmatched
+10	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+11	Ἀαρών	_	_	_	_	_	_	Align=unmatched
+12	Ναδὰβ	_	_	_	_	_	_	Align=unmatched
+13	καὶ	_	_	_	_	_	_	Align=unmatched
+14	Ἀβιούδ	_	_	_	_	_	_	Align=unmatched
+15	Ἐλεαζὰρ	_	_	_	_	_	_	Align=unmatched
+16	καὶ	_	_	_	_	_	_	Align=unmatched
+17	Ἰθαμάρ	_	_	_	_	_	_	Align=unmatched,source_extra:6
+
+# ref = 1CH.6.4
+1	Ἐλεαζὰρ	_	_	_	_	_	_	Align=unmatched
+2	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+3	τὸν	_	_	_	_	_	_	Align=unmatched
+4	Φεινεές	_	_	_	_	_	_	Align=unmatched
+5	Φεινεὲς	_	_	_	_	_	_	Align=unmatched
+6	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+7	τὸν	_	_	_	_	_	_	Align=unmatched
+8	Ἀβεισού	_	_	_	_	_	_	Align=unmatched,source_extra:14
+
+# ref = 1CH.6.5
+1	Ἀβεισοὺ	_	_	_	_	_	_	Align=unmatched
+2	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+3	τὸν	_	_	_	_	_	_	Align=unmatched
+4	Βωέ	_	_	_	_	_	_	Align=unmatched
+5	καὶ	_	_	_	_	_	_	Align=unmatched
+6	Βωὲ	_	_	_	_	_	_	Align=unmatched
+7	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+8	τὸν	_	_	_	_	_	_	Align=unmatched
+9	Ὀζεί	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = 1CH.6.6
+1	Ὀζεὶ	_	_	_	_	_	_	Align=unmatched
+2	ἐγέννησε	_	_	_	_	_	_	Align=unmatched
+3	τὸν	_	_	_	_	_	_	Align=unmatched
+4	Ζαραιά	_	_	_	_	_	_	Align=unmatched
+5	Ζαραιὰ	_	_	_	_	_	_	Align=unmatched
+6	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+7	τὸν	_	_	_	_	_	_	Align=unmatched
+8	Μαρειήλ	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = 1CH.6.7
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	Μαρειὴλ	_	_	_	_	_	_	Align=unmatched
+3	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+4	τὸν	_	_	_	_	_	_	Align=unmatched
+5	Ἀμαρειά	_	_	_	_	_	_	Align=unmatched
+6	καὶ	_	_	_	_	_	_	Align=unmatched
+7	Ἀμαρειὰ	_	_	_	_	_	_	Align=unmatched
+8	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+9	τὸν	_	_	_	_	_	_	Align=unmatched
+10	Ἀχειτώβ	_	_	_	_	_	_	Align=unmatched,source_extra:11
+
+# ref = 1CH.6.8
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	Ἀχειτὼβ	_	_	_	_	_	_	Align=unmatched
+3	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+4	τὸν	_	_	_	_	_	_	Align=unmatched
+5	Σαδώκ	_	_	_	_	_	_	Align=unmatched
+6	καὶ	_	_	_	_	_	_	Align=unmatched
+7	Σαδὼκ	_	_	_	_	_	_	Align=unmatched
+8	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+9	τὸν	_	_	_	_	_	_	Align=unmatched
+10	Ἀχειμάας	_	_	_	_	_	_	Align=unmatched,source_extra:9
+
+# ref = 1CH.6.9
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	Ἀχειμάας	_	_	_	_	_	_	Align=unmatched
+3	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+4	τὸν	_	_	_	_	_	_	Align=unmatched
+5	Ἀζαριά	_	_	_	_	_	_	Align=unmatched
+6	καὶ	_	_	_	_	_	_	Align=unmatched
+7	Ἀζαρίας	_	_	_	_	_	_	Align=unmatched
+8	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+9	τὸν	_	_	_	_	_	_	Align=unmatched
+10	Ἰωανάς	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = 1CH.6.10
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	Ἰωανὰς	_	_	_	_	_	_	Align=unmatched
+3	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+4	τὸν	_	_	_	_	_	_	Align=unmatched
+5	Ἀζαρίαν	_	_	_	_	_	_	Align=unmatched
+6	οὗτος	_	_	_	_	_	_	Align=unmatched
+7	ἱεράτευσεν	_	_	_	_	_	_	Align=unmatched
+8	ἐν	_	_	_	_	_	_	Align=unmatched
+9	τῷ	_	_	_	_	_	_	Align=unmatched
+10	οἴκῳ	_	_	_	_	_	_	Align=unmatched
+11	ᾧ	_	_	_	_	_	_	Align=unmatched
+12	ᾠκοδόμησεν	_	_	_	_	_	_	Align=unmatched
+13	Σαλωμὼν	_	_	_	_	_	_	Align=unmatched
+14	ἐν	_	_	_	_	_	_	Align=unmatched
+15	Ἰερουσαλήμ	_	_	_	_	_	_	Align=unmatched,source_extra:5
+
+# ref = 1CH.6.11
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+3	Ἀζαριὰ	_	_	_	_	_	_	Align=unmatched
+4	τὸν	_	_	_	_	_	_	Align=unmatched
+5	Ἀμαριά	_	_	_	_	_	_	Align=unmatched
+6	καὶ	_	_	_	_	_	_	Align=unmatched
+7	Ἀμαριὰ	_	_	_	_	_	_	Align=unmatched
+8	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+9	τὸν	_	_	_	_	_	_	Align=unmatched
+10	Ἀχειτώβ	_	_	_	_	_	_	Align=unmatched,source_extra:9
+
+# ref = 1CH.6.12
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	Ἀχειτὼβ	_	_	_	_	_	_	Align=unmatched
+3	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+4	τὸν	_	_	_	_	_	_	Align=unmatched
+5	Σαδώκ	_	_	_	_	_	_	Align=unmatched
+6	καὶ	_	_	_	_	_	_	Align=unmatched
+7	Σαδὼκ	_	_	_	_	_	_	Align=unmatched
+8	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+9	τὸν	_	_	_	_	_	_	Align=unmatched
+10	Σαλώμ	_	_	_	_	_	_	Align=unmatched,source_extra:9
+
+# ref = 1CH.6.13
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	Σαλὼμ	_	_	_	_	_	_	Align=unmatched
+3	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+4	τὸν	_	_	_	_	_	_	Align=unmatched
+5	Χελκείαν	_	_	_	_	_	_	Align=unmatched
+6	καὶ	_	_	_	_	_	_	Align=unmatched
+7	Χελκείας	_	_	_	_	_	_	Align=unmatched
+8	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+9	τὸν	_	_	_	_	_	_	Align=unmatched
+10	Ἀζαριά	_	_	_	_	_	_	Align=unmatched,source_extra:6
+
+# ref = 1CH.6.14
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	Ἀζαρίας	_	_	_	_	_	_	Align=unmatched
+3	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+4	τὸν	_	_	_	_	_	_	Align=unmatched
+5	Σαραιά	_	_	_	_	_	_	Align=unmatched
+6	καὶ	_	_	_	_	_	_	Align=unmatched
+7	Σαραίας	_	_	_	_	_	_	Align=unmatched
+8	ἐγέννησεν	_	_	_	_	_	_	Align=unmatched
+9	τὸν	_	_	_	_	_	_	Align=unmatched
+10	Ἰωσαδάκ	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = 1CH.6.15
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	Ἰωσαδὰκ	_	_	_	_	_	_	Align=unmatched
+3	ἐπορεύθη	_	_	_	_	_	_	Align=unmatched
+4	ἐν	_	_	_	_	_	_	Align=unmatched
+5	τῇ	_	_	_	_	_	_	Align=unmatched
+6	μετοικίᾳ	_	_	_	_	_	_	Align=unmatched
+7	μετὰ	_	_	_	_	_	_	Align=unmatched
+8	Ἰούδα	_	_	_	_	_	_	Align=unmatched
+9	καὶ	_	_	_	_	_	_	Align=unmatched
+10	Ἰερουσαλὴμ	_	_	_	_	_	_	Align=unmatched
+11	ἐν	_	_	_	_	_	_	Align=unmatched
+12	χειρὶ	_	_	_	_	_	_	Align=unmatched
+13	Ναβουχοδονοσόρ	_	_	_	_	_	_	Align=unmatched,source_extra:9
+
+# ref = 1CH.6.16
+1	Υἱοὶ	_	_	_	_	_	_	Align=unmatched
+2	Λευεί	_	_	_	_	_	_	Align=unmatched
+3	Γεδσών	_	_	_	_	_	_	Align=unmatched
+4	Καὰθ	_	_	_	_	_	_	Align=unmatched
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	Μαραρεί	_	_	_	_	_	_	Align=unmatched,source_extra:15
+
+# ref = 1CH.6.17
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ταῦτα	_	_	_	_	_	_	Align=unmatched
+3	τὰ	_	_	_	_	_	_	Align=unmatched
+4	ὀνόματα	_	_	_	_	_	_	Align=unmatched
+5	τῶν	_	_	_	_	_	_	Align=unmatched
+6	υἱῶν	_	_	_	_	_	_	Align=unmatched
+7	Γεδσών	_	_	_	_	_	_	Align=unmatched
+8	Λοβενεὶ	_	_	_	_	_	_	Align=unmatched
+9	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+10	Σεμεεί	_	_	_	_	_	_	Align=unmatched,source_extra:27
+
+# ref = 1CH.6.18
+1	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+2	Καάθ	Κααθ	_	_	_	_	_	Align=exact
+3	Ἀμβρὰμ	_	_	_	_	_	_	Align=unmatched
+4	καὶ	_	_	_	_	_	_	Align=unmatched
+5	Ἰσσαάρ	_	_	_	_	_	_	Align=unmatched
+6	Χεβρὼν	_	_	_	_	_	_	Align=unmatched
+7	καὶ	_	_	_	_	_	_	Align=unmatched
+8	Ὀζειήλ	_	_	_	_	_	_	Align=unmatched,source_extra:19
+
+# ref = 1CH.6.19
+1	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+2	Μαραρεί	_	_	_	_	_	_	Align=unmatched
+3	Μοολεὶ	_	_	_	_	_	_	Align=unmatched
+4	καὶ	_	_	_	_	_	_	Align=unmatched
+5	Ὀμουσεί	_	_	_	_	_	_	Align=unmatched
+6	καὶ	_	_	_	_	_	_	Align=unmatched
+7	αὗται	_	_	_	_	_	_	Align=unmatched
+8	αἱ	_	_	_	_	_	_	Align=unmatched
+9	πατριαὶ	_	_	_	_	_	_	Align=unmatched
+10	τοῦ	_	_	_	_	_	_	Align=unmatched
+11	Λευεὶ	_	_	_	_	_	_	Align=unmatched
+12	κατὰ	_	_	_	_	_	_	Align=unmatched
+13	πατριὰς	_	_	_	_	_	_	Align=unmatched
+14	αὐτῶν	_	_	_	_	_	_	Align=unmatched,source_extra:8
+
+# ref = 1CH.6.20
+1	τῷ	_	_	_	_	_	_	Align=unmatched
+2	Γεδσών	_	_	_	_	_	_	Align=unmatched
+3	τῷ	_	_	_	_	_	_	Align=unmatched
+4	Λοβενεὶ	_	_	_	_	_	_	Align=unmatched
+5	υἱῷ	_	_	_	_	_	_	Align=unmatched
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+7	Ἰέεθ	_	_	_	_	_	_	Align=unmatched
+8	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+9	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+10	Ζεμμὰ	_	_	_	_	_	_	Align=unmatched
+11	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+12	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:6
+
+# ref = 1CH.6.21
+1	Ἰωὰβ	_	_	_	_	_	_	Align=unmatched
+2	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+3	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ἀδεὶ	_	_	_	_	_	_	Align=unmatched
+5	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+7	Ἰαάρα	_	_	_	_	_	_	Align=unmatched
+8	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+9	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+10	Ἰεθρεὶ	_	_	_	_	_	_	Align=unmatched
+11	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+12	αὐτοῦ	Σαφανια	_	_	_	_	_	Align=positional,source_extra:3
+
+# ref = 1CH.6.22
+1	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+2	Καάθ	_	_	_	_	_	_	Align=unmatched
+3	Ἀμειναδὰβ	_	_	_	_	_	_	Align=unmatched
+4	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+5	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+6	Κόρε	Κορέ	_	_	_	_	_	Strong=G2879|Align=exact
+7	υἱὸς	_	_	_	_	_	_	Align=unmatched
+8	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+9	Ἁρεσεὶ	_	_	_	_	_	_	Align=unmatched
+10	υἱὸς	_	_	_	_	_	_	Align=unmatched
+11	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:6
+
+# ref = 1CH.6.23
+1	Ἐλκανὰ	_	_	_	_	_	_	Align=unmatched
+2	καὶ	_	_	_	_	_	_	Align=unmatched
+3	Ἀβιαθὰρ	_	_	_	_	_	_	Align=unmatched
+4	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+5	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+6	Ἀσερεὶ	_	_	_	_	_	_	Align=unmatched
+7	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+8	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:6
+
+# ref = 1CH.6.24
+1	Κάαθ	_	_	_	_	_	_	Align=unmatched
+2	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+3	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ὀριὴλ	_	_	_	_	_	_	Align=unmatched
+5	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+7	Ὀζειὰ	_	_	_	_	_	_	Align=unmatched
+8	υἱὸς	_	_	_	_	_	_	Align=unmatched
+9	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+10	Σαοὺλ	_	_	_	_	_	_	Align=unmatched
+11	υἱὸς	_	_	_	_	_	_	Align=unmatched
+12	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = 1CH.6.25
+1	καὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+2	υἱοὶ	Μιχαήλ	_	_	_	_	_	Strong=G3413|Align=positional
+3	Ἐλκανά	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+4	Ἀμεσσεὶ	Μαασια	_	_	_	_	_	Align=positional
+5	καὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	Ἀλειμώθ	Μελχια	_	_	_	_	_	Align=positional
+
+# ref = 1CH.6.26
+1	Ἐλκανὰ	_	_	_	_	_	_	Align=unmatched
+2	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+3	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+4	Σουφεὶ	_	_	_	_	_	_	Align=unmatched
+5	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+7	Καῖναθ	_	_	_	_	_	_	Align=unmatched
+8	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+9	αὐτοῦ	Αδια	_	_	_	_	_	Align=positional,source_extra:2
+
+# ref = 1CH.6.27
+1	Ἐλιὰβ	_	_	_	_	_	_	Align=unmatched
+2	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+3	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ἰδαὲρ	_	_	_	_	_	_	Align=unmatched
+5	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+7	Ἐλκανὰ	_	_	_	_	_	_	Align=unmatched
+8	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+9	αὐτοῦ	Σεμεΐ	_	_	_	_	_	Align=positional,source_extra:2
+
+# ref = 1CH.6.28
+1	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+2	Σαμουήλ	_	_	_	_	_	_	Align=unmatched
+3	ὁ	_	_	_	_	_	_	Align=unmatched
+4	πρωτότοκος	_	_	_	_	_	_	Align=unmatched
+5	Σανεὶ	_	_	_	_	_	_	Align=unmatched
+6	καὶ	_	_	_	_	_	_	Align=unmatched
+7	Ἀβιά	_	_	_	_	_	_	Align=unmatched,source_extra:6
+
+# ref = 1CH.6.29
+1	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+2	Λοβενεὶ	_	_	_	_	_	_	Align=unmatched
+3	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+4	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+5	Σομεεὶ	_	_	_	_	_	_	Align=unmatched
+6	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+7	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+8	Ὀζὰ	_	_	_	_	_	_	Align=unmatched
+9	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+10	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:11
+
+# ref = 1CH.6.30
+1	Σομεὰ	_	_	_	_	_	_	Align=unmatched
+2	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+3	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ἁμὰ	_	_	_	_	_	_	Align=unmatched
+5	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+7	Ἀσαβὰ	_	_	_	_	_	_	Align=unmatched
+8	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+9	αὐτοῦ	Χελκιας	_	_	_	_	_	Align=positional,source_extra:2
+
+# ref = 1CH.6.31
+1	Καὶ	_	_	_	_	_	_	Align=unmatched
+2	οὗτοι	_	_	_	_	_	_	Align=unmatched
+3	οὓς	_	_	_	_	_	_	Align=unmatched
+4	κατέστησεν	_	_	_	_	_	_	Align=unmatched
+5	Δαυεὶδ	_	_	_	_	_	_	Align=unmatched
+6	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+7	χεῖρας	_	_	_	_	_	_	Align=unmatched
+8	ᾀδόντων	_	_	_	_	_	_	Align=unmatched
+9	ἐν	_	_	_	_	_	_	Align=unmatched
+10	οἴκῳ	_	_	_	_	_	_	Align=unmatched
+11	Κυρίου	_	_	_	_	_	_	Align=unmatched
+12	ἐν	_	_	_	_	_	_	Align=unmatched
+13	τῇ	_	_	_	_	_	_	Align=unmatched
+14	καταπαύσει	_	_	_	_	_	_	Align=unmatched
+15	τῆς	_	_	_	_	_	_	Align=unmatched
+16	κιβωτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:6
+
+# ref = 1CH.6.32
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	ἦσαν	_	_	_	_	_	_	Align=unmatched
+3	λειτουργοῦντες	_	_	_	_	_	_	Align=unmatched
+4	ἐναντίον	_	_	_	_	_	_	Align=unmatched
+5	τῆς	_	_	_	_	_	_	Align=unmatched
+6	σκηνῆς	_	_	_	_	_	_	Align=unmatched
+7	οἴκου	_	_	_	_	_	_	Align=unmatched
+8	μαρτυρίου	_	_	_	_	_	_	Align=unmatched
+9	ἐν	_	_	_	_	_	_	Align=unmatched
+10	ὀργάνοις	_	_	_	_	_	_	Align=unmatched
+11	ἕως	_	_	_	_	_	_	Align=unmatched
+12	οὗ	_	_	_	_	_	_	Align=unmatched
+13	ᾠκοδόμησεν	_	_	_	_	_	_	Align=unmatched
+14	Σαλωμὼν	_	_	_	_	_	_	Align=unmatched
+15	τὸν	_	_	_	_	_	_	Align=unmatched
+16	οἶκον	_	_	_	_	_	_	Align=unmatched
+17	ἐν	_	_	_	_	_	_	Align=unmatched
+18	Ἰερουσαλήμ	_	_	_	_	_	_	Align=unmatched
+19	καὶ	_	_	_	_	_	_	Align=unmatched
+20	ἔστησαν	_	_	_	_	_	_	Align=unmatched
+21	κατὰ	_	_	_	_	_	_	Align=unmatched
+22	τὴν	_	_	_	_	_	_	Align=unmatched
+23	κρίσιν	_	_	_	_	_	_	Align=unmatched
+24	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+25	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+26	τὰς	_	_	_	_	_	_	Align=unmatched
+27	λειτουργίας	_	_	_	_	_	_	Align=unmatched
+28	αὐτῶν	_	_	_	_	_	_	Align=unmatched,source_extra:8
+
+# ref = 1CH.6.33
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	οὗτοι	_	_	_	_	_	_	Align=unmatched
+3	οἱ	_	_	_	_	_	_	Align=unmatched
+4	ἑστηκότες	_	_	_	_	_	_	Align=unmatched
+5	καὶ	_	_	_	_	_	_	Align=unmatched
+6	οἱ	_	_	_	_	_	_	Align=unmatched
+7	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+8	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+9	ἐκ	_	_	_	_	_	_	Align=unmatched
+10	τῶν	_	_	_	_	_	_	Align=unmatched
+11	υἱῶν	_	_	_	_	_	_	Align=unmatched
+12	τοῦ	_	_	_	_	_	_	Align=unmatched
+13	Καάθ	_	_	_	_	_	_	Align=unmatched
+14	Αἱμὰν	_	_	_	_	_	_	Align=unmatched
+15	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+16	ψαλτῳδὸς	_	_	_	_	_	_	Align=unmatched
+17	υἱὸς	_	_	_	_	_	_	Align=unmatched
+18	Ἰωὴλ	_	_	_	_	_	_	Align=unmatched
+19	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+20	Σαμουὴλ	_	_	_	_	_	_	Align=unmatched,source_extra:16
+
+# ref = 1CH.6.34
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Ἐλκανὰ	_	_	_	_	_	_	Align=unmatched
+3	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ἠαὰλ	_	_	_	_	_	_	Align=unmatched
+5	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+6	Ἐλειὴλ	_	_	_	_	_	_	Align=unmatched
+7	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+8	Θεῖε	_	_	_	_	_	_	Align=unmatched,source_extra:36
+
+# ref = 1CH.6.35
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Σοὺφ	_	_	_	_	_	_	Align=unmatched
+3	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ἐλκανὰ	_	_	_	_	_	_	Align=unmatched
+5	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+6	Μὲθ	_	_	_	_	_	_	Align=unmatched
+7	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+8	Ἀμαθειοὺ	_	_	_	_	_	_	Align=unmatched,source_extra:13
+
+# ref = 1CH.6.36
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Ἐλκανὰ	_	_	_	_	_	_	Align=unmatched
+3	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ἰωὴλ	_	_	_	_	_	_	Align=unmatched
+5	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+6	Ἀζαριὰ	_	_	_	_	_	_	Align=unmatched
+7	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+8	Σαφανιὰ	_	_	_	_	_	_	Align=unmatched,source_extra:9
+
+# ref = 1CH.6.37
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Θάαθ	_	_	_	_	_	_	Align=unmatched
+3	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ἀσεὶρ	_	_	_	_	_	_	Align=unmatched
+5	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+6	Ἀβιασὰρ	_	_	_	_	_	_	Align=unmatched
+7	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+8	Κόρε	_	_	_	_	_	_	Align=unmatched,source_extra:9
+
+# ref = 1CH.6.38
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Ἰσσαὰρ	_	_	_	_	_	_	Align=unmatched
+3	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+4	Καὰθ	_	_	_	_	_	_	Align=unmatched
+5	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+6	Λευεὶ	_	_	_	_	_	_	Align=unmatched
+7	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+8	Ἰσραήλ	_	_	_	_	_	_	Align=unmatched,source_extra:6
+
+# ref = 1CH.6.39
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἀδελφὸς	_	_	_	_	_	_	Align=unmatched
+3	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ἀσὰφ	_	_	_	_	_	_	Align=unmatched
+5	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+6	ἑστηκὼς	_	_	_	_	_	_	Align=unmatched
+7	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+8	δεξιᾷ	_	_	_	_	_	_	Align=unmatched
+9	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+10	Ἀσὰφ	_	_	_	_	_	_	Align=unmatched
+11	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+12	Βαραχιὰ	_	_	_	_	_	_	Align=unmatched
+13	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+14	Σαμαὰ	_	_	_	_	_	_	Align=unmatched,source_extra:21
+
+# ref = 1CH.6.40
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Μειχαὴλ	_	_	_	_	_	_	Align=unmatched
+3	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+4	Μαασαὶ	_	_	_	_	_	_	Align=unmatched
+5	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+6	Μελχειὰ	_	_	_	_	_	_	Align=unmatched,source_extra:14
+
+# ref = 1CH.6.41
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Ἀθανεὶ	_	_	_	_	_	_	Align=unmatched
+3	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ζααραὶ	_	_	_	_	_	_	Align=unmatched
+5	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+6	Ἀζειὰ	_	_	_	_	_	_	Align=unmatched,source_extra:14
+
+# ref = 1CH.6.42
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Αἰθὰν	_	_	_	_	_	_	Align=unmatched
+3	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ζαμμὰμ	_	_	_	_	_	_	Align=unmatched
+5	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+6	Σεμεεὶ	_	_	_	_	_	_	Align=unmatched,source_extra:32
+
+# ref = 1CH.6.43
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Ἦχα	_	_	_	_	_	_	Align=unmatched
+3	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+4	Γεεδσὼν	_	_	_	_	_	_	Align=unmatched
+5	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+6	Λευεί	_	_	_	_	_	_	Align=unmatched,source_extra:14
+
+# ref = 1CH.6.44
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+3	Μεραρεὶ	_	_	_	_	_	_	Align=unmatched
+4	ἀδελφοῦ	_	_	_	_	_	_	Align=unmatched
+5	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+6	ἐξ	_	_	_	_	_	_	Align=unmatched
+7	ἀριστερῶν	_	_	_	_	_	_	Align=unmatched
+8	Αἰθὰμ	_	_	_	_	_	_	Align=unmatched
+9	υἱὸς	_	_	_	_	_	_	Align=unmatched
+10	Κεισαὶ	_	_	_	_	_	_	Align=unmatched
+11	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+12	Ἀβδεὶ	_	_	_	_	_	_	Align=unmatched
+13	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+14	Μαλὼχ	_	_	_	_	_	_	Align=unmatched,source_extra:20
+
+# ref = 1CH.6.45
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Ἁσεβεὶ	_	_	_	_	_	_	Align=unmatched
+3	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ἀμεσσειὰ	_	_	_	_	_	_	Align=unmatched,source_extra:33
+
+# ref = 1CH.6.46
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Βανεὶ	_	_	_	_	_	_	Align=unmatched
+3	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+4	Σέμμηρ	_	_	_	_	_	_	Align=unmatched,source_extra:20
+
+# ref = 1CH.6.47
+1	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+2	Μοολεὶ	_	_	_	_	_	_	Align=unmatched
+3	Μοσεὶ	_	_	_	_	_	_	Align=unmatched
+4	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+5	Μερραρεὶ	_	_	_	_	_	_	Align=unmatched
+6	υἱοῦ	_	_	_	_	_	_	Align=unmatched
+7	Λευεί	_	_	_	_	_	_	Align=unmatched,source_extra:24
+
+# ref = 1CH.6.48
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἀδελφοὶ	_	_	_	_	_	_	Align=unmatched
+3	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+4	κατ᾽	_	_	_	_	_	_	Align=unmatched
+5	οἴκους	_	_	_	_	_	_	Align=unmatched
+6	πατριῶν	_	_	_	_	_	_	Align=unmatched
+7	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+8	οἱ	_	_	_	_	_	_	Align=unmatched
+9	Λευεῖται	_	_	_	_	_	_	Align=unmatched
+10	δεδομένοι	_	_	_	_	_	_	Align=unmatched
+11	εἰς	_	_	_	_	_	_	Align=unmatched
+12	πᾶσαν	_	_	_	_	_	_	Align=unmatched
+13	ἐργασίαν	_	_	_	_	_	_	Align=unmatched
+14	λειτουργίας	_	_	_	_	_	_	Align=unmatched
+15	σκηνῆς	_	_	_	_	_	_	Align=unmatched
+16	οἴκου	_	_	_	_	_	_	Align=unmatched
+17	τοῦ	_	_	_	_	_	_	Align=unmatched
+18	θεοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:19
+
+# ref = 1CH.6.49
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	Ἀαρὼν	_	_	_	_	_	_	Align=unmatched
+3	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+4	οἱ	_	_	_	_	_	_	Align=unmatched
+5	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+7	θυμιῶντες	_	_	_	_	_	_	Align=unmatched
+8	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+9	τὸ	_	_	_	_	_	_	Align=unmatched
+10	θυσιαστήριον	_	_	_	_	_	_	Align=unmatched
+11	τῶν	_	_	_	_	_	_	Align=unmatched
+12	ὁλοκαυτωμάτων	_	_	_	_	_	_	Align=unmatched
+13	καὶ	_	_	_	_	_	_	Align=unmatched
+14	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+15	τὸ	_	_	_	_	_	_	Align=unmatched
+16	θυσιαστήριον	_	_	_	_	_	_	Align=unmatched
+17	τῶν	_	_	_	_	_	_	Align=unmatched
+18	θυμιαμάτων	_	_	_	_	_	_	Align=unmatched
+19	εἰς	_	_	_	_	_	_	Align=unmatched
+20	πᾶσαν	_	_	_	_	_	_	Align=unmatched
+21	ἐργασίαν	_	_	_	_	_	_	Align=unmatched
+22	ἅγια	_	_	_	_	_	_	Align=unmatched
+23	τῶν	_	_	_	_	_	_	Align=unmatched
+24	ἁγίων	_	_	_	_	_	_	Align=unmatched
+25	καὶ	_	_	_	_	_	_	Align=unmatched
+26	ἐξιλάσκεσθαι	_	_	_	_	_	_	Align=unmatched
+27	περὶ	_	_	_	_	_	_	Align=unmatched
+28	Ἰσραὴλ	_	_	_	_	_	_	Align=unmatched
+29	κατὰ	_	_	_	_	_	_	Align=unmatched
+30	πάντα	_	_	_	_	_	_	Align=unmatched
+31	ὅσα	_	_	_	_	_	_	Align=unmatched
+32	ἐνετείλατο	_	_	_	_	_	_	Align=unmatched
+33	Μωυσῆς	_	_	_	_	_	_	Align=unmatched
+34	παῖς	_	_	_	_	_	_	Align=unmatched
+35	τοῦ	_	_	_	_	_	_	Align=unmatched
+36	θεοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:11
+
+# ref = 1CH.6.50
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	οὗτοι	_	_	_	_	_	_	Align=unmatched
+3	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+4	Ἀαρών	_	_	_	_	_	_	Align=unmatched
+5	Ἐλεαζὰρ	_	_	_	_	_	_	Align=unmatched
+6	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+7	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+8	Φεινεὲς	_	_	_	_	_	_	Align=unmatched
+9	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+10	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+11	Ἀβεισοὺ	_	_	_	_	_	_	Align=unmatched
+12	υἱὸς	_	_	_	_	_	_	Align=unmatched
+13	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:18
+
+# ref = 1CH.6.51
+1	Βωκαὶ	_	_	_	_	_	_	Align=unmatched
+2	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+3	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ὀζεὶ	_	_	_	_	_	_	Align=unmatched
+5	υἱὸς	_	_	_	_	_	_	Align=unmatched
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+7	Ζαραιὰ	_	_	_	_	_	_	Align=unmatched
+8	υἱὸς	_	_	_	_	_	_	Align=unmatched
+9	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:14
+
+# ref = 1CH.6.52
+1	Μαρειὴλ	_	_	_	_	_	_	Align=unmatched
+2	υἱὸς	_	_	_	_	_	_	Align=unmatched
+3	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ἀλιαρειὰ	_	_	_	_	_	_	Align=unmatched
+5	υἱὸς	_	_	_	_	_	_	Align=unmatched
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+7	Ἀχειτὼβ	_	_	_	_	_	_	Align=unmatched
+8	υἱὸς	_	_	_	_	_	_	Align=unmatched
+9	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:23
+
+# ref = 1CH.6.53
+1	Σαδὼκ	_	_	_	_	_	_	Align=unmatched
+2	υἱὸς	_	_	_	_	_	_	Align=unmatched
+3	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+4	Ἀχεισάμα	_	_	_	_	_	_	Align=unmatched
+5	υἱὸς	_	_	_	_	_	_	Align=unmatched
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:14
+
+# ref = 1CH.6.54
+1	Καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	αὗται	_	_	_	_	_	_	Align=unmatched
+3	αἱ	_	_	_	_	_	_	Align=unmatched
+4	κατοικίαι	_	_	_	_	_	_	Align=unmatched
+5	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+6	ἐν	_	_	_	_	_	_	Align=unmatched
+7	ταῖς	_	_	_	_	_	_	Align=unmatched
+8	κώμαις	_	_	_	_	_	_	Align=unmatched
+9	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+10	ἐν	_	_	_	_	_	_	Align=unmatched
+11	τοῖς	_	_	_	_	_	_	Align=unmatched
+12	ὁρίοις	_	_	_	_	_	_	Align=unmatched
+13	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+14	τοῖς	_	_	_	_	_	_	Align=unmatched
+15	υἱοῖς	_	_	_	_	_	_	Align=unmatched
+16	Ἀαρὼν	_	_	_	_	_	_	Align=unmatched
+17	τῇ	_	_	_	_	_	_	Align=unmatched
+18	πατριᾷ	_	_	_	_	_	_	Align=unmatched
+19	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+20	τοῦ	_	_	_	_	_	_	Align=unmatched
+21	Κααθεί	_	_	_	_	_	_	Align=unmatched
+22	ὅτι	_	_	_	_	_	_	Align=unmatched
+23	αὐτοῖς	_	_	_	_	_	_	Align=unmatched
+24	ἐγένετο	_	_	_	_	_	_	Align=unmatched
+25	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+26	κλῆρος	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = 1CH.6.55
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἔδωκαν	ἀπό	_	_	_	_	_	Strong=G0575|Align=positional
+3	αὐτοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	τὴν	ἥμισυς	_	_	_	_	_	Align=positional
+5	Χεβρὼν	φυλή	_	_	_	_	_	Strong=G5443|Align=positional
+6	ἐν	Μανασσῆς	_	_	_	_	_	Strong=G3128|Align=positional
+7	τῇ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	Ἰουδαίᾳ	Αναρ	_	_	_	_	_	Align=positional
+9	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+10	τὰ	_	_	_	_	_	_	Align=unmatched
+11	περισπόρια	_	_	_	_	_	_	Align=unmatched
+12	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+13	κύκλῳ	_	_	_	_	_	_	Align=unmatched
+14	αὐτῆς	_	_	_	_	_	_	Align=unmatched,source_extra:17
+
+# ref = 1CH.6.56
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὰ	_	_	_	_	_	_	Align=unmatched
+3	πεδία	_	_	_	_	_	_	Align=unmatched
+4	τῆς	_	_	_	_	_	_	Align=unmatched
+5	πόλεως	_	_	_	_	_	_	Align=unmatched
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	τὰς	_	_	_	_	_	_	Align=unmatched
+8	κώμας	_	_	_	_	_	_	Align=unmatched
+9	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+10	ἔδωκαν	_	_	_	_	_	_	Align=unmatched
+11	τῷ	_	_	_	_	_	_	Align=unmatched
+12	Χαλὲβ	_	_	_	_	_	_	Align=unmatched
+13	υἱῷ	_	_	_	_	_	_	Align=unmatched
+14	Ἰεφοννή	_	_	_	_	_	_	Align=unmatched,source_extra:22
+
+# ref = 1CH.6.57
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τοῖς	_	_	_	_	_	_	Align=unmatched
+3	υἱοῖς	_	_	_	_	_	_	Align=unmatched
+4	Ἀαρὼν	_	_	_	_	_	_	Align=unmatched
+5	ἔδωκαν	_	_	_	_	_	_	Align=unmatched
+6	τὰς	_	_	_	_	_	_	Align=unmatched
+7	πόλεις	_	_	_	_	_	_	Align=unmatched
+8	τῶν	_	_	_	_	_	_	Align=unmatched
+9	φυγαδευτηρίων	_	_	_	_	_	_	Align=unmatched
+10	τὴν	_	_	_	_	_	_	Align=unmatched
+11	Χεβρών	_	_	_	_	_	_	Align=unmatched
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	τὴν	_	_	_	_	_	_	Align=unmatched
+14	Λοβνὰ	_	_	_	_	_	_	Align=unmatched
+15	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+16	τὰ	_	_	_	_	_	_	Align=unmatched
+17	περισπόρια	_	_	_	_	_	_	Align=unmatched
+18	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+19	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+20	τὴν	_	_	_	_	_	_	Align=unmatched
+21	Σελνὰ	_	_	_	_	_	_	Align=unmatched
+22	καὶ	_	_	_	_	_	_	Align=unmatched
+23	τὰ	_	_	_	_	_	_	Align=unmatched
+24	περισπόρια	_	_	_	_	_	_	Align=unmatched
+25	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+26	καὶ	_	_	_	_	_	_	Align=unmatched
+27	τὴν	_	_	_	_	_	_	Align=unmatched
+28	Ἐσθαμὼ	_	_	_	_	_	_	Align=unmatched
+29	καὶ	_	_	_	_	_	_	Align=unmatched
+30	τὰ	_	_	_	_	_	_	Align=unmatched
+31	περισπόρια	_	_	_	_	_	_	Align=unmatched
+32	αὐτῆς	_	_	_	_	_	_	Align=unmatched,source_extra:13
+
+# ref = 1CH.6.58
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	Ἱεθθὰρ	Δαβωρ	_	_	_	_	_	Align=positional
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	περισπόρια	περισπόριον	_	_	_	_	_	Align=positional
+7	αὐτῆς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	Δαβεὶρ	Αναμ	_	_	_	_	_	Align=positional
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	περισπόρια	περισπόριον	_	_	_	_	_	Align=positional
+14	αὐτῆς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = 1CH.6.59
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὴν	_	_	_	_	_	_	Align=unmatched
+3	Ἀσὰν	_	_	_	_	_	_	Align=unmatched
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	περισπόρια	περισπόριον	_	_	_	_	_	Align=positional
+7	αὐτῆς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	Ἀττὰν	Αβαραν	_	_	_	_	_	Align=positional
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	τὰ	_	_	_	_	_	_	Align=unmatched
+13	περισπόρια	_	_	_	_	_	_	Align=unmatched
+14	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+15	καὶ	_	_	_	_	_	_	Align=unmatched
+16	τὴν	_	_	_	_	_	_	Align=unmatched
+17	Βασάμυς	_	_	_	_	_	_	Align=unmatched,source_extra:8
+
+# ref = 1CH.6.60
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐκ	_	_	_	_	_	_	Align=unmatched
+3	φυλῆς	_	_	_	_	_	_	Align=unmatched
+4	Βενιαμεὶν	_	_	_	_	_	_	Align=unmatched
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	τὴν	_	_	_	_	_	_	Align=unmatched
+7	Γάβαι	_	_	_	_	_	_	Align=unmatched
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	τὰ	_	_	_	_	_	_	Align=unmatched
+10	περισπόρια	_	_	_	_	_	_	Align=unmatched
+11	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	τὴν	_	_	_	_	_	_	Align=unmatched
+14	Γαλέμεθ	_	_	_	_	_	_	Align=unmatched
+15	καὶ	_	_	_	_	_	_	Align=unmatched
+16	τὰ	_	_	_	_	_	_	Align=unmatched
+17	περισπόρια	_	_	_	_	_	_	Align=unmatched
+18	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+19	καὶ	_	_	_	_	_	_	Align=unmatched
+20	τὴν	_	_	_	_	_	_	Align=unmatched
+21	Ἀγχὼχ	_	_	_	_	_	_	Align=unmatched
+22	καὶ	_	_	_	_	_	_	Align=unmatched
+23	τὰ	_	_	_	_	_	_	Align=unmatched
+24	περισπόρια	_	_	_	_	_	_	Align=unmatched
+25	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+26	πᾶσαι	_	_	_	_	_	_	Align=unmatched
+27	αἱ	_	_	_	_	_	_	Align=unmatched
+28	πόλεις	_	_	_	_	_	_	Align=unmatched
+29	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+30	τρισκαίδεκα	_	_	_	_	_	_	Align=unmatched
+31	πόλεις	_	_	_	_	_	_	Align=unmatched
+32	κατὰ	_	_	_	_	_	_	Align=unmatched
+33	πατριὰς	_	_	_	_	_	_	Align=unmatched
+34	αὐτῶν	_	_	_	_	_	_	Align=unmatched,source_extra:10
+
+# ref = 1CH.6.61
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τοῖς	_	_	_	_	_	_	Align=unmatched
+3	υἱοῖς	_	_	_	_	_	_	Align=unmatched
+4	Καὰθ	_	_	_	_	_	_	Align=unmatched
+5	τοῖς	_	_	_	_	_	_	Align=unmatched
+6	καταλοίποις	_	_	_	_	_	_	Align=unmatched
+7	ἐκ	_	_	_	_	_	_	Align=unmatched
+8	τῶν	_	_	_	_	_	_	Align=unmatched
+9	πατριῶν	_	_	_	_	_	_	Align=unmatched
+10	ἐκ	_	_	_	_	_	_	Align=unmatched
+11	τῆς	_	_	_	_	_	_	Align=unmatched
+12	φυλῆς	_	_	_	_	_	_	Align=unmatched
+13	ἐκ	_	_	_	_	_	_	Align=unmatched
+14	τοῦ	_	_	_	_	_	_	Align=unmatched
+15	ἡμίσους	_	_	_	_	_	_	Align=unmatched
+16	φυλῆς	_	_	_	_	_	_	Align=unmatched
+17	Μανασσὴ	_	_	_	_	_	_	Align=unmatched
+18	κλήρῳ	_	_	_	_	_	_	Align=unmatched
+19	πόλεις	_	_	_	_	_	_	Align=unmatched
+20	δέκα	_	_	_	_	_	_	Align=unmatched,source_extra:26
+
+# ref = 1CH.6.62
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τοῖς	_	_	_	_	_	_	Align=unmatched
+3	υἱοῖς	_	_	_	_	_	_	Align=unmatched
+4	Γεδσὼν	_	_	_	_	_	_	Align=unmatched
+5	κατὰ	_	_	_	_	_	_	Align=unmatched
+6	πατριὰς	_	_	_	_	_	_	Align=unmatched
+7	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+8	ἐκ	_	_	_	_	_	_	Align=unmatched
+9	φυλῆς	_	_	_	_	_	_	Align=unmatched
+10	Ἰσσαχάρ	_	_	_	_	_	_	Align=unmatched
+11	ἐκ	_	_	_	_	_	_	Align=unmatched
+12	φυλῆς	_	_	_	_	_	_	Align=unmatched
+13	Ἀσήρ	_	_	_	_	_	_	Align=unmatched
+14	ἐκ	_	_	_	_	_	_	Align=unmatched
+15	φυλῆς	_	_	_	_	_	_	Align=unmatched
+16	Νεφθαλεί	_	_	_	_	_	_	Align=unmatched
+17	ἐκ	_	_	_	_	_	_	Align=unmatched
+18	φυλῆς	_	_	_	_	_	_	Align=unmatched
+19	Μανασσὴ	_	_	_	_	_	_	Align=unmatched
+20	ἐν	_	_	_	_	_	_	Align=unmatched
+21	τῇ	_	_	_	_	_	_	Align=unmatched
+22	Βασὰν	_	_	_	_	_	_	Align=unmatched
+23	πόλεις	_	_	_	_	_	_	Align=unmatched
+24	τρισκαίδεκα	_	_	_	_	_	_	Align=unmatched,source_extra:20
+
+# ref = 1CH.6.63
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τοῖς	_	_	_	_	_	_	Align=unmatched
+3	υἱοῖς	_	_	_	_	_	_	Align=unmatched
+4	Μεραρεὶ	_	_	_	_	_	_	Align=unmatched
+5	κατὰ	κατά	_	_	_	_	_	Strong=G2596|Align=exact
+6	πατριὰς	_	_	_	_	_	_	Align=unmatched
+7	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+8	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+9	φυλῆς	φυλή	_	_	_	_	_	Strong=G5443|Align=positional
+10	Ῥουβήν	Ῥουβήν	_	_	_	_	_	Strong=G4502|Align=exact
+11	ἐκ	_	_	_	_	_	_	Align=unmatched
+12	φυλῆς	_	_	_	_	_	_	Align=unmatched
+13	Δάν	_	_	_	_	_	_	Align=unmatched
+14	ἐκ	_	_	_	_	_	_	Align=unmatched
+15	φυλῆς	_	_	_	_	_	_	Align=unmatched
+16	Ζαβουλὼν	_	_	_	_	_	_	Align=unmatched
+17	κλήρῳ	_	_	_	_	_	_	Align=unmatched
+18	πόλεις	_	_	_	_	_	_	Align=unmatched
+19	δέκα	_	_	_	_	_	_	Align=unmatched
+20	δύο	_	_	_	_	_	_	Align=unmatched,source_extra:25
+
+# ref = 1CH.6.64
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἔδωκαν	_	_	_	_	_	_	Align=unmatched
+3	οἱ	_	_	_	_	_	_	Align=unmatched
+4	υἱοὶ	_	_	_	_	_	_	Align=unmatched
+5	Ἰσραὴλ	_	_	_	_	_	_	Align=unmatched
+6	τοῖς	_	_	_	_	_	_	Align=unmatched
+7	Λευείταις	_	_	_	_	_	_	Align=unmatched
+8	τὰς	_	_	_	_	_	_	Align=unmatched
+9	πόλεις	_	_	_	_	_	_	Align=unmatched
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	τὰ	_	_	_	_	_	_	Align=unmatched
+12	περισπόρια	_	_	_	_	_	_	Align=unmatched
+13	αὐτῶν	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = 1CH.6.65
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	ἔδωκαν	_	_	_	_	_	_	Align=unmatched
+3	ἐν	_	_	_	_	_	_	Align=unmatched
+4	κλήρῳ	_	_	_	_	_	_	Align=unmatched
+5	ἐκ	_	_	_	_	_	_	Align=unmatched
+6	φυλῆς	_	_	_	_	_	_	Align=unmatched
+7	υἱῶν	_	_	_	_	_	_	Align=unmatched
+8	Ἰούδα	_	_	_	_	_	_	Align=unmatched
+9	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+10	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+11	φυλῆς	_	_	_	_	_	_	Align=unmatched
+12	υἱῶν	_	_	_	_	_	_	Align=unmatched
+13	Συμεὼν	_	_	_	_	_	_	Align=unmatched
+14	τὰς	_	_	_	_	_	_	Align=unmatched
+15	πόλεις	_	_	_	_	_	_	Align=unmatched
+16	ταύτας	_	_	_	_	_	_	Align=unmatched
+17	ἃ	_	_	_	_	_	_	Align=unmatched
+18	ἐκάλεσεν	_	_	_	_	_	_	Align=unmatched
+19	αὐτάς	_	_	_	_	_	_	Align=unmatched,source_extra:16
+
+# ref = 1CH.6.66
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+3	τῶν	_	_	_	_	_	_	Align=unmatched
+4	πατριῶν	_	_	_	_	_	_	Align=unmatched
+5	υἱῶν	_	_	_	_	_	_	Align=unmatched
+6	Καάθ	_	_	_	_	_	_	Align=unmatched
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	ἐγένοντο	_	_	_	_	_	_	Align=unmatched
+9	πόλεις	_	_	_	_	_	_	Align=unmatched
+10	τῶν	_	_	_	_	_	_	Align=unmatched
+11	ὁρίων	_	_	_	_	_	_	Align=unmatched
+12	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+13	ἐκ	_	_	_	_	_	_	Align=unmatched
+14	φυλῆς	_	_	_	_	_	_	Align=unmatched
+15	Ἐφράιμ	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = 1CH.6.67
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	ἔδωκαν	_	_	_	_	_	_	Align=unmatched
+3	αὐτῷ	_	_	_	_	_	_	Align=unmatched
+4	τὰς	_	_	_	_	_	_	Align=unmatched
+5	πόλεις	_	_	_	_	_	_	Align=unmatched
+6	τῶν	_	_	_	_	_	_	Align=unmatched
+7	φυγαδευτρηίων	_	_	_	_	_	_	Align=unmatched
+8	τὴν	_	_	_	_	_	_	Align=unmatched
+9	Συχὲμ	_	_	_	_	_	_	Align=unmatched
+10	καὶ	_	_	_	_	_	_	Align=unmatched
+11	τὰ	_	_	_	_	_	_	Align=unmatched
+12	περισπόρια	_	_	_	_	_	_	Align=unmatched
+13	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+14	ἐν	_	_	_	_	_	_	Align=unmatched
+15	ὄρει	_	_	_	_	_	_	Align=unmatched
+16	Ἐφράιμ	_	_	_	_	_	_	Align=unmatched
+17	καὶ	_	_	_	_	_	_	Align=unmatched
+18	τὴν	_	_	_	_	_	_	Align=unmatched
+19	Γάζερ	_	_	_	_	_	_	Align=unmatched
+20	καὶ	_	_	_	_	_	_	Align=unmatched
+21	τὰ	_	_	_	_	_	_	Align=unmatched
+22	περισπόρια	_	_	_	_	_	_	Align=unmatched
+23	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.68
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	τὴν	_	_	_	_	_	_	Align=unmatched
+3	Ἰκαὰμ	_	_	_	_	_	_	Align=unmatched
+4	καὶ	_	_	_	_	_	_	Align=unmatched
+5	τὰ	_	_	_	_	_	_	Align=unmatched
+6	περισπόρια	_	_	_	_	_	_	Align=unmatched
+7	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+8	καὶ	_	_	_	_	_	_	Align=unmatched
+9	τὴν	_	_	_	_	_	_	Align=unmatched
+10	Βαιθωρὼν	_	_	_	_	_	_	Align=unmatched
+11	καὶ	_	_	_	_	_	_	Align=unmatched
+12	τὰ	_	_	_	_	_	_	Align=unmatched
+13	περισπόρια	_	_	_	_	_	_	Align=unmatched
+14	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.69
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	τὴν	_	_	_	_	_	_	Align=unmatched
+3	Ἐγλὰμ	_	_	_	_	_	_	Align=unmatched
+4	καὶ	_	_	_	_	_	_	Align=unmatched
+5	τὰ	_	_	_	_	_	_	Align=unmatched
+6	περισπόρια	_	_	_	_	_	_	Align=unmatched
+7	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+8	καὶ	_	_	_	_	_	_	Align=unmatched
+9	τὴν	_	_	_	_	_	_	Align=unmatched
+10	Γεθωρὼν	_	_	_	_	_	_	Align=unmatched
+11	καὶ	_	_	_	_	_	_	Align=unmatched
+12	τὰ	_	_	_	_	_	_	Align=unmatched
+13	περισπόρια	_	_	_	_	_	_	Align=unmatched
+14	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.70
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+3	τῶν	_	_	_	_	_	_	Align=unmatched
+4	ἡμίσους	_	_	_	_	_	_	Align=unmatched
+5	φυλῆς	_	_	_	_	_	_	Align=unmatched
+6	Μανασσὴ	_	_	_	_	_	_	Align=unmatched
+7	τὴν	_	_	_	_	_	_	Align=unmatched
+8	Ἀμὰρ	_	_	_	_	_	_	Align=unmatched
+9	καὶ	_	_	_	_	_	_	Align=unmatched
+10	τὰ	_	_	_	_	_	_	Align=unmatched
+11	περισπόρια	_	_	_	_	_	_	Align=unmatched
+12	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+13	κατὰ	_	_	_	_	_	_	Align=unmatched
+14	πατριὰν	_	_	_	_	_	_	Align=unmatched
+15	τοῖς	_	_	_	_	_	_	Align=unmatched
+16	υἱοῖς	_	_	_	_	_	_	Align=unmatched
+17	Καὰθ	_	_	_	_	_	_	Align=unmatched
+18	τοῖς	_	_	_	_	_	_	Align=unmatched
+19	καταλοίποις	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.71
+1	τοῖς	_	_	_	_	_	_	Align=unmatched
+2	υἱοῖς	_	_	_	_	_	_	Align=unmatched
+3	Γεδσὼν	_	_	_	_	_	_	Align=unmatched
+4	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+5	πατριῶν	_	_	_	_	_	_	Align=unmatched
+6	ἡμίσους	_	_	_	_	_	_	Align=unmatched
+7	φυλῆς	_	_	_	_	_	_	Align=unmatched
+8	Μανασσὴ	_	_	_	_	_	_	Align=unmatched
+9	τὴν	_	_	_	_	_	_	Align=unmatched
+10	Γωλὰν	_	_	_	_	_	_	Align=unmatched
+11	ἐκ	_	_	_	_	_	_	Align=unmatched
+12	τῆς	_	_	_	_	_	_	Align=unmatched
+13	Βασὰν	_	_	_	_	_	_	Align=unmatched
+14	καὶ	_	_	_	_	_	_	Align=unmatched
+15	τὰ	_	_	_	_	_	_	Align=unmatched
+16	περιπόλια	_	_	_	_	_	_	Align=unmatched
+17	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+18	καὶ	_	_	_	_	_	_	Align=unmatched
+19	τὴν	_	_	_	_	_	_	Align=unmatched
+20	Ἀσηρὼθ	_	_	_	_	_	_	Align=unmatched
+21	καὶ	_	_	_	_	_	_	Align=unmatched
+22	τὰ	_	_	_	_	_	_	Align=unmatched
+23	περισπόρια	_	_	_	_	_	_	Align=unmatched
+24	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.72
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	ἐκ	_	_	_	_	_	_	Align=unmatched
+3	φυλῆς	_	_	_	_	_	_	Align=unmatched
+4	Ἰσσαχὰρ	_	_	_	_	_	_	Align=unmatched
+5	τὴν	_	_	_	_	_	_	Align=unmatched
+6	Κέδες	_	_	_	_	_	_	Align=unmatched
+7	καὶ	_	_	_	_	_	_	Align=unmatched
+8	τὰ	_	_	_	_	_	_	Align=unmatched
+9	περισπόρια	_	_	_	_	_	_	Align=unmatched
+10	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+11	καὶ	_	_	_	_	_	_	Align=unmatched
+12	τὴν	_	_	_	_	_	_	Align=unmatched
+13	Δεβερεὶ	_	_	_	_	_	_	Align=unmatched
+14	καὶ	_	_	_	_	_	_	Align=unmatched
+15	τὰ	_	_	_	_	_	_	Align=unmatched
+16	περισπόρια	_	_	_	_	_	_	Align=unmatched
+17	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+18	καὶ	_	_	_	_	_	_	Align=unmatched
+19	τὴν	_	_	_	_	_	_	Align=unmatched
+20	Δαβὼρ	_	_	_	_	_	_	Align=unmatched
+21	καὶ	_	_	_	_	_	_	Align=unmatched
+22	τὰ	_	_	_	_	_	_	Align=unmatched
+23	περισπόρια	_	_	_	_	_	_	Align=unmatched
+24	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.74
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	ἐκ	_	_	_	_	_	_	Align=unmatched
+3	φυλῆς	_	_	_	_	_	_	Align=unmatched
+4	Ἀσὴρ	_	_	_	_	_	_	Align=unmatched
+5	τὴν	_	_	_	_	_	_	Align=unmatched
+6	Μαασὰ	_	_	_	_	_	_	Align=unmatched
+7	καὶ	_	_	_	_	_	_	Align=unmatched
+8	τὰ	_	_	_	_	_	_	Align=unmatched
+9	περισπόρια	_	_	_	_	_	_	Align=unmatched
+10	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+11	καὶ	_	_	_	_	_	_	Align=unmatched
+12	τὴν	_	_	_	_	_	_	Align=unmatched
+13	Ἀβαρὰν	_	_	_	_	_	_	Align=unmatched
+14	καὶ	_	_	_	_	_	_	Align=unmatched
+15	τὰ	_	_	_	_	_	_	Align=unmatched
+16	περισπόρια	_	_	_	_	_	_	Align=unmatched
+17	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.75
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	τὴν	_	_	_	_	_	_	Align=unmatched
+3	Ἱκὰκ	_	_	_	_	_	_	Align=unmatched
+4	καὶ	_	_	_	_	_	_	Align=unmatched
+5	τὰ	_	_	_	_	_	_	Align=unmatched
+6	περισπόρια	_	_	_	_	_	_	Align=unmatched
+7	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+8	καὶ	_	_	_	_	_	_	Align=unmatched
+9	τὴν	_	_	_	_	_	_	Align=unmatched
+10	Ῥοὼβ	_	_	_	_	_	_	Align=unmatched
+11	καὶ	_	_	_	_	_	_	Align=unmatched
+12	τὰ	_	_	_	_	_	_	Align=unmatched
+13	περισπόρια	_	_	_	_	_	_	Align=unmatched
+14	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.76
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	ἀπὸ	_	_	_	_	_	_	Align=unmatched
+3	φυλῆς	_	_	_	_	_	_	Align=unmatched
+4	Νεφθαλεὶ	_	_	_	_	_	_	Align=unmatched
+5	τὴν	_	_	_	_	_	_	Align=unmatched
+6	Κέδες	_	_	_	_	_	_	Align=unmatched
+7	ἐν	_	_	_	_	_	_	Align=unmatched
+8	τῇ	_	_	_	_	_	_	Align=unmatched
+9	Γαλειλαίᾳ	_	_	_	_	_	_	Align=unmatched
+10	καὶ	_	_	_	_	_	_	Align=unmatched
+11	τὰ	_	_	_	_	_	_	Align=unmatched
+12	περισπόρια	_	_	_	_	_	_	Align=unmatched
+13	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+14	καὶ	_	_	_	_	_	_	Align=unmatched
+15	τὴν	_	_	_	_	_	_	Align=unmatched
+16	Χαμὼθ	_	_	_	_	_	_	Align=unmatched
+17	καὶ	_	_	_	_	_	_	Align=unmatched
+18	τὰ	_	_	_	_	_	_	Align=unmatched
+19	περισπόρια	_	_	_	_	_	_	Align=unmatched
+20	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+21	καὶ	_	_	_	_	_	_	Align=unmatched
+22	τὴν	_	_	_	_	_	_	Align=unmatched
+23	Καριαθάιμ	_	_	_	_	_	_	Align=unmatched
+24	καὶ	_	_	_	_	_	_	Align=unmatched
+25	τὰ	_	_	_	_	_	_	Align=unmatched
+26	περισπόρια	_	_	_	_	_	_	Align=unmatched
+27	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.77
+1	τοῖς	_	_	_	_	_	_	Align=unmatched
+2	υἱοῖς	_	_	_	_	_	_	Align=unmatched
+3	Μεραρεὶ	_	_	_	_	_	_	Align=unmatched
+4	τοῖς	_	_	_	_	_	_	Align=unmatched
+5	καταλοίποις	_	_	_	_	_	_	Align=unmatched
+6	ἐκ	_	_	_	_	_	_	Align=unmatched
+7	φυλῆς	_	_	_	_	_	_	Align=unmatched
+8	Ζαβουλὼν	_	_	_	_	_	_	Align=unmatched
+9	τὴν	_	_	_	_	_	_	Align=unmatched
+10	Ῥεμμὼν	_	_	_	_	_	_	Align=unmatched
+11	καὶ	_	_	_	_	_	_	Align=unmatched
+12	τὰ	_	_	_	_	_	_	Align=unmatched
+13	περισπόρια	_	_	_	_	_	_	Align=unmatched
+14	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+15	καὶ	_	_	_	_	_	_	Align=unmatched
+16	τὴν	_	_	_	_	_	_	Align=unmatched
+17	Θαχχειὰ	_	_	_	_	_	_	Align=unmatched
+18	καὶ	_	_	_	_	_	_	Align=unmatched
+19	τὰ	_	_	_	_	_	_	Align=unmatched
+20	περισπόρια	_	_	_	_	_	_	Align=unmatched
+21	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.78
+1	ἐκ	_	_	_	_	_	_	Align=unmatched
+2	τοῦ	_	_	_	_	_	_	Align=unmatched
+3	πέραν	_	_	_	_	_	_	Align=unmatched
+4	τοῦ	_	_	_	_	_	_	Align=unmatched
+5	Ἰορδάνου	_	_	_	_	_	_	Align=unmatched
+6	καὶ	_	_	_	_	_	_	Align=unmatched
+7	τὴν	_	_	_	_	_	_	Align=unmatched
+8	Ἰερειχὼ	_	_	_	_	_	_	Align=unmatched
+9	κατὰ	_	_	_	_	_	_	Align=unmatched
+10	δυσμὰς	_	_	_	_	_	_	Align=unmatched
+11	τοῦ	_	_	_	_	_	_	Align=unmatched
+12	Ἰορδάνου	_	_	_	_	_	_	Align=unmatched
+13	ἐκ	_	_	_	_	_	_	Align=unmatched
+14	φυλῆς	_	_	_	_	_	_	Align=unmatched
+15	Ῥουβὴν	_	_	_	_	_	_	Align=unmatched
+16	τὴν	_	_	_	_	_	_	Align=unmatched
+17	Βόσορ	_	_	_	_	_	_	Align=unmatched
+18	ἐν	_	_	_	_	_	_	Align=unmatched
+19	τῇ	_	_	_	_	_	_	Align=unmatched
+20	ἐρήμῳ	_	_	_	_	_	_	Align=unmatched
+21	καὶ	_	_	_	_	_	_	Align=unmatched
+22	τὰ	_	_	_	_	_	_	Align=unmatched
+23	περισπόρια	_	_	_	_	_	_	Align=unmatched
+24	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.79
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	τὴν	_	_	_	_	_	_	Align=unmatched
+3	Καδαμὼς	_	_	_	_	_	_	Align=unmatched
+4	καὶ	_	_	_	_	_	_	Align=unmatched
+5	τὰ	_	_	_	_	_	_	Align=unmatched
+6	περισπόρια	_	_	_	_	_	_	Align=unmatched
+7	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+8	καὶ	_	_	_	_	_	_	Align=unmatched
+9	τὴν	_	_	_	_	_	_	Align=unmatched
+10	Μαέφλα	_	_	_	_	_	_	Align=unmatched
+11	καὶ	_	_	_	_	_	_	Align=unmatched
+12	τὰ	_	_	_	_	_	_	Align=unmatched
+13	περισπόρια	_	_	_	_	_	_	Align=unmatched
+14	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.80
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	ἐκ	_	_	_	_	_	_	Align=unmatched
+3	φυλῆς	_	_	_	_	_	_	Align=unmatched
+4	Γὰδ	_	_	_	_	_	_	Align=unmatched
+5	τὴν	_	_	_	_	_	_	Align=unmatched
+6	Ῥαμμὼν	_	_	_	_	_	_	Align=unmatched
+7	Γαλαὰδ	_	_	_	_	_	_	Align=unmatched
+8	καὶ	_	_	_	_	_	_	Align=unmatched
+9	τὰ	_	_	_	_	_	_	Align=unmatched
+10	περισπόρια	_	_	_	_	_	_	Align=unmatched
+11	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+12	καὶ	_	_	_	_	_	_	Align=unmatched
+13	τὴν	_	_	_	_	_	_	Align=unmatched
+14	Μαανάιθ	_	_	_	_	_	_	Align=unmatched
+15	καὶ	_	_	_	_	_	_	Align=unmatched
+16	τὰ	_	_	_	_	_	_	Align=unmatched
+17	περισπόρια	_	_	_	_	_	_	Align=unmatched
+18	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+
+# ref = 1CH.6.81
+1	καὶ	_	_	_	_	_	_	Align=unmatched
+2	τὴν	_	_	_	_	_	_	Align=unmatched
+3	Ἑσεβὼν	_	_	_	_	_	_	Align=unmatched
+4	καὶ	_	_	_	_	_	_	Align=unmatched
+5	τὰ	_	_	_	_	_	_	Align=unmatched
+6	περισπόρια	_	_	_	_	_	_	Align=unmatched
+7	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+8	καὶ	_	_	_	_	_	_	Align=unmatched
+9	τὴν	_	_	_	_	_	_	Align=unmatched
+10	Γαζὲρ	_	_	_	_	_	_	Align=unmatched
+11	καὶ	_	_	_	_	_	_	Align=unmatched
+12	τὰ	_	_	_	_	_	_	Align=unmatched
+13	περισπόρια	_	_	_	_	_	_	Align=unmatched
+14	αὐτῆς	_	_	_	_	_	_	Align=unmatched
+

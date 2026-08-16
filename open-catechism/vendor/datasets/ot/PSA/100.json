@@ -1,0 +1,97 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 100,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Psalmus in confessione.  ",
+      "hebrew_masoretic": "מִזְמ֥וֹר לְתוֹדָ֑ה הָרִ֥יעוּ לַ֝יהֹוָ֗ה כׇּל־הָאָֽרֶץ׃",
+      "douay_rheims": "A psalm of praise.",
+      "finnish_biblia": "Kiitos-Psalmi. Riemuitkaat Herralle, kaikki maa! ",
+      "swedish_karl_xii": "Een Tackpsalm. Frögdens HERRANOM, all werlden.",
+      "king_james": "Make a joyful noise unto the LORD, all ye lands.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "99:1"
+        },
+        "douay_rheims": {
+          "src": "99:1"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "  Jubilate Deo, omnis terra ;  servite Domino in lætitia.  Introite in conspectu ejus in exsultatione. ",
+      "hebrew_masoretic": "עִבְד֣וּ אֶת־יְהֹוָ֣ה בְּשִׂמְחָ֑ה בֹּ֥אוּ לְ֝פָנָ֗יו בִּרְנָנָֽה׃",
+      "douay_rheims": "Sing joyfully to God, all the earth: serve ye the Lord with gladness. Come in before his presence with exceeding great joy.",
+      "finnish_biblia": "Palvelkaat Herraa ilolla: tulkaat hänen kasvoinsa eteen riemulla! ",
+      "swedish_karl_xii": "Tiener HERRANOM medh frögd; kommer för hans ansichte medh glädskap.",
+      "king_james": "Serve the LORD with gladness: come before his presence with singing.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "99:2"
+        },
+        "douay_rheims": {
+          "src": "99:2"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Scitote quoniam Dominus ipse est Deus ;  ipse fecit nos, et non ipsi nos :  populus ejus, et oves pascuæ ejus. ",
+      "hebrew_masoretic": "דְּע֗וּ כִּֽי־יְהֹוָה֮ ה֤וּא אֱלֹ֫הִ֥ים הֽוּא־עָ֭שָׂנוּ (ולא) [וְל֣וֹ] אֲנַ֑חְנוּ עַ֝מּ֗וֹ וְצֹ֣אן מַרְעִיתֽוֹ׃",
+      "douay_rheims": "Know ye that the Lord he is God: he made us, and not we ourselves. We are his people and the sheep of his pasture.",
+      "finnish_biblia": "Tietäkäät, että Herra on Jumala: hänpä meidän teki, ja emme itse meitämme, kansaksensa ja laitumensa lampaiksi. ",
+      "swedish_karl_xii": "Förnimmer at HERREN är Gudh: han hafwer giordt oß, och icke wij sielfwe, til sitt folck, och til sin fosterfåår.",
+      "king_james": "Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "99:3"
+        },
+        "douay_rheims": {
+          "src": "99:3"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Introite portas ejus in confessione ;  atria ejus in hymnis :  confitemini illi.  Laudate nomen ejus, ",
+      "hebrew_masoretic": "בֹּ֤אוּ שְׁעָרָ֨יו ׀ בְּתוֹדָ֗ה חֲצֵרֹתָ֥יו בִּתְהִלָּ֑ה הוֹדוּ־ל֝֗וֹ בָּרְכ֥וּ שְׁמֽוֹ׃",
+      "douay_rheims": "Go ye into his gates with praise, into his courts with hymns: and give glory to him. Praise ye his name:",
+      "finnish_biblia": "Menkäät hänen porttiinsa kiitoksella, hänen esihuoneisiinsa veisulla: kiittäkäät häntä ja ylistäkäät hänen nimeänsä! ",
+      "swedish_karl_xii": "Går in i hans portar medh tackande; vthi hans gårdar medh lofwande: tacker honom, lofwer hans namn.",
+      "king_james": "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "99:4"
+        },
+        "douay_rheims": {
+          "src": "99:4"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "quoniam suavis est Dominus,  in æternum misericordia ejus,  et usque in generationem et generationem veritas ejus.  ",
+      "hebrew_masoretic": "כִּי־ט֣וֹב יְ֭הֹוָה לְעוֹלָ֣ם חַסְדּ֑וֹ וְעַד־דֹּ֥ר וָ֝דֹ֗ר אֱמוּנָתֽוֹ׃ {פ}",
+      "douay_rheims": "For the Lord is sweet, his mercy endureth for ever, and his truth to generation and generation. ",
+      "finnish_biblia": "Sillä Herra on hyvä, ja hänen laupiutensa pysyy ijankaikkisesti, ja hänen totuutensa sukukunnasta sukukuntaan.   ",
+      "swedish_karl_xii": "Ty HERREN är godh: och hans nådh warar ewinnerliga; och hans sanning ifrå slächte til slächte.",
+      "king_james": "For the LORD is good; his mercy is everlasting; and his truth endureth to all generations. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "99:5"
+        },
+        "douay_rheims": {
+          "src": "99:5"
+        }
+      }
+    }
+  ]
+}

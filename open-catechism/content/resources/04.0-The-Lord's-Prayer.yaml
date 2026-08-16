@@ -1,0 +1,102 @@
+1:
+  title: "The Meditation of My Heart"
+  refs: !!set
+    ? "Psalm 19:14"
+
+2:
+  title: "Give Thanks Without Ceasing"
+  refs: !!set
+    ? "Psalm 105:1"
+    ? "1 Thessalonians 5:17-18"
+
+3:
+  title: "Ask in Faith, Without Doubting"
+  refs: !!set
+    ? "Matthew 21:22"
+    ? "John 16:24"
+    ? "James 1:6-7"
+
+4:
+  title: "Pray Then Like This"
+  refs: !!set
+    ? "Matthew 6:9"
+
+5:
+  title: "Jesus Prays the Psalms"
+  refs: !!set
+    ? "Matthew 27:46"
+    ? "Psalm 22:1"
+    ? "Luke 23:46"
+    ? "Psalm 31:5"
+    ? "Matthew 21:16"
+    ? "Psalm 8:2"
+    ? "Matthew 22:44"
+    ? "Psalm 110:1"
+    ? "John 10"
+    ? "Psalm 23"
+    ? "Psalm 95"
+
+6:
+  title: "The Psalms Teach Us to Pray"
+  refs: !!set
+    ? "Psalm 51"
+    ? "Psalm 22"
+    ? "Psalm 82"
+    ? "Psalm 118"
+    ? "Psalm 10"
+    ? "Psalm 136"
+
+7:
+  title: "How God Answers Prayer"
+  refs: !!set
+    ? "Isaiah 65:24"
+    ? "2 Corinthians 12:8-9"
+
+8:
+  title: "Faith That Keeps Asking"
+  refs: !!set
+    ? "Matthew 8:5-13"
+    ? "Matthew 9:1-8"
+    ? "Exodus 3:7-10"
+    ? "Luke 18:1-8"
+
+9:
+  title: "Interceding for Others"
+  refs: !!set
+    ? "1 Timothy 2:1-2"
+    ? "Matthew 5:44"
+    ? "Luke 18:13"
+    ? "Genesis 18:23-32"
+    ? "Matthew 15:22-28"
+    ? "Luke 23:34"
+    ? "Acts 7:60"
+    ? "Hebrews 9:27"
+
+10:
+  title: "Praying Alone and Together"
+  refs: !!set
+    ? "1 Timothy 2:8"
+    ? "Matthew 6:6"
+    ? "Luke 5:16"
+    ? "Acts 12:5"
+
+11:
+  title: "The Rhythm of Daily Prayer"
+  refs: !!set
+    ? "Psalm 65:8"
+    ? "Psalm 119:164"
+    ? "Luke 18:1"
+    ? "1 Thessalonians 5:17-18"
+    ? "Psalm 50:15"
+    ? "Acts 2:46-3:1"
+
+12:
+  title: "The Spirit Helps Us Pray"
+  refs: !!set
+    ? "Romans 8:26"
+
+13:
+  title: "Lord, Teach Us to Pray"
+  refs: !!set
+    ? "Luke 11:1-4"
+    ? "Matthew 6:7-13"

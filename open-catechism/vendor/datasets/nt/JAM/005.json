@@ -1,0 +1,171 @@
+{
+  "book_id": "JAM",
+  "latin_name": "Epistula Jacobi",
+  "greek_name": "Ἰάκωβος",
+  "finnish_name": "Jaakobin kirje",
+  "swedish_name": "S. Jacobs Epistel",
+  "english_name": "The General Epistle of James",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Agite nunc divites, plorate ululantes in miseriis vestris, quæ advenient vobis.",
+      "greek_textus_receptus": "ἄγε νῦν οἱ πλούσιοι κλαύσατε ὀλολύζοντες ἐπὶ ταῖς ταλαιπωρίαις ὑμῶν ταῖς ἐπερχομέναις",
+      "finnish_biblia": "Nyt hyvin, te rikkaat! itkekäät ja ulvokaat teidän viheliäisyyttänne, joka teidän päällenne tuleva on. ",
+      "swedish_karl_xii": "Nu wäl, J rike, gråter, och tiuter öfwer edor vselhet, som eder öfwerkomma skal.",
+      "king_james": "Go to now, *ye* rich men, weep and howl for your miseries that shall come upon *you*."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Divitiæ vestræ putrefactæ sunt, et vestimenta vestra a tineis comesta sunt.",
+      "greek_textus_receptus": "ὁ πλοῦτος ὑμῶν σέσηπεν καὶ τὰ ἱμάτια ὑμῶν σητόβρωτα γέγονεν",
+      "finnish_biblia": "Teidän rikkautenne ovat mädänneet, teidän vaatteenne ovat koidellut. ",
+      "swedish_karl_xii": "Edra rikedomar äro förrottnade; edor kläder äro vpäten af maal.",
+      "king_james": "Your riches are corrupted, and your garments are motheaten."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Aurum et argentum vestrum æruginavit: et ærugo eorum in testimonium vobis erit, et manducabit carnes vestras sicut ignis. Thesaurizastis vobis iram in novissimis diebus.",
+      "greek_textus_receptus": "ὁ χρυσὸς ὑμῶν καὶ ὁ ἄργυρος κατίωται καὶ ὁ ἰὸς αὐτῶν εἰς μαρτύριον ὑμῖν ἔσται καὶ φάγεται τὰς σάρκας ὑμῶν ὡς πῦρ ἐθησαυρίσατε ἐν ἐσχάταις ἡμέραις",
+      "finnish_biblia": "Teidän kultanne ja hopianne ovat ruostuneet, ja niiden ruoste pitää oleman teille todistukseksi, ja pitää syömän teidän lihanne niinkuin tuli. Te olette rikkauden koonneet teillenne viimeisinä päivinä. ",
+      "swedish_karl_xii": "Edart guld och silfwer är förrostat, och theras rost skal wara eder til witnesbyrd, och skal vpäta edart kött såsom en eld. J hafwen församlat eder ägodelar i yttersta dagarna.",
+      "king_james": "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Ecce merces operariorum, qui messuerunt regiones vestras, quæ fraudata est a vobis, clamat: et clamor eorum in aures Domini sabbaoth introivit.",
+      "greek_textus_receptus": "ἰδού ὁ μισθὸς τῶν ἐργατῶν τῶν ἀμησάντων τὰς χώρας ὑμῶν ὁ ἀπεστερημένος ἀφ᾽ ὑμῶν κράζει καὶ αἱ βοαὶ τῶν θερισάντων εἰς τὰ ὦτα κυρίου σαβαὼθ εἰσεληλύθασιν",
+      "finnish_biblia": "Katso, työmiesten palkka, jotka teidän maakuntainne elon niittäneet ovat, joka petoksella teiltä pidetty on, huutaa, ja elonleikkaajain parut ja huudot ovat tulleet Herran Zebaotin korville: ",
+      "swedish_karl_xii": "Sij, arbetarenas löön, som edart land afbärgat hafwer, hwilken J them swikliga ifrå haft hafwen, ropar; och theras roop som afbergde, är inkommet i Herrans Zebaoths öron.",
+      "king_james": "Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Epulati estis super terram, et in luxuriis enutristis corda vestra in die occisionis.",
+      "greek_textus_receptus": "ἐτρυφήσατε ἐπὶ τῆς γῆς καὶ ἐσπαταλήσατε ἐθρέψατε τὰς καρδίας ὑμῶν ὡς ἐν ἡμέρᾳ σφαγῆς",
+      "finnish_biblia": "Te olette herkuissa eläneet maan päällä, ja olette teidän hekumanne pitäneet, ja teidän sydämenne syötelleet niinkuin teuraspäivänä. ",
+      "swedish_karl_xii": "J hafwen lefwat i kräselighet på jordene, och haft edra wällust, och vpfödt edor hierta, såsom på en slachtedag.",
+      "king_james": "Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Addixistis, et occidistis justum, et non resistit vobis.",
+      "greek_textus_receptus": "κατεδικάσατε ἐφονεύσατε τὸν δίκαιον οὐκ ἀντιτάσσεται ὑμῖν",
+      "finnish_biblia": "Te olette tuominneet, te olette tappaneet vanhurskaan, joka ei ole teitä vastaan ollut. ",
+      "swedish_karl_xii": "J hafwen dömdt och dödat then rättferdiga; och han hafwer eder intet emotståndet.",
+      "king_james": "Ye have condemned *and* killed the just; *and* he doth not resist you."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Patientes igitur estote, fratres, usque ad adventum Domini. Ecce agricola exspectat pretiosum fructum terræ, patienter ferens donec accipiat temporaneum et serotinum.",
+      "greek_textus_receptus": "μακροθυμήσατε οὖν ἀδελφοί ἕως τῆς παρουσίας τοῦ κυρίου ἰδού ὁ γεωργὸς ἐκδέχεται τὸν τίμιον καρπὸν τῆς γῆς μακροθυμῶν ἐπ᾽ αὐτῷ ἕως ἂν λάβῃ ὑετὸν πρώϊμον καὶ ὄψιμον",
+      "finnish_biblia": "Niin olkaat siis kärsivälliset, rakkaat veljet, Herran tulemiseen asti. Katso, peltomies odottaa kallista maan hedelmää, ja on kärsivällinen siihenasti kuin hän saa varhaisen ja hiljaisen sateen. ",
+      "swedish_karl_xii": "Så warer nu tolige, käre bröder, in til Herrans tilkommelse. Sij, åkermannen wänter efter then kosteliga jordenes frucht, toleliga bediandes, så länge han får ett morgonregn och aftonregn.",
+      "king_james": "Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Patientes igitur estote et vos, et confirmate corda vestra: quoniam adventus Domini appropinquavit.",
+      "greek_textus_receptus": "μακροθυμήσατε καὶ ὑμεῖς στηρίξατε τὰς καρδίας ὑμῶν ὅτι ἡ παρουσία τοῦ κυρίου ἤγγικεν",
+      "finnish_biblia": "Niin olkaat te myös kärsivälliset ja vahvistakaat sydämenne; sillä Herran tulemus lähestyy. ",
+      "swedish_karl_xii": "Så warer ock J tolige, och styrcker edor hierta: ty Herrans tilkommelse är när.",
+      "king_james": "Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Nolite ingemiscere, fratres, in alterutrum, ut non judicemini. Ecce judex ante januam assistit.",
+      "greek_textus_receptus": "μὴ στενάζετε κατ᾽ ἀλλήλων ἀδελφοί ἵνα μὴ κατακριθῆτε ἰδού κριτὴς πρὸ τῶν θυρῶν ἕστηκεν",
+      "finnish_biblia": "Älkäät huoatko, rakkaat veljet, toinen toistanne vastaan, ettette kadotetuksi tulisi. Katso, tuomari seisoo oven edessä. ",
+      "swedish_karl_xii": "Sucken icke, käre bröder, emot hwar annan, på thet J icke warden fördömde. Sij, domaren är för dörene.",
+      "king_james": "Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Exemplum accipite, fratres, exitus mali, laboris, et patientiæ, prophetas qui locuti sunt in nomine Domini.",
+      "greek_textus_receptus": "ὑπόδειγμα λάβετε τῆς κακοπαθείας ἀδελφοί μου καὶ τῆς μακροθυμίας τοὺς προφήτας οἳ ἐλάλησαν τῷ ὀνόματι κυρίου",
+      "finnish_biblia": "Ottakaat, rakkaat veljeni, vaivan ja kärsivällisyyden esikuva niistä prophetaista, jotka Herran nimeen puhuneet ovat. ",
+      "swedish_karl_xii": "Tager, mine bröder, Propheterna för efterdömelse, til bedröfwelse och tolamod, hwilke talat hafwa i Herrans namn:",
+      "king_james": "Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Ecce beatificamus eos qui sustinuerunt. Sufferentiam Job audistis, et finem Domini vidistis, quoniam misericors Dominus est, et miserator.",
+      "greek_textus_receptus": "ἰδού μακαρίζομεν τοὺς ὑπομένοντας τὴν ὑπομονὴν ἰὼβ ἠκούσατε καὶ τὸ τέλος κυρίου εἴδετε ὅτι πολύσπλαγχνός ἐστιν ὁ κύριος καὶ οἰκτίρμων",
+      "finnish_biblia": "Katso, me sanomme ne autuaiksi, jotka kärsineet ovat. Jobin kärsivällisyyden te olette kuulleet ja Herran lopun te nähneet olette; sillä Herra on sangen laupias ja armollinen. ",
+      "swedish_karl_xii": "Sij, wij hålle them salige som lidit hafwa. Jobs tolamod hafwen J hördt, och Herrans ända hafwen J sedt: ty Herren är barmhertig, och en förbarmare.",
+      "king_james": "Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Ante omnia autem, fratres mei, nolite jurare, neque per cælum, neque per terram, neque aliud quodcumque juramentum. Sit autem sermo vester: Est, est: Non, non: ut non sub judicio decidatis.",
+      "greek_textus_receptus": "πρὸ πάντων δέ ἀδελφοί μου μὴ ὀμνύετε μήτε τὸν οὐρανὸν μήτε τὴν γῆν μήτε ἄλλον τινὰ ὅρκον ἤτω δὲ ὑμῶν τὸ ναὶ ναὶ καὶ τὸ οὒ οὔ ἵνα μὴ εἴς ὑπὸκρίσιν πέσητε",
+      "finnish_biblia": "Ennen kaikkia, rakkaat veljeni, älkäät vannoko, ei taivaan kautta eikä maan, ei myös yhtään muuta valaa; mutta olkoon teidän puheenne niin kuin niin on, ja se olkoon ei kuin ei on, ettette ulkokullaisuuteen lankeaisi. ",
+      "swedish_karl_xii": "Öfwer all ting, mine bröder, swärjer icke hwarken widh himmelen, eller widh jordena, eller någon annan eed. Men edor ord skola wara, Ja, ja, Neij, neij: på thet J icke skolen falla vthi skrymterij.",
+      "king_james": "But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and *your* nay, nay; lest ye fall into condemnation."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Tristatur aliquis vestrum? oret. Æquo animo est? psallat.",
+      "greek_textus_receptus": "κακοπαθεῖ τις ἐν ὑμῖν προσευχέσθω εὐθυμεῖ τις ψαλλέτω",
+      "finnish_biblia": "Jos joku kärsii vaivaa teidän seassanne, se rukoilkaan, jos joku on hyvällä mielellä, se veisatkaan virsiä. ",
+      "swedish_karl_xii": "Ljder någor ibland eder bedröfwelse: Han bedie. Är någor widh godt modh: Han siunge psalmer.",
+      "king_james": "Is any among you afflicted? let him pray. Is any merry? let him sing psalms."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Infirmatur quis in vobis? inducat presbyteros ecclesiæ, et orent super eum, ungentes eum oleo in nomine Domini:",
+      "greek_textus_receptus": "ἀσθενεῖ τις ἐν ὑμῖν προσκαλεσάσθω τοὺς πρεσβυτέρους τῆς ἐκκλησίας καὶ προσευξάσθωσαν ἐπ᾽ αὐτὸν ἀλείψαντες αὐτὸν ἐλαίῳ ἐν τῷ ὀνόματι τοῦ κυρίου",
+      "finnish_biblia": "Jos joku sairastaa teidän seassanne, hän kutsukaan tykönsä seurakunnan papit, ja ne rukoilkaan hänen edestänsä, voidellen häntä öljyllä Herran nimeen. ",
+      "swedish_karl_xii": "Är någor siuk ibland eder: Han kalle til sigh Presterna i församlingene, och läte them bedia öfwer sigh, och smörja medh oljo vthi Herrans namn.",
+      "king_james": "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "et oratio fidei salvabit infirmum, et alleviabit eum Dominus: et si in peccatis sit, remittentur ei.",
+      "greek_textus_receptus": "καὶ ἡ εὐχὴ τῆς πίστεως σώσει τὸν κάμνοντα καὶ ἐγερεῖ αὐτὸν ὁ κύριος κἂν ἁμαρτίας ᾖ πεποιηκώς ἀφεθήσεται αὐτῷ",
+      "finnish_biblia": "Ja uskon rukous parantaa sairaan, ja Herra ojentaa hänen, ja jos hän on syntiä tehnyt, niin ne hänelle anteeksi annetaan. ",
+      "swedish_karl_xii": "Och trones böön skal hielpa them siuka, och Herren vprätter honom; och om han är stadd i synder, warda the honom förlåtna.",
+      "king_james": "And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Confitemini ergo alterutrum peccata vestra, et orate pro invicem ut salvemini: multum enim valet deprecatio justi assidua.",
+      "greek_textus_receptus": "ἐξομολογεῖσθε ἀλλήλοις τὰ παραπτώματα καὶ εὔχεσθε ὑπὲρ ἀλλήλων ὅπως ἰαθῆτε πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη",
+      "finnish_biblia": "Tunnustakaat toinen toisellenne teidän rikoksenne ja rukoilkaat toinen toisenne edestä, että te terveeksi tulisitte. Vanhurskaan rukous voi paljo, koska se totinen on. ",
+      "swedish_karl_xii": "Bekänner inbyrdes synderna then ene them andra, och beder för eder inbyrdes, at J helbregda warden: ty ens rättferdigs mans böön förmär mycket , ther hon alfwar är.",
+      "king_james": "Confess *your* faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Elias homo erat similis nobis passibilis: et oratione oravit ut non plueret super terram, et non pluit annos tres, et menses sex.",
+      "greek_textus_receptus": "ἐλίας ἄνθρωπος ἦν ὁμοιοπαθὴς ἡμῖν καὶ προσευχῇ προσηύξατο τοῦ μὴ βρέξαι καὶ οὐκ ἔβρεξεν ἐπὶ τῆς γῆς ἐνιαυτοὺς τρεῖς καὶ μῆνας ἕξ",
+      "finnish_biblia": "Elias oli ihminen, niissä haluissa vikapää kuin mekin ja hän rukoili rukouksella, ettei pitänyt sataman, ja ei satanutkaan maan päällä kolmena vuotena ja kuutena kuukautena, ",
+      "swedish_karl_xii": "Elias war een menniskia såsom wij, och han bad ena böön, at thet icke skulle regna; och thet regnade ock intet på jordena, i try åhr och sex månader.",
+      "king_james": "Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Et rursum oravit: et cælum dedit pluviam, et terra dedit fructum suum.",
+      "greek_textus_receptus": "καὶ πάλιν προσηύξατο καὶ ὁ οὐρανὸς ὑετὸν ἔδωκεν καὶ ἡ γῆ ἐβλάστησεν τὸν καρπὸν αὐτῆς",
+      "finnish_biblia": "Ja hän taas rukoili, ja taivas antoi sateen, ja maa kasvoi hedelmänsä. ",
+      "swedish_karl_xii": "Och bad åter, och himmelen gaf regn, och jorden bar sin frucht.",
+      "king_james": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Fratres mei, si quis ex vobis erraverit a veritate, et converterit quis eum:",
+      "greek_textus_receptus": "ἀδελφοί ἐάν τις ἐν ὑμῖν πλανηθῇ ἀπὸ τῆς ἀληθείας καὶ ἐπιστρέψῃ τις αὐτόν",
+      "finnish_biblia": "Rakkaat veljeni, jos joku teistä eksyis totuudesta ja joku palauttais hänen, ",
+      "swedish_karl_xii": "Käre bröder, om någor ibland eder fore will ifrå sanningen, och någor omwände honom:",
+      "king_james": "Brethren, if any of you do err from the truth, and one convert him;"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "scire debet quoniam qui converti fecerit peccatorem ab errore viæ suæ, salvabit animam ejus a morte, et operiet multitudinem peccatorum.",
+      "greek_textus_receptus": "γινωσκέτω ὅτι ὁ ἐπιστρέψας ἁμαρτωλὸν ἐκ πλάνης ὁδοῦ αὐτοῦ σώσει ψυχὴν ἐκ θανάτου καὶ καλύψει πλῆθος ἁμαρτιῶν",
+      "finnish_biblia": "Se tietäkään, että joka syntisen palauttaa tiensä erehdyksestä, se vapahtaa sielun kuolemasta ja peittää syntein paljouden.    ",
+      "swedish_karl_xii": "Han skal weta, at then ther omwänder en syndare af hans wägars willo, han frälsar ena siäl ifrå döden, och skyler all öfwerträdelse.",
+      "king_james": "Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins."
+    }
+  ]
+}

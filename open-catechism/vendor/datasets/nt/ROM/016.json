@@ -1,0 +1,227 @@
+{
+  "book_id": "ROM",
+  "latin_name": "Epistula ad Romanos",
+  "greek_name": "Πρὸς Ῥωμαίους",
+  "finnish_name": "Kirje roomalaisille",
+  "swedish_name": "S. Pauli Epistel Til the Romare",
+  "english_name": "The Epistle of Paul the Apostle to the Romans",
+  "chapter": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Commendo autem vobis Phœben sororem nostram, quæ est in ministerio ecclesiæ, quæ est in Cenchris:",
+      "greek_textus_receptus": "συνίστημι δὲ ὑμῖν φοίβην τὴν ἀδελφὴν ἡμῶν οὖσαν διάκονον τῆς ἐκκλησίας τῆς ἐν κεγχρεαῖς",
+      "finnish_biblia": "Minä annan teidän haltuunne Pheben, meidän sisaremme, joka on Kenkrean seurakunnan palveluspiika: ",
+      "swedish_karl_xii": "Jagh befaller eder wåra syster Phebe, hwilken är i församlingenes tienst i Kenchrea:",
+      "king_james": "I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "ut eam suscipiatis in Domino digne sanctis: et assistatis ei in quocumque negotio vestri indiguerit: etenim ipsa quoque astitit multis, et mihi ipsi.",
+      "greek_textus_receptus": "ἵνα αὐτὴν προσδέξησθε ἐν κυρίῳ ἀξίως τῶν ἁγίων καὶ παραστῆτε αὐτῇ ἐν ᾧ ἂν ὑμῶν χρῄζῃ πράγματι καὶ γὰρ αὐτὴ προστάτις πολλῶν ἐγενήθη καὶ αὐτοῦ ἐμοῦ",
+      "finnish_biblia": "Että te häntä ottaisitte vastaan Herrassa, niinkuin pyhäin sopii. Ja olkaat hänelle kaikissa asioissa avulliset, joissa hän teitä tarvitsee; sillä hän on monelle avullinen ollut ja itse minulle. ",
+      "swedish_karl_xii": "At J henne vndfången i Herranom, såsom helgon höfwes; och giörer henne bistånd i all ärende, ther hon eder behöfwer: ty hon hafwer mångom, ock jemwäl migh sielfwom, warit til godo.",
+      "king_james": "That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Salutate Priscam et Aquilam, adjutores meos in Christo Jesu",
+      "greek_textus_receptus": "ἀσπάσασθε πρίσκιλλαν καὶ ἀκύλαν τοὺς συνεργούς μου ἐν χριστῷ ἰησοῦ",
+      "finnish_biblia": "Tervehtikäät Priskillaa ja Akvilaa, minun auttajiani Kristuksessa Jesuksessa, ",
+      "swedish_karl_xii": "Helser Priscilla, och Aqvila, mina hielpare i Christo Jesu:",
+      "king_james": "Greet Priscilla and Aquila my helpers in Christ Jesus:"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "(qui pro anima mea suas cervices supposuerunt: quibus non solus ego gratias ago, sed et cunctæ ecclesiæ gentium),",
+      "greek_textus_receptus": "οἵτινες ὑπὲρ τῆς ψυχῆς μου τὸν ἑαυτῶν τράχηλον ὑπέθηκαν οἷς οὐκ ἐγὼ μόνος εὐχαριστῶ ἀλλὰ καὶ πᾶσαι αἱ ἐκκλησίαι τῶν ἐθνῶν",
+      "finnish_biblia": "(Jotka ovat kaulansa minun henkeni tähden alttiiksi antaneet: joita en minä ainoasti kiitä, vaan kaikki pakanainkin seurakunnat.) ",
+      "swedish_karl_xii": "Hwilke för mitt lijf hafwa wågat sin hals: them tackar icke allenast jagh, vtan ock alla Hedningars församlingar.",
+      "king_james": "Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "et domesticam ecclesiam eorum. Salutate Epænetum dilectum mihi, qui est primitivus Asiæ in Christo.",
+      "greek_textus_receptus": "καὶ τὴν κατ᾽ οἶκον αὐτῶν ἐκκλησίαν ἀσπάσασθε ἐπαίνετον τὸν ἀγαπητόν μου ὅς ἐστιν ἀπαρχὴ τῆς ἀχαΐας εἰς χριστόν",
+      "finnish_biblia": "Niin myös sitä seurakuntaa, joka heidän huoneessansa on. Tervehtikäät Epenetusta, minun rakkaintani, joka on Akajasta uutinen Kristuksessa. ",
+      "swedish_karl_xii": "Helser ock församlingena i theras huus: helser Epenetus, min älskeliga, hwilken war then första frucht i Achaien, i Christo.",
+      "king_james": "Likewise *greet* the church that is in their house. Salute my wellbeloved Epaenetus, who is the firstfruits of Achaia unto Christ."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Salutate Mariam, quæ multum laboravit in vobis.",
+      "greek_textus_receptus": "ἀσπάσασθε μαρίαμ, ἥτις πολλὰ ἐκοπίασεν εἰς ἡμᾶς",
+      "finnish_biblia": "Tervehtikäät Mariaa, joka paljon vaivaa meistä näki. ",
+      "swedish_karl_xii": "Helser Maria, then ther mycket arbete för oß haft hafwer.",
+      "king_james": "Greet Mary, who bestowed much labour on us."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Salutate Andronicum et Juniam, cognatos, et concaptivos meos: qui sunt nobiles in Apostolis, qui et ante me fuerunt in Christo.",
+      "greek_textus_receptus": "ἀσπάσασθε ἀνδρόνικον καὶ ἰουνιᾶν τοὺς συγγενεῖς μου καὶ συναιχμαλώτους μου οἵτινές εἰσιν ἐπίσημοι ἐν τοῖς ἀποστόλοις οἳ καὶ πρὸ ἐμοῦ γέγονασιν ἐν χριστῷ",
+      "finnish_biblia": "Tervehtikäät Andronikusta ja Juniaa, minun lankojani ja kanssavankejani, jotka ovat kuuluisat apostolien seassa, jotka myös olivat ennen minua Kristuksessa. ",
+      "swedish_karl_xii": "Helser Andronicus, och Junia, mina fränder och medfångar, the ther märckelige äro ibland Apostlarna; the ther ock för migh woro i Christo.",
+      "king_james": "Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Christ before me."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Salutate Ampliatum dilectissimum mihi in Domino.",
+      "greek_textus_receptus": "ἀσπάσασθε ἀμπλίαν τὸν ἀγαπητόν μου ἐν κυρίῳ",
+      "finnish_biblia": "Tervehtikäät Ampliaa, minun rakastani Herrassa. ",
+      "swedish_karl_xii": "Helser Amplia, min älskeliga i Herranom.",
+      "king_james": "Greet Amplias my beloved in the Lord."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Salutate Urbanum adjutorem nostrum in Christo Jesu, et Stachyn dilectum meum.",
+      "greek_textus_receptus": "ἀσπάσασθε οὐρβανὸν τὸν συνεργὸν ἡμῶν ἐν χριστῷ καὶ στάχυν τὸν ἀγαπητόν μου",
+      "finnish_biblia": "Tervehtikäät Urbanusta, meidän auttajaamme Kristuksessa, ja Stakya, minun rakastani. ",
+      "swedish_karl_xii": "Helser Vrbanus, wår hielpare i Christo; och Stachis, min älskeliga.",
+      "king_james": "Salute Urbane, our helper in Christ, and Stachys my beloved."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Salutate Apellen probum in Christo.",
+      "greek_textus_receptus": "ἀσπάσασθε ἀπελλῆν τὸν δόκιμον ἐν χριστῷ ἀσπάσασθε τοὺς ἐκ τῶν ἀριστοβούλου",
+      "finnish_biblia": "Tervehtikäät Apellesta, joka on koeteltu Kristuksessa. Tervehtikäät Aristobulin perhettä. ",
+      "swedish_karl_xii": "Helser Apellen, then ther bepröfwad är i Christo: helser them som äro af Aristobuli huus.",
+      "king_james": "Salute Apelles approved in Christ. Salute them which are of Aristobulus' *household*."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Salutate eos qui sunt ex Aristoboli domo. Salutate Herodionem cognatum meum. Salutate eos qui sunt ex Narcisi domo, qui sunt in Domino.",
+      "greek_textus_receptus": "ἀσπάσασθε ἡροδίωνα τὸν συγγενῆ μου ἀσπάσασθε τοὺς ἐκ τῶν ναρκίσσου τοὺς ὄντας ἐν κυρίῳ",
+      "finnish_biblia": "Tervehtikäät Herodionia, minun lankoani. Tervehtikäät Narkissuksen perhettä, jotka ovat Herrassa. ",
+      "swedish_karl_xii": "Helser Herodion, min frända: helser them som äro af Narcisci huus i Herranom.",
+      "king_james": "Salute Herodion my kinsman. Greet them that be of the *household* of Narcissus, which are in the Lord."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Salutate Tryphænam et Tryphosam, quæ laborant in Domino. Salutate Persidem carissimam, quæ multum laboravit in Domino.",
+      "greek_textus_receptus": "ἀσπάσασθε τρύφαιναν καὶ τρυφῶσαν τὰς κοπιώσας ἐν κυρίῳ ἀσπάσασθε περσίδα τὴν ἀγαπητήν ἥτις πολλὰ ἐκοπίασεν ἐν κυρίῳ",
+      "finnish_biblia": "Tervehtikäät Tryphenaa ja Tryphosaa, jotka työtä tekevät Herrassa. Tervehtikäät Persistä, minun rakastani, joka paljon työtä tehnyt on Herrassa. ",
+      "swedish_karl_xii": "Helser Tryphena, och Tryphosa, the ther arbeta i Herranom: helser Persiden, mina älskeliga, som mycket arbetat hafwer i Herranom.",
+      "king_james": "Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Salutate Rufum electum in Domino, et matrem ejus, et meam.",
+      "greek_textus_receptus": "ἀσπάσασθε Ῥοῦφον τὸν ἐκλεκτὸν ἐν κυρίῳ καὶ τὴν μητέρα αὐτοῦ καὶ ἐμοῦ",
+      "finnish_biblia": "Tervehtikäät Rufusta, valittua Herrassa, ja hänen ja minun äitiäni. ",
+      "swedish_karl_xii": "Helser Rufum, then vthkorada i Herranom; och hans moder, och mina.",
+      "king_james": "Salute Rufus chosen in the Lord, and his mother and mine."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Salutate Asyncritum, Phlegontem, Hermam, Patrobam, Hermen, et qui cum eis sunt, fratres.",
+      "greek_textus_receptus": "ἀσπάσασθε ἀσύγκριτον φλέγοντα ἑρμᾶν πατροβᾶν ἑρμῆν καὶ τοὺς σὺν αὐτοῖς ἀδελφούς",
+      "finnish_biblia": "Tervehtikäät Asynkritusta ja Phlegonia, Hermasta, Patrobasta, Hermestä ja veljiä, jotka heidän kanssansa ovat. ",
+      "swedish_karl_xii": "Helser Asyncritum, Phlegontem, Herman, Patroban, Hermen, och the bröder som medh them äro.",
+      "king_james": "Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Salutate Philologum et Juliam, Nereum, et sororem ejus, et Olympiadem, et omnes qui cum eis sunt, sanctos.",
+      "greek_textus_receptus": "ἀσπάσασθε φιλόλογον καὶ ἰουλίαν νηρέα καὶ τὴν ἀδελφὴν αὐτοῦ καὶ ὀλυμπᾶν καὶ τοὺς σὺν αὐτοῖς πάντας ἁγίους",
+      "finnish_biblia": "Tervehtikäät Philologusta ja Juliaa, Nereusta, ja hänen sisartansa, ja Olympaa, ja kaikkia pyhiä, jotka ovat heidän kanssansa. ",
+      "swedish_karl_xii": "Helser Philologum, och Julian, Nereum, och hans syster, och Olympam; och all helgon när them.",
+      "king_james": "Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Salutate invicem in osculo sancto. Salutant vos omnes ecclesiæ Christi.",
+      "greek_textus_receptus": "ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ ἀσπάζονται ὑμᾶς αἱ ἐκκλησίαι τοῦ χριστοῦ",
+      "finnish_biblia": "Tervehtikäät teitänne keskenänne pyhällä suunantamisella. Kristuksen seurakunnat tervehtivät teitä. ",
+      "swedish_karl_xii": "Helser eder inbördes medh en helig kyß: helsa eder Christi församlingar.",
+      "king_james": "Salute one another with an holy kiss. The churches of Christ salute you."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Rogo autem vos fratres, ut observetis eos qui dissensiones et offendicula, præter doctrinam, quam vos didicistis, faciunt, et declinate ab illis.",
+      "greek_textus_receptus": "παρακαλῶ δὲ ὑμᾶς ἀδελφοί σκοπεῖν τοὺς τὰς διχοστασίας καὶ τὰ σκάνδαλα παρὰ τὴν διδαχὴν ἣν ὑμεῖς ἐμάθετε ποιοῦντας καὶ ἐκκλίνατε ἀπ᾽ αὐτῶν",
+      "finnish_biblia": "Mutta minä neuvon teitä, rakkaat veljet, että te kavahtaisitte eripuraisuuden ja pahennuksen matkaan saattajia sitä oppia vastaan, jonka te oppineet olette: ja välttäkäät niitä. ",
+      "swedish_karl_xii": "Käre bröder, jagh förmanar eder, at J hafwen vpseende på them som twist och förargelse åstadh komma, emot then lärdom som J hafwen lärdt; och wiker ifrå them.",
+      "king_james": "Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Hujuscemodi enim Christo Domino nostro non serviunt, sed suo ventri: et per dulces sermones et benedictiones seducunt corda innocentium.",
+      "greek_textus_receptus": "οἱ γὰρ τοιοῦτοι τῷ κυρίῳ ἡμῶν ἰησοῦ χριστῷ οὐ δουλεύουσιν ἀλλὰ τῇ ἑαυτῶν κοιλίᾳ καὶ διὰ τῆς χρηστολογίας καὶ εὐλογίας ἐξαπατῶσιν τὰς καρδίας τῶν ἀκάκων",
+      "finnish_biblia": "Sillä ei senkaltaiset Herraa Jesusta Kristusta palvele, vaan omaa vatsaansa ja viettelevät makeilla puheillansa ja liehakoitsemisellansa yksinkertaisten sydämet. ",
+      "swedish_karl_xii": "Ty sådane tiena icke Herranom Jesu Christo, vtan sinom buuk: och igenom söt ord och sinekiande taal förföra theras hierta som meenlöse äro.",
+      "king_james": "For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Vestra enim obedientia in omnem locum divulgata est. Gaudeo igitur in vobis. Sed volo vos sapientes esse in bono, et simplices in malo.",
+      "greek_textus_receptus": "ἡ γὰρ ὑμῶν ὑπακοὴ εἰς πάντας ἀφίκετο χαίρω οὖν τὸ ἐφ᾽ ὑμῖν θέλω δὲ ὑμᾶς σοφοὺς μέν εἶναι εἰς τὸ ἀγαθόν ἀκεραίους δὲ εἰς τὸ κακόν",
+      "finnish_biblia": "Sillä teidän kuuliaisuutenne on kaikille julistettu, jonka tähden minä iloitsen teidän ylitsenne. Mutta minä tahdon, että teidän pitää hyvässä viisaat oleman ja pahuudessa yksinkertaiset. ",
+      "swedish_karl_xii": "Ty edar lydachtighet är vthkommen til hwar man. Therföre frögdar jagh migh öfwer eder: men jagh wil at J ären wise på thet goda, och enfaldige på thet onda.",
+      "king_james": "For your obedience is come abroad unto all *men*. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Deus autem pacis conterat Satanam sub pedibus vestris velociter. Gratia Domini nostri Jesu Christi vobiscum.",
+      "greek_textus_receptus": "ὁ δὲ θεὸς τῆς εἰρήνης συντρίψει τὸν σατανᾶν ὑπὸ τοὺς πόδας ὑμῶν ἐν τάχει ἡ χάρις τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ μεθ᾽ ὑμῶν",
+      "finnish_biblia": "Mutta rauhan Jumala on tallaava saatanan pian teidän jalkainne alle. Meidän Herran Jesuksen Kristuksen armo olkoon teidän kanssanne! Amen. ",
+      "swedish_karl_xii": "Men fridsens Gudh förträde Satanam vnder edra fötter snarliga. Wårs Herras Jesu Christi nådh ware medh eder: Amen.",
+      "king_james": "And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ *be* with you. Amen."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Salutat vos Timotheus adjutor meus, et Lucius, et Jason, et Sosipater cognati mei.",
+      "greek_textus_receptus": "ἀσπάζονταί ὑμᾶς τιμόθεος ὁ συνεργός μου καὶ λούκιος καὶ ἰάσων καὶ σωσίπατρος οἱ συγγενεῖς μου",
+      "finnish_biblia": "Teitä tervehtivät Timoteus, minun auttajani, ja Lukius, ja Jason ja Sosipater, minun lankoni. ",
+      "swedish_karl_xii": "Helsar eder Timotheus, min medhielpare, och Lucius, och Jason, och Sosipater, mine fränder.",
+      "king_james": "Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Saluto vos ego Tertius, qui scripsi epistolam, in Domino.",
+      "greek_textus_receptus": "ἀσπάζομαι ὑμᾶς ἐγὼ τέρτιος ὁ γράψας τὴν ἐπιστολὴν ἐν κυρίῳ",
+      "finnish_biblia": "Minä Tertius, joka tämän lähetyskirjan kirjoitin, tervehdin teitä Herrassa. ",
+      "swedish_karl_xii": "Helsar jagh Tertius eder, som brefwet skrifwit hafwer, i Herranom.",
+      "king_james": "I Tertius, who wrote *this* epistle, salute you in the Lord."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Salutat vos Cajus hospes meus, et universa ecclesia. Salutat vos Erastus arcarius civitatis, et Quartus, frater.",
+      "greek_textus_receptus": "ἀσπάζεται ὑμᾶς γάϊος ὁ ξένος μου καὶ τῆς ἐκκλησίας ὅλης ἀσπάζεται ὑμᾶς ἕραστος ὁ οἰκονόμος τῆς πόλεως καὶ κούαρτος ὁ ἀδελφός",
+      "finnish_biblia": "Teitä tervehtii Gajus, minun ja kaiken seurakunnan holhoja. Teitä tervehtii Erastus, kaupungin rahanhaltia, ja Kvartus veli. ",
+      "swedish_karl_xii": "Helsar eder Gajus, min och hela församlingenes wärd: helsar eder Erastus, stadsens Räntomåstare, och Quartus brodren.",
+      "king_james": "Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Gratia Domini nostri Jesu Christi cum omnibus vobis. Amen.",
+      "greek_textus_receptus": "ἡ χάρις τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ μετὰ πάντων ὑμῶν ἀμήν",
+      "finnish_biblia": "Meidän Herran Jesuksen Kristuksen armo olkoon teidän kaikkein kanssanne! Amen. ",
+      "swedish_karl_xii": "Wårs Herras Jesu Christi nådh, ware medh eder allom: Amen.",
+      "king_james": "The grace of our Lord Jesus Christ *be* with you all. Amen."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Ei autem, qui potens est vos confirmare juxta Evangelium meum, et pr��dicationem Jesu Christi, secundum revelationem mysterii temporibus æternis taciti",
+      "greek_textus_receptus": "τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα ἰησοῦ χριστοῦ κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου",
+      "finnish_biblia": "Mutta hänelle, joka voi teitä vahvistaa minun evankeliumini ja Jesuksen Kristuksen saarnan jälkeen, sen salaisuuden ilmestyksen jälkeen, joka ijäisiin aikoihin on salattu ollut, ",
+      "swedish_karl_xii": "Men honom som macht hafwer at stadfästa eder, efter mitt Evangelium, och predikan af Jesu Christo, efter hemlighetenes vppenbarelse, then af ewig tijd här til hafwer förtegad warit:",
+      "king_james": "Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,"
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "(quod nunc patefactum est per Scripturas prophetarum secundum præceptum æterni Dei, ad obeditionem fidei), in cunctis gentibus cogniti,",
+      "greek_textus_receptus": "φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατ᾽ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος",
+      "finnish_biblia": "Mutta nyt ilmoitettu ja tiettäväksi tehty prophetain Raamattuin kautta, ijankaikkisen Jumalan käskyn jälkeen, uskon kuuliaisuudeksi kaikkein pakanain seassa: ",
+      "swedish_karl_xii": "Men nu vppenbarad, och kungiord, igenom Propheternas skrifter, af ewiga Gudz befalning; på thet troon skal få lydachtighet ibland alla Hedningar:",
+      "king_james": "But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "soli sapienti Deo, per Jesum Christum, cui honor et gloria in sæcula sæculorum. Amen.",
+      "greek_textus_receptus": "μόνῳ σοφῷ θεῷ διὰ ἰησοῦ χριστοῦ ᾧ ἡ δόξα εἰς τοὺς αἶῶνας ἆμήν πρός Ῥωμαίους ἐγράφη ἆπό κορίνθου διὰ φοίβης τῆς διακόνου τῆς ἕν κεγχρεαῖς ἐκκλησίας",
+      "finnish_biblia": "Jumalalle, joka yksinänsä viisas on, olkoon kunnia Jesuksen Kristuksen kautta ijankaikkisesti! Amen!    ",
+      "swedish_karl_xii": "Gudi, som är allena wijs, ware prijs och ähra, genom Jesum Christum, i ewighet: Amen. Til the Romare. Sänd ifrå Corintho, medh Phebe, som i församlingenes tienst war i Kenchrea.",
+      "king_james": "To God only wise, *be* glory through Jesus Christ for ever. Amen."
+    }
+  ]
+}

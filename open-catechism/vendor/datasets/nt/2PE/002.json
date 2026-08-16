@@ -1,0 +1,187 @@
+{
+  "book_id": "2PE",
+  "latin_name": "Epistula II Petri",
+  "greek_name": "Πέτρου Β",
+  "finnish_name": "Toinen Pietarin kirje",
+  "swedish_name": "S. Petri Then Andra Epistel",
+  "english_name": "The Second Epistle General of Peter",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Fuerunt vero et pseudoprophetæ in populo, sicut et in vobis erunt magistri mendaces, qui introducent sectas perditionis: et eum qui emit eos, Dominum negant, superducentes sibi celerem perditionem.",
+      "greek_textus_receptus": "ἐγένοντο δὲ καὶ ψευδοπροφῆται ἐν τῷ λαῷ ὡς καὶ ἐν ὑμῖν ἔσονται ψευδοδιδάσκαλοι οἵτινες παρεισάξουσιν αἱρέσεις ἀπωλείας καὶ τὸν ἀγοράσαντα αὐτοὺς δεσπότην ἀρνούμενοι ἐπάγοντες ἑαυτοῖς ταχινὴν ἀπώλειαν",
+      "finnish_biblia": "Niin oli myös vääriä prophetaita kansan seassa, niinkuin teidänkin sekaanne vääriä opettajia tulee, jotka vahingolliset eriseurat tuovat ja kieltävät sen Herran, joka heidät ostanut on, saattain itsellensä nopian kadotuksen, ",
+      "swedish_karl_xii": "Men falske Propheter woro ock ibland folcket, som ock ibland eder warda skola falske lärare: hwilke medh ibland införa skola förderfwelig partijer, och förneka Herran som them köpt hafwer; och skola föra öfwer sigh sielfwa een hastig fördömelse.",
+      "king_james": "But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et multi sequentur eorum luxurias, per quos via veritatis blasphemabitur:",
+      "greek_textus_receptus": "καὶ πολλοὶ ἐξακολουθήσουσιν αὐτῶν ταῖς ἀπωλείαις, δι᾽ οὓς ἡ ὁδὸς τῆς ἀληθείας βλασφημηθήσεται",
+      "finnish_biblia": "Ja moni noudattaa heidän kadotustansa, joiden kautta totuuden tie pilkataan. ",
+      "swedish_karl_xii": "Och månge skola efterfölja theras förderf: genom hwilka sanningenes wägh blifwer försmädd.",
+      "king_james": "And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "et in avaritia fictis verbis de vobis negotiabuntur: quibus judicium jam olim non cessat: et perditio eorum non dormitat.",
+      "greek_textus_receptus": "καὶ ἐν πλεονεξίᾳ πλαστοῖς λόγοις ὑμᾶς ἐμπορεύσονται οἷς τὸ κρίμα ἔκπαλαι οὐκ ἀργεῖ καὶ ἡ ἀπώλεια αὐτῶν οὐ νυστάζει",
+      "finnish_biblia": "Ja ahneudesta ajatelluilla sanoilla pitää heidän teitä kauppaaman, joiden tuomio ei silleen kauvan viivy, eikä heidän kadotuksensa makaa. ",
+      "swedish_karl_xii": "Och vthi girighet medh dichtad ord, skola the handla medh eder. Hwilkom domen nu länge sedan icke seen är, och theras fördömelse sofwer icke.",
+      "king_james": "And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Si enim Deus angelis peccantibus non pepercit, sed rudentibus inferni detractos in tartarum tradidit cruciandos, in judicium reservari.",
+      "greek_textus_receptus": "εἰ γὰρ ὁ θεὸς ἀγγέλων ἁμαρτησάντων οὐκ ἐφείσατο ἀλλὰ σειραῖς ζόφου ταρταρώσας παρέδωκεν εἰς κρίσιν τετηρημένους",
+      "finnish_biblia": "Sillä jos ei Jumala armahtanut niitä enkeleitä, jotka syntiä tekivät, vaan on pimeyden kahleilla helvettiin syössyt, ja antoi ylön heidät tuomioon kätkettää, ",
+      "swedish_karl_xii": "Ty hafwer Gudh icke skonat Änglomen som syndade, vtan hafwer them medh mörksens kädior nederkastat til helwetes, öfwerantwardandes til at förwaras til domen:",
+      "king_james": "For if God spared not the angels that sinned, but cast *them* down to hell, and delivered *them* into chains of darkness, to be reserved unto judgment;"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et originali mundo non pepercit, sed octavum Noë justitiæ præconem custodivit, diluvium mundo impiorum inducens.",
+      "greek_textus_receptus": "καὶ ἀρχαίου κόσμου οὐκ ἐφείσατο ἀλλ᾽ ὄγδοον νῶε δικαιοσύνης κήρυκα ἐφύλαξεν κατακλυσμὸν κόσμῳ ἀσεβῶν ἐπάξας",
+      "finnish_biblia": "Ja ei ole armahtanut entistä maailmaa, vaan vapahti Noan vanhurskauden saarnaajan itse kahdeksantena, ja toi vedenpaisumisen jumalattomain maailman päälle; ",
+      "swedish_karl_xii": "Och hafwer icke skonat then förra werldene: vtan bewarat Noe, rättferdighetenes Predikare, sielf ottonde, och lät floden gå öfwer the ogudachtigas werld:",
+      "king_james": "And spared not the old world, but saved Noah the eighth *person*, a preacher of righteousness, bringing in the flood upon the world of the ungodly;"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Et civitates Sodomorum et Gomorrhæorum in cinerem redigens, eversione damnavit: exemplum eorum, qui impie acturi sunt, ponens:",
+      "greek_textus_receptus": "καὶ πόλεις σοδόμων καὶ γομόῤῥας τεφρώσας καταστροφῇ κατέκρινεν ὑπόδειγμα μελλόντων ἀσεβεῖν τεθεικώς",
+      "finnish_biblia": "Ja on ne kaupungit Sodoman ja Gomorran tuhaksi tehnyt, kukistanut ja kadottanut, ja teki ne jumalattomille peljästykseksi, jotka sitte tulevat olivat; ",
+      "swedish_karl_xii": "Och hafwer giordt the städer Sodoma och Gomorra til asko, omstördt och fördömt them; och satt för ett efterdömelse them ogudachtigom som sedan komma skulle:",
+      "king_james": "And turning the cities of Sodom and Gomorrha into ashes condemned *them* with an overthrow, making *them* an ensample unto those that after should live ungodly;"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "et justum Lot oppressum a nefandorum injuria, ac luxuriosa conversatione eripuit:",
+      "greek_textus_receptus": "καὶ δίκαιον λὼτ καταπονούμενον ὑπὸ τῆς τῶν ἀθέσμων ἐν ἀσελγείᾳ ἀναστροφῆς ἐῤῥύσατο",
+      "finnish_biblia": "Ja on pelastanut hurskaan Lotin, joka riettaisilta ihmisiltä heidän haureutensa menolla vaivattiin; ",
+      "swedish_karl_xii": "Och hafwer frälst then rättferdiga Lot, som war plågad af skämliga menniskior, genom theras skiörachtiga vmgängelse:",
+      "king_james": "And delivered just Lot, vexed with the filthy conversation of the wicked:"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "aspectu enim, et auditu justus erat: habitans apud eos, qui de die in diem animam justam iniquis operibus cruciabant.",
+      "greek_textus_receptus": "βλέμματι γὰρ καὶ ἀκοῇ ὁ δίκαιος ἐγκατοικῶν ἐν αὐτοῖς ἡμέραν ἐξ ἡμέρας ψυχὴν δικαίαν ἀνόμοις ἔργοις ἐβασάνιζεν",
+      "finnish_biblia": "(Sillä hän oli hurskas ja asui heidän seassansa, ja kuitenkin senkaltaista piti näkemän ja kuuleman, he vaivasivat sitä hurskasta sielua joka päivä väärillä töillänsä;) ",
+      "swedish_karl_xii": "Ty efter han war rättferdig, och bodde ibland them, och måste doch sådana see och höra, plågade the dagliga then rättferdiga siälena medh sina onda gierningar.",
+      "king_james": "(For that righteous man dwelling among them, in seeing and hearing, vexed *his* righteous soul from day to day with *their* unlawful deeds;)"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Novit Dominus pios de tentatione eripere: iniquos vero in diem judicii reservare cruciandos.",
+      "greek_textus_receptus": "οἶδεν κύριος εὐσεβεῖς ἐκ πειρασμοῦ ῥύεσθαι ἀδίκους δὲ εἰς ἡμέραν κρίσεως κολαζομένους τηρεῖν",
+      "finnish_biblia": "Niin Herra tietää jumaliset kiusauksista pelastaa, mutta väärät kätkeä tuomiopäivään asti vaivattaa. ",
+      "swedish_karl_xii": "Herren kan frälsa the gudachtiga vthaf frestelsen ; men behålla the orättferdiga til domedag, til at pinas:",
+      "king_james": "The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Magis autem eos, qui post carnem in concupiscentia immunditiæ ambulant, dominationemque contemnunt, audaces, sibi placentes, sectas non metuunt introducere blasphemantes:",
+      "greek_textus_receptus": "μάλιστα δὲ τοὺς ὀπίσω σαρκὸς ἐν ἐπιθυμίᾳ μιασμοῦ πορευομένους καὶ κυριότητος καταφρονοῦντας τολμηταί αὐθάδεις δόξας οὐ τρέμουσιν βλασφημοῦντες",
+      "finnish_biblia": "Mutta enimmästi ne, jotka lihan jälkeen saastaisessa himossa vaeltavat ja herrauden katsovat ylön, rohkiat, itsestänsä paljon pitäväiset, jotka ei pelkää valtojakaan pilkata. ",
+      "swedish_karl_xii": "Men alramäst them som wandra efter kötet, vthi orenom lusta, och försmå herskapet, öfwerdådige, ensinnade, och intet rädas försmäda wäldigheterna.",
+      "king_james": "But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous *are they*, selfwilled, they are not afraid to speak evil of dignities."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "ubi angeli fortitudine, et virtute cum sint majores, non portant adversum se execrabile judicium.",
+      "greek_textus_receptus": "ὅπου ἄγγελοι ἰσχύϊ καὶ δυνάμει μείζονες ὄντες οὐ φέρουσιν κατ᾽ αὐτῶν παρὰ κυρίῳ βλάσφημον κρίσιν",
+      "finnish_biblia": "Vaikka ne enkelit, jotka väessä ja voimassa suuremmat ovat, ei kärsi heitä vastaan Herran tykönä pilkallista tuomiota, ",
+      "swedish_karl_xii": "Ändoch Änglarna, som i kraftene och starckhetene större äro, icke draga kunna then försmädeliga domen emot sigh, af Herranom.",
+      "king_james": "Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Hi vero velut irrationabilia pecora, naturaliter in captionem, et in perniciem in his quæ ignorant blasphemantes in corruptione sua peribunt,",
+      "greek_textus_receptus": "οὗτοι δέ ὡς ἄλογα ζῷα φυσικὰ γεγενημένα εἰς ἅλωσιν καὶ φθοράν ἐν οἷς ἀγνοοῦσιν βλασφημοῦντες ἐν τῇ φθορᾷ αὐτῶν καταφθαρήσονται",
+      "finnish_biblia": "Kuitenkin he niinkuin järjettömät luontokappaleet, jotka luonnostansa kiiniotettaa ja teurastettaa tehdyt ovat, pilkkaavat niitä, joita ei he ymmärrä, ja hukkuvat turmeluksessansa, ",
+      "swedish_karl_xii": "Men the äro såsom the oförnuftiga diur, som af naturen ther til födde äro, at the skola fångna och slachtade warda: försmäda thet the intet förstå, och skola vthi sitt förderfweliga wäsende förgås;",
+      "king_james": "But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "percipientes mercedem injustitiæ, voluptatem existimantes diei delicias: coinquinationes, et maculæ deliciis affluentes, in conviviis suis luxuriantes vobiscum,",
+      "greek_textus_receptus": "κομιούμενοι μισθὸν ἀδικίας ἡδονὴν ἡγούμενοι τὴν ἐν ἡμέρᾳ τρυφήν σπίλοι καὶ μῶμοι ἐντρυφῶντες ἐν ταῖς ἀπάταις αὐτῶν συνευωχούμενοι ὑμῖν",
+      "finnish_biblia": "Ja saavat vääryyden palkan, pitäin sen hekumana, että he ajallisissa herkuissa elävät, he ovat ilkeydet ja pilkat, kerskaavat heidän petoksistansa, nautiten herkkuja teidän kanssanne. ",
+      "swedish_karl_xii": "Och få orättferdighetenes löön. The hållat för wällust, at the lefwa i timeliga kräselighet: the äro slemheter och skamfläcker; pråla af edra gåfwor, slösa medh edart:",
+      "king_james": "And shall receive the reward of unrighteousness, *as* they that count it pleasure to riot in the day time. Spots *they are* and blemishes, sporting themselves with their own deceivings while they feast with you;"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "oculos habentes plenos adulterii, et incessabilis delicti. Pellicientes animas instabiles, cor exercitatum avaritia habentes, maledictionis filii:",
+      "greek_textus_receptus": "ὀφθαλμοὺς ἔχοντες μεστοὺς μοιχαλίδος καὶ ἀκαταπαύστους ἁμαρτίας δελεάζοντες ψυχὰς ἀστηρίκτους καρδίαν γεγυμνασμένην πλεονεξίαις ἔχοντες κατάρας τέκνα",
+      "finnish_biblia": "Heillä on silmät huoruutta täynnä ja ei taida synnistä lakata, he houkuttelevat tykönsä horjuvat sielut, he ovat sydämensä ahneudessa harjaantuneet, kirottu kansa: ",
+      "swedish_karl_xii": "Hafwa ögonen full medh horerij, låta icke förmena sigh syndena; och låcka til sigh the ostadiga siälar; hafwa sin hierta genomöfwat i girighet; förbannat folck:",
+      "king_james": "Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "derelinquentes rectam viam erraverunt, secuti viam Balaam ex Bosor, qui mercedem iniquitatis amavit:",
+      "greek_textus_receptus": "καταλίποντες τὴν εὐθεῖαν ὁδὸν ἐπλανήθησαν ἐξακολουθήσαντες τῇ ὁδῷ τοῦ βαλαὰμ τοῦ βοσόρ ὃς μισθὸν ἀδικίας ἠγάπησεν",
+      "finnish_biblia": "Jotka antoivat ylön oikian tien ja eksyivät, he noudattavat Balaamin, Bosorin pojan, tietä, joka vääryyden palkkaa rakasti. ",
+      "swedish_karl_xii": "Öfwergifwa rätta wägen, och gå wille, och efterfölja Balaams Bosor sons wägh, hwilken älskade wrånghetenes löön:",
+      "king_james": "Which have forsaken the right way, and are gone astray, following the way of Balaam *the son* of Bosor, who loved the wages of unrighteousness;"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "correptionem vero habuit suæ vesaniæ: subjugale mutum animal, hominis voce loquens, prohibuit prophetæ insipientiam.",
+      "greek_textus_receptus": "ἔλεγξιν δὲ ἔσχεν ἰδίας παρανομίας ὑποζύγιον ἄφωνον ἐν ἀνθρώπου φωνῇ φθεγξάμενον ἐκώλυσεν τὴν τοῦ προφήτου παραφρονίαν",
+      "finnish_biblia": "Mutta hän rangaistiin vääryydestänsä; mykkä työjuhta puhui ihmisen äänellä, ja esti prophetan hulluuden. ",
+      "swedish_karl_xii": "Men han blef straffad för sin wrånghet; thet stumma arbetes diuret talade medh menniskie röst, och förtog Prophetens galenskap.",
+      "king_james": "But was rebuked for his iniquity: the dumb ass speaking with man's voice forbad the madness of the prophet."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Hi sunt fontes sine aqua, et nebulæ turbinibus exagitatæ, quibus caligo tenebrarum reservatur.",
+      "greek_textus_receptus": "οὗτοί εἰσιν πηγαὶ ἄνυδροι νεφέλαι ὑπὸ λαίλαπος ἐλαυνόμεναι οἷς ὁ ζόφος τοῦ σκότους εἰς αἰῶνα τετήρηται",
+      "finnish_biblia": "Ne ovat vedettömät lähteet ja pilvet, jotka tuulispäältä ympäri ajetaan, joille on kätketty synkiä pimeys ijankaikkisesti. ",
+      "swedish_karl_xii": "The äro källor vthan watn, och molnskyr som af wädret drifwas: hwilkom förwarat är ett swart mörker til ewig tijd.",
+      "king_james": "These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Superba enim vanitatis loquentes, pelliciunt in desideriis carnis luxuriæ eos, qui paululum effugiunt, qui in errore conversantur:",
+      "greek_textus_receptus": "ὑπέρογκα γὰρ ματαιότητος φθεγγόμενοι δελεάζουσιν ἐν ἐπιθυμίαις σαρκὸς ἀσελγείαις τοὺς ὄντως ἀποφύγοντας τοὺς ἐν πλάνῃ ἀναστρεφομένους",
+      "finnish_biblia": "Sillä he puhuvat röyhkeitä sanoja, jotka turhat ovat, ja yllyttävät tavattomuuden kautta lihallisiin himoihin niitä, jotka tosin ovat niitä välttäneet, kuin eksyksissä vaeltavat, ",
+      "swedish_karl_xii": "Ty the tala stolt ord, som äro fåfäng; och igenom otucht låcka them til kötzlig lusta, som rätzliga vndslupne woro, och ännu wandra i wilfarelse:",
+      "king_james": "For when they speak great swelling *words* of vanity, they allure through the lusts of the flesh, *through much* wantonness, those that were clean escaped from them who live in error."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "libertatem illis promittentes, cum ipsi servi sint corruptionem: a quo enim quis superatus est, hujus et servus est.",
+      "greek_textus_receptus": "ἐλευθερίαν αὐτοῖς ἐπαγγελλόμενοι αὐτοὶ δοῦλοι ὑπάρχοντες τῆς φθορᾶς ᾧ γάρ τις ἥττηται τούτῳ καὶ δεδούλωται",
+      "finnish_biblia": "Ja lupaavat heille vapauden, vaikka he itse turmeluksen palveliat ovat; sillä jolta joku voitetaan, sen palvelia hän myös on. ",
+      "swedish_karl_xii": "Och låfwa them frihet, ändoch the sielfwe äro förderfwelsens tienare: ty af hwem någor öfwerwunnen warder, hans tienare är han worden.",
+      "king_james": "While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Si enim refugientes coinquinationes mundi in cognitione Domini nostri, et Salvatoris Jesu Christi, his rursus implicatis superantur: facta sunt eis posteriora deteriora prioribus.",
+      "greek_textus_receptus": "εἰ γὰρ ἀποφυγόντες τὰ μιάσματα τοῦ κόσμου ἐν ἐπιγνώσει τοῦ κυρίου καὶ σωτῆρος ἰησοῦ χριστοῦ τούτοις δὲ πάλιν ἐμπλακέντες ἡττῶνται γέγονεν αὐτοῖς τὰ ἔσχατα χείρονα τῶν πρώτων",
+      "finnish_biblia": "Ja sittenkuin he ovat paenneet maailman saastaisuudesta Herran ja Vapahtajan Jesuksen Kristuksen tuntemiseen, niin he kuitenkin heitänsä niihin käärivät, ja voitetaan, ja on heille viimeinen pahemmaksi tullut kuin ensimäinen. ",
+      "swedish_karl_xii": "Ty sedan the genom Herrans och Frälsarens Jesu Christi kundskap vndflydt hafwa werldenes oreenlighet, och hafwa åter bewefwat sigh ther vthi, och äro öfwerwundne, är them thet yttersta wärre wordet, än thet första.",
+      "king_james": "For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Melius enim erat illis non cognoscere viam justitiæ, quam post agnitionem, retrorsum converti ab eo, quod illis traditum est, sancto mandato.",
+      "greek_textus_receptus": "κρεῖττον γὰρ ἦν αὐτοῖς μὴ ἐπεγνωκέναι τὴν ὁδὸν τῆς δικαιοσύνης ἢ ἐπιγνοῦσιν ἐπιστρέψαι ἐκ τῆς παραδοθείσης αὐτοῖς ἁγίας ἐντολῆς",
+      "finnish_biblia": "Sillä se olis heille parempi ollut, ettei he vanhurskauden tietä tunteneetkaan olisi, kuin että he tunsivat sen ja poikkesivat pois pyhästä käskystä, joka heille annettu oli. ",
+      "swedish_karl_xii": "Och hade them bättre warit intet förståndet rättferdighetenes wägh, än, sedan the förstodo, wända sigh ifrå thet helga budet, som the anammat hade.",
+      "king_james": "For it had been better for them not to have known the way of righteousness, than, after they have known *it*, to turn from the holy commandment delivered unto them."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Contigit enim eis illud veri proverbii: Canis reversus ad suum vomitum: et, Sus lota in volutabro luti.",
+      "greek_textus_receptus": "συμβέβηκεν δὲ αὐτοῖς τὸ τῆς ἀληθοῦς παροιμίας κύων ἐπιστρέψας ἐπὶ τὸ ἴδιον ἐξέραμα καί ὗς λουσαμένη εἰς κὺλισμα βορβόρου",
+      "finnish_biblia": "Niille on tapahtunut se totinen sananlasku: koira syö oksennuksensa, ja pesty sika rypee rapakossa jälleen.   ",
+      "swedish_karl_xii": "Them är wederfarit thet som för ett sant ordspråk plägar säijas: Hunden går åter til sina spyjo; och swinet, som twaget är, sölar sigh åter i träcken.",
+      "king_james": "But it is happened unto them according to the true proverb, The dog *is* turned to his own vomit again; and the sow that was washed to her wallowing in the mire."
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+1:
+  title: "The Crucifixion and Burial"
+  refs: !!set
+    ? "Luke 23:32-56"
+
+2:
+  title: "Redeemed from Sin and Death"
+  refs: !!set
+    ? "Colossians 1:13-14"
+    ? "Titus 2:14"
+    ? "Hebrews 2:14-15"
+    ? "1 John 3:8"
+    ? "1 Peter 1:18-21"
+
+3:
+  title: "Slaves to Sin"
+  refs: !!set
+    ? "John 8:34-36"
+    ? "Psalm 51:5"
+    ? "1 John 5:19"
+    ? "Galatians 4:8"
+
+4:
+  title: "Dead in Sin, Under Wrath"
+  refs: !!set
+    ? "Ephesians 2:1"
+    ? "Romans 1:18"
+    ? "Ephesians 2:3"
+    ? "Genesis 3:1-4:12"
+    ? "Genesis 6:5-12"
+    ? "John 8"
+    ? "Romans 3:9-18"
+
+5:
+  title: "Death Through One Man"
+  refs: !!set
+    ? "Romans 5:12"
+    ? "Genesis 3"
+
+6:
+  title: "God's Promise of a Savior"
+  refs: !!set
+    ? "Genesis 3:15"
+    ? "Ephesians 2:8-9"
+    ? "1 John 4:10"
+
+7:
+  title: "He Bore Our Sin"
+  refs: !!set
+    ? "Mark 10:45"
+    ? "2 Corinthians 5:21"
+    ? "Galatians 3:13"
+    ? "1 Peter 1:18-19"
+    ? "Romans 4:25"
+
+8:
+  title: "The Propitiation for Sin"
+  refs: !!set
+    ? "Romans 3:25"
+    ? "Hebrews 2:17"
+    ? "1 John 2:2"
+    ? "2 Corinthians 5:19"
+
+9:
+  title: "Freed to Righteousness"
+  refs: !!set
+    ? "John 8:34-36"
+    ? "1 Peter 2:24"
+
+10:
+  title: "Victory Over the Devil"
+  refs: !!set
+    ? "Philippians 2:8"
+    ? "Genesis 3:15"
+    ? "1 John 3:8"
+    ? "Matthew 4:1-11"
+    ? "Luke 8:26-39"
+    ? "Romans 8:31-34"
+    ? "Philippians 2:6-11"
+    ? "Colossians 2:15"
+    ? "Hebrews 2:14"
+    ? "James 4:7"
+    ? "1 Peter 5:8-9"
+    ? "Galatians 3:12-13"
+
+11:
+  title: "Death Destroyed"
+  refs: !!set
+    ? "Hebrews 2:14-15"
+    ? "1 Corinthians 15:54-57"
+    ? "2 Timothy 1:10"
+
+12:
+  title: "Witnesses of the Risen Christ"
+  refs: !!set
+    ? "Acts 10:40-41"
+    ? "1 Corinthians 15:4-8"
+    ? "Acts 1:3"
+
+13:
+  title: "Declared the Son of God"
+  refs: !!set
+    ? "Romans 1:4"
+
+14:
+  title: "Born to Bear Witness to the Truth"
+  refs: !!set
+    ? "John 18:37"
+
+15:
+  title: "Reconciled by His Death"
+  refs: !!set
+    ? "Romans 5:10"
+
+16:
+  title: "Because He Lives"
+  refs: !!set
+    ? "John 11:25-26"
+    ? "John 14:19"
+    ? "1 Corinthians 15:22-23"
+
+17:
+  title: "He Made Himself Poor"
+  refs: !!set
+    ? "Philippians 2:5-8"
+    ? "2 Corinthians 8:9"
+
+18:
+  title: "No Room in the Inn"
+  refs: !!set
+    ? "Luke 2:7"
+
+19:
+  title: "Not Even the Son Knows"
+  refs: !!set
+    ? "Matthew 24:36"
+
+20:
+  title: "His Human Weakness"
+  refs: !!set
+    ? "John 11:38-44"
+    ? "Matthew 4:1-11"
+    ? "Matthew 26:36-46"
+
+21:
+  title: "The Man of Sorrows"
+  refs: !!set
+    ? "Isaiah 53:3"
+    ? "Luke 2:7"
+    ? "Luke 4:29"
+    ? "Matthew 2:13"
+    ? "Matthew 8:20"
+    ? "John 8:40"
+    ? "John 8:50"
+    ? "Matthew 27"
+    ? "Mark 15"
+    ? "Luke 23"
+    ? "John 19"
+    ? "Luke 23:52-53"
+
+22:
+  title: "Glory Revealed"
+  refs: !!set
+    ? "John 2:11"
+    ? "Luke 6:8"
+    ? "Matthew 17:1-2"
+
+23:
+  title: "Highly Exalted"
+  refs: !!set
+    ? "Philippians 2:9-11"
+
+24:
+  title: "The Descent and Triumph"
+  refs: !!set
+    ? "1 Peter 3:18-20"
+    ? "Colossians 2:15"
+
+25:
+  title: "He Is Risen"
+  refs: !!set
+    ? "Mark 16:6"
+    ? "Luke 24:6"
+
+26:
+  title: "Seated at God's Right Hand"
+  refs: !!set
+    ? "Luke 24:50-51"
+    ? "Hebrews 1:3"
+    ? "Hebrews 8:1"
+
+27:
+  title: "He Will Come Again"
+  refs: !!set
+    ? "Acts 1:11"
+    ? "Hebrews 9:28"
+    ? "Acts 17:31"
+
+28:
+  title: "My God, Why Have You Forsaken Me"
+  refs: !!set
+    ? "Psalm 22"

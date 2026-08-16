@@ -1,0 +1,331 @@
+{
+  "book_id": "JOH",
+  "latin_name": "Evangelium secundum Ioannem",
+  "greek_name": "Κατὰ Ἰωάννην",
+  "finnish_name": "Johanneksen evankeliumi",
+  "swedish_name": "S. Johannis Evangelium",
+  "english_name": "The Gospel According to John",
+  "chapter": 18,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Hæc cum dixisset Jesus, egressus est cum discipulis suis trans torrentem Cedron, ubi erat hortus, in quem introivit ipse, et discipuli ejus.",
+      "greek_textus_receptus": "ταῦτα εἰπὼν ὁ ἰησοῦς ἐξῆλθεν σὺν τοῖς μαθηταῖς αὐτοῦ πέραν τοῦ χειμάῤῥου τῶν κεδρὼν ὅπου ἦν κῆπος εἰς ὃν εἰσῆλθεν αὐτὸς καὶ οἱ μαθηταὶ αὐτοῦ",
+      "finnish_biblia": "Kuin Jesus nämät oli sanonut, meni hän ulos opetuslastensa kanssa Kedronin ojan ylitse: siellä oli yrttitarha, johon hän meni sisälle ja hänen opetuslapsensa. ",
+      "swedish_karl_xii": "Tå Jesus hade thetta sagt, gick han vth medh sina Lärjungar, öfwer then bäcken Kedron: ther war en örtegård, i hwilken han ingick, och hans Lärjungar.",
+      "king_james": "When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Sciebat autem et Judas, qui tradebat eum, locum: quia frequenter Jesus convenerat illuc cum discipulis suis.",
+      "greek_textus_receptus": "ᾔδει δὲ καὶ ἰούδας ὁ παραδιδοὺς αὐτὸν τὸν τόπον ὅτι πολλάκις συνήχθη ὁ ἰησοῦς ἐκεῖ μετὰ τῶν μαθητῶν αὐτοῦ",
+      "finnish_biblia": "Mutta Juudas, joka hänen petti, tiesi myös sen paikan; sillä Jesus tuli sinne usein opetuslastensa kanssa. ",
+      "swedish_karl_xii": "Så wiste ock Judas, som förrådde honom, rumet: ty Jesus plägade ofta komma tijt medh sina Lärjungar.",
+      "king_james": "And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Judas ergo cum accepisset cohortem, et a pontificibus et pharisæis ministros, venit illuc cum laternis, et facibus, et armis.",
+      "greek_textus_receptus": "ὁ οὖν ἰούδας λαβὼν τὴν σπεῖραν καὶ ἐκ τῶν ἀρχιερέων καὶ φαρισαίων ὑπηρέτας ἔρχεται ἐκεῖ μετὰ φανῶν καὶ λαμπάδων καὶ ὅπλων",
+      "finnish_biblia": "Kuin siis Juudas oli joukon kanssansa ottanut ja palveliat ylimmäisiltä papeilta ja Pharisealaisilta, tuli hän sinne lyhdyillä, tulisoitoilla ja sota-aseilla. ",
+      "swedish_karl_xii": "Tå nu Judas hade tagit medh sigh skaran, och the öfwersta Presternas, och Phariseernas tienare, kom han tijt, medh lychtor, och bloß, och wärjor.",
+      "king_james": "Judas then, having received a band *of men* and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Jesus itaque sciens omnia quæ ventura erant super eum, processit, et dixit eis: Quem quæritis?",
+      "greek_textus_receptus": "ἰησοῦς οὖν εἰδὼς πάντα τὰ ἐρχόμενα ἐπ᾽ αὐτὸν ἐξελθὼν εἶπεν αὐτοῖς τίνα ζητεῖτε",
+      "finnish_biblia": "Kuin siis Jesus tiesi kaikki, mitä hänelle tapahtuman piti, niin hän läksi ja sanoi heille: ketä etsitte? ",
+      "swedish_karl_xii": "Och efter Jesus wiste alt thet honom wederfaras skulle, gick han fram, och sade til them: Hwem söken J?",
+      "king_james": "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Responderunt ei: Jesum Nazarenum. Dicit eis Jesus: Ego sum. Stabat autem et Judas, qui tradebat eum, cum ipsis.",
+      "greek_textus_receptus": "ἀπεκρίθησαν αὐτῷ ἰησοῦν τὸν ναζωραῖον λέγει αὐτοῖς ὁ ἰησοῦς, ἐγώ εἰμι εἱστήκει δὲ καὶ ἰούδας ὁ παραδιδοὺς αὐτὸν μετ᾽ αὐτῶν",
+      "finnish_biblia": "He vastasivat häntä: Jesusta Natsaretilaista. Sanoi Jesus heille: minä olen! Mutta Juudas, jonka hänen petti, seisoi myös heidän kanssansa. ",
+      "swedish_karl_xii": "Swarade the honom: Jesum af Nazareth. Sade Jesus til them: Jagh äret. Stod ock Judas, som honom förrådde, medh them.",
+      "king_james": "They answered him, Jesus of Nazareth. Jesus saith unto them, I am *he*. And Judas also, which betrayed him, stood with them."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Ut ergo dixit eis: Ego sum: abierunt retrorsum, et ceciderunt in terram.",
+      "greek_textus_receptus": "ὡς οὖν εἶπεν αὐτοῖς ὅτι ἐγώ εἰμι ἀπῆλθον εἰς τὰ ὀπίσω καὶ ἔπεσον χαμαί",
+      "finnish_biblia": "Kuin siis Jesus sanoi heille: minä olen, astuivat he takaperin ja lankesivat maahan. ",
+      "swedish_karl_xii": "När han tå sade til them: Jagh äret; stego the til ryggia, och föllo til jordena.",
+      "king_james": "As soon then as he had said unto them, I am *he*, they went backward, and fell to the ground."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Iterum ergo interrogavit eos: Quem quæritis? Illi autem dixerunt: Jesum Nazarenum.",
+      "greek_textus_receptus": "πάλιν οὖν αὐτούς ἐπηρώτησεν τίνα ζητεῖτε οἱ δὲ εἶπον, ἰησοῦν τὸν ναζωραῖον",
+      "finnish_biblia": "Niin hän taas kysyi heiltä: ketä te etsitte? Mutta he sanoivat: Jesusta Natsarealaista. ",
+      "swedish_karl_xii": "Tå sporde han them åter til: Hwem söken J? The sade: Jesum af Nazareth.",
+      "king_james": "Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Respondit Jesus: Dixi vobis, quia ego sum: si ergo me quæritis, sinite hos abire.",
+      "greek_textus_receptus": "ἀπεκρίθη ὁ ἰησοῦς εἶπον ὑμῖν ὅτι ἐγώ εἰμι εἰ οὖν ἐμὲ ζητεῖτε ἄφετε τούτους ὑπάγειν",
+      "finnish_biblia": "Jesus vastasi: minä sanoin teille, että minä olen. Jos te siis minua etsitte, niin antakaat näiden mennä, ",
+      "swedish_karl_xii": "Jesus swarade: Jagh sade eder, at thet är jagh; söken J migh, så läter thessa gå.",
+      "king_james": "Jesus answered, I have told you that I am *he*: if therefore ye seek me, let these go their way:"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Ut impleretur sermo, quem dixit: Quia quos dedisti mihi, non perdidi ex eis quemquam.",
+      "greek_textus_receptus": "ἵνα πληρωθῇ ὁ λόγος ὃν εἶπεν ὅτι οὓς δέδωκάς μοι οὐκ ἀπώλεσα ἐξ αὐτῶν οὐδένα",
+      "finnish_biblia": "Että se puhe täytettäisiin, jonka hän oli sanonut: en minä niistä yhtään kadottanut, jotka sinä minulle annoit. ",
+      "swedish_karl_xii": "På thet the ord skulle warda fulkomnat, som han sagt hade: Af them tu migh gifwit hafwer, bortkapade jagh ingen.",
+      "king_james": "That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Simon ergo Petrus habens gladium eduxit eum: et percussit pontificis servum, et abscidit auriculam ejus dexteram. Erat autem nomen servo Malchus.",
+      "greek_textus_receptus": "σίμων οὖν πέτρος ἔχων μάχαιραν εἵλκυσεν αὐτὴν καὶ ἔπαισεν τὸν τοῦ ἀρχιερέως δοῦλον καὶ ἀπέκοψεν αὐτοῦ τὸ ὠτίον τὸ δεξιόν ἦν δὲ ὄνομα τῷ δούλῳ μάλχος",
+      "finnish_biblia": "Niin Simon Pietarilla oli miekka, jonka hän veti ulos, ja löi ylimmäisen papin palveliaa ja hakkasi pois hänen oikian korvansa; jonka palvelian nimi oli Malkus. ",
+      "swedish_karl_xii": "Tå hade Simon Petrus ett swärd, och drog thet vth, och högg til öfwersta Prestens dräng, och högg hans högra öra af: och war drängsens namn Malchus.",
+      "king_james": "Then Simon Peter having a sword drew it, and smote the high priest's servant, and cut off his right ear. The servant's name was Malchus."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Dixit ergo Jesus Petro: Mitte gladium tuum in vaginam. Calicem, quem dedit mihi Pater, non bibam illum?",
+      "greek_textus_receptus": "εἶπεν οὖν ὁ ἰησοῦς τῷ πέτρῳ βάλε τὴν μάχαιραν σου εἰς τὴν θήκην τὸ ποτήριον ὃ δέδωκέν μοι ὁ πατὴρ οὐ μὴ πίω αὐτό",
+      "finnish_biblia": "Niin Jesus sanoi Pietarille: pistä miekkas tuppeen: eikö minun pidä juoman sitä kalkkia, jonka Isä minulle antoi? ",
+      "swedish_karl_xii": "Tå sade Jesus til Petrum: Stick titt swärd i skidona: Skal jagh icke dricka then kalken, som min Fader migh gifwit hafwer?",
+      "king_james": "Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Cohors ergo, et tribunus, et ministri Judæorum comprehenderunt Jesum, et ligaverunt eum.",
+      "greek_textus_receptus": "ἡ οὖν σπεῖρα καὶ ὁ χιλίαρχος καὶ οἱ ὑπηρέται τῶν ἰουδαίων συνέλαβον τὸν ἰησοῦν καὶ ἔδησαν αὐτὸν",
+      "finnish_biblia": "Niin joukko ja ylimmäinen päämies ja Juudalaisten palveliat ottivat kiinni Jesuksen ja sitoivat hänen, ",
+      "swedish_karl_xii": "Men skaren, och höfwitzmannen, och Judarnas tienare togo fatt på Jesum, och bundo honom:",
+      "king_james": "Then the band and the captain and officers of the Jews took Jesus, and bound him,"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Et adduxerunt eum ad Annam primum: erat enim socer Caiphæ, qui erat pontifex anni illius.",
+      "greek_textus_receptus": "καὶ ἀπήγαγον αὐτὸν πρὸς ἅνναν πρῶτον ἦν γὰρ πενθερὸς τοῦ καϊάφα ὃς ἦν ἀρχιερεὺς τοῦ ἐνιαυτοῦ ἐκείνου",
+      "finnish_biblia": "Ja veivät ensin Hannaksen tykö, sillä hän oli Kaiphaan appi, joka oli sinä vuonna ylimmäinen pappi. ",
+      "swedish_karl_xii": "Och ledde honom bort, först til Hannas: ty han war Caiphe swär, hwilken i thet åhret war öfwerste Prest.",
+      "king_james": "And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Erat autem Caiphas, qui consilium dederat Judæis: Quia expedit unum hominem mori pro populo.",
+      "greek_textus_receptus": "ἦν δὲ καϊάφας ὁ συμβουλεύσας τοῖς ἰουδαίοις ὅτι συμφέρει ἕνα ἄνθρωπον ἀπολέσθαι ὑπὲρ τοῦ λαοῦ",
+      "finnish_biblia": "Ja Kaiphas oli se, joka Juudalaisille oli neuvon antanut, että yhtä ihmistä olis tarpeellinen kuolettaa kansan edestä. ",
+      "swedish_karl_xii": "Och Caiphas war then som hade gifwit Judomen rådet, at thet war nyttigt, at een menniskia dödde för folcket.",
+      "king_james": "Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Sequebatur autem Jesum Simon Petrus, et alius discipulus. Discipulus autem ille erat notus pontifici, et introivit cum Jesu in atrium pontificis.",
+      "greek_textus_receptus": "ἠκολούθει δὲ τῷ ἰησοῦ σίμων πέτρος καὶ ὁ ἄλλος μαθητής ὁ δὲ μαθητὴς ἐκεῖνος ἦν γνωστὸς τῷ ἀρχιερεῖ καὶ συνεισῆλθεν τῷ ἰησοῦ εἰς τὴν αὐλὴν τοῦ ἀρχιερέως",
+      "finnish_biblia": "Ja Simon Pietari seurasi Jesusta, ja toinen opetuslapsi. Mutta se opetuslapsi oli ylimmäisen papin tuttava ja meni sisälle Jesuksen kanssa ylimmäisen papin saliin. ",
+      "swedish_karl_xii": "Och fölgde Simon Petrus Jesum, och en annar Lärjunge: then samme Lärjungen war känder medh öfwersta Presten, och gick in medh Jesu i öfwersta Prestens palats;",
+      "king_james": "And Simon Peter followed Jesus, and *so did* another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Petrus autem stabat ad ostium foris. Exivit ergo discipulus alius, qui erat notus pontifici, et dixit ostiariæ: et introduxit Petrum.",
+      "greek_textus_receptus": "ὁ δὲ πέτρος εἱστήκει πρὸς τῇ θύρᾳ ἔξω ἐξῆλθεν οὖν ὁ μαθητὴς ὁ ἄλλος ὅς ἦν γνωστὸς τῷ ἀρχιερεῖ, καὶ εἶπεν τῇ θυρωρῷ καὶ εἰσήγαγεν τὸν πέτρον",
+      "finnish_biblia": "Mutta Pietari jäi ulos oven eteen. Niin toinen opetuslapsi, joka ylimmäisen papin tuttava oli, meni ulos ja puhui ovenvartialle, ja toi Pietarin sisälle. ",
+      "swedish_karl_xii": "Men Petrus stod vthan för dörene. Tå gick then andre Lärjungen vth, som känder war medh öfwersta Presten, och talade til dörawårdinnan, och hade Petrum in.",
+      "king_james": "But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Dicit ergo Petro ancilla ostiaria: Numquid et tu ex discipulis es hominis istius? Dicit ille: Non sum.",
+      "greek_textus_receptus": "λέγει οὖν ἡ παιδίσκη ἡ θυρωρός τῷ πέτρῳ μὴ καὶ σὺ ἐκ τῶν μαθητῶν εἶ τοῦ ἀνθρώπου τούτου λέγει ἐκεῖνος οὐκ εἰμί",
+      "finnish_biblia": "Niin sanoi ovenvartiapiika Pietarille: etkö sinäkin olen tämän miehen opetuslapsia? Hän sanoi: en ole. ",
+      "swedish_karl_xii": "Tå sade dörawårdinnan til Petrum: Äst icke ock tu af thenna mansens Lärjungar? Han sade: Jagh är thet icke.",
+      "king_james": "Then saith the damsel that kept the door unto Peter, Art not thou also *one* of this man's disciples? He saith, I am not."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Stabant autem servi et ministri ad prunas, quia frigus erat, et calefaciebant se: erat autem cum eis et Petrus stans, et calefaciens se.",
+      "greek_textus_receptus": "εἱστήκεισαν δὲ οἱ δοῦλοι καὶ οἱ ὑπηρέται ἀνθρακιὰν πεποιηκότες ὅτι ψῦχος ἦν καὶ ἐθερμαίνοντο ἦν δὲ μετ᾽ αὐτῶν ὁ πέτρος ἑστὼς καὶ θερμαινόμενος",
+      "finnish_biblia": "Mutta palveliat, jotka hiilistä olivat tulen tehneet, sillä kylmä oli, seisoivat ja lämmittelivät. Ja Pietari seisoi myös heidän kanssansa ja lämmitteli. ",
+      "swedish_karl_xii": "Men drängerna, och tienarena, som hade giordt en kooleld, ty thet war kalt, stodo och wärmde sigh: medh them stod ock Petrus, och wärmde sigh.",
+      "king_james": "And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Pontifex ergo interrogavit Jesum de discipulis suis, et de doctrina ejus.",
+      "greek_textus_receptus": "ὁ οὖν ἀρχιερεὺς ἠρώτησεν τὸν ἰησοῦν περὶ τῶν μαθητῶν αὐτοῦ καὶ περὶ τῆς διδαχῆς αὐτοῦ",
+      "finnish_biblia": "Niin ylimmäinen pappi kysyi Jesukselta hänen opetuslapsestansa ja opetuksestansa. ",
+      "swedish_karl_xii": "Tå sporde öfwerste Presten Jesum om hans Lärjungar, och om hans lärdom.",
+      "king_james": "The high priest then asked Jesus of his disciples, and of his doctrine."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Respondit ei Jesus: Ego palam locutus sum mundo: ego semper docui in synagoga, et in templo, quo omnes Judæi conveniunt, et in occulto locutus sum nihil.",
+      "greek_textus_receptus": "ἀπεκρίθη αὐτῷ ὁ ἰησοῦς ἐγὼ παῤῥησίᾳ ἐλάλησα τῷ κόσμῳ ἐγὼ πάντοτε ἐδίδαξα ἐν τῇ συναγωγῇ καὶ ἐν τῷ ἱερῷ ὅπου πάντοτε οἱ ἰουδαῖοι συνέρχονται καὶ ἐν κρυπτῷ ελάλησα οὐδέν",
+      "finnish_biblia": "Jesus vastasi häntä: minä olen maailman edessä julkisesti puhunut: minä olen synagogassa opettanut ja templissä, johonka Juudalaiset joka paikasta kokoon tulevat, ja en ole mitään salaisuudessa puhunut. ",
+      "swedish_karl_xii": "Jesus swarade honom: Jagh hafwer vppenbarliga talat för werldene; jagh hafwer altid lärdt i Synagogon, och i templet, ther alle Judar komma tilsamman; och hemliga hafwer jagh intet talat.",
+      "king_james": "Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Quid me interrogas? interroga eos qui audierunt quid locutus sim ipsis: ecce hi sciunt quæ dixerim ego.",
+      "greek_textus_receptus": "τί με ἐπερωτᾷς ἐπερώτησον τοὺς ἀκηκοότας τί ἐλάλησα αὐτοῖς ἴδε οὗτοι οἴδασιν ἃ εἶπον ἐγώ",
+      "finnish_biblia": "Mitäs minulta kysyt? Kysy niiltä, jotka kuulivat, mitä minä heille puhunut olen. Katso, ne tietävät, mitä minä sanonut olen. ",
+      "swedish_karl_xii": "Hwij spör tu migh? Spör them til, som hördt hafwa hwad jagh hafwer talat til them: sij, the weta hwad jagh hafwer sagt.",
+      "king_james": "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Hæc autem cum dixisset, unus assistens ministrorum dedit alapam Jesu, dicens: Sic respondes pontifici?",
+      "greek_textus_receptus": "ταῦτα δὲ αὐτοῦ εἰπόντος εἷς τῶν ὑπηρετῶν παρεστηκὼς ἔδωκεν ῥάπισμα τῷ ἰησοῦ εἰπών οὕτως ἀποκρίνῃ τῷ ἀρχιερεῖ",
+      "finnish_biblia": "Mutta kuin hän näitä puhui, antoi yksi niistä palvelioita, jotka läsnä seisoivat, Jesukselle korvapuustin ja sanoi: niinkö sinä vastaat ylimmäistä pappia! ",
+      "swedish_karl_xii": "När han thetta sade, gaf en af tienarena, som ther när stodo, Jesu en kinpust, säijandes: Skalt tu så swara öfwersta Presten?",
+      "king_james": "And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Respondit ei Jesus: Si male locutus sum, testimonium perhibe de malo: si autem bene, quid me cædis?",
+      "greek_textus_receptus": "ἀπεκρίθη αὐτῷ ὁ ἰησοῦς εἰ κακῶς ἐλάλησα μαρτύρησον περὶ τοῦ κακοῦ εἰ δὲ καλῶς τί με δέρεις",
+      "finnish_biblia": "Jesus vastasi häntä: jos minä pahasti puhuin, niin tunnusta se pahaksi, mutta jos minä oikein puhuin, miksis minua lyöt? ",
+      "swedish_karl_xii": "Jesus swarade honom: Hafwer jagh illa talat, så witna om ondt; men hafwer jagh wäl talat, hwij slår tu migh?",
+      "king_james": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Et misit eum Annas ligatum ad Caipham pontificem.",
+      "greek_textus_receptus": "ἀπέστειλεν αὐτὸν ὁ ἅννας δεδεμένον πρὸς καϊάφαν τὸν ἀρχιερέα",
+      "finnish_biblia": "Niin Hannas lähetti hänen sidottuna ylimmäisen papin Kaiphaan tykö. ",
+      "swedish_karl_xii": "Och Hannas hade sändt honom bundnan til öfwersta Presten Caiphas.",
+      "king_james": "Now Annas had sent him bound unto Caiaphas the high priest."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Erat autem Simon Petrus stans, et calefaciens se. Dixerunt ergo ei: Numquid et tu ex discipulis ejus es? Negavit ille, et dixit: Non sum.",
+      "greek_textus_receptus": "ἦν δὲ σίμων πέτρος ἑστὼς καὶ θερμαινόμενος εἶπον οὖν αὐτῷ μὴ καὶ σὺ ἐκ τῶν μαθητῶν αὐτοῦ εἶ ἠρνήσατο ἐκεῖνος καὶ εἶπεν οὐκ εἰμί",
+      "finnish_biblia": "Mutta Simon Pietari seisoi ja lämmitteli. Niin he sanoivat hänelle: etkö sinä ole myös hänen opetuslapsiansa? Hän kielsi ja sanoi: en ole. ",
+      "swedish_karl_xii": "Men Simon Petrus stod och wärmde sigh. Tå sade the til honom: Äst icke ock tu af hans Lärjungar? Han nekade, och sade: Jagh är thet icke.",
+      "king_james": "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also *one* of his disciples? He denied *it*, and said, I am not."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Dicit ei unus ex servis pontificis, cognatus ejus, cujus abscidit Petrus auriculam: Nonne ego te vidi in horto cum illo?",
+      "greek_textus_receptus": "λέγει εἷς ἐκ τῶν δούλων τοῦ ἀρχιερέως συγγενὴς ὢν οὗ ἀπέκοψεν πέτρος τὸ ὠτίον οὐκ ἐγώ σε εἶδον ἐν τῷ κήπῳ μετ᾽ αὐτοῦ",
+      "finnish_biblia": "Sanoi hänelle yksi ylimmäisen papin palvelioista, sen lanko, jonka korvan Pietari hakkasi pois: enkö minä sinua nähnyt yrttitarhassa hänen kanssansa? ",
+      "swedish_karl_xii": "Tå sade til honom en af öfwersta Prestens tienare, thens frände som Petrus hade hugget örat af: Såg icke jagh tigh medh honom i örtagården?",
+      "king_james": "One of the servants of the high priest, being *his* kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Iterum ergo negavit Petrus: et statim gallus cantavit.",
+      "greek_textus_receptus": "πάλιν οὖν ἠρνήσατο ὁ πέτρος καὶ εὐθέως ἀλέκτωρ ἐφώνησεν",
+      "finnish_biblia": "Niin Pietari taas kielsi, ja kohta kukko lauloi. ",
+      "swedish_karl_xii": "Tå nekade åter Petrus thet: och strax gool hanen.",
+      "king_james": "Peter then denied again: and immediately the cock crew."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Adducunt ergo Jesum a Caipha in prætorium. Erat autem mane: et ipsi non introierunt in prætorium, ut non contaminarentur, sed ut manducarent Pascha.",
+      "greek_textus_receptus": "ἄγουσιν οὖν τὸν ἰησοῦν ἀπὸ τοῦ καϊάφα εἰς τὸ πραιτώριον ἦν δὲ πρωίᾳ καὶ αὐτοὶ οὐκ εἰσῆλθον εἰς τὸ πραιτώριον ἵνα μὴ μιανθῶσιν ἀλλ᾽ ἵνα φάγωσιν τὸ πάσχα",
+      "finnish_biblia": "Niin he veivät Jesuksen Kaiphaan tyköä raastupaan. Mutta se oli aamu, ja ei he menneet raastupaan, ettei he itsiänsä saastuttaisi, vaan söisivät pääsiäislampaan. ",
+      "swedish_karl_xii": "Tå ledde the Jesum ifrå Caiphas in för Rådhuset: och thet war om morgonen; och the gingo icke in i Rådhuset, at the icke skulle warda besmittade, vtan at the måtte äta Påskalambet.",
+      "king_james": "Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Exivit ergo Pilatus ad eos foras, et dixit: Quam accusationem affertis adversus hominem hunc?",
+      "greek_textus_receptus": "ἐξῆλθεν οὖν ὁ πιλᾶτος πρὸς αὐτοὺς καὶ εἶπεν τίνα κατηγορίαν φέρετε κατὰ τοῦ ἀνθρώπου τούτου",
+      "finnish_biblia": "Niin Pilatus meni ulos heidän tykönsä ja sanoi: mitä kannetta te tuotte tätä miestä vastaan? ",
+      "swedish_karl_xii": "Tå gick Pilatus vth til them, och sade: Hwad klagomål hafwen J emot thenna mannen?",
+      "king_james": "Pilate then went out unto them, and said, What accusation bring ye against this man?"
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Responderunt, et dixerunt ei: Si non esset hic malefactor, non tibi tradidissemus eum.",
+      "greek_textus_receptus": "ἀπεκρίθησαν καὶ εἶπον αὐτῷ εἰ μὴ ἦν οὗτος κακὸποιός, οὐκ ἄν σοι παρεδώκαμεν αὐτόν",
+      "finnish_biblia": "He vastasivat ja sanoivat hänelle: ellei hän pahantekiä olisi, emme olisi häntä sinun haltuus antaneet. ",
+      "swedish_karl_xii": "Tå swarade the, och sade til honom: Wore han icke en ogierningsman, så hade wij icke öfwerantwardat tigh honom.",
+      "king_james": "They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Dixit ergo eis Pilatus: Accipite eum vos, et secundum legem vestram judicate eum. Dixerunt ergo ei Judæi: Nobis non licet interficere quemquam.",
+      "greek_textus_receptus": "εἶπεν οὖν αὐτοῖς ὁ πιλᾶτος λάβετε αὐτὸν ὑμεῖς καὶ κατὰ τὸν νόμον ὑμῶν κρίνατε αὐτόν εἶπον οὖν αὐτῷ οἱ ἰουδαῖοι ἡμῖν οὐκ ἔξεστιν ἀποκτεῖναι οὐδένα",
+      "finnish_biblia": "Niin Pilatus sanoi heille: ottakaat te häntä ja tuomitkaat häntä teidän lakinne jälkeen. Juudalaiset sanoivat siis hänelle: meidän ei sovi ketään tappaa; ",
+      "swedish_karl_xii": "Tå sade Pilatus til them: Tager Jhonom, och dömer honom efter edor lagh. Tå sade til honom Judarna: Oß är icke låfligit at döda någon.",
+      "king_james": "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:"
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Ut sermo Jesu impleretur, quem dixit, significans qua morte esset moriturus.",
+      "greek_textus_receptus": "ἵνα ὁ λόγος τοῦ ἰησοῦ πληρωθῇ ὃν εἶπεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν",
+      "finnish_biblia": "Että jesuksen puhe täytettäisiin, kuin hän sanoi, merkiten, millä kuolemalla hänen piti kuoleman. ",
+      "swedish_karl_xii": "På thet Jesu taal skulle fulkomnas, som han sagt hade, tå han gaf tilkänna, medh hwad dödh han döö skulle.",
+      "king_james": "That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die."
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "Introivit ergo iterum in prætorium Pilatus: et vocavit Jesum, et dixit ei: Tu es rex Judæorum?",
+      "greek_textus_receptus": "εἰσῆλθεν οὖν εἰς τὸ πραιτώριον πάλιν ὁ πιλᾶτος καὶ ἐφώνησεν τὸν ἰησοῦν καὶ εἶπεν αὐτῷ σὺ εἶ ὁ βασιλεὺς τῶν ἰουδαίων",
+      "finnish_biblia": "Niin Pilatus taas meni raastupaan, kutsui Jesuksen ja sanoi hänelle: oletkos sinä Juudalaisten kuningas? ",
+      "swedish_karl_xii": "Tå gick Pilatus åter in i Rådhuset, och kallade Jesum, och sade til honom: Äst tu Judarnas Konung?",
+      "king_james": "Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?"
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "Respondit Jesus: A temetipso hoc dicis, an alii dixerunt tibi de me?",
+      "greek_textus_receptus": "ἀπεκρίθη αὐτῷ ὁ ἰησοῦς ἀφ᾽ ἑαυτοῦ σὺ τοῦτο λέγεις ἢ ἄλλοι σοι εἶπόν περὶ ἐμοῦ",
+      "finnish_biblia": "Jesus vastasi häntä: sanotko sinä sen itsestäs, eli ovatko muut sen minusta sinulle sanoneet? ",
+      "swedish_karl_xii": "Jesus swarade: Säger tu thet af tigh sielf; eller hafwa andra sagt tigh thet om migh?",
+      "king_james": "Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?"
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "Respondit Pilatus: Numquid ego Judæus sum? gens tua et pontifices tradiderunt te mihi: quid fecisti?",
+      "greek_textus_receptus": "ἀπεκρίθη ὁ πιλᾶτος μήτι ἐγὼ ἰουδαῖός εἰμι τὸ ἔθνος τὸ σὸν καὶ οἱ ἀρχιερεῖς παρέδωκάν σε ἐμοί τί ἐποίησας",
+      "finnish_biblia": "Pilatus vastasi: olenko minä Juudalainen? Sinun kansas ja ylimmäiset papit antoivat ylön sinun minulle: mitäs tehnyt olet? ",
+      "swedish_karl_xii": "Pilatus swarade: Jcke är jagh en Jude: titt folck och the öfwerste Presterna hafwa tigh migh öfwer antwardat; hwad hafwer tu giordt?",
+      "king_james": "Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?"
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "Respondit Jesus: Regnum meum non est de hoc mundo. Si ex hoc mundo esset regnum meum, ministri mei utique decertarent ut non traderer Judæis: nunc autem regnum meum non est hinc.",
+      "greek_textus_receptus": "ἀπεκρίθη ὁ ἰησοῦς ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐκ τοῦ κόσμου τούτου εἰ ἐκ τοῦ κόσμου τούτου ἦν ἡ βασιλεία ἡ ἐμή οἱ ὑπηρέται ἄν οἱ ἐμοὶ ἠγωνίζοντο ἵνα μὴ παραδοθῶ τοῖς ἰουδαίοις νῦν δὲ ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐντεῦθεν",
+      "finnish_biblia": "Jesus vastasi: ei minun valtakuntani ole tästä maailmasta. Jos minun valtakuntani olis tästä maailmasta, niin tosin minun palveliani olisivat sotineet, etten minä olisi tullut annetuksi ylön Juudalaisille; mutta ei minun valtakuntakuntani ole täältä. ",
+      "swedish_karl_xii": "Jesus swarade: Mitt rike är icke af thenna werldene: om mitt rike wore af thenna werldene, tå fächtade ju mine tienare ther om, at jagh icke worde Judomen öfwerantwardad; men mitt rike är icke hädan.",
+      "king_james": "Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence."
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "Dixit itaque ei Pilatus: Ergo rex es tu? Respondit Jesus: Tu dicis quia rex sum ego. Ego in hoc natus sum, et ad hoc veni in mundum, ut testimonium perhibeam veritati: omnis qui est ex veritate, audit vocem meam.",
+      "greek_textus_receptus": "εἶπεν οὖν αὐτῷ ὁ πιλᾶτος οὐκοῦν βασιλεὺς εἶ σύ ἀπεκρίθη ὁ ἰησοῦς σὺ λέγεις ὅτι βασιλεύς εἰμι ἐγὼ ἐγὼ εἰς τοῦτο γεγέννημαι καὶ εἰς τοῦτο ἐλήλυθα εἰς τὸν κόσμον ἵνα μαρτυρήσω τῇ ἀληθείᾳ πᾶς ὁ ὢν ἐκ τῆς ἀληθείας ἀκούει μου τῆς φωνῆς",
+      "finnish_biblia": "Niin Pilatus sanoi hänelle: niin sinä olet kuningas? Jesus vastasi: sinä sen sanot, että minä olen kuningas. Sitä varten olen minä syntynyt ja sitä varten maailmaan tullut, että minä totuden tunnustan. Jokainen, joka on totuudesta, se kuulee minun ääneni. ",
+      "swedish_karl_xii": "Tå sade Pilatus til honom: Så äst tu doch en Konung? Jesus swarade: Tu säger thet; jagh är en Konung: ther til är jagh född, och är ther til kommen i werldena, at jagh skal witna medh sanningene. Hwar och en som är af sanningene, han hörer mina röst.",
+      "king_james": "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice."
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "Dicit ei Pilatus: Quid est veritas? Et cum hoc dixisset, iterum exivit ad Judæos, et dicit eis: Ego nullam invenio in eo causam.",
+      "greek_textus_receptus": "λέγει αὐτῷ ὁ πιλᾶτος τί ἐστιν ἀλήθεια καὶ τοῦτο εἰπὼν πάλιν ἐξῆλθεν πρὸς τοὺς ἰουδαίους καὶ λέγει αὐτοῖς ἐγὼ οὐδεμίαν αἰτίαν εὑρίσκω ἐν αὐτῷ",
+      "finnish_biblia": "Pilatus sanoi hänelle: minä on totuus? Ja kuin hän sen sanonut oli, meni hän taas ulos Juudalaisten tykö ja sanoi heille: en minä löydä yhtään syytä hänessä. ",
+      "swedish_karl_xii": "Sade Pilatus til honom: Hwad är sanning? Och när han thet sagt hade, gick han åter til Judarna, och sade til them: Jagh finner ingen saak medh honom.",
+      "king_james": "Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault *at all*."
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": "Est autem consuetudo vobis ut unum dimittam vobis in Pascha: vultis ergo dimittam vobis regem Judæorum?",
+      "greek_textus_receptus": "ἔστιν δὲ συνήθεια ὑμῖν ἵνα ἕνα ὑμῖν ἀπολύσω ἐν τῷ πάσχα βούλεσθε οὖν ὑμῖν ἀπολύσω τὸν βασιλέα τῶν ἰουδαίων",
+      "finnish_biblia": "Mutta teillä on tapa, että minun pitää teille päästämän yhden pääsiäisenä: tahdotteko siis, että minä päästän teille Juudalaisten kuninkaan? ",
+      "swedish_karl_xii": "J hafwen sedwänjo, at jagh skal gifwa eder en löös om Påska; wiljen J tå icke, at jagh skal gifwa eder Judarnas Konung löös?",
+      "king_james": "But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?"
+    },
+    {
+      "verse": 40,
+      "latin_vulgate": "Clamaverunt ergo rursum omnes, dicentes: Non hunc, sed Barabbam. Erat autem Barabbas latro.",
+      "greek_textus_receptus": "ἐκραύγασαν οὖν πάλιν πάντες, λέγοντες μὴ τοῦτον ἀλλὰ τὸν βαραββᾶν ἦν δὲ ὁ βαραββᾶς λῃστής",
+      "finnish_biblia": "Niin he huusivat taas kaikki, sanoen: ei tätä, vaan Barabbasta. Mutta Barabbas oli ryöväri.   ",
+      "swedish_karl_xii": "Åter ropade the alle, och sade: Jcke thenna, vtan Barabbam. Och Barabbas war en röfware.",
+      "king_james": "Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber."
+    }
+  ]
+}

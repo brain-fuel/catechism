@@ -1,0 +1,179 @@
+{
+  "book_id": "ROM",
+  "latin_name": "Epistula ad Romanos",
+  "greek_name": "Πρὸς Ῥωμαίους",
+  "finnish_name": "Kirje roomalaisille",
+  "swedish_name": "S. Pauli Epistel Til the Romare",
+  "english_name": "The Epistle of Paul the Apostle to the Romans",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Justificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Jesum Christum:",
+      "greek_textus_receptus": "δικαιωθέντες οὖν ἐκ πίστεως εἰρήνην ἔχομεν πρὸς τὸν θεὸν διὰ τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Että me siis olemme uskosta vanhurskaiksi tulleet, niin meillä on rauha Jumalan kanssa meidän Herran Jesuksen Kristuksen kautta, ",
+      "swedish_karl_xii": "Medan wij nu rättferdige wordne äro af trone, hafwe wij frijd medh Gudh, genom wår Herra Jesum Christum;",
+      "king_james": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriæ filiorum Dei.",
+      "greek_textus_receptus": "δι᾽ οὗ καὶ τὴν προσαγωγὴν ἐσχήκαμεν τῇ πίστει εἰς τὴν χάριν ταύτην ἐν ᾗ ἑστήκαμεν καὶ καυχώμεθα ἐπ᾽ ἐλπίδι τῆς δόξης τοῦ θεοῦ",
+      "finnish_biblia": "Jonka kautta myös meillä oli tykökäymys uskossa tähän armoon, jossa me seisomme ja kerskaamme Jumalan kunnian toivosta. ",
+      "swedish_karl_xii": "Genom hwilken wij hafwe ock en tilgång i trone til thenna nådh, som wij vthi ståm, och berömmom oß af hoppet som wij hafwe til then härlighet som Gudh gifwa skal.",
+      "king_james": "By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Non solum autem, sed et gloriamur in tribulationibus: scientes quod tribulatio patientiam operatur:",
+      "greek_textus_receptus": "οὐ μόνον δέ ἀλλὰ καὶ καυχώμεθα ἐν ταῖς θλίψεσιν εἰδότες ὅτι ἡ θλῖψις ὑπομονὴν κατεργάζεται",
+      "finnish_biblia": "Mutta ei ainoasti siitä, vaan me kerskaamme myös vaivoissa; sillä me tiedämme, että vaiva saattaa kärsivällisyyden, ",
+      "swedish_karl_xii": "Och icke thet allenast: vtan wij berömmom oß ock i bedröfwelsen; wetande, at bedröfwelse giör tolamod;",
+      "king_james": "And not only *so*, but we glory in tribulations also: knowing that tribulation worketh patience;"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "patientia autem probationem, probatio vero spem,",
+      "greek_textus_receptus": "ἡ δὲ ὑπομονὴ δοκιμήν ἡ δὲ δοκιμὴ ἐλπίδα",
+      "finnish_biblia": "Mutta kärsivällisyys koettelemuksen, koettelemus toivon. ",
+      "swedish_karl_xii": "Och tolamod giör förfarenhet; förfarenhet giör hopp:",
+      "king_james": "And patience, experience; and experience, hope:"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "spes autem non confundit: quia caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est nobis.",
+      "greek_textus_receptus": "ἡ δὲ ἐλπὶς οὐ καταισχύνει ὅτι ἡ ἀγάπη τοῦ θεοῦ ἐκκέχυται ἐν ταῖς καρδίαις ἡμῶν διὰ πνεύματος ἁγίου τοῦ δοθέντος ἡμῖν",
+      "finnish_biblia": "Mutta toivo ei anna häpiään tulla, että Jumalan rakkaus on vuodatettu meidän sydämiimme Pyhän Hengen kautta, joka meille annettu on. ",
+      "swedish_karl_xii": "Men hoppet låter icke komma på skam: ty Gudz kärlek är vthguten i wår hierta, genom then Helga Anda, som oß gifwen är.",
+      "king_james": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Ut quid enim Christus, cum adhuc infirmi essemus, secundum tempus, pro impiis mortuus est?",
+      "greek_textus_receptus": "ἔτι γὰρ χριστὸς ὄντων ἡμῶν ἀσθενῶν κατὰ καιρὸν ὑπὲρ ἀσεβῶν ἀπέθανεν",
+      "finnish_biblia": "Sillä Kristus, kuin me vielä heikot olimme, on ajallansa jumalattomain edestä kuollut. ",
+      "swedish_karl_xii": "Ty ock Christus, then stund wij ännu swage worom efter tiden, hafwer lidit döden för oß syndare.",
+      "king_james": "For when we were yet without strength, in due time Christ died for the ungodly."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "vix enim pro justo quis moritur: nam pro bono forsitan quis audeat mori.",
+      "greek_textus_receptus": "μόλις γὰρ ὑπὲρ δικαίου τις ἀποθανεῖται ὑπὲρ γὰρ τοῦ ἀγαθοῦ τάχα τις καὶ τολμᾷ ἀποθανεῖν",
+      "finnish_biblia": "Tuskalla nyt joku kuolis vanhurskaan edestä, ehkä hyvän edestä mitämaks joku tohtis kuolla. ",
+      "swedish_karl_xii": "Nu wil näpliga någor döö för thet som rätt är: för thet som godt är, torde til ewentyrs någor döö.",
+      "king_james": "For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Commendat autem caritatem suam Deus in nobis: quoniam cum adhuc peccatores essemus, secundum tempus,",
+      "greek_textus_receptus": "συνίστησιν δὲ τὴν ἑαυτοῦ ἀγάπην εἰς ἡμᾶς ὁ θεὸς ὅτι ἔτι ἁμαρτωλῶν ὄντων ἡμῶν χριστὸς ὑπὲρ ἡμῶν ἀπέθανεν",
+      "finnish_biblia": "Mutta Jumala ylistää rakkauttansa meidän kohtaamme, että kuin me vielä syntiset olimme, on Kristus meidän edestämme kuollut. ",
+      "swedish_karl_xii": "Therföre beprisar Gudh sin kärlek til oß, at Christus är död för oß, när wij ännu wore syndare.",
+      "king_james": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Christus pro nobis mortuus est: multo igitur magis nunc justificati in sanguine ipsius, salvi erimus ab ira per ipsum.",
+      "greek_textus_receptus": "πολλῷ οὖν μᾶλλον δικαιωθέντες νῦν ἐν τῷ αἵματι αὐτοῦ σωθησόμεθα δι᾽ αὐτοῦ ἀπὸ τῆς ὀργῆς",
+      "finnish_biblia": "Niin me siis paljoa enemmin varjellaan hänen kauttansa vihan edestä, että me nyt hänen verensä kautta vanhurskaiksi tulleet olemme. ",
+      "swedish_karl_xii": "Så warde wij ju mycket meer behåldne genom honom för wredene, efter wij äre rättferdige giorde i hans blodh.",
+      "king_james": "Much more then, being now justified by his blood, we shall be saved from wrath through him."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Si enim cum inimici essemus, reconciliati sumus Deo per mortem filii ejus: multo magis reconciliati, salvi erimus in vita ipsius.",
+      "greek_textus_receptus": "εἰ γὰρ ἐχθροὶ ὄντες κατηλλάγημεν τῷ θεῷ διὰ τοῦ θανάτου τοῦ υἱοῦ αὐτοῦ πολλῷ μᾶλλον καταλλαγέντες σωθησόμεθα ἐν τῇ ζωῇ αὐτοῦ",
+      "finnish_biblia": "Sillä jos me Jumalan kanssa olimme sovitetut hänen Poikansa kuoleman kautta, kuin me vielä hänen vihollisensa olimme, paljoa ennemmin me autuaiksi tulemme hänen elämänsä kautta, että me sovitetut olemme. ",
+      "swedish_karl_xii": "Ty efter wij wordom förlikte medh Gudi, genom hans sons dödh, then stund wij ännu wore owänner: mycket meer, efter wij äre förlikte, blifwe wij nu behäldne genom hans lijf.",
+      "king_james": "For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Non solum autem: sed et gloriamur in Deo per Dominum nostrum Jesum Christum, per quem nunc reconciliationem accepimus.",
+      "greek_textus_receptus": "οὐ μόνον δέ ἀλλὰ καὶ καυχώμενοι ἐν τῷ θεῷ διὰ τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ δι᾽ οὗ νῦν τὴν καταλλαγὴν ἐλάβομεν",
+      "finnish_biblia": "Mutta ei ainoasti siitä, vaan me kerskaamme myös Jumalasta, meidän Herran Jesuksen Kristuksen kautta, jonka kautta me nyt olemme sovinnon saaneet. ",
+      "swedish_karl_xii": "Jcke allenast thet: vtan wij berömmom oß ock af Gudi, genom wår Herra Jesum Christum, genom hwilken wij nu förlikningen fått hafwe.",
+      "king_james": "And not only *so*, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt.",
+      "greek_textus_receptus": "διὰ τοῦτο ὥσπερ δι᾽ ἑνὸς ἀνθρώπου ἡ ἁμαρτία εἰς τὸν κόσμον εἰσῆλθεν καὶ διὰ τῆς ἁμαρτίας ὁ θάνατος καὶ οὕτως εἰς πάντας ἀνθρώπους ὁ θάνατος διῆλθεν ἐφ᾽ ᾧ πάντες ἥμαρτον",
+      "finnish_biblia": "Sentähden, niinkuin yhden ihmisen kautta on synti maailmaan tullut ja synnin kautta kuolema, niin on kuolema tullut kaikkein ihmisten päälle, että kaikki ovat syntiä tehneet. ",
+      "swedish_karl_xii": "Therföre, såsom igenom ena menniskio är synden kommen i werlden, och för syndenes skul döden; och är så döden kommen öfwer alla menniskior, efter the alle syndat hafwa.",
+      "king_james": "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset.",
+      "greek_textus_receptus": "ἄχρι γὰρ νόμου ἁμαρτία ἦν ἐν κόσμῳ ἁμαρτία δὲ οὐκ ἐλλογεῖται μὴ ὄντος νόμου",
+      "finnish_biblia": "Sillä lakiin asti oli synti maailmassa; mutta kussa ei lakia ole, ei siellä syntiä lueta. ",
+      "swedish_karl_xii": "Ty synden war wäl i werldene alt in til lagen: men ther ingen lagh är, ther achtas icke synden.",
+      "king_james": "(For until the law sin was in the world: but sin is not imputed when there is no law."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Sed regnavit mors ab Adam usque ad Moysen etiam in eos qui non peccaverunt in similitudinem prævaricationis Adæ, qui est forma futuri.",
+      "greek_textus_receptus": "ἀλλ᾽ ἐβασίλευσεν ὁ θάνατος ἀπὸ ἀδὰμ μέχρι μωσέως καὶ ἐπὶ τοὺς μὴ ἁμαρτήσαντας ἐπὶ τῷ ὁμοιώματι τῆς παραβάσεως ἀδάμ ὅς ἐστιν τύπος τοῦ μέλλοντος",
+      "finnish_biblia": "Vaan kuolema vallitsi Adamista Mosekseen asti niitäkin, jotka ei syntiä tehneet olleet senkaltaisella ylitsekäymisellä kuin Adam, joka on sen esikuva, joka jälkeen tuleva oli. ",
+      "swedish_karl_xii": "Vtan döden war wäldig alt ifrån Adam in til Mosen; öfwer them ock, som icke hade syndat i sådana öfwerträdelse som Adam, hwilken är hans liknelse som tilkommande war.",
+      "king_james": "Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Sed non sicut delictum, ita et donum: si enim unius delicto multi mortui sunt: multo magis gratia Dei et donum in gratia unius hominis Jesu Christi in plures abundavit.",
+      "greek_textus_receptus": "ἀλλ οὐχ ὡς τὸ παράπτωμα οὕτως καὶ τὸ χάρισμα εἰ γὰρ τῷ τοῦ ἑνὸς παραπτώματι οἱ πολλοὶ ἀπέθανον πολλῷ μᾶλλον ἡ χάρις τοῦ θεοῦ καὶ ἡ δωρεὰ ἐν χάριτι τῇ τοῦ ἑνὸς ἀνθρώπου ἰησοῦ χριστοῦ εἰς τοὺς πολλοὺς ἐπερίσσευσεν",
+      "finnish_biblia": "Mutta ei niin lahjan kanssa ole kuin synnin; sillä jos monta ovat sen yhden synnin tähden kuolleet, niin on paljoa enemmin Jumalan armo ja lahja sen yhden ihmisen Jesuksen Kristuksen armossa monen päälle runsaasti tullut. ",
+      "swedish_karl_xii": "Men thet hafwer sigh icke så medh gåfwone, som medh syndene: ty om igenom ens (menniskios) synd äro månge döde; så är mycket meer Gudz nädh och gåfwa mångom rikeliga wederfaren, genom Jesum Christum, som then ena menniskian war i nådene.",
+      "king_james": "But not as the offence, so also *is* the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, *which is* by one man, Jesus Christ, hath abounded unto many."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Et non sicut per unum peccatum, ita et donum. Nam judicium quidem ex uno in condemnationem: gratia autem ex multis delictis in justificationem.",
+      "greek_textus_receptus": "καὶ οὐχ ὡς δι᾽ ἑνὸς ἁμαρτήσαντος τὸ δώρημα τὸ μὲν γὰρ κρίμα ἐξ ἑνὸς εἰς κατάκριμα τὸ δὲ χάρισμα ἐκ πολλῶν παραπτωμάτων εἰς δικαίωμα",
+      "finnish_biblia": "Ja ei niinkuin (se tuli) yhden kautta, joka syntiä teki, niin myös lahja; sillä tuomio on tosin yhdestä kadotukseen, mutta lahja monesta synnistä vanhurskauteen. ",
+      "swedish_karl_xii": "Och är icke gåfwan allenast öfwer ena synd, såsom förderfwet är kommet för thens ena syndarens ena synd: ty domen är kommen af ene synd til fördömelse; men gåfwan af många synder til rättferdighet.",
+      "king_james": "And not as *it was* by one that sinned, *so is* the gift: for the judgment *was* by one to condemnation, but the free gift *is* of many offences unto justification."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Si enim unius delicto mors regnavit per unum: multo magis abundantiam gratiæ, et donationis, et justitiæ accipientes, in vita regnabunt per unum Jesum Christum.",
+      "greek_textus_receptus": "εἰ γὰρ τῷ τοῦ ἑνὸς παραπτώματι ὁ θάνατος ἐβασίλευσεν διὰ τοῦ ἑνός πολλῷ μᾶλλον οἱ τὴν περισσείαν τῆς χάριτος καὶ τῆς δωρεᾶς τῆς δικαιοσύνης λαμβάνοντες ἐν ζωῇ βασιλεύσουσιν διὰ τοῦ ἑνὸς ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Sillä jos kuolema on yhden synnin tähden vallinnut sen yhden kautta, paljoa enemmin ne, jotka saavat armon ja vanhurskauden lahjan yltäkylläisyyden, pitää vallitsemassa elämässä yhden Jesuksen Kristuksen kautta. ",
+      "swedish_karl_xii": "Ty om döden hafwer för ens synd skul, wäldig warit igenom en; mycket meer skola the som vndfå nådenes och gåfwones fulhet til rättferdighet, wara wäldige i lifwena genom en, Jesum Christum.",
+      "king_james": "For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Igitur sicut per unius delictum in omnes homines in condemnationem: sic et per unius justitiam in omnes homines in justificationem vitæ.",
+      "greek_textus_receptus": "ἄρα οὖν ὡς δι᾽ ἑνὸς παραπτώματος εἰς πάντας ἀνθρώπους εἰς κατάκριμα οὕτως καὶ δι᾽ ἑνὸς δικαιώματος εἰς πάντας ἀνθρώπους εἰς δικαίωσιν ζωῆς",
+      "finnish_biblia": "Niinkuin siis yhden synnin kautta on kadotus tullut kaikkein ihmisten päälle, niin on myös yhden vanhurskauden kautta elämän vanhurskaus tullut kaikkein ihmisten päälle. ",
+      "swedish_karl_xii": "Ty såsom för ens synd skul, är fördömelse kommen öfwer alla menniskior; så kommer ock igenom ens rättferdighet lifsens rättferdning öfwer alla menniskior.",
+      "king_james": "Therefore as by the offence of one *judgment came* upon all men to condemnation; even so by the righteousness of one *the free gift came* upon all men unto justification of life."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Sicut enim per inobedientiam unius hominis, peccatores constituti sunt multi: ita et per unius obeditionem, justi constituentur multi.",
+      "greek_textus_receptus": "ὥσπερ γὰρ διὰ τῆς παρακοῆς τοῦ ἑνὸς ἀνθρώπου ἁμαρτωλοὶ κατεστάθησαν οἱ πολλοί οὕτως καὶ διὰ τῆς ὑπακοῆς τοῦ ἑνὸς δίκαιοι κατασταθήσονται οἱ πολλοί",
+      "finnish_biblia": "Sillä niinkuin yhden ihmisen kuulemattomuuden tähden monta ovat syntisiksi tulleet, niin myös monta tulevat yhden kuuliaisuuden tähden vanhurskaiksi. ",
+      "swedish_karl_xii": "Ty såsom för ene menniskios olydno äro månge wordne syndare; så warda ock för ens lydno skul månge rättferdige.",
+      "king_james": "For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, superabundavit gratia:",
+      "greek_textus_receptus": "νόμος δὲ παρεισῆλθεν ἵνα πλεονάσῃ τὸ παράπτωμα οὗ δὲ ἐπλεόνασεν ἡ ἁμαρτία ὑπερεπερίσσευσεν ἡ χάρις",
+      "finnish_biblia": "Mutta laki on myös tähän tullut, että synti suuremmaksi tuttaisiin; mutta kussa synti on suureksi tuttu, siinä on armo ylönpalttiseksi tuttu: ",
+      "swedish_karl_xii": "Men lagen är ock så här medh inkommen, at synden skulle öfwerflöda: men ther synden öfwerflödde, ther öfwerflödde tå nåden mycket meer:",
+      "king_james": "Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "ut sicut regnavit peccatum in mortem: ita et gratia regnet per justitiam in vitam æternam, per Jesum Christum Dominum nostrum.",
+      "greek_textus_receptus": "ἵνα ὥσπερ ἐβασίλευσεν ἡ ἁμαρτία ἐν τῷ θανάτῳ οὕτως καὶ ἡ χάρις βασιλεύσῃ διὰ δικαιοσύνης εἰς ζωὴν αἰώνιον διὰ ἰησοῦ χριστοῦ τοῦ κυρίου ἡμῶν",
+      "finnish_biblia": "Että niinkuin synti on vallinnut kuolemaan, niin myös armo on vallitseva vanhurskauden kautta ijankaikkiseen elämään, Jesuksen Kristuksen meidän Herramme kautta.   ",
+      "swedish_karl_xii": "På thet, at såsom synden hafwer wäldig warit til döden; så skulle ock nåden wäldig wara genom rättferdighetena til ewinnerligit lijf, genom Jesum Christum.",
+      "king_james": "That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord."
+    }
+  ]
+}

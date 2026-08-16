@@ -1,0 +1,211 @@
+{
+  "book_id": "1TI",
+  "latin_name": "Epistula I ad Timotheum",
+  "greek_name": "Πρὸς Τιμόθεον Α",
+  "finnish_name": "Ensimmäinen kirje Timoteukselle",
+  "swedish_name": "S. Pauli Epistel then förra Til Timotheum",
+  "english_name": "The First Epistle of Paul the Apostle to Timothy",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Seniorem ne increpaveris, sed obsecra ut patrem: juvenes, ut fratres:",
+      "greek_textus_receptus": "πρεσβυτέρῳ μὴ ἐπιπλήξῃς ἀλλὰ παρακάλει ὡς πατέρα νεωτέρους ὡς ἀδελφούς",
+      "finnish_biblia": "Älä vanhaa kovin nuhtele, vaan neuvo häntä niinkuin isää, nuoria niinkuin veljiä, ",
+      "swedish_karl_xii": "Then gamla skal tu icke hårdeliga straffa: vtan förmana såsom en fader; the vnga såsom bröder:",
+      "king_james": "Rebuke not an elder, but intreat *him* as a father; *and* the younger men as brethren;"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "anus, ut matres: juvenculas, ut sorores in omni castitate:",
+      "greek_textus_receptus": "πρεσβυτέρας ὡς μητέρας νεωτέρας ὡς ἀδελφὰς ἐν πάσῃ ἁγνείᾳ",
+      "finnish_biblia": "Vanhoja vaimoja niinkuin äitejä, nuoria niinkuin sisaria, kaikella puhtaudella. ",
+      "swedish_karl_xii": "The gamla qwinnor såsom mödrar; the vnga såsom systrar, medh all kyskhet.",
+      "king_james": "The elder women as mothers; the younger as sisters, with all purity."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "viduas honora, quæ vere viduæ sunt.",
+      "greek_textus_receptus": "χήρας τίμα τὰς ὄντως χήρας",
+      "finnish_biblia": "Kunnioita niitä leskiä, jotka oikiat lesket ovat. ",
+      "swedish_karl_xii": "Hedra enkiorna, the ther rätta enkior äro.",
+      "king_james": "Honour widows that are widows indeed."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Si qua autem vidua filios, aut nepotes habet: discat primum domum suam regere, et mutuam vicem reddere parentibus: hoc enim acceptum est coram Deo.",
+      "greek_textus_receptus": "εἰ δέ τις χήρα τέκνα ἢ ἔκγονα ἔχει μανθανέτωσαν πρῶτον τὸν ἴδιον οἶκον εὐσεβεῖν καὶ ἀμοιβὰς ἀποδιδόναι τοῖς προγόνοις τοῦτο γάρ ἐστιν καλὸν καὶ ἀπόδεκτον ἐνώπιον τοῦ θεοῦ",
+      "finnish_biblia": "Mutta jos jollakulla leskellä lapsia on eli lasten lapsia, ne oppikaan ensin oman huoneensa jumalisesti hallitsemaan ja vanhempainsa hyvän työn maksamaan; sillä se on hyvin tehty ja Jumalalle otollinen. ",
+      "swedish_karl_xii": "Om någor enkia hafwer barn, eller barnabarn, sådana skola först lära wäl regera sitt egit huus, och giöra såsom föräldrarna them giordt hafwa: ty thet är wäl giordt, och Gudi tacknemligit.",
+      "king_james": "But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Quæ autem vere vidua est, et desolata, speret in Deum, et instet obsecrationibus, et orationibus nocte ac die.",
+      "greek_textus_receptus": "ἡ δὲ ὄντως χήρα καὶ μεμονωμένη ἤλπικεν ἐπὶ τόν θεὸν καὶ προσμένει ταῖς δεήσεσιν καὶ ταῖς προσευχαῖς νυκτὸς καὶ ἡμέρας",
+      "finnish_biblia": "Ja se on oikia leski, joka yksinänsä on ja asettaa toivonsa Jumalan päälle, pysyin aina rukouksissa ja avuksihuutamisessa yötä ja päivää; ",
+      "swedish_karl_xii": "Men thet är een rätt enkia, som eensam är, then sitt hopp sätter til Gudh, och blifwer altid i böner och åkallan natt och dagh:",
+      "king_james": "Now she that is a widow indeed, and desolate, trusteth in God, and continueth in supplications and prayers night and day."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Nam quæ in deliciis est, vivens mortua est.",
+      "greek_textus_receptus": "ἡ δὲ σπαταλῶσα ζῶσα τέθνηκεν",
+      "finnish_biblia": "Mutta joka hekumassa elää, se on elävältä kuollut. ",
+      "swedish_karl_xii": "Men then som lefwer i wällust, hon är lefwandes död.",
+      "king_james": "But she that liveth in pleasure is dead while she liveth."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et hoc præcipe, ut irreprehensibiles sint.",
+      "greek_textus_receptus": "καὶ ταῦτα παράγγελλε ἵνα ἀνεπίληπτοι ὦσιν",
+      "finnish_biblia": "Senkaltaisia neuvo, että he nuhteettomat olisivat. ",
+      "swedish_karl_xii": "Sådant biud, at the äro ostraffeliga.",
+      "king_james": "And these things give in charge, that they may be blameless."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Si quis autem suorum, et maxime domesticorum, curam non habet, fidem negavit, et est infideli deterior.",
+      "greek_textus_receptus": "εἰ δέ τις τῶν ἰδίων καὶ μάλιστα τῶν οἰκείων οὐ προνοεῖ τὴν πίστιν ἤρνηται καὶ ἔστιν ἀπίστου χείρων",
+      "finnish_biblia": "Mutta jos ei joku omistansa, liiatenkin perheestänsä, murhetta pidä, se on uskon kieltänyt ja on pakanaa pahempi. ",
+      "swedish_karl_xii": "Hwar nu någor sina, besynnerliga sitt huusfolck, icke försörjer; then hafwer försakat trona, och är argare än en Hedninge.",
+      "king_james": "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Vidua eligatur non minus sexaginta annorum, quæ fuerit unius viri uxor,",
+      "greek_textus_receptus": "χήρα καταλεγέσθω μὴ ἔλαττον ἐτῶν ἑξήκοντα γεγονυῖα ἑνὸς ἀνδρὸς γυνή",
+      "finnish_biblia": "Älä salli nuorempaa leskeä otettaa kuin kuudenkymmenen ajastaikaista, joka yhden miehen emäntä on ollut, ",
+      "swedish_karl_xii": "Lät inga enkio vthwäljas yngre än sextijo åhr: then som hafwer warit ens mans hustru;",
+      "king_james": "Let not a widow be taken into the number under threescore years old, having been the wife of one man,"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "in operibus bonis testimonium habens, si filios educavit, si hospitio recepit, si sanctorum pedes lavit, si tribulationem patientibus subministravit, si omne opus bonum subsecuta est.",
+      "greek_textus_receptus": "ἐν ἔργοις καλοῖς μαρτυρουμένη εἰ ἐτεκνοτρόφησεν εἰ ἐξενοδόχησεν εἰ ἁγίων πόδας ἔνιψεν εἰ θλιβομένοις ἐπήρκεσεν εἰ παντὶ ἔργῳ ἀγαθῷ ἐπηκολούθησεν",
+      "finnish_biblia": "Ja jolla on hyvistä töistä todistus, jos hän lapsia kasvattanut on, jos hän vierasten holhooja ollut on, jos hän pyhäin jalkoja pessyt on, jos hän murheellisia auttanut on, jos hän on kaikessa hyvässä työssä ahkera ollut. ",
+      "swedish_karl_xii": "Och witnesbyrd hafwer om goda gierningar: om hon hafwer vpfödt barn; om hon hafwer herbergat; om hon hafwer twaget the heligas fötter; om hon hafwer hulpet the bedröfwada; om hon i alla goda gierningar hafwer idkelig warit.",
+      "king_james": "Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints' feet, if she have relieved the afflicted, if she have diligently followed every good work."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Adolescentiores autem viduas devita: cum enim luxuriatæ fuerint in Christo, nubere volunt:",
+      "greek_textus_receptus": "νεωτέρας δὲ χήρας παραιτοῦ ὅταν γὰρ καταστρηνιάσωσιν τοῦ χριστοῦ γαμεῖν θέλουσιν",
+      "finnish_biblia": "Mutta nuoret lesket hylkää; sillä koska he suuttuvat Kristukseen, niin he tahtovat huolla, ",
+      "swedish_karl_xii": "Men the vnga enkior lät fara: ty när the begynna kätias emot Christum, så wilja the gifta sigh;",
+      "king_james": "But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "habentes damnationem, quia primam fidem irritam fecerunt;",
+      "greek_textus_receptus": "ἔχουσαι κρίμα ὅτι τὴν πρώτην πίστιν ἠθέτησαν",
+      "finnish_biblia": "Joilla on heidän tuomionsa, että he sen ensimäisen uskon rikkoneet ovat. ",
+      "swedish_karl_xii": "Och hafwa sin doom, at the then första troon brutet hafwa.",
+      "king_james": "Having damnation, because they have cast off their first faith."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "simul autem et otiosæ discunt circuire domos: non solum otiosæ, sed et verbosæ, et curiosæ, loquentes quæ non oportet.",
+      "greek_textus_receptus": "ἅμα δὲ καὶ ἀργαὶ μανθάνουσιν περιερχόμεναι τὰς οἰκίας οὐ μόνον δὲ ἀργαὶ ἀλλὰ καὶ φλύαροι καὶ περίεργοι λαλοῦσαι τὰ μὴ δέοντα",
+      "finnish_biblia": "Niin myös joutilaina ollessansa oppivat he huoneita ympärinsä juoksentelemaan; vaan ei he ainoastaan ole joutilaat, mutta myös kielevät, hempeät ja puhuvat luvattomia. ",
+      "swedish_karl_xii": "Ther til medh äro the fåfänga, och lära löpa omkring i husen: ja, icke allenast fåfänga, vtan ock sqwallerfulla, och förwitna, och tala thet som icke borde.",
+      "king_james": "And withal they learn *to be* idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Volo ergo juniores nubere, filios procreare, matresfamilias esse, nullam occasionem dare adversario maledicti gratia.",
+      "greek_textus_receptus": "βούλομαι οὖν νεωτέρας γαμεῖν τεκνογονεῖν οἰκοδεσποτεῖν μηδεμίαν ἀφορμὴν διδόναι τῷ ἀντικειμένῳ λοιδορίας χάριν",
+      "finnish_biblia": "Sentähden minä tahdon, että nuoret lesket huolisivat, lapsia kasvattaisivat, huoneen hallituksesta vaaria pitäisivät, eikä antaisi tilaa vastaanseisojille pahoin puhua. ",
+      "swedish_karl_xii": "Så wil jagh nu, at the vnga enkior gifta sigh, föda barn, stå huus före, intet tilfälle gifwa motståndarenom til at tala illa.",
+      "king_james": "I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Jam enim quædam conversæ sunt retro Satanam.",
+      "greek_textus_receptus": "ἤδη γάρ τινες ἐξετράπησαν ὀπίσω τοῦ σατανᾶ",
+      "finnish_biblia": "Sillä muutamat ovat jo saatanan jälkeen palanneet. ",
+      "swedish_karl_xii": "Ty några hafwa allaredo wändt tilbaka efter Satanam.",
+      "king_james": "For some are already turned aside after Satan."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Si quis fidelis habet viduas, subministret illis, et non gravetur ecclesia: ut iis quæ vere viduæ sunt, sufficiat.",
+      "greek_textus_receptus": "εἴ τις πιστὸς ἢ πιστὴ ἔχει χήρας ἐπαρκείτω αὐταῖς καὶ μὴ βαρείσθω ἡ ἐκκλησία ἵνα ταῖς ὄντως χήραις ἐπαρκέσῃ",
+      "finnish_biblia": "Jos nyt jollakin uskollisella miehellä eli vaimolla leskiä on, se heitä holhokoon ja älkään seurakuntaa rasittako, että oikeille leskille täytyis. ",
+      "swedish_karl_xii": "Hwar nu någor trogen man, eller qwinna hafwer enkior, han försörje them, och läte icke församlingen förtungas; at thet må them tilräckia som rätta enkior äro.",
+      "king_james": "If any man or woman that believeth have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Qui bene præsunt presbyteri, duplici honore digni habeantur: maxime qui laborant in verbo et doctrina.",
+      "greek_textus_receptus": "οἱ καλῶς προεστῶτες πρεσβύτεροι διπλῆς τιμῆς ἀξιούσθωσαν μάλιστα οἱ κοπιῶντες ἐν λόγῳ καὶ διδασκαλίᾳ",
+      "finnish_biblia": "Vanhimmat, jotka hyvin hallitsevat, pitää kaksinkertaisessa kunniassa pidettämän, erinomattain ne, jotka sanassa ja opissa työtä tekevät. ",
+      "swedish_karl_xii": "The Prester som wäl förestå, skal man hålla wara dubbel heder wärda; mäst the, som arbeta i ordet och lärdomen.",
+      "king_james": "Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Dicit enim Scriptura: Non alligabis os bovi trituranti. Et: Dignus est operarius mercede sua.",
+      "greek_textus_receptus": "λέγει γὰρ ἡ γραφή βοῦν ἀλοῶντα οὐ φιμώσεις καί Ἄξιος ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ",
+      "finnish_biblia": "Sillä Raamattu sanoo: ei sinun pidä riihtä tappavan härjän suuta sitoman kiinni, ja työmies on palkkansa ansainnut. ",
+      "swedish_karl_xii": "Ty Skriften säger: Tu skalt icke binda munnen til på oxan som tröskar : och, En arbetare är sin löön wärd.",
+      "king_james": "For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer *is* worthy of his reward."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Adversus presbyterum accusationem noli recipere, nisi sub duobus aut tribus testibus.",
+      "greek_textus_receptus": "κατὰ πρεσβυτέρου κατηγορίαν μὴ παραδέχου ἐκτὸς εἰ μὴ ἐπὶ δύο ἢ τριῶν μαρτύρων",
+      "finnish_biblia": "Älä salli vanhinta vastaan yhtään kannetta, vaan kahden eli kolmen todistuksen kautta. ",
+      "swedish_karl_xii": "Tilstäd ingen klagomål emot en Prest, vtan medh tw eller try witne.",
+      "king_james": "Against an elder receive not an accusation, but before two or three witnesses."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Peccantes coram omnibus argue: ut et ceteri timorem habeant.",
+      "greek_textus_receptus": "τοὺς ἁμαρτάνοντας ἐνώπιον πάντων ἔλεγχε ἵνα καὶ οἱ λοιποὶ φόβον ἔχωσιν",
+      "finnish_biblia": "Nuhtele niitä, jotka syntiä tekevät, kaikkein kuullen, että muutkin pelkäisivät. ",
+      "swedish_karl_xii": "The som synda, straffa för allom, at andre skola ock fruchta.",
+      "king_james": "Them that sin rebuke before all, that others also may fear."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Testor coram Deo et Christo Jesu, et electis angelis, ut hæc custodias sine præjudicio, nihil faciens in alteram partem declinando.",
+      "greek_textus_receptus": "διαμαρτύρομαι ἐνώπιον τοῦ θεοῦ καὶ κυρίου ἰησοῦ χριστοῦ καὶ τῶν ἐκλεκτῶν ἀγγέλων ἵνα ταῦτα φυλάξῃς χωρὶς προκρίματος μηδὲν ποιῶν κατὰ πρόσκλισιν",
+      "finnish_biblia": "Minä rukoilen Jumalan ja Herran Jesuksen Kristuksen ja valittuin enkelien edessä, ettäs nämät pidät ilman valitsemista, ja älä mitään tee toisen puolta pitäin. ",
+      "swedish_karl_xii": "Jagh betygar för Gudi, och Herranom Jesu Christo, och för the vthkorada Änglar, at tu håller thetta, vthan egen godtyckio, och giör intet efter weeld.",
+      "king_james": "I charge *thee* before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Manus cito nemini imposueris, neque communicaveris peccatis alienis. Teipsum castum custodi.",
+      "greek_textus_receptus": "χεῖρας ταχέως μηδενὶ ἐπιτίθει μηδὲ κοινώνει ἁμαρτίαις ἀλλοτρίαις σεαυτὸν ἁγνὸν τήρει",
+      "finnish_biblia": "Älä pikaisesti jonkun päälle käsiäs pane, ja älä ole muiden synneistä osallinen: pidä itses puhtaana. ",
+      "swedish_karl_xii": "Lägg icke hastigt händerna på någon; och giör tigh icke heller deelachtig i annars mans synder: hålt tigh sielfwan kysk.",
+      "king_james": "Lay hands suddenly on no man, neither be partaker of other men's sins: keep thyself pure."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Noli adhuc aquam bibere, sed modico vino utere propter stomachum tuum, et frequentes tuas infirmitates.",
+      "greek_textus_receptus": "μηκέτι ὑδροπότει ἀλλ᾽ οἴνῳ ὀλίγῳ χρῶ διὰ τὸν στόμαχον σου καὶ τὰς πυκνάς σοῦ ἀσθενείας",
+      "finnish_biblia": "Älä silleen vettä juo, vaan nautitse jotakin viinaa sydämes tähden ja ettäs myös usein sairastat. ",
+      "swedish_karl_xii": "Drick icke länger watn, vtan bruka något fögo wijn, för tin maga skul, och at tu ofta siuk är.",
+      "king_james": "Drink no longer water, but use a little wine for thy stomach's sake and thine often infirmities."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Quorumdam hominum peccata manifesta sunt, præcedentia ad judicium: quosdam autem et subsequuntur.",
+      "greek_textus_receptus": "τινῶν ἀνθρώπων αἱ ἁμαρτίαι πρόδηλοί εἰσιν προάγουσαι εἰς κρίσιν τισὶν δὲ καὶ ἐπακολουθοῦσιν",
+      "finnish_biblia": "Muutamain ihmisten synnit ovat kyllä julkiset, että ne ennen tuomita taidetaan; mutta muutamain äsken jälistä julkiseksi tulevat. ",
+      "swedish_karl_xii": "Somliga menniskiors synder äro vppenbara, at man them tilförene döma kan: men somliga warda sedan vppenbara.",
+      "king_james": "Some men's sins are open beforehand, going before to judgment; and some *men* they follow after."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Similiter et facta bona, manifesta sunt: et quæ aliter se habent, abscondi non possunt.",
+      "greek_textus_receptus": "ὡσαύτως καὶ τὰ καλὰ ἔργα πρόδηλα ἐστίν καὶ τὰ ἄλλως ἔχοντα κρυβῆναι οὐ δύναται",
+      "finnish_biblia": "Niin myös muutamat hyvät työt ovat jo ennen julkiset, ja ne mitkä muutoin tapahtuvat, ei taideta salattaa.   ",
+      "swedish_karl_xii": "Sammalunda äro ock somliga goda gierningar vppenbara; och the andra blifwa ock intet fördolda.",
+      "king_james": "Likewise also the good works *of some* are manifest beforehand; and they that are otherwise cannot be hid."
+    }
+  ]
+}

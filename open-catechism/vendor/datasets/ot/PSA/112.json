@@ -1,0 +1,182 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 112,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Alleluja, reversionis Aggæi et Zachariæ.   Beatus vir qui timet Dominum :  in mandatis ejus volet nimis. ",
+      "hebrew_masoretic": "הַ֥לְלוּ־יָ֨הּ ׀ אַשְׁרֵי־אִ֭ישׁ יָרֵ֣א אֶת־יְהֹוָ֑ה בְּ֝מִצְוֺתָ֗יו חָפֵ֥ץ מְאֹֽד׃",
+      "douay_rheims": "Blessed is the man that feareth the Lord: he shall delight exceedingly in his commandments.",
+      "finnish_biblia": "Halleluja! Autuas on, joka pelkää Herraa: joka hänen käskyjänsä sangen himoitsee. ",
+      "swedish_karl_xii": "Halleluja. Säll är then som HERRAN fruchtar, then som stoor lust hafwer til hans budh.",
+      "king_james": "Praise ye the LORD. Blessed is the man that feareth the LORD, that delighteth greatly in his commandments.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "111:1"
+        },
+        "douay_rheims": {
+          "src": "111:1"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " Potens in terra erit semen ejus ;  generatio rectorum benedicetur. ",
+      "hebrew_masoretic": "גִּבּ֣וֹר בָּ֭אָרֶץ יִהְיֶ֣ה זַרְע֑וֹ דּ֖וֹר יְשָׁרִ֣ים יְבֹרָֽךְ׃",
+      "douay_rheims": "His seed shall be mighty upon earth: the generation of the righteous shall be blessed.",
+      "finnish_biblia": "Hänen siemenensä on valtias maan päällä: hurskasten suku pitää siunatuksi tuleman. ",
+      "swedish_karl_xii": "Hans sädh skal wäldig wara på jordene: the fromas slächte skal wälsignat warda.",
+      "king_james": "His seed shall be mighty upon earth: the generation of the upright shall be blessed.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "111:2"
+        },
+        "douay_rheims": {
+          "src": "111:2"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Gloria et divitiæ in domo ejus,  et justitia ejus manet in sæculum sæculi. ",
+      "hebrew_masoretic": "הוֹן־וָעֹ֥שֶׁר בְּבֵית֑וֹ וְ֝צִדְקָת֗וֹ עֹמֶ֥דֶת לָעַֽד׃",
+      "douay_rheims": "Glory and wealth shall be in his house: and his justice remaineth for ever and ever.",
+      "finnish_biblia": "Rikkaus ja runsaus on hänen huoneessansa, ja hänen vanhurskautensa pysyy ijankaikkisesti. ",
+      "swedish_karl_xii": "Rikedom och ymnoghet skal wara i hans huus; och hans rättferdighet blifwer ewinnerliga.",
+      "king_james": "Wealth and riches shall be in his house: and his righteousness endureth for ever.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "111:3"
+        },
+        "douay_rheims": {
+          "src": "111:3"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Exortum est in tenebris lumen rectis :  misericors, et miserator, et justus. ",
+      "hebrew_masoretic": "זָ֘רַ֤ח בַּחֹ֣שֶׁךְ א֭וֹר לַיְשָׁרִ֑ים חַנּ֖וּן וְרַח֣וּם וְצַדִּֽיק׃",
+      "douay_rheims": "To the righteous a light is risen up in darkness: he is merciful, and compassionate and just.",
+      "finnish_biblia": "Hurskaille koittaa valkeus pimeässä, armolliselta, laupiaalta ja vanhurskaalta. ",
+      "swedish_karl_xii": "Them froma går lius vp i mörkret, af then nådeliga, barmhertiga, och rättferdiga.",
+      "king_james": "Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "111:4"
+        },
+        "douay_rheims": {
+          "src": "111:4"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Jucundus homo qui miseretur et commodat ;  disponet sermones suos in judicio : ",
+      "hebrew_masoretic": "טֽוֹב־אִ֭ישׁ חוֹנֵ֣ן וּמַלְוֶ֑ה יְכַלְכֵּ֖ל דְּבָרָ֣יו בְּמִשְׁפָּֽט׃",
+      "douay_rheims": "Acceptable is the man that sheweth mercy and lendeth: he shall order his words with judgment:",
+      "finnish_biblia": "Hyvä ihminen on laupias ja mielellänsä lainaa, ja toimittaa asiansa toimellisesti. ",
+      "swedish_karl_xii": "Säll är then som barmhertig är, och gierna länar; och lagar så sina saker, at han ingom orätt giör.",
+      "king_james": "A good man sheweth favour, and lendeth: he will guide his affairs with discretion.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "111:5"
+        },
+        "douay_rheims": {
+          "src": "111:5"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " quia in æternum non commovebitur. ",
+      "hebrew_masoretic": "כִּֽי־לְעוֹלָ֥ם לֹֽא־יִמּ֑וֹט לְזֵ֥כֶר ע֝וֹלָ֗ם יִהְיֶ֥ה צַדִּֽיק׃",
+      "douay_rheims": "Because he shall not be moved for ever.",
+      "finnish_biblia": "Sillä hän pysyy ijankaikkisesti: ei vanhurskas ikänä unhoteta. ",
+      "swedish_karl_xii": "Ty han skal blifwa ewinnerliga: then rättferdige skal aldrig förgäten warda.",
+      "king_james": "Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "111:6"
+        },
+        "douay_rheims": {
+          "src": "111:6"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " In memoria æterna erit justus ;  ab auditione mala non timebit.  Paratum cor ejus sperare in Domino, ",
+      "hebrew_masoretic": "מִשְּׁמוּעָ֣ה רָ֭עָה לֹ֣א יִירָ֑א נָכ֥וֹן לִ֝בּ֗וֹ בָּטֻ֥חַ בַּיהֹוָֽה׃",
+      "douay_rheims": "The just shall be in everlasting remembrance: he shall not fear the evil hearing. His heart is ready to hope in the Lord:",
+      "finnish_biblia": "Koska rangaistus tulee, niin ei hän pelkää: hänen sydämensä uskaltaa lujasti Herran päälle. ",
+      "swedish_karl_xii": "När een plåga kommer, fruchtar han sigh intet; hans hierta hoppas stadeliga vppå HERRAN.",
+      "king_james": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "111:7"
+        },
+        "douay_rheims": {
+          "src": "111:7"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " confirmatum est cor ejus ;  non commovebitur donec despiciat inimicos suos. ",
+      "hebrew_masoretic": "סָמ֣וּךְ לִ֭בּוֹ לֹ֣א יִירָ֑א עַ֖ד אֲשֶׁר־יִרְאֶ֣ה בְצָרָֽיו׃",
+      "douay_rheims": "His heart is strengthened, he shall not be moved until he look over his enemies.",
+      "finnish_biblia": "Hänen sydämensä on vahvistettu ja ei pelkää, siihenasti kuin hän näkee ilonsa vihollisistansa. ",
+      "swedish_karl_xii": "Hans hierta är tröst, och fruchtar sigh intet, til thes han på sina fiendar lust seer.",
+      "king_james": "His heart is established, he shall not be afraid, until he see his desire upon his enemies.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "111:8"
+        },
+        "douay_rheims": {
+          "src": "111:8"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": " Dispersit, dedit pauperibus ;  justitia ejus manet in sæculum sæculi :  cornu ejus exaltabitur in gloria. ",
+      "hebrew_masoretic": "פִּזַּ֤ר ׀ נָ֘תַ֤ן לָאֶבְיוֹנִ֗ים צִ֭דְקָתוֹ עֹמֶ֣דֶת לָעַ֑ד קַ֝רְנ֗וֹ תָּר֥וּם בְּכָבֽוֹד׃",
+      "douay_rheims": "He hath distributed, he hath given to the poor: his justice remaineth for ever and ever: his horn shall be exalted in glory.",
+      "finnish_biblia": "Hän jakaa ja antaa vaivaisille: hänen vanhurskautensa pysyy ijankaikkisesti: hänen sarvensa korotetaan kunnialla. ",
+      "swedish_karl_xii": "Han vthströr, och gifwer them fattigom; hans rättferdighet blifwer ewinnerliga; hans horn skal vphögdt warda medh ähro.",
+      "king_james": "He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "111:9"
+        },
+        "douay_rheims": {
+          "src": "111:9"
+        }
+      }
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": " Peccator videbit, et irascetur ;  dentibus suis fremet et tabescet :  desiderium peccatorum peribit.  ",
+      "hebrew_masoretic": "רָ֘שָׁ֤ע יִרְאֶ֨ה ׀ וְכָעָ֗ס שִׁנָּ֣יו יַחֲרֹ֣ק וְנָמָ֑ס תַּאֲוַ֖ת רְשָׁעִ֣ים תֹּאבֵֽד׃ {פ}",
+      "douay_rheims": "The wicked shall see, and shall be angry, he shall gnash with his teeth and pine away: the desire of the wicked shall perish. ",
+      "finnish_biblia": "Jumalatoin näkee sen ja närkästyy: hän pureskelee hampaitansa ja nääntyy; sillä mitä jumalattomat halajavat, se tyhjäksi tulee.   ",
+      "swedish_karl_xii": "Then ogudachtige skal thet see, och honom skal förtrytat; sina tänder skal han bita tilsamman, och förgås: ty hwad the ogudachtige gierna wilja, thet blifwer om intet.",
+      "king_james": "The wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "111:10"
+        },
+        "douay_rheims": {
+          "src": "111:10"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 132,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Canticum graduum.   Memento, Domine, David,  et omnis mansuetudinis ejus : ",
+      "hebrew_masoretic": "שִׁ֗יר הַֽמַּ֫עֲל֥וֹת זְכוֹר־יְהֹוָ֥ה לְדָוִ֑ד אֵ֝֗ת כׇּל־עֻנּוֹתֽוֹ׃",
+      "douay_rheims": "A gradual canticle. O Lord, remember David, and all his meekness.",
+      "finnish_biblia": "Veisu korkeimmassa Kuorissa. Muista, Herra, Davidia, ja kaikkia hänen vaivojansa, ",
+      "swedish_karl_xii": "Een wisa i högre choren. Tänck, HERRE, vppå David, och vppå alt hans lidande:",
+      "king_james": "Lord, remember David, and all his afflictions:",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:1"
+        },
+        "douay_rheims": {
+          "src": "131:1"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " sicut juravit Domino ;  votum vovit Deo Jacob : ",
+      "hebrew_masoretic": "אֲשֶׁ֣ר נִ֭שְׁבַּע לַֽיהֹוָ֑ה נָ֝דַ֗ר לַאֲבִ֥יר יַעֲקֹֽב׃",
+      "douay_rheims": "How he swore to the Lord, he vowed a vow to the God of Jacob:",
+      "finnish_biblia": "Joka Herralle vannoi, ja lupasi lupauksen Jakobin väkevälle: ",
+      "swedish_karl_xii": "Hwilken HERRANOM swor, och låfwade them mächtiga i Jacob:",
+      "king_james": "How he sware unto the LORD, and vowed unto the mighty God of Jacob;",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:2"
+        },
+        "douay_rheims": {
+          "src": "131:2"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Si introiero in tabernaculum domus meæ ;  si ascendero in lectum strati mei ; ",
+      "hebrew_masoretic": "אִם־אָ֭בֹא בְּאֹ֣הֶל בֵּיתִ֑י אִם־אֶ֝עֱלֶ֗ה עַל־עֶ֥רֶשׂ יְצוּעָֽי׃",
+      "douay_rheims": "If I shall enter into the tabernacle of my house: if I shall go up into the bed wherein I lie:",
+      "finnish_biblia": "En mene huoneeni majaan, enkä vuoteeseeni pane maata; ",
+      "swedish_karl_xii": "Jagh wil icke gå i mins huus hyddo, eller läggia migh på mine sängs lägre.",
+      "king_james": "Surely I will not come into the tabernacle of my house, nor go up into my bed;",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:3"
+        },
+        "douay_rheims": {
+          "src": "131:3"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " si dedero somnum oculis meis,  et palpebris meis dormitationem, ",
+      "hebrew_masoretic": "אִם־אֶתֵּ֣ן שְׁנַ֣ת לְעֵינָ֑י לְֽעַפְעַפַּ֥י תְּנוּמָֽה׃",
+      "douay_rheims": "If I shall give sleep to my eyes, or slumber to my eyelids,",
+      "finnish_biblia": "En anna silmäini unta saada, enkä silmälautaini torkkua, ",
+      "swedish_karl_xii": "Jagh wil icke låta mina ögon sofwa, eller mina ögnalock sömnoga wara;",
+      "king_james": "I will not give sleep to mine eyes, or slumber to mine eyelids,",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:4"
+        },
+        "douay_rheims": {
+          "src": "131:4"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " et requiem temporibus meis,  donec inveniam locum Domino,  tabernaculum Deo Jacob. ",
+      "hebrew_masoretic": "עַד־אֶמְצָ֣א מָ֭קוֹם לַיהֹוָ֑ה מִ֝שְׁכָּנ֗וֹת לַאֲבִ֥יר יַעֲקֹֽב׃",
+      "douay_rheims": "Or rest to my temples: until I find out a place for the Lord, a tabernacle for the God of Jacob.",
+      "finnish_biblia": "Siihenasti kuin minä löydän sian Herralle, Jakobin väkevän asumiseksi. ",
+      "swedish_karl_xii": "Til thes jagh må finna ett rum för HERRANOM, til een boning them mächtiga i Jacob.",
+      "king_james": "Until I find out a place for the LORD, an habitation for the mighty God of Jacob.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:5"
+        },
+        "douay_rheims": {
+          "src": "131:5"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Ecce audivimus eam in Ephrata ;  invenimus eam in campis silvæ. ",
+      "hebrew_masoretic": "הִנֵּֽה־שְׁמַעֲנ֥וּהָ בְאֶפְרָ֑תָה מְ֝צָאנ֗וּהָ בִּשְׂדֵי־יָֽעַר׃",
+      "douay_rheims": "Behold we have heard of it in Ephrata: we have found it in the fields of the wood.",
+      "finnish_biblia": "Katso, me kuulimme hänestä Ephratassa: me olemme sen löytäneet metsän kedoilla. ",
+      "swedish_karl_xii": "Sij, wij höre ther om i Ephrata: wij hafwe funnet thet på skogs markene.",
+      "king_james": "Lo, we heard of it at Ephratah: we found it in the fields of the wood.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:6"
+        },
+        "douay_rheims": {
+          "src": "131:6"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Introibimus in tabernaculum ejus ;  adorabimus in loco ubi steterunt pedes ejus. ",
+      "hebrew_masoretic": "נָב֥וֹאָה לְמִשְׁכְּנוֹתָ֑יו נִ֝שְׁתַּחֲוֶ֗ה לַהֲדֹ֥ם רַגְלָֽיו׃",
+      "douay_rheims": "We will go into his tabernacle: we will adore in the place where his feet stood.",
+      "finnish_biblia": "Me tahdomme hänen asuinsioihinsa mennä, ja kumartaa hänen jalkainsa astinlaudan edessä. ",
+      "swedish_karl_xii": "Wij wilje gå in vthi hans boningar, och tilbedia in för hans fotapall.",
+      "king_james": "We will go into his tabernacles: we will worship at his footstool.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:7"
+        },
+        "douay_rheims": {
+          "src": "131:7"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " Surge, Domine, in requiem tuam,  tu et arca sanctificationis tuæ. ",
+      "hebrew_masoretic": "קוּמָ֣ה יְ֭הֹוָה לִמְנוּחָתֶ֑ךָ אַ֝תָּ֗ה וַאֲר֥וֹן עֻזֶּֽךָ׃",
+      "douay_rheims": "Arise, O Lord, into thy resting place: thou and the ark, which thou hast sanctified.",
+      "finnish_biblia": "Nouse, Herra, sinun lepoos, sinä ja sinun väkevyytes arkki. ",
+      "swedish_karl_xii": "HERRE, statt vp til tina roo, tu och tins machts ark.",
+      "king_james": "Arise, O LORD, into thy rest; thou, and the ark of thy strength.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:8"
+        },
+        "douay_rheims": {
+          "src": "131:8"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": " Sacerdotes tui induantur justitiam,  et sancti tui exsultent. ",
+      "hebrew_masoretic": "כֹּהֲנֶ֥יךָ יִלְבְּשׁוּ־צֶ֑דֶק וַחֲסִידֶ֥יךָ יְרַנֵּֽנוּ׃",
+      "douay_rheims": "Let thy priests be clothed with justice: and let thy saints rejoice.",
+      "finnish_biblia": "Anna pappis pukea heitänsä vanhurskaudella ja sinun pyhäs riemuitkaan. ",
+      "swedish_karl_xii": "Lät tina Prester kläda sigh medh rättferdighet; och tina heliga glädia sigh.",
+      "king_james": "Let thy priests be clothed with righteousness; and let thy saints shout for joy.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:9"
+        },
+        "douay_rheims": {
+          "src": "131:9"
+        }
+      }
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": " Propter David servum tuum  non avertas faciem christi tui. ",
+      "hebrew_masoretic": "בַּ֭עֲבוּר דָּוִ֣ד עַבְדֶּ֑ךָ אַל־תָּ֝שֵׁ֗ב פְּנֵ֣י מְשִׁיחֶֽךָ׃",
+      "douay_rheims": "For thy servant David's sake, turn not away the face of thy anointed.",
+      "finnish_biblia": "Älä käännä pois voideltus kasvoja, sinun palvelias Davidin tähden. ",
+      "swedish_karl_xii": "Tag icke bort tins smordas regemente, för tin tienare Davidz skul.",
+      "king_james": "For thy servant David’s sake turn not away the face of thine anointed.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:10"
+        },
+        "douay_rheims": {
+          "src": "131:10"
+        }
+      }
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": " Juravit Dominus David veritatem,  et non frustrabitur eam :  De fructu ventris tui  ponam super sedem tuam. ",
+      "hebrew_masoretic": "נִשְׁבַּֽע־יְהֹוָ֨ה ׀ לְדָוִ֡ד אֱמֶת֮ לֹא־יָשׁ֢וּב מִ֫מֶּ֥נָּה מִפְּרִ֥י בִטְנְךָ֑ אָ֝שִׁ֗ית לְכִסֵּא־לָֽךְ׃",
+      "douay_rheims": "The Lord hath sworn truth to David, and he will not make it void: of the fruit of thy womb I will set upon thy throne.",
+      "finnish_biblia": "Herra on vannonut Davidille totisen valan, ja ei hän siitä vilpistele: sinun ruumiis hedelmästä minä istutan istuimelles. ",
+      "swedish_karl_xii": "HERREN hafwer sworit David en sannan eed, ther skal han intet ifrå träda: jagh skal sättia tigh tins lifs frucht vppå tin stool.",
+      "king_james": "The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:11"
+        },
+        "douay_rheims": {
+          "src": "131:11"
+        }
+      }
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": " Si custodierint filii tui testamentum meum,  et testimonia mea hæc quæ docebo eos,  et filii eorum usque in sæculum  sedebunt super sedem tuam. ",
+      "hebrew_masoretic": "אִֽם־יִשְׁמְר֬וּ בָנֶ֨יךָ ׀ בְּרִיתִי֮ וְעֵדֹתִ֥י ז֗וֹ אֲלַ֫מְּדֵ֥ם גַּם־בְּנֵיהֶ֥ם עֲדֵי־עַ֑ד יֵ֝שְׁב֗וּ לְכִסֵּא־לָֽךְ׃",
+      "douay_rheims": "If thy children will keep my covenant, and these my testimonies which I shall teach them: Their children also for evermore shall sit upon thy throne.",
+      "finnish_biblia": "Jos sinun lapses minun liittoni pitävät, ja minun todistukseni, jotka minä heille opetan, niin heidän lapsensa myös pitää sinun istuimellas istuman ijankaikkisesti. ",
+      "swedish_karl_xii": "Om tine barn hålla mitt förbund, och min witnesbyrd, som jagh them lärandes warder, så skola ock theras barn sittia på tinom stool ewinnerliga:",
+      "king_james": "If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:12"
+        },
+        "douay_rheims": {
+          "src": "131:12"
+        }
+      }
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": " Quoniam elegit Dominus Sion :  elegit eam in habitationem sibi. ",
+      "hebrew_masoretic": "כִּי־בָחַ֣ר יְהֹוָ֣ה בְּצִיּ֑וֹן אִ֝וָּ֗הּ לְמוֹשָׁ֥ב לֽוֹ׃",
+      "douay_rheims": "For the Lord hath chosen Sion: he hath chosen it for his dwelling.",
+      "finnish_biblia": "Sillä Herra on Zionin valinnut, ja tahtoo sitä asuinsiaksensa. ",
+      "swedish_karl_xii": "Ty HERREN hafwer vthwaldt Zion, och hafwer lust til at boo ther.",
+      "king_james": "For the LORD hath chosen Zion; he hath desired it for his habitation.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:13"
+        },
+        "douay_rheims": {
+          "src": "131:13"
+        }
+      }
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": " Hæc requies mea in sæculum sæculi ;  hic habitabo, quoniam elegi eam. ",
+      "hebrew_masoretic": "זֹאת־מְנוּחָתִ֥י עֲדֵי־עַ֑ד פֹּה־אֵ֝שֵׁ֗ב כִּ֣י אִוִּתִֽיהָ׃",
+      "douay_rheims": "This is my rest for ever and ever: here will I dwell, for I have chosen it.",
+      "finnish_biblia": "Tämä on minun leponi ijankaikkisesti: tässä minä tahdon asua; sillä se minulle kelpaa. ",
+      "swedish_karl_xii": "Thetta är min hwila ewinnerliga, här wil jagh boo; ty här behagar migh wäl.",
+      "king_james": "This is my rest for ever: here will I dwell; for I have desired it.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:14"
+        },
+        "douay_rheims": {
+          "src": "131:14"
+        }
+      }
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": " Viduam ejus benedicens benedicam ;  pauperes ejus saturabo panibus. ",
+      "hebrew_masoretic": "צֵ֭ידָהּ בָּרֵ֣ךְ אֲבָרֵ֑ךְ אֶ֝בְיוֹנֶ֗יהָ אַשְׂבִּ֥יעַֽ לָֽחֶם׃",
+      "douay_rheims": "Blessing I will bless her widow: I will satisfy her poor with bread.",
+      "finnish_biblia": "Minä hyvästi siunaan hänen elatuksensa, ja hänen köyhillensä kyllä annan leipää. ",
+      "swedish_karl_xii": "Jagh wil wälsigna thes spijs; och gifwa thes fattigom brödh nogh.",
+      "king_james": "I will abundantly bless her provision: I will satisfy her poor with bread.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:15"
+        },
+        "douay_rheims": {
+          "src": "131:15"
+        }
+      }
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": " Sacerdotes ejus induam salutari,  et sancti ejus exsultatione exsultabunt. ",
+      "hebrew_masoretic": "וְֽ֭כֹהֲנֶיהָ אַלְבִּ֣ישׁ יֶ֑שַׁע וַ֝חֲסִידֶ֗יהָ רַנֵּ֥ן יְרַנֵּֽנוּ׃",
+      "douay_rheims": "I will clothe her priests with salvation, and her saints shall rejoice with exceeding great joy.",
+      "finnish_biblia": "Hänen pappinsa minä puetan autuudella; ja hänen pyhänsä pitää ilolla riemuitseman. ",
+      "swedish_karl_xii": "Thes Prester wil jagh bekläda medh salighet; och thes helige skola glädia sigh.",
+      "king_james": "I will also clothe her priests with salvation: and her saints shall shout aloud for joy.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:16"
+        },
+        "douay_rheims": {
+          "src": "131:16"
+        }
+      }
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": " Illuc producam cornu David ;  paravi lucernam christo meo. ",
+      "hebrew_masoretic": "שָׁ֤ם אַצְמִ֣יחַ קֶ֣רֶן לְדָוִ֑ד עָרַ֥כְתִּי נֵ֝֗ר לִמְשִׁיחִֽי׃",
+      "douay_rheims": "There will I bring forth a horn to David: I have prepared a lamp for my anointed.",
+      "finnish_biblia": "Siellä minä annan puhjeta Davidin sarven: minä valmistan kynttilän voidellulleni. ",
+      "swedish_karl_xii": "Ther sammastäds skal vpgå Davids horn: jagh hafwer tilredt minom smorda een lychto.",
+      "king_james": "There will I make the horn of David to bud: I have ordained a lamp for mine anointed.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:17"
+        },
+        "douay_rheims": {
+          "src": "131:17"
+        }
+      }
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": " Inimicos ejus induam confusione ;  super ipsum autem efflorebit sanctificatio mea.  ",
+      "hebrew_masoretic": "א֭וֹיְבָיו אַלְבִּ֣ישׁ בֹּ֑שֶׁת וְ֝עָלָ֗יו יָצִ֥יץ נִזְרֽוֹ׃ {פ}",
+      "douay_rheims": "His enemies I will clothe with confusion: but upon him shall my sanctification flourish. ",
+      "finnish_biblia": "Hänen vihollisensa minä häpiällä puetan; mutta hänen päällänsä pitää hänen kruununsa kukoistaman.   ",
+      "swedish_karl_xii": "Hans fiendar wil jagh bekläda medh skam: men öfwer honom skal hans crona blomstras.",
+      "king_james": "His enemies will I clothe with shame: but upon himself shall his crown flourish. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "131:18"
+        },
+        "douay_rheims": {
+          "src": "131:18"
+        }
+      }
+    }
+  ]
+}

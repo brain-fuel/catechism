@@ -1,0 +1,203 @@
+{
+  "book_id": "2CO",
+  "latin_name": "Epistula II ad Corinthios",
+  "greek_name": "Πρὸς Κορινθίους Β",
+  "finnish_name": "Toinen kirje korinttilaisille",
+  "swedish_name": "S. Pauli Epistel then andra Til the Corinther",
+  "english_name": "The Second Epistle of Paul the Apostle to the Corinthians",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Paulus, Apostolus Jesu Christi per voluntatem Dei, et Timotheus frater, ecclesiæ Dei, quæ est Corinthi cum omnibus sanctis, qui sunt in universa Achaia.",
+      "greek_textus_receptus": "παῦλος ἀπόστολος ἰησοῦ χριστοῦ διὰ θελήματος θεοῦ καὶ τιμόθεος ὁ ἀδελφός τῇ ἐκκλησίᾳ τοῦ θεοῦ τῇ οὔσῃ ἐν κορίνθῳ σὺν τοῖς ἁγίοις πᾶσιν τοῖς οὖσιν ἐν ὅλῃ τῇ ἀχαΐᾳ",
+      "finnish_biblia": "Paavali, Jesuksen Kristuksen apostoli Jumalan tahdon kautta, ja Timoteus veli, Jumalan seurakunnalle, joka on Korintossa, ja kaikille pyhille, jotka koko Akajassa ovat: ",
+      "swedish_karl_xii": "Paulus, Jesu Christi Apostel, genom Gudz wilja, och broderen Timotheus: then Gudz församling som är i Corintho, samt medh all helgon, som äro vthi hela Achajen:",
+      "king_james": "Paul, an apostle of Jesus Christ by the will of God, and Timothy *our* brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.",
+      "greek_textus_receptus": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Armo olkoon teille ja rauha Jumalalta meidän Isältämme ja Herralta Jesukselta Kristukselta! ",
+      "swedish_karl_xii": "Nådh ware medh eder, och frijd af Gudi wårom Fader, och Herranom Jesu Christo.",
+      "king_james": "Grace *be* to you and peace from God our Father, and *from* the Lord Jesus Christ."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Benedictus Deus et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis,",
+      "greek_textus_receptus": "εὐλογητὸς ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ ὁ πατὴρ τῶν οἰκτιρμῶν καὶ θεὸς πάσης παρακλήσεως",
+      "finnish_biblia": "Kiitetty olkoon Jumala ja meidän Herran Jesuksen Kristuksen Isä, laupiuden Isä, ja kaiken lohdutuksen Jumala! ",
+      "swedish_karl_xii": "Wälsignad ware Gudh och wårs Herras Jesu Christi Fader, barmhertighetenes Fader, och all hugswalelses Gudh;",
+      "king_james": "Blessed *be* God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "qui consolatur nos in omni tribulatione nostra: ut possimus et ipsi consolari eos qui in omni pressura sunt, per exhortationem, qua exhortamur et ipsi a Deo.",
+      "greek_textus_receptus": "ὁ παρακαλῶν ἡμᾶς ἐπὶ πάσῃ τῇ θλίψει ἡμῶν εἰς τὸ δύνασθαι ἡμᾶς παρακαλεῖν τοὺς ἐν πάσῃ θλίψει διὰ τῆς παρακλήσεως ἡς παρακαλούμεθα αὐτοὶ ὑπὸ τοῦ θεοῦ",
+      "finnish_biblia": "Joka meitä lohduttaa kaikessa meidän vaivassamme, että me taitaisimme lohduttaa niitä, jotka kaikkinaisessa vaivassa ovat, sillä lohdutuksella, jolla Jumala meitä lohduttaa. ",
+      "swedish_karl_xii": "Som oß hugswalar i all wår bedröfwelse, at wij ock hugswala kunne them som i allahanda bedröfwelse äro, medh then hugswalelse ther Gudh oß medh hugswalar.",
+      "king_james": "Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Quoniam sicut abundant passiones Christi in nobis: ita et per Christum abundat consolatio nostra.",
+      "greek_textus_receptus": "ὅτι καθὼς περισσεύει τὰ παθήματα τοῦ χριστοῦ εἰς ἡμᾶς οὕτως διὰ χριστοῦ περισσεύει καὶ ἡ παράκλησις ἡμῶν",
+      "finnish_biblia": "Sillä niinkuin Kristuksen kärsimys on paljo tullut meidän päällemme, niin myös meille tulee paljo lohdutusta Kristuksen kautta. ",
+      "swedish_karl_xii": "Ty såsom Christi lidande är mycket kommet öfwer oß; så kommer ock mycken hugswalelse öfwer oß genom Christum.",
+      "king_james": "For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Sive autem tribulamur pro vestra exhortatione et salute, sive consolamur pro vestra consolatione, sive exhortamur pro vestra exhortatione et salute, quæ operatur tolerantiam earumdem passionum, quas et nos patimur:",
+      "greek_textus_receptus": "εἴτε δὲ θλιβόμεθα ὑπὲρ τῆς ὑμῶν παρακλήσεως καὶ σωτηρίας τῆς ἐνεργουμένης ἐν ὑπομονῇ τῶν αὐτῶν παθημάτων ὧν καὶ ἡμεῖς πάσχομεν εἴτε παρακαλούμεθα ὑπὲρ τῆς ὑμῶν παρακλήσεως καὶ σωτηρίας, καὶ ἥ ἐλπίς ἡμῶν βεβαία ὑπὲρ ὑμῶν",
+      "finnish_biblia": "Mutta jos meitä vaivataan, niin se tapahtuu teille lohdutukseksi ja autuudeksi, joka vaikuttaa niiden vaivain kärsivällisyydessä, joita myös me kärsimme, eli jos meitä lohdutetaan, niin se tulee teille lohdutukseksi ja autuudeksi; ja meidän toivomme on vahva teistä: ",
+      "swedish_karl_xii": "Men hwad wij hafwe bedröfwelse eller hugswalelse, så skeer thet eder til godo. Är thet bedröfwelse, så skeer thet eder til hugswalelse och salighet: hwilken salighet är kraftig, om J liden toleliga, i then måtton som wij lide: är thet hugswalelse, så skeer thet ock eder til hugswalelse och salighet: är ock wårt hopp stadigt för eder:",
+      "king_james": "And whether we be afflicted, *it is* for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, *it is* for your consolation and salvation."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "ut spes nostra firma sit pro vobis: scientes quod sicut socii passionum estis, sic eritis et consolationis.",
+      "greek_textus_receptus": "εἰδότες ὅτι ὥσπερ κοινωνοί ἐστε τῶν παθημάτων οὕτως καὶ τῆς παρακλήσεως",
+      "finnish_biblia": "Että me tiedämme, että niinkuin te olette kärsimisessä osalliset, niin te myös tulette lohdutuksesta osalliseksi. ",
+      "swedish_karl_xii": "Efter wij wete, at såsom J ären deelachtige i lidandet, så warden J ock deelachtige i hugswalelsen.",
+      "king_james": "And our hope of you *is* stedfast, knowing, that as ye are partakers of the sufferings, so *shall ye be* also of the consolation."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Non enim volumus ignorare vos, fratres, de tribulatione nostra, quæ facta est in Asia, quoniam supra modum gravati sumus supra virtutem, ita ut tæderet nos etiam vivere.",
+      "greek_textus_receptus": "οὐ γὰρ θέλομεν ὑμᾶς ἀγνοεῖν ἀδελφοί ὑπὲρ τῆς θλίψεως ἡμῶν τῆς γενομένης ἡμῖν ἐν τῇ ἀσίᾳ ὅτι καθ᾽ ὑπερβολὴν ἐβαρήθημεν ὑπὲρ δύναμιν ὥστε ἐξαπορηθῆναι ἡμᾶς καὶ τοῦ ζῆν",
+      "finnish_biblia": "Sillä emme tahdo salata teiltä, rakkaat veljet, meidän vaivaamme, joka meille Asiassa tapahtui: että me olimme sangen suuresti rasitetut ylitse meidän voimamme, niin että me jo meidän hengestämme epäilimme. ",
+      "swedish_karl_xii": "Ty wij wilje icke fördölja eder, käre bröder, wår bedröfwelse, som oß wederfaren är vthi Asien: ty wij wore förtungade öfwermåtton, och öfwer machten, så at wij ock twiflade om lifwet:",
+      "king_james": "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Sed ipsi in nobismetipsis responsum mortis habuimus, ut non simus fidentes in mortuos, sed in Deo, qui suscitat mortuos:",
+      "greek_textus_receptus": "ἀλλὰ αὐτοὶ ἐν ἑαυτοῖς τὸ ἀπόκριμα τοῦ θανάτου ἐσχήκαμεν ἵνα μὴ πεποιθότες ὦμεν ἐφ᾽ ἑαυτοῖς ἀλλ᾽ ἐπὶ τῷ θεῷ τῷ ἐγείροντι τοὺς νεκρούς",
+      "finnish_biblia": "Mutta me itsellämme juuri niin päätimme, että meidän piti kuoleman, ettei meidän pitäisi itse päällemme uskaltaman, vaan Jumalan päälle, joka kuolleetkin herättää, ",
+      "swedish_karl_xii": "Och satte oß så före, at wij skulle wisserliga döö: thet skedde förthenskul, at wij ingen tröst skola sättia på oß sielfwa; vtan på Gudh som vpwäcker the döda.",
+      "king_james": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "qui de tantis periculis nos eripuit, et eruit: in quem speramus quoniam et adhuc eripiet,",
+      "greek_textus_receptus": "ὃς ἐκ τηλικούτου θανάτου ἐῤῥύσατο ἡμᾶς καὶ ῥύεται, εἰς ὃν ἠλπίκαμεν ὅτι καὶ ἔτι ῥύσεται",
+      "finnish_biblia": "Joka meitä niin suuresta kuolemasta päästi ja päästää; ja me turvaamme hänen päällensä, että hän tästedeskin meitä päästää, ",
+      "swedish_karl_xii": "Hwilken oß af slijk dödh frijat hafwer, och ännu dagliga frijar; och hoppoms på honom, at han skal oß ännu här efter frija,",
+      "king_james": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver *us*;"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "adjuvantibus et vobis in oratione pro nobis: ut ex multorum personis, ejus quæ in nobis est donationis, per multos gratiæ agantur pro nobis.",
+      "greek_textus_receptus": "συνυπουργούντων καὶ ὑμῶν ὑπὲρ ἡμῶν τῇ δεήσει ἵνα ἐκ πολλῶν προσώπων τὸ εἰς ἡμᾶς χάρισμα διὰ πολλῶν εὐχαριστηθῇ ὑπὲρ ἡμῶν",
+      "finnish_biblia": "Ynnä myös teidän rukoustenne avulla meidän edestämme, että meidän tähtemme, siitä lahjasta, joka meille annettu on, pitäis monelta ihmiseltä kiitos tehtämän. ",
+      "swedish_karl_xii": "Genom edra böners hielp för oß; på thet at af många personer må skee mycken tack för oß, för then gåfwo, som oß gifwin är.",
+      "king_james": "Ye also helping together by prayer for us, that for the gift *bestowed* upon us by the means of many persons thanks may be given by many on our behalf."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Nam gloria nostra hæc est: testimonium conscientiæ nostræ, quod in simplicitate cordis et sinceritate Dei, et non in sapientia carnali, sed in gratia Dei, conversati sumus in hoc mundo: abundantius autem ad vos.",
+      "greek_textus_receptus": "ἡ γὰρ καύχησις ἡμῶν αὕτη ἐστίν τὸ μαρτύριον τῆς συνειδήσεως ἡμῶν ὅτι ἐν ἁπλότητι καὶ εἰλικρινείᾳ θεοῦ οὐκ ἐν σοφίᾳ σαρκικῇ ἀλλ᾽ ἐν χάριτι θεοῦ ἀνεστράφημεν ἐν τῷ κόσμῳ περισσοτέρως δὲ πρὸς ὑμᾶς",
+      "finnish_biblia": "Sillä se on meidän kerskauksemme, nimittäin meidän omantuntomme todistus, että me yksinkertaisuudessa ja Jumalan vakuudessa, ei lihallisessa viisaudessa, vaan Jumalan armossa olemme maailmassa vaeltaneet, mutta enimmästi teidän tykönänne. ",
+      "swedish_karl_xii": "Ty wår berömelse är thetta, nemliga, wårt samwetz witnesbyrd, at wij vthi enfallighet och Gudz reenhet, icke vthi kötzlig wijshet, vtan i Gudz nådh, hafwe wandrat på werldene; men alramäst när eder.",
+      "king_james": "For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Non enim alia scribimus vobis, quam quæ legistis, et cognovistis. Spero autem quod usque in finem cognoscetis,",
+      "greek_textus_receptus": "οὐ γὰρ ἄλλα γράφομεν ὑμῖν ἀλλ᾽ ἢ ἃ ἀναγινώσκετε ἢ καὶ ἐπιγινώσκετε ἐλπίζω δὲ ὅτι καὶ ἕως τέλους ἐπιγνώσεσθε",
+      "finnish_biblia": "Sillä emmepä me muuta teille kirjoita, vaan sitä, mitä te luette eli myös tiedätte; mutta minä toivon, että te myös loppuun asti tiedätte. ",
+      "swedish_karl_xii": "Ty wij skrifwe eder intet annat än thet J läsen, och tilförene weten. Migh hoppas, at J skolen ock så befinna (oß) alt in til ändan;",
+      "king_james": "For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "sicut et cognovistis nos ex parte, quod gloria vestra sumus, sicut et vos nostra, in die Domini nostri Jesu Christi.",
+      "greek_textus_receptus": "καθὼς καὶ ἐπέγνωτε ἡμᾶς ἀπὸ μέρους ὅτι καύχημα ὑμῶν ἐσμεν καθάπερ καὶ ὑμεῖς ἡμῶν ἐν τῇ ἡμέρᾳ τοῦ κυρίου ἰησοῦ",
+      "finnish_biblia": "Niinkuin te puolittain meidät tietäneet olette, että me olemme teidän kerskaamisenne, niinkuin tekin meidän kerskauksemme Herran Jesuksen päivänä olette. ",
+      "swedish_karl_xii": "Såsom J hafwen oß endeels befunnet: ty wij äre edor berömelse; såsom ock J ären wår berömelse, på Herrans Jesu dagh.",
+      "king_james": "As also ye have acknowledged us in part, that we are your rejoicing, even as ye also *are* ours in the day of the Lord Jesus."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Et hac confidentia volui prius venire ad vos, ut secundum gratiam haberetis:",
+      "greek_textus_receptus": "καὶ ταύτῃ τῇ πεποιθήσει ἐβουλόμην πρὸς ὑμᾶς ἐλθεῖν πρότερον ἵνα δευτέραν χάριν ἔχῆτε",
+      "finnish_biblia": "Ja senkaltaisella uskalluksella tahdoin minä ennen tulla teidän tykönne, että te toisen kerran olisitte saaneet minulta jonkun hyvän työn, ",
+      "swedish_karl_xii": "Och på then förtröstning wille jagh kommet til eder tilförene, at jagh måtte eder dubbelt wara til wilja;",
+      "king_james": "And in this confidence I was minded to come unto you before, that ye might have a second benefit;"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "et per vos transire in Macedoniam, et iterum a Macedonia venire ad vos, et a vobis deduci in Judæam.",
+      "greek_textus_receptus": "καὶ δι᾽ ὑμῶν διελθεῖν εἰς Μακεδονίαν καὶ πάλιν ἀπὸ Μακεδονίας ἐλθεῖν πρὸς ὑμᾶς καὶ ὑφ᾽ ὑμῶν προπεμφθῆναι εἰς τὴν ἰουδαίαν",
+      "finnish_biblia": "Ja minä olisin vaeltanut teidän kauttanne Makedoniaan, ja Makedoniasta teidän tykönne takaperin tullut, ja niin teiltä Juudeaan johdatetuksi. ",
+      "swedish_karl_xii": "Och genom eder fordenskap färdas til Macedonien, och ifrå Macedonien komma til eder igen, och af eder fordras til Judeen.",
+      "king_james": "And to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judaea."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Cum ergo hoc voluissem, numquid levitate usus sum? aut quæ cogito, secundum carnem cogito, ut sit apud me Est et Non?",
+      "greek_textus_receptus": "τοῦτο οὖν βουλευόμενος μή τι ἄρα τῇ ἐλαφρίᾳ ἐχρησάμην ἢ ἃ βουλεύομαι κατὰ σάρκα βουλεύομαι ἵνα ᾖ παρ᾽ ἐμοὶ τὸ ναὶ ναὶ καὶ τὸ οὒ οὔ",
+      "finnish_biblia": "Koska minä tätä ajattelin, lienenkö minä sen tehnyt hempeydestä? Eli ovatko minun aivoitukseni, joita minä aivon, lihalliset? että minun tykönäni olis niin, niin, ja ei, ei. ",
+      "swedish_karl_xii": "Tå jagh thetta så tänckte, månde jagh thet giöra af någon lössinnighet? Eller mån min anslag wara kötzlig? Neij: vtan när migh är ja, ja; och neij, är neij.",
+      "king_james": "When I therefore was thus minded, did I use lightness? or the things that I purpose, do I purpose according to the flesh, that with me there should be yea yea, and nay nay?"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Fidelis autem Deus, quia sermo noster, qui fuit apud vos, non est in illo Est et Non.",
+      "greek_textus_receptus": "πιστὸς δὲ ὁ θεὸς ὅτι ὁ λόγος ἡμῶν ὁ πρὸς ὑμᾶς οὐκ ἐγένετο ναὶ καὶ οὔ",
+      "finnish_biblia": "Mutta Jumala on vakaa, ettei meidän puheemme ole teille niin ja ei ollut. ",
+      "swedish_karl_xii": "Men Gudh är trofast, at wårt ord til eder är icke wordet ja och neij.",
+      "king_james": "But *as* God *is* true, our word toward you was not yea and nay."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Dei enim Filius Jesus Christus, qui in vobis per nos prædicatus est, per me, et Silvanum, et Timotheum, non fuit Est et Non, sed Est in illo fuit.",
+      "greek_textus_receptus": "ὁ γὰρ τοῦ θεοῦ υἱὸς ἰησοῦς χριστὸς ὁ ἐν ὑμῖν δι᾽ ἡμῶν κηρυχθείς δι᾽ ἐμοῦ καὶ σιλουανοῦ καὶ τιμοθέου οὐκ ἐγένετο ναὶ καὶ οὔ ἀλλὰ ναὶ ἐν αὐτῷ γέγονεν",
+      "finnish_biblia": "Sillä Jumalan Poika, Jesus Kristus, joka teidän seassanne meiltä saarnattu on, nimittäin minulta ja Silvanukselta ja Timoteukselta, ei ollut niin ja ei, vaan oli hänessä niin. ",
+      "swedish_karl_xii": "Ty Gudz Son Jesus Christus, som ibland eder är predikad af oß, nemliga, af migh och Siluano, och Timotheo, hafwer icke warit ja och neij, vtan thet war ja i honom.",
+      "king_james": "For the Son of God, Jesus Christ, who was preached among you by us, *even* by me and Silvanus and Timotheus, was not yea and nay, but in him was yea."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Quotquot enim promissiones Dei sunt, in illo Est: ideo et per ipsum Amen Deo ad gloriam nostram.",
+      "greek_textus_receptus": "ὅσαι γὰρ ἐπαγγελίαι θεοῦ ἐν αὐτῷ τὸ ναί καὶ ἐν αὐτῷ τὸ ἀμὴν τῷ θεῷ πρὸς δόξαν δι᾽ ἡμῶν",
+      "finnish_biblia": "Sillä kaikki Jumalan lupaukset ovat niin hänessä ja ovat amen hänessä, Jumalan kunniaksi meidän kauttamme. ",
+      "swedish_karl_xii": "Ty all Gudz tilsäijelse äro ja i honom, och äro Amen i honom, Gudi til ähro genom oß.",
+      "king_james": "For all the promises of God in him *are* yea, and in him Amen, unto the glory of God by us."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus:",
+      "greek_textus_receptus": "ὁ δὲ βεβαιῶν ἡμᾶς σὺν ὑμῖν εἰς χριστὸν καὶ χρίσας ἡμᾶς θεός",
+      "finnish_biblia": "Mutta Jumala on se, joka meitä teidän kanssanne Kristuksessa vahvistaa, ja on meitä voidellut, ",
+      "swedish_karl_xii": "Men Gudh är then oß stadfäster samt medh eder i Christo, och hafwer smordt oß:",
+      "king_james": "Now he which stablisheth us with you in Christ, and hath anointed us, *is* God;"
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "qui et signavit nos, et dedit pignus Spiritus in cordibus nostris.",
+      "greek_textus_receptus": "ὁ καὶ σφραγισάμενος ἡμᾶς καὶ δοὺς τὸν ἀῤῥαβῶνα τοῦ πνεύματος ἐν ταῖς καρδίαις ἡμῶν",
+      "finnish_biblia": "Joka myös on meitä lukinnut, ja antoi Hengen pantiksi meidän sydämiimme. ",
+      "swedish_karl_xii": "Och försiglat oß, och gifwit vthi wår hierta Andans pant.",
+      "king_james": "Who hath also sealed us, and given the earnest of the Spirit in our hearts."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum:",
+      "greek_textus_receptus": "ἐγὼ δὲ μάρτυρα τὸν θεὸν ἐπικαλοῦμαι ἐπὶ τὴν ἐμὴν ψυχήν ὅτι φειδόμενος ὑμῶν οὐκέτι ἦλθον εἰς κόρινθον",
+      "finnish_biblia": "Mutta minä rukoilen Jumalaa todistajaksi sieluni päälle, että minä olen säästänyt teitä, etten minä vielä ole Korintoon tullut. ",
+      "swedish_karl_xii": "Jagh kallar Gudh til witne på min siäl, thet jagh icke ännu kom til Corinthum, thet är skedt förthenskul, at jagh skonade eder.",
+      "king_james": "Moreover I call God for a record upon my soul, that to spare you I came not as yet unto Corinth."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "non quia dominamur fidei vestæ, sed adjutores sumus gaudii vestri: nam fide statis.",
+      "greek_textus_receptus": "οὐχ ὅτι κυριεύομεν ὑμῶν τῆς πίστεως ἀλλὰ συνεργοί ἐσμεν τῆς χαρᾶς ὑμῶν τῇ γὰρ πίστει ἑστήκατε",
+      "finnish_biblia": "Ei niin, että me hallitsisimme teidän uskoanne, vaan me olemme auttajat teidän iloonne, sillä te seisotte uskossa.   ",
+      "swedish_karl_xii": "Jcke at wij äre herrar öfwer eder på trones wägna; vtan wij äre hielpare til edor glädie: ty J stån i trone.",
+      "king_james": "Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand."
+    }
+  ]
+}

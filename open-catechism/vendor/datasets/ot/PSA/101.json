@@ -1,0 +1,148 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 101,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Psalmus ipsi David.   Misericordiam et judicium cantabo tibi, Domine ;  psallam, ",
+      "hebrew_masoretic": "לְדָוִ֗ד מִ֫זְמ֥וֹר חֶֽסֶד־וּמִשְׁפָּ֥ט אָשִׁ֑ירָה לְךָ֖ יְהֹוָ֣ה אֲזַמֵּֽרָה׃",
+      "douay_rheims": "A psalm for David himself. Mercy and judgment I will sing to thee, O Lord: I will sing,",
+      "finnish_biblia": "Davidin Psalmi. Minä veisaan armosta ja oikeudesta: sinulle, Herra, minä veisaan. ",
+      "swedish_karl_xii": "En Psalm Davidz. Om nådh och rätt wil jagh siunga; och tigh, HERRE, lofsäija.",
+      "king_james": "I will sing of mercy and judgment: unto thee, O LORD, will I sing.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "100:1"
+        },
+        "douay_rheims": {
+          "src": "100:1"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "et intelligam in via immaculata : quando venies ad me ?  Perambulabam in innocentia cordis mei, in medio domus meæ. ",
+      "hebrew_masoretic": "אַשְׂכִּ֤ילָה ׀ בְּדֶ֬רֶךְ תָּמִ֗ים מָ֭תַי תָּב֣וֹא אֵלָ֑י אֶתְהַלֵּ֥ךְ בְּתׇם־לְ֝בָבִ֗י בְּקֶ֣רֶב בֵּיתִֽי׃",
+      "douay_rheims": "And I will understand in the unspotted way, when thou shalt come to me. I walked in the innocence of my heart, in the midst of my house.",
+      "finnish_biblia": "Minä tahdon vaarin ottaa oikiasta tiestä, koskas minun tyköni tulet: minä tahdon vaeltaa sydämeni vakuudessa minun huoneessani. ",
+      "swedish_karl_xii": "Jagh handlar försichteliga och redeliga medh them som migh tilhöra; och wandrar troliga i mitt huus.",
+      "king_james": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "100:2"
+        },
+        "douay_rheims": {
+          "src": "100:2"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Non proponebam ante oculos meos rem injustam ;  facientes prævaricationes odivi ;  non adhæsit mihi ",
+      "hebrew_masoretic": "לֹֽא־אָשִׁ֨ית ׀ לְנֶ֥גֶד עֵינַ֗י דְּֽבַר־בְּלִ֫יָּ֥עַל עֲשֹֽׂה־סֵטִ֥ים שָׂנֵ֑אתִי לֹ֖א יִדְבַּ֣ק בִּֽי׃",
+      "douay_rheims": "I will not set before my eyes any unjust thing: I hated the workers of iniquities.",
+      "finnish_biblia": "En minä ota pahaa asiaa eteeni: minä vihaan väärintekiöitä, ja en salli heitä olla tykönäni. ",
+      "swedish_karl_xii": "Jagh tager migh ingen ond saak före: jagh hatar öfwerträdaren, och låter honom icke när migh blifwa.",
+      "king_james": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "100:3"
+        },
+        "douay_rheims": {
+          "src": "100:3"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "cor pravum ;  declinantem a me malignum non cognoscebam. ",
+      "hebrew_masoretic": "לֵבָ֣ב עִ֭קֵּשׁ יָס֣וּר מִמֶּ֑נִּי רָ֝֗ע לֹ֣א אֵדָֽע׃",
+      "douay_rheims": "The perverse heart did not cleave to me: and the malignant, that turned aside from me, I would not know.",
+      "finnish_biblia": "Nurja sydän olkoon minusta pois: en minä kärsi pahaa. ",
+      "swedish_karl_xii": "Ett wrångt hierta måste wika ifrå migh: then onda lider jagh icke.",
+      "king_james": "A froward heart shall depart from me: I will not know a wicked person.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "100:4"
+        },
+        "douay_rheims": {
+          "src": "100:4"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Detrahentem secreto proximo suo, hunc persequebar :  superbo oculo, et insatiabili corde, cum hoc non edebam. ",
+      "hebrew_masoretic": "(מלושני) [מְלׇשְׁנִ֬י] בַסֵּ֨תֶר ׀ רֵעֵהוּ֮ אוֹת֢וֹ אַ֫צְמִ֥ית גְּֽבַהּ־עֵ֭ינַיִם וּרְחַ֣ב לֵבָ֑ב אֹ֝ת֗וֹ לֹ֣א אוּכָֽל׃",
+      "douay_rheims": "The man that in private detracted his neighbour, him did I persecute. With him that had a proud eye, and an unsatiable heart, I would not eat.",
+      "finnish_biblia": "Joka lähimmäistänsä salaa panettelee, sen minä hukutan: en minä kärsi ylpeitä ja röyhkeitä. ",
+      "swedish_karl_xii": "Then sin nästa hemliga baktalar, honom förgiör jagh: then ther storlåtig är och högt sinne hafwer, honom lider jagh icke.",
+      "king_james": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "100:5"
+        },
+        "douay_rheims": {
+          "src": "100:5"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Oculi mei ad fideles terræ, ut sedeant mecum ;  ambulans in via immaculata, hic mihi ministrabat. ",
+      "hebrew_masoretic": "עֵינַ֤י ׀ בְּנֶֽאֶמְנֵי־אֶרֶץ֮ לָשֶׁ֢בֶת עִמָּ֫דִ֥י הֹ֭לֵךְ בְּדֶ֣רֶךְ תָּמִ֑ים ה֝֗וּא יְשָׁרְתֵֽנִי׃",
+      "douay_rheims": "My eyes were upon the faithful of the earth, to sit with me: the man that walked in the perfect way, he served me.",
+      "finnish_biblia": "Minun silmäni katsovat uskollisia maan päällä, että he asuisivat minun tykönäni: joka vaeltaa oikialla tiellä, se pitää oleman minun palveliani. ",
+      "swedish_karl_xii": "Mine ögon see efter the trogna i landena, at the måga när migh boo; och hafwer gierna froma tienare.",
+      "king_james": "Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "100:6"
+        },
+        "douay_rheims": {
+          "src": "100:6"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Non habitabit in medio domus meæ qui facit superbiam ;  qui loquitur iniqua non direxit in conspectu oculorum meorum. ",
+      "hebrew_masoretic": "לֹֽא־יֵשֵׁ֨ב ׀ בְּקֶ֥רֶב בֵּיתִי֮ עֹשֵׂ֢ה רְמִ֫יָּ֥ה דֹּבֵ֥ר שְׁקָרִ֑ים לֹא־יִ֝כּ֗וֹן לְנֶ֣גֶד עֵינָֽי׃",
+      "douay_rheims": "He that worketh pride shall not dwell in the midst of my house: he that speaketh unjust things did not prosper before my eyes.",
+      "finnish_biblia": "Petollisia ihmisiä en minä pidä huoneessani: ei valehteliat menesty minun tykönäni. ",
+      "swedish_karl_xii": "Falskt folck håller jagh icke i mitt huus; liugare trifwas icke när migh.",
+      "king_james": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "100:7"
+        },
+        "douay_rheims": {
+          "src": "100:7"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " In matutino interficiebam omnes peccatores terræ,  ut disperderem de civitate Domini omnes operantes iniquitatem.  ",
+      "hebrew_masoretic": "לַבְּקָרִ֗ים אַצְמִ֥ית כׇּל־רִשְׁעֵי־אָ֑רֶץ לְהַכְרִ֥ית מֵעִיר־יְ֝הֹוָ֗ה כׇּל־פֹּ֥עֲלֵי אָֽוֶן׃ {פ}",
+      "douay_rheims": "In the morning I put to death all the wicked of the land: that I might cut off all the workers of iniquity from the city of the Lord. ",
+      "finnish_biblia": "Varhain minä hukutan kaikki jumalattomat maasta, hävittääkseni kaikkia pahantekiöitä Herran kaupungista.   ",
+      "swedish_karl_xii": "Bjttida förgiör jagh alla ogudachtiga i landena; at jagh må vthrota alla ogierningsmän vthu HERRANS stadh.",
+      "king_james": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "100:8"
+        },
+        "douay_rheims": {
+          "src": "100:8"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+# ref = PSA.126.1
+1	ᾨδὴ	ᾠδή	_	_	_	_	_	Strong=G5603|Align=exact
+2	τῶν	_	_	_	_	_	_	Align=unmatched
+3	ἀναβαθμῶν	_	_	_	_	_	_	Align=unmatched
+4	Ἐὰν	ἐάν	_	_	_	_	_	Strong=G1437|Align=exact
+5	μὴ	μή	_	_	_	_	_	Strong=G3361|Align=exact
+6	Κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+7	οἰκοδομήσῃ	οἰκοδομέω	_	_	_	_	_	Strong=G3618|Align=positional
+8	οἶκον	οἶκος	_	_	_	_	_	Strong=G3624|Align=positional
+9	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+10	μάτην	μάτην	_	_	_	_	_	Strong=G3155|Align=exact
+11	ἐκοπίασαν	κοπιάω	_	_	_	_	_	Strong=G2872|Align=positional
+12	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	οἰκοδομοῦντες	οἰκοδομέω	_	_	_	_	_	Strong=G3618|Align=positional
+14	αὐτόν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+15	ἐὰν	ἐάν	_	_	_	_	_	Strong=G1437|Align=exact
+16	μὴ	μή	_	_	_	_	_	Strong=G3361|Align=exact
+17	Κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+18	φυλάξῃ	φυλάσσω	_	_	_	_	_	Strong=G5442|Align=positional
+19	πόλιν	πόλις	_	_	_	_	_	Strong=G4172|Align=positional
+20	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+21	μάτην	μάτην	_	_	_	_	_	Strong=G3155|Align=exact
+22	ἠγρύπνησεν	ἀγρυπνέω	_	_	_	_	_	Strong=G0069|Align=positional
+23	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+24	φυλάσσων	φυλάσσω	_	_	_	_	_	Strong=G5442|Align=positional,source_extra:4
+
+# ref = PSA.126.2
+1	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+2	μάτην	μάτην	_	_	_	_	_	Strong=G3155|Align=exact
+3	ἐστὶν	_	_	_	_	_	_	Align=unmatched
+4	ὑμῖν	ὑμῖν	_	_	_	_	_	Align=exact
+5	τοῦ	_	_	_	_	_	_	Align=unmatched
+6	ὀρθρίζειν	_	_	_	_	_	_	Align=unmatched
+7	ἐγείρεσθαι	_	_	_	_	_	_	Align=unmatched
+8	μετὰ	μετά	_	_	_	_	_	Strong=G3326|Align=exact
+9	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	καθῆσθαι	κάθημαι	_	_	_	_	_	Strong=G2521|Align=positional
+11	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ἔσθοντες	ἐσθίω	_	_	_	_	_	Strong=G2068|Align=positional
+13	ἄρτον	ἄρτος	_	_	_	_	_	Strong=G0740|Align=positional
+14	ὀδύνης	ὀδύνη	_	_	_	_	_	Strong=G3601|Align=positional
+15	ὅταν	ὅταν	_	_	_	_	_	Strong=G3752|Align=exact
+16	δῷ	δίδωμι	_	_	_	_	_	Strong=G1325|Align=positional
+17	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+18	ἀγαπητοῖς	ἀγαπητός	_	_	_	_	_	Strong=G0027|Align=positional
+19	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+20	ὕπνον	ὕπνος	_	_	_	_	_	Strong=G5258|Align=positional,source_extra:4
+
+# ref = PSA.126.3
+1	ἰδοὺ	ἰδού	_	_	_	_	_	Strong=G2400|Align=exact
+2	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	κληρονομία	κληρονομία	_	_	_	_	_	Strong=G2817|Align=exact
+4	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+5	υἱοί	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+7	μισθὸς	μισθός	_	_	_	_	_	Strong=G3408|Align=exact
+8	τοῦ	_	_	_	_	_	_	Align=unmatched
+9	καρποῦ	_	_	_	_	_	_	Align=unmatched
+10	τῆς	_	_	_	_	_	_	Align=unmatched
+11	γαστρὸς	_	_	_	_	_	_	Align=unmatched
+12	αὐτῆς	_	_	_	_	_	_	Align=unmatched,source_extra:4
+
+# ref = PSA.126.4
+1	ὡσεὶ	ὡσεί	_	_	_	_	_	Strong=G5616|Align=exact
+2	βέλη	βέλος	_	_	_	_	_	Strong=G0956|Align=positional
+3	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+4	χειρὶ	χείρ	_	_	_	_	_	Strong=G5495|Align=positional
+5	δυνατοῦ	δυνατός	_	_	_	_	_	Strong=G1415|Align=positional
+6	οὕτως	οὕτως	_	_	_	_	_	Align=exact
+7	οἱ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	υἱοὶ	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+9	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	ἐκτετιναγμένων	ἐκτινάσσω	_	_	_	_	_	Strong=G1621|Align=positional
+
+# ref = PSA.126.5
+1	μακάριος	μακάριος	_	_	_	_	_	Strong=G3107|Align=exact
+2	ὃς	ὅς	_	_	_	_	_	Strong=G3739|Align=exact
+3	πληρώσει	πληρόω	_	_	_	_	_	Strong=G4137|Align=positional
+4	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	ἐπιθυμίαν	ἐπιθυμία	_	_	_	_	_	Strong=G1939|Align=positional
+6	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+7	ἐξ	ἐκ	_	_	_	_	_	Strong=G1537|Align=positional
+8	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+9	οὐ	οὐ	_	_	_	_	_	Strong=G3756|Align=exact
+10	καταισχυνθήσεται	καταισχύνω	_	_	_	_	_	Strong=G2617|Align=positional
+11	ὅταν	ὅταν	_	_	_	_	_	Strong=G3752|Align=exact
+12	λαλῶσι	λαλέω	_	_	_	_	_	Strong=G2980|Align=positional
+13	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	ἐχθροῖς	ἐχθρός	_	_	_	_	_	Strong=G2190|Align=positional
+15	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+16	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+17	πύλῃ	πύλη	_	_	_	_	_	Strong=G4439|Align=exact,source_extra:1
+

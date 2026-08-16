@@ -1,0 +1,183 @@
+# ref = PSS.13.1
+1	Τῷ	_	_	_	_	_	_	Align=unmatched
+2	Σαλωμὼν	_	_	_	_	_	_	Align=unmatched
+3	ψαλμός	_	_	_	_	_	_	Align=unmatched
+4	παράκλησις	_	_	_	_	_	_	Align=unmatched
+5	τῶν	_	_	_	_	_	_	Align=unmatched
+6	δικαίων	_	_	_	_	_	_	Align=unmatched
+7	Δεξιὰ	_	_	_	_	_	_	Align=unmatched
+8	Κυρίου	_	_	_	_	_	_	Align=unmatched
+9	ἐσκέπασέν	_	_	_	_	_	_	Align=unmatched
+10	με	μέ	_	_	_	_	_	Strong=G3165|Align=exact
+11	δεξιὰ	δεξιός	_	_	_	_	_	Strong=G1188|Align=positional
+12	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+13	ἐφείσατο	φείδομαι	_	_	_	_	_	Strong=G5339|Align=positional
+14	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact,source_extra:3
+
+# ref = PSS.13.2
+1	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+2	βραχίων	βραχίων	_	_	_	_	_	Strong=G1023|Align=exact
+3	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+4	ἔσωσεν	σώζω	_	_	_	_	_	Strong=G4982|Align=positional
+5	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+6	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+7	ῥομφαίας	ῥομφαία	_	_	_	_	_	Strong=G4501|Align=positional
+8	διαπορευομένης	διαπορεύομαι	_	_	_	_	_	Strong=G1279|Align=positional
+9	ἀπὸ	ἀπό	_	_	_	_	_	Strong=G0575|Align=exact
+10	λιμοῦ	λιμός	_	_	_	_	_	Strong=G3042|Align=positional
+11	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+12	θανάτου	θάνατος	_	_	_	_	_	Strong=G2288|Align=positional
+13	ἁμαρτωλῶν	ἁμαρτωλός	_	_	_	_	_	Strong=G0268|Align=positional
+
+# ref = PSS.13.3
+1	θηρία	θηρίον	_	_	_	_	_	Strong=G2342|Align=positional
+2	ἐπεδράμοσαν	ἐπιτρέχω	_	_	_	_	_	Align=positional
+3	αὐτοῖς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+4	πονηρά	πονηρός	_	_	_	_	_	Strong=G4190|Align=positional
+5	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+6	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	ὀδοῦσιν	ὀδούς	_	_	_	_	_	Strong=G3599|Align=positional
+8	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+9	ἐτίλλοσαν	τίλλω	_	_	_	_	_	Strong=G5089|Align=positional
+10	σάρκας	σάρξ	_	_	_	_	_	Strong=G4561|Align=positional
+11	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+12	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+13	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+14	ταῖς	_	_	_	_	_	_	Align=unmatched
+15	μύλαις	_	_	_	_	_	_	Align=unmatched
+16	ἔθλων	_	_	_	_	_	_	Align=unmatched
+17	ὀστᾶ	_	_	_	_	_	_	Align=unmatched
+18	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+19	καὶ	_	_	_	_	_	_	Align=unmatched
+20	ἐκ	_	_	_	_	_	_	Align=unmatched
+21	τούτων	_	_	_	_	_	_	Align=unmatched
+22	ἁπάντων	_	_	_	_	_	_	Align=unmatched
+23	ἐρρύσατο	_	_	_	_	_	_	Align=unmatched
+24	ἡμᾶς	_	_	_	_	_	_	Align=unmatched
+25	Κύριος	_	_	_	_	_	_	Align=unmatched,source_extra:5
+
+# ref = PSS.13.4
+1	ἐταράχθη	_	_	_	_	_	_	Align=unmatched
+2	ὁ	_	_	_	_	_	_	Align=unmatched
+3	ἀσεβὴς	_	_	_	_	_	_	Align=unmatched
+4	διὰ	_	_	_	_	_	_	Align=unmatched
+5	παραπτώματα	_	_	_	_	_	_	Align=unmatched
+6	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+7	μή	_	_	_	_	_	_	Align=unmatched
+8	ποτε	_	_	_	_	_	_	Align=unmatched
+9	συμπαραληφθῇ	_	_	_	_	_	_	Align=unmatched
+10	μετὰ	_	_	_	_	_	_	Align=unmatched
+11	τῶν	_	_	_	_	_	_	Align=unmatched
+12	ἁμαρτωλῶν	_	_	_	_	_	_	Align=unmatched,source_extra:7
+
+# ref = PSS.13.5
+1	ὅτι	_	_	_	_	_	_	Align=unmatched
+2	δεινὴ	_	_	_	_	_	_	Align=unmatched
+3	ἡ	_	_	_	_	_	_	Align=unmatched
+4	καταστροφὴ	_	_	_	_	_	_	Align=unmatched
+5	τοῦ	_	_	_	_	_	_	Align=unmatched
+6	ἁμαρτωλοῦ	_	_	_	_	_	_	Align=unmatched
+7	καὶ	_	_	_	_	_	_	Align=unmatched
+8	οὐχ	_	_	_	_	_	_	Align=unmatched
+9	ἅψεται	_	_	_	_	_	_	Align=unmatched
+10	δικαίου	_	_	_	_	_	_	Align=unmatched
+11	οὐδὲν	_	_	_	_	_	_	Align=unmatched
+12	ἐκ	_	_	_	_	_	_	Align=unmatched
+13	πάντων	_	_	_	_	_	_	Align=unmatched
+14	τούτων	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = PSS.13.6
+1	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+2	οὐχ	_	_	_	_	_	_	Align=unmatched
+3	ὁμοία	_	_	_	_	_	_	Align=unmatched
+4	ἡ	_	_	_	_	_	_	Align=unmatched
+5	παιδεία	_	_	_	_	_	_	Align=unmatched
+6	τῶν	_	_	_	_	_	_	Align=unmatched
+7	δικαίων	_	_	_	_	_	_	Align=unmatched
+8	ἐν	_	_	_	_	_	_	Align=unmatched
+9	ἀγνοίᾳ	_	_	_	_	_	_	Align=unmatched
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	ἡ	_	_	_	_	_	_	Align=unmatched
+12	καταστροφὴ	_	_	_	_	_	_	Align=unmatched
+13	τοῦ	_	_	_	_	_	_	Align=unmatched
+14	ἁμαρτωλοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = PSS.13.7
+1	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+2	περιστολῇ	_	_	_	_	_	_	Align=unmatched
+3	παιδεύεται	_	_	_	_	_	_	Align=unmatched
+4	δίκαιος	_	_	_	_	_	_	Align=unmatched
+5	ἵνα	_	_	_	_	_	_	Align=unmatched
+6	μὴ	_	_	_	_	_	_	Align=unmatched
+7	ἐπιχαρῇ	_	_	_	_	_	_	Align=unmatched
+8	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+9	ἁμαρτωλὸς	ἁμαρτωλός	_	_	_	_	_	Strong=G0268|Align=exact
+10	τῷ	_	_	_	_	_	_	Align=unmatched
+11	δικαίῳ	_	_	_	_	_	_	Align=unmatched,source_extra:11
+
+# ref = PSS.13.8
+1	ὅτι	_	_	_	_	_	_	Align=unmatched
+2	νουθετήσει	_	_	_	_	_	_	Align=unmatched
+3	δίκαιον	_	_	_	_	_	_	Align=unmatched
+4	ὡς	_	_	_	_	_	_	Align=unmatched
+5	υἱὸν	_	_	_	_	_	_	Align=unmatched
+6	ἀγαπήσεως	_	_	_	_	_	_	Align=unmatched
+7	καὶ	_	_	_	_	_	_	Align=unmatched
+8	ἡ	_	_	_	_	_	_	Align=unmatched
+9	παιδεία	_	_	_	_	_	_	Align=unmatched
+10	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+11	ὡς	_	_	_	_	_	_	Align=unmatched
+12	πρωτοτόκου	_	_	_	_	_	_	Align=unmatched,source_extra:11
+
+# ref = PSS.13.9
+1	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+2	φείσεται	νουθετέω	_	_	_	_	_	Strong=G3560|Align=positional
+3	Κύριος	δίκαιος	_	_	_	_	_	Strong=G1342|Align=positional
+4	τῶν	ὥς	_	_	_	_	_	Align=positional
+5	ὁσίων	υἱός	_	_	_	_	_	Strong=G5207|Align=positional
+6	αὐτοῦ	ἀγάπησις	_	_	_	_	_	Align=positional
+7	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+8	τὰ	_	_	_	_	_	_	Align=unmatched
+9	παραπτώματα	_	_	_	_	_	_	Align=unmatched
+10	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+11	ἐξαλείψει	_	_	_	_	_	_	Align=unmatched
+12	ἐν	_	_	_	_	_	_	Align=unmatched
+13	παιδείᾳ	παιδεία	_	_	_	_	_	Strong=G3809|Align=exact
+14	ἡ	_	_	_	_	_	_	Align=unmatched
+15	γὰρ	_	_	_	_	_	_	Align=unmatched
+16	ζωὴ	_	_	_	_	_	_	Align=unmatched
+17	τῶν	_	_	_	_	_	_	Align=unmatched
+18	δικαίων	_	_	_	_	_	_	Align=unmatched
+19	εἰς	_	_	_	_	_	_	Align=unmatched
+20	τὸν	_	_	_	_	_	_	Align=unmatched
+21	αἰῶνα	_	_	_	_	_	_	Align=unmatched,source_extra:4
+
+# ref = PSS.13.10
+1	ἁμαρτωλοὶ	_	_	_	_	_	_	Align=unmatched
+2	δὲ	_	_	_	_	_	_	Align=unmatched
+3	ἀρθήσονται	_	_	_	_	_	_	Align=unmatched
+4	εἰς	_	_	_	_	_	_	Align=unmatched
+5	ἀπώλειαν	_	_	_	_	_	_	Align=unmatched
+6	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+7	οὐχ	_	_	_	_	_	_	Align=unmatched
+8	εὑρεθήσεται	_	_	_	_	_	_	Align=unmatched
+9	μνημόσυνον	_	_	_	_	_	_	Align=unmatched
+10	αὐτῶν	_	_	_	_	_	_	Align=unmatched
+11	ἔτι	_	_	_	_	_	_	Align=unmatched,source_extra:12
+
+# ref = PSS.13.11
+1	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+2	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+3	τοὺς	_	_	_	_	_	_	Align=unmatched
+4	ὁσίους	_	_	_	_	_	_	Align=unmatched
+5	τὸ	_	_	_	_	_	_	Align=unmatched
+6	ἔλεος	_	_	_	_	_	_	Align=unmatched
+7	Κυρίου	_	_	_	_	_	_	Align=unmatched
+8	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+9	ἐπὶ	_	_	_	_	_	_	Align=unmatched
+10	τοὺς	_	_	_	_	_	_	Align=unmatched
+11	φοβουμένους	_	_	_	_	_	_	Align=unmatched
+12	τὸ	_	_	_	_	_	_	Align=unmatched
+13	ἔλεος	_	_	_	_	_	_	Align=unmatched
+14	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:17
+

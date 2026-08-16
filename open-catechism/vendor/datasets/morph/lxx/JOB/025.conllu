@@ -1,0 +1,82 @@
+# ref = JOB.25.1
+1	Ὑπολαβὼν	ὑπολαμβάνω	_	_	_	_	_	Strong=G5274|Align=positional
+2	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+3	Βαλδὰδ	Βαλδαδ	_	_	_	_	_	Align=exact
+4	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+5	Σαυχίτης	Σαυχίτης	_	_	_	_	_	Align=exact
+6	λέγει	λέγω	_	_	_	_	_	Strong=G3004|Align=positional
+
+# ref = JOB.25.2
+1	Τί	τίς	_	_	_	_	_	Strong=G5101|Align=positional
+2	γὰρ	γάρ	_	_	_	_	_	Strong=G1063|Align=exact
+3	προοίμιον	προοίμιον	_	_	_	_	_	Align=exact
+4	ἢ	ἤ	_	_	_	_	_	Strong=G2228|Align=exact
+5	φόβος	φόβος	_	_	_	_	_	Strong=G5401|Align=exact
+6	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+7	παρ᾽	_	_	_	_	_	_	Align=unmatched
+8	αὐτοῦ	_	_	_	_	_	_	Align=unmatched
+9	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+10	ποιῶν	_	_	_	_	_	_	Align=unmatched
+11	τὴν	_	_	_	_	_	_	Align=unmatched
+12	σύμπασαν	_	_	_	_	_	_	Align=unmatched
+13	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+14	ὑψίστῳ	ὕψιστος	_	_	_	_	_	Strong=G5310|Align=positional,source_extra:4
+
+# ref = JOB.25.3
+1	μὴ	μή	_	_	_	_	_	Strong=G3361|Align=exact
+2	γάρ	γάρ	_	_	_	_	_	Strong=G1063|Align=exact
+3	τις	τις	_	_	_	_	_	Align=exact
+4	ὑπολάβοι	ὑπολαμβάνω	_	_	_	_	_	Strong=G5274|Align=positional
+5	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+6	ἐστὶν	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+7	παρέλκυσις	παρέλκυσις	_	_	_	_	_	Align=exact
+8	πειραταῖς	πειρατής	_	_	_	_	_	Align=positional
+9	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+10	τίνας	τίς	_	_	_	_	_	Strong=G5101|Align=positional
+11	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+12	οὐκ	οὐ	_	_	_	_	_	Strong=G3756|Align=positional
+13	ἐπελεύσεται	ἐπέρχομαι	_	_	_	_	_	Strong=G1904|Align=positional
+14	ἔνεδρα	ἐνέδρα	_	_	_	_	_	Strong=G1747|Align=exact
+15	παρ᾽	παρά	_	_	_	_	_	Strong=G3844|Align=positional
+16	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = JOB.25.4
+1	πῶς	πῶς	_	_	_	_	_	Strong=G4459|Align=exact
+2	γὰρ	γάρ	_	_	_	_	_	Strong=G1063|Align=exact
+3	ἔσται	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+4	δίκαιος	δίκαιος	_	_	_	_	_	Strong=G1342|Align=exact
+5	βροτὸς	βροτός	_	_	_	_	_	Align=exact
+6	ἔναντι	ἔναντι	_	_	_	_	_	Strong=G1725|Align=exact
+7	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+8	ἢ	ἤ	_	_	_	_	_	Strong=G2228|Align=exact
+9	τίς	τίς	_	_	_	_	_	Strong=G5101|Align=exact
+10	ἂν	ἄν	_	_	_	_	_	Strong=G0302|Align=exact
+11	ἀποκαθαρίσαι	ἀποκαθαρίζω	_	_	_	_	_	Align=positional
+12	αὐτὸν	ἑαυτοῦ	_	_	_	_	_	Strong=G1438|Align=positional
+13	γεννητὸς	γεννητός	_	_	_	_	_	Strong=G1084|Align=exact
+14	γυναικός	γυνή	_	_	_	_	_	Strong=G1135|Align=positional
+
+# ref = JOB.25.5
+1	ἦ	εἰ	_	_	_	_	_	Strong=G1487|Align=positional
+2	σελήνῃ	σελήνη	_	_	_	_	_	Strong=G4582|Align=exact
+3	συντάσσει	συντάσσω	_	_	_	_	_	Strong=G4929|Align=positional
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	οὐκ	οὐ	_	_	_	_	_	Strong=G3756|Align=positional
+6	ἐπιφαύσκει	ἐπιφαύσκω	_	_	_	_	_	Align=positional
+7	ἄστρα	ἄστρον	_	_	_	_	_	Strong=G0798|Align=positional
+8	δὲ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+9	οὐ	οὐ	_	_	_	_	_	Strong=G3756|Align=exact
+10	καθαρὰ	καθαρός	_	_	_	_	_	Strong=G2513|Align=positional
+11	ἐναντίον	ἐναντίον	_	_	_	_	_	Strong=G1726|Align=exact
+12	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = JOB.25.6
+1	ἔα	ἔα	_	_	_	_	_	Strong=G1436|Align=exact
+2	δέ	δέ	_	_	_	_	_	Strong=G1161|Align=exact
+3	ἄνθρωπος	ἄνθρωπος	_	_	_	_	_	Strong=G0444|Align=exact
+4	σαπρία	σαπρία	_	_	_	_	_	Align=exact
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	υἱὸς	υἱός	_	_	_	_	_	Strong=G5207|Align=exact
+7	ἀνθρώπου	ἄνθρωπος	_	_	_	_	_	Strong=G0444|Align=positional
+8	σκώληξ	σκώληξ	_	_	_	_	_	Strong=G4663|Align=exact
+

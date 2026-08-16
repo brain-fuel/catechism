@@ -1,0 +1,4 @@
+dist/
+.tools/
+cmd/open-catechism/*_gml.go
+.DS_Store

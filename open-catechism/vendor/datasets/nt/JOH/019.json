@@ -1,0 +1,347 @@
+{
+  "book_id": "JOH",
+  "latin_name": "Evangelium secundum Ioannem",
+  "greek_name": "Κατὰ Ἰωάννην",
+  "finnish_name": "Johanneksen evankeliumi",
+  "swedish_name": "S. Johannis Evangelium",
+  "english_name": "The Gospel According to John",
+  "chapter": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Tunc ergo apprehendit Pilatus Jesum, et flagellavit.",
+      "greek_textus_receptus": "τότε οὖν ἔλαβεν ὁ πιλᾶτος τὸν ἰησοῦν καὶ ἐμαστίγωσεν",
+      "finnish_biblia": "Niin Pilatus otti silloin Jesuksen ja ruoskitsi hänen, ",
+      "swedish_karl_xii": "Tå tog Pilatus Jesum, och hudflängde honom.",
+      "king_james": "Then Pilate therefore took Jesus, and scourged *him*."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et milites plectentes coronam de spinis, imposuerunt capiti ejus: et veste purpurea circumdederunt eum.",
+      "greek_textus_receptus": "καὶ οἱ στρατιῶται πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν αὐτοῦ τῇ κεφαλῇ καὶ ἱμάτιον πορφυροῦν περιέβαλον αὐτόν",
+      "finnish_biblia": "Ja sotamiehet väänsivät kruunun orjantappuroista, panivat sen hänen päähänsä ja puettivat hänen purpuravaatteesen, ",
+      "swedish_karl_xii": "Och krigsknechterna wredo samman ena krono af törne, och satte på hans hufwud, och hängde ett purpurkläde på honom;",
+      "king_james": "And the soldiers platted a crown of thorns, and put *it* on his head, and they put on him a purple robe,"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et veniebant ad eum, et dicebant: Ave, rex Judæorum: et dabant ei alapas.",
+      "greek_textus_receptus": "καὶ ἔλεγον χαῖρε ὁ βασιλεὺς τῶν ἰουδαίων καὶ ἐδίδουν αὐτῷ ῥαπίσματα",
+      "finnish_biblia": "Ja sanoivat: terve, Juudalaisten kuningas! ja antoivat hänelle korvapuusteja. ",
+      "swedish_karl_xii": "Och sade: Hel, Judarnas Konung: och gåfwo honom kinpustar.",
+      "king_james": "And said, Hail, King of the Jews! and they smote him with their hands."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Exivit ergo iterum Pilatus foras, et dicit eis: Ecce adduco vobis eum foras, ut cognoscatis quia nullam invenio in eo causam.",
+      "greek_textus_receptus": "ἐξῆλθεν οὖν πάλιν ἔξω ὁ πιλᾶτος καὶ λέγει αὐτοῖς ἴδε ἄγω ὑμῖν αὐτὸν ἔξω ἵνα γνῶτε ὅτι ἐν αὐτῷ οὐδεμίαν αἰτίαν εὑρίσκω",
+      "finnish_biblia": "Taas tuli Pilatus ulos ja sanoi heille: katsokaat, minä tuon hänen teille ulos, että te tietäisitte, etten minä löydä yhtään syytä hänessä. ",
+      "swedish_karl_xii": "Tå gick åter Pilatus vth, och sade til them: Sij, jagh hafwer honom vth til eder, at J förstå skolen, at jagh finner ingen saak medh honom.",
+      "king_james": "Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "(Exivit ergo Jesus portans coronam spineam, et purpureum vestimentum.) Et dicit eis: Ecce homo.",
+      "greek_textus_receptus": "ἐξῆλθεν οὖν ὁ ἰησοῦς ἔξω φορῶν τὸν ἀκάνθινον στέφανον καὶ τὸ πορφυροῦν ἱμάτιον καὶ λέγει αὐτοῖς ἴδε ὁ ἄνθρωπος",
+      "finnish_biblia": "Niin Jesus meni ulos, kantain orjantappuraista kruunua ja purpuraista vaatetta. Ja hän sanoi heille: katso ihmistä! ",
+      "swedish_karl_xii": "Tå gick Jesus vth, och bar ena törnekrono, och ett purpurkläde. Och han sade til them: Sij menniskian.",
+      "king_james": "Then came Jesus forth, wearing the crown of thorns, and the purple robe. And *Pilate* saith unto them, Behold the man!"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Cum ergo vidissent eum pontifices et ministri, clamabant, dicentes: Crucifige, crucifige eum. Dicit eis Pilatus: Accipite eum vos, et crucifigite: ego enim non invenio in eo causam.",
+      "greek_textus_receptus": "ὅτε οὖν εἶδον αὐτὸν οἱ ἀρχιερεῖς καὶ οἱ ὑπηρέται ἐκραύγασαν λέγοντες σταύρωσον σταύρωσον λέγει αὐτοῖς ὁ πιλᾶτος λάβετε αὐτὸν ὑμεῖς καὶ σταυρώσατε ἐγὼ γὰρ οὐχ εὑρίσκω ἐν αὐτῷ αἰτίαν",
+      "finnish_biblia": "Mutta kuin ylimmäiset papit ja palveliat hänen näkivät, huusivat he, sanoen: ristiinnaulitse, ristiinnaulitse häntä! Pilatus sanoi heille: ottakaat te häntä ja ristiinnaulitkaat; sillä en minä löydä yhtään syytä hänessä. ",
+      "swedish_karl_xii": "När the öfwerste Presterna och tienarena sågo honom, ropade the, och sade: Korsfäst, korsfäst. Pilatus sade til them: Tager J honom, och korsfäster: ty jagh finner ingen saak medh honom.",
+      "king_james": "When the chief priests therefore and officers saw him, they cried out, saying, Crucify *him*, crucify *him*. Pilate saith unto them, Take ye him, and crucify *him*: for I find no fault in him."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Responderunt ei Judæi: Nos legem habemus, et secundum legem debet mori, quia Filium Dei se fecit.",
+      "greek_textus_receptus": "ἀπεκρίθησαν αὐτῷ οἱ ἰουδαῖοι ἡμεῖς νόμον ἔχομεν καὶ κατὰ τὸν νόμον ἡμῶν ὀφείλει ἀποθανεῖν ὅτι ἑαυτὸν υἱὸν θεοῦ ἐποίησεν",
+      "finnish_biblia": "Vastasivat häntä Juudalaiset: meillä on laki, ja meidän lakimme jälkeen pitää hänen kuoleman, että hän teki itsensä Jumalan Pojaksi. ",
+      "swedish_karl_xii": "Judarna swarade honom: Wij hafwe lagh; och efter wår lagh skal han döö: ty han hafwer giordt sigh sielf til Gudz Son.",
+      "king_james": "The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Cum ergo audisset Pilatus hunc sermonem, magis timuit.",
+      "greek_textus_receptus": "ὅτε οὖν ἤκουσεν ὁ πιλᾶτος τοῦτον τὸν λόγον μᾶλλον ἐφοβήθη",
+      "finnish_biblia": "Kun siis Pilatus tämän puheen kuuli, pelkäsi hän vielä enemmin ",
+      "swedish_karl_xii": "Tå Pilatus hörde thet talet, fruchtade han ännu meer:",
+      "king_james": "When Pilate therefore heard that saying, he was the more afraid;"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Et ingressus est prætorium iterum: et dixit ad Jesum: Unde es tu? Jesus autem responsum non dedit ei.",
+      "greek_textus_receptus": "καὶ εἰσῆλθεν εἰς τὸ πραιτώριον πάλιν καὶ λέγει τῷ ἰησοῦ πόθεν εἶ σύ ὁ δὲ ἰησοῦς ἀπόκρισιν οὐκ ἔδωκεν αὐτῷ",
+      "finnish_biblia": "Ja meni taas raastupaan ja sanoi Jesukselle: kusta sinä olet? Mutta ei Jesus vastannut häntä. ",
+      "swedish_karl_xii": "Och gick åter in i Rådhuset, och sade til Jesum: Hwadan äst tu? Jesus swarade honom intet.",
+      "king_james": "And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Dicit ergo ei Pilatus: Mihi non loqueris? nescis quia potestatem habeo crucifigere te, et potestatem habeo dimittere te?",
+      "greek_textus_receptus": "λέγει οὖν αὐτῷ ὁ πιλᾶτος ἐμοὶ οὐ λαλεῖς οὐκ οἶδας ὅτι ἐξουσίαν ἔχω σταυρῶσαί σε καὶ ἐξουσίαν ἔχω ἀπολῦσαί σε",
+      "finnish_biblia": "Niin Pilatus sanoi hänelle: etkös mitään minulle puhu? Etkös tiedä, että minulla on valta sinua ristiinnaulita ja valta sinua päästää? ",
+      "swedish_karl_xii": "Tå sade Pilatus til honom: Talar tu intet medh migh? Wetst tu icke, at jagh hafwer macht at korsfästa tigh; och hafwer macht at släppa tigh?",
+      "king_james": "Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Respondit Jesus: Non haberes potestatem adversum me ullam, nisi tibi datum esset desuper. Propterea qui me tradidit tibi, majus peccatum habet.",
+      "greek_textus_receptus": "ἀπεκρίθη ὁ ἰησοῦς οὐκ εἶχες ἐξουσίαν οὐδεμίαν κατ᾽ ἐμοῦ εἰ μὴ ἦν σοι δεδομένον ἄνωθεν διὰ τοῦτο ὁ παραδιδούς μέ σοι μείζονα ἁμαρτίαν ἔχει",
+      "finnish_biblia": "Jesus vastasi: ei sinulla olisi yhtään valtaa minua vastaan, jos ei se olisi sinulle annettu ylhäältä: sentähden on hänellä suurempi synti, joka minun sinulle antoi ylön. ",
+      "swedish_karl_xii": "Jesus swarade: Tu hade ingen macht öfwer migh, wore hon tigh icke gifwin ofwan efter: förthenskul hafwer han större synd, som migh hafwer tigh öfwerantwardat.",
+      "king_james": "Jesus answered, Thou couldest have no power *at all* against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Et exinde quærebat Pilatus dimittere eum. Judæi autem clamabant dicentes: Si hunc dimittis, non es amicus Cæsaris. Omnis enim qui se regem facit, contradicit Cæsari.",
+      "greek_textus_receptus": "ἐκ τούτου ἐζήτει ὁ πιλᾶτος ἀπολῦσαι αὐτόν οἱ δὲ ἰουδαῖοι ἔκραζον λέγοντες ἐὰν τοῦτον ἀπολύσῃς οὐκ εἶ φίλος τοῦ καίσαρος πᾶς ὁ βασιλέα αὐτόν ποιῶν ἀντιλέγει τῷ καίσαρι",
+      "finnish_biblia": "Ja siitä ajasta pyysi Pilatus häntä päästää. Mutta Juudalaiset huusivat, sanoen: jos sinä hänen päästät, niin et sinä ole keisarin ystävä; sillä jokainen, joka itsensä tekee kuninkaaksi, hän on keisaria vastaan. ",
+      "swedish_karl_xii": "Och ifrå then tiden sökte Pilatus efter, at gifwa honom löös: men Judarna ropade, och sade: Gifwer tu honom löös, så äst tu icke Keisarens wän: ty then som sigh giör til Konung, han är emot Keisaren.",
+      "king_james": "And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar's friend: whosoever maketh himself a king speaketh against Caesar."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Pilatus autem cum audisset hos sermones, adduxit foras Jesum: et sedit pro tribunali, in loco qui dicitur Lithostrotos, hebraice autem Gabbatha.",
+      "greek_textus_receptus": "ὁ οὖν πιλᾶτος ἀκούσας τοῦτον τὸν λογὸν, ἤγαγεν ἔξω τὸν ἰησοῦν καὶ ἐκάθισεν ἐπὶ τοῦ βήματος εἰς τόπον λεγόμενον λιθόστρωτον ἑβραϊστὶ δὲ γαββαθα",
+      "finnish_biblia": "Kuin Pilatus tämän puheen kuuli, vei hän Jesuksen ulos ja istui tuomio-istuimelle, siihen paikkaan, joka kutsutaan Litostroton, mutta Hebreaksi Gabbata. ",
+      "swedish_karl_xii": "När Pilatus hörde thet talet, hade han Jesum vth, och satte sigh på domstolen, på thet rum, som kallas Lithostrotos; på Ebreisko Gabbatha.",
+      "king_james": "When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Erat enim parasceve Paschæ, hora quasi sexta, et dicit Judæis: Ecce rex vester.",
+      "greek_textus_receptus": "ἦν δὲ παρασκευὴ τοῦ πάσχα ὥρα δὲ ὡσεὶ ἕκτη καὶ λέγει τοῖς ἰουδαίοις ἴδε ὁ βασιλεὺς ὑμῶν",
+      "finnish_biblia": "Mutta se oli pääsiäisen valmistuspäivä, lähes kuudennella hetkellä. Ja hän sanoi Juudalaisille: katso, teidän kuninkaanne. ",
+      "swedish_karl_xii": "Och thet war Påska tilredelsedag, widh siette timan; och han sade til Judarna: Sij, edar Konung.",
+      "king_james": "And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Illi autem clamabant: Tolle, tolle, crucifige eum. Dicit eis Pilatus: Regem vestrum crucifigam? Responderunt pontifices: Non habemus regem, nisi Cæsarem.",
+      "greek_textus_receptus": "οἱ δὲ ἐκραύγασαν ἆρον ἆρον σταύρωσον αὐτόν λέγει αὐτοῖς ὁ πιλᾶτος τὸν βασιλέα ὑμῶν σταυρώσω ἀπεκρίθησαν οἱ ἀρχιερεῖς οὐκ ἔχομεν βασιλέα εἰ μὴ καίσαρα",
+      "finnish_biblia": "Mutta he huusivat: ota pois, ota pois, ristiinnaulitse häntä! Pilatus sanoi heille: pitääkö minun ristiinnaulitseman teidän kuninkaanne? Ylimmäiset papit vastasivat: ei meillä ole kuningasta, vaan keisari. ",
+      "swedish_karl_xii": "Tå ropade the: Tag bort, tag bort, korsfäst honom. Pilatus sade til them: Skal jagh korsfästa edar Konung? Swarade öfwerste Presterna: Wij hafwe ingen Konung, vtan Keisaren.",
+      "king_james": "But they cried out, Away with *him*, away with *him*, crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Tunc ergo tradidit eis illum ut crucifigeretur. Susceperunt autem Jesum, et eduxerunt.",
+      "greek_textus_receptus": "τότε οὖν παρέδωκεν αὐτὸν αὐτοῖς ἵνα σταυρωθῇ παρέλαβον δὲ τὸν ἰησοῦν καὶ ἀπήγαγον",
+      "finnish_biblia": "Niin silloin hän antoi hänen heille ristiinnaulittaa. Mutta he ottivat Jesuksen ja veivät pois. ",
+      "swedish_karl_xii": "Tå öfwerant wardade han honom them, at han skulle korsfästas. Tå togo the Jesum, och ledde honom bort.",
+      "king_james": "Then delivered he him therefore unto them to be crucified. And they took Jesus, and led *him* away."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Et bajulans sibi crucem exivit in eum, qui dicitur Calvariæ locum, hebraice autem Golgotha:",
+      "greek_textus_receptus": "καὶ βαστάζων τὸν σταυρὸν αὐτοῦ ἐξῆλθεν εἰς τὸν λεγόμενον κρανίου τόπον ὃς λέγεται ἑβραϊστὶ γολγοθα",
+      "finnish_biblia": "Ja hän kantoi ristiänsä ja meni siihen paikkaan, joka kutsutaan Pääkallon paikaksi, mutta Hebreaksi Golgata. ",
+      "swedish_karl_xii": "Och han bar sitt kors, och gick vth på thet rum, som kallas hufwudskallaplatsen; på Ebreisko Golgotha.",
+      "king_james": "And he bearing his cross went forth into a place called *the place* of a skull, which is called in the Hebrew Golgotha:"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "ubi crucifixerunt eum, et cum eo alios duos hinc et hinc, medium autem Jesum.",
+      "greek_textus_receptus": "ὅπου αὐτὸν ἐσταύρωσαν καὶ μετ᾽ αὐτοῦ ἄλλους δύο ἐντεῦθεν καὶ ἐντεῦθεν μέσον δὲ τὸν ἰησοῦν",
+      "finnish_biblia": "Siellä he ristiinnaulitsivat hänen ja kaksi muuta hänen kanssansa kahden puolen, mutta Jesuksen keskelle. ",
+      "swedish_karl_xii": "Ther korsfäste the honom, och twå andra medh honom, hwar på sina sido; och Jesum mitt vthi.",
+      "king_james": "Where they crucified him, and two other with him, on either side one, and Jesus in the midst."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Scripsit autem et titulum Pilatus, et posuit super crucem. Erat autem scriptum: Jesus Nazarenus, Rex Judæorum.",
+      "greek_textus_receptus": "ἔγραψεν δὲ καὶ τίτλον ὁ πιλᾶτος καὶ ἔθηκεν ἐπὶ τοῦ σταυροῦ ἦν δὲ γεγραμμένον ἰησοῦς ὁ ναζωραῖος ὁ βασιλεὺς τῶν ἰουδαίων",
+      "finnish_biblia": "Niin Pilatus kirjoitti myös päällekirjoituksen ja pani ristin päälle, ja oli näin kirjoitettu: JESUS NATSARENUS JUUDALAISTEN KUNINGAS. ",
+      "swedish_karl_xii": "Tå skref Pilatus een öfwerskrift, och satte på korßet. Och war så skrifwit: Jesus af Nazareth Judarnas Konung.",
+      "king_james": "And Pilate wrote a title, and put *it* on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Hunc ergo titulum multi Judæorum legerunt: quia prope civitatem erat locus, ubi crucifixus est Jesus, et erat scriptum hebraice, græce, et latine.",
+      "greek_textus_receptus": "τοῦτον οὖν τὸν τίτλον πολλοὶ ἀνέγνωσαν τῶν ἰουδαίων ὅτι ἐγγὺς ἦν τῆς πόλεως ὁ τόπος ὅπου ἐσταυρώθη ὁ ἰησοῦς καὶ ἦν γεγραμμένον ἑβραϊστί ἑλληνιστί ῥωμαϊστί",
+      "finnish_biblia": "Tämän päällekirjoituksen luki monta Juudalaisista; sillä se paikka oli läsnä kaupunkia, jossa Jesus ristiinnaulittiin. Ja oli kirjoitettu Hebreaksi, Grekaksi ja Latinaksi. ",
+      "swedish_karl_xii": "Thenna öfwerskriftena låso månge af Judarna: ty rumet ther Jesus war korsfäst, war hardt widh staden: och thet war skrifwit på Ebreisko, och Grekisko, och Latin.",
+      "king_james": "This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew, *and* Greek, *and* Latin."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Dicebant ergo Pilato pontifices Judæorum: Noli scribere: Rex Judæorum: sed quia ipse dixit: Rex sum Judæorum.",
+      "greek_textus_receptus": "ἔλεγον οὖν τῷ πιλάτῳ οἱ ἀρχιερεῖς τῶν ἰουδαίων μὴ γράφε ὁ βασιλεὺς τῶν ἰουδαίων ἀλλ᾽ ὅτι ἐκεῖνος εἶπεν βασιλεύς εἰμι τῶν ἰουδαίων",
+      "finnish_biblia": "Niin sanoivat Juudalaisten ylimmäiset papit Pilatukselle: älä kirjoita: Juudalaisten kuningas; vaan että hän on sanonut: minä olen Juudalaisten kuningas. ",
+      "swedish_karl_xii": "Tå sade Judarnas öfwerste Prester til Pilatum: Skrif icke, Judarnas Konung; vtan at han hafwer sagt: Jagh är Judarnas Konung.",
+      "king_james": "Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Respondit Pilatus: Quod scripsi, scripsi.",
+      "greek_textus_receptus": "ἀπεκρίθη ὁ πιλᾶτος ὅ γέγραφα γέγραφα",
+      "finnish_biblia": "Pilatus vastasi: mitä minä kirjoitin, sen minä kirjoitin. ",
+      "swedish_karl_xii": "Pilatus swarade: Hwad jagh hafwer skrifwit, thet hafwer jagh skrifwit.",
+      "king_james": "Pilate answered, What I have written I have written."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Milites ergo cum crucifixissent eum, acceperunt vestimenta ejus (et fecerunt quatuor partes, unicuique militi partem) et tunicam. Erat autem tunica inconsutilis, desuper contexta per totum.",
+      "greek_textus_receptus": "οἱ οὖν στρατιῶται ὅτε ἐσταύρωσαν τὸν ἰησοῦν ἔλαβον τὰ ἱμάτια αὐτοῦ καὶ ἐποίησαν τέσσαρα μέρη ἑκάστῳ στρατιώτῃ μέρος καὶ τὸν χιτῶνα ἦν δὲ ὁ χιτὼν ἄῤῥαφος, ἐκ τῶν ἄνωθεν ὑφαντὸς δι᾽ ὅλου",
+      "finnish_biblia": "Kuin siis sotamiehet olivat Jesuksen ristiinnaulinneet, ottivat he hänen vaatteensa (ja tekivät neljä osaa, kullekin sotamiehelle osan), ja hameen; mutta hame ei ollut ommeltu, vaan kokonansa ylhäältä (alaspäin) kudottu. ",
+      "swedish_karl_xii": "Tå nu krigsknechterna hade korsfäst Jesum, togo the hans kläder, och giorde fyra delar, en deel hwarjom krigsknecht; och kiortelen medh: men kiortelen war icke sömad, vtan wirckad, ifrån öfwerst och alt igenom.",
+      "king_james": "Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also *his* coat: now the coat was without seam, woven from the top throughout."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Dixerunt ergo ad invicem: Non scindamus eam, sed sortiamur de illa cujus sit. Ut Scriptura impleretur, dicens: Partiti sunt vestimenta mea sibi: et in vestem meam miserunt sortem. Et milites quidem hæc fecerunt.",
+      "greek_textus_receptus": "εἶπον οὖν πρὸς ἀλλήλους μὴ σχίσωμεν αὐτόν ἀλλὰ λάχωμεν περὶ αὐτοῦ τίνος ἔσται ἵνα ἡ γραφὴ πληρωθῇ ἡ λέγουσα διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον οἱ μὲν οὖν στρατιῶται ταῦτα ἐποίησαν",
+      "finnish_biblia": "Niin he sanoivat keskenänsä: älkäämme tätä rikkoko, vaan heittäkäämme tästä arpaa, kenenkä se pitää oleman: että Raamattu täytettäisiin, joka sanoo: he ovat minun vaatteeni itsellensä jakaneet ja ovat heittäneet minun hameestani arpaa. Ja sotamiehet tosin näin tekivät. ",
+      "swedish_karl_xii": "Tå sade the emellan sigh: Skärom honom icke sönder, vtan kastom lott om honom, hwem han skal tilhöra; at Skriften skulle warda fulkomnad, som säger: The hafwa bytt min kläder emellan sigh, och kastat lott på min kiortel. Och thetta giorde krigsknechterna.",
+      "king_james": "They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Stabant autem juxta crucem Jesu mater ejus, et soror matris ejus, Maria Cleophæ, et Maria Magdalene.",
+      "greek_textus_receptus": "εἱστήκεισαν δὲ παρὰ τῷ σταυρῷ τοῦ ἰησοῦ ἡ μήτηρ αὐτοῦ καὶ ἡ ἀδελφὴ τῆς μητρὸς αὐτοῦ μαρία ἡ τοῦ κλωπᾶ καὶ μαρία ἡ μαγδαληνή",
+      "finnish_biblia": "Mutta Jesuksen ristin tykönä seisoi hänen äitinsä ja hänen äitinsä sisar Maria, Kleopaan emäntä, ja Maria Magdalena. ",
+      "swedish_karl_xii": "Tå stodo widh Jesu kors, hans moder, och hans moders syster, Maria Cleophe hustru, och Maria Magdalena.",
+      "king_james": "Now there stood by the cross of Jesus his mother, and his mother's sister, Mary the *wife* of Cleophas, and Mary Magdalene."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Cum vidisset ergo Jesus matrem, et discipulum stantem, quem diligebat, dicit matri suæ: Mulier, ecce filius tuus.",
+      "greek_textus_receptus": "ἰησοῦς οὖν ἰδὼν τὴν μητέρα καὶ τὸν μαθητὴν παρεστῶτα ὃν ἠγάπα λέγει τῇ μητρί αὐτοῦ, γύναι ἰδοῦ ὁ υἱός σου",
+      "finnish_biblia": "Kuin siis Jesus näki äidin ja opetuslapsen siinä seisovan, jota hän rakasti, sanoi hän äidillensä: vaimo, katso sinun poikaas. ",
+      "swedish_karl_xii": "Och när Jesus fick see modrena, och Lärjungan, then han älskade, ther när ståndande, sade han til sina moder: Qwinna, sij, tin son.",
+      "king_james": "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Deinde dicit discipulo: Ecce mater tua. Et ex illa hora accepit eam discipulus in sua.",
+      "greek_textus_receptus": "εἶτα λέγει τῷ μαθητῇ ἰδού, ἡ μήτηρ σου καὶ ἀπ᾽ ἐκείνης τῆς ὥρας ἔλαβεν αὐτὴν ὁ μαθητὴς εἰς τὰ ἴδια",
+      "finnish_biblia": "Sitte sanoi hän opetuslapselle: katso sinun äitiäs. Ja siitä hetkestä otti opetuslapsi hänen tykönsä. ",
+      "swedish_karl_xii": "Sedan sade han til Lärjungan: Sij, tin moder. Och ifrå then tiden tog Lärjungen henne til sigh.",
+      "king_james": "Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own *home*."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Postea sciens Jesus quia omnia consummata sunt, ut consummaretur Scriptura, dixit: Sitio.",
+      "greek_textus_receptus": "μετὰ τοῦτο εἰδὼς ὁ ἰησοῦς ὅτι πάντα ἤδη τετέλεσται ἵνα τελειωθῇ ἡ γραφή λέγει διψῶ",
+      "finnish_biblia": "Sitte, kuin Jesus tiesi jo kaikki täytetyksi, ja että Raamattu täytettäisiin, sanoi hän: minä janoon. ",
+      "swedish_karl_xii": "Sedan efter Jesus wiste, at nu all ting woro fulkomnat, at Skriften skulle fulbordas, sade han: Migh törster.",
+      "king_james": "After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Vas ergo erat positum aceto plenum. Illi autem spongiam plenam aceto, hyssopo circumponentes, obtulerunt ori ejus.",
+      "greek_textus_receptus": "σκεῦος οὖν ἔκειτο ὄξους μεστόν οἱ δὲ, πλήσαντες σπόγγον ὄξους καὶ ὑσσώπῳ περιθέντες προσήνεγκαν αὐτοῦ τῷ στόματι",
+      "finnish_biblia": "Oli siis yksi astia pantu etikkaa täyteen, ja he täyttivät sienen etikalla ja panivat sen ympärille isoppia, ja panivat sen hänen suunsa eteen. ",
+      "swedish_karl_xii": "Tå stod ther ett käril, fult medh ätikio: och the vpfylte en swamp medh ätikio, och kringlade Jsop, och höllo thet honom för munnen.",
+      "king_james": "Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put *it* upon hyssop, and put *it* to his mouth."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Cum ergo accepisset Jesus acetum, dixit: Consummatum est. Et inclinato capite tradidit spiritum.",
+      "greek_textus_receptus": "ὅτε οὖν ἔλαβεν τὸ ὄξος ὁ ἰησοῦς εἶπεν τετέλεσται καὶ κλίνας τὴν κεφαλὴν παρέδωκεν τὸ πνεῦμα",
+      "finnish_biblia": "Kuin siis Jesus oli etikkaa ottanut, sanoi hän: se on täytetty! ja kallisti päänsä ja antoi henkensä. ",
+      "swedish_karl_xii": "Tå nu Jesus hade tagit ätikiona, sade han: Thet är fulkomnat; och bögde nedh hufwudet, och gaf vp andan.",
+      "king_james": "When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Judæi ergo (quoniam parasceve erat) ut non remanerent in cruce corpora sabbato (erat enim magnus dies ille sabbati), rogaverunt Pilatum ut frangerentur eorum crura, et tollerentur.",
+      "greek_textus_receptus": "οἱ οὖν ἰουδαῖοι ἵνα μὴ μείνῃ ἐπὶ τοῦ σταυροῦ τὰ σώματα ἐν τῷ σαββάτῳ ἐπεὶ παρασκευὴ ἦν ἦν γὰρ μεγάλη ἡ ἡμέρα ἐκείνου τοῦ σαββάτου ἠρώτησαν τὸν πιλᾶτον ἵνα κατεαγῶσιν αὐτῶν τὰ σκέλη καὶ ἀρθῶσιν",
+      "finnish_biblia": "Mutta että valmistuspäivä oli, ja ei ruumiit pitänyt ristissä oleman sabbatina, (sillä se sabbatin päivä oli suuri,) rukoilivat siis Juudalaiset Pilatusta, että heidän sääriluunsa piti rikottaman ja he otettaman alas. ",
+      "swedish_karl_xii": "Men efter thet war tilredelsedagen, at kropparna icke skulle blifwa qware på korßet öfwer Sabbathen: ty samma Sabbaths dagh war stoor, bådo Judarna Pilatum, at theras been skulle sönderslås, och the borttagas.",
+      "king_james": "The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and *that* they might be taken away."
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Venerunt ergo milites: et primi quidem fregerunt crura, et alterius, qui crucifixus est cum eo.",
+      "greek_textus_receptus": "ἦλθον οὖν οἱ στρατιῶται καὶ τοῦ μὲν πρώτου κατέαξαν τὰ σκέλη καὶ τοῦ ἄλλου τοῦ συσταυρωθέντος αὐτῷ",
+      "finnish_biblia": "Niin sotamiehet tulivat ja rikkoivat ensimmäisen luut ja toisen, joka hänen kanssansa oli ristiinnaulittu; ",
+      "swedish_karl_xii": "Tå kommo krigsknechterna, och sönderslogo thens förstas been, och thens andras, som war korsfäst medh honom.",
+      "king_james": "Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him."
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "Ad Jesum autem cum venissent, ut viderunt eum jam mortuum, non fregerunt ejus crura,",
+      "greek_textus_receptus": "ἐπὶ δὲ τὸν ἰησοῦν ἐλθόντες ὡς εἶδον αὐτὸν ἤδη τεθνηκότα οὐ κατέαξαν αὐτοῦ τὰ σκέλη",
+      "finnish_biblia": "Mutta kuin he tulivat Jesuksen tykö ja näkivät hänen jo kuolleeksi, niin ei he rikkoneet hänen luitansa; ",
+      "swedish_karl_xii": "När the kommo til Jesum, och sågo honom allaredo wara död, slogo the icke hans been sönder.",
+      "king_james": "But when they came to Jesus, and saw that he was dead already, they brake not his legs:"
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "sed unus militum lancea latus ejus aperuit, et continuo exivit sanguis et aqua.",
+      "greek_textus_receptus": "ἀλλ᾽ εἷς τῶν στρατιωτῶν λόγχῃ αὐτοῦ τὴν πλευρὰν ἔνυξεν καὶ εὐθὺς ἐξῆλθεν αἷμα καὶ ὕδωρ",
+      "finnish_biblia": "Vaan yksi sotamiehistä avasi hänen kylkensä keihäällä, josta kohta vuoti veri ja vesi. ",
+      "swedish_karl_xii": "Vtan en af krigsknechterna, stack vp hans sido medh ett spiut; och strax gick vth blodh, och watn.",
+      "king_james": "But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water."
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "Et qui vidit, testimonium perhibuit: et verum est testimonium ejus. Et ille scit quia vera dicit: ut et vos credatis.",
+      "greek_textus_receptus": "καὶ ὁ ἑωρακὼς μεμαρτύρηκεν καὶ ἀληθινὴ αὐτοῦ ἐστιν ἡ μαρτυρία κἀκεῖνος οἶδεν ὅτι ἀληθῆ λέγει ἵνα ὑμεῖς πιστεύσητε",
+      "finnish_biblia": "Ja joka tämän näki, hän on sen todistanut ja hänen todistuksensa on tosi, ja hän tietää totta sanovansa, että te myös uskoisitte. ",
+      "swedish_karl_xii": "Och then thetta såg, hafwer thet witnat, och hans witnesbyrd är sant; och han weet, at han säger sant, på thet J ock troo skolen.",
+      "king_james": "And he that saw *it* bare record, and his record is true: and he knoweth that he saith true, that ye might believe."
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "Facta sunt enim hæc ut Scriptura impleretur: Os non comminuetis ex eo.",
+      "greek_textus_receptus": "ἐγένετο γὰρ ταῦτα ἵνα ἡ γραφὴ πληρωθῇ ὀστοῦν οὐ συντριβήσεται αὐτοῦ",
+      "finnish_biblia": "Sillä nämät ovat tapahtuneet, että Raamattu täytettäisiin: ei teidän pidä luuta rikkoman hänessä. ",
+      "swedish_karl_xii": "Och skedde thetta, på thet Skriften skulle fulbordas: J skolen intet been sönderslå på honom.",
+      "king_james": "For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken."
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "Et iterum alia Scriptura dicit: Videbunt in quem transfixerunt.",
+      "greek_textus_receptus": "καὶ πάλιν ἑτέρα γραφὴ λέγει ὄψονται εἰς ὃν ἐξεκέντησαν",
+      "finnish_biblia": "Ja taas toinen kirjoitus sanoo: he saavat nähdä, ketä he ovat pistäneet. ",
+      "swedish_karl_xii": "Och åter säger een annor Skrift: The skola see, i hwem the stunget hafwa.",
+      "king_james": "And again another scripture saith, They shall look on him whom they pierced."
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "Post hæc autem rogavit Pilatum Joseph ab Arimathæa (eo quod esset discipulus Jesu, occultus autem propter metum Judæorum), ut tolleret corpus Jesu. Et permisit Pilatus. Venit ergo, et tulit corpus Jesu.",
+      "greek_textus_receptus": "μετὰ δὲ ταῦτα ἠρώτησεν τὸν πιλᾶτον ὁ ἰωσὴφ ὁ ἀπὸ Ἁριμαθαίας ὢν μαθητὴς τοῦ ἰησοῦ κεκρυμμένος δὲ διὰ τὸν φόβον τῶν ἰουδαίων ἵνα ἄρῃ τὸ σῶμα τοῦ ἰησοῦ καὶ ἐπέτρεψεν ὁ πιλᾶτος ἦλθεν οὖν καὶ ἦρεν τὸ σῶμα τοῦ ἰησοῦ",
+      "finnish_biblia": "Mutta sen jälkeen rukoili Pilatusta Joseph Arimatiasta, (joka oli Jesuksen opetuslapsi, vaan salaa Juudalaisten pelvon tähden), että hän olis saanut ottaa Jesuksen ruumiin; ja Pilatus salli sen. Niin hän tuli ja otti Jesuksen ruumiin. ",
+      "swedish_karl_xii": "Ther efter bad Pilatum Joseph af Arimathia, som war Jesu Lärjunge, doch lönligen, för Judarnas rädzlo skul, at han måtte taga Jesu lekamen: och Pilatus tilstadde thet: altså kom han, och tog Jesu lekamen.",
+      "king_james": "And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave *him* leave. He came therefore, and took the body of Jesus."
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": "Venit autem et Nicodemus, qui venerat ad Jesum nocte primum, ferens mixturam myrrhæ et aloës, quasi libras centum.",
+      "greek_textus_receptus": "ἦλθεν δὲ καὶ νικόδημος ὁ ἐλθὼν πρὸς τὸν ἰησοῦν νυκτὸς τὸ πρῶτον φέρων μίγμα σμύρνης καὶ ἀλόης ὡσεὶ λίτρας ἑκατόν",
+      "finnish_biblia": "Niin tuli myös Nikodemus, (joka oli ensin yöllä Jesuksen tykö tullut,) ja toi mirhamia ja aloeta sekoitettua, lähes sata naulaa, ",
+      "swedish_karl_xii": "Kom ock theslikes Nicodemus, som tilförene hade kommet til Jesum om nattena, och bar een bländning af Mirrham och Aloe, widh hundrade pund.",
+      "king_james": "And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound *weight*."
+    },
+    {
+      "verse": 40,
+      "latin_vulgate": "Acceperunt ergo corpus Jesu, et ligaverunt illud linteis cum aromatibus, sicut mos est Judæis sepelire.",
+      "greek_textus_receptus": "ἔλαβον οὖν τὸ σῶμα τοῦ ἰησοῦ καὶ ἔδησαν αὐτὸ ὀθονίοις μετὰ τῶν ἀρωμάτων καθὼς ἔθος ἐστὶν τοῖς ἰουδαίοις ἐνταφιάζειν",
+      "finnish_biblia": "Niin he ottivat Jesuksen ruumiin ja käärivät sen liinaiseen, hyvän-hajullisten yrttein kanssa, niinkuin Juudalaisten tapa on haudata. ",
+      "swedish_karl_xii": "Så togo the tå Jesu lekamen, och swepte thet i linkläder, medh wälluchtande krydder, såsom Judarna pläga begrafwa.",
+      "king_james": "Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury."
+    },
+    {
+      "verse": 41,
+      "latin_vulgate": "Erat autem in loco, ubi crucifixus est, hortus: et in horto monumentum novum, in quo nondum quisquam positus erat.",
+      "greek_textus_receptus": "ἦν δὲ ἐν τῷ τόπῳ ὅπου ἐσταυρώθη κῆπος καὶ ἐν τῷ κήπῳ μνημεῖον καινὸν ἐν ᾧ οὐδέπω οὐδεὶς ἐτέθη",
+      "finnish_biblia": "Mutta siinä paikassa, jossa hän ristiinnaulittiin, oli yrttitarha, ja yrttitarhassa uusi hauta, johonka ei vielä kenkään ollut pantu: ",
+      "swedish_karl_xii": "Och war på thet rumet ther han korsfäst war, en örtagård, och i örtagården een nyy graf, ther ännu ingen hade warit vthi lagd:",
+      "king_james": "Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid."
+    },
+    {
+      "verse": 42,
+      "latin_vulgate": "Ibi ergo propter parasceven Judæorum, quia juxta erat monumentum, posuerunt Jesum.",
+      "greek_textus_receptus": "ἐκεῖ οὖν διὰ τὴν παρασκευὴν τῶν ἰουδαίων ὅτι ἐγγὺς ἦν τὸ μνημεῖον ἔθηκαν τὸν ἰησοῦν",
+      "finnish_biblia": "Siihen he panivat Jesuksen Juudalaisten valmistuspäivän tähden, että se hauta oli läsnä.   ",
+      "swedish_karl_xii": "Ther lade the tå Jesum, för Judarnas tilredelsedag skul, efter grafwen war när.",
+      "king_james": "There laid they Jesus therefore because of the Jews' preparation *day*; for the sepulchre was nigh at hand."
+    }
+  ]
+}

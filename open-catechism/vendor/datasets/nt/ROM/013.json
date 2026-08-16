@@ -1,0 +1,123 @@
+{
+  "book_id": "ROM",
+  "latin_name": "Epistula ad Romanos",
+  "greek_name": "Πρὸς Ῥωμαίους",
+  "finnish_name": "Kirje roomalaisille",
+  "swedish_name": "S. Pauli Epistel Til the Romare",
+  "english_name": "The Epistle of Paul the Apostle to the Romans",
+  "chapter": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Omnis anima potestatibus sublimioribus subdita sit: non est enim potestas nisi a Deo: quæ autem sunt, a Deo ordinatæ sunt.",
+      "greek_textus_receptus": "πᾶσα ψυχὴ ἐξουσίαις ὑπερεχούσαις ὑποτασσέσθω οὐ γάρ ἐστιν ἐξουσία εἰ μὴ ἀπὸ θεοῦ αἱ δὲ οὖσαι ἐξουσίαι ὑπὸ τοῦ θεοῦ τεταγμέναι εἰσίν",
+      "finnish_biblia": "Jokainen olkoon esivallalle, jolla valta on, alamainen; sillä ei esivalta ole muutoin kuin Jumalalta: ne vallat, jotka ovat, Jumalalta ne säädetyt ovat. ",
+      "swedish_karl_xii": "Hwar och en ware Öfwerhetene som wäldet hafwer vnderdånig: ty ingen Öfwerhet är, vtan af Gudi: then Öfwerhet som är, hon är skickad af Gudi.",
+      "king_james": "Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Itaque qui resistit potestati, Dei ordinationi resistit. Qui autem resistunt, ipsi sibi damnationem acquirunt:",
+      "greek_textus_receptus": "ὥστε ὁ ἀντιτασσόμενος τῇ ἐξουσίᾳ τῇ τοῦ θεοῦ διαταγῇ ἀνθέστηκεν οἱ δὲ ἀνθεστηκότες ἑαυτοῖς κρίμα λήψονται",
+      "finnish_biblia": "Sentähden jokainen, joka itsensä esivaltaa vastaan asettaa, se on Jumalan säätyä vastaan; mutta ne, jotka vastaan ovat, saavat tuomion päällensä. ",
+      "swedish_karl_xii": "Therföre, ho sigh sätter emot Öfwerheten, han sätter sigh emot Gudz skickelse: men the som sättia sigh ther emot, the skola få en doom öfwer sigh.",
+      "king_james": "Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "nam principes non sunt timori boni operis, sed mali. Vis autem non timere potestatem? Bonum fac: et habebis laudem ex illa:",
+      "greek_textus_receptus": "οἱ γὰρ ἄρχοντες οὐκ εἰσὶν φόβος τῶν ἀγαθῶν ἔργων, ἀλλὰ τῶν κακῶν θέλεις δὲ μὴ φοβεῖσθαι τὴν ἐξουσίαν τὸ ἀγαθὸν ποίει καὶ ἕξεις ἔπαινον ἐξ αὐτῆς",
+      "finnish_biblia": "Sillä ne, jotka vallan päällä ovat, ei ole hyvintekiöille, vaan pahoille pelvoksi. Ellet tahdo esivaltaa peljätä, niin tee hyvää, ja sinä saat häneltä kiitoksen. ",
+      "swedish_karl_xii": "Ty the som wäldet hafwa, äro icke them til räddhoga som wäl giöra; vtan them som illa giöra. Wilt tu icke fruchta för Öfwerheten, så giör thet godt är, så får tu prijs af honom:",
+      "king_james": "For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Dei enim minister est tibi in bonum. Si autem malum feceris, time: non enim sine causa gladium portat. Dei enim minister est: vindex in iram ei qui malum agit.",
+      "greek_textus_receptus": "θεοῦ γὰρ διάκονός ἐστιν σοὶ εἰς τὸ ἀγαθόν ἐὰν δὲ τὸ κακὸν ποιῇς φοβοῦ οὐ γὰρ εἰκῇ τὴν μάχαιραν φορεῖ θεοῦ γὰρ διάκονός ἐστιν, ἔκδικος εἰς ὀργὴν τῷ τὸ κακὸν πράσσοντι",
+      "finnish_biblia": "Sillä hän on Jumalan palvelia sinun hyväkses. Vaan jos sinä pahaa teet, niin pelkää; sillä ei hän miekkaa hukkaan kanna; sillä hän on Jumalan palvelia ja kostaja sille rangaistukseksi, joka pahaa tekee. ",
+      "swedish_karl_xii": "Ty han är Gudz tienare, tigh til godo. Men giör tu thet ondt är, så må tu rädas: ty han bär icke swärdet förgäfwes; vtan han är Gudz tienare, en hämnare honom til straff som illa giör.",
+      "king_james": "For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to *execute* wrath upon him that doeth evil."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Ideo necessitate subditi estote non solum propter iram, sed etiam propter conscientiam.",
+      "greek_textus_receptus": "διὸ ἀνάγκη ὑποτάσσεσθαι οὐ μόνον διὰ τὴν ὀργὴν ἀλλὰ καὶ διὰ τὴν συνείδησιν",
+      "finnish_biblia": "Sentähden tulee alamainen olla, ei ainoastaan vihan tähden, vaan myös omantunnon tähden. ",
+      "swedish_karl_xii": "Förthenskul måste man wara vnderdånig, icke allenast för straffet skul, vtan ock för samwetet skul:",
+      "king_james": "Wherefore *ye* must needs be subject, not only for wrath, but also for conscience sake."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Ideo enim et tributa præstatis: ministri enim Dei sunt, in hoc ipsum servientes.",
+      "greek_textus_receptus": "διὰ τοῦτο γὰρ καὶ φόρους τελεῖτε λειτουργοὶ γὰρ θεοῦ εἰσιν εἰς αὐτὸ τοῦτο προσκαρτεροῦντες",
+      "finnish_biblia": "Sillä sentähden te myös veron maksatte; sillä he ovat Jumalan palveliat, joiden senkaltaisista tulee lukua pitää. ",
+      "swedish_karl_xii": "Therföre måsten J ock gifwa skatt; ty the äro Gudz tienare, som sådant skola skiöta.",
+      "king_james": "For for this cause pay ye tribute also: for they are God's ministers, attending continually upon this very thing."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Reddite ergo omnibus debita: cui tribulatum, tributum: cui vectigal, vectigal: cui timorem, timorem: cui honorem, honorem.",
+      "greek_textus_receptus": "ἀπόδοτε οὖν πᾶσιν τὰς ὀφειλάς, τῷ τὸν φόρον τὸν φόρον τῷ τὸ τέλος τὸ τέλος τῷ τὸν φόβον τὸν φόβον τῷ τὴν τιμὴν τὴν τιμήν",
+      "finnish_biblia": "Niin antakaat siis kaikille, mitä te velvolliset olette: sille vero, jolle vero tulee; sille tulli, jolle tulli tulee; sille pelko, jolle pelko tulee; sille kunnia, jolle kunnia tulee. ",
+      "swedish_karl_xii": "Så gifwer nu hwarjom och enom thet J plichtige ären: them skatt, som skatt bör; them toll, som toll bör; them rädzl, som rädzl tilhörer; them heder, som heder tilhörer.",
+      "king_james": "Render therefore to all their dues: tribute to whom tribute *is due*; custom to whom custom; fear to whom fear; honour to whom honour."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Nemini quidquam debeatis, nisi ut invicem diligatis: qui enim diligit proximum, legem implevit.",
+      "greek_textus_receptus": "μηδενὶ μηδὲν ὀφείλετε εἰ μὴ τὸ ἀγαπᾶν ἀλλήλους ὁ γὰρ ἀγαπῶν τὸν ἕτερον νόμον πεπλήρωκεν",
+      "finnish_biblia": "Älkäät kellenkään velvolliset olko, vaan ainoastaan että te toinen toistanne rakastatte; sillä joka toista rakastaa, se on täyttänyt lain. ",
+      "swedish_karl_xii": "Warer ingom något skyldige, vtan at J älskens inbyrdes: ty then som älskar then andra, han hafwer fulbordat lagen.",
+      "king_james": "Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Nam: non adultaberis: non occides: non furaberis: non falsum testimonium dices: non concupisces: et si quod est aliud mandatum, in hoc verbo instauratur: diliges proximum tuum sicut teipsum.",
+      "greek_textus_receptus": "τὸ γὰρ οὐ μοιχεύσεις οὐ φονεύσεις οὐ κλέψεις οὐ ψευδομαρτυρήσεις, οὐκ ἐπιθυμήσεις καὶ εἴ τις ἑτέρα ἐντολή ἐν τούτῳ τῷ λόγῳ ἀνακεφαλαιοῦται, ἐν τῷ ἀγαπήσεις τὸν πλησίον σου ὡς ἑαυτόν",
+      "finnish_biblia": "Sillä se: ei sinun pidä huorin tekemän; ei sinun pidä tappaman; ei sinun pidä varastaman; ei sinun pidä väärää todistusta sanoman; ei sinun pidä himoitseman, ja mitä muuta käskyä on, se tähän sanaan suljetaan: sinun pitää rakastaman lähimmäistäs niinkuin itsiäs. ",
+      "swedish_karl_xii": "Ty thet som sagt är: Tu skalt icke giöra hoor: Tu skalt icke dräpa: Tu skalt icke stiäla: Tu skalt icke bära falskt witne: Tu skalt icke begära; och annat sådant budh, thet beslutes i thetta ordet: Tu skalt älska tin nästa som tigh sielf.",
+      "king_james": "For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if *there be* any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Dilectio proximi malum non operatur. Plenitudo ergo legis est dilectio.",
+      "greek_textus_receptus": "ἡ ἀγάπη τῷ πλησίον κακὸν οὐκ ἐργάζεται πλήρωμα οὖν νόμου ἡ ἀγάπη",
+      "finnish_biblia": "Ei rakkaus tee lähimmäiselle mitään pahaa; sentähden on rakkaus lain täyttämys. ",
+      "swedish_karl_xii": "Kärleken giör sin nästa intet ondt. Så är nu kärleken lagsens fulbordan.",
+      "king_james": "Love worketh no ill to his neighbour: therefore love *is* the fulfilling of the law."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et hoc scientes tempus: quia hora est jam nos de somno surgere. Nunc enim propior est nostra salus, quam cum credidimus.",
+      "greek_textus_receptus": "καὶ τοῦτο εἰδότες τὸν καιρόν ὅτι ὥρα ἡμᾶς ἤδη ἐξ ὕπνου ἐγερθῆναι νῦν γὰρ ἐγγύτερον ἡμῶν ἡ σωτηρία ἢ ὅτε ἐπιστεύσαμεν",
+      "finnish_biblia": "Ja että me sen tiedämme, nimittäin ajan, että nyt on aika unesta nousta; sillä meidän autuutemme on nyt lähempänä kuin silloin, kuin me uskoimme. ",
+      "swedish_karl_xii": "Och medan wij sådant wete, nemliga tiden, at nu är stunden til at vpstå af sömnen, efter wår salighet är nu närmer, än tå wij troddet.",
+      "king_james": "And that, knowing the time, that now *it is* high time to awake out of sleep: for now *is* our salvation nearer than when we believed."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Nox præcessit, dies autem appropinquavit. Abjiciamus ergo opera tenebrarum, et induamur arma lucis.",
+      "greek_textus_receptus": "ἡ νὺξ προέκοψεν ἡ δὲ ἡμέρα ἤγγικεν ἀποθώμεθα οὖν τὰ ἔργα τοῦ σκότους καί ἐνδυσώμεθα τὰ ὅπλα τοῦ φωτός",
+      "finnish_biblia": "Yö on kulunut ja päivä on tullut; sentähden hyljätkäämme pimeyden työt ja pukekaamme meitämme valkeuden sota-aseilla. ",
+      "swedish_karl_xii": "Natten är framfaren, och dagen är kommen: therföre läter oß bortkasta mörksens gierningar, och ikläda oß liusens wapn.",
+      "king_james": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Sicut in die honeste ambulemus: non in comessationibus, et ebrietatibus, non in cubilibus, et impudicitiis, non in contentione, et æmulatione:",
+      "greek_textus_receptus": "ὡς ἐν ἡμέρᾳ εὐσχημόνως περιπατήσωμεν μὴ κώμοις καὶ μέθαις μὴ κοίταις καὶ ἀσελγείαις μὴ ἔριδι καὶ ζήλῳ",
+      "finnish_biblia": "Vaeltakaamme soveliaasti, niinkuin päivällä: ei ylönsyömisessä, eikä juopumisessa, ei kammioissa, eikä haureudessa, ei riidassa ja kateudessa, ",
+      "swedish_karl_xii": "Läter oß ährliga wandra, såsom om dagen: icke i fråtserij, och dryckenskap; icke i kamrar och okyskhet; icke i kijf och nijt:",
+      "king_james": "Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "sed induamini Dominum Jesum Christum, et carnis curam ne feceritis in desideriis.",
+      "greek_textus_receptus": "ἀλλ᾽ ἐνδύσασθε τὸν κύριον ἰησοῦν χριστόν καὶ τῆς σαρκὸς πρόνοιαν μὴ ποιεῖσθε εἰς ἐπιθυμίας",
+      "finnish_biblia": "Vaan pukekaat päällenne Herra Jesus Kristus ja älkäät holhoko ruumistannen haureuteen.   ",
+      "swedish_karl_xii": "Vtan ikläder eder Herran Jesum Christum; och fordrer kötet, doch icke til kätia.",
+      "king_james": "But put ye on the Lord Jesus Christ, and make not provision for the flesh, to *fulfil* the lusts *thereof*."
+    }
+  ]
+}

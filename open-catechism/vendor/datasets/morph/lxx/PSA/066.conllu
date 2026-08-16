@@ -1,0 +1,109 @@
+# ref = PSA.66.1
+1	Εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+2	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	τέλος	τέλος	_	_	_	_	_	Strong=G5056|Align=exact
+4	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+5	ὕμνοις	ὕμνος	_	_	_	_	_	Strong=G5215|Align=positional
+6	ψαλμὸς	ψαλμός	_	_	_	_	_	Strong=G5568|Align=exact
+7	τῷ	_	_	_	_	_	_	Align=unmatched
+8	Δαυείδ	_	_	_	_	_	_	Align=unmatched,source_extra:1
+
+# ref = PSA.66.2
+1	Ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+2	θεὸς	θεός	_	_	_	_	_	Strong=G2316|Align=exact
+3	οἰκτειρήσαι	οἰκτείρω	_	_	_	_	_	Align=positional
+4	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	εὐλογήσαι	εὐλογέω	_	_	_	_	_	Strong=G2127|Align=positional
+7	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+8	ἐπιφάναι	ἐπιφαίνω	_	_	_	_	_	Strong=G2014|Align=positional
+9	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	πρόσωπον	πρόσωπον	_	_	_	_	_	Strong=G4383|Align=exact
+11	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+12	ἐφ᾽	ἐπί	_	_	_	_	_	Strong=G1909|Align=positional
+13	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+14	διάψαλμα	διάψαλμα	_	_	_	_	_	Align=exact
+
+# ref = PSA.66.3
+1	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	γνῶναι	γινώσκω	_	_	_	_	_	Strong=G1097|Align=positional
+3	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+4	τῇ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	γῇ	γῆ	_	_	_	_	_	Strong=G1093|Align=exact
+6	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	ὁδόν	ὁδός	_	_	_	_	_	Strong=G3598|Align=positional
+8	σου	σοῦ	_	_	_	_	_	Align=exact
+9	καὶ	_	_	_	_	_	_	Align=unmatched
+10	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+11	πᾶσιν	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+12	ἔθνεσιν	ἔθνος	_	_	_	_	_	Strong=G1484|Align=positional
+13	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	σωτήριόν	σωτήριος	_	_	_	_	_	Align=positional
+15	σου	σοῦ	_	_	_	_	_	Align=exact
+
+# ref = PSA.66.4
+1	ἐξομολογησάσθωσαν	_	_	_	_	_	_	Align=unmatched
+2	λαοί	_	_	_	_	_	_	Align=unmatched
+3	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+4	θεός	θεός	_	_	_	_	_	Strong=G2316|Align=exact
+5	ἐξομολογησάσθωσαν	_	_	_	_	_	_	Align=unmatched
+6	λαοὶ	_	_	_	_	_	_	Align=unmatched
+7	πάντες	_	_	_	_	_	_	Align=unmatched,source_extra:7
+
+# ref = PSA.66.5
+1	εὐφρανθήτωσαν	εὐφραίνω	_	_	_	_	_	Strong=G2165|Align=positional
+2	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+3	ἀγαλλιάσθωσαν	ἀγαλλιάω	_	_	_	_	_	Strong=G0021|Align=positional
+4	ἔθνη	ἔθνος	_	_	_	_	_	Strong=G1484|Align=positional
+5	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+6	κρινεῖς	κρίνω	_	_	_	_	_	Strong=G2919|Align=positional
+7	λαοὺς	λαός	_	_	_	_	_	Strong=G2992|Align=positional
+8	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+9	εὐθύτητι	εὐθύτης	_	_	_	_	_	Strong=G2118|Align=positional
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	ἔθνη	ἔθνος	_	_	_	_	_	Strong=G1484|Align=positional
+12	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+13	τῇ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	γῇ	γῆ	_	_	_	_	_	Strong=G1093|Align=exact
+15	ὁδηγήσεις	ὁδηγέω	_	_	_	_	_	Strong=G3594|Align=positional
+16	διάψαλμα	διάψαλμα	_	_	_	_	_	Align=exact
+
+# ref = PSA.66.6
+1	ἐξομολογησάσθωσάν	ἐξομολογέω	_	_	_	_	_	Strong=G1843|Align=positional
+2	σοι	σοί	_	_	_	_	_	Align=exact
+3	λαοί	λαός	_	_	_	_	_	Strong=G2992|Align=positional
+4	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+5	θεός	θεός	_	_	_	_	_	Strong=G2316|Align=exact
+6	ἐξομολογησάσθωσάν	ἐξομολογέω	_	_	_	_	_	Strong=G1843|Align=positional
+7	σοι	σοί	_	_	_	_	_	Align=exact
+8	λαοὶ	λαός	_	_	_	_	_	Strong=G2992|Align=positional
+9	πάντες	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+
+# ref = PSA.66.7
+1	γῆ	γῆ	_	_	_	_	_	Strong=G1093|Align=exact
+2	ἔδωκεν	δίδωμι	_	_	_	_	_	Strong=G1325|Align=positional
+3	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	καρπὸν	καρπός	_	_	_	_	_	Strong=G2590|Align=positional
+5	αὐτῆς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+6	εὐλογήσαι	εὐλογέω	_	_	_	_	_	Strong=G2127|Align=positional
+7	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+8	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+9	θεὸς	θεός	_	_	_	_	_	Strong=G2316|Align=exact
+10	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+11	θεὸς	θεός	_	_	_	_	_	Strong=G2316|Align=exact
+12	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+
+# ref = PSA.66.8
+1	εὐλογήσαι	εὐλογέω	_	_	_	_	_	Strong=G2127|Align=positional
+2	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+3	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+4	θεός	θεός	_	_	_	_	_	Strong=G2316|Align=exact
+5	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+6	φοβηθήτωσαν	φοβέω	_	_	_	_	_	Strong=G5399|Align=positional
+7	αὐτὸν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+8	πάντα	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+9	τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	πέρατα	πέρας	_	_	_	_	_	Strong=G4009|Align=positional
+11	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	γῆς	γῆ	_	_	_	_	_	Strong=G1093|Align=positional
+

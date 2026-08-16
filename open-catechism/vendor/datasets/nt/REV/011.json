@@ -1,0 +1,163 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et datus est mihi calamus similis virgæ, et dictum est mihi: Surge, et metire templum Dei, et altare, et adorantes in eo:",
+      "greek_textus_receptus": "καὶ ἐδόθη μοι κάλαμος ὅμοιος ῥάβδῳ λέγων ἕγειραι καὶ μέτρησον τὸν ναὸν τοῦ θεοῦ καὶ τὸ θυσιαστήριον καὶ τοὺς προσκυνοῦντας ἐν αὐτῷ",
+      "finnish_biblia": "Ja minulle annettiin ruoko niinkuin sauva, ja enkeli seisoi ja sanoi: nouse ja mittaa Jumalan templi ja alttari, ja ne, jotka siinä rukoilevat. ",
+      "swedish_karl_xii": "Och migh wardt fången een röö såsom en käpp, och migh wardt sagt: Statt vp, och mäl Gudz tempel och altare, och the som tilbedia ther inne.",
+      "king_james": "And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "atrium autem, quod est foris templum, ejice foras, et ne metiaris illud: quoniam datum est gentibus, et civitatem sanctam calcabunt mensibus quadraginta duobus:",
+      "greek_textus_receptus": "καὶ τὴν αὐλὴν τὴν ἔσωθεν τοῦ ναοῦ ἔκβαλε ἔξω καὶ μὴ αὐτὴν μετρήσῃς ὅτι ἐδόθη τοῖς ἔθνεσιν καὶ τὴν πόλιν τὴν ἁγίαν πατήσουσιν μῆνας τεσσαράκοντα δύο",
+      "finnish_biblia": "Mutta syökse sisälmäinen kuori ulos templistä, ja älä sitä mittaa; sillä se on pakanoille annettu, ja he tallaavat pyhää kaupunkia kaksiviidettäkymmentä kuukautta. ",
+      "swedish_karl_xii": "Men then inra choren af templet kasta vth, och mäl honom intet: ty han är gifwen Hedningomen; och the skola förtrampa then helga staden, i twå och fyratijo månader.",
+      "king_james": "But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty *and* two months."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "et dabo duobus testibus meis, et prophetabunt diebus mille ducentis sexaginta, amicti saccis.",
+      "greek_textus_receptus": "καὶ δώσω τοῖς δυσὶν μάρτυσίν μου καὶ προφητεύσουσιν ἡμέρας χιλίας διακοσίας ἑξήκοντα περιβεβλημένοι σάκκους",
+      "finnish_biblia": "Ja minä annan kahdelle minun todistajalleni, ja heidän pitää tuhannen kaksisataa ja kuusikymmentä päivää propheteeraaman, säkeissä puetettuna. ",
+      "swedish_karl_xii": "Och jagh skal gifwa tw minom witnom, och the skola prophetera i tusende twhundrade och sextijo dagar, klädde i säcker.",
+      "king_james": "And I will give *power* unto my two witnesses, and they shall prophesy a thousand two hundred *and* threescore days, clothed in sackcloth."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Hi sunt duæ olivæ et duo candelabra in conspectu Domini terræ stantes.",
+      "greek_textus_receptus": "οὗτοί εἰσιν αἱ δύο ἐλαῖαι καὶ δύο λυχνίαι αἱ ἐνώπιον τοῦ φεοῦ τῆς γῆς ἑστῶσαι",
+      "finnish_biblia": "Nämät ovat kaksi öljypuuta ja kaksi kynttiläjalkaa, jotka maan Jumalan edessä seisovat. ",
+      "swedish_karl_xii": "Thesse äro tw oljoträ, och tw bloß, ståndande för jorderikes Gudh.",
+      "king_james": "These are the two olive trees, and the two candlesticks standing before the God of the earth."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et si quis voluerit eos nocere, ignis exiet de ore eorum, et devorabit inimicos eorum: et si quis voluerit eos lædere, sic oportet eum occidi.",
+      "greek_textus_receptus": "καὶ εἴ τις αὐτοὺς θέλῃ ἀδικῆσαι πῦρ ἐκπορεύεται ἐκ τοῦ στόματος αὐτῶν καὶ κατεσθίει τοὺς ἐχθροὺς αὐτῶν καὶ εἴ τις αὐτοὺς θέλῃ ἀδικῆσαι οὕτως δεῖ αὐτὸν ἀποκτανθῆναι",
+      "finnish_biblia": "Ja jos joku heitä tahtoo vahingoittaa, niin tuli käy ulos heidän suustansa, ja syö heidän vihollisensa; ja jos joku tahtoo heitä vahingoittaa, niin se tapetaan. ",
+      "swedish_karl_xii": "Och hwar någor wille giöra them skada, så går elden vthaf theras mun, och förtärer theras fiendar; och hwar någor wille giöra them ondt så måste han dödas.",
+      "king_james": "And if any man will hurt them, fire proceedeth out of their mouth, and devoureth their enemies: and if any man will hurt them, he must in this manner be killed."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Hi habent potestatem claudendi cælum, ne pluat diebus prophetiæ ipsorum: et potestatem habent super aquas convertendi eas in sanguinem, et percutere terram omni plaga quotiescumque voluerint.",
+      "greek_textus_receptus": "οὗτοι ἔχουσιν ἐξουσίαν κλεῖσαι τὸν οὐρανόν ἵνα μὴ βρέχῃ ὑετὸς ἐν ἡμέραις αὐτῶν τῆς προφητείας καὶ ἐξουσίαν ἔχουσιν ἐπὶ τῶν ὑδάτων στρέφειν αὐτὰ εἰς αἷμα καὶ πατάξαι τὴν γῆν πάσῃ πληγῇ ὁσάκις ἐὰν θελήσωσιν",
+      "finnish_biblia": "Näillä on valta taivasta sulkea, ettei niinä päivinä, joina he propheteeraavat, sataman pidä; ja heillä on valta vesiä vereksi muuttaa, ja löydä maata kaikkinaisella vitsauksella, niin usein kuin he tahtovat. ",
+      "swedish_karl_xii": "Thesse hafwa macht til at igenlyckia himmelen, at intet regnar vthi the dagar tå the prophetera; och hafwa macht öfwer watnet, at förwända thet i blodh, och slå jordena medh allahanda plågo, så ofta the wilja.",
+      "king_james": "These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to smite the earth with all plagues, as often as they will."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et cum finierint testimonium suum, bestia, quæ ascendit de abysso, faciet adversum eos bellum, et vincet illos, et occidet eos.",
+      "greek_textus_receptus": "καὶ ὅταν τελέσωσιν τὴν μαρτυρίαν αὐτῶν τὸ θηρίον τὸ ἀναβαῖνον ἐκ τῆς ἀβύσσου ποιήσει πόλεμον μετ᾽ αὐτῶν καὶ νικήσει αὐτοὺς καὶ ἀποκτενεῖ αὐτούς",
+      "finnish_biblia": "Ja koska he todistuksensa lopettaneet ovat, niin peto, joka astui ylös syvyydestä, on heidän kanssansa sotiva, ja heitä voittava ja tappava heidät. ",
+      "swedish_karl_xii": "Och tå the hafwa lychtat sitt witnesbyrd, skal thet willdiuret, som vpstiger af afgrunden, hålla ena strijd medh them, och skal öfwerwinna them, och döda them.",
+      "king_james": "And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Et corpora eorum jacebunt in plateis civitatis magnæ, quæ vocatur spiritualiter Sodoma, et Ægyptus, ubi et Dominus eorum crucifixus est.",
+      "greek_textus_receptus": "καὶ τὰ πτῶματα αὐτῶν ἐπὶ τῆς πλατείας πόλεως τῆς μεγάλης ἥτις καλεῖται πνευματικῶς σόδομα καὶ αἴγυπτος ὅπου καὶ ὁ κύριος ἡμῶν ἐσταυρώθη",
+      "finnish_biblia": "Ja heidän ruumiinsa pitää makaavan sen suuren kaupungin kaduilla, joka hengellisesti kutsutaan Sodoma ja Egypti, kussa myös meidän Herramme ristiinnaulittu on. ",
+      "swedish_karl_xii": "Och theras lekamen skola blifwa liggiande på gatorna i then stora staden, som heter andeliga Sodoma och Egypten, ther wår Herre korsfäst är.",
+      "king_james": "And their dead bodies *shall lie* in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Et videbunt de tribubus, et populis, et linguis, et gentibus corpora eorum per tres dies et dimidium: et corpora eorum non sinent poni in monumentis:",
+      "greek_textus_receptus": "καὶ βλέψουσιν ἐκ τῶν λαῶν καὶ φυλῶν καὶ γλωσσῶν καὶ ἐθνῶν τὰ πτώματα αὐτῶν ἡμέρας τρεῖς καὶ ἥμισυ καὶ τὰ πτῶματα αὐτῶν οὐκ ἀφήσουσιν τεθῆναι εἰς μνῆματα",
+      "finnish_biblia": "Ja muutamat sukukunnista, ja kansoista, ja kielistä, ja pakanoista pitää näkemän heidän ruumiinsa kolme päivää ja puolen, ja ei he salli heidän ruumiitansa haudattaa. ",
+      "swedish_karl_xii": "Och skola någre af folcken och slächterna, och tungomålen, och af Hedningarna, see theras lekamen i tre dagar och en half, och skola icke wilja tilstädia theras lekamen läggias i grafwer.",
+      "king_james": "And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "et inhabitantes terram gaudebunt super illos, et jucundabuntur: et munera mittent invicem, quoniam hi duo prophetæ cruciaverunt eos, qui habitabant super terram.",
+      "greek_textus_receptus": "καὶ οἱ κατοικοῦντες ἐπὶ τῆς γῆς χάρουσιν ἐπ᾽ αὐτοῖς καὶ εὐφρανθήσονται καὶ δῶρα πέμψουσιν ἀλλήλοις ὅτι οὗτοι οἱ δύο προφῆται ἐβασάνισαν τοὺς κατοικοῦντας ἐπὶ τῆς γῆς",
+      "finnish_biblia": "Ja jotka maan päällä asuvat, ne iloitsevat heistä, ja riemuitsevat, ja lahjoja keskenänsä lähettelevät, sillä nämät kaksi prophetaa ahdistelivat niitä, jotka maan päällä asuivat. ",
+      "swedish_karl_xii": "Och the på jordene boo, skola frögda sigh öfwer them, och skola glädias, och sända hwar androm gåfwor: ty thesse twå Propheter twingade them som boo på jordene.",
+      "king_james": "And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et post dies tres et dimidium, spiritus vitæ a Deo intravit in eos. Et steterunt super pedes suos, et timor magnus cecidit super eos qui viderunt eos.",
+      "greek_textus_receptus": "καὶ μετὰ τὰς τρεῖς ἡμέρας καὶ ἥμισυ πνεῦμα ζωῆς ἐκ τοῦ θεοῦ εἰσῆλθεν ἐπ᾽ αὐτούς καὶ ἔστησαν ἐπὶ τοὺς πόδας αὐτῶν καὶ φόβος μέγας ἔπεσεν ἐπὶ τοὺς θεωροῦντας αὐτούς",
+      "finnish_biblia": "Ja kolmen päivän perästä ja puolen meni Jumalalta elämän henki heihin: ja he seisoivat jaloillansa, ja suuri pelko tuli niiden päälle, jotka heidät näkivät. ",
+      "swedish_karl_xii": "Och efter tre dagar och en half, kom lifsens Ande af Gudi vthi them, och the stodo på sina fötter; och een stoor förskräckelse föll på them som sågo them.",
+      "king_james": "And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Et audierunt vocem magnam de cælo, dicentem eis: Ascendite huc. Et ascenderunt in cælum in nube: et viderunt illos inimici eorum.",
+      "greek_textus_receptus": "καὶ ἤκουσαν φωνὴν μεγάλην ἐκ τοῦ οὐρανοῦ λέγουσαν αὐτοῖς ἀνάβητε ὧδε καὶ ἀνέβησαν εἰς τὸν οὐρανὸν ἐν τῇ νεφέλῃ καὶ ἐθεώρησαν αὐτοὺς οἱ ἐχθροὶ αὐτῶν",
+      "finnish_biblia": "Ja he kuulivat suuren äänen taivaasta sanovan heille: astukaat tänne. Ja he astuivat taivaasen pilvessä, ja heidän vihollisensa näkivät heidät. ",
+      "swedish_karl_xii": "Och the hörde een högh röst af himmelen, säija til them: Stiger hijt vp. Och the stego vp i himmelen vthi een skyy, och theras owänner sågo them.",
+      "king_james": "And they heard a great voice from heaven saying unto them, Come up hither. And they ascended up to heaven in a cloud; and their enemies beheld them."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Et in illa hora factus est terræmotus magnus, et decima pars civitatis cecidit: et occisa sunt in terræmotu nomina hominum septem millia: et reliqui in timorem sunt missi, et dederunt gloriam Deo cæli.",
+      "greek_textus_receptus": "καὶ ἐν ἐκείνῃ τῇ ὥρᾳ ἐγένετο σεισμὸς μέγας καὶ τὸ δέκατον τῆς πόλεως ἔπεσεν καὶ ἀπεκτάνθησαν ἐν τῷ σεισμῷ ὀνόματα ἀνθρώπων χιλιάδες ἑπτά καὶ οἱ λοιποὶ ἔμφοβοι ἐγένοντο καὶ ἔδωκαν δόξαν τῷ θεῷ τοῦ οὐρανοῦ",
+      "finnish_biblia": "Ja sillä hetkellä tapahtui suuri maanjäristys, ja kymmenes osa kaupungista lankesi maahan. Ja siinä maanjäristyksessä tapettiin seitsemäntuhannen ihmisten nimi, ja ne muut hämmästyivät ja antoivat kunnian taivaan Jumalalle. ",
+      "swedish_karl_xii": "Och i samma stundene wardt en stoor jordbäfning, och tijonde delen af staden föll nedh: och blefwo i jordbäfningen dödade siutusend menniskiors namn; och the andra wordo förfärade, och gåfwo Gudi i himmelen prijs.",
+      "king_james": "And the same hour was there a great earthquake, and the tenth part of the city fell, and in the earthquake were slain of men seven thousand: and the remnant were affrighted, and gave glory to the God of heaven."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Væ secundum abiit: et ecce væ tertium veniet cito.",
+      "greek_textus_receptus": "ἡ οὐαὶ ἡ δευτέρα ἀπῆλθεν ἰδού ἡ οὐαὶ ἡ τρίτη ἔρχεται ταχύ",
+      "finnish_biblia": "Toinen voi on mennyt edes, ja katso, kolmas voi pian tulee. ",
+      "swedish_karl_xii": "Thet andra wee gick öfwer; och sij, thet tredie wee kommer snart.",
+      "king_james": "The second woe is past; *and*, behold, the third woe cometh quickly."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Et septimus angelus tuba cecinit: et factæ sunt voces magnæ in cælo dicentes: Factum est regnum hujus mundi, Domini nostri et Christi ejus, et regnabit in sæcula sæculorum. Amen.",
+      "greek_textus_receptus": "καὶ ὁ ἕβδομος ἄγγελος ἐσάλπισεν καὶ ἐγένοντο φωναὶ μεγάλαι ἐν τῷ οὐρανῷ λέγουσαι ἐγένοντο αἱ βασιλεῖαι τοῦ κόσμου τοῦ κυρίου ἡμῶν καὶ τοῦ χριστοῦ αὐτοῦ καὶ βασιλεύσει εἰς τοὺς αἰῶνας τῶν αἰώνων",
+      "finnish_biblia": "Ja seitsemäs enkeli soitti basunalla, ja suuret äänet kuuluivat taivaassa, sanoen: maailman valtakunnat ovat meidän Herrallemme ja hänen Kristuksellensa tulleet, ja hän on hallitseva ijankaikkisesta ijankaikkiseen. ",
+      "swedish_karl_xii": "Och then siunde Ängelen basunade, och i himmelen hördes höga röster, the ther sade: Thenna werldenes rike äro wordne wår Herras och hans Christs; och han skal regnera af ewighet til ewighet.",
+      "king_james": "And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become *the kingdoms* of our Lord, and of his Christ; and he shall reign for ever and ever."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Et viginti quatuor seniores, qui in conspectu Dei sedent in sedibus suis, ceciderunt in facies suas, et adoraverunt Deum, dicentes:",
+      "greek_textus_receptus": "καὶ οἱ εἴκοσι καὶ τέσσαρες πρεσβύτεροι οἱ ἐνώπιον τοῦ θεοῦ καθήμενοι ἐπὶ τοὺς θρόνους αὐτῶν ἔπεσαν ἐπὶ τὰ πρόσωπα αὐτῶν καὶ προσεκύνησαν τῷ θεῷ",
+      "finnish_biblia": "Ja neljäkolmattakymmentä vanhinta, jotka Jumalan edessä istuimillansa istuvat, lankesivat kasvoillensa ja kumarsivat Jumalaa, ",
+      "swedish_karl_xii": "Och the fyra och tiugu Äldste som för Gudi på sina stolar såto, föllo på sin ansichte, och tilbådo Gudh;",
+      "king_james": "And the four and twenty elders, which sat before God on their seats, fell upon their faces, and worshipped God,"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Gratias agimus tibi, Domine Deus omnipotens, qui es, et qui eras, et qui venturus es: quia accepisti virtutem tuam magnam, et regnasti.",
+      "greek_textus_receptus": "λέγοντες εὐχαριστοῦμέν σοι κύριε ὁ θεὸς ὁ παντοκράτωρ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος ὅτι εἴληφας τὴν δύναμίν σου τὴν μεγάλην καὶ ἐβασίλευσας",
+      "finnish_biblia": "Sanoen: me kiitämme sinua Herra, kaikkivaltias Jumala, joka olet, ja olit, ja tuleva olet: että sinä olet saanut sinun suuren voimas, ja hallinnut; ",
+      "swedish_karl_xii": "Och sade: Wij tackom tigh, Herre alsmächtig Gudh, tu som äst, och warit hafwer, och tilkommande äst: ty tu hafwer tagit tina stora kraft, och regnerar;",
+      "king_james": "Saying, We give thee thanks, O Lord God Almighty, which art, and wast, and art to come; because thou hast taken to thee thy great power, and hast reigned."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Et iratæ sunt gentes, et advenit ira tua et tempus mortuorum judicari, et reddere mercedem servis tuis prophetis, et sanctis, et timentibus nomen tuum pusillis et magnis, et exterminandi eos qui corruperunt terram.",
+      "greek_textus_receptus": "καὶ τὰ ἔθνη ὠργίσθησαν καὶ ἦλθεν ἡ ὀργή σου καὶ ὁ καιρὸς τῶν νεκρῶν κριθῆναι καὶ δοῦναι τὸν μισθὸν τοῖς δούλοις σου τοῖς προφήταις καὶ τοῖς ἁγίοις καὶ τοῖς φοβουμένοις τὸ ὄνομά σου τοῖς μικροῖς καὶ τοῖς μεγάλοις καὶ διαφθεῖραι τοὺς διαφθείροντας τὴν γῆν",
+      "finnish_biblia": "Ja pakanat ovat vihastuneet, ja sinun vihas on tullut, ja kuolleitten aika heitä tuomittaa, ja sinun palveliais prophetain palkka maksettaa, ja pyhäin, ja niiden, jotka sinun nimeäs pelkäävät, pienten ja suurten, ja kadottaa niitä, jotka maan turmelleet ovat. ",
+      "swedish_karl_xii": "Och Hedningarna äro wrede wordne: och tin wrede är kommen, och the dödas tijd, at the skola dömas, och at tu skalt löna tina tienare Propheterna, och Helgonen, och them som fruchta titt namn, små och stora, och förderfwa them som jordena förderfwat hafwa.",
+      "king_james": "And the nations were angry, and thy wrath is come, and the time of the dead, that they should be judged, and that thou shouldest give reward unto thy servants the prophets, and to the saints, and them that fear thy name, small and great; and shouldest destroy them which destroy the earth."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Et apertum est templum Dei in cælo: et visa est arca testamenti ejus in templo ejus, et facta sunt fulgura, et voces, et terræmotus, et grando magna.",
+      "greek_textus_receptus": "καὶ ἠνοίγη ὁ ναὸς τοῦ θεοῦ ἐν τῷ οὐρανῷ καὶ ὤφθη ἡ κιβωτὸς τῆς διαθήκης αὐτοῦ ἐν τῷ ναῷ αὐτοῦ καὶ ἐγένοντο ἀστραπαὶ καὶ φωναὶ καὶ βρονταὶ καὶ σεισμὸς καὶ χάλαζα μεγάλη",
+      "finnish_biblia": "Ja Jumalan templi aukeni taivaassa, ja hänen testamenttinsa arkki nähtiin hänen templissänsä; ja tapahtuivat leimaukset, ja äänet ja pitkäiset, ja maanjäristykset, ja suuret rakeet.   ",
+      "swedish_karl_xii": "Och Gudz tempel wardt vplåtet i himmelen, och hans testaments ark wardt sedd i hans tempel, och ther skedde liungeld och röster, och tordöner, och jordbäfning, och stort hagel.",
+      "king_james": "And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail."
+    }
+  ]
+}

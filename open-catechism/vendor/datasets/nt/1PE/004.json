@@ -1,0 +1,163 @@
+{
+  "book_id": "1PE",
+  "latin_name": "Epistula I Petri",
+  "greek_name": "Πέτρου Α",
+  "finnish_name": "Ensimmäinen Pietarin kirje",
+  "swedish_name": "S. Petri Then Förra Epistel",
+  "english_name": "The First Epistle General of Peter",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Christo igitur passo in carne, et vos eadem cogitatione armamini: quia qui passus est in carne, desiit a peccatis:",
+      "greek_textus_receptus": "χριστοῦ οὖν παθόντος ὑπὲρ ἡμῶν σαρκὶ καὶ ὑμεῖς τὴν αὐτὴν ἔννοιαν ὁπλίσασθε ὅτι ὁ παθὼν ἕν σαρκὶ πέπαυται ἁμαρτίας",
+      "finnish_biblia": "Että siis Kristus lihassa meidän edestämme on kärsinyt, niin te myös varustakaat teitänne sillä mielellä; sillä joka lihassa kärsii, se lakkaa synnistä, ",
+      "swedish_karl_xii": "Medan nu Christus lidit hafwer i kötet för oß, så skolen J ock wäpna eder medh thet samma sinnet: ty then ther lider i kötet, han wänder åter af synden:",
+      "king_james": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "ut jam non desideriis hominum, sed voluntati Dei, quod reliquum est in carne vivat temporis.",
+      "greek_textus_receptus": "εἰς τὸ μηκέτι ἀνθρώπων ἐπιθυμίαις ἀλλὰ θελήματι θεοῦ τὸν ἐπίλοιπον ἐν σαρκὶ βιῶσαι χρόνον",
+      "finnish_biblia": "Ettei hän enään sitä aikaa, jonka hän lihassa edespäin on, ihmisten himon jälkeen, vaan Jumalan tahdon jälkeen eläisi. ",
+      "swedish_karl_xii": "På thet han then tiden som tilbaka är i kötet, icke lefwa skal efter menniskio lusta, vtan efter Gudz wilja.",
+      "king_james": "That he no longer should live the rest of *his* time in the flesh to the lusts of men, but to the will of God."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Sufficit enim præteritum tempus ad voluntatem gentium consummandam his qui ambulaverunt in luxuriis, desideriis, vinolentiis, comessationibus, potationibus, et illicitis idolorum cultibus.",
+      "greek_textus_receptus": "ἀρκετὸς γὰρ ἡμῖν ὁ παρεληλυθὼς χρόνος τοῦ βίου τὸ θέλημα τῶν ἐθνῶν κατεργάσασθαι πεπορευμένους ἐν ἀσελγείαις ἐπιθυμίαις οἰνοφλυγίαις κώμοις πότοις καὶ ἀθεμίτοις εἰδωλολατρείαις",
+      "finnish_biblia": "Sillä kyllä siinä on, että me edesmenneen ajan elämästä kulutimme pakanain mielen jälkeen, vaeltaissamme irstaudessa, himoissa, juopumisessa, ylönsuömisessä, ylönjuomisessa ja hirmuisissa epäjumalan palveluksissa. ",
+      "swedish_karl_xii": "Ty thet är nogh, at wij i förliden tijd hafwe wårt lefwerne förslitet efter Hedningarnas wilja, tå wij wandrade i lösachtighet, i begärelse, i dryckenskap, i fråtserij, i swalg, och i grufweliga afgudadyrkan.",
+      "king_james": "For the time past of *our* life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "In quo admirantur non concurrentibus vobis in eamdem luxuriæ confusionem, blasphemantes.",
+      "greek_textus_receptus": "ἐν ᾧ ξενίζονται μὴ συντρεχόντων ὑμῶν εἰς τὴν αὐτὴν τῆς ἀσωτίας ἀνάχυσιν βλασφημοῦντες",
+      "finnish_biblia": "He oudoksuvat, ettette heidän kanssansa juokse samaan säädyttömän hekuman menoon, ja pilkkaavat. ",
+      "swedish_karl_xii": "Och thet synes them sälsynt wara, at J icke löpen medh them vthi samma slema oskickeliga wäsende, och försmäden.",
+      "king_james": "Wherein they think it strange that ye run not with *them* to the same excess of riot, speaking evil of *you*:"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Qui reddent rationem ei qui paratus est judicare vivos et mortuos.",
+      "greek_textus_receptus": "οἳ ἀποδώσουσιν λόγον τῷ ἑτοίμως ἔχοντι κρῖναι ζῶντας καὶ νεκρούς",
+      "finnish_biblia": "Niiden pitää luvun tekemän hänelle, joka on valmis tuomitsemaan eläviä ja kuolleita. ",
+      "swedish_karl_xii": "Hwilke skola giöra räkenskap honom som redo är döma lefwande och döda.",
+      "king_james": "Who shall give account to him that is ready to judge the quick and the dead."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Propter hoc enim et mortuis evangelizatum est: ut judicentur quidem secundum homines in carne, vivant autem secundum Deum in spiritu.",
+      "greek_textus_receptus": "εἰς τοῦτο γὰρ καὶ νεκροῖς εὐηγγελίσθη ἵνα κριθῶσιν μὲν κατὰ ἀνθρώπους σαρκὶ ζῶσιν δὲ κατὰ θεὸν πνεύματι",
+      "finnish_biblia": "Sillä sitä varten evankeliumi kuolleillekin saarnattu on, että he kyllä tuomittaisiin ihmisten jälkeen lihassa, mutta Jumalan jälkeen eläisivät hengessä. ",
+      "swedish_karl_xii": "Ty ther til är ock Evangelium predikat för the döda, at the skola dömde warda efter menniskior, i kötet; men i Andanom lefwa Gudi.",
+      "king_james": "For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Omnium autem finis appropinquavit. Estote itaque prudentes, et vigilate in orationibus.",
+      "greek_textus_receptus": "πάντων δὲ τὸ τέλος ἤγγικεν σωφρονήσατε οὖν καὶ νήψατε εἰς τὰς προσευχάς",
+      "finnish_biblia": "Mutta nyt kaikkein loppu lähestyy. Niin olkaat siis raittiit ja valppaat rukoilemaan. ",
+      "swedish_karl_xii": "Men nu tilstundar änden på all ting: så warer nu nöchtre, och wakande til at bedia.",
+      "king_james": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Ante omnia autem, mutuam in vobismetipsis caritatem continuam habentes: quia caritas operit multitudinem peccatorum.",
+      "greek_textus_receptus": "πρὸ πάντων δὲ τὴν εἰς ἑαυτοὺς ἀγάπην ἐκτενῆ ἔχοντες ὅτι ἀγάπη καλύψει πλῆθος ἁμαρτιῶν",
+      "finnish_biblia": "Mutta ennen kaikkia pitäkäät keskenänne palava rakkaus; sillä rakkaus peittää paljon rikoksia. ",
+      "swedish_karl_xii": "Men öfwer all ting hafwer ju en brinnande kärlek inbyrdes: ty kärleken skyler ock all öfwerträdelse.",
+      "king_james": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Hospitales invicem sine murmuratione.",
+      "greek_textus_receptus": "φιλόξενοι εἰς ἀλλήλους ἄνευ γογγυσμῶν",
+      "finnish_biblia": "Olkaat vierasten holhoojat keskenänne napisematta, ",
+      "swedish_karl_xii": "Warer inbyrdes hwar annars herbergare, vthan alt knorr.",
+      "king_james": "Use hospitality one to another without grudging."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Unusquisque, sicut accepit gratiam, in alterutrum illam administrantes, sicut boni dispensatores multiformis gratiæ Dei.",
+      "greek_textus_receptus": "ἕκαστος καθὼς ἔλαβεν χάρισμα εἰς ἑαυτοὺς αὐτὸ διακονοῦντες ὡς καλοὶ οἰκονόμοι ποικίλης χάριτος θεοῦ",
+      "finnish_biblia": "Ja palvelkaat toinen toistanne, jokainen sillä lahjalla, minkä hän saanut on, niinkuin hyvät Jumalan moninaisen armon huoneenhaltiat. ",
+      "swedish_karl_xii": "Och warer tienstachtige inbyrdes, hwar och en medh then gåfwo som han hafwer fått, såsom gode then margfalleliga Gudz nådz skaffare.",
+      "king_james": "As every man hath received the gift, *even so* minister the same one to another, as good stewards of the manifold grace of God."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Si quis loquitur, quasi sermones Dei: si quis ministrat, tamquam ex virtute, quam administrat Deus: ut in omnibus honorificetur Deus per Jesum Christum: cui est gloria et imperium in sæcula sæculorum. Amen.",
+      "greek_textus_receptus": "εἴ τις λαλεῖ ὡς λόγια θεοῦ εἴ τις διακονεῖ ὡς ἐξ ἰσχύος ἡς χορηγεῖ ὁ θεός ἵνα ἐν πᾶσιν δοξάζηται ὁ θεὸς διὰ ἰησοῦ χριστοῦ ᾧ ἐστιν ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν",
+      "finnish_biblia": "Jos joku puhuu, hän puhukaan niinkuin Jumalan sanoja: jos jollakin on joku virka, hän tehkään niinkuin siitä voimasta, jonka Jumala antaa, että Jumala kaikissa Jesuksen Kristuksen kautta kunnioitettaisiin, jolla on kunnia ja valta ijankaikkisesta ijankaikkiseen, amen! ",
+      "swedish_karl_xii": "Om någor talar, han tale såsom Gudz ord: om någor hafwer ett ämbete, han tiene såsom af then förmågo som Gudh gifwer; på thet Gudh blifwer ährad i all ting, genom Jesum Christum, hwilkom ware ähra och wåld ewinnerliga: Amen.",
+      "king_james": "If any man speak, *let him speak* as the oracles of God; if any man minister, *let him do it* as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Carissimi, nolite peregrinari in fervore, qui ad tentationem vobis fit, quasi novi aliquid vobis contingat:",
+      "greek_textus_receptus": "ἀγαπητοί μὴ ξενίζεσθε τῇ ἐν ὑμῖν πυρώσει πρὸς πειρασμὸν ὑμῖν γινομένῃ ὡς ξένου ὑμῖν συμβαίνοντος",
+      "finnish_biblia": "Minun rakkaani! älkäät oudoksuko sitä hellettä, joka teille tapahtuu, että teitä koetellaan, niinkuin teille jotakin outoa tapahtuis; ",
+      "swedish_karl_xii": "Mjne käreste, förvndrer eder icke på then heta som eder wederfars (then eder wederfars, at J skolen försökte warda) såsom eder hände något nytt.",
+      "king_james": "Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "sed communicantes Christi passionibus gaudete, ut et in revelatione gloriæ ejus gaudeatis exsultantes.",
+      "greek_textus_receptus": "ἀλλὰ καθὸ κοινωνεῖτε τοῖς τοῦ χριστοῦ παθήμασιν χαίρετε ἵνα καὶ ἐν τῇ ἀποκαλύψει τῆς δόξης αὐτοῦ χαρῆτε ἀγαλλιώμενοι",
+      "finnish_biblia": "Vaan iloitkaat, että te Kristuksen kanssa kärsitte, että tekin ajallansa hänen kunniansa ilmestyksessä iloitsisitte ja riemuitsisitte. ",
+      "swedish_karl_xii": "Vtan glädiens hällre, at J liden medh Christo: på thet J ock frögdas och glädias mågen vthi hans härlighets vppenbarelse.",
+      "king_james": "But rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Si exprobramini in nomine Christi, beati eritis: quoniam quod est honoris, gloriæ, et virtutis Dei, et qui est ejus Spiritus, super vos requiescit.",
+      "greek_textus_receptus": "εἰ ὀνειδίζεσθε ἐν ὀνόματι χριστοῦ μακάριοι ὅτι τὸ τῆς δόξης καὶ τὸ τοῦ θεοῦ πνεῦμα ἐφ᾽ ὑμᾶς ἀναπαύεται κατὰ μὲν αὐτοὺς βλασφημεῖται κατὰ δὲ ὑμᾶς δοξάζεται",
+      "finnish_biblia": "Autuaat olette te, jos teitä Kristuksen nimen tähden pilkataan; sillä se Henki, joka on kunnian ja Jumalan Henki, lepää teidän päällänne: heiltä hän pilkataan, vaan teiltä hän kunnioitetaan. ",
+      "swedish_karl_xii": "Salige ären J, om J för Christi namn skul blifwen försmädde: ty Anden som är härlighetenes och Gudz Ande, hwilas på eder: när them blifwer han försmädd; men när eder beprisad.",
+      "king_james": "If ye be reproached for the name of Christ, happy *are ye*; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Nemo autem vestrum patiatur ut homicida, aut fur, aut maledicus, aut alienorum appetitor.",
+      "greek_textus_receptus": "μὴ γάρ τις ὑμῶν πασχέτω ὡς φονεὺς ἢ κλέπτης ἢ κακοποιὸς ἢ ὡς ἀλλοτριοεπίσκοπος",
+      "finnish_biblia": "Älkään yksikään teistä kärsikö niinkuin murhaaja eli varas, taikka pahantekiä, eli niinkuin se, joka toisen virkaan rupee; ",
+      "swedish_karl_xii": "Jngen ibland eder lide såsom en mordare, tiuf, ilgierningsman, eller som then ther träder in i ens annars ämbete.",
+      "king_james": "But let none of you suffer as a murderer, or *as* a thief, or *as* an evildoer, or as a busybody in other men's matters."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Si autem ut christianus, non erubescat: glorificet autem Deum in isto nomine:",
+      "greek_textus_receptus": "εἰ δὲ ὡς χριστιανός μὴ αἰσχυνέσθω δοξαζέτω δὲ τὸν θεὸν ἐν τῷ μέρει τούτῳ",
+      "finnish_biblia": "Mutta jos hän kärsii niinkuin kristitty, älköön hävetkö, vaan kiittäkään Jumalaa sen osan tähden. ",
+      "swedish_karl_xii": "Men lider han såsom en Christen, skämme sigh intet; vtan prise Gudh för then delen.",
+      "king_james": "Yet if *any man suffer* as a Christian, let him not be ashamed; but let him glorify God on this behalf."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "quoniam tempus est ut incipiat judicium a domo Dei. Si autem primum a nobis, quis finis eorum, qui non credunt Dei Evangelio?",
+      "greek_textus_receptus": "ὅτι ὁ καιρὸς τοῦ ἄρξασθαι τὸ κρίμα ἀπὸ τοῦ οἴκου τοῦ θεοῦ εἰ δὲ πρῶτον ἀφ᾽ ἡμῶν τί τὸ τέλος τῶν ἀπειθούντων τῷ τοῦ θεοῦ εὐαγγελίῳ",
+      "finnish_biblia": "Sillä aika on, että tuomion pitää Jumalan huoneesta alkaman. Mutta jos se ensin meistä alkaa, minkäs lopun ne saavat, jotka ei Jumalan evankeliumia usko? ",
+      "swedish_karl_xii": "Ty tiden är, at domen skal begynnas på Gudz huus: begynnes thet på oß, hwad blifwer tå theras ändalycht som icke troo Gudz Evangelio?",
+      "king_james": "For the time *is come* that judgment must begin at the house of God: and if *it* first *begin* at us, what shall the end *be* of them that obey not the gospel of God?"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "et si justus vix salvabitur, impius et peccator ubi parebunt?",
+      "greek_textus_receptus": "καὶ εἰ ὁ δίκαιος μόλις σῴζεται ὁ ἀσεβὴς καὶ ἁμαρτωλὸς ποῦ φανεῖται",
+      "finnish_biblia": "Ja jos hurskas tuskalla vapaaksi tulee, kussa sitte jumalatoin ja syntinen näkyy? ",
+      "swedish_karl_xii": "Och blifwer then rättferdige medh platz salig, hwar blifwer tå then ogudachtige, och syndaren?",
+      "king_james": "And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?"
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Itaque et hi, qui patiuntur secundum voluntatem Dei, fideli Creatori commendent animas suas in benefactis.",
+      "greek_textus_receptus": "ὥστε καὶ οἱ πάσχοντες κατὰ τὸ θέλημα τοῦ θεοῦ ὡς πιστῷ κτίστῃ παρατιθέσθωσαν τὰς ψυχὰς ἑαυτῶν ἐν ἀγαθοποιΐᾳ",
+      "finnish_biblia": "Sentähden ne, jotka Jumalan tahdon jälkeen kärsivät, antakaan sielunsa niinkuin uskolliselle Luojalle hyvissä töissä.   ",
+      "swedish_karl_xii": "Therföre, the ther lida efter Gudz wilja, the skola befalla honom sina siälar, såsom enom trofastom skapare, medh goda gierningar.",
+      "king_james": "Wherefore let them that suffer according to the will of God commit the keeping of their souls *to him* in well doing, as unto a faithful Creator."
+    }
+  ]
+}

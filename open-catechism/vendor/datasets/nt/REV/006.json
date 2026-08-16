@@ -1,0 +1,147 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et vidi quod aperuisset Agnus unum de septem sigillis, et audivi unum de quatuor animalibus, dicens tamquam vocem tonitrui: Veni, et vide.",
+      "greek_textus_receptus": "καὶ εἶδον ὅτε ἤνοιξεν τὸ ἀρνίον μίαν ἐκ τῶν σφραγίδων καὶ ἤκουσα ἑνὸς ἐκ τῶν τεσσάρων ζῴων λέγοντος ὡς φωνὴς βροντῆς ἕρχου καὶ βλέπε",
+      "finnish_biblia": "Ja minä näin, kuin Karitsa ensimäisen sinetin avasi, ja minä kuulin yhden neljästä eläimestä sanovan, niinkuin pitkäisen jylinän: tule ja katso! ",
+      "swedish_karl_xii": "Och jagh såg, at Lambet vpbröt ett af insiglen; och jagh hörde ett af the fyra diuren säija, såsom medh toordöns röst: Kom, och se.",
+      "king_james": "And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et vidi: et ecce equus albus, et qui sedebat super illum, habebat arcum, et data est ei corona, et exivit vincens ut vinceret.",
+      "greek_textus_receptus": "καὶ εἶδον καὶ ἰδού ἵππος λευκός καὶ ὁ καθήμενος ἐπ᾽ αὐτῷ ἔχων τόξον καὶ ἐδόθη αὐτῷ στέφανος καὶ ἐξῆλθεν νικῶν καὶ ἵνα νικήσῃ",
+      "finnish_biblia": "Ja minä näin, ja katso, valkia orhi; ja se, joka sen päällä istui, piti joutsea, ja hänelle annettiin kruunu, ja hän läksi voittamaan ja saamaan voittoa. ",
+      "swedish_karl_xii": "Och jagh såg, och sij, en hwijt häst, och then ther på satt, hade en boga; och honom wardt gifwin een crona; och han foor vth til at winna, och få seger.",
+      "king_james": "And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et cum aperuisset sigillum secundum, audivi secundum animal, dicens: Veni, et vide.",
+      "greek_textus_receptus": "καὶ ὅτε ἤνοιξεν τὴν δευτέραν σφραγῖδα ἤκουσα τοῦ δευτέρου ζῴου λέγοντος ἕρχου καὶ βλέπε",
+      "finnish_biblia": "Ja kuin hän toisen sinetin avasi, kuulin minä toisen eläimen sanovan: tule ja katso! ",
+      "swedish_karl_xii": "Och tå thet vpbröt thet andra insiglet, hörde jagh thet andra diuret säija: Kom, och se.",
+      "king_james": "And when he had opened the second seal, I heard the second beast say, Come and see."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Et exivit alius equus rufus: et qui sedebat super illum, datum est ei ut sumeret pacem de terra, et ut invicem se interficiant, et datus est ei gladius magnus.",
+      "greek_textus_receptus": "καὶ ἐξῆλθεν ἄλλος ἵππος πυῤῥός καὶ τῷ καθημένῳ ἐπ᾽ αὐτῷ ἐδόθη αὐτῷ λαβεῖν τὴν εἰρήνην ἀπὸ τῆς γῆς καὶ ἵνα ἀλλήλους σφάξωσιν καὶ ἐδόθη αὐτῷ μάχαιρα μεγάλη",
+      "finnish_biblia": "Ja ruskia orhi meni ulos; ja sille, joka sen päällä istui, annettiin rauha maasta ottaa pois, että heidän piti keskenänsä toinen toisensa tappaman; ja hänelle oli suuri miekka annettu. ",
+      "swedish_karl_xii": "Och ther vthgick en annar häst, rödh, och honom som ther på satt, wardt gifwit at han skulle borttaga friden af jordene, och at the skulle slå sigh ihiäl inbyrdes; och honom wardt gifwit ett stort swärd.",
+      "king_james": "And there went out another horse *that was* red: and *power* was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et cum aperuisset sigillum tertium, audivi tertium animal, dicens: Veni, et vide. Et ecce equus niger: et qui sedebat super illum, habebat stateram in manu sua.",
+      "greek_textus_receptus": "καὶ ὅτε ἤνοιξεν τὴν τρίτην σφραγῖδα ἤκουσα τοῦ τρίτου ζῴου λέγοντος ἕρχου καὶ βλέπε καὶ εἶδον καὶ ἰδού ἵππος μέλας καὶ ὁ καθήμενος ἐπ᾽ αὐτῷ ἔχων ζυγὸν ἐν τῇ χειρὶ αὐτοῦ",
+      "finnish_biblia": "Ja kuin hän kolmannen sinetin avasi, kuulin minä kolmannen eläimen sanovan: tule ja katso! Ja minä näin, ja katso, musta orhi; ja sillä, joka sen päällä istui, oli vaaka kädessä. ",
+      "swedish_karl_xii": "Oc tå thet vpbröt thet tredie insiglet, hörde jagh thet tredie diuret säija: Kom, och se. Och jagh såg, och sij, en swart häst, och then ther satt på honom, hade ena wågskål i sine hand.",
+      "king_james": "And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Et audivi tamquam vocem in medio quatuor animalium dicentium: Bilibris tritici denario et tres bilibres hordei denario, et vinum, et oleum ne læseris.",
+      "greek_textus_receptus": "καὶ ἤκουσα φωνὴν ἐν μέσῳ τῶν τεσσάρων ζῴων λέγουσαν χοῖνιξ σίτου δηναρίου καὶ τρεῖς χοίνικες κριθῆς δηναρίου καὶ τὸ ἔλαιον καὶ τὸν οἶνον μὴ ἀδικήσῃς",
+      "finnish_biblia": "Ja minä kuulin äänen neljän eläimen keskeltä sanovan: mitta nisuja yhteen penninkiin ja kolme mittaa ohria yhteen penninkiin, ja älä viinaa eikä öljyä vahingoita. ",
+      "swedish_karl_xii": "Och jagh hörde ena röst mitt ibland the fyra diur, säijandes: Ett mått hwete om en penning, och try mått biugg om en penning; och oljone och winet giör ingen skada.",
+      "king_james": "And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and *see* thou hurt not the oil and the wine."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et cum aperuisset sigillum quartum, audivi vocem quarti animalis dicentis: Veni, et vide.",
+      "greek_textus_receptus": "καὶ ὅτε ἤνοιξεν τὴν σφραγῖδα τὴν τετάρτην ἤκουσα φωνὴν τοῦ τετάρτου ζῴου λέγουσαν ἕρχου καὶ βλέπε",
+      "finnish_biblia": "Ja kuin hän avasi neljännen sinetin, kuulin minä neljännen eläimen äänen sanovan: tule ja katso! ",
+      "swedish_karl_xii": "Och tå thet vpbröt thet fierde insiglet, hörde jagh thes fierde diursens röst säija: Kom, och se.",
+      "king_james": "And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Et ecce equus pallidus: et qui sedebat super eum, nomen illi Mors, et infernus sequebatur eum, et data est illi potestas super quatuor partes terræ, interficere gladio, fame, et morte, et bestiis terræ.",
+      "greek_textus_receptus": "καὶ εἶδον καὶ ἰδού ἵππος χλωρός καὶ ὁ καθήμενος ἐπάνω αὐτοῦ ὄνομα αὐτῷ ὁ θάνατος καὶ ὁ ᾅδης ἀκολούθει μετ᾽ αὐτοῦ καὶ ἐδόθη αὐτοῖς ἐξουσία ἀποκτεῖναι ἐπὶ τὸ τέταρτον τῆς γῆς ἐν ῥομφαίᾳ καὶ ἐν λιμῷ καὶ ἐν θανάτῳ καὶ ὑπὸ τῶν θηρίων τῆς γῆς",
+      "finnish_biblia": "Ja minä näin, ja katso, hiirenkarvainen orhi, ja joka sen päällä istui, sen nimi oli kuolema; ja helvetti noudatti häntä. Ja hänelle annettiin voima tappaa neljättä osaa maan päältä miekalla ja nälällä, ja surmalla ja pedoilla maan päällä. ",
+      "swedish_karl_xii": "Och jagh såg, och sij, en black häst, och then som på honom satt, hans namn war döden; och helwete fölgde honom efter: och them wardt macht gifwin öfwer fierde parten på jordene, at döda medh swärd, och medh hunger, och medh döden af the wildiur på jordene äro.",
+      "king_james": "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Et cum aperuisset sigillum quintum, vidi subtus altare animas interfectorum propter verbum Dei, et propter testimonium, quod habebant:",
+      "greek_textus_receptus": "καὶ ὅτε ἤνοιξεν τὴν πέμπτην σφραγῖδα εἶδον ὑποκάτω τοῦ θυσιαστηρίου τὰς ψυχὰς τῶν ἐσφαγμένων διὰ τὸν λόγον τοῦ θεοῦ καὶ διὰ τὴν μαρτυρίαν ἣν εἶχον",
+      "finnish_biblia": "Ja kuin hän viidennen sinetin avasi, näin minä alttarin alla niiden sielut, jotka Jumalan sanan tähden tapetut olivat ja sen todistuksen tähden, joka heillä oli. ",
+      "swedish_karl_xii": "Och tå thet vpbröt thet femte insiglet, såg jagh vnder Altaret, theras siälar som dödade woro för Gudz ordz skul, och för thet witnesbyrd skul, som the hade:",
+      "king_james": "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "et clamabant voce magna, dicentes: Usquequo Domine (sanctus et verus), non judicas, et non vindicas sanguinem nostrum de iis qui habitant in terra?",
+      "greek_textus_receptus": "καὶ ἔκραζον φωνῇ μεγάλῃ λέγοντες ἕως πότε ὁ δεσπότης ὁ ἅγιος καὶ ὁ ἀληθινός οὐ κρίνεις καὶ ἐκδικεῖς τὸ αἷμα ἡμῶν ἀπὸ τῶν κατοικούντων ἐπὶ τῆς γῆς",
+      "finnish_biblia": "Ja he huusivat suurella äänellä sanoen: sinä pyhä ja totinen Herra! kuinka kauvan et sinä tuomitse ja meidän vertamme kosta niille, jotka maan päällä asuvat? ",
+      "swedish_karl_xii": "Och the ropade medh höga röst, och sade: Herre, tu som äst helig och sanferdig, huru länge dömer tu icke, och hämnas icke wårt blodh på them som boo på jordene?",
+      "king_james": "And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et datæ sunt illis singulæ stolæ albæ: et dictum est illis ut requiescerent adhuc tempus modicum donec compleantur conservi eorum, et fratres eorum, qui interficiendi sunt sicut et illi.",
+      "greek_textus_receptus": "καὶ ἐδόθησαν ἑκάστοις στολαὶ λευκαὶ καὶ ἐῤῥέθη αὐτοῖς ἵνα ἀναπαύσωνται ἔτι χρόνον μικρόν ἕως οὗ πληρωσονται καὶ οἱ σύνδουλοι αὐτῶν καὶ οἱ ἀδελφοὶ αὐτῶν οἱ μέλλοντες ἀποκτείνεσθαι ὡς καὶ αὐτοί",
+      "finnish_biblia": "Ja kullekin heistä annettiin valkia vaate ja sanottiin heille, että heidän piti vielä vähän aikaa lepäämän, siihenasti kuin heidän kanssapalveliainsa ja veljeinsä luku täytetyksi tulis, jotka piti tapettaman niinkuin hekin. ",
+      "swedish_karl_xii": "Och them wardt gifwit hwarjom och enom ett sijdt hwitt kläde: och til them wardt sagt, at the skulle ännu hwilas en liten tijd, til thes talet blefwe fult af theras medtienare och bröder, the ther ock skola dödade warda, såsom ock the.",
+      "king_james": "And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they *were*, should be fulfilled."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Et vidi cum aperuisset sigillum sextum: et ecce terræmotus magnus factus est, et sol factus est niger tamquam saccus cilicinus: et luna tota facta est sicut sanguis:",
+      "greek_textus_receptus": "καὶ εἶδον ὅτε ἤνοιξεν τὴν σφραγῖδα τὴν ἕκτην καὶ ἰδού σεισμὸς μέγας ἐγένετο καὶ ὁ ἥλιος ἐγένετο μέλας ὡς σάκκος τρίχινος καὶ ἡ σελήνη ἐγένετο ὡς αἷμα",
+      "finnish_biblia": "Ja minä näin, kuin hän kuudennen sinetin avasi, katso, niin tapahtui suuri maanjäristys, ja aurinko tuli mustaksi niinkuin karvasäkki ja kuu tuli kokonansa niinkuin veri, ",
+      "swedish_karl_xii": "Och jagh såg, at thet vpbröt thet siette insiglet; och sij, tå wardt een stoor jordbäfning, och solen wardt swart som en hårsäck, och månen wardt allsammans såsom blodh.",
+      "king_james": "And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "et stellæ de cælo ceciderunt super terram, sicut ficus emittit grossos suos cum a vento magno movetur:",
+      "greek_textus_receptus": "καὶ οἱ ἀστέρες τοῦ οὐρανοῦ ἔπεσαν εἰς τὴν γῆν ὡς συκῆ βάλλει τοὺς ὀλύνθους αὐτῆς ὑπὸ μεγάλου ἀνέμου σειομένη",
+      "finnish_biblia": "Ja tähdet putosivat taivaasta maan päälle, niinkuin fikunapuu fikunansa varistaa, kuin hän suurelta tuulelta häälytetään. ",
+      "swedish_karl_xii": "Och stiernorna föllo af himmelen nedh på jordena, såsom fikonaträd sin fikon nedersläpper, tå thet ristes af stort wäder.",
+      "king_james": "And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "et cælum recessit sicut liber involutus: et omnis mons, et insulæ de locis suis motæ sunt:",
+      "greek_textus_receptus": "καὶ οὐρανὸς ἀπεχωρίσθη ὡς βιβλίον εἱλισσόμενον καὶ πᾶν ὄρος καὶ νῆσος ἐκ τῶν τόπων αὐτῶν ἐκινήθησαν",
+      "finnish_biblia": "Ja taivas pakeni niinkuin kämärtynyt kirja, ja kaikki vuoret ja luodot siirrettiin sioistansa. ",
+      "swedish_karl_xii": "Och himmelen gick bort, såsom een tilslagen book; och all berg och öijar wordo rörd af sin rum.",
+      "king_james": "And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "et reges terræ, et principes, et tribuni, et divites, et fortes, et omnis servus, et liber absconderunt se in speluncis, et in petris montium:",
+      "greek_textus_receptus": "καὶ οἱ βασιλεῖς τῆς γῆς καὶ οἱ μεγιστᾶνες καὶ οἱ πλούσιοι καὶ οἱ χιλίαρχοι καὶ οἱ δυνατοὶ καὶ πᾶς δοῦλος καὶ πᾶς ἐλεύθερος ἔκρυψαν ἑαυτοὺς εἰς τὰ σπήλαια καὶ εἰς τὰς πέτρας τῶν ὀρέων",
+      "finnish_biblia": "Ja kuninkaat maan päällä, ja ylimäiset, ja rikkaat, ja päämiehet, ja väkevät, ja kaikki orjat, ja kaikki vapaat kätkivät itsensä luoliin ja vuorten rotkoihin, ",
+      "swedish_karl_xii": "Och Konungarna på jordene, och the öfwerste, och rike, och höfwitzmän, och wäldige, och alle tienare, och alle frije fördolde sigh vthi jordkulor, och i bergskrefwor;",
+      "king_james": "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "et dicunt montibus, et petris: Cadite super nos, et abscondite nos a facie sedentis super thronum, et ab ira Agni:",
+      "greek_textus_receptus": "καὶ λέγουσιν τοῖς ὄρεσιν καὶ ταῖς πέτραις πέσετε ἐφ᾽ ἡμᾶς καὶ κρύψατε ἡμᾶς ἀπὸ προσώπου τοῦ καθημένου ἐπὶ τοῦ θρόνου καὶ ἀπὸ τῆς ὀργῆς τοῦ ἀρνίου",
+      "finnish_biblia": "Ja sanoivat vuorille ja kukkuloille: langetkaat meidän päällemme ja peittäkäät meitä sen kasvoin edestä, joka istuimella istuu, ja Karitsan vihasta. ",
+      "swedish_karl_xii": "Och sade til berg och klippor: Faller öfwer oß, och skyler oß, för hans ansichte som sitter på stolen, och för Lambsens wrede.",
+      "king_james": "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "quoniam venit dies magnus iræ ipsorum: et quis poterit stare?",
+      "greek_textus_receptus": "ὅτι ἦλθεν ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτοῦ καὶ τίς δύναται σταθῆναι",
+      "finnish_biblia": "Sillä se suuri hänen vihansa päivä on tullut, ja kuka voi pysyä?   ",
+      "swedish_karl_xii": "Ty then store hans wredes dagh är kommen; och ho kan bestå?",
+      "king_james": "For the great day of his wrath is come; and who shall be able to stand?"
+    }
+  ]
+}

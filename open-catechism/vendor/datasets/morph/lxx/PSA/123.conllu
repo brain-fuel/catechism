@@ -1,0 +1,116 @@
+# ref = PSA.123.1
+1	ᾨδὴ	ᾠδή	_	_	_	_	_	Strong=G5603|Align=exact
+2	τῶν	_	_	_	_	_	_	Align=unmatched
+3	ἀναβαθμῶν	_	_	_	_	_	_	Align=unmatched
+4	τῷ	_	_	_	_	_	_	Align=unmatched
+5	Δαυείδ	_	_	_	_	_	_	Align=unmatched
+6	Εἰ	εἰ	_	_	_	_	_	Strong=G1487|Align=exact
+7	μὴ	μή	_	_	_	_	_	Strong=G3361|Align=exact
+8	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+9	Κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+10	ἦν	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+11	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+12	ἡμῖν	ἡμῖν	_	_	_	_	_	Align=exact
+13	εἰπάτω	ἔπω	_	_	_	_	_	Strong=G2036|Align=positional
+14	δὴ	δή	_	_	_	_	_	Strong=G1211|Align=exact
+15	Ἰσραήλ	Ἰσραήλ	_	_	_	_	_	Strong=G2474|Align=exact,source_extra:2
+
+# ref = PSA.123.2
+1	εἰ	εἰ	_	_	_	_	_	Strong=G1487|Align=exact
+2	μὴ	μή	_	_	_	_	_	Strong=G3361|Align=exact
+3	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+4	Κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+5	ἦν	εἰμί	_	_	_	_	_	Strong=G1510|Align=positional
+6	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+7	ἡμῖν	ἡμῖν	_	_	_	_	_	Align=exact
+8	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+9	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	ἐπαναστῆναι	ἐπανίστημι	_	_	_	_	_	Align=positional
+11	ἀνθρώπους	ἄνθρωπος	_	_	_	_	_	Strong=G0444|Align=positional
+12	ἐφ᾽	ἐπί	_	_	_	_	_	Strong=G1909|Align=positional
+13	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+
+# ref = PSA.123.3
+1	ἄρα	ἄρα	_	_	_	_	_	Strong=G0686|Align=exact
+2	ζῶντας	ζάω	_	_	_	_	_	Strong=G2198|Align=positional
+3	ἂν	ἄν	_	_	_	_	_	Strong=G0302|Align=exact
+4	κατέπιον	καταπίνω	_	_	_	_	_	Strong=G2666|Align=positional
+5	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+6	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+7	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	ὀργισθῆναι	ὀργίζω	_	_	_	_	_	Strong=G3710|Align=positional
+9	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	θυμὸν	θυμός	_	_	_	_	_	Strong=G2372|Align=positional
+11	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+12	ἐφ᾽	ἐπί	_	_	_	_	_	Strong=G1909|Align=positional
+13	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+
+# ref = PSA.123.4
+1	ἄρα	ἄρα	_	_	_	_	_	Strong=G0686|Align=exact
+2	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	ὕδωρ	ὕδωρ	_	_	_	_	_	Strong=G5204|Align=exact
+4	κατεπόντισεν	καταποντίζω	_	_	_	_	_	Strong=G2670|Align=positional
+5	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+6	χείμαρρον	χειμάρρους	_	_	_	_	_	Align=positional
+7	διῆλθεν	διέρχομαι	_	_	_	_	_	Strong=G1330|Align=positional
+8	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	ψυχὴ	ψυχή	_	_	_	_	_	Strong=G5590|Align=exact
+10	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+
+# ref = PSA.123.5
+1	ἄρα	ἄρα	_	_	_	_	_	Strong=G0686|Align=exact
+2	διῆλθεν	διέρχομαι	_	_	_	_	_	Strong=G1330|Align=positional
+3	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	ψυχὴ	ψυχή	_	_	_	_	_	Strong=G5590|Align=exact
+5	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+6	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	ὕδωρ	ὕδωρ	_	_	_	_	_	Strong=G5204|Align=exact
+8	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	ἀνυπόστατον	ἀνυπόστατος	_	_	_	_	_	Align=positional
+
+# ref = PSA.123.6
+1	εὐλογητὸς	εὐλογητός	_	_	_	_	_	Strong=G2128|Align=exact
+2	Κύριος	κύριος	_	_	_	_	_	Strong=G2962|Align=exact
+3	ὃς	ὅς	_	_	_	_	_	Strong=G3739|Align=exact
+4	οὐκ	οὐ	_	_	_	_	_	Strong=G3756|Align=positional
+5	ἔδωκεν	δίδωμι	_	_	_	_	_	Strong=G1325|Align=positional
+6	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	θήραν	θήρα	_	_	_	_	_	Strong=G2339|Align=positional
+9	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	ὀδοῦσιν	ὀδούς	_	_	_	_	_	Strong=G3599|Align=positional
+11	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.123.7
+1	ἡ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	ψυχὴ	ψυχή	_	_	_	_	_	Strong=G5590|Align=exact
+3	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+4	ὡς	ὥς	_	_	_	_	_	Align=exact
+5	στρουθίον	στρουθίον	_	_	_	_	_	Strong=G4765|Align=exact
+6	ἐρρύσθη	ῥύομαι	_	_	_	_	_	Strong=G4506|Align=positional
+7	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+8	τῆς	_	_	_	_	_	_	Align=unmatched
+9	παγίδος	_	_	_	_	_	_	Align=unmatched
+10	τῶν	_	_	_	_	_	_	Align=unmatched
+11	θηρευόντων	_	_	_	_	_	_	Align=unmatched
+12	ἡ	_	_	_	_	_	_	Align=unmatched
+13	παγὶς	παγίς	_	_	_	_	_	Strong=G3803|Align=exact
+14	συνετρίβη	_	_	_	_	_	_	Align=unmatched
+15	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+16	ἡμεῖς	ἡμεῖς	_	_	_	_	_	Align=exact
+17	ἐρύσθημεν	ῥύομαι	_	_	_	_	_	Strong=G4506|Align=positional,source_extra:6
+
+# ref = PSA.123.8
+1	βοήθεια	βοήθεια	_	_	_	_	_	Strong=G0996|Align=exact
+2	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+3	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+4	ὀνόματι	ὄνομα	_	_	_	_	_	Strong=G3686|Align=positional
+5	Κυρίου	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+6	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	ποιήσαντος	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	οὐρανὸν	οὐρανός	_	_	_	_	_	Strong=G3772|Align=positional
+10	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+11	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	γῆν	γῆ	_	_	_	_	_	Strong=G1093|Align=positional,source_extra:1
+

@@ -1,0 +1,131 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et vidi angelum descendentem de cælo, habentem clavem abyssi, et catenam magnam in manu sua.",
+      "greek_textus_receptus": "καὶ εἶδον ἄγγελον καταβαίνοντα ἐκ τοῦ οὐρανοῦ ἔχοντα τὴν κλεῖδα τῆς ἀβύσσου καὶ ἅλυσιν μεγάλην ἐπὶ τὴν χεῖρα αὐτοῦ",
+      "finnish_biblia": "Ja minä näin enkelin astuvan alas taivaasta, jolla oli syvyyden avain ja suuri kahle hänen kädessänsä. ",
+      "swedish_karl_xii": "Och jagh såg en Ängel nederkomma af himmelen, han hade nyckelen til afgrunden, och ena stora kädio i sine hand.",
+      "king_james": "And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et apprehendit draconem, serpentem antiquum, qui est diabolus, et Satanas, et ligavit eum per annos mille:",
+      "greek_textus_receptus": "καὶ ἐκράτησεν τὸν δράκοντα τὸν ὄφιν τὸν ἀρχαῖον ὅς ἐστιν διάβολος καὶ σατανᾶς καὶ ἔδησεν αὐτὸν χίλια ἔτη",
+      "finnish_biblia": "Ja hän otti lohikärmeen kiinni, vanhan madon, joka on perkele ja saatana, ja sitoi hänen tuhanneksi vuodeksi, ",
+      "swedish_karl_xii": "Och han grep drakan, then gamla ormen, som är diefwulen och Satan, och bandt honom i tusende åhr:",
+      "king_james": "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "et misit eum in abyssum, et clausit, et signavit super illum ut non seducat amplius gentes, donec consummentur mille anni: et post hæc oportet illum solvi modico tempore.",
+      "greek_textus_receptus": "καὶ ἔβαλεν αὐτὸν εἰς τὴν ἄβυσσον καὶ ἔκλεισεν αὐτὸν καὶ ἐσφράγισεν ἐπάνω αὐτοῦ ἵνα μὴ πλανήσῃ τὰ ἔθνη ἔτι ἄχρι τελεσθῇ τὰ χίλια ἔτη καὶ μετὰ ταῦτα δεῖ αὐτὸν λυθῆναι μικρὸν χρόνον",
+      "finnish_biblia": "Ja heitti hänen syvyyteen, ja sulki hänen, ja lukitsi päältä, ettei hänen enempi pitäisi pakanoita viettelemän, siihenasti kuin tuhannen vuotta kuluu; ja sitte pitää hän vähäksi hetkeksi päästettämän. ",
+      "swedish_karl_xii": "Och kastade honom vthi afgrunden, och lät åter om honom, och besiglade ther ofwan vppå, at han icke meer bedraga skulle Hedningarna, til thes fulkomnat wordo tusende åhr: och sedan måste han löös warda til någon liten tijd.",
+      "king_james": "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Et vidi sedes, et sederunt super eas, et judicium datum est illis: et animas decollatorum propter testimonium Jesu, et propter verbum Dei, et qui non adoraverunt bestiam, neque imaginem ejus, nec acceperunt caracterem ejus in frontibus, aut in manibus suis, et vixerunt, et regnaverunt cum Christo mille annis.",
+      "greek_textus_receptus": "καὶ εἶδον θρόνους καὶ ἐκάθισαν ἐπ᾽ αὐτούς καὶ κρίμα ἐδόθη αὐτοῖς καὶ τὰς ψυχὰς τῶν πεπελεκισμένων διὰ τὴν μαρτυρίαν ἰησοῦ καὶ διὰ τὸν λόγον τοῦ θεοῦ καὶ οἵτινες οὐ προσεκύνησαν τῷ θηριῷ οὐτὲ τὴν εἰκόνα αὐτοῦ καὶ οὐκ ἔλαβον τὸ χάραγμα ἐπὶ τὸ μέτωπον αὐτῶν καὶ ἐπὶ τὴν χεῖρα αὐτῶν καὶ ἔζησαν καὶ ἐβασίλευσαν μετὰ χριστοῦ τά χίλια ἔτη",
+      "finnish_biblia": "Ja minä näin istuimet, ja he istuivat niiden päällä, ja heille annettiin tuomio; ja niiden sielut, jotka Jesuksen todistuksen ja Jumalan sanan tähden mestatut olivat, ja jotka ei petoa kumartaneet eikä hänen kuvaansa, ja ei ottaneet hänen merkkiänsä otsiinsa taikka käsiinsä; ja he elivät ja hallitsivat Kristuksen kanssa tuhannen vuotta. ",
+      "swedish_karl_xii": "Och jagh såg stolar, och the såto på them, och them wardt gifwen doom: och theras stälar som halshuggne woro för Jesu witnesbyrd, och för Gudz ordz skul: och the ther icke tilbådo willdiuret eller thes beläte; eij heller togo thes wedertekn på sin anlete, eller i sina händer: och the lefde, och regnerade medh Christo i tusende åhr.",
+      "king_james": "And I saw thrones, and they sat upon them, and judgment was given unto them: and *I saw* the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received *his* mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Ceteri mortuorum non vixerunt, donec consummentur mille anni. Hæc est resurrectio prima.",
+      "greek_textus_receptus": "οἱ δὲ λοιποὶ τῶν νεκρῶν οὐκ ἀνἔζησαν ἕως τελεσθῇ τὰ χίλια ἔτη αὕτη ἡ ἀνάστασις ἡ πρώτη",
+      "finnish_biblia": "Mutta ne muut ei kuolleista virvonneet siihenasti kuin tuhannen ajastaikaa kului. Tämä on ensimäinen ylösnousemus. ",
+      "swedish_karl_xii": "Men the andre döde fingo icke lijf igen, til thes tusende åhr fulkomnat wordo: thenna är then första vpståndelsen.",
+      "king_james": "But the rest of the dead lived not again until the thousand years were finished. This *is* the first resurrection."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Beatus, et sanctus, qui habet partem in resurrectione prima: in his secunda mors non habet potestatem: sed erunt sacerdotes Dei et Christi, et regnabunt cum illo mille annis.",
+      "greek_textus_receptus": "μακάριος καὶ ἅγιος ὁ ἔχων μέρος ἐν τῇ ἀναστάσει τῇ πρώτῃ ἐπὶ τούτων ὁ θάνατος ὁ δεύτερος οὐκ ἔχει ἐξουσίαν ἀλλ᾽ ἔσονται ἱερεῖς τοῦ θεοῦ καὶ τοῦ χριστοῦ καὶ βασιλεύσουσιν μετ᾽ αὐτοῦ χίλια ἔτη",
+      "finnish_biblia": "Autuas ja pyhä on se, jolla on osa ensimäisessä ylösnousemisessa: niiden ylitse ei ole toisella kuolemalla yhtään valtaa, vaan he tulevat Jumalan ja Kristuksen papeiksi, ja hallitsevat hänen kanssansa tuhannen vuotta. ",
+      "swedish_karl_xii": "Salig och helig är then som deel hafwer vthi första vpståndelsen: öfwer them hafwer then andre döden ingen macht; vtan the warda Gudz och Christi Prester, och skola regnera medh honom i tusende åhr.",
+      "king_james": "Blessed and holy *is* he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et cum consummati fuerint mille anni, solvetur Satanas de carcere suo,",
+      "greek_textus_receptus": "καὶ ὅταν τελεσθῇ τὰ χίλια ἔτη λυθήσεται ὁ σατανᾶς ἐκ τῆς φυλακῆς αὐτοῦ",
+      "finnish_biblia": "Ja kuin tuhannen vuotta kuluneet ovat, niin saatana päästetään vankiudestansa. ",
+      "swedish_karl_xii": "Och tå tusende åhr fulkomnat äro, warder Satanas löös vthu sin fängelse;",
+      "king_james": "And when the thousand years are expired, Satan shall be loosed out of his prison,"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "et exibit, et seducet gentes, quæ sunt super quatuor angulos terræ, Gog, et Magog, et congregabit eos in prælium, quorum numerus est sicut arena maris.",
+      "greek_textus_receptus": "καὶ ἐξελεύσεται πλανῆσαι τὰ ἔθνη τὰ ἐν ταῖς τέσσαρσιν γωνίαις τῆς γῆς τὸν γὼγ καὶ τὸν μαγώγ συναγαγεῖν αὐτοὺς εἰς πόλεμον ὧν ὁ ἀριθμὸς ὡς ἡ ἄμμος τῆς θαλάσσης",
+      "finnish_biblia": "Ja hän menee ulos pakanoita viettelemään, jotka neljällä maankulmalla ovat, Gog ja Magog, että hän heitä sotaan kokoais, joidenka luku on niinkuin meren santa. ",
+      "swedish_karl_xii": "Och han skal vthgå til at bedraga Hedningarna, som äro på fyra jordenes parter, Gog och Magog: på thet han skal församla them i strijd; hwilkas tahl är såsom sanden i hafwet.",
+      "king_james": "And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom *is* as the sand of the sea."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Et ascenderunt super latitudinem terræ, et circuierunt castra sanctorum, et civitatem dilectam. Et descendit ignis a Deo de cælo, et devoravit eos:",
+      "greek_textus_receptus": "καὶ ἀνέβησαν ἐπὶ τὸ πλάτος τῆς γῆς καὶ ἐκύκλωσαν τὴν παρεμβολὴν τῶν ἁγίων καὶ τὴν πόλιν τὴν ἠγαπημένην καὶ κατέβη πῦρ ἀπὸ τοῦ θεοῦ ἐκ τοῦ οὐρανοῦ καὶ κατέφαγεν αὐτούς",
+      "finnish_biblia": "Ja he astuivat maan avaruuden päälle, ja piirittivät pyhäin leirin ja rakkaan kaupungin. Ja tuli lankesi Jumalalta taivaasta ja söi heidät. ",
+      "swedish_karl_xii": "Och the gåfwo sigh vppå jordenes bredhet, och kringhwärfde helgonens lägre, och then älskeliga staden: och neder af himmelen föll eld af Gudi, och förtärde them.",
+      "king_james": "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "et diabolus, qui seducebat eos, missus est in stagnum ignis, et sulphuris, ubi et bestia et pseudopropheta cruciabuntur die ac nocte in sæcula sæculorum.",
+      "greek_textus_receptus": "καὶ ὁ διάβολος ὁ πλανῶν αὐτοὺς ἐβλήθη εἰς τὴν λίμνην τοῦ πυρὸς καὶ θείου ὅπου τὸ θηρίον καὶ ὁ ψευδοπροφήτης καὶ βασανισθήσονται ἡμέρας καὶ νυκτὸς εἰς τοὺς αἰῶνας τῶν αἰώνων",
+      "finnish_biblia": "Ja perkele, joka heitä vietteli, heitettiin tuliseen ja tulikiviseen järveen, jossa sekä peto että väärä propheta oli; ja ne pitää vaivattaman päivää ja yötä ijankaikkisesta ijankaikkiseen. ",
+      "swedish_karl_xii": "Och diefwulen som them bedraget hade, wardt kastad vthi then brinnande siön, och swaflet, ther både willdiuret, och then falske Propheten, skola plågas dagh och natt, ifrån ewighet til ewighet.",
+      "king_james": "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet *are*, and shall be tormented day and night for ever and ever."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et vidi thronum magnum candidum, et sedentem super eum, a cujus conspectu fugit terra, et cælum, et locus non est inventus eis.",
+      "greek_textus_receptus": "καὶ εἶδον θρόνον λευκὸν μέγαν καὶ τὸν καθήμενον ἐπ᾽ αὐτοῦ οὗ ἀπὸ προσώπου ἔφυγεν ἡ γῆ καὶ ὁ οὐρανός καὶ τόπος οὐχ εὑρέθη αὐτοῖς",
+      "finnish_biblia": "Ja minä näin suuren valkian istuimen ja senpäällä istuvan, jonka kasvoin edestä maa ja taivas pakeni; ja ei heille löydetty siaa. ",
+      "swedish_karl_xii": "Och jagh såg en stoor hwijt stool, och en sittia på honom, för hwilkens ansichte flydde jord och himmel; och them wardt intet rum funnet.",
+      "king_james": "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Et vidi mortuos, magnos et pusillos, stantes in conspectu throni, et libri aperti sunt: et alius liber apertus est, qui est vitæ: et judicati sunt mortui ex his, quæ scripta erant in libris, secundum opera ipsorum:",
+      "greek_textus_receptus": "καὶ εἶδον τοὺς νεκρούς μικρούς καὶ μεγάλους ἑστῶτας ἐνώπιον τοῦ θεοῦ καὶ βιβλία ἠνεῳχθησαν καὶ βιβλίον ἄλλο ἠνεῳχθη ὅ ἐστιν τῆς ζωῆς καὶ ἐκρίθησαν οἱ νεκροὶ ἐκ τῶν γεγραμμένων ἐν τοῖς βιβλίοις κατὰ τὰ ἔργα αὐτῶν",
+      "finnish_biblia": "Ja minä näin kuolleet, sekä pienet että suuret, seisovan Jumalan kasvoin edessä, ja kirjat avattiin, ja toinen kirja avattiin, joka on elämän, ja kuolleet tuomittiin niistä, mitkä kirjoissa kirjoitetut olivat, töittensä jälkeen. ",
+      "swedish_karl_xii": "Och jagh såg the döda, stora och små, stå i Gudz åsyn; och böckerna wordo vplåtne: och een annor book wardt vplåten, som är lifsens: och the döde wordo dömde, efter som skrifwit war i böckerna, efter theras gierningar.",
+      "king_james": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is *the book* of life: and the dead were judged out of those things which were written in the books, according to their works."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "et dedit mare mortuos, qui in eo erant: et mors et infernus dederunt mortuos suos, qui in ipsis erant: et judicatum est de singulis secundum opera ipsorum.",
+      "greek_textus_receptus": "καὶ ἔδωκεν ἡ θάλασσα τοὺς ἐν αὐτῇ νεκροὺς καὶ ὁ θάνατος καὶ ὁ ᾅδης ἔδωκαν τοὺς ἐν αὐτοῖς νεκροὺς καὶ ἐκρίθησαν ἕκαστος κατὰ τὰ ἔργα αὐτῶν",
+      "finnish_biblia": "Ja meri antoi ne kuolleet, jotka hänessä olivat, ja kuolema ja helvetti antoi ne kuolleet, jotka heissä olivat: ja ne tuomittiin jokainen töittensä jälkeen. ",
+      "swedish_karl_xii": "Och hafwet gaf igen the döda, som ther vthi woro: och döden, och helwetet gåfwo igen the döda, som vthi them woro: och thet blef dömdt om hwar och en efter theras gierningar.",
+      "king_james": "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Et infernus et mors missi sunt in stagnum ignis. Hæc est mors secunda.",
+      "greek_textus_receptus": "καὶ ὁ θάνατος καὶ ὁ ᾅδης ἐβλήθησαν εἰς τὴν λίμνην τοῦ πυρός οὗτος ἐστιν ὁ δεύτερός θάνατος",
+      "finnish_biblia": "Ja kuolema ja helvetti heitettiin tuliseen järveen. Tämä on toinen kuolema. ",
+      "swedish_karl_xii": "Och döden och helwetet wordo kastade vthi then brinnande siön: thenne är then andre döden.",
+      "king_james": "And death and hell were cast into the lake of fire. This is the second death."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Et qui non inventus est in libro vitæ scriptus, missus est in stagnum ignis.",
+      "greek_textus_receptus": "καὶ εἴ τις οὐχ εὑρέθη ἐν τῇ βίβλῳ τῆς ζωῆς γεγραμμένος ἐβλήθη εἰς τὴν λίμνην τοῦ πυρός",
+      "finnish_biblia": "Ja joka ei löydetty elämän kirjassa kirjoitetuksi, se heitettiin tuliseen järveen.   ",
+      "swedish_karl_xii": "Och then ther icke wardt funnen skrifwen i lifsens book, han wardt kastad i then brinnande siön.",
+      "king_james": "And whosoever was not found written in the book of life was cast into the lake of fire."
+    }
+  ]
+}

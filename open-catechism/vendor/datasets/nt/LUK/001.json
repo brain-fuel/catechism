@@ -1,0 +1,651 @@
+{
+  "book_id": "LUK",
+  "latin_name": "Evangelium secundum Lucam",
+  "greek_name": "Κατὰ Λουκᾶν",
+  "finnish_name": "Luukkaan evankeliumi",
+  "swedish_name": "S. Luce Evangelium",
+  "english_name": "The Gospel According to Luke",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Quoniam quidem multi conati sunt ordinare narrationem, quæ in nobis completæ sunt, rerum:",
+      "greek_textus_receptus": "ἐπειδήπερ πολλοὶ ἐπεχείρησαν ἀνατάξασθαι διήγησιν περὶ τῶν πεπληροφορημένων ἐν ἡμῖν πραγμάτων",
+      "finnish_biblia": "Että moni on ruvennut järjestänsä kirjoittamaan niistä asioista, joista meillä täydellinen tieto on, ",
+      "swedish_karl_xii": "Efter månge hafwa tagit sigh före, at beskrifwa the ting, som ibland oß alrawissast äro;",
+      "king_james": "Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "sicut tradiderunt nobis, qui ab initio ipsi viderunt, et ministri fuerunt sermonis:",
+      "greek_textus_receptus": "καθὼς παρέδοσαν ἡμῖν οἱ ἀπ᾽ ἀρχῆς αὐτόπται καὶ ὑπηρέται γενόμενοι τοῦ λόγου",
+      "finnish_biblia": "Niinkuin ne meille sanoneet ovat, jotka sen alusta itse nähneet ja sananpalveliat olleet ovat: ",
+      "swedish_karl_xii": "Såsom the oß sagt hafwa, som af begynnelsen thet medh sin ögon sågo, och sielfwe en deel woro af thet the sade:",
+      "king_james": "Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word;"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "visum est et mihi, assecuto omnia a principio diligenter, ex ordine tibi scribere, optime Theophile,",
+      "greek_textus_receptus": "ἔδοξεν κἀμοὶ παρηκολουθηκότι ἄνωθεν πᾶσιν ἀκριβῶς καθεξῆς σοι γράψαι κράτιστε φεόφιλε",
+      "finnish_biblia": "Näkyy myös minulle se hyväksi, sitte kuin minä alusta kaikki visusti tutkinut olen, että minä niitä järjestänsä sinulle kirjoittaisin, hyvä Teophilus: ",
+      "swedish_karl_xii": "Syntes ock migh, sedan jagh af begynnelsen all ting granneliga vthfrågat hafwer, ordenteligen skrifwa tigh til, min gode Theophile;",
+      "king_james": "It seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus,"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "ut cognoscas eorum verborum, de quibus eruditus es, veritatem.",
+      "greek_textus_receptus": "ἵνα ἐπιγνῷς περὶ ὧν κατηχήθης λόγων τὴν ἀσφάλειαν",
+      "finnish_biblia": "Ettäs ymmärtäisit selkiästi niiden asiain vahvan totuuden, joista sinä opetettu olet. ",
+      "swedish_karl_xii": "At tu må förfara wissa sanningen, om the stycker, ther tu om vnderwister är.",
+      "king_james": "That thou mightest know the certainty of those things, wherein thou hast been instructed."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Fuit in diebus Herodis, regis Judææ, sacerdos quidam nomine Zacharias de vice Abia, et uxor illius de filiabus Aaron, et nomen ejus Elisabeth",
+      "greek_textus_receptus": "ἐγένετο ἐν ταῖς ἡμέραις ἡρῴδου τοῦ βασιλέως τῆς ἰουδαίας ἱερεύς τις ὀνόματι ξαχαρίας ἐξ ἐφημερίας ἀβιά καὶ ἡ γυνὴ αὐτοῦ ἐκ τῶν θυγατέρων ἀαρών καὶ τὸ ὄνομα αὐτῆς ἐλισάβετ",
+      "finnish_biblia": "Herodeksen, Juudean kuninkaan, aikana oli pappi, Sakarias nimeltä, Abian vuorosta; ja hänen emäntänsä Aaronin tyttäristä, ja hänen nimensä Elisabet. ",
+      "swedish_karl_xii": "Vthi Herodis, Judee Konungs tijd, war en Prest, vthaf Abie skifte, benämnd Zacharias: och hans hustru af Aarons döttrar, benämnd Elisabet.",
+      "king_james": "There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife *was* of the daughters of Aaron, and her name *was* Elisabeth."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Erant autem justi ambo ante Deum, incedentes in omnibus mandatis et justificationibus Domini sine querela.",
+      "greek_textus_receptus": "ἦσαν δὲ δίκαιοι ἀμφότεροι ἐνώπιον τοῦ θεοῦ πορευόμενοι ἐν πάσαις ταῖς ἐντολαῖς καὶ δικαιώμασιν τοῦ κυρίου ἄμεμπτοι",
+      "finnish_biblia": "Ja he olivat molemmat hurskaita Jumalan edessä, vaeltavaiset kaikissa Herran käskyissä ja säädyissä laittamattomasti, ",
+      "swedish_karl_xii": "The woro både rättferdige för Gudh, wandrande i all Herrans budh och stadgar, ostraffeliga.",
+      "king_james": "And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et non erat illis filius, eo quod esset Elisabeth sterilis, et ambo processissent in diebus suis.",
+      "greek_textus_receptus": "καὶ οὐκ ἦν αὐτοῖς τέκνον καθότι ἡ ἐλισάβετ ἦν στεῖρα καὶ ἀμφότεροι προβεβηκότες ἐν ταῖς ἡμέραις αὐτῶν ἦσαν",
+      "finnish_biblia": "Ja heillä ei ollut lasta; sillä Elisabet oli hedelmätöin, ja he olivat jo molemmat ijälliset. ",
+      "swedish_karl_xii": "Och the hade inga barn: ty Elisabet war ofruchtsam; och både woro the framlidin i sin ålder.",
+      "king_james": "And they had no child, because that Elisabeth was barren, and they both were *now* well stricken in years."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Factum est autem, cum sacerdotio fungeretur in ordine vicis suæ ante Deum,",
+      "greek_textus_receptus": "ἐγένετο δὲ ἐν τῷ ἱερατεύειν αὐτὸν ἐν τῇ τάξει τῆς ἐφημερίας αὐτοῦ ἔναντι τοῦ θεοῦ",
+      "finnish_biblia": "Ja tapahtui, kuin hän vuorollansa papin virkaa toimitti Jumalan edessä, ",
+      "swedish_karl_xii": "Så begaf thet sigh, tå han i sitt skifte skulle hålla sitt Prestaämbete för Gudi;",
+      "king_james": "And it came to pass, that while he executed the priest's office before God in the order of his course,"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "secundum consuetudinem sacerdotii, sorte exiit ut incensum poneret, ingressus in templum Domini:",
+      "greek_textus_receptus": "κατὰ τὸ ἔθος τῆς ἱερατείας ἔλαχεν τοῦ θυμιᾶσαι εἰσελθὼν εἰς τὸν ναὸν τοῦ κυρίου",
+      "finnish_biblia": "Papin viran tavan jälkeen, lankesi arpa hänelle, että hänen piti suitsuttaman, sitte kuin hän oli mennyt sisälle Herran templiin. ",
+      "swedish_karl_xii": "Efter Presterskapets sedh, och thet föll på honom at han skulle vptända rökelse; gick han in i Herrans tempel:",
+      "king_james": "According to the custom of the priest's office, his lot was to burn incense when he went into the temple of the Lord."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "et omnis multitudo populi erat orans foris hora incensi.",
+      "greek_textus_receptus": "καὶ πᾶν τὸ πλῆθος τοῦ λαοῦ ἦν προσευχόμενον ἔξω τῇ ὥρᾳ τοῦ θυμιάματος",
+      "finnish_biblia": "Ja kaikki kansan paljous rukoili ulkona suitsutuksen aikana. ",
+      "swedish_karl_xii": "Och alt folcket war vthan til, och bad, så länge rökelsen skedde.",
+      "king_james": "And the whole multitude of the people were praying without at the time of incense."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Apparuit autem illi angelus Domini, stans a dextris altaris incensi.",
+      "greek_textus_receptus": "ὤφθη δὲ αὐτῷ ἄγγελος κυρίου ἑστὼς ἐκ δεξιῶν τοῦ θυσιαστηρίου τοῦ θυμιάματος",
+      "finnish_biblia": "Mutta hänelle ilmestyi Herran enkeli, seisoin suitsutusalttarin oikealla puolella. ",
+      "swedish_karl_xii": "Så syntes honom Herrans Ängel, ståndandes på högra sidon widh rökaltaret.",
+      "king_james": "And there appeared unto him an angel of the Lord standing on the right side of the altar of incense."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Et Zacharias turbatus est videns, et timor irruit super eum.",
+      "greek_textus_receptus": "καὶ ἐταράχθη ξαχαρίας ἰδών καὶ φόβος ἐπέπεσεν ἐπ᾽ αὐτόν",
+      "finnish_biblia": "Ja kuin Sakarias hänen näki, hämmästyi hän ja pelko lankesi hänen päällensä. ",
+      "swedish_karl_xii": "Och Zacharias wardt förskräckt, tå han såg honom; och en räddhoge föll öfwer honom.",
+      "king_james": "And when Zacharias saw *him*, he was troubled, and fear fell upon him."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Ait autem ad illum angelus: Ne timeas, Zacharia, quoniam exaudita est deprecatio tua: et uxor tua Elisabeth pariet tibi filium, et vocabis nomen ejus Joannem:",
+      "greek_textus_receptus": "εἶπεν δὲ πρὸς αὐτὸν ὁ ἄγγελος μὴ φοβοῦ ξαχαρία διότι εἰσηκούσθη ἡ δέησίς σου καὶ ἡ γυνή σου ἐλισάβετ γεννήσει υἱόν σοι καὶ καλέσεις τὸ ὄνομα αὐτοῦ ἰωάννην",
+      "finnish_biblia": "Mutta enkeli sanoi hänelle: älä pelkää, Sakarias! sillä sinun rukoukses on kuultu ja sinun emäntäs Elisabet synnyttää sinulle pojan, ja sinun pitää kutsuman hänen nimensä Johannes. ",
+      "swedish_karl_xii": "Tå sade Ängelen til honom: War icke förfärad, Zacharia: ty tin böön är hörd; och tin hustru Elisabet skal föda tigh en son, hwilkens namn tu skalt kalla Johannes.",
+      "king_james": "But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "et erit gaudium tibi, et exsultatio, et multi in nativitate ejus gaudebunt:",
+      "greek_textus_receptus": "καὶ ἔσται χαρά σοι καὶ ἀγαλλίασις καὶ πολλοὶ ἐπὶ τῇ γεννήσει αὐτοῦ χαρήσονται",
+      "finnish_biblia": "Ja sinulle tulee ilo ja ihastus, ja monta iloitsevat hänen syntymisestänsä. ",
+      "swedish_karl_xii": "Och tigh skal warda glädie och frögd: och månge skola frögdas af hans födelse:",
+      "king_james": "And thou shalt have joy and gladness; and many shall rejoice at his birth."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "erit enim magnus coram Domino: et vinum et siceram non bibet, et Spiritu Sancto replebitur adhuc ex utero matris suæ:",
+      "greek_textus_receptus": "ἔσται γὰρ μέγας ἐνώπιον τοῦ κυρίου καὶ οἶνον καὶ σίκερα οὐ μὴ πίῃ καὶ πνεύματος ἁγίου πλησθήσεται ἔτι ἐκ κοιλίας μητρὸς αὐτοῦ",
+      "finnish_biblia": "Sillä hän tulee suureksi Herran edessä, ja viinaa ja väkevää juomaa ei hän juo, ja hän täytetään Pyhällä Hengellä jo äitinsä kohdusta. ",
+      "swedish_karl_xii": "Ty han skal warda stoor för Herranom: wijn och starcka drycker skal han icke dricka; och skal strax i moderlifwet vpfylt warda medh then Helga Anda;",
+      "king_james": "For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother's womb."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "et multos filiorum Israël convertet ad Dominum Deum ipsorum:",
+      "greek_textus_receptus": "καὶ πολλοὺς τῶν υἱῶν ἰσραὴλ ἐπιστρέψει ἐπὶ κύριον τὸν θεὸν αὐτῶν",
+      "finnish_biblia": "ja hän kääntää monta Israelin lapsista Herran, heidän Jumalansa tykö. ",
+      "swedish_karl_xii": "Och han skal omwända många af Jsraels barn til Herran, theras Gudh.",
+      "king_james": "And many of the children of Israel shall he turn to the Lord their God."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "et ipse præcedet ante illum in spiritu et virtute Eliæ: ut convertat corda patrum in filios, et incredulos ad prudentiam justorum, parare Domino plebem perfectam.",
+      "greek_textus_receptus": "καὶ αὐτὸς προελεύσεται ἐνώπιον αὐτοῦ ἐν πνεύματι καὶ δυνάμει ἠλίου ἐπιστρέψαι καρδίας πατέρων ἐπὶ τέκνα καὶ ἀπειθεῖς ἐν φρονήσει δικαίων ἑτοιμάσαι κυρίῳ λαὸν κατεσκευασμένον",
+      "finnish_biblia": "Ja hän käy edellä hänen edessänsä Eliaan Hengellä ja voimalla, kääntäin isäin sydämet lasten tykö ja tottelemattomat hurskasten toimen tykö, toimittaakseen Herralle valmistetun kansan. ",
+      "swedish_karl_xii": "Och han skal gå för honom, medh Elie anda och kraft, til at omwända fädernas hierta til barnen, och the ohöriga til the rättferdigas snällhet; och giöra Herranom ett beredt folck.",
+      "king_james": "And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Et dixit Zacharias ad angelum: Unde hoc sciam? ego enim sum senex, et uxor mea processit in diebus suis.",
+      "greek_textus_receptus": "καὶ εἶπεν ξαχαρίας πρὸς τὸν ἄγγελον κατὰ τί γνώσομαι τοῦτο ἐγὼ γάρ εἰμι πρεσβύτης καὶ ἡ γυνή μου προβεβηκυῖα ἐν ταῖς ἡμέραις αὐτῆς",
+      "finnish_biblia": "Ja Sakarias sanoi enkelille: mistä minä sen ymmärrän? sillä minä olen vanha ja emäntäni on jo ijällinen. ",
+      "swedish_karl_xii": "Tå sade Zacharias til Ängelen: Hwar af skal jagh thetta weta? Ty jagh är gammal, och min hustru är framliden i åldren.",
+      "king_james": "And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Et respondens angelus dixit ei: Ego sum Gabriel, qui asto ante Deum: et missus sum loqui ad te, et hæc tibi evangelizare.",
+      "greek_textus_receptus": "καὶ ἀποκριθεὶς ὁ ἄγγελος εἶπεν αὐτῷ ἐγώ εἰμι γαβριὴλ ὁ παρεστηκὼς ἐνώπιον τοῦ θεοῦ καὶ ἀπεστάλην λαλῆσαι πρὸς σὲ καὶ εὐαγγελίσασθαί σοι ταῦτα",
+      "finnish_biblia": "Niin enkeli vastasi ja sanoi hänelle: minä olen Gabriel, joka seison Jumalan edessä, ja olen lähetetty puhumaan sinulle ja saattamaan näitä iloisia sanomia sinulle. ",
+      "swedish_karl_xii": "Ängelen swarade, och sade til honom: Jagh är Gabriel, som står i Gudz åsyn; och är vthsänd til at tala tigh til, och boda tigh thenna goda tidenden:",
+      "king_james": "And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Et ecce eris tacens, et non poteris loqui usque in diem quo hæc fiant, pro eo quod non credidisti verbis meis, quæ implebuntur in tempore suo.",
+      "greek_textus_receptus": "καὶ ἰδού, ἔσῃ σιωπῶν καὶ μὴ δυνάμενος λαλῆσαι ἄχρι ἡς ἡμέρας γένηται ταῦτα ἀνθ ὧν οὐκ ἐπίστευσας τοῖς λόγοις μου οἵτινες πληρωθήσονται εἰς τὸν καιρὸν αὐτῶν",
+      "finnish_biblia": "Ja katso, sinä tulet kielettömäksi ja et saa puhua hamaan siihen päivään asti, jona nämä tapahtuvat, ettet uskonut sanojani, jotka ajallansa täytetään. ",
+      "swedish_karl_xii": "Och sij, tu skalt warda mållös, och skalt intet kunna tala, in til then dagen tå thetta skeer: therföre, at tu icke trodde minom ordom, hwilke skola fulkomnat warda i sin tijd.",
+      "king_james": "And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Et erat plebs exspectans Zachariam: et mirabantur quod tardaret ipse in templo.",
+      "greek_textus_receptus": "καὶ ἦν ὁ λαὸς προσδοκῶν τὸν ξαχαρίαν καὶ ἐθαύμαζον ἐν τῷ χρονίζειν αὐτόν ἐν τῷ ναῷ",
+      "finnish_biblia": "Mutta kansa odotti Sakariasta, ja ihmettelivät, että hän niin templissä viipyi. ",
+      "swedish_karl_xii": "Och folcket förbidde Zachariam, och förvndrade sigh at han så länge dwaldes i templet:",
+      "king_james": "And the people waited for Zacharias, and marvelled that he tarried so long in the temple."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Egressus autem non poterat loqui ad illos, et cognoverunt quod visionem vidisset in templo. Et ipse erat innuens illis, et permansit mutus.",
+      "greek_textus_receptus": "ἐξελθὼν δὲ οὐκ ἠδύνατο λαλῆσαι αὐτοῖς καὶ ἐπέγνωσαν ὅτι ὀπτασίαν ἑώρακεν ἐν τῷ ναῷ καὶ αὐτὸς ἦν διανεύων αὐτοῖς καὶ διέμενεν κωφός",
+      "finnish_biblia": "Vaan kuin hän tuli ulos, niin ei hän saanut puhua heille. Ja he ymmärsivät, että hän oli näyn templissä nähnyt. Ja hän viittasi heille, ja jäi mykäksi. ",
+      "swedish_karl_xii": "Men tå han vthgick, kunde han intet tala medh them: och så förmärckte the, at han hade sedt någon syyn i templet; och han teknade them, och blef mållös.",
+      "king_james": "And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Et factum est, ut impleti sunt dies officii ejus, abiit in domum suam:",
+      "greek_textus_receptus": "καὶ ἐγένετο ὡς ἐπλήσθησαν αἱ ἡμέραι τῆς λειτουργίας αὐτοῦ ἀπῆλθεν εἰς τὸν οἶκον αὐτοῦ",
+      "finnish_biblia": "Ja tapahtui, että hänen virkansa päivät olivat täytetyt, niin hän meni kotiansa. ",
+      "swedish_karl_xii": "Och thet begaf sigh, tå hans ämbetes dagar vthe woro, gick han heem i sitt huus.",
+      "king_james": "And it came to pass, that, as soon as the days of his ministration were accomplished, he departed to his own house."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "post hos autem dies concepit Elisabeth uxor ejus, et occultabat se mensibus quinque, dicens:",
+      "greek_textus_receptus": "μετὰ δὲ ταύτας τὰς ἡμέρας συνέλαβεν ἐλισάβετ ἡ γυνὴ αὐτοῦ καὶ περιέκρυβεν ἑαυτὴν μῆνας πέντε λέγουσα",
+      "finnish_biblia": "Mutta niiden päiväin jälkeen tuli hänen emäntänsä Elisabet raskaaksi ja salasi itsensä viisi kuukautta, sanoen: ",
+      "swedish_karl_xii": "Och efter the dagar, wardt hans hustru Elisabet hafwandes; och fördolde sigh i fem månader, och sade:",
+      "king_james": "And after those days his wife Elisabeth conceived, and hid herself five months, saying,"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Quia sic fecit mihi Dominus in diebus, quibus respexit auferre opprobrium meum inter homines.",
+      "greek_textus_receptus": "ὅτι οὕτως μοι πεποίηκεν ὁ κύριος ἐν ἡμέραις αἷς ἐπεῖδεν ἀφελεῖν τὸ ὄνειδός μου ἐν ἀνθρώποις",
+      "finnish_biblia": "Ja näin on Herra minulle tehnyt niinä päivinä, kuin hän minun puoleeni katsoi, että hän ottais pois minun ylönkatseeni ihmisten seassa. ",
+      "swedish_karl_xii": "Så hafwer nu Herren giordt medh migh, i the dagar tå han såg til migh, på thet han skulle borttaga min försmädelse ibland menniskiorna.",
+      "king_james": "Thus hath the Lord dealt with me in the days wherein he looked on *me*, to take away my reproach among men."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "In mense autem sexto, missus est angelus Gabriel a Deo in civitatem Galilææ, cui nomen Nazareth,",
+      "greek_textus_receptus": "ἐν δὲ τῷ μηνὶ τῷ ἕκτῳ ἀπεστάλη ὁ ἄγγελος γαβριὴλ ὑπὸ τοῦ θεοῦ εἰς πόλιν τῆς γαλιλαίας ᾗ ὄνομα ναζαρὲτ",
+      "finnish_biblia": "Mutta kuudentena kuukautena lähetettiin enkeli Gabriel Jumalalta Galilean kaupunkiin, jonka nimi oli Nasaret, ",
+      "swedish_karl_xii": "Vthi siette månaden, wardt Gabriel Ängel vthsänd af Gudi, vthi en stadh i Galileen, benämnd Nazareth;",
+      "king_james": "And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "ad virginem desponsatam viro, cui nomen erat Joseph, de domo David: et nomen virginis Maria.",
+      "greek_textus_receptus": "πρὸς παρθένον μεμνηστευμένην ἀνδρὶ ᾧ ὄνομα ἰωσὴφ ἐξ οἴκου δαβίδ καὶ τὸ ὄνομα τῆς παρθένου μαριάμ",
+      "finnish_biblia": "Neitseen tykö, joka oli kihlattu miehelle, jonka nimi oli Joseph, Davidin huoneesta; ja neitseen nimi oli Maria. ",
+      "swedish_karl_xii": "Til een jungfru, som förlåfwad war enom man, hwilkens namn war Joseph, af Davidz huus; och jungfrunes namn Maria.",
+      "king_james": "To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name *was* Mary."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Et ingressus angelus ad eam dixit: Ave gratia plena: Dominus tecum: benedicta tu in mulieribus.",
+      "greek_textus_receptus": "καὶ εἰσελθὼν ὁ ἄγγελος πρὸς αὐτὴν εἶπεν χαῖρε κεχαριτωμένη ὁ κύριος μετὰ σοῦ εὐλογημένη σὺ ἐν γυναιξίν",
+      "finnish_biblia": "Ja enkeli tuli sisälle hänen tykönsä ja sanoi: terve, armoitettu! Herra on sinun kanssas: siunattu sinä vaimoin seassa! ",
+      "swedish_karl_xii": "Och Ängelen kom in til henne, och sade: Hel, full medh nådh: Herren är medh tigh; wälsignad tu ibland qwinnor.",
+      "king_james": "And the angel came in unto her, and said, Hail, *thou that art* highly favoured, the Lord *is* with thee: blessed *art* thou among women."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Quæ cum audisset, turbata est in sermone ejus, et cogitabat qualis esset ista salutatio.",
+      "greek_textus_receptus": "ἡ δὲ ἰδοῦσα διεταράχθη ἐπὶ τῷ λόγῳ αὐτοῦ, καὶ διελογίζετο ποταπὸς εἴη ὁ ἀσπασμὸς οὗτος",
+      "finnish_biblia": "Mutta kuin hän näki hänen, hämmästyi hän hänen puheestansa ja ajatteli, millainen se tervehdys oli. ",
+      "swedish_karl_xii": "Tå hon såg honom, wardt hon förfärad af hans taal; och tänckte vppå, hurudana helsning thetta war.",
+      "king_james": "And when she saw *him*, she was troubled at his saying, and cast in her mind what manner of salutation this should be."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Et ait angelus ei: Ne timeas, Maria: invenisti enim gratiam apud Deum.",
+      "greek_textus_receptus": "καὶ εἶπεν ὁ ἄγγελος αὐτῇ μὴ φοβοῦ μαριάμ εὗρες γὰρ χάριν παρὰ τῷ θεῷ",
+      "finnish_biblia": "Ja enkeli sanoi hänelle: älä pelkää, Maria! sillä sinä löysit armon Jumalan tykönä. ",
+      "swedish_karl_xii": "Tå sade Ängelen til henne: Fruchta tigh icke, Maria: ty tu hafwer funnet nådh för Gudi.",
+      "king_james": "And the angel said unto her, Fear not, Mary: for thou hast found favour with God."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Ecce concipies in utero, et paries filium, et vocabis nomen ejus Jesum:",
+      "greek_textus_receptus": "καὶ ἰδού, συλλήψῃ ἐν γαστρὶ καὶ τέξῃ υἱόν καὶ καλέσεις τὸ ὄνομα αὐτοῦ ἰησοῦν",
+      "finnish_biblia": "Ja katso, sinä siität kohdussas ja synnytät Pojan, ja sinun pitää kutsua hänen nimensä Jesus. ",
+      "swedish_karl_xii": "Sij, tu skalt afla i titt lijf, och föda en Son, hwilkens namn tu skalt kalla JESUS:",
+      "king_james": "And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS."
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "hic erit magnus, et Filius Altissimi vocabitur, et dabit illi Dominus Deus sedem David patris ejus: et regnabit in domo Jacob in æternum,",
+      "greek_textus_receptus": "οὗτος ἔσται μέγας καὶ υἱὸς ὑψίστου κληθήσεται καὶ δώσει αὐτῷ κύριος ὁ θεὸς τὸν θρόνον δαβὶδ τοῦ πατρὸς αὐτοῦ",
+      "finnish_biblia": "Sen pitää oleman suuren ja pitää kutsuttaman Ylimmäisen Pojaksi. Ja Herra Jumala antaa hänelle Davidin hänen isänsä istuimen, ",
+      "swedish_karl_xii": "Han skal warda stoor, och kallas thens Högstas Son: och Herren Gudh skal gifwa honom hans faders Davidz säte:",
+      "king_james": "He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:"
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "et regni ejus non erit finis.",
+      "greek_textus_receptus": "καὶ βασιλεύσει ἐπὶ τὸν οἶκον ἰακὼβ εἰς τοὺς αἰῶνας καὶ τῆς βασιλείας αὐτοῦ οὐκ ἔσται τέλος",
+      "finnish_biblia": "Ja hänen pitää Jakobin huoneen kuningas ijankaikkisesti oleman ja hänen valtakunnallansa ei pidä loppua oleman. ",
+      "swedish_karl_xii": "Och han skal wara en Konung öfwer Jacobs huus i ewig tijd; och på hans rike skal ingen ände wara.",
+      "king_james": "And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end."
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "Dixit autem Maria ad angelum: Quomodo fiet istud, quoniam virum non cognosco?",
+      "greek_textus_receptus": "εἶπεν δὲ μαριὰμ πρὸς τὸν ἄγγελον πῶς ἔσται τοῦτο ἐπεὶ ἄνδρα οὐ γινώσκω",
+      "finnish_biblia": "Niin sanoi Maria enkelille: kuinka tämä tulee, sillä en minä miehestä mitään tiedä? ",
+      "swedish_karl_xii": "Tå sade Maria til Ängelen: Huru skal thetta tilgå? Ty jagh weet af ingen man.",
+      "king_james": "Then said Mary unto the angel, How shall this be, seeing I know not a man?"
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "Et respondens angelus dixit ei: Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi. Ideoque et quod nascetur ex te sanctum, vocabitur Filius Dei.",
+      "greek_textus_receptus": "καὶ ἀποκριθεὶς ὁ ἄγγελος εἶπεν αὐτῇ πνεῦμα ἅγιον ἐπελεύσεται ἐπὶ σέ καὶ δύναμις ὑψίστου ἐπισκιάσει σοι διὸ καὶ τὸ γεννώμενον ἅγιον κληθήσεται υἱὸς θεοῦ",
+      "finnish_biblia": "Ja enkeli vastasi ja sanoi hänelle: Pyhä Henki tulee sinun päälles ja Ylimmäisen voima varjoo sinun: sentähden myös se pyhä, joka sinusta syntyy, pitää kutsuttaman Jumalan Pojaksi. ",
+      "swedish_karl_xii": "Ängelen swarade, och sade til henne: Then Helge Ande skal komma öfwer tigh, och thens Högstas kraft skal öfwerskyggia tigh: therföre ock, thet helga som af tigh födt warder, skal kallas Gudz Son.",
+      "king_james": "And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God."
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "Et ecce Elisabeth cognata tua, et ipsa concepit filium in senectute sua: et hic mensis sextus est illi, quæ vocatur sterilis:",
+      "greek_textus_receptus": "καὶ ἰδού, ἐλισάβετ ἡ συγγενής σου καὶ αὐτὴ συνείληφυῖα υἱὸν ἐν γήρᾳ αὐτῆς καὶ οὗτος μὴν ἕκτος ἐστὶν αὐτῇ τῇ καλουμένῃ στείρᾳ",
+      "finnish_biblia": "Ja katso, Elisabet sinun lankos siitti myös pojan vanhalla ijällänsä, ja tämä on kuudes kuukausi hänelle, joka kutsuttiin hedelmättömäksi. ",
+      "swedish_karl_xii": "Och sij, Elisabet tin fränka, hafwer ock aflat en son i sin ålderdom; och thetta är siette månaden åth henne som hetes wara ofruchtsam:",
+      "king_james": "And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren."
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "quia non erit impossibile apud Deum omne verbum.",
+      "greek_textus_receptus": "ὅτι οὐκ ἀδυνατήσει παρὰ τῷ θεῷ πᾶν ῥῆμα",
+      "finnish_biblia": "Sillä ei Jumalan edessä ole yhtään asiaa mahdotointa. ",
+      "swedish_karl_xii": "Ty för Gudh är ingen ting omögelig.",
+      "king_james": "For with God nothing shall be impossible."
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "Dixit autem Maria: Ecce ancilla Domini: fiat mihi secundum verbum tuum. Et discessit ab illa angelus.",
+      "greek_textus_receptus": "εἶπεν δὲ μαριάμ ἰδού, ἡ δούλη κυρίου γένοιτό μοι κατὰ τὸ ῥῆμά σου καὶ ἀπῆλθεν ἀπ᾽ αὐτῆς ὁ ἄγγελος",
+      "finnish_biblia": "Niin sanoi Maria: katso, Herran piika! tapahtukoon minulle sinun sanas jälkeen! Ja enkeli läksi hänen tyköänsä. ",
+      "swedish_karl_xii": "Tå sade Maria: Sij, Herrans tienarinna: warde migh efter titt taal. Och Ängelen skildes ifrå henne.",
+      "king_james": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her."
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": "Exsurgens autem Maria in diebus illis, abiit in montana cum festinatione, in civitatem Juda:",
+      "greek_textus_receptus": "ἀναστᾶσα δὲ μαριὰμ ἐν ταῖς ἡμέραις ταύταις ἐπορεύθη εἰς τὴν ὀρεινὴν μετὰ σπουδῆς εἰς πόλιν ἰούδα",
+      "finnish_biblia": "Mutta Maria nousi niinä päivinä ja meni kiiruusti ylös mäkikyliin Juudan kaupunkiin. ",
+      "swedish_karl_xii": "Vthi the dagar, stod Maria vp, och gick i bergsbygdena medh hast, vthi Jude stadh:",
+      "king_james": "And Mary arose in those days, and went into the hill country with haste, into a city of Juda;"
+    },
+    {
+      "verse": 40,
+      "latin_vulgate": "et intravit in domum Zachariæ, et salutavit Elisabeth.",
+      "greek_textus_receptus": "καὶ εἰσῆλθεν εἰς τὸν οἶκον ξαχαρίου καὶ ἠσπάσατο τὴν ἐλισάβετ",
+      "finnish_biblia": "Ja tuli Sakariaan huoneeseen ja tervehti Elisabetia. ",
+      "swedish_karl_xii": "Och kom vthi Zacharie huus, och helsade Elisabet.",
+      "king_james": "And entered into the house of Zacharias, and saluted Elisabeth."
+    },
+    {
+      "verse": 41,
+      "latin_vulgate": "Et factum est, ut audivit salutationem Mariæ Elisabeth, exsultavit infans in utero ejus: et repleta est Spiritu Sancto Elisabeth:",
+      "greek_textus_receptus": "καὶ ἐγένετο ὡς ἤκουσεν ἡ ἐλισάβετ τὸν ἀσπασμὸν τῆς μαρίας ἐσκίρτησεν τὸ βρέφος ἐν τῇ κοιλίᾳ αὐτῆς καὶ ἐπλήσθη πνεύματος ἁγίου ἡ ἐλισάβετ",
+      "finnish_biblia": "Ja tapahtui, kuin Elisabet kuuli Marian tervehdyksen, hyppäsi lapsi hänen kohdussansa. Ja Elisabet täytettiin Pyhällä Hengellä, ",
+      "swedish_karl_xii": "Och thet begaf sigh, tå Elisabet hörde Marie helsning, språng barnet vthi hennes lijf: och Elisabet wardt vpfylt medh then Helga Anda;",
+      "king_james": "And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost:"
+    },
+    {
+      "verse": 42,
+      "latin_vulgate": "et exclamavit voce magna, et dixit: Benedicta tu inter mulieres, et benedictus fructus ventris tui.",
+      "greek_textus_receptus": "καὶ ἀνεφώνησεν φωνῇ μεγάλῃ καὶ εἶπεν εὐλογημένη σὺ ἐν γυναιξίν καὶ εὐλογημένος ὁ καρπὸς τῆς κοιλίας σου",
+      "finnish_biblia": "Ja hän huusi suurella äänellä ja sanoi: siunattu olet sinä vaimoin seassa, ja siunattu on sinun kohtus hedelmä! ",
+      "swedish_karl_xii": "Och hon ropade medh höga röst, och sade: Wälsignad tu ibland qwinnor, och wälsignad tins lijfs frucht.",
+      "king_james": "And she spake out with a loud voice, and said, Blessed *art* thou among women, and blessed *is* the fruit of thy womb."
+    },
+    {
+      "verse": 43,
+      "latin_vulgate": "Et unde hoc mihi, ut veniat mater Domini mei ad me?",
+      "greek_textus_receptus": "καὶ πόθεν μοι τοῦτο ἵνα ἔλθῃ ἡ μήτηρ τοῦ κυρίου μου πρὸς μέ",
+      "finnish_biblia": "Ja kusta se minulle tulee, että minun Herrani äiti tulee minun tyköni? ",
+      "swedish_karl_xii": "Och hwadan kommer migh thetta, at mins Herras moder kommer til migh?",
+      "king_james": "And whence *is* this to me, that the mother of my Lord should come to me?"
+    },
+    {
+      "verse": 44,
+      "latin_vulgate": "Ecce enim ut facta est vox salutationis tuæ in auribus meis, exsultavit in gaudio infans in utero meo.",
+      "greek_textus_receptus": "ἰδού, γὰρ ὡς ἐγένετο ἡ φωνὴ τοῦ ἀσπασμοῦ σου εἰς τὰ ὦτά μου ἐσκίρτησεν ἐν ἀγαλλιάσει τὸ βρέφος ἐν τῇ κοιλίᾳ μου",
+      "finnish_biblia": "Sillä katso, kuin sinun tervehdykses ääni tuli minun korviini, hyppäsi lapsi ilosta minun kohdussani. ",
+      "swedish_karl_xii": "Sij, tå rösten af tine helsning kom i min öron, språng barnet af glädie i mitt lijf.",
+      "king_james": "For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy."
+    },
+    {
+      "verse": 45,
+      "latin_vulgate": "Et beata, quæ credidisti, quoniam perficientur ea, quæ dicta sunt tibi a Domino.",
+      "greek_textus_receptus": "καὶ μακαρία ἡ πιστεύσασα ὅτι ἔσται τελείωσις τοῖς λελαλημένοις αὐτῇ παρὰ κυρίου",
+      "finnish_biblia": "Ja autuas sinä, joka uskoit; sillä ne täytetään, mitkä sinulle ovat sanotut Herralta. ",
+      "swedish_karl_xii": "Och salig äst tu som trodde: ty all ting warda fulbordat, som tigh sagt äro af Herranom.",
+      "king_james": "And blessed *is* she that believed: for there shall be a performance of those things which were told her from the Lord."
+    },
+    {
+      "verse": 46,
+      "latin_vulgate": "Et ait Maria: [Magnificat anima mea Dominum:",
+      "greek_textus_receptus": "καὶ εἶπεν μαριάμ μεγαλύνει ἥ ψυχή μου τόν κύριόν",
+      "finnish_biblia": "Ja Maria sanoi: Minun sieluni suuresti ylistää Herraa, ",
+      "swedish_karl_xii": "Och Maria sade: Min siäl prisar storliga Herran:",
+      "king_james": "And Mary said, My soul doth magnify the Lord,"
+    },
+    {
+      "verse": 47,
+      "latin_vulgate": "et exsultavit spiritus meus in Deo salutari meo.",
+      "greek_textus_receptus": "καὶ ἠγαλλίασεν τὸ πνεῦμά μου ἐπὶ τῷ θεῷ τῷ σωτῆρί μου",
+      "finnish_biblia": "Ja minun henkeni iloitsee Jumalassa, minun vapahtajassani, ",
+      "swedish_karl_xii": "Och min ande frögdar sigh i Gudi, minom Frälsare:",
+      "king_james": "And my spirit hath rejoiced in God my Saviour."
+    },
+    {
+      "verse": 48,
+      "latin_vulgate": "Quia respexit humilitatem ancillæ suæ: ecce enim ex hoc beatam me dicent omnes generationes,",
+      "greek_textus_receptus": "ὅτι ἐπέβλεψεν ἐπὶ τὴν ταπείνωσιν τῆς δούλης αὐτοῦ ἰδού, γὰρ ἀπὸ τοῦ νῦν μακαριοῦσίν με πᾶσαι αἱ γενεαί",
+      "finnish_biblia": "Että hän katsoi piikansa nöyryyttä; sillä katso, tästedes pitää kaikkein sukukuntain minua autuaaksi kutsuttaman: ",
+      "swedish_karl_xii": "Ty han hafwer sedt til sine tienarinnos ringhet: sij, här efter warda all slächte migh saliga kallandes.",
+      "king_james": "For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed."
+    },
+    {
+      "verse": 49,
+      "latin_vulgate": "quia fecit mihi magna qui potens est: et sanctum nomen ejus,",
+      "greek_textus_receptus": "ὅτι ἐποίησέν μοι μεγάλεῖα ὁ δυνατός καὶ ἅγιον τὸ ὄνομα αὐτοῦ",
+      "finnish_biblia": "Sillä Voimallinen on suuria ihmeitä tehnyt minun kohtaani, ja hänen nimensä on pyhä, ",
+      "swedish_karl_xii": "Ty then Mächtige hafwer giordt mächtig ting medh migh; och hans namn är heligt:",
+      "king_james": "For he that is mighty hath done to me great things; and holy *is* his name."
+    },
+    {
+      "verse": 50,
+      "latin_vulgate": "et misericordia ejus a progenie in progenies timentibus eum.",
+      "greek_textus_receptus": "καὶ τὸ ἔλεος αὐτοῦ εἰς γενεὰς γενεῶν τοῖς φοβουμένοις αὐτόν",
+      "finnish_biblia": "Ja hänen laupiutensa pysyy suvusta sukuun niille, jotka häntä pelkäävät. ",
+      "swedish_karl_xii": "Och hans barmhertighet warar ifrå slächte til slächte, öfwer them som fruchta honom.",
+      "king_james": "And his mercy *is* on them that fear him from generation to generation."
+    },
+    {
+      "verse": 51,
+      "latin_vulgate": "Fecit potentiam in brachio suo: dispersit superbos mente cordis sui.",
+      "greek_textus_receptus": "ἐποίησεν κράτος ἐν βραχίονι αὐτοῦ διεσκόρπισεν ὑπερηφάνους διανοίᾳ καρδίας αὐτῶν",
+      "finnish_biblia": "Hän osoitti voiman käsivarrellansa ja hajotti koriat heidän sydämensä mielestä. ",
+      "swedish_karl_xii": "Han hafwer bedrifwit macht medh sinom arm, och förskingrat them som högfärdige äro vthi theras hiertas sinne.",
+      "king_james": "He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts."
+    },
+    {
+      "verse": 52,
+      "latin_vulgate": "Deposuit potentes de sede, et exaltavit humiles.",
+      "greek_textus_receptus": "καθεῖλεν δυνάστας ἀπὸ θρόνων καὶ ὕψωσεν ταπεινούς",
+      "finnish_biblia": "Voimalliset on hän kukistanut istuimelta ja korotti nöyrät. ",
+      "swedish_karl_xii": "The mächtige hafwer han satt af sätet, och vpsatt the ringa.",
+      "king_james": "He hath put down the mighty from *their* seats, and exalted them of low degree."
+    },
+    {
+      "verse": 53,
+      "latin_vulgate": "Esurientes implevit bonis: et divites dimisit inanes.",
+      "greek_textus_receptus": "πεινῶντας ἐνέπλησεν ἀγαθῶν καὶ πλουτοῦντας ἐξαπέστειλεν κενούς",
+      "finnish_biblia": "Isoovat täytti hän hyvyydellä ja jätti rikkaat tyhjäksi. ",
+      "swedish_karl_xii": "The hungriga hafwer han medh godh ting vpfylt, och the rika hafwer han låtit toma blifwa.",
+      "king_james": "He hath filled the hungry with good things; and the rich he hath sent empty away."
+    },
+    {
+      "verse": 54,
+      "latin_vulgate": "Suscepit Israël puerum suum, recordatus misericordiæ suæ:",
+      "greek_textus_receptus": "ἀντελάβετο ἰσραὴλ παιδὸς αὐτοῦ μνησθῆναι ἐλέους",
+      "finnish_biblia": "Hän korjasi palvelijansa Israelin, muistain omaa laupiuttansa, ",
+      "swedish_karl_xii": "Han hafwer vptagit sin tienare Jsrael; tänckiandes på sina barmhertighet:",
+      "king_james": "He hath holpen his servant Israel, in remembrance of *his* mercy;"
+    },
+    {
+      "verse": 55,
+      "latin_vulgate": "sicut locutus est ad patres nostros, Abraham et semini ejus in sæcula.]",
+      "greek_textus_receptus": "καθὼς ἐλάλησεν πρὸς τοὺς πατέρας ἡμῶν τῷ ἀβραὰμ καὶ τῷ σπέρματι αὐτοῦ εἰς τὸν αἰῶνα",
+      "finnish_biblia": "(Niinkuin hän on puhunut meidän isillemme, Abrahamille ja hänen siemenellensä) ijankaikkisesti. ",
+      "swedish_karl_xii": "Såsom han sagt hafwer til wåra fäder, Abraham, och hans sädh, til ewig tijd.",
+      "king_james": "As he spake to our fathers, to Abraham, and to his seed for ever."
+    },
+    {
+      "verse": 56,
+      "latin_vulgate": "Mansit autem Maria cum illa quasi mensibus tribus: et reversa est in domum suam.",
+      "greek_textus_receptus": "ἕμεινεν δὲ μαριὰμ σὺν αὐτῇ ὡσεὶ μῆνας τρεῖς καὶ ὑπέστρεψεν εἰς τὸν οἶκον αὐτῆς",
+      "finnish_biblia": "Ja Maria oli hänen tykönänsä lähes kolme kuukautta ja palasi kotiansa. ",
+      "swedish_karl_xii": "Och Maria blef när henne widh tre månader; och gick så heem i sitt huus igen.",
+      "king_james": "And Mary abode with her about three months, and returned to her own house."
+    },
+    {
+      "verse": 57,
+      "latin_vulgate": "Elisabeth autem impletum est tempus pariendi, et peperit filium.",
+      "greek_textus_receptus": "τῇ δὲ ἐλισάβετ ἐπλήσθη ὁ χρόνος τοῦ τεκεῖν αὐτήν καὶ ἐγέννησεν υἱόν",
+      "finnish_biblia": "Mutta Elisabetin synnyttämisen aika täytettiin, ja hän synnytti pojan. ",
+      "swedish_karl_xii": "Så wardt tå Elisabet tiden fulbordad at hon skulle föda; och hon födde en son.",
+      "king_james": "Now Elisabeth's full time came that she should be delivered; and she brought forth a son."
+    },
+    {
+      "verse": 58,
+      "latin_vulgate": "Et audierunt vicini et cognati ejus quia magnificavit Dominus misericordiam suam cum illa, et congratulabantur ei.",
+      "greek_textus_receptus": "καὶ ἤκουσαν οἱ περίοικοι καὶ οἱ συγγενεῖς αὐτῆς ὅτι ἐμεγάλυνεν κύριος τὸ ἔλεος αὐτοῦ μετ᾽ αὐτῆς καὶ συνέχαιρον αὐτῇ",
+      "finnish_biblia": "Ja hänen kylällisensä ja lankonsa kuulivat, että Herra oli tehnyt suuren laupiuden hänen kanssansa, ja he iloitsivat hänen kanssansa. ",
+      "swedish_karl_xii": "Och hennes grannar och fränder fingo höra, at Herren hade giordt stoor barmhertighet medh henne, och frögdade sigh medh henne.",
+      "king_james": "And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her."
+    },
+    {
+      "verse": 59,
+      "latin_vulgate": "Et factum est in die octavo, venerunt circumcidere puerum, et vocabant eum nomine patris sui Zachariam.",
+      "greek_textus_receptus": "καὶ ἐγένετο ἐν τῇ ὀγδόῃ ἡμέρᾳ ἦλθον περιτεμεῖν τὸ παιδίον καὶ ἐκάλουν αὐτὸ ἐπὶ τῷ ὀνόματι τοῦ πατρὸς αὐτοῦ ξαχαρίαν",
+      "finnish_biblia": "Ja tapahtui kahdeksantena päivänä, että he tulivat lasta ympärileikkaamaan, ja kutsuivat hänen isänsä nimeltä Sakarias. ",
+      "swedish_karl_xii": "Och thet begaf sigh, på ottonde dagen kommo the til at omskära barnet; och kallade honom efter hans fader Zacharias.",
+      "king_james": "And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father."
+    },
+    {
+      "verse": 60,
+      "latin_vulgate": "Et respondens mater ejus, dixit: Nequaquam, sed vocabitur Joannes.",
+      "greek_textus_receptus": "καὶ ἀποκριθεῖσα ἡ μήτηρ αὐτοῦ εἶπεν οὐχί ἀλλὰ κληθήσεται ἰωάννης",
+      "finnish_biblia": "Niin vastasi hänen äitinsä ja sanoi: ei suinkaan; vaan hän pitää kutsuttaman Johannes. ",
+      "swedish_karl_xii": "Tå swarade hans moder, och sade: Jngalunda; men han skal heta Johannes.",
+      "king_james": "And his mother answered and said, Not *so* ; but he shall be called John."
+    },
+    {
+      "verse": 61,
+      "latin_vulgate": "Et dixerunt ad illam: Quia nemo est in cognatione tua, qui vocetur hoc nomine.",
+      "greek_textus_receptus": "καὶ εἶπον πρὸς αὐτὴν ὅτι οὐδείς ἐστιν ἐν τῇ συγγενεία σου ὃς καλεῖται τῷ ὀνόματι τούτῳ",
+      "finnish_biblia": "Ja he sanoivat hänelle: ei ole ketään sinun sukukunnassas, joka kutsutaan sillä nimellä. ",
+      "swedish_karl_xii": "Tå sade the til henne: Vthi tine slächt är ingen, som hafwer thet namnet.",
+      "king_james": "And they said unto her, There is none of thy kindred that is called by this name."
+    },
+    {
+      "verse": 62,
+      "latin_vulgate": "Innuebant autem patri ejus, quem vellet vocari eum.",
+      "greek_textus_receptus": "ἐνένευον δὲ τῷ πατρὶ αὐτοῦ τὸ τί ἂν θέλοι καλεῖσθαι αὐτόν",
+      "finnish_biblia": "Niin he viittasivat hänen isällensä, miksi hän tahtoi hänen nimittää. ",
+      "swedish_karl_xii": "Så teknade the hans fader, hwad han wille kalla honom.",
+      "king_james": "And they made signs to his father, how he would have him called."
+    },
+    {
+      "verse": 63,
+      "latin_vulgate": "Et postulans pugillarem scripsit, dicens: Joannes est nomen ejus. Et mirati sunt universi.",
+      "greek_textus_receptus": "καὶ αἰτήσας πινακίδιον ἔγραψεν λέγων, ἰωάννης ἐστὶν τὸ ὄνομα αὐτοῦ καὶ ἐθαύμασαν πάντες",
+      "finnish_biblia": "Ja hän anoi taulua ja kirjoitti: Johannes on hänen nimensä. Ja kaikki ihmettelivät. ",
+      "swedish_karl_xii": "Och han eskade ena taflo, ther han vthi skref, säijandes: Johannes är hans namn: och alle förvndrade sigh ther på.",
+      "king_james": "And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all."
+    },
+    {
+      "verse": 64,
+      "latin_vulgate": "Apertum est autem illico os ejus, et lingua ejus, et loquebatur benedicens Deum.",
+      "greek_textus_receptus": "ἀνεῴχθη δὲ τὸ στόμα αὐτοῦ παραχρῆμα καὶ ἡ γλῶσσα αὐτοῦ καὶ ἐλάλει εὐλογῶν τὸν θεόν",
+      "finnish_biblia": "Niin kohta aukeni hänen suunsa ja hänen kielensä, ja puhui kiittäin Jumalaa. ",
+      "swedish_karl_xii": "Och strax öpnades hans mun, och hans tunga, och han talade, lofwandes Gudh.",
+      "king_james": "And his mouth was opened immediately, and his tongue *loosed*, and he spake, and praised God."
+    },
+    {
+      "verse": 65,
+      "latin_vulgate": "Et factus est timor super omnes vicinos eorum: et super omnia montana Judææ divulgabantur omnia verba hæc:",
+      "greek_textus_receptus": "καὶ ἐγένετο ἐπὶ πάντας φόβος τοὺς περιοικοῦντας αὐτούς καὶ ἐν ὅλῃ τῇ ὀρεινῇ τῆς ἰουδαίας διελαλεῖτο πάντα τὰ ῥήματα ταῦτα",
+      "finnish_biblia": "Ja pelko tuli kaikkein heidän kylällistensä päälle, ja kaikissa Juudean mäkikylissä ilmoitettiin kaikki nämä sanat. ",
+      "swedish_karl_xii": "Och stoor fruchtan kom öfwer alla theras grannar: och rychtet om alt thetta gick vthöfwer alla Judeska bergsbygdena.",
+      "king_james": "And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea."
+    },
+    {
+      "verse": 66,
+      "latin_vulgate": "et posuerunt omnes qui audierant in corde suo, dicentes: Quis, putas, puer iste erit? etenim manus Domini erat cum illo.",
+      "greek_textus_receptus": "καὶ ἔθεντο πάντες οἱ ἀκούσαντες ἐν τῇ καρδίᾳ αὐτῶν λέγοντες τί ἄρα τὸ παιδίον τοῦτο ἔσται καὶ χεὶρ κυρίου ἦν μετ᾽ αὐτοῦ",
+      "finnish_biblia": "Ja kaikki , jotka tämän kuulivat, panivat sydämiinsä, sanoen: minkäs luulet tästä lapsesta tulevan? Sillä Herran käsi oli hänen kanssaan. ",
+      "swedish_karl_xii": "Och alle the som thet hörde, sattet i sitt hierta, säijande: Hwad mån warda vthaf thetta barnet? Ty Herrans hand war medh honom.",
+      "king_james": "And all they that heard *them* laid *them* up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him."
+    },
+    {
+      "verse": 67,
+      "latin_vulgate": "Et Zacharias pater ejus repletus est Spiritu Sancto: et prophetavit, dicens:",
+      "greek_textus_receptus": "καὶ ξαχαρίας ὁ πατὴρ αὐτοῦ ἐπλήσθη πνεύματος ἁγίου καὶ προεφήτευσεν λέγων",
+      "finnish_biblia": "Ja Sakarias ja hänen isänsä täytettiin Pyhällä Hengellä ja ennusti, sanoen: ",
+      "swedish_karl_xii": "Och hans fader Zacharias wardt vpfyld medh then Helga Anda, propheterade, och sade:",
+      "king_james": "And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,"
+    },
+    {
+      "verse": 68,
+      "latin_vulgate": "[Benedictus Dominus Deus Israël, quia visitavit, et fecit redemptionem plebis suæ:",
+      "greek_textus_receptus": "εὐλογητὸς κύριος ὁ θεὸς τοῦ ἰσραήλ ὅτι ἐπεσκέψατο καὶ ἐποίησεν λύτρωσιν τῷ λαῷ αὐτοῦ",
+      "finnish_biblia": "Kiitetty olkoon Herra, Israelin Jumala! sillä hän on etsinyt ja lunastanut kansansa, ",
+      "swedish_karl_xii": "Lofwad ware Herren, Jsraels Gudh: ty han hafwer besökt, och förlossat sitt folck.",
+      "king_james": "Blessed *be* the Lord God of Israel; for he hath visited and redeemed his people,"
+    },
+    {
+      "verse": 69,
+      "latin_vulgate": "et erexit cornu salutis nobis in domo David pueri sui,",
+      "greek_textus_receptus": "καὶ ἤγειρεν κέρας σωτηρίας ἡμῖν ἐν τῷ οἴκῳ δαβὶδ τοῦ παιδὸς αὐτοῦ",
+      "finnish_biblia": "Ja on meille korottanut autuuden sarven, Davidin palveliansa huoneessa, ",
+      "swedish_karl_xii": "Och hafwer vprättat oß salighetenes horn, vthi sins tienares Davidz huus.",
+      "king_james": "And hath raised up an horn of salvation for us in the house of his servant David;"
+    },
+    {
+      "verse": 70,
+      "latin_vulgate": "sicut locutum est per os sanctorum, qui a sæculo sunt, prophetarum ejus:",
+      "greek_textus_receptus": "καθὼς ἐλάλησεν διὰ στόματος τῶν ἁγίων τῶν ἀπ᾽ αἰῶνος προφητῶν αὐτοῦ",
+      "finnish_biblia": "Niinkuin hän on muinen puhunut pyhäin prophetainsa suun kautta, ",
+      "swedish_karl_xii": "Såsom han i förtiden talat hafwer, genom sina helga Propheters mun:",
+      "king_james": "As he spake by the mouth of his holy prophets, which have been since the world began:"
+    },
+    {
+      "verse": 71,
+      "latin_vulgate": "salutem ex inimicis nostris, et de manu omnium qui oderunt nos:",
+      "greek_textus_receptus": "σωτηρίαν ἐξ ἐχθρῶν ἡμῶν καὶ ἐκ χειρὸς πάντων τῶν μισούντων ἡμᾶς",
+      "finnish_biblia": "Vapahtaaksensa meitä meidän vihollisiltamme ja kaikkein kädestä, jotka meitä vihaavat: ",
+      "swedish_karl_xii": "At han skulle frälsa oß ifrå wåra owänner, och vthur allas theras hand som hata oß.",
+      "king_james": "That we should be saved from our enemies, and from the hand of all that hate us;"
+    },
+    {
+      "verse": 72,
+      "latin_vulgate": "ad faciendam misericordiam cum patribus nostris: et memorari testamenti sui sancti:",
+      "greek_textus_receptus": "ποιῆσαι ἔλεος μετὰ τῶν πατέρων ἡμῶν καὶ μνησθῆναι διαθήκης ἁγίας αὐτοῦ",
+      "finnish_biblia": "Osoittaaksensa laupiutta meidän isillemme ja muistaaksensa pyhää liittoansa, ",
+      "swedish_karl_xii": "Och bewisa barmhertighet medh wåra fäder, och minnas på sitt helga testamente:",
+      "king_james": "To perform the mercy *promised* to our fathers, and to remember his holy covenant;"
+    },
+    {
+      "verse": 73,
+      "latin_vulgate": "jusjurandum, quod juravit ad Abraham patrem nostrum, daturum se nobis",
+      "greek_textus_receptus": "ὅρκον ὃν ὤμοσεν πρὸς ἀβραὰμ τὸν πατέρα ἡμῶν",
+      "finnish_biblia": "Ja sitä valaa, jonka hän vannoi Abrahamille, meidän isällemme, meille antaaksensa: ",
+      "swedish_karl_xii": "Och på then eed, som han sworit hafwer wårom fader Abraham, at gifwa oß;",
+      "king_james": "The oath which he sware to our father Abraham,"
+    },
+    {
+      "verse": 74,
+      "latin_vulgate": "ut sine timore, de manu inimicorum nostrorum liberati, serviamus illi",
+      "greek_textus_receptus": "τοῦ δοῦναί ἡμῖν ἀφόβως ἐκ χειρὸς τῶν ἐχθρῶν ἡμῶν ῥυσθέντας λατρεύειν αὐτῷ",
+      "finnish_biblia": "Että me, vapahdetut vihollistemme kädestä, häntä pelkäämättä palvelisimme, ",
+      "swedish_karl_xii": "At wij frälste vthu wåra owänners hand, måtte honom tiena vthan fruchtan:",
+      "king_james": "That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,"
+    },
+    {
+      "verse": 75,
+      "latin_vulgate": "in sanctitate et justitia coram ipso, omnibus diebus nostris.",
+      "greek_textus_receptus": "ἐν ὁσιότητι καὶ δικαιοσύνῃ ἐνώπιον αὐτοῦ πάσας τὰς ἡμέρας τὴς ζωῆς ἡμῶν",
+      "finnish_biblia": "Pyhyydessä ja hurskaudessa hänen edessänsä kaikkena meidän elinaikanamme. ",
+      "swedish_karl_xii": "J helighet, och rättferdighet, för honom, i alla wåra lifsdagar.",
+      "king_james": "In holiness and righteousness before him, all the days of our life."
+    },
+    {
+      "verse": 76,
+      "latin_vulgate": "Et tu puer, propheta Altissimi vocaberis: præibis enim ante faciem Domini parare vias ejus,",
+      "greek_textus_receptus": "καὶ σὺ παιδίον προφήτης ὑψίστου κληθήσῃ προπορεύσῃ γὰρ πρὸ προσώπου κυρίου ἑτοιμάσαι ὁδοὺς αὐτοῦ",
+      "finnish_biblia": "Ja sinä poikainen pitää kutsuttaman Ylimmäisen prophetaksi; sillä sinun pitää käymän Herran kasvoin edessä, valmistamaan hänen teitänsä, ",
+      "swedish_karl_xii": "Och tu barn skalt kallas thens Högstas Prophete; tu skalt gå för Herranom, til at bereda hans wägar:",
+      "king_james": "And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways;"
+    },
+    {
+      "verse": 77,
+      "latin_vulgate": "ad dandam scientiam salutis plebi ejus in remissionem peccatorum eorum",
+      "greek_textus_receptus": "τοῦ δοῦναι γνῶσιν σωτηρίας τῷ λαῷ αὐτοῦ ἐν ἀφέσει ἁμαρτιῶν αὐτῶν",
+      "finnish_biblia": "Ja antaman autuuden tunnon hänen kansallensa, heidäin synteinsä anteeksi saamiseksi, ",
+      "swedish_karl_xii": "Och gifwa hans folcke salighetenes kunskap, til theras synders förlåtelse:",
+      "king_james": "To give knowledge of salvation unto his people by the remission of their sins,"
+    },
+    {
+      "verse": 78,
+      "latin_vulgate": "per viscera misericordiæ Dei nostri, in quibus visitavit nos, oriens ex alto:",
+      "greek_textus_receptus": "διὰ σπλάγχνα ἐλέους θεοῦ ἡμῶν ἐν οἷς ἐπεσκέψατο ἡμᾶς ἀνατολὴ ἐξ ὕψους",
+      "finnish_biblia": "Meidän Jumalan sydämellisen laupiuden kautta, jolla meitä on etsinyt koitto ylhäältä, ",
+      "swedish_karl_xii": "Genom wår Gudz innerliga barmhertighet, genom hwilka vpgången af högdene hafwer oß besökt;",
+      "king_james": "Through the tender mercy of our God; whereby the dayspring from on high hath visited us,"
+    },
+    {
+      "verse": 79,
+      "latin_vulgate": "illuminare his qui in tenebris et in umbra mortis sedent: ad dirigendos pedes nostros in viam pacis.]",
+      "greek_textus_receptus": "ἐπιφᾶναι τοῖς ἐν σκότει καὶ σκιᾷ θανάτου καθημένοις τοῦ κατευθῦναι τοὺς πόδας ἡμῶν εἰς ὁδὸν εἰρήνης",
+      "finnish_biblia": "Valaisemaan niille, jotka pimeissä ja kuolon varjoissa istuvat, ja ojentamaan meidän jalkamme rauhan tielle. ",
+      "swedish_karl_xii": "Til at vppenbaras them, som sittia i mörkret och dödsens skugga; och styra wåra fötter på fridsens wägh.",
+      "king_james": "To give light to them that sit in darkness and *in* the shadow of death, to guide our feet into the way of peace."
+    },
+    {
+      "verse": 80,
+      "latin_vulgate": "Puer autem crescebat, et confortabatur spiritu: et erat in desertis usque in diem ostensionis suæ ad Israël.",
+      "greek_textus_receptus": "τὸ δὲ παιδίον ηὔξανεν καὶ ἐκραταιοῦτο πνεύματι καὶ ἦν ἐν ταῖς ἐρήμοις ἕως ἡμέρας ἀναδείξεως αὐτοῦ πρὸς τὸν ἰσραήλ",
+      "finnish_biblia": "Mutta lapsi kasvoi ja vahvistui hengessä, ja oli korvessa siihen päivään asti, jona hänen piti Israelin kansan eteen tuleman.   ",
+      "swedish_karl_xii": "Och barnet wäxte vp, och stärcktes i Andanom: och wistades i öknene, til then dagen han skulle fram komma för Jsraels folck.",
+      "king_james": "And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel."
+    }
+  ]
+}

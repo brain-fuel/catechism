@@ -1,0 +1,227 @@
+{
+  "book_id": "MAT",
+  "latin_name": "Evangelium secundum Matthaeum",
+  "greek_name": "Κατὰ Ματθαῖον",
+  "finnish_name": "Matteuksen evankeliumi",
+  "swedish_name": "S. Matthei Evangelium",
+  "english_name": "The Gospel According to Matthew",
+  "chapter": 17,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et post dies sex assumit Jesus Petrum, et Jacobum, et Joannem fratrem ejus, et ducit illos in montem excelsum seorsum:",
+      "greek_textus_receptus": "καὶ μεθ᾽ ἡμέρας ἓξ παραλαμβάνει ὁ ἰησοῦς τὸν πέτρον καὶ ἰάκωβον καὶ ἰωάννην τὸν ἀδελφὸν αὐτοῦ καὶ ἀναφέρει αὐτοὺς εἰς ὄρος ὑψηλὸν κατ᾽ ἰδίαν",
+      "finnish_biblia": "Ja kuuden päivän perästä otti Jesus Pietarin ja Jakobin ja Johanneksen hänen veljensä, ja vei heidät erinänsä korkialle vuorelle. ",
+      "swedish_karl_xii": "Och sex dagar ther efter, tog Jesus Petrum, och Jacobum, och Johannem hans broder til sigh; och hade them afsides vp på ett högt berg;",
+      "king_james": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "et transfiguratus est ante eos. Et resplenduit facies ejus sicut sol: vestimenta autem ejus facta sunt alba sicut nix.",
+      "greek_textus_receptus": "καὶ μετεμορφώθη ἔμπροσθεν αὐτῶν καὶ ἔλαμψεν τὸ πρόσωπον αὐτοῦ ὡς ὁ ἥλιος τὰ δὲ ἱμάτια αὐτοῦ ἐγένετο λευκὰ ὡς τὸ φῶς",
+      "finnish_biblia": "Ja kirkastettiin heidän edessänsä, ja hänen kasvonsa paistivat niinkuin aurinko, ja hänen vaatteensa tulivat valkiaksi niinkuin valkeus. ",
+      "swedish_karl_xii": "Och wardt förklarad för them: och hans ansichte skeen som solen; och hans kläder wordo hwijt som ett lius.",
+      "king_james": "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et ecce apparuerunt illis Moyses et Elias cum eo loquentes.",
+      "greek_textus_receptus": "καὶ ἰδού ὤφθησαν αὐτοῖς μωσῆς καὶ ἠλίας μετ᾽ αὐτοῦ συλλαλοῦντες",
+      "finnish_biblia": "Ja katso, heille näkyivät Moses ja Elias, jotka puhuivat hänen kanssansa. ",
+      "swedish_karl_xii": "Och sij, them syntes Mose, och Elias, talande medh honom.",
+      "king_james": "And, behold, there appeared unto them Moses and Elias talking with him."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Respondens autem Petrus, dixit ad Jesum: Domine, bonum est nos hic esse: si vis, faciamus tria tabernacula, tibi unum, Moysi unum, et Eliæ unum.",
+      "greek_textus_receptus": "ἀποκριθεὶς δὲ ὁ πέτρος εἰπεν τῷ ἰησοῦ κύριε καλόν ἐστιν ἡμᾶς ὧδε εἶναι εἰ θέλεις ποιήσωμεν ὧδε τρεῖς σκηνάς σοὶ μίαν καὶ μωσῇ μίαν καὶ μίαν ἠλίᾳ",
+      "finnish_biblia": "Niin vastasi Pietari ja sanoi Jesukselle: Herra, meidän on tässä hyvä olla: jos sinä tahdot, niin me teemme tähän kolme majaa, sinulle yhden, ja Mosekselle yhden, ja Eliaalle yhden. ",
+      "swedish_karl_xii": "Tå swarade Petrus, och sade til Jesum: Herre, här är oß godt wara: wilt tu, så wilje wij här giöra tre hyddor; tigh ena, och Mosi ena, och Elie ena.",
+      "king_james": "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Adhuc eo loquente, ecce nubes lucida obumbravit eos. Et ecce vox de nube, dicens: Hic est Filius meus dilectus, in quo mihi bene complacui: ipsum audite.",
+      "greek_textus_receptus": "ἔτι αὐτοῦ λαλοῦντος ἰδού νεφέλη φωτεινὴ ἐπεσκίασεν αὐτούς καὶ ἰδού φωνὴ ἐκ τῆς νεφέλης λέγουσα οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός ἐν ᾧ εὐδόκησα αὐτοῦ ἀκούετε",
+      "finnish_biblia": "Vielä hänen puhuissansa, katso, paistava pilvi ympäri varjosi heidät, ja katso, ääni pilvestä sanoi: tämä on minun rakas Poikani, johonka minä mielistyin: kuulkaat häntä. ",
+      "swedish_karl_xii": "Widh han ännu talade, sij, en lius skyy omskygde them; och sij, een röst vthu skyyn sade: Thenne är min käre Son, i hwilkom jagh hafwer ett godt behagh; honom hörer.",
+      "king_james": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Et audientes discipuli ceciderunt in faciem suam, et timuerunt valde.",
+      "greek_textus_receptus": "καὶ ἀκούσαντες οἱ μαθηταὶ ἔπεσον ἐπὶ πρόσωπον αὐτῶν καὶ ἐφοβήθησαν σφόδρα",
+      "finnish_biblia": "Ja kuin opetuslapset sen kuulivat, lankesivat he kasvoillensa, ja peljästyivät sangen kovin. ",
+      "swedish_karl_xii": "Och när Lärjungarna thet hörde, föllo the på sitt ansichte, och wordo swårliga förfärade.",
+      "king_james": "And when the disciples heard *it*, they fell on their face, and were sore afraid."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Et accessit Jesus, et tetigit eos: dixitque eis: Surgite, et nolite timere.",
+      "greek_textus_receptus": "καὶ προσελθὼν ὁ ἰησοῦς ἥψατο αὐτῶν καὶ εἶπεν ἐγέρθητε καὶ μὴ φοβεῖσθε",
+      "finnish_biblia": "Ja Jesus tuli, ja rupesi heihin, ja sanoi: nouskaat, ja älkäät peljätkö. ",
+      "swedish_karl_xii": "Men Jesus gick til, och tog på them, och sade: Står vp, och rädens icke.",
+      "king_james": "And Jesus came and touched them, and said, Arise, and be not afraid."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Levantes autem oculos suos, neminem viderunt, nisi solum Jesum.",
+      "greek_textus_receptus": "ἐπάραντες δὲ τοὺς ὀφθαλμοὺς αὐτῶν οὐδένα εἶδον εἰ μὴ τὸν ἰησοῦν μόνον",
+      "finnish_biblia": "Mutta kuin he silmänsä nostivat, ei he ketään nähneet, vaan Jesuksen yksinänsä. ",
+      "swedish_karl_xii": "Men tå the vplyfte sin ögon, sågo the ingen, vtan Jesum allena.",
+      "king_james": "And when they had lifted up their eyes, they saw no man, save Jesus only."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Et descendentibus illis de monte, præcepit eis Jesus, dicens: Nemini dixeritis visionem, donec Filius hominis a mortuis resurgat.",
+      "greek_textus_receptus": "καὶ καταβαινόντων αὐτῶν ἀπὸ τοῦ ὄρους ἐνετείλατο αὐτοῖς ὁ ἰησοῦς λέγων μηδενὶ εἴπητε τὸ ὅραμα ἕως οὗ ὁ υἱὸς τοῦ ἀνθρώπου ἐκ νεκρῶν ἀναστῇ",
+      "finnish_biblia": "Ja kuin he menivät vuorelta alas, haastoi Jesus heitä, sanoen: älkäät kellenkään tätä näkyä sanoko, siihenasti kuin Ihmisen Poika kuolleista nousee. ",
+      "swedish_karl_xii": "Och när the gingo nedh af berget, böd Jesus them, och sade: Säger för ingen thenna synena, til thes menniskiones Son är vpstånden ifrå the döda.",
+      "king_james": "And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Et interrogaverunt eum discipuli, dicentes: Quid ergo scribæ dicunt, quod Eliam oporteat primum venire?",
+      "greek_textus_receptus": "καὶ ἐπηρώτησαν αὐτὸν οἱ μαθηταὶ αὐτοῦ λέγοντες τί οὖν οἱ γραμματεῖς λέγουσιν ὅτι ἠλίαν δεῖ ἐλθεῖν πρῶτον",
+      "finnish_biblia": "Niin hänen opetuslapsensa kysyivät häneltä, sanoen: miksi siis kirjanoppineet sanovat, että Eliaan pitää ennen tuleman? ",
+      "swedish_karl_xii": "Och frågade honom hans Lärjungar, och sade: Hwij säija tå the Skriftlärde, at Elias måste komma tilförene?",
+      "king_james": "And his disciples asked him, saying, Why then say the scribes that Elias must first come?"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "At ille respondens, ait eis: Elias quidem venturus est, et restituet omnia.",
+      "greek_textus_receptus": "ὁ δὲ ἰησοῦς ἀποκριθεὶς εἶπεν αὐτοῖς ἠλίας μὲν ἔρχεται πρῶτον καὶ ἀποκαταστήσει πάντα",
+      "finnish_biblia": "Niin Jesus vastaten sanoi heille: Elias tosin tulee ennen, ja kohentaa kaikki. ",
+      "swedish_karl_xii": "Jesus swarade, och sade til them: Elias skal ju komma först, och skicka all ting i lagh igen.",
+      "king_james": "And Jesus answered and said unto them, Elias truly shall first come, and restore all things."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Dico autem vobis, quia Elias jam venit, et non cognoverunt eum, sed fecerunt in eo quæcumque voluerunt. Sic et Filius hominis passurus est ab eis.",
+      "greek_textus_receptus": "λέγω δὲ ὑμῖν ὅτι ἠλίας ἤδη ἦλθεν καὶ οὐκ ἐπέγνωσαν αὐτὸν ἀλλ᾽ ἐποίησαν ἐν αὐτῷ ὅσα ἠθέλησαν οὕτως καὶ ὁ υἱὸς τοῦ ἀνθρώπου μέλλει πάσχειν ὑπ᾽ αὐτῶν",
+      "finnish_biblia": "Mutta minä sanon teille: Elias on jo tullut; ja ei he tunteneet häntä, mutta tekivät hänelle mitä he tahtoivat. Niin myös Ihmisen Poika on heiltä kärsivä. ",
+      "swedish_karl_xii": "Men jagh säger eder: Elias är allaredo kommen, och the kände honom intet; vtan giorde honom hwad the wille. Sammalunda skal ock menniskiones Son lida af them.",
+      "king_james": "But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Tunc intellexerunt discipuli, quia de Joanne Baptista dixisset eis.",
+      "greek_textus_receptus": "τότε συνῆκαν οἱ μαθηταὶ ὅτι περὶ ἰωάννου τοῦ βαπτιστοῦ εἶπεν αὐτοῖς",
+      "finnish_biblia": "Silloin ymmärsivät opetuslapset hänen Johannes Kastajasta sanoneen heille. ",
+      "swedish_karl_xii": "Tå förstodo Lärjungarna, at han sade them om Johanne Döparen.",
+      "king_james": "Then the disciples understood that he spake unto them of John the Baptist."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Et cum venisset ad turbam, accessit ad eum homo genibus provolutus ante eum, dicens:",
+      "greek_textus_receptus": "καὶ ἐλθόντων αὐτῶν πρὸς τὸν ὄχλον προσῆλθεν αὐτῷ ἄνθρωπος γονυπετῶν αὐτῷ καὶ λέγων",
+      "finnish_biblia": "Ja kuin he kansan tykö tulivat, tuli yksi mies hänen tykönsä ja lankesi polvillensa hänen eteensä, ",
+      "swedish_karl_xii": "Och när the kommo til folcket, steg en man fram, bögde för honom sin knää;",
+      "king_james": "And when they were come to the multitude, there came to him a *certain* man, kneeling down to him, and saying,"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Domine, miserere filio meo, quia lunaticus est, et male patitur: nam sæpe cadit in ignem, et crebro in aquam.",
+      "greek_textus_receptus": "κύριε ἐλέησόν μου τὸν υἱόν ὅτι σεληνιάζεται καὶ κακῶς πάσχει πολλάκις γὰρ πίπτει εἰς τὸ πῦρ καὶ πολλάκις εἰς τὸ ὕδωρ",
+      "finnish_biblia": "Ja sanoi: Herra, armahda minun poikaani, sillä hän on kuutaudillinen ja kovin vaivataan; sillä hän lankee usein tuleen ja usein veteen. ",
+      "swedish_karl_xii": "Och sade: Herre, förbarma tigh öfwer min son: ty han är månaderasande, och lider stoor jämmer: ty han faller ofta i elden, och ofta i watnet:",
+      "king_james": "Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Et obtuli eum discipulis tuis, et non potuerunt curare eum.",
+      "greek_textus_receptus": "καὶ προσήνεγκα αὐτὸν τοῖς μαθηταῖς σου καὶ οὐκ ἠδυνήθησαν αὐτὸν θεραπεῦσαι",
+      "finnish_biblia": "Ja minä toin hänen opetuslastes tykö, ja ei he voineet häntä parantaa. ",
+      "swedish_karl_xii": "Och jagh hade honom fram för tina Lärjungar, och the kunde intet hielpa honom.",
+      "king_james": "And I brought him to thy disciples, and they could not cure him."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Respondens autem Jesus, ait: O generatio incredula, et perversa, quousque ero vobiscum? usquequo patiar vos? Afferte huc illum ad me.",
+      "greek_textus_receptus": "ἀποκριθεὶς δὲ ὁ ἰησοῦς εἶπεν ὦ γενεὰ ἄπιστος καὶ διεστραμμένη ἕως πότε ἔσομαι μεθ᾽ ὑμῶν ἕως πότε ἀνέξομαι ὑμῶν φέρετέ μοι αὐτὸν ὧδε",
+      "finnish_biblia": "Niin Jesus vastaten sanoi: oi epäuskoinen ja nurja sukukunta! kuinka kauvan minun pitää teidän kanssanne oleman? kuinka kauvan minun pitää teitä kärsimän? Tuokaat häntä minulle tänne. ",
+      "swedish_karl_xii": "Tå swarade Jesus, och sade: O tu otrogna och genwördiga slächte, huru länge skal jagh wara medh eder? Huru länge skal jagh lida eder? Hafwer honom hijt.",
+      "king_james": "Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Et increpavit illum Jesus, et exiit ab eo dæmonium, et curatus est puer ex illa hora.",
+      "greek_textus_receptus": "καὶ ἐπετίμησεν αὐτῷ ὁ ἰησοῦς καὶ ἐξῆλθεν ἀπ᾽ αὐτοῦ τὸ δαιμόνιον καὶ ἐθεραπεύθη ὁ παῖς ἀπὸ τῆς ὥρας ἐκείνης",
+      "finnish_biblia": "Ja Jesus rankaisi sitä, ja perkele meni hänestä ulos; ja poika parani sillä hetkellä. ",
+      "swedish_karl_xii": "Och Jesus hotade honom, och diefwulen gick vth af honom; och drängen wardt helbregda i samma stund.",
+      "king_james": "And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Tunc accesserunt discipuli ad Jesum secreto, et dixerunt: Quare nos non potuimus ejicere illum?",
+      "greek_textus_receptus": "τότε προσελθόντες οἱ μαθηταὶ τῷ ἰησοῦ κατ᾽ ἰδίαν εἶπον διατί ἡμεῖς οὐκ ἠδυνήθημεν ἐκβαλεῖν αὐτό",
+      "finnish_biblia": "Silloin menivät opetuslapset Jesuksen tykö erinänsä, ja sanoivat: miksi emme voineet sitä ajaa ulos? ",
+      "swedish_karl_xii": "Tå gingo Lärjungarna til Jesum afsides, och sade: Hwij kunde icke wij drifwa honom vth?",
+      "king_james": "Then came the disciples to Jesus apart, and said, Why could not we cast him out?"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Dixit illis Jesus: Propter incredulitatem vestram. Amen quippe dico vobis, si habueritis fidem sicut granum sinapis, dicetis monti huic: Transi hinc illuc, et transibit, et nihil impossibile erit vobis.",
+      "greek_textus_receptus": "ὁ δὲ ἰησοῦς εἶπεν αὐτοῖς διὰ τὴν ἀπιστίαν ὑμῶν ἀμὴν γὰρ λέγω ὑμῖν ἐὰν ἔχητε πίστιν ὡς κόκκον σινάπεως ἐρεῖτε τῷ ὄρει τούτῳ μετάβηθι ἔντεῦθεν ἐκεῖ καὶ μεταβήσεται καὶ οὐδὲν ἀδυνατήσει ὑμῖν",
+      "finnish_biblia": "Niin Jesus sanoi heille: epäuskonne tähden. Sillä totisesti minä sanon teille: jos teillä olis usko niinkuin sinapin siemen, niin te taitaisitte sanoa tälle vuorelle: siirry tästä sinne, niin se siirtyis, ja ei teille mitään olisi mahdotointa. ",
+      "swedish_karl_xii": "Jesus sade til them: För edra otro skul. Sannerliga säger jagh eder: Om J hafwen trona som ett senapskorn, tå mågen J säija til thetta berget: Gack hädan tijt bort, och thet skal gå; och eder warder intet omögeligit.",
+      "king_james": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Hoc autem genus non ejicitur nisi per orationem et jejunium.",
+      "greek_textus_receptus": "τοῦτο δὲ τὸ γένος οὐκ ἐκπορεύεται εἰ μὴ ἐν προσευχῇ καὶ νηστείᾳ",
+      "finnish_biblia": "Vaan tämä suku ei mene muutoin ulos kuin rukouksella ja paastolla. ",
+      "swedish_karl_xii": "Men thetta slaget går icke vth, vtan medh böön och fasto.",
+      "king_james": "Howbeit this kind goeth not out but by prayer and fasting."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Conversantibus autem eis in Galilæa, dixit illis Jesus: Filius hominis tradendus est in manus hominum:",
+      "greek_textus_receptus": "ἀναστρεφομένων δὲ αὐτῶν ἐν τῇ γαλιλαίᾳ εἶπεν αὐτοῖς ὁ ἰησοῦς μέλλει ὁ υἱὸς τοῦ ἀνθρώπου παραδίδοσθαι εἰς χεῖρας ἀνθρώπων",
+      "finnish_biblia": "Kuin he asuivat Galileassa, sanoi Jesus heille: tapahtuva on, että Ihmisen Poika annetaan ylön ihmisten käsiin; ",
+      "swedish_karl_xii": "Men tå the wistades i Galileen, sade Jesus til them: Thet skal skee, at menniskiones Son warder öfwerantwardad i menniskiors händer:",
+      "king_james": "And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men:"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "et occident eum, et tertia die resurget. Et contristati sunt vehementer.",
+      "greek_textus_receptus": "καὶ ἀποκτενοῦσιν αὐτόν καὶ τῇ τρίτῃ ἡμέρᾳ ἐγερθήσεται καὶ ἐλυπήθησαν σφόδρα",
+      "finnish_biblia": "Ja he tappavat hänen, ja kolmantena päivänä hän nousee ylös. Ja he tulivat sangen murheellisiksi. ",
+      "swedish_karl_xii": "Och the skola dräpa honom: och tredie dagen skal han stå vp igen. Och the wordo storliga bedröfwade.",
+      "king_james": "And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Et cum venissent Capharnaum, accesserunt qui didrachma accipiebant ad Petrum, et dixerunt ei: Magister vester non solvit didrachma?",
+      "greek_textus_receptus": "ἐλθόντων δὲ αὐτῶν εἰς καπερναούμ προσῆλθον οἱ τὰ δίδραχμα λαμβάνοντες τῷ πέτρῳ καὶ εἶπον ὁ διδάσκαλος ὑμῶν οὐ τελεῖ τὰ δίδραχμα",
+      "finnish_biblia": "Mutta kuin he menivät Kapernaumiin, tulivat verorahan ottajat Pietarin tykö, ja sanoivat: eikö Mestarinne ole tottunut verorahaa maksamaan? ",
+      "swedish_karl_xii": "Och när the kommo til Capernaum, gingo the, som skattpenningen plägade vpbära, til Petrum, och sade: Plägar icke edar mästare gifwa skattpenning?",
+      "king_james": "And when they were come to Capernaum, they that received tribute *money* came to Peter, and said, Doth not your master pay tribute?"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Ait: Etiam. Et cum intrasset in domum, prævenit eum Jesus, dicens: Quid tibi videtur Simon? reges terræ a quibus accipiunt tributum vel censum? a filiis suis, an ab alienis?",
+      "greek_textus_receptus": "λέγει ναί καὶ ὅτε εἰσῆλθεν εἰς τὴν οἰκίαν προέφθασεν αὐτὸν ὁ ἰησοῦς λέγων τί σοι δοκεῖ σίμων οἱ βασιλεῖς τῆς γῆς ἀπὸ τίνων λαμβάνουσιν τέλη ἢ κῆνσον ἀπὸ τῶν υἱῶν αὐτῶν ἢ ἀπὸ τῶν ἀλλοτρίων",
+      "finnish_biblia": "Sanoi hän: on. Ja kuin hän tuli huoneeseen, ennätti hänen Jesus, ja sanoi: mitäs luulet, Simon? keiltä maan kuninkaat ottavat tullin eli veron? omilta lapsiltansa, taikka vierailta? ",
+      "swedish_karl_xii": "Tå sade han: Ja; och som han kom i huset, förekom honom Jesus, och sade: Hwad synes tigh, Simon? Af hwem taga jorderikes Konungar toll eller skatt? Af sin barn, eller af the främmande?",
+      "king_james": "He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?"
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Et ille dixit: Ab alienis. Dixit illi Jesus: Ergo liberi sunt filii.",
+      "greek_textus_receptus": "λέγει αὐτῷ ὁ πέτρος ἀπὸ τῶν ἀλλοτρίων ἔφη αὐτῷ ὁ ἰησοῦς ἄραγε ἐλεύθεροί εἰσιν οἱ υἱοί",
+      "finnish_biblia": "Pietari sanoi hänelle: vierailta. Sanoi Jesus hänelle: niin lapset ovat vapaat. ",
+      "swedish_karl_xii": "Sade Petrus til honom: Af the främmande. Tå sade Jesus til honom: Så äro ju barnen frij.",
+      "king_james": "Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free."
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Ut autem non scandalizemus eos, vade ad mare, et mitte hamum: et eum piscem, qui primus ascenderit, tolle: et aperto ore ejus, invenies staterem: illum sumens, da eis pro me et te.",
+      "greek_textus_receptus": "ἵνα δὲ μὴ σκανδαλίσωμεν αὐτούς πορευθεὶς εἰς τὴν θάλασσαν βάλε ἄγκιστρον καὶ τὸν ἀναβάντα πρῶτον ἰχθὺν ἆρον καὶ ἀνοίξας τὸ στόμα αὐτοῦ εὑρήσεις στατῆρα ἐκεῖνον λαβὼν δὸς αὐτοῖς ἀντὶ ἐμοῦ καὶ σοῦ",
+      "finnish_biblia": "Mutta ettemme heitä pahentaisi, niin mene merelle, heitä onkes, ja ota se kala, joka ensin tulee ylös, ja avaa hänen suunsa, niin sinä löydät rahan: ota se, ja anna heille minun ja sinun edestäs.   ",
+      "swedish_karl_xii": "Men på thet wij icke skole förarga them, så gack til hafwet, och kasta vth kroken, och then första fisk tu får, tag: och när tu låter vp hans mun, warder tu finnandes en penning; then tag, och få honom vth, för migh, och tigh.",
+      "king_james": "Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee."
+    }
+  ]
+}

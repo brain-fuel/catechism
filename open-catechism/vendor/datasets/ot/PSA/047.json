@@ -1,0 +1,219 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 47,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "  Omnes gentes, plaudite manibus ;  jubilate Deo in voce exsultationis : ",
+      "hebrew_masoretic": "כׇּֽל־הָ֭עַמִּים תִּקְעוּ־כָ֑ף הָרִ֥יעוּ לֵ֝אלֹהִ֗ים בְּק֣וֹל רִנָּֽה׃",
+      "douay_rheims": "O clap your hands, all ye nations: shout unto God with the voice of joy,",
+      "finnish_biblia": "Koran lasten Psalmi, edelläveisaajalle. (H47:2) Kaikki kansat, paukuttakaat käsiänne, ja ihastukaat Jumalalle iloisella äänellä. ",
+      "swedish_karl_xii": "Klapper medh händerna all folck, och frögdens Gudi medh glädsamma röst.",
+      "king_james": "O clap your hands, all ye people; shout unto God with the voice of triumph.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "46:2"
+        },
+        "hebrew_masoretic": {
+          "src": "47:2"
+        },
+        "douay_rheims": {
+          "src": "46:2"
+        },
+        "swedish_karl_xii": {
+          "src": "47:2"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " quoniam Dominus excelsus, terribilis,  rex magnus super omnem terram. ",
+      "hebrew_masoretic": "כִּֽי־יְהֹוָ֣ה עֶלְי֣וֹן נוֹרָ֑א מֶ֥לֶךְ גָּ֝ד֗וֹל עַל־כׇּל־הָאָֽרֶץ׃",
+      "douay_rheims": "For the Lord is high, terrible: a great king over all the earth.",
+      "finnish_biblia": "Sillä Herra kaikkein korkein on hirmuinen, suuri kuningas koko maan päällä. ",
+      "swedish_karl_xii": "Ty HERREN then alrahögste är förskräckelig; en stoor Konung på hela jordene.",
+      "king_james": "For the LORD most high is terrible; he is a great King over all the earth.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "46:3"
+        },
+        "hebrew_masoretic": {
+          "src": "47:3"
+        },
+        "douay_rheims": {
+          "src": "46:3"
+        },
+        "swedish_karl_xii": {
+          "src": "47:3"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Subjecit populos nobis,  et gentes sub pedibus nostris. ",
+      "hebrew_masoretic": "יַדְבֵּ֣ר עַמִּ֣ים תַּחְתֵּ֑ינוּ וּ֝לְאֻמִּ֗ים תַּ֣חַת רַגְלֵֽינוּ׃",
+      "douay_rheims": "He hath subdued the people under us; and the nations under our feet.",
+      "finnish_biblia": "Hän vaatii kansat allemme, ja pakanat meidän jalkaimme alle. ",
+      "swedish_karl_xii": "Han skal twinga folck vnder oß, och Hedningar vnder wåra fötter.",
+      "king_james": "He shall subdue the people under us, and the nations under our feet.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "46:4"
+        },
+        "hebrew_masoretic": {
+          "src": "47:4"
+        },
+        "douay_rheims": {
+          "src": "46:4"
+        },
+        "swedish_karl_xii": {
+          "src": "47:4"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Elegit nobis hæreditatem suam ;  speciem Jacob quam dilexit. ",
+      "hebrew_masoretic": "יִבְחַר־לָ֥נוּ אֶת־נַחֲלָתֵ֑נוּ אֶ֥ת־גְּא֨וֹן יַעֲקֹ֖ב אֲשֶׁר־אָהֵ֣ב סֶֽלָה׃",
+      "douay_rheims": "He hath chosen for us his inheritance, the beauty of Jacob which he hath loved.",
+      "finnish_biblia": "Hän valitsee meille perimisemme, Jakobin kunnian, jota hän rakastaa, Sela! ",
+      "swedish_karl_xii": "Han vthwäljer oß til en arfwedeel, Jacobs härlighet then han älskar. Sela.",
+      "king_james": "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "46:5"
+        },
+        "hebrew_masoretic": {
+          "src": "47:5"
+        },
+        "douay_rheims": {
+          "src": "46:5"
+        },
+        "swedish_karl_xii": {
+          "src": "47:5"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " Ascendit Deus in jubilo,  et Dominus in voce tubæ. ",
+      "hebrew_masoretic": "עָלָ֣ה אֱ֭לֹהִים בִּתְרוּעָ֑ה יְ֝הֹוָ֗ה בְּק֣וֹל שׁוֹפָֽר׃",
+      "douay_rheims": "God is ascended with jubilee, and the Lord with the sound of trumpet.",
+      "finnish_biblia": "Jumala astui ylös riemulla, ja Herra helisevällä basunalla. ",
+      "swedish_karl_xii": "Gudh är vpfaren medh frögd; och HERREN medh klar basuun.",
+      "king_james": "God is gone up with a shout, the LORD with the sound of a trumpet.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "46:6"
+        },
+        "hebrew_masoretic": {
+          "src": "47:6"
+        },
+        "douay_rheims": {
+          "src": "46:6"
+        },
+        "swedish_karl_xii": {
+          "src": "47:6"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Psallite Deo nostro, psallite ;  psallite regi nostro, psallite : ",
+      "hebrew_masoretic": "זַמְּר֣וּ אֱלֹהִ֣ים זַמֵּ֑רוּ זַמְּר֖וּ לְמַלְכֵּ֣נוּ זַמֵּֽרוּ׃",
+      "douay_rheims": "Sing praises to our God, sing ye: sing praises to our king, sing ye.",
+      "finnish_biblia": "Veisatkaat, veisatkaat Jumalalle: veisatkaat, veisatkaat kuninkaallemme. ",
+      "swedish_karl_xii": "Lofsiunger, lofsiunger Gudi; lofsiunger, lofsiunger wårom Konung.",
+      "king_james": "Sing praises to God, sing praises: sing praises unto our King, sing praises.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "46:7"
+        },
+        "hebrew_masoretic": {
+          "src": "47:7"
+        },
+        "douay_rheims": {
+          "src": "46:7"
+        },
+        "swedish_karl_xii": {
+          "src": "47:7"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " quoniam rex omnis terræ Deus,  psallite sapienter. ",
+      "hebrew_masoretic": "כִּ֤י מֶ֖לֶךְ כׇּל־הָאָ֥רֶץ אֱלֹהִ֗ים זַמְּר֥וּ מַשְׂכִּֽיל׃",
+      "douay_rheims": "For God is the king of all the earth: sing ye wisely.",
+      "finnish_biblia": "Sillä Jumala on koko maan kuningas: veisatkaat hänelle taitavasti. ",
+      "swedish_karl_xii": "Ty Gudh är Konung på hela jordene: lofsiunger honom förnufteliga.",
+      "king_james": "For God is the King of all the earth: sing ye praises with understanding.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "46:8"
+        },
+        "hebrew_masoretic": {
+          "src": "47:8"
+        },
+        "douay_rheims": {
+          "src": "46:8"
+        },
+        "swedish_karl_xii": {
+          "src": "47:8"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " Regnabit Deus super gentes ;  Deus sedet super sedem sanctam suam. ",
+      "hebrew_masoretic": "מָלַ֣ךְ אֱ֭לֹהִים עַל־גּוֹיִ֑ם אֱ֝לֹהִ֗ים יָשַׁ֤ב ׀ עַל־כִּסֵּ֬א קׇדְשֽׁוֹ׃",
+      "douay_rheims": "God shall reign over the nations: God sitteth on his holy throne.",
+      "finnish_biblia": "Jumala on pakanain kuningas: Jumala istuu pyhällä istuimellansa. ",
+      "swedish_karl_xii": "Gudh är Konung öfwer Hedningarna: Gudh sitter på sinom helga stool.",
+      "king_james": "God reigneth over the heathen: God sitteth upon the throne of his holiness.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "46:9"
+        },
+        "hebrew_masoretic": {
+          "src": "47:9"
+        },
+        "douay_rheims": {
+          "src": "46:9"
+        },
+        "swedish_karl_xii": {
+          "src": "47:9"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": " Principes populorum congregati sunt cum Deo Abraham,  quoniam dii fortes terræ vehementer elevati sunt.  ",
+      "hebrew_masoretic": "נְדִ֘יבֵ֤י עַמִּ֨ים ׀ נֶאֱסָ֗פוּ עַם֮ אֱלֹהֵ֢י אַבְרָ֫הָ֥ם כִּ֣י לֵ֭אלֹהִים מָֽגִנֵּי־אֶ֗רֶץ מְאֹ֣ד נַעֲלָֽה׃ {פ}",
+      "douay_rheims": "The princes of the people are gathered together, with the God of Abraham: for the strong gods of the earth are exceedingly exalted. ",
+      "finnish_biblia": "Kansain päämiehet ovat kokoontuneet Abrahamin Jumalan kansan tykö; sillä maan edesvastaajat ovat Jumalan: hän on sangen suuresti ylennetty.   ",
+      "swedish_karl_xii": "Förstarna ibland folcken äro församlade til ett folck Abrahams Gudi: ty Gudh är fast vphögd, när herrarna på jordene.",
+      "king_james": "The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "46:10"
+        },
+        "hebrew_masoretic": {
+          "src": "47:10"
+        },
+        "douay_rheims": {
+          "src": "46:10"
+        },
+        "swedish_karl_xii": {
+          "src": "47:10"
+        }
+      }
+    }
+  ]
+}

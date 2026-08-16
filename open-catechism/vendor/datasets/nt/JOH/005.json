@@ -1,0 +1,387 @@
+{
+  "book_id": "JOH",
+  "latin_name": "Evangelium secundum Ioannem",
+  "greek_name": "Κατὰ Ἰωάννην",
+  "finnish_name": "Johanneksen evankeliumi",
+  "swedish_name": "S. Johannis Evangelium",
+  "english_name": "The Gospel According to John",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Post hæc erat dies festus Judæorum, et ascendit Jesus Jerosolymam.",
+      "greek_textus_receptus": "μετὰ ταῦτα ἦν ἑορτὴ τῶν ἰουδαίων καὶ ἀνέβη ὁ ἰησοῦς εἰς ἱεροσόλυμα",
+      "finnish_biblia": "Sitte oli Juudalaisten juhlapäivä, ja Jesus meni ylös Jerusalemiin. ",
+      "swedish_karl_xii": "Ther efter war een Judarnas högtijd; och Jesus foor vp til Jerusalem.",
+      "king_james": "After this there was a feast of the Jews; and Jesus went up to Jerusalem."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Est autem Jerosolymis probatica piscina, quæ cognominatur hebraice Bethsaida, quinque porticus habens.",
+      "greek_textus_receptus": "ἔστιν δὲ ἐν τοῖς ἱεροσολύμοις ἐπὶ τῇ προβατικῇ κολυμβήθρα ἡ ἐπιλεγομένη ἑβραϊστὶ βηθεσδά, πέντε στοὰς ἔχουσα",
+      "finnish_biblia": "Mutta Jerusalemissa on Lammasportin tykönä lammikko, joka Hebrean kielellä kutsutaan Betesda, jossa oli viisi vajaa, ",
+      "swedish_karl_xii": "Men i Jerusalem är en dam, widh fårahuset, som heet på Ebreisko Bethesda, och hade fem skiul:",
+      "king_james": "Now there is at Jerusalem by the sheep *market* a pool, which is called in the Hebrew tongue Bethesda, having five porches."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "In his jacebat multitudo magna languentium, cæcorum, claudorum, aridorum, exspectantium aquæ motum.",
+      "greek_textus_receptus": "ἐν ταύταις κατέκειτο πλῆθος πολὺ τῶν ἀσθενούντων τυφλῶν χωλῶν ξηρῶν ἐκδεχομένων τὴν τοῦ ὕδατος κίνησιν",
+      "finnish_biblia": "Joissa makasi suuri joukko sairaita, sokeita, ontuvia, halvatuita, jotka veden liikuttamista odottivat. ",
+      "swedish_karl_xii": "Ther vthi lågo en stoor hoop siuke, blinde, halte, borttwinade, och bidde efter at watnet skulle röras.",
+      "king_james": "In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Angelus autem Domini descendebat secundum tempus in piscinam, et movebatur aqua. Et qui prior descendisset in piscinam post motionem aquæ, sanus fiebat a quacumque detinebatur infirmitate.",
+      "greek_textus_receptus": "ἄγγελος γὰρ κατὰ καιρὸν κατέβαινεν ἐν τῇ κολυμβήθρᾳ, καὶ ἐτάρασσεν τὸ ὕδωρ ὁ οὖν πρῶτος ἐμβὰς μετὰ τὴν ταραχὴν τοῦ ὕδατος, ὑγιὴς ἐγίνετο, ᾧ δήποτε κατειχετο νοσήματι",
+      "finnish_biblia": "Sillä enkeli tuli alas määrätyllä ajalla lammikkoon ja sekoitti veden: joka siis ensimäisenä veteen astui, kuin se sekoitettu oli, niin se parani, ehkä missä ikänä taudissa hän oli. ",
+      "swedish_karl_xii": "Ty en Ängel steg nedh i dammen på en wiß tijd, och rörde watnet: then ther nu först steg nedh i watnet, sedan thet war rördt, han blef helbregda, ehwad siukdom han hade.",
+      "king_james": "For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Erat autem quidam homo ibi triginta et octo annos habens in infirmitate sua.",
+      "greek_textus_receptus": "ἦν δέ τις ἄνθρωπος ἐκεῖ τριακονταοκτώ ἔτη ἔχων ἐν τῇ ἀσθενείᾳ",
+      "finnish_biblia": "Niin oli siellä mies, joka kahdeksanneljättäkymmentä ajastaikaa oli sairastanut. ",
+      "swedish_karl_xii": "Så war ther en man, som hade warit siuk i otta och tretijo åhr.",
+      "king_james": "And a certain man was there, which had an infirmity thirty and eight years."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Hunc autem cum vidisset Jesus jacentem, et cognovisset quia jam multum tempus haberet, dicit ei: Vis sanus fieri?",
+      "greek_textus_receptus": "τοῦτον ἰδὼν ὁ ἰησοῦς κατακείμενον καὶ γνοὺς ὅτι πολὺν ἤδη χρόνον ἔχει λέγει αὐτῷ θέλεις ὑγιὴς γενέσθαι",
+      "finnish_biblia": "Kuin Jesus hänen näki makaavan ja tunsi hänen jo kauvan sairastaneen, sanoi hän hänelle: tahdotkos tulla terveeksi? ",
+      "swedish_karl_xii": "Tå Jesus fick see honom ther han låg, och förnam, at han nu i lång tijd hade legat siuk, sade han til honom: Wilt tu blifwa helbregda?",
+      "king_james": "When Jesus saw him lie, and knew that he had been now a long time *in that case*, he saith unto him, Wilt thou be made whole?"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Respondit ei languidus: Domine, hominem non habeo, ut, cum turbata fuerit aqua, mittat me in piscinam: dum venio enim ego, alius ante me descendit.",
+      "greek_textus_receptus": "ἀπεκρίθη αὐτῷ ὁ ἀσθενῶν κύριε ἄνθρωπον οὐκ ἔχω ἵνα ὅταν ταραχθῇ τὸ ὕδωρ βάλλῃ με εἰς τὴν κολυμβήθραν ἐν ᾧ δὲ ἔρχομαι ἐγὼ ἄλλος πρὸ ἐμοῦ καταβαίνει",
+      "finnish_biblia": "Sairas vastasi häntä: Herra, ei ole minulla sitä ihmistä, joka minun vie, kuin vesi sekoitettu on, lammikkoon; mutta kuin minä tulen, niin on toinen minun edelläni siihen astunut. ",
+      "swedish_karl_xii": "Swarade then siuke honom: Herre, jagh hafwer ingen som hafwer migh i dammen, när watnet är rördt; men förr än jagh kommer, tå är en annar stigen in för migh.",
+      "king_james": "The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Dicit ei Jesus: Surge, tolle grabatum tuum et ambula.",
+      "greek_textus_receptus": "λέγει αὐτῷ ὁ ἰησοῦς ἐγεῖραι ἆρον τὸν κράββατον σου καὶ περιπάτει",
+      "finnish_biblia": "Jesus sanoi hänelle: nouse, ota vuotees ja käy. ",
+      "swedish_karl_xii": "Tå sade Jesus til honom: Statt vp, tag tin säng, och gack.",
+      "king_james": "Jesus saith unto him, Rise, take up thy bed, and walk."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Et statim sanus factus est homo ille: et sustulit grabatum suum, et ambulabat. Erat autem sabbatum in die illo.",
+      "greek_textus_receptus": "καὶ εὐθέως ἐγένετο ὑγιὴς ὁ ἄνθρωπος καὶ ἦρεν τὸν κράββατον αὐτοῦ καὶ περιεπάτει ἦν δὲ σάββατον ἐν ἐκείνῃ τῇ ἡμέρᾳ",
+      "finnish_biblia": "Ja kohta parani se ihminen, ja otti vuoteensa ja kävi. Ja se päivä oli sabbati. ",
+      "swedish_karl_xii": "Och strax blef then mannen helbregda, och tog sin säng, och gick: och thet war på en Sabbathsdag.",
+      "king_james": "And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Dicebant ergo Judæi illi qui sanatus fuerat: Sabbatum est, non licet tibi tollere grabatum tuum.",
+      "greek_textus_receptus": "ἔλεγον οὖν οἱ ἰουδαῖοι τῷ τεθεραπευμένῳ σάββατόν ἐστιν οὐκ ἔξεστίν σοι ἆραι τὸν κράββατον",
+      "finnish_biblia": "Sanoivat siis Juudalaiset paratulle: nyt on sabbati, ei sinun sovi vuodetta kantaa. ",
+      "swedish_karl_xii": "Tå sade Judarna til honom som war worden helbregda: Thet är Sabbath; tigh är icke låfligit bära sängena.",
+      "king_james": "The Jews therefore said unto him that was cured, It is the sabbath day: it is not lawful for thee to carry *thy* bed."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Respondit eis: Qui me sanum fecit, ille mihi dixit: Tolle grabatum tuum et ambula.",
+      "greek_textus_receptus": "ἀπεκρίθη αὐτοῖς ὁ ποιήσας με ὑγιῆ ἐκεῖνός μοι εἰπεν ἆρον τὸν κράββατον σου καὶ περιπάτει",
+      "finnish_biblia": "Hän vastasi heitä: joka minun paransi, se sanoi minulle: ota vuotees ja käy. ",
+      "swedish_karl_xii": "Swarade han them: Then som giorde migh helbregda, han sade til migh: Tag tin säng, och gack.",
+      "king_james": "He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Interrogaverunt ergo eum: Quis est ille homo qui dixit tibi: Tolle grabatum tuum et ambula?",
+      "greek_textus_receptus": "ἠρώτησαν οὖν αὐτόν τίς ἐστιν ὁ ἄνθρωπος ὁ εἰπών σοι ἆρον τὸν κράββατον σου καὶ περιπάτει",
+      "finnish_biblia": "Niin he kysyivät häneltä: kuka on se ihminen, joka sinulle sanoi: ota vuotees ja käy? ",
+      "swedish_karl_xii": "Tå sporde the honom: Ho är then mannen som tigh sade, tag tin säng, och gack?",
+      "king_james": "Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Is autem qui sanus fuerat effectus, nesciebat quis esset. Jesus enim declinavit a turba constituta in loco.",
+      "greek_textus_receptus": "ὁ δὲ ἰαθεὶς οὐκ ᾔδει τίς ἐστιν ὁ γὰρ ἰησοῦς ἐξένευσεν ὄχλου ὄντος ἐν τῷ τόπῳ",
+      "finnish_biblia": "Mutta ei parattu tietänyt, kuka se oli; sillä Jesus oli mennyt pois kansan tähden, joka siinä paikassa oli. ",
+      "swedish_karl_xii": "Men han som helbregda war worden, wiste icke ho han war: ty Jesus war vndan wiken, efter mycket folck war i thet rumet.",
+      "king_james": "And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in *that* place."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Postea invenit eum Jesus in templo, et dixit illi: Ecce sanus factus es; jam noli peccare, ne deterius tibi aliquid contingat.",
+      "greek_textus_receptus": "μετὰ ταῦτα εὑρίσκει αὐτὸν ὁ ἰησοῦς ἐν τῷ ἱερῷ καὶ εἶπεν αὐτῷ ἴδε ὑγιὴς γέγονας μηκέτι ἁμάρτανε ἵνα μὴ χεῖρόν τι σοί γένηται",
+      "finnish_biblia": "Sitte löysi Jesus hänen templissä ja sanoi hänelle: katso, sinä olet parattu: älä silleen syntiä tee, ettei jotain pahempaa sinulle tapahtuisi. ",
+      "swedish_karl_xii": "Ther efter fan Jesus honom i templet, och sade til honom: Sij, tu äst worden helbregda; synda icke här efter, at tigh icke wederfars något wärre.",
+      "king_james": "Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Abiit ille homo, et nuntiavit Judæis quia Jesus esset, qui fecit eum sanum.",
+      "greek_textus_receptus": "ἀπῆλθεν ὁ ἄνθρωπος καὶ ἀνήγγειλεν τοῖς ἰουδαίοις ὅτι ἰησοῦς ἐστιν ὁ ποιήσας αὐτὸν ὑγιῆ",
+      "finnish_biblia": "Niin se ihminen meni pois ja ilmoitti Juudalaisille, että Jesus oli se, joka hänen parantanut oli. ",
+      "swedish_karl_xii": "Tå gick then mannen bort, och sade Judomen, at Jesus war then som honom hade helbregda giordt.",
+      "king_james": "The man departed, and told the Jews that it was Jesus, which had made him whole."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Propterea persequebantur Judæi Jesum, quia hæc faciebat in sabbato.",
+      "greek_textus_receptus": "καὶ διὰ τοῦτο ἐδίωκον τὸν ἰησοῦν οἱ ἰουδαῖοι καὶ ἐζήτουν αὐτὸν ἀποκτεῖναι, ὅτι ταῦτα ἐποίει ἐν σαββάτῳ",
+      "finnish_biblia": "Ja Juudalaiset vainosivat sentähden Jesusta ja etsivät häntä tappaaksensa, että hän senkaltaisia teki sabbatina. ",
+      "swedish_karl_xii": "Och therföre förfölgde Judarna Jesum, och sökte efter at döda honom, efter han thetta giorde på Sabbathen.",
+      "king_james": "And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Jesus autem respondit eis: Pater meus usque modo operatur, et ego operor.",
+      "greek_textus_receptus": "ὁ δὲ ἰησοῦς ἀπεκρίνατο αὐτοῖς ὁ πατήρ μου ἕως ἄρτι ἐργάζεται κἀγὼ ἐργάζομαι",
+      "finnish_biblia": "Niin Jesus vastasi heitä: minun isäni tekee työtä hamaan tähän asti, ja minä myös teen työtä. ",
+      "swedish_karl_xii": "Tå swarade Jesus them: Min Fader werckar in til nu; och jagh werckar ock.",
+      "king_james": "But Jesus answered them, My Father worketh hitherto, and I work."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Propterea ergo magis quærebant eum Judæi interficere: quia non solum solvebat sabbatum, sed et patrem suum dicebat Deum, æqualem se faciens Deo.",
+      "greek_textus_receptus": "διὰ τοῦτο οὖν μᾶλλον ἐζήτουν αὐτὸν οἱ ἰουδαῖοι ἀποκτεῖναι ὅτι οὐ μόνον ἔλυεν τὸ σάββατον ἀλλὰ καὶ πατέρα ἴδιον ἔλεγεν τὸν θεόν ἴσον ἑαυτὸν ποιῶν τῷ θεῷ",
+      "finnish_biblia": "Sentähden etsivät Juudalaiset häntä vielä enemmin tappaaksensa, ettei hän ainoastaan sabbatia rikkonut, mutta myös sanoi Jumalan isäksensä, ja teki itsensä Jumalan kaltaiseksi. ",
+      "swedish_karl_xii": "Therföre sökte Judarna äntå meer efter at döda honom: ty han eij allenast bröt Sabbathen; vtan ock sade, Gudh wara sin Fader, giörandes sigh sielf lijk medh Gudh.",
+      "king_james": "Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Respondit itaque Jesus, et dixit eis: Amen, amen dico vobis: non potest Filius a se facere quidquam, nisi quod viderit Patrem facientem: quæcumque enim ille fecerit, hæc et Filius similiter facit.",
+      "greek_textus_receptus": "ἀπεκρίνατο οὖν ὁ ἰησοῦς καὶ εἶπεν αὐτοῖς ἀμὴν ἀμὴν λέγω ὑμῖν οὐ δύναται ὁ υἱὸς ποιεῖν ἀφ᾽ ἑαυτοῦ οὐδὲν ἐὰν μή τι βλέπῃ τὸν πατέρα ποιοῦντα ἃ γὰρ ἂν ἐκεῖνος ποιῇ ταῦτα καὶ ὁ υἱὸς ὁμοίως ποιεῖ",
+      "finnish_biblia": "Niin Jesus vastasi ja sanoi heille: totisesti, totisesti sanon minä teille: ei taida Poika itsestänsä mitään tehdä, ellei hän näe Isän tekevän; sillä mitä ikänä hän tekee, sitä myös Poika niin tekee. ",
+      "swedish_karl_xii": "Tå swarade Jesus, och sade til them: Sannerliga, sannerliga säger jagh eder, Sonen kan intet giöra af sigh sielf; vtan thet han seer Fadren giöra: ty alt thet han giör, thet giör ock Sonen.",
+      "king_james": "Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Pater enim diligit Filium, et omnia demonstrat ei quæ ipse facit: et majora his demonstrabit ei opera, ut vos miremini.",
+      "greek_textus_receptus": "ὁ γὰρ πατὴρ φιλεῖ τὸν υἱὸν καὶ πάντα δείκνυσιν αὐτῷ ἃ αὐτὸς ποιεῖ καὶ μείζονα τούτων δείξει αὐτῷ ἔργα ἵνα ὑμεῖς θαυμάζητε",
+      "finnish_biblia": "Sillä Isä rakastaa Poikaa ja osoittaa hänelle kaikki, mitä hän itse tekee, ja hän on vielä suurempia töitä hänelle osoittava, kuin nämät ovat, että teidän pitää ihmettelemän. ",
+      "swedish_karl_xii": "Ty Fadren älskar Sonen, och wisar honom alt thet han giör; och warder än wisandes honom större werck än thessa äro, at J skolen vndra ther på.",
+      "king_james": "For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Sicut enim Pater suscitat mortuos, et vivificat, sic et Filius, quos vult, vivificat.",
+      "greek_textus_receptus": "ὥσπερ γὰρ ὁ πατὴρ ἐγείρει τοὺς νεκροὺς καὶ ζῳοποιεῖ οὕτως καὶ ὁ υἱὸς οὓς θέλει ζῳοποιεῖ",
+      "finnish_biblia": "Sillä niinkuin Isä herättää ja virvoittaa kuolleita, niin myös Poika virvoittaa, joita hän tahtoo. ",
+      "swedish_karl_xii": "Ty såsom Fadren vpwäcker the döda, och giör them lefwande; så giör ock Sonen lefwande hwem han wil.",
+      "king_james": "For as the Father raiseth up the dead, and quickeneth *them*; even so the Son quickeneth whom he will."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Neque enim Pater judicat quemquam: sed omne judicium dedit Filio,",
+      "greek_textus_receptus": "οὐδὲ γὰρ ὁ πατὴρ κρίνει οὐδένα ἀλλὰ τὴν κρίσιν πᾶσαν δέδωκεν τῷ υἱῷ",
+      "finnish_biblia": "Sillä ei Isä ketään tuomitse, vaan antoi kaiken tuomion Pojalle: ",
+      "swedish_karl_xii": "Ty icke dömer heller Fadren någon; vtan hafwer all doom gifwit Sonenom:",
+      "king_james": "For the Father judgeth no man, but hath committed all judgment unto the Son:"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "ut omnes honorificent Filium, sicut honorificant Patrem; qui non honorificat Filium, non honorificat Patrem, qui misit illum.",
+      "greek_textus_receptus": "ἵνα πάντες τιμῶσίν τὸν υἱὸν καθὼς τιμῶσίν τὸν πατέρα ὁ μὴ τιμῶν τὸν υἱὸν οὐ τιμᾷ τὸν πατέρα τὸν πέμψαντα αὐτόν",
+      "finnish_biblia": "Että kaikki Poikaa kunnioittaisivat, niinkuin he Isää kunnioittavat. Joka ei Poikaa kunnioita, ei se kunnioita Isää, joka hänen lähetti. ",
+      "swedish_karl_xii": "På thet alle skola hedra Sonen, såsom the hedra Fadren. Hwilken som icke hedrar Sonen, han hedrar icke Fadren, som honom sändt hafwer.",
+      "king_james": "That all *men* should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Amen, amen dico vobis, quia qui verbum meum audit, et credit ei qui misit me, habet vitam æternam, et in judicium non venit, sed transiit a morte in vitam.",
+      "greek_textus_receptus": "ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ὁ τὸν λόγον μου ἀκούων καὶ πιστεύων τῷ πέμψαντί με ἔχει ζωὴν αἰώνιον καὶ εἰς κρίσιν οὐκ ἔρχεται ἀλλὰ μεταβέβηκεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν",
+      "finnish_biblia": "Totisesti, totisesti sanon minä teille: joka kuulee minun sanani ja uskoo sen, joka minun lähetti, hänellä on ijankaikkinen elämä, ja ei hän tule tuomioon, vaan menee kuolemasta elämään. ",
+      "swedish_karl_xii": "Sannerliga, sannerliga säger jagh eder: Hwilken som hörer mitt taal, och troor honom som migh sändt hafwer, han hafwer ewinnerligit lijf, och kommer icke i domen; vtan är gången ifrå döden til lifwet.",
+      "king_james": "Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Amen, amen dico vobis, quia venit hora, et nunc est, quando mortui audient vocem Filii Dei: et qui audierint, vivent.",
+      "greek_textus_receptus": "ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ἔρχεται ὥρα καὶ νῦν ἐστιν ὅτε οἱ νεκροὶ ἀκούσονται τῆς φωνῆς τοῦ υἱοῦ τοῦ θεοῦ καὶ οἱ ἀκούσαντες ζήσονται",
+      "finnish_biblia": "Totisesti, totisesti sanon minä teille: hetki tulee, ja nyt jo on, että kuolleet saavat kuulla Jumalan Pojan äänen; ja jotka sen kuulevat, ne saavat elää. ",
+      "swedish_karl_xii": "Sannerliga, sannerliga säger jagh eder: Then tijd skal komma, och är nu allaredo, at the döde skola höra Gudz Sons röst; och the henne höra, the skola lefwa.",
+      "king_james": "Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Sicut enim Pater habet vitam in semetipso, sic dedit et Filio habere vitam in semetipso:",
+      "greek_textus_receptus": "ὥσπερ γὰρ ὁ πατὴρ ἔχει ζωὴν ἐν ἑαυτῷ οὕτως ἔδωκεν καὶ τῷ υἱῷ ζωὴν ἔχειν ἐν ἑαυτῷ",
+      "finnish_biblia": "Sillä niinkuin Isällä on elämä itsessänsä, niin antoi hän myös elämän Pojalle itsessänsä olemaan, ",
+      "swedish_karl_xii": "Ty såsom Fadren hafwer lijf i sigh sielfwom, så hafwer han ock gifwit Sonenom hafwa lijf i sigh sielfwom:",
+      "king_james": "For as the Father hath life in himself; so hath he given to the Son to have life in himself;"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "et potestatem dedit ei judicium facere, quia Filius hominis est.",
+      "greek_textus_receptus": "καὶ ἐξουσίαν ἔδωκεν αὐτῷ καὶ κρίσιν ποιεῖν ὅτι υἱὸς ἀνθρώπου ἐστίν",
+      "finnish_biblia": "Ja on hänellä myös antanut vallan tuomita, että hän on Ihmisen Poika. ",
+      "swedish_karl_xii": "Och hafwer theslikes gifwit honom macht at döma; therföre, at han menniskiones Son är.",
+      "king_james": "And hath given him authority to execute judgment also, because he is the Son of man."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Nolite mirari hoc, quia venit hora in qua omnes qui in monumentis sunt audient vocem Filii Dei:",
+      "greek_textus_receptus": "μὴ θαυμάζετε τοῦτο ὅτι ἔρχεται ὥρα ἐν ᾗ πάντες οἱ ἐν τοῖς μνημείοις ἀκούσονται τῆς φωνῆς αὐτοῦ",
+      "finnish_biblia": "Älkää tätä ihmetelkö; sillä hetki tulee, jona kaikki ne, jotka haudoissa ovat, saavat kuulla hänen äänensä. ",
+      "swedish_karl_xii": "Förvndrer eder icke öfwer thetta: ty then stund skal komma, i hwilko alle the i grifterna äro, skola höra hans röst.",
+      "king_james": "Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,"
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "et procedent qui bona fecerunt, in resurrectionem vitæ; qui vero mala egerunt, in resurrectionem judicii.",
+      "greek_textus_receptus": "καὶ ἐκπορεύσονται οἱ τὰ ἀγαθὰ ποιήσαντες εἰς ἀνάστασιν ζωῆς οἱ δὲ τὰ φαῦλα πράξαντες εἰς ἀνάστασιν κρίσεως",
+      "finnish_biblia": "Ja pitää tuleman edes ne, jotka hyvää tehneet ovat, elämän ylösnousemiseen, mutta jotka pahaa tehneet ovat, tuomion ylösnousemiseen. ",
+      "swedish_karl_xii": "Och the som wäl hafwa giordt, skola framgå til lifsens vpståndelse; men the som illa hafwa giordt, til domsens vpståndelse.",
+      "king_james": "And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Non possum ego a meipso facere quidquam. Sicut audio, judico: et judicium meum justum est, quia non quæro voluntatem meam, sed voluntatem ejus qui misit me.",
+      "greek_textus_receptus": "οὐ δύναμαι ἐγὼ ποιεῖν ἀπ᾽ ἐμαυτοῦ οὐδέν καθὼς ἀκούω κρίνω καὶ ἡ κρίσις ἡ ἐμὴ δικαία ἐστίν ὅτι οὐ ζητῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με πατρός",
+      "finnish_biblia": "En minä itsestäni taida mitään tehdä: niinkuin minä kuulen, niin minä tuomitsen, ja minun tuomioni on oikia; sillä en minä etsi minun tahtoani, vaan Isän tahtoa, joka minun lähetti. ",
+      "swedish_karl_xii": "Jntet kan jagh giöra af migh sielf. Som jagh hörer, så dömer jagh; och min doom är rätt: ty jagh söker icke min wilja; vtan Fadrens wilja som migh sändt hafwer.",
+      "king_james": "I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because i seek not mine own will, but the will of the Father which hath sent me."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Si ego testimonium perhibeo de meipso, testimonium meum non est verum.",
+      "greek_textus_receptus": "ἐὰν ἐγὼ μαρτυρῶ περὶ ἐμαυτοῦ ἡ μαρτυρία μου οὐκ ἔστιν ἀληθής",
+      "finnish_biblia": "Jos minä itsestäni todistaisin, niin ei minun todistukseni olisi tosi. ",
+      "swedish_karl_xii": "Om jagh witnar om migh sielf, tå är mitt witnesbyrd icke sant.",
+      "king_james": "If I bear witness of myself, my witness is not true."
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Alius est qui testimonium perhibet de me: et scio quia verum est testimonium, quod perhibet de me.",
+      "greek_textus_receptus": "ἄλλος ἐστὶν ὁ μαρτυρῶν περὶ ἐμοῦ καὶ οἶδα ὅτι ἀληθής ἐστιν ἡ μαρτυρία ἣν μαρτυρεῖ περὶ ἐμοῦ",
+      "finnish_biblia": "Toinen on, joka todistaa minusta, ja minä tiedän, että hänen todistuksensa on tosi, jonka hän minusta todistaa. ",
+      "swedish_karl_xii": "En annar är som witnar om migh; och jagh weet, at thet witnesbyrd sant är, som han witnar om migh.",
+      "king_james": "There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true."
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "Vos misistis ad Joannem, et testimonium perhibuit veritati.",
+      "greek_textus_receptus": "ὑμεῖς ἀπεστάλκατε πρὸς ἰωάννην καὶ μεμαρτύρηκεν τῇ ἀληθείᾳ",
+      "finnish_biblia": "Te lähetitte Johanneksen tykö, ja hän todisti totuuden. ",
+      "swedish_karl_xii": "J sänden til Johannes, och han gaf witnesbyrd til sanningen:",
+      "king_james": "Ye sent unto John, and he bare witness unto the truth."
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "Ego autem non ab homine testimonium accipio: sed hæc dico ut vos salvi sitis.",
+      "greek_textus_receptus": "ἐγὼ δὲ οὐ παρὰ ἀνθρώπου τὴν μαρτυρίαν λαμβάνω ἀλλὰ ταῦτα λέγω ἵνα ὑμεῖς σωθῆτε",
+      "finnish_biblia": "Mutta en minä ihmiseltä todistusta ota; vaan minä sanoin näitä, että te autuaaksi tulisitte. ",
+      "swedish_karl_xii": "Men jagh tager intet witnesbyrd af menniskio; vtan säger thetta, på thet J skolen warda salige.",
+      "king_james": "But I receive not testimony from man: but these things I say, that ye might be saved."
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "Ille erat lucerna ardens et lucens: vos autem voluistis ad horam exsultare in luce ejus.",
+      "greek_textus_receptus": "ἐκεῖνος ἦν ὁ λύχνος ὁ καιόμενος καὶ φαίνων ὑμεῖς δὲ ἠθελήσατε αγαλλιασθῆναι πρὸς ὥραν ἐν τῷ φωτὶ αὐτοῦ",
+      "finnish_biblia": "Hän oli palavainen ja paistavainen kynttilä; mutta te tahdoitte ainoastaan vähän aikaan riemuita hänen valkeudessansa. ",
+      "swedish_karl_xii": "Han war ett brinnande och skinande lius; och J willen en tijd långt frögdas i hans lius.",
+      "king_james": "He was a burning and a shining light: and ye were willing for a season to rejoice in his light."
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "Ego autem habeo testimonium majus Joanne. Opera enim quæ dedit mihi Pater ut perficiam ea: ipsa opera, quæ ego facio, testimonium perhibent de me, quia Pater misit me:",
+      "greek_textus_receptus": "ἐγὼ δὲ ἔχω τὴν μαρτυρίαν μείζω τοῦ ἰωάννου τὰ γὰρ ἔργα ἃ ἔδωκεν μοι ὁ πατὴρ ἵνα τελειώσω αὐτά αὐτὰ τὰ ἔργα ἃ ἐγὼ ποιῶ μαρτυρεῖ περὶ ἐμοῦ ὅτι ὁ πατήρ με ἀπέσταλκεν",
+      "finnish_biblia": "Mutta minulla on suurempi todistus kuin Johanneksen; sillä ne työt, jotka Isä antoi minulle täyttääkseni, ne työt, jotka minä teen, todistavat minusta, että Isä minun lähetti, ",
+      "swedish_karl_xii": "Men jagh hafwer ett större witnesbyrd än Johannis witnesbyrd: ty the werck som Fadren hafwer gifwit migh, at jagh skal fulborda; the samma werck som jagh giör, witna om migh, at Fadren hafwer sändt migh.",
+      "king_james": "But I have greater witness than *that* of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me."
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "et qui misit me Pater, ipse testimonium perhibuit de me: neque vocem ejus umquam audistis, neque speciem ejus vidistis:",
+      "greek_textus_receptus": "καὶ ὁ πέμψας με πατὴρ αὐτὸς μεμαρτύρηκεν περὶ ἐμοῦ οὔτε φωνὴν αὐτοῦ ἀκηκόατε πώποτε οὔτε εἶδος αὐτοῦ ἑωράκατε",
+      "finnish_biblia": "Ja Isä, joka minun lähetti, hän todistaa minusta. Ette ole koskaan hänen ääntänsä kuulleet eli hänen muotoansa nähneet, ",
+      "swedish_karl_xii": "Och Fadren som migh sände, han hafwer witnat om migh: J hafwen hwarken någon tijd hördt hans röst, eller sedt hans skepelse:",
+      "king_james": "And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape."
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "et verbum ejus non habetis in vobis manens: quia quem misit ille, huic vos non creditis.",
+      "greek_textus_receptus": "καὶ τὸν λόγον αὐτοῦ οὐκ ἔχετε μένοντα ἐν ὑμῖν ὅτι ὃν ἀπέστειλεν ἐκεῖνος τούτῳ ὑμεῖς οὐ πιστεύετε",
+      "finnish_biblia": "Ja ei teillä ole hänen sanansa pysyväinen; sillä ette usko sitä, jonka hän lähetti. ",
+      "swedish_karl_xii": "Och hans ord hafwen J icke blifwandes i eder; ty J troon icke honom som han sändt hafwer.",
+      "king_james": "And ye have not his word abiding in you: for whom he hath sent, him ye believe not."
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": "Scrutamini Scripturas, quia vos putatis in ipsis vitam æternam habere: et illæ sunt quæ testimonium perhibent de me:",
+      "greek_textus_receptus": "ἐρευνᾶτε τὰς γραφάς ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν καὶ ἐκεῖναί εἰσιν αἱ μαρτυροῦσαι περὶ ἐμοῦ",
+      "finnish_biblia": "Tutkikaat Raamatuita; sillä niissä te luulette teillänne ijankaikkisen elämän olevan, ja ne ovat, jotka todistavat minusta. ",
+      "swedish_karl_xii": "Ransaker Skrifterna: ty J menen eder hafwa ewinnerligit lijf i them; och the äro the som witna om migh.",
+      "king_james": "Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me."
+    },
+    {
+      "verse": 40,
+      "latin_vulgate": "et non vultis venire ad me ut vitam habeatis.",
+      "greek_textus_receptus": "καὶ οὐ θέλετε ἐλθεῖν πρός με ἵνα ζωὴν ἔχητε",
+      "finnish_biblia": "Ja ette tahdo tulla minun tyköni, että te saisitte elämän. ",
+      "swedish_karl_xii": "Och J wiljen icke komma til migh, at J måtten få lijf.",
+      "king_james": "And ye will not come to me, that ye might have life."
+    },
+    {
+      "verse": 41,
+      "latin_vulgate": "Claritatem ab hominibus non accipio.",
+      "greek_textus_receptus": "δόξαν παρὰ ἀνθρώπων οὐ λαμβάνω",
+      "finnish_biblia": "En minä pyydä kunniaa ihmisiltä; ",
+      "swedish_karl_xii": "Jagh tager ingen prijs af menniskior.",
+      "king_james": "I receive not honour from men."
+    },
+    {
+      "verse": 42,
+      "latin_vulgate": "Sed cognovi vos, quia dilectionem Dei non habetis in vobis.",
+      "greek_textus_receptus": "ἀλλ᾽ ἔγνωκα ὑμᾶς ὅτι τὴν ἀγάπην τοῦ θεοῦ οὐκ ἔχετε ἐν ἑαυτοῖς",
+      "finnish_biblia": "Vaan minä tunnen teidät, ettei teissä ole Jumalan rakkaus. ",
+      "swedish_karl_xii": "Men jagh känner eder, at J icke hafwen Gudz kärlek vthi eder.",
+      "king_james": "But I know you, that ye have not the love of God in you."
+    },
+    {
+      "verse": 43,
+      "latin_vulgate": "Ego veni in nomine Patris mei, et non accipitis me; si alius venerit in nomine suo, illum accipietis.",
+      "greek_textus_receptus": "ἐγὼ ἐλήλυθα ἐν τῷ ὀνόματι τοῦ πατρός μου καὶ οὐ λαμβάνετέ με ἐὰν ἄλλος ἔλθῃ ἐν τῷ ὀνόματι τῷ ἰδίῳ ἐκεῖνον λήψεσθε",
+      "finnish_biblia": "Minä tulin Isäni nimeen, ja ette minua ota vastaan; jos joku tulee omalla nimellänsä, niin te sen otatte vastaan. ",
+      "swedish_karl_xii": "Jagh är kommen i mins Faders namn, och J anammen migh icke: kommer en annar i sitt egit namn, then warden J anammande.",
+      "king_james": "I am come in my Father's name, and ye receive me not: if another shall come in his own name, him ye will receive."
+    },
+    {
+      "verse": 44,
+      "latin_vulgate": "Quomodo vos potestis credere, qui gloriam ab invicem accipitis, et gloriam quæ a solo Deo est, non quæritis?",
+      "greek_textus_receptus": "πῶς δύνασθε ὑμεῖς πιστεῦσαι δόξαν παρὰ ἀλλήλων λαμβάνοντες καὶ τὴν δόξαν τὴν παρὰ τοῦ μόνου θεοῦ οὐ ζητεῖτε",
+      "finnish_biblia": "Kuinka te taidatte uskoa, jotka otatte kunnian toinen toiseltanne, ja sitä kunniaa, joka ainoalta Jumalalta tulee, ette etsi? ",
+      "swedish_karl_xii": "Huru kunnen J troo, J som tagen prijs hwar af androm; och then prijs som kommer allena af Gudh, söken J intet?",
+      "king_james": "How can ye believe, which receive honour one of another, and seek not the honour that *cometh* from God only?"
+    },
+    {
+      "verse": 45,
+      "latin_vulgate": "Nolite putare quia ego accusaturus sim vos apud Patrem: est qui accusat vos Moyses, in quo vos speratis.",
+      "greek_textus_receptus": "μὴ δοκεῖτε ὅτι ἐγὼ κατηγορήσω ὑμῶν πρὸς τὸν πατέρα ἔστιν ὁ κατηγορῶν ὑμῶν μωσῆς, εἰς ὃν ὑμεῖς ἠλπίκατε",
+      "finnish_biblia": "Älkäät luulko, että minä minä kannan Isän edessä teidän päällenne: se on, joka teidän päällenne kantaa, Moses, johonka te turvaatte. ",
+      "swedish_karl_xii": "J skolen icke mena, at jagh skal anklaga eder för Fadren: thet är en som eder anklagar, nemliga Moses, then J hoppens vppå.",
+      "king_james": "Do not think that I will accuse you to the Father: there is *one* that accuseth you, *even* Moses, in whom ye trust."
+    },
+    {
+      "verse": 46,
+      "latin_vulgate": "Si enim crederetis Moysi, crederetis forsitan et mihi: de me enim ille scripsit.",
+      "greek_textus_receptus": "εἰ γὰρ ἐπιστεύετε μωσῇ, ἐπιστεύετε ἂν ἐμοί περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν",
+      "finnish_biblia": "Sillä jos te olisitte Moseksen uskoneet, niin te olisitte minun uskoneet; sillä minusta on hän kirjoittanut. ",
+      "swedish_karl_xii": "Haden J trodt Mosi, så haden J ock trodt migh: ty om migh hafwer han skrifwit.",
+      "king_james": "For had ye believed Moses, ye would have believed me: for he wrote of me."
+    },
+    {
+      "verse": 47,
+      "latin_vulgate": "Si autem illius litteris non creditis, quomodo verbis meis credetis?",
+      "greek_textus_receptus": "εἰ δὲ τοῖς ἐκείνου γράμμασιν οὐ πιστεύετε πῶς τοῖς ἐμοῖς ῥήμασιν πιστεύσετε",
+      "finnish_biblia": "Jos ette hänen kirjoituksiansa usko, kuinkas te minun sanani uskotte?   ",
+      "swedish_karl_xii": "Men troon J icke hans skrifter; huru skolen J tå troo min ord?",
+      "king_james": "But if ye believe not his writings, how shall ye believe my words?"
+    }
+  ]
+}

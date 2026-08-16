@@ -1,0 +1,179 @@
+{
+  "book_id": "GAL",
+  "latin_name": "Epistula ad Galatas",
+  "greek_name": "Πρὸς Γαλάτας",
+  "finnish_name": "Kirje galatalaisille",
+  "swedish_name": "S. Pauli Epistel Til the Galater",
+  "english_name": "The Epistle of Paul the Apostle to the Galatians",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Deinde post annos quatuordecim, iterum ascendi Jerosolymam cum Barnaba, assumpto et Tito.",
+      "greek_textus_receptus": "ἕπειτα διὰ δεκατεσσάρων ἐτῶν πάλιν ἀνέβην εἰς ἱεροσόλυμα μετὰ βαρναβᾶ συμπαραλαβὼν καὶ τίτον",
+      "finnish_biblia": "Sitte neljäntoistakymmenen vuoden perästä menin minä taas Barnabaan kanssa ylös Jerusalemiin ja otin Tituksen kanssani, ",
+      "swedish_karl_xii": "Sedan, efter fiorton åhr, foor jagh åter vp til Jerusalem medh Barnaba, och tog Titum ock medh migh.",
+      "king_james": "Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with *me* also."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Ascendi autem secundum revelationem: et contuli cum illis Evangelium, quod prædico in gentibus, seorsum autem iis qui videbantur aliquid esse: ne forte in vacuum currerem, aut cucurrissem.",
+      "greek_textus_receptus": "ἀνέβην δὲ κατὰ ἀποκάλυψιν καὶ ἀνεθέμην αὐτοῖς τὸ εὐαγγέλιον ὃ κηρύσσω ἐν τοῖς ἔθνεσιν κατ᾽ ἰδίαν δὲ τοῖς δοκοῦσιν μήπως εἰς κενὸν τρέχω ἢ ἔδραμον",
+      "finnish_biblia": "Ja minä menin ylös ilmoituksen jälkeen ja asetin heidän eteensä sen evankeliumin, jota minä pakanain seassa julistan: mutta erinomaisesti niiden eteen, jotka jonakin pidetään, etten minä hukkaan juoksisi elikkä olisi jo juossut. ",
+      "swedish_karl_xii": "Och foor jagh tijt vp efter een vppenbarelse, och befrågade migh medh them om Evangelium, som jagh förkunnar ibland Hedningarna; besynnerliga medh them, som för något woro räknade: på thet jagh icke skulle löpa fåfängt, eller redo lupit hafwa.",
+      "king_james": "And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Sed neque Titus, qui mecum erat, cum esset gentilis, compulsus est circumcidi:",
+      "greek_textus_receptus": "ἀλλ᾽ οὐδὲ τίτος ὁ σὺν ἐμοί ἕλλην ὤν ἠναγκάσθη περιτμηθῆναι",
+      "finnish_biblia": "Mutta ei Titustakaan, joka minun kanssani oli, vaadittu itsiänsä ympärileikkauttamaan, vaikka hän Grekiläinen oli. ",
+      "swedish_karl_xii": "Men icke wardt heller Titus som medh migh war, nödgad til at låta omskära sigh, ändoch han war en Greek.",
+      "king_james": "But neither Titus, who was with me, being a Greek, was compelled to be circumcised:"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "sed propter subintroductos falsos fratres, qui subintroierunt explorare libertatem nostram, quam habemus in Christo Jesu, ut nos in servitutem redigerent.",
+      "greek_textus_receptus": "διὰ δὲ τοὺς παρεισάκτους ψευδαδέλφους οἵτινες παρεισῆλθον κατασκοπῆσαι τὴν ἐλευθερίαν ἡμῶν ἣν ἔχομεν ἐν χριστῷ ἰησοῦ ἵνα ἡμᾶς καταδουλώσωνται",
+      "finnish_biblia": "Sillä kuin muutamat väärät veljet tunkeutuivat sisälle, ja jo olivat tulleet sisälle koettelemaan meidän vapauttamme, joka meillä Kristuksessa Jesuksessa on, että he meitä orjuuteen vaatisivat; ",
+      "swedish_karl_xii": "Ty tå någre falske bröder sigh medh inträngde, och medh inkomne woro, til at bespeija wår frihet, som wij hafwe i Christo Jesu, på thet the skulle komma oß i träldom:",
+      "king_james": "And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Quibus neque ad horam cessimus subjectione, ut veritas Evangelii permaneat apud vos:",
+      "greek_textus_receptus": "οἷς οὐδὲ πρὸς ὥραν εἴξαμεν τῇ ὑποταγῇ ἵνα ἡ ἀλήθεια τοῦ εὐαγγελίου διαμείνῃ πρὸς ὑμᾶς",
+      "finnish_biblia": "Emmepä me tosin niille hetkeksikään myöntyneet kuuliaisuuteen, että evankeliumin totuus teidän tykönänne pysyväinen olis. ",
+      "swedish_karl_xii": "Wekom wij för them icke een stund til vnderdånighet: på thet Evangelij sanning skulle blifwa beståndandes när eder.",
+      "king_james": "To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "ab iis autem, qui videbantur esse aliquid (quales aliquando fuerint, nihil mea interest: Deus personam hominis non accipit): mihi enim qui videbantur esse aliquid, nihil contulerunt.",
+      "greek_textus_receptus": "ἀπὸ δὲ τῶν δοκούντων εἶναί τι ὁποῖοί ποτε ἦσαν οὐδέν μοι διαφέρει πρόσωπον θεὸς ἀνθρώπου οὐ λαμβάνει ἐμοὶ γὰρ οἱ δοκοῦντες οὐδὲν προσανέθεντο",
+      "finnish_biblia": "Mutta niihin, jotka jonakin pidetään, minkäkaltaiset he muinen olivat, ei minun mitään tule: ei Jumala katso ihmisen muotoa; sillä ne, jotka jonakin pidetään, ei minulle mitään opettaneet. ",
+      "swedish_karl_xii": "Men af them som något räknade woro, hurudana the fordom warit hade, thet kommer migh intet widh: Gudh achtar icke menniskiones anseende: men the som något woro räknade, lärde migh intet.",
+      "king_james": "But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man's person:) for they who seemed *to be somewhat* in conference added nothing to me:"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Sed e contra cum vidissent quod creditum est mihi Evangelium præputii, sicut et Petro circumcisionis",
+      "greek_textus_receptus": "ἀλλὰ τοὐναντίον ἰδόντες ὅτι πεπίστευμαι τὸ εὐαγγέλιον τῆς ἀκροβυστίας καθὼς πέτρος τῆς περιτομῆς",
+      "finnish_biblia": "Vaan sitä vastaan, kuin he näkivät, että minulle evankeliumi esinahan puoleen uskottu oli, niinkuin Pietarille ympärileikkauksen puoleen; ",
+      "swedish_karl_xii": "Vtan heller twärt emot; tå the sågo at migh betrodt war Evangelium til förhuden, lika som Petro til omskärelsen:",
+      "king_james": "But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as *the gospel* of the circumcision *was* unto Peter;"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "(qui enim operatus est Petro in apostolatum circumcisionis, operatus est et mihi inter gentes):",
+      "greek_textus_receptus": "ὁ γὰρ ἐνεργήσας πέτρῳ εἰς ἀποστολὴν τῆς περιτομῆς ἐνήργησεν καὶ ἐμοὶ εἰς τὰ ἔθνη",
+      "finnish_biblia": "(Sillä joka Pietarin kanssa oli voimallinen apostolin virassa ympärileikkauksen seassa, se on minunkin kanssani pakanain seassa voimallinen ollut,) ",
+      "swedish_karl_xii": "(Ty then som medh Petro war kraftig til Apostlaämbetet ibland omskärelsen, then hafwer ock medh migh kraftig warit ibland Hedningarna;)",
+      "king_james": "(For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "et cum cognovissent gratiam, quæ data est mihi, Jacobus, et Cephas, et Joannes, qui videbantur columnæ esse, dextras dederunt mihi, et Barnabæ societatis: ut nos in gentes, ipsi autem in circumcisionem:",
+      "greek_textus_receptus": "καὶ γνόντες τὴν χάριν τὴν δοθεῖσάν μοι ἰάκωβος καὶ κηφᾶς καὶ ἰωάννης οἱ δοκοῦντες στῦλοι εἶναι δεξιὰς ἔδωκαν ἐμοὶ καὶ βαρναβᾷ κοινωνίας ἵνα ἡμεῖς εἰς τὰ ἔθνη αὐτοὶ δὲ εἰς τὴν περιτομήν",
+      "finnish_biblia": "Ja kuin he tunsivat sen armon, joka minulle annettu oli, niin Jakob ja Kephas ja Johannes, jotka patsaina pidettiin, antoivat minulle ja Barnabaalle kättä ja sopivat niin meidän kanssamme, että meidän pakanain seassa ja heidän ympärileikkauksen seassa saarnaaman piti, ",
+      "swedish_karl_xii": "Och förnummo then nådh som migh gifwin war, räckte Jacobus, och Cephas, och Johannes, hwilke såsom pelare räknade woro, migh och Barnabe handena, och förenade sigh medh oß, så at wij skulle predika ibland Hedningarna, och the ibland omskärelsen.",
+      "king_james": "And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we *should go* unto the heathen, and they unto the circumcision."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "tantum ut pauperum memores essemus, quod etiam sollicitus fui hoc ipsum facere.",
+      "greek_textus_receptus": "μόνον τῶν πτωχῶν ἵνα μνημονεύωμεν ὃ καὶ ἐσπούδασα αὐτὸ τοῦτο ποιῆσαι",
+      "finnish_biblia": "Ainoastaan että meidän piti vaivaisia muistaman, jota minä myös olen ahkeroinut tehdä. ",
+      "swedish_karl_xii": "Allenast at wij skulle tänckia på the fattiga; hwilket jagh ock så hafwer winlagt migh at giöra.",
+      "king_james": "Only *they would* that we should remember the poor; the same which I also was forward to do."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Cum autem venisset Cephas Antiochiam, in faciem ei restiti, quia reprehensibilis erat.",
+      "greek_textus_receptus": "ὅτε δὲ ἦλθεν πέτρος εἰς ἀντιόχειαν κατὰ πρόσωπον αὐτῷ ἀντέστην ὅτι κατεγνωσμένος ἦν",
+      "finnish_biblia": "Mutta kuin Pietari Antiokiaan tuli, niin minä olin julkisesti häntä vastaan, että kanne oli tullut hänen päällensä. ",
+      "swedish_karl_xii": "Men tå Petrus kom til Antiochien, stod jagh honom vppenbarliga emot: ty klagomål war kommen öfwer honom.",
+      "king_james": "But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Prius enim quam venirent quidam a Jacobo, cum gentibus edebat: cum autem venissent, subtrahebat, et segregabat se, timens eos qui ex circumcisione erant.",
+      "greek_textus_receptus": "πρὸ τοῦ γὰρ ἐλθεῖν τινας ἀπὸ ἰακώβου μετὰ τῶν ἐθνῶν συνήσθιεν ὅτε δὲ ἦλθον ὑπέστελλεν καὶ ἀφώριζεν ἑαυτόν φοβούμενος τοὺς ἐκ περιτομῆς",
+      "finnish_biblia": "Sillä ennenkuin joku Jakobin tyköä tuli, söi hän pakanain kanssa; vaan kuin ne tulivat, vältti hän, ja eroitti itsensä heistä, peljäten niitä, jotka ympärileikkauksesta olivat, ",
+      "swedish_karl_xii": "Ty förr än någre woro komne ifrån Jacobo, åt han medh Hedningarna: men tå the kommo, vndrog han sigh, och skilde sigh ifrå them; ty han fruchtade them som woro af omskärelsen.",
+      "king_james": "For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Et simulationi ejus consenserunt ceteri Judæi, ita ut et Barnabas duceretur ab eis in illam simulationem.",
+      "greek_textus_receptus": "καὶ συνυπεκρίθησαν αὐτῷ καὶ οἱ λοιποὶ ἰουδαῖοι ὥστε καὶ βαρναβᾶς συναπήχθη αὐτῶν τῇ ὑποκρίσει",
+      "finnish_biblia": "Ja muutkin Juudalaiset viekastelivat hänen kanssansa, niin että Barnabaskin vieteltiin heidän ulkokullaisuudellansa. ",
+      "swedish_karl_xii": "Och the andre Judar skrymtade ock medh honom, så at Barnabas wardt ock bedragen til at skrymta medh them.",
+      "king_james": "And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Sed cum vidissem quod non recte ambularent ad veritatem Evangelii, dixi Cephæ coram omnibus: Si tu, cum Judæus sis, gentiliter vivis, et non judaice: quomodo gentes cogis judaizare?",
+      "greek_textus_receptus": "ἀλλ᾽ ὅτε εἶδον ὅτι οὐκ ὀρθοποδοῦσιν πρὸς τὴν ἀλήθειαν τοῦ εὐαγγελίου εἶπον τῷ πέτρῳ ἔμπροσθεν πάντων Εἰ σὺ ἰουδαῖος ὑπάρχων ἐθνικῶς ζῇς καὶ οὐκ ἰουδαϊκῶς τί τὰ ἔθνη ἀναγκάζεις ἰουδαΐζειν",
+      "finnish_biblia": "Mutta kuin minä sen näin, ettei he oikein vaeltaneet evankeliumin totuuden jälkeen, sanoin minä Pietarille julkisesti kaikkein kuullen: jos sinä, joka Juudalainen olet, pakanain tavalla elät ja et Juudalaisten, miksis vaadit pakanoita Juudalaisten tavalla elämään? ",
+      "swedish_karl_xii": "Men tå jagh såg, at the icke rätteliga wandrade efter Evangelij sanning, sade jagh til Petrum vppenbarliga för allom: Medan tu, som äst en Jude, lefwer som en Hedning, och icke som en Jude, hwarföre twingar tu tå Hedningarna til at lefwa efter Juda sättet?",
+      "king_james": "But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before *them* all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Nos natura Judæi, et non ex gentibus peccatores.",
+      "greek_textus_receptus": "ἡμεῖς φύσει ἰουδαῖοι καὶ οὐκ ἐξ ἐθνῶν ἁμαρτωλοί",
+      "finnish_biblia": "Me jotka olemme Juudalaiset luonnon puolesta ja emme syntiset pakanoista: ",
+      "swedish_karl_xii": "Ändoch wij af naturen äre Judar, och icke syndare af Hedningomen:",
+      "king_james": "We *who are* Jews by nature, and not sinners of the Gentiles,"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Scientes autem quod non justificatur homo ex operibus legis, nisi per fidem Jesu Christi: et nos in Christo Jesu credimus, ut justificemur ex fide Christi, et non ex operibus legis: propter quod ex operibus legis non justificabitur omnis caro.",
+      "greek_textus_receptus": "εἰδότες ὅτι οὐ δικαιοῦται ἄνθρωπος ἐξ ἔργων νόμου ἐὰν μὴ διὰ πίστεως ἰησοῦ χριστοῦ καὶ ἡμεῖς εἰς χριστὸν ἰησοῦν ἐπιστεύσαμεν ἵνα δικαιωθῶμεν ἐκ πίστεως χριστοῦ καὶ οὐκ ἐξ ἔργων νόμου διότι οὐ δικαιωθήσεται ἐξ ἔργων νόμου πᾶσα σάρξ",
+      "finnish_biblia": "Että me tiedämme, ettei ihminen lain töiden kautta vanhurskaaksi tule, vaan uskon kautta Jesuksen Kristuksen päälle: niin me myös olemme uskoneet Jesuksen Kristuksen päälle, että me vanhurskaaksi tulemme uskon kautta Kristuksen päälle, ja emme lain töiden kautta, sentähden ettei yksikään liha tule lain töiden kautta vanhurskaaksi. ",
+      "swedish_karl_xii": "Ljkwäl, efter wij wete, at menniskian icke warder rättferdig genom lagsens gierningar, vtan genom trona på Jesum Christum : så troo wij ock på Christum Jesum, at wij skole rättferdige warda genom trona på Christum, och icke af lagsens gierningar: therföre at intet kött warder rättferdigat genom lagsens gierningar.",
+      "king_james": "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Quod si quærentes justificari in Christo, inventi sumus et ipsi peccatores, numquid Christus peccati minister est? Absit.",
+      "greek_textus_receptus": "εἰ δὲ ζητοῦντες δικαιωθῆναι ἐν χριστῷ εὑρέθημεν καὶ αὐτοὶ ἁμαρτωλοί ἆρα χριστὸς ἁμαρτίας διάκονος μὴ γένοιτο",
+      "finnish_biblia": "Mutta jos me, koska me tahdomme Kristuksen kautta vanhurskaaksi tulla, löydetään myös itse syntisiksi, onko siis Kristus synnin palvelia? Pois se! ",
+      "swedish_karl_xii": "Men skulle wij, som söke warda rättferdige genom Christum, ock ännu sielfwe finnas wara syndare, så wore Christus en syndatienare? Bort thet.",
+      "king_james": "But if, while we seek to be justified by Christ, we ourselves also are found sinners, *is* therefore Christ the minister of sin? God forbid."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Si enim quæ destruxi, iterum hæc ædifico: prævaricatorem me constituo.",
+      "greek_textus_receptus": "εἰ γὰρ ἃ κατέλυσα ταῦτα πάλιν οἰκοδομῶ παραβάτην ἐμαυτὸν συνίστημι",
+      "finnish_biblia": "Sillä jos minä sitä taas rakennan, jota minä särkenyt olen, niin minä teen itseni ylitsekäyväksi. ",
+      "swedish_karl_xii": "Ty om jagh bygger thet samma vp igen, som jagh nederslaget hade, så giör jagh migh sielf til en öfwerträdare.",
+      "king_james": "For if I build again the things which I destroyed, I make myself a transgressor."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Ego enim per legem, legi mortuus sum, ut Deo vivam: Christo confixus sum cruci.",
+      "greek_textus_receptus": "ἐγὼ γὰρ διὰ νόμου νόμῳ ἀπέθανον ἵνα θεῷ ζήσω",
+      "finnish_biblia": "Mutta minä olen lain kautta laista kuollut pois, että minä Jumalassa eläisin. ",
+      "swedish_karl_xii": "Men jagh är genom lagh död ifrå lagen, på thet jagh skal lefwa Gudi: jagh är korsfäst medh Christo:",
+      "king_james": "For I through the law am dead to the law, that I might live unto God."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Vivo autem, jam non ego: vivit vero in me Christus. Quod autem nunc vivo in carne: in fide vivo Filii Dei, qui dilexit me, et tradidit semetipsum pro me.",
+      "greek_textus_receptus": "χριστῷ συνεσταύρωμαι ζῶ δὲ οὐκέτι ἐγώ ζῇ δὲ ἐν ἐμοὶ χριστός ὃ δὲ νῦν ζῶ ἐν σαρκί ἐν πίστει ζῶ τῇ τοῦ υἱοῦ τοῦ θεοῦ τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ ἐμοῦ",
+      "finnish_biblia": "Minä olen Kristuksen kanssa ristiinnaulittu. Mutta minä elän, en silleen minä, vaan Kristus elää minussa; sillä jota minä nyt elän lihassa, sen minä elän Jumalan Pojan uskossa, joka on minua rakastanut ja antoi itsensä minun edestäni. ",
+      "swedish_karl_xii": "Men jagh lefwer, doch icke nu jagh, vtan Christus lefwer i migh: ty thet jagh nu lefwer i kötet, thet lefwer jagh i Gudz Sons troo, then migh älskat hafwer, och gifwit sigh sielf vth för migh.",
+      "king_james": "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Non abjicio gratiam Dei. Si enim per legem justitia, ergo gratis Christus mortuus est.",
+      "greek_textus_receptus": "οὐκ ἀθετῶ τὴν χάριν τοῦ θεοῦ εἰ γὰρ διὰ νόμου δικαιοσύνη ἄρα χριστὸς δωρεὰν ἀπέθανεν",
+      "finnish_biblia": "En minä hylkää Jumalan armoa; sillä jos vanhurskaus tulee laista, niin on Kristus hukkaan kuollut.   ",
+      "swedish_karl_xii": "Jagh bortkastar icke Gudz nådh: ty om rättferdigheten kommer af lagen, så är Christus fåfängt död.",
+      "king_james": "I do not frustrate the grace of God: for if righteousness *come* by the law, then Christ is dead in vain."
+    }
+  ]
+}

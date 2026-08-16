@@ -1,0 +1,259 @@
+{
+  "book_id": "JOH",
+  "latin_name": "Evangelium secundum Ioannem",
+  "greek_name": "Κατὰ Ἰωάννην",
+  "finnish_name": "Johanneksen evankeliumi",
+  "swedish_name": "S. Johannis Evangelium",
+  "english_name": "The Gospel According to John",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Una autem sabbati, Maria Magdalene venit mane, cum adhuc tenebræ essent, ad monumentum: et vidit lapidem sublatum a monumento.",
+      "greek_textus_receptus": "τῇ δὲ μιᾷ τῶν σαββάτων μαρία ἡ μαγδαληνὴ ἔρχεται πρωῒ σκοτίας ἔτι οὔσης εἰς τὸ μνημεῖον καὶ βλέπει τὸν λίθον ἠρμένον ἐκ τοῦ μνημείου",
+      "finnish_biblia": "Mutta ensimmäisenä päivänä viikossa tuli Maria Magdalena varhain, kuin vielä pimiä oli, haudalle ja näki kiven otetuksi pois haudalta. ",
+      "swedish_karl_xii": "På then ena Sabbathen, kom Maria Magdalena om morgonen, tå ännu mörkt war, til grafwena, och såg stenen wara borto af grafwene.",
+      "king_james": "The first *day* of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Cucurrit ergo, et venit ad Simonem Petrum, et ad alium discipulum, quem amabat Jesus, et dicit illis: Tulerunt Dominum de monumento, et nescimus ubi posuerunt eum.",
+      "greek_textus_receptus": "τρέχει οὖν καὶ ἔρχεται πρὸς σίμωνα πέτρον καὶ πρὸς τὸν ἄλλον μαθητὴν ὃν ἐφίλει ὁ ἰησοῦς καὶ λέγει αὐτοῖς ἦραν τὸν κύριον ἐκ τοῦ μνημείου καὶ οὐκ οἴδαμεν ποῦ ἔθηκαν αὐτόν",
+      "finnish_biblia": "Niin hän juoksi ja tuli Simon Pietarin tykö ja sen opetuslapsen tykö, jota Jesus rakasti, ja sanoi heille: he ovat Herran ottaneet pois haudasta, ja emme tiedä, kuhunka he hänen panivat. ",
+      "swedish_karl_xii": "Tå lop hon, och kom til Simon Petrus, och til then andra Lärjungan, som Jesus älskade, och sade til them: The hafwa tagit Herran bort vthaf grafwene, och wij wete icke hwart the hafwa lagt honom.",
+      "king_james": "Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Exiit ergo Petrus, et ille alius discipulus, et venerunt ad monumentum.",
+      "greek_textus_receptus": "ἐξῆλθεν οὖν ὁ πέτρος καὶ ὁ ἄλλος μαθητής καὶ ἤρχοντο εἰς τὸ μνημεῖον",
+      "finnish_biblia": "Niin Pietari meni ulos ja toinen opetuslapsi, ja tulivat haudalle. ",
+      "swedish_karl_xii": "Tå gick Petrus vth, och then andre Lärjungen, och kommo til grafwena.",
+      "king_james": "Peter therefore went forth, and that other disciple, and came to the sepulchre."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Currebant autem duo simul, et ille alius discipulus præcucurrit citius Petro, et venit primus ad monumentum.",
+      "greek_textus_receptus": "ἔτρεχον δὲ οἱ δύο ὁμοῦ καὶ ὁ ἄλλος μαθητὴς προέδραμεν τάχιον τοῦ πέτρου καὶ ἦλθεν πρῶτος εἰς τὸ μνημεῖον",
+      "finnish_biblia": "Mutta he juoksivat kahden ynnä, ja toinen opetuslapsi juoksi edellä nopeammin kuin Pietari, ja tuli ensin haudalle. ",
+      "swedish_karl_xii": "Både lupo the tillika; och then andre Lärjungen lop före, snarare än Petrus, och kom först til grafwena.",
+      "king_james": "So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et cum se inclinasset, vidit posita linteamina: non tamen introivit.",
+      "greek_textus_receptus": "καὶ παρακύψας βλέπει κείμενα τὰ ὀθόνια οὐ μέντοι εἰσῆλθεν",
+      "finnish_biblia": "Ja kuin hän itsensä kumarsi, näki hän liinaiset pantuna, mutta ei hän kuitenkaan mennyt sisälle. ",
+      "swedish_karl_xii": "Och när han lutade sigh nedh, fick han see lakanen lagd; doch gick han icke in.",
+      "king_james": "And he stooping down, *and looking in*, saw the linen clothes lying; yet went he not in."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Venit ergo Simon Petrus sequens eum, et introivit in monumentum, et vidit linteamina posita,",
+      "greek_textus_receptus": "ἔρχεται οὖν σίμων πέτρος ἀκολουθῶν αὐτῷ καὶ εἰσῆλθεν εἰς τὸ μνημεῖον καὶ θεωρεῖ τὰ ὀθόνια κείμενα",
+      "finnish_biblia": "Niin Simon Pietari tuli seuraten häntä, ja meni hautaan, ja näki kääriliinat pantuna. ",
+      "swedish_karl_xii": "Så kom tå Simon Petrus efter honom, och gick in i grafwena, och såg lakanen lagd:",
+      "king_james": "Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "et sudarium, quod fuerat super caput ejus, non cum linteaminibus positum, sed separatim involutum in unum locum.",
+      "greek_textus_receptus": "καὶ τὸ σουδάριον ὃ ἦν ἐπὶ τῆς κεφαλῆς αὐτοῦ οὐ μετὰ τῶν ὀθονίων κείμενον ἀλλὰ χωρὶς ἐντετυλιγμένον εἰς ἕνα τόπον",
+      "finnish_biblia": "Ja hikiliinan, joka hänen päänsä päällä oli ollut, ei kääriliinan kanssa, vaan erinänsä käärittynä yhteen paikkaan. ",
+      "swedish_karl_xii": "Och swetteduken, som hade warit om hans hufwud, icke lagd när lakanen, vtan afsides i ett rum tilhopa swept.",
+      "king_james": "And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Tunc ergo introivit et ille discipulus qui venerat primus ad monumentum: et vidit, et credidit:",
+      "greek_textus_receptus": "τότε οὖν εἰσῆλθεν καὶ ὁ ἄλλος μαθητὴς ὁ ἐλθὼν πρῶτος εἰς τὸ μνημεῖον καὶ εἶδεν καὶ ἐπίστευσεν",
+      "finnish_biblia": "Niin meni myös toinen opetuslapsi sisälle, joka ensin haudalle tullut oli, ja näki sen ja uskoi. ",
+      "swedish_karl_xii": "Tå gick ock then andre Lärjungen in, som förr war kommen til grafwena, och såg thet, och troddet.",
+      "king_james": "Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "nondum enim sciebant Scripturam, quia oportebat eum a mortuis resurgere.",
+      "greek_textus_receptus": "οὐδέπω γὰρ ᾔδεισαν τὴν γραφὴν ὅτι δεῖ αὐτὸν ἐκ νεκρῶν ἀναστῆναι",
+      "finnish_biblia": "Sillä ei he vielä Raamattua ymmärtäneet, että hän oli nouseva kuolleista. ",
+      "swedish_karl_xii": "Ty the förstodo icke än tå Skriftena, at han skulle vpstå ifrå the döda.",
+      "king_james": "For as yet they knew not the scripture, that he must rise again from the dead."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Abierunt ergo iterum discipuli ad semetipsos.",
+      "greek_textus_receptus": "ἀπῆλθον οὖν πάλιν πρὸς ἑαυτοὺς οἱ μαθηταί",
+      "finnish_biblia": "Niin ne opetuslapset menivät taas yhteen. ",
+      "swedish_karl_xii": "Och Lärjungarna gingo åter tilhopa igen.",
+      "king_james": "Then the disciples went away again unto their own home."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Maria autem stabat ad monumentum foris, plorans. Dum ergo fleret, inclinavit se, et prospexit in monumentum:",
+      "greek_textus_receptus": "μαρία δὲ εἱστήκει πρὸς τὸ μνημεῖον κλαίουσα ἔξω ὡς οὖν ἔκλαιεν παρέκυψεν εἰς τὸ μνημεῖον",
+      "finnish_biblia": "Mutta Maria seisoi ulkona haudan edessä ja itki. Ja kuin hän niin itki, kumarsi hän itsensä hautaan. ",
+      "swedish_karl_xii": "Men Maria stod och greet vthan för grafwene. Widh hon nu så greet, lutade hon sigh in i grafwena;",
+      "king_james": "But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, *and looked* into the sepulchre,"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "et vidit duos angelos in albis sedentes, unum ad caput, et unum ad pedes, ubi positum fuerat corpus Jesu.",
+      "greek_textus_receptus": "καὶ θεωρεῖ δύο ἀγγέλους ἐν λευκοῖς καθεζομένους ἕνα πρὸς τῇ κεφαλῇ καὶ ἕνα πρὸς τοῖς ποσίν ὅπου ἔκειτο τὸ σῶμα τοῦ ἰησοῦ",
+      "finnish_biblia": "Ja näki kaksi enkeliä valkeissa vaatteissa istuvan, yhden pään puolessa ja toisen jalkain puolessa, siinä missä Jesuksen ruumis pantu oli. ",
+      "swedish_karl_xii": "Och fick see twå Ånglar i hwijt kläder, sittiande then ena widh hufwudet, och then andra widh fötterna, ther the hade lagt Jesu lekamen.",
+      "king_james": "And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Dicunt ei illi: Mulier, quid ploras? Dicit eis: Quia tulerunt Dominum meum: et nescio ubi posuerunt eum.",
+      "greek_textus_receptus": "καὶ λέγουσιν αὐτῇ ἐκεῖνοι γύναι τί κλαίεις λέγει αὐτοῖς ὅτι ἦραν τὸν κύριόν μου καὶ οὐκ οἶδα ποῦ ἔθηκαν αὐτόν",
+      "finnish_biblia": "Ne sanoivat hänelle: vaimo, mitäs itket? Hän sanoi heille: he ovat minun Herrani ottaneet pois, ja en tiedä, kuhunka he hänen ovat panneet. ",
+      "swedish_karl_xii": "The sade til henne: Qwinna, hwad gråter tu? Sade hon til them: The hafwa tagit bort min Herra; och jagh weet icke hwart the hafwa lagt honom.",
+      "king_james": "And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Hæc cum dixisset, conversa est retrorsum, et vidit Jesum stantem: et non sciebat quia Jesus est.",
+      "greek_textus_receptus": "καὶ ταῦτα εἰποῦσα ἐστράφη εἰς τὰ ὀπίσω καὶ θεωρεῖ τὸν ἰησοῦν ἑστῶτα καὶ οὐκ ᾔδει ὅτι ὁ ἰησοῦς ἐστιν",
+      "finnish_biblia": "Ja kuin hän nämät sanonut oli, käänsi hän itsensä taapäin, ja näki Jesuksen seisovan, eikä tietänyt, että se oli Jesus. ",
+      "swedish_karl_xii": "När hon thetta sade, wände hon sigh tilbaka, och fick see Jesum ståndande; och wiste icke at thet war Jesus.",
+      "king_james": "And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Dicit ei Jesus: Mulier, quid ploras? quem quæris? Illa existimans quia hortulanus esset, dicit ei: Domine, si tu sustulisti eum, dicito mihi ubi posuisti eum, et ego eum tollam.",
+      "greek_textus_receptus": "λέγει αὐτῇ ὁ ἰησοῦς γύναι τί κλαίεις τίνα ζητεῖς ἐκείνη δοκοῦσα ὅτι ὁ κηπουρός ἐστιν λέγει αὐτῷ κύριε εἰ σὺ ἐβάστασας αὐτόν εἰπέ μοι ποῦ αὐτόν ἔθηκας κἀγὼ αὐτὸν ἀρῶ",
+      "finnish_biblia": "Sanoi Jesus hänelle: vaimo, mitäs itket? ketäs etsit? Mutta hän luuli sen yrttitarhan haltiaksi, ja sanoi hänelle: Herra, jos sinä hänen kannoit pois, niin sano minulle, kuhunkas hänen panit, ja minä tahdon hänen ottaa. ",
+      "swedish_karl_xii": "Sade Jesus til henne: Qwinna, hwad gråter tu? Hwem söker tu? Hon meente at thet hade warit örtagårdz mästaren, och sade til honom: Herre, hafwer tu burit honom bort; säg migh hwart tu hafwer lagt honom, och jagh wil tagan.",
+      "king_james": "Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Dicit ei Jesus: Maria. Conversa illa, dicit ei: Rabboni (quod dicitur Magister).",
+      "greek_textus_receptus": "λέγει αὐτῇ ὃ ἰησοῦς μαρία στραφεῖσα ἐκείνη λέγει αὐτῷ ῥαββουνι ὁ λέγεται διδάσκαλε",
+      "finnish_biblia": "Jesus sanoi hänelle: Maria! niin hän käänsi itsensä ja sanoi hänelle: Rabboni, se on: Mestari. ",
+      "swedish_karl_xii": "Jesus sade til henne: Maria. Tå wände hon sigh om, och sade til honom: Rabbuni; thet är Mästar.",
+      "king_james": "Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Dicit ei Jesus: Noli me tangere, nondum enim ascendi ad Patrem meum: vade autem ad fratres meos, et dic eis: Ascendo ad Patrem meum, et Patrem vestrum, Deum meum, et Deum vestrum.",
+      "greek_textus_receptus": "λέγει αὐτῇ ὁ ἰησοῦς μή μου ἅπτου οὔπω γὰρ ἀναβέβηκα πρὸς τὸν πατέρα μου πορεύου δὲ πρὸς τοὺς ἀδελφούς μου καὶ εἰπὲ αὐτοῖς ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν",
+      "finnish_biblia": "Jesus sanoi hänelle: älä minuun rupee; sillä en minä ole vielä mennyt ylös minun Isäni tykö, vaan mene minun veljeini tykö ja sano heille: minä menen ylös minun Isäni tykö ja teidän Isänne tykö, ja minun Jumalani tykö ja teidän Jumalanne tykö. ",
+      "swedish_karl_xii": "Sade Jesus til henne: Kom icke widh migh; ty jagh är icke ännu vpfaren til min Fader: men gack til mina bröder, och säg them: Jagh faar vp til min Fader, och edar Fader; och til min Gudh, och edar Gudh.",
+      "king_james": "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and *to* my God, and your God."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Venit Maria Magdalene annuntians discipulis: Quia vidi Dominum, et hæc dixit mihi.",
+      "greek_textus_receptus": "ἔρχεται μαρία ἡ μαγδαληνὴ ἀπαγγέλλουσα τοῖς μαθηταῖς ὅτι ἑώρακεν τὸν κύριον καὶ ταῦτα εἶπεν αὐτῇ",
+      "finnish_biblia": "Maria Magdalena tuli ja ilmoitti opetuslapsille, että hän oli nähnyt Herran, ja että hän näitä hänelle sanoi. ",
+      "swedish_karl_xii": "Maria Magdalena kom, och bodade Lärjungomen at hon hade sedt Herran; och at han hade sagt henne thetta.",
+      "king_james": "Mary Magdalene came and told the disciples that she had seen the Lord, and *that* he had spoken these things unto her."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Cum ergo sero esset die illo, una sabbatorum, et fores essent clausæ, ubi erant discipuli congregati propter metum Judæorum: venit Jesus, et stetit in medio, et dixit eis: Pax vobis.",
+      "greek_textus_receptus": "οὔσης οὖν ὀψίας τῇ ἡμέρᾳ ἐκείνῃ τῇ μιᾷ τῶν σαββάτων καὶ τῶν θυρῶν κεκλεισμένων ὅπου ἦσαν οἱ μαθηταὶ συνηγμένοι διὰ τὸν φόβον τῶν ἰουδαίων ἦλθεν ὁ ἰησοῦς καὶ ἔστη εἰς τὸ μέσον καὶ λέγει αὐτοῖς εἰρήνη ὑμῖν",
+      "finnish_biblia": "Kuin siis sen sabbatin päivän ehtoo oli, ja ovet olivat suljetut, jossa opetuslapset kokoontuneet olivat Juudalaisten pelvon tähden, tuli Jesus ja seisoi heidän keskellänsä ja sanoi heille: rauha olkoon teille! ",
+      "swedish_karl_xii": "Men om aftonen, på then samma Sabbathen, tå dörarna woro lyckta, ther Lärjungarna woro församlade, för Judarnas rädzlo skul, kom Jesus, och stod mitt ibland them, och sade til them: Frijd ware eder.",
+      "king_james": "Then the same day at evening, being the first *day* of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace *be* unto you."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Et cum hoc dixisset, ostendit eis manus et latus. Gavisi sunt discipuli, viso Domino.",
+      "greek_textus_receptus": "καὶ τοῦτο εἰπὼν ἔδειξεν αὐτοῖς τὰς χεῖρας καὶ τὴν πλευρὰν αὐτοῦ ἐχάρησαν οὖν οἱ μαθηταὶ ἰδόντες τὸν κύριον",
+      "finnish_biblia": "Ja kuin hän sen sanonut oli, osoitti hän heille kätensä ja kylkensä. Niin opetuslapset ihastuivat, että he näkivät Herran. ",
+      "swedish_karl_xii": "Och när han hade thetta sagt, lät han them see händerna, och sina sido. Tå wordo Lärjung arna glade, at the sågo Herran.",
+      "king_james": "And when he had so said, he shewed unto them *his* hands and his side. Then were the disciples glad, when they saw the Lord."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Dixit ergo eis iterum: Pax vobis. Sicut misit me Pater, et ego mitto vos.",
+      "greek_textus_receptus": "εἶπεν οὖν αὐτοῖς ὁ ἰησοῦς πάλιν εἰρήνη ὑμῖν καθὼς ἀπέσταλκέν με ὁ πατήρ κἀγὼ πέμπω ὑμᾶς",
+      "finnish_biblia": "Ja Jesus taas sanoi heille: rauha olkoon teille! niinkuin Isä minun lähetti, niin minä myös lähetän teidät. ",
+      "swedish_karl_xii": "Tå sade Jesus åter til them: Frijd ware eder; såsom Fadren hafwer migh sändt, så sänder ock jagh eder.",
+      "king_james": "Then said Jesus to them again, Peace *be* unto you: as *my* Father hath sent me, even so send I you."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Hæc cum dixisset, insufflavit, et dixit eis: Accipite Spiritum Sanctum:",
+      "greek_textus_receptus": "καὶ τοῦτο εἰπὼν ἐνεφύσησεν καὶ λέγει αὐτοῖς λάβετε πνεῦμα ἅγιον",
+      "finnish_biblia": "Ja kuin hän nämät sanonut oli, puhalsi hän heidän päällensä ja sanoi heille: ottakaat Pyhä Henki: ",
+      "swedish_karl_xii": "När han thetta sagt hade, blåste han på them, och sade til them: Tager then Helga Anda:",
+      "king_james": "And when he had said this, he breathed on *them*, and saith unto them, Receive ye the Holy Ghost:"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "quorum remiseritis peccata, remittuntur eis: et quorum retinueritis, retenta sunt.",
+      "greek_textus_receptus": "ἄν τινων ἀφῆτε τὰς ἁμαρτίας ἀφιένται αὐτοῖς ἄν τινων κρατῆτε κεκράτηνται",
+      "finnish_biblia": "Joille te synnit anteeksi annatte, niille ne anteeksi annetaan, ja joille te ne pidätte, niille ne ovat pidetyt. ",
+      "swedish_karl_xii": "Hwilkom J förlåten synderna, them förlåtas the; och hwilkom J behållen them, them äro the behållna.",
+      "king_james": "Whose soever sins ye remit, they are remitted unto them; *and* whose soever *sins* ye retain, they are retained."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Thomas autem unus ex duodecim, qui dicitur Didymus, non erat cum eis quando venit Jesus.",
+      "greek_textus_receptus": "θωμᾶς δὲ εἷς ἐκ τῶν δώδεκα ὁ λεγόμενος δίδυμος οὐκ ἦν μετ᾽ αὐτῶν ὅτε ἦλθεν ὁ ἰησοῦς",
+      "finnish_biblia": "Mutta Toomas, yksi kahdestatoistakymmenestä, joka kaksoiseksi kutsutaan, ei ollut heidän kanssansa, kuin Jesus tuli. ",
+      "swedish_karl_xii": "Men Thomas, en af the Tolf, hwilken kallas Twilling, war icke medh them, när Jesus kom.",
+      "king_james": "But Thomas, one of the twelve, called Didymus, was not with them when Jesus came."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Dixerunt ergo ei alii discipuli: Vidimus Dominum. Ille autem dixit eis: Nisi videro in manibus ejus fixuram clavorum, et mittam digitum meum in locum clavorum, et mittam manum meam in latus ejus, non credam.",
+      "greek_textus_receptus": "ἔλεγον οὖν αὐτῷ οἱ ἄλλοι μαθηταί ἑωράκαμεν τὸν κύριον ὁ δὲ εἶπεν αὐτοῖς ἐὰν μὴ ἴδω ἐν ταῖς χερσὶν αὐτοῦ τὸν τύπον τῶν ἥλων καὶ βάλω τὸν δάκτυλόν μου εἰς τὸν τύπον τῶν ἥλων καὶ βάλω τὴν χεῖρα μου εἰς τὴν πλευρὰν αὐτοῦ οὐ μὴ πιστεύσω",
+      "finnish_biblia": "Niin muut opetuslapset sanoivat hänelle: me näimme Herran. Mutta hän sanoi heille: ellen minä näe hänen käsissänsä naulan reikää, ja pistä sormeani naulain siaan, ja pistä kättäni hänen kylkeensä, en minä usko. ",
+      "swedish_karl_xii": "Tå sade the andre Lärjungarna til honom: Wij sågom Herran. Sade han til them: Vtan jagh seer holen efter spikarna i hans händer, och stinger mitt finger i holen efter spikarna, och stinger min hand i hans sido, troor jagh thet icke.",
+      "king_james": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Et post dies octo, iterum erant discipuli ejus intus, et Thomas cum eis. Venit Jesus januis clausis, et stetit in medio, et dixit: Pax vobis.",
+      "greek_textus_receptus": "καὶ μεθ᾽ ἡμέρας ὀκτὼ πάλιν ἦσαν ἔσω οἱ μαθηταὶ αὐτοῦ καὶ θωμᾶς μετ᾽ αὐτῶν ἔρχεται ὁ ἰησοῦς τῶν θυρῶν κεκλεισμένων καὶ ἔστη εἰς τὸ μέσον καὶ εἶπεν εἰρήνη ὑμῖν",
+      "finnish_biblia": "Ja kahdeksan päivän perästä olivat opetuslapset taas sisällä, ja Toomas heidän kanssansa. Niin Jesus tuli, kuin ovet suljetut olivat, ja seisoi heidän keskellänsä, ja sanoi: rauha olkoon teille! ",
+      "swedish_karl_xii": "Och otta dagar ther efter, woro åter hans Lärjungar inne, och Thomas medh them: tå kom Jesus, widh dörarna woro lyckta, och stod mitt ibland them, och sade: Frijd ware eder.",
+      "king_james": "And after eight days again his disciples were within, and Thomas with them: *then* came Jesus, the doors being shut, and stood in the midst, and said, Peace *be* unto you."
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Deinde dicit Thomæ: Infer digitum tuum huc, et vide manus meas, et affer manum tuam, et mitte in latus meum: et noli esse incredulus, sed fidelis.",
+      "greek_textus_receptus": "εἶτα λέγει τῷ θωμᾷ φέρε τὸν δάκτυλόν σου ὧδε καὶ ἴδε τὰς χεῖράς μου καὶ φέρε τὴν χεῖρά σου καὶ βάλε εἰς τὴν πλευράν μου καὶ μὴ γίνου ἄπιστος ἀλλὰ πιστός",
+      "finnish_biblia": "Sitte sanoi hän Toomaalle: pistä sormes tänne, ja katso minun käsiäni, ja ojenna tänne kätes, ja pistä minun kylkeeni, ja älä ole epäuskoinen, vaan uskovainen. ",
+      "swedish_karl_xii": "Sedan sade han til Thomas: Räck hijt titt finger, och se mina händer; och räck hijt tina hand, och stick henne i mina sido: och war icke twifwelachtig, vtan trogen.",
+      "king_james": "Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust *it* into my side: and be not faithless, but believing."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Respondit Thomas, et dixit ei: Dominus meus et Deus meus.",
+      "greek_textus_receptus": "καὶ ἀπεκρίθη ὁ θωμᾶς καὶ εἶπεν αὐτῷ ὁ κύριός μου καὶ ὁ θεός μου",
+      "finnish_biblia": "Toomas vastasi ja sanoi hänelle: minun Herrani ja minun Jumalani! ",
+      "swedish_karl_xii": "Thomas swarade, och sade til honom: Min Herre, och min Gudh.",
+      "king_james": "And Thomas answered and said unto him, My Lord and my God."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Dixit ei Jesus: Quia vidisti me, Thoma, credidisti: beati qui non viderunt, et crediderunt.",
+      "greek_textus_receptus": "λέγει αὐτῷ ὁ ἰησοῦς ὅτι ἑώρακάς με θωμᾷ πεπίστευκας μακάριοι οἱ μὴ ἰδόντες καὶ πιστεύσαντες",
+      "finnish_biblia": "Jesus sanoi hänelle: ettäs näit minun, Toomas, niin sinä uskoit: autuaat ovat ne, jotka ei näe, ja kuitenkin uskovat. ",
+      "swedish_karl_xii": "Jesus sade til honom: Efter tu såg migh, Thoma, troor tu: Salige äro the som icke see, och doch troo.",
+      "king_james": "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed *are* hey that have not seen, and *yet* have believed."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Multa quidem et alia signa fecit Jesus in conspectu discipulorum suorum, quæ non sunt scripta in libro hoc.",
+      "greek_textus_receptus": "πολλὰ μὲν οὖν καὶ ἄλλα σημεῖα ἐποίησεν ὁ ἰησοῦς ἐνώπιον τῶν μαθητῶν αὐτοῦ ἃ οὐκ ἔστιν γεγραμμένα ἐν τῷ βιβλίῳ τούτῳ",
+      "finnish_biblia": "Niin teki myös Jesus monta muuta merkkiä opetuslastensa nähden, jotka ei tässä kirjassa ole kirjoitetut. ",
+      "swedish_karl_xii": "Gjorde ock Jesus mång annor tekn, i sina Lärjungars åsyn, som i thenna bokene icke äro skrifne.",
+      "king_james": "And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:"
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Hæc autem scripta sunt ut credatis, quia Jesus est Christus Filius Dei: et ut credentes, vitam habeatis in nomine ejus.",
+      "greek_textus_receptus": "ταῦτα δὲ γέγραπται ἵνα πιστεύσητε ὅτι ὁ ἰησοῦς ἐστιν ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ καὶ ἵνα πιστεύοντες ζωὴν ἔχητε ἐν τῷ ὀνόματι αὐτοῦ",
+      "finnish_biblia": "Mutta nämät ovat kirjoitetut, että te uskoisitte, että Jesus on Kristus, Jumalan Poika, ja että te saisitte elämän uskon kautta hänen nimeensä.   ",
+      "swedish_karl_xii": "Men thesse äro skrifne, på thet J troo skolen, at Jesus är Christus Gudz Son; och at J genom trona skolen hafwa lijf i hans namn.",
+      "king_james": "But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "book_id": "1CO",
+  "latin_name": "Epistula I ad Corinthios",
+  "greek_name": "Πρὸς Κορινθίους Α",
+  "finnish_name": "Ensimmäinen kirje korinttilaisille",
+  "swedish_name": "S. Pauli Epistel then förra Til the Corinther",
+  "english_name": "The First Epistle of Paul the Apostle to the Corinthians",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et ego, cum venissem ad vos, fratres, veni non in sublimitate sermonis, aut sapientiæ, annuntians vobis testimonium Christi.",
+      "greek_textus_receptus": "κἀγὼ ἐλθὼν πρὸς ὑμᾶς ἀδελφοί ἦλθον οὐ καθ᾽ ὑπεροχὴν λόγου ἢ σοφίας καταγγέλλων ὑμῖν τὸ μαρτύριον τοῦ θεοῦ",
+      "finnish_biblia": "Ja, rakkaat veljet, kuin minä teidän tykönne tulin, en minä tullut korkeilla sanoilla enkä syvällä viisaudella ilmoittamaan teille Jumalan todistusta. ",
+      "swedish_karl_xii": "Och jagh, käre bröder, tå jagh kom til eder, kom jagh icke medh högh ord, eller högh wijsdom, at förkunna eder Gudz witnesbörd.",
+      "king_james": "And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Non enim judicavi me scire aliquid inter vos, nisi Jesum Christum, et hunc crucifixum.",
+      "greek_textus_receptus": "οὐ γὰρ ἔκρινα τοῦ εἰδέναι τι ἐν ὑμῖν εἰ μὴ ἰησοῦν χριστὸν καὶ τοῦτον ἐσταυρωμένον",
+      "finnish_biblia": "Sillä en minä itsiäni pitänyt teidän seassanne mitäkään tietämäni, vaan ainoasti Jesuksen Kristuksen ja sen ristiinnaulitun. ",
+      "swedish_karl_xii": "Ty jagh hölt migh icke ther före, at jagh något wiste ibland eder, vtan Jesum Christum, och honom korsfästan.",
+      "king_james": "For I determined not to know any thing among you, save Jesus Christ, and him crucified."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et ego in infirmitate, et timore, et tremore multo fui apud vos:",
+      "greek_textus_receptus": "καὶ ἐγὼ ἐν ἀσθενείᾳ καὶ ἐν φόβῳ καὶ ἐν τρόμῳ πολλῷ ἐγενόμην πρὸς ὑμᾶς",
+      "finnish_biblia": "Ja minä olin teidän kanssanne heikkoudessa, ja pelvossa, ja suuressa vapistuksessa. ",
+      "swedish_karl_xii": "Och jagh war medh eder i swaghet, och medh räddhoga, och medh mycket bäfwande.",
+      "king_james": "And I was with you in weakness, and in fear, and in much trembling."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "et sermo meus, et prædicatio mea non in persuasibilibus humanæ sapientiæ verbis, sed in ostensione spiritus et virtutis:",
+      "greek_textus_receptus": "καὶ ὁ λόγος μου καὶ τὸ κήρυγμά μου οὐκ ἐν πειθοῖς ἀνθρωπίνης σοφίας λόγοις ἀλλ᾽ ἐν ἀποδείξει πνεύματος καὶ δυνάμεως",
+      "finnish_biblia": "Ja minun puheeni ja saarnani ei ollut kaunistetuissa sanoissa ihmisten viisauden jälkeen, mutta hengen ja voiman osoituksessa, ",
+      "swedish_karl_xii": "Och mitt taal, och min predikan war icke i kånstelig ord efter menniskiors wijsdom; vtan vthi Andans, och kraftenes bewisning:",
+      "king_james": "And my speech and my preaching *was* not with enticing words of man's wisdom, but in demonstration of the Spirit and of power:"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "ut fides vestra non sit in sapientia hominum, sed in virtute Dei.",
+      "greek_textus_receptus": "ἵνα ἡ πίστις ὑμῶν μὴ ᾖ ἐν σοφίᾳ ἀνθρώπων ἀλλ᾽ ἐν δυνάμει θεοῦ",
+      "finnish_biblia": "Ettei teidän uskonne olisi ihmisten viisaudessa, vaan Jumalan voimassa. ",
+      "swedish_karl_xii": "At edor troo icke skal stå på menniskiors wijsdom, vtan på Gudz kraft.",
+      "king_james": "That your faith should not stand in the wisdom of men, but in the power of God."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Sapientiam autem loquimur inter perfectos: sapientiam vero non hujus sæculi, neque principum hujus sæculi, qui destruuntur:",
+      "greek_textus_receptus": "σοφίαν δὲ λαλοῦμεν ἐν τοῖς τελείοις σοφίαν δὲ οὐ τοῦ αἰῶνος τούτου οὐδὲ τῶν ἀρχόντων τοῦ αἰῶνος τούτου τῶν καταργουμένων",
+      "finnish_biblia": "Mutta me puhumme siitä viisaudesta, joka on täydellisten tykönä, ei tämän maailman viisaudesta, eikä tämän maailman päämiesten, jotka hukkuvat. ",
+      "swedish_karl_xii": "Men thet wij tale om, är wijsdom när the fulkommeliga: doch icke thenna werldenes, eller thenna werldenes Öfwerstars wijsdom, hwilke förgås.",
+      "king_james": "Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "sed loquimur Dei sapientiam in mysterio, quæ abscondita est, quam prædestinavit Deus ante sæcula in gloriam nostram,",
+      "greek_textus_receptus": "ἀλλὰ λαλοῦμεν σοφίαν θεοῦ ἐν μυστηρίῳ τὴν ἀποκεκρυμμένην ἣν προώρισεν ὁ θεὸς πρὸ τῶν αἰώνων εἰς δόξαν ἡμῶν",
+      "finnish_biblia": "Vaan me puhumme siitä salatusta Jumalan viisaudesta, jonka Jumala on ennen maailman alkua säätänyt meidän kunniaksemme, ",
+      "swedish_karl_xii": "Men wij tale om then hemliga fördolda Gudz wijsdom, then Gudh för werldenes begynnelse förskickat hafwer, til wåra härlighet;",
+      "king_james": "But we speak the wisdom of God in a mystery, *even* the hidden *wisdom*, which God ordained before the world unto our glory:"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "quam nemo principum hujus sæculi cognovit: si enim cognovissent, numquam Dominum gloriæ crucifixissent.",
+      "greek_textus_receptus": "ἣν οὐδεὶς τῶν ἀρχόντων τοῦ αἰῶνος τούτου ἔγνωκεν εἰ γὰρ ἔγνωσαν οὐκ ἂν τὸν κύριον τῆς δόξης ἐσταύρωσαν",
+      "finnish_biblia": "Jota ei yksikään tämän maailman päämiehistä tuntenut; sillä jos he olisivat tunteneet, niin ei he olisi kunnian Herraa ristiinnaulinneet. ",
+      "swedish_karl_xii": "Hwilken ingen af thenna werldenes Förstar kändt hafwer: ty om the then kändt hade, så hade the aldrig korsfäst härlighetenes Herra.",
+      "king_james": "Which none of the princes of this world knew: for had they known *it*, they would not have crucified the Lord of glory."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Sed sicut scriptum est: Quod oculus non vidit, nec auris audivit, nec in Corinthians hominis ascendit, quæ præparavit Deus iis qui diligunt illum:",
+      "greek_textus_receptus": "ἀλλὰ καθὼς γέγραπται ἃ ὀφθαλμὸς οὐκ εἶδεν καὶ οὖς οὐκ ἤκουσεν καὶ ἐπὶ καρδίαν ἀνθρώπου οὐκ ἀνέβη ἃ ἡτοίμασεν ὁ θεὸς τοῖς ἀγαπῶσιν αὐτόν",
+      "finnish_biblia": "Vaan niinkuin kirjoitettu on: joita ei silmä ole nähnyt, eikä korva ole kuullut, ja ei ihmisen sydämeen ole astunut, joita Jumala on niille valmistanut, jotka häntä rakastavat. ",
+      "swedish_karl_xii": "Vtan såsom skrifwit är: Thet intet öga sedt hafwer, och intet öra hördt, och vthi ingen menniskios hierta stigit är, thet hafwer Gudh beredt them, som honom älska.",
+      "king_james": "But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "nobis autem revelavit Deus per Spiritum suum: Spiritus enim omnia scrutatur, etiam profunda Dei.",
+      "greek_textus_receptus": "ἡμῖν δὲ ὁ θεὸς ἀπεκάλυψεν διὰ τοῦ πνεύματος αὐτοῦ τὸ γὰρ πνεῦμα πάντα ἐρευνᾷ, καὶ τὰ βάθη τοῦ θεοῦ",
+      "finnish_biblia": "Mutta meille on Jumala sen ilmoittanut Henkensä kautta; sillä Henki kaikki tutkistelee, Jumalan syvyydetkin. ",
+      "swedish_karl_xii": "Men oß hafwer Gudh thet vppenbarat genom sin Anda: ty Anden vthransakar all ting; ja, ock Gudz diuphet.",
+      "king_james": "But God hath revealed *them* unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Quis enim hominum scit quæ sunt hominis, nisi spiritus hominis, qui in ipso est? ita et quæ Dei sunt, nemo cognovit, nisi Spiritus Dei.",
+      "greek_textus_receptus": "τίς γὰρ οἶδεν ἀνθρώπων τὰ τοῦ ἀνθρώπου εἰ μὴ τὸ πνεῦμα τοῦ ἀνθρώπου τὸ ἐν αὐτῷ οὕτως καὶ τὰ τοῦ θεοῦ οὐδεὶς οἶδεν εἰ μὴ τὸ πνεῦμα τοῦ θεοῦ",
+      "finnish_biblia": "Sillä kuka ihminen tietää, mitä ihmisessä on, vaan ihmisen henki, joka hänessä on? Niin myös ei yksikään tiedä, mitä Jumalassa on, vaan Jumalan Henki. ",
+      "swedish_karl_xii": "Ty hwilken menniskia weet hwad i menniskione är, vtan menniskiones ande som är i henne? Så weet ock ingen hwad i Gudi är, vtan Gudz Ande.",
+      "king_james": "For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Nos autem non spiritum hujus mundi accepimus, sed Spiritum qui ex Deo est, ut sciamus quæ a Deo donata sunt nobis:",
+      "greek_textus_receptus": "ἡμεῖς δὲ οὐ τὸ πνεῦμα τοῦ κόσμου ἐλάβομεν ἀλλὰ τὸ πνεῦμα τὸ ἐκ τοῦ θεοῦ ἵνα εἰδῶμεν τὰ ὑπὸ τοῦ θεοῦ χαρισθέντα ἡμῖν",
+      "finnish_biblia": "Mutta emme ole saaneet tämän maailman henkeä, vaan sen Hengen, joka Jumalasta on, että me tietäisimme, mitä meille Jumalalta annettu on, ",
+      "swedish_karl_xii": "Men wij hafwe icke fått thenna werldenes anda, vtan then Anda som är af Gudi; at wij weta kunne hwad oß af Gudi gifwit är.",
+      "king_james": "Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "quæ et loquimur non in doctis humanæ sapientiæ verbis, sed in doctrina Spiritus, spiritualibus spiritualia comparantes.",
+      "greek_textus_receptus": "ἃ καὶ λαλοῦμεν οὐκ ἐν διδακτοῖς ἀνθρωπίνης σοφίας λόγοις ἀλλ᾽ ἐν διδακτοῖς πνεύματος ἁγίου, πνευματικοῖς πνευματικὰ συγκρίνοντες",
+      "finnish_biblia": "Jota me myös puhumme, ei niillä sanoilla, joita inhimillinen viisaus opettaa, vaan niillä, joita Pyhä Henki opettaa, ja me tuomitsemme hengelliset asiat hengellisesti. ",
+      "swedish_karl_xii": "Hwilket wij ock tale, icke medh sådana ord som mennisklig wijsdom lärer, vtan medh sådana ord som then Helge Ande lärer; och dömom andeliga saker andeligen.",
+      "king_james": "Which things also we speak, not in the words which man's wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Animalis autem homo non percipit ea quæ sunt Spiritus Dei: stultitia enim est illi, et non potest intelligere: quia spiritualiter examinatur.",
+      "greek_textus_receptus": "ψυχικὸς δὲ ἄνθρωπος οὐ δέχεται τὰ τοῦ πνεύματος τοῦ θεοῦ μωρία γὰρ αὐτῷ ἐστιν καὶ οὐ δύναται γνῶναι ὅτι πνευματικῶς ἀνακρίνεται",
+      "finnish_biblia": "Mutta ei luonnollinen ihminen ymmärrä niitä, mitkä Jumalan Hengen ovat; sillä ne ovat hänelle hulluus, ja ei taida käsittää, sillä ne hengellisesti tuomitaan. ",
+      "swedish_karl_xii": "Men then naturliga menniskian förnimmer intet af thet Gudz Anda tilhörer: ty thet är honom en galenskap, och kan icke begripat : ty thet måste andeliga dömas.",
+      "king_james": "But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know *them*, because they are spiritually discerned."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Spiritualis autem judicat omnia: et ipse a nemine judicatur.",
+      "greek_textus_receptus": "ὁ δὲ πνευματικὸς ἀνακρίνει μὲν πάντα αὐτὸς δὲ ὑπ᾽ οὐδενὸς ἀνακρίνεται",
+      "finnish_biblia": "Mutta hengellinen tuomitsee tosin kaikkia, vaan ei hän keltäkään tuomita. ",
+      "swedish_karl_xii": "Men then andelige dömer all ting, och warder af ingom dömd.",
+      "king_james": "But he that is spiritual judgeth all things, yet he himself is judged of no man."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Quis enim cognovit sensum Domini, qui instruat eum? nos autem sensum Christi habemus.",
+      "greek_textus_receptus": "τίς γὰρ ἔγνω νοῦν κυρίου ὃς συμβιβάσει αὐτόν ἡμεῖς δὲ νοῦν χριστοῦ ἔχομεν",
+      "finnish_biblia": "Sillä kuka on tietänyt Herran mielen, joka tahtoo hänelle neuvoa antaa? Mutta meillä on Kristuksen mieli.   ",
+      "swedish_karl_xii": "Ty ho hafwer kändt Herrans sinne? Eller ho wil vnderwisa honom? Men wij hafwe Christi sinne.",
+      "king_james": "For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ."
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "book_id": "ROM",
+  "latin_name": "Epistula ad Romanos",
+  "greek_name": "Πρὸς Ῥωμαίους",
+  "finnish_name": "Kirje roomalaisille",
+  "swedish_name": "S. Pauli Epistel Til the Romare",
+  "english_name": "The Epistle of Paul the Apostle to the Romans",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Paulus, servus Jesu Christi, vocatus Apostolus, segregatus in Evangelium Dei,",
+      "greek_textus_receptus": "παῦλος δοῦλος ἰησοῦ χριστοῦ κλητὸς ἀπόστολος ἀφωρισμένος εἰς εὐαγγέλιον θεοῦ",
+      "finnish_biblia": "Paavali, Jesuksen Kristuksen palvelia, kutsuttu apostoliksi, eroitettu Jumalan evankeliumiin, ",
+      "swedish_karl_xii": "Paulus, Jesu Christi tienare, kallad til Apostel, afskild til at predika Gudz Evangelium:",
+      "king_james": "Paul, a servant of Jesus Christ, called *to be* an apostle, separated unto the gospel of God,"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "quod ante promiserat per prophetas suos in Scripturis sanctis",
+      "greek_textus_receptus": "ὃ προεπηγγείλατο διὰ τῶν προφητῶν αὐτοῦ ἐν γραφαῖς ἁγίαις",
+      "finnish_biblia": "(Jonka hän on ennen prophetainsa kautta pyhissä Raamatuissa luvannut,) ",
+      "swedish_karl_xii": "Hwilket han tilförene vthlåfwat hafwer genom sina Propheter i then helga Skrift,",
+      "king_james": "(Which he had promised afore by his prophets in the holy scriptures,)"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "de Filio suo, qui factus est ei ex semine David secundum carnem,",
+      "greek_textus_receptus": "περὶ τοῦ υἱοῦ αὐτοῦ τοῦ γενομένου ἐκ σπέρματος δαβὶδ κατὰ σάρκα",
+      "finnish_biblia": "Hänen Pojassansa, (joka on Davidin siemenestä lihan puolesta syntynyt, ",
+      "swedish_karl_xii": "Om sin son, then född är af Davidz sädh, efter kötet:",
+      "king_james": "Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "qui prædestinatus est Filius Dei in virtute secundum spiritum sanctificationis ex resurrectione mortuorum Jesu Christi Domini nostri:",
+      "greek_textus_receptus": "τοῦ ὁρισθέντος υἱοῦ θεοῦ ἐν δυνάμει κατὰ πνεῦμα ἁγιωσύνης ἐξ ἀναστάσεως νεκρῶν ἰησοῦ χριστοῦ τοῦ κυρίου ἡμῶν",
+      "finnish_biblia": "Ja on väkevästi ilmoitettu Jumalan Pojaksi pyhityksen hengen jälkeen, että hän on noussut ylös kuolleista,) se on, Jesuksesta Kristuksesta meidän Herrastamme, ",
+      "swedish_karl_xii": "Hwilken är krafteliga bewisad Gudz Son, efter Andan som helgar, ther af, at han stod vp ifrå the döda, nemliga Jesus Christus wår Herre:",
+      "king_james": "And declared *to be* the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "per quem accepimus gratiam, et apostolatum ad obediendum fidei in omnibus gentibus pro nomine ejus,",
+      "greek_textus_receptus": "δι᾽ οὗ ἐλάβομεν χάριν καὶ ἀποστολὴν εἰς ὑπακοὴν πίστεως ἐν πᾶσιν τοῖς ἔθνεσιν ὑπὲρ τοῦ ὀνόματος αὐτοῦ",
+      "finnish_biblia": "Jonka kautta me olemme armon ja apostolin viran saaneet, uskon kuuliaisuudeksi, kaikkein pakanain seassa, hänen nimensä päälle, ",
+      "swedish_karl_xii": "Genom hwilken wij hafwe fått nådh, och Apostlaämbete, til at vprätta trones lydno, ibland alla Hedningar, i hans namn:",
+      "king_james": "By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "in quibus estis et vos vocati Jesu Christi:",
+      "greek_textus_receptus": "ἐν οἷς ἐστε καὶ ὑμεῖς κλητοὶ ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Joista tekin olette Jesuksen Kristuksen kutsutut: ",
+      "swedish_karl_xii": "Jbland hwilka J ock ären kallade af Jesu Christo.",
+      "king_james": "Among whom are ye also the called of Jesus Christ:"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "omnibus qui sunt Romæ, dilectis Dei, vocatis sanctis. Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.",
+      "greek_textus_receptus": "πᾶσιν τοῖς οὖσιν ἐν ῥώμῃ ἀγαπητοῖς θεοῦ κλητοῖς ἁγίοις χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου ἰησοῦ χριστοῦ",
+      "finnish_biblia": "Kaikille, jotka Roomissa ovat, Jumalan rakkaille ja kutsutuille pyhille: armo olkoon teidän kanssanne, ja rauha Jumalalta meidän Isältämme ja Herralta Jesukselta Kristukselta! ",
+      "swedish_karl_xii": "Allom them som i Rom äro, Gudz kärestom, kalladom heligom. Nådh ware medh eder, och frijd af Gudi wårom Fader, och Herranom Jesu Christo.",
+      "king_james": "To all that be in Rome, beloved of God, called *to be* saints: Grace to you and peace from God our Father, and the Lord Jesus Christ."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Primum quidem gratias ago Deo meo per Jesum Christum pro omnibus vobis: quia fides vestra annuntiatur in universo mundo.",
+      "greek_textus_receptus": "πρῶτον μὲν εὐχαριστῶ τῷ θεῷ μου διὰ ἰησοῦ χριστοῦ ὑπὲρ πάντων ὑμῶν ὅτι ἡ πίστις ὑμῶν καταγγέλλεται ἐν ὅλῳ τῷ κόσμῳ",
+      "finnish_biblia": "Ensin kiitän minä Jumalaani, Jesuksen Kristuksen kautta, teidän kaikkein tähtenne, että teidän uskoanne kaikessa maailmassa mainitaan. ",
+      "swedish_karl_xii": "J Förstone, tackar jagh min Gudh, genom Jesum Christum, för eder alla, at i hela werldene talas om edra troo.",
+      "king_james": "First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Testis enim mihi est Deus, cui servio in spiritu meo in Evangelio Filii ejus, quod sine intermissione memoriam vestri facio",
+      "greek_textus_receptus": "μάρτυς γάρ μού ἐστιν ὁ θεός ᾧ λατρεύω ἐν τῷ πνεύματί μου ἐν τῷ εὐαγγελίῳ τοῦ υἱοῦ αὐτοῦ ὡς ἀδιαλείπτως μνείαν ὑμῶν ποιοῦμαι",
+      "finnish_biblia": "Sillä Jumala on minun todistajani, jota minä hengessäni hänen Poikansa evankeliumissa palvelen, että minä lakkaamatta teitä muistan, ",
+      "swedish_karl_xii": "Ty Gudh är mitt witne, hwilkom jagh tienar i minom anda, vthi Evangelio som är om hans Son, at jagh vthan återwändo täncker på eder:",
+      "king_james": "For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "semper in orationibus meis: obsecrans, si quomodo tandem aliquando prosperum iter habeam in voluntate Dei veniendi ad vos.",
+      "greek_textus_receptus": "πάντοτε ἐπὶ τῶν προσευχῶν μου δεόμενος εἴπως ἤδη ποτὲ εὐοδωθήσομαι ἐν τῷ θελήματι τοῦ θεοῦ ἐλθεῖν πρὸς ὑμᾶς",
+      "finnish_biblia": "Rukoillen aina minun rukouksissani, että minä saisin jollakin tavalla vihdoin joskus, jos Jumala tahtoo, onnellisen tien tulla teidän tykönne. ",
+      "swedish_karl_xii": "Bediandes altid i mina böner, at jagh doch någon tijd måtte få en lyckosam wägh, om Gudh wille, til at komma til eder.",
+      "king_james": "Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Desidero enim videre vos, ut aliquid impertiar vobis gratiæ spiritualis ad confirmandos vos:",
+      "greek_textus_receptus": "ἐπιποθῶ γὰρ ἰδεῖν ὑμᾶς ἵνα τι μεταδῶ χάρισμα ὑμῖν πνευματικὸν εἰς τὸ στηριχθῆναι ὑμᾶς",
+      "finnish_biblia": "Sillä minä ikävöitsen teitä nähdä, että minä jotain hengellistä lahjaa teille jakaisin, että te vahvistetuksi tulisitte, ",
+      "swedish_karl_xii": "Ty jagh åstundar see eder, på thet jagh måtte några andeliga gåfwo dela medh eder, til at styrckia eder;",
+      "king_james": "For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established;"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "id est, simul consolari in vobis per eam quæ invicem est, fidem vestram atque meam.",
+      "greek_textus_receptus": "τοῦτο δέ ἐστιν συμπαρακληθῆναι ἐν ὑμῖν διὰ τῆς ἐν ἀλλήλοις πίστεως ὑμῶν τε καὶ ἐμοῦ",
+      "finnish_biblia": "Se on, että minä saisin ynnä teidän kanssanne lohdutuksen, uskon kautta, joka meillä keskenämme on, sekä teidän että minun. ",
+      "swedish_karl_xii": "Thet är: At jagh samt medh eder måtte få hugswalelse genom bägges wåra troo, edra och mina.",
+      "king_james": "That is, that I may be comforted together with you by the mutual faith both of you and me."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Nolo autem vos ignorare fratres: quia sæpe proposui venire ad vos (et prohibitus sum usque adhuc) ut aliquem fructum habeam et in vobis, sicut et in ceteris gentibus.",
+      "greek_textus_receptus": "οὐ θέλω δὲ ὑμᾶς ἀγνοεῖν ἀδελφοί ὅτι πολλάκις προεθέμην ἐλθεῖν πρὸς ὑμᾶς καὶ ἐκωλύθην ἄχρι τοῦ δεῦρο ἵνα καρπὸν τινὰ σχῶ καὶ ἐν ὑμῖν καθὼς καὶ ἐν τοῖς λοιποῖς ἔθνεσιν",
+      "finnish_biblia": "Mutta en minä tahdo salata teiltä, rakkaat veljet, että minä olen usein aikonut tulla teidän tykönne, (ja olen tähän asti estetty) että minä teidänkin seassanne jonkun hedelmän saisin, niinkuin muidenkin pakanain seassa. ",
+      "swedish_karl_xii": "Jagh wil icke dölja för eder, bröder, at jagh hafwer ofta haft i sinnet komma til eder, ändoch jagh hafwer warit förhindrad alt här til: på thet jagh måtte ock någon frucht skaffa ibland eder, såsom ibland andra Hedningar.",
+      "king_james": "Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Græcis ac barbaris, sapientibus, et insipientibus debitor sum:",
+      "greek_textus_receptus": "ἕλλησίν τε καὶ βαρβάροις σοφοῖς τε καὶ ἀνοήτοις ὀφειλέτης εἰμί",
+      "finnish_biblia": "Minä olen velkapää Grekiläisille ja muukalaisille, viisaille ja tyhmille. ",
+      "swedish_karl_xii": "Jagh är plichtig både Greker och Barbarer, både wisa och owisa.",
+      "king_james": "I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "ita (quod in me) promptum est et vobis, qui Romæ estis, evangelizare.",
+      "greek_textus_receptus": "οὕτως τὸ κατ᾽ ἐμὲ πρόθυμον καὶ ὑμῖν τοῖς ἐν ῥώμῃ εὐαγγελίσασθαι",
+      "finnish_biblia": "Sentähden niin paljo kuin minussa on, olen minä teillekin, jotka Roomissa olette, valmis evankeliumia saarnaamaan. ",
+      "swedish_karl_xii": "Therföre, så mycket migh står til giörandes, är jagh redebogen, at jagh ock predikar eder Evangelium, som i Rom ären.",
+      "king_james": "So, as much as in me is, I am ready to preach the gospel to you that are at Rome also."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Non enim erubesco Evangelium. Virtus enim Dei est in salutem omni credenti, Judæo primum, et Græco.",
+      "greek_textus_receptus": "οὐ γὰρ ἐπαισχύνομαι τὸ εὐαγγέλιον τοῦ χριστοῦ, δύναμις γὰρ θεοῦ ἐστιν εἰς σωτηρίαν παντὶ τῷ πιστεύοντι ἰουδαίῳ τε πρῶτον καὶ ἕλληνι",
+      "finnish_biblia": "Sillä en minä häpee Kristuksen evankeliumia; sillä se on Jumalan voima itsekullekin uskovaiselle autuudeksi. Ensin Juudalaiselle, niin myös Grekiläiselle. ",
+      "swedish_karl_xii": "Ty jagh skämmes icke widh Christi Evangelium: ty thet är Gudz kraft , allom them til salighet som troo: Judomen först, så ock Grekomen.",
+      "king_james": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Justitia enim Dei in eo revelatur ex fide in fidem: sicut scriptum est: Justus autem ex fide vivit.",
+      "greek_textus_receptus": "δικαιοσύνη γὰρ θεοῦ ἐν αὐτῷ ἀποκαλύπτεται ἐκ πίστεως εἰς πίστιν καθὼς γέγραπται ὁ δὲ δίκαιος ἐκ πίστεως ζήσεται",
+      "finnish_biblia": "Sillä siinä se vanhurskaus, joka Jumalan edessä kelpaa, ilmoitetaan uskosta uskoon, niinkuin kirjoitettu on: vanhurskaan pitää elämän uskosta. ",
+      "swedish_karl_xii": "Therföre, at ther vthinnan warder Gudz rättferdighet vppenbar, af troo i troo; som skrifwit är: Then rättferdige skal lefwa af sine troo.",
+      "king_james": "For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Revelatur enim ira Dei de cælo super omnem impietatem, et injustitiam hominum eorum, qui veritatem Dei in injustitia detinent:",
+      "greek_textus_receptus": "ἀποκαλύπτεται γὰρ ὀργὴ θεοῦ ἀπ᾽ οὐρανοῦ ἐπὶ πᾶσαν ἀσέβειαν καὶ ἀδικίαν ἀνθρώπων τῶν τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων",
+      "finnish_biblia": "Sillä Jumalan viha ilmestyy taivaasta kaiken ihmisten jumalattomuuden ja vääryyden tähden, jotka totuuden vääryydessä pitävät. ",
+      "swedish_karl_xii": "Ty Gudz wrede af himmelen warder vppenbar öfwer alla menniskiornas ogudachtighet och orättferdighet, the ther förhålla sanningena i orättferdighet.",
+      "king_james": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;"
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "quia quod notum est Dei, manifestum est in illis. Deus enim illis manifestavit.",
+      "greek_textus_receptus": "διότι τὸ γνωστὸν τοῦ θεοῦ φανερόν ἐστιν ἐν αὐτοῖς ὁ γὰρ θεὸς αὐτοῖς ἐφανέρωσεν",
+      "finnish_biblia": "Sentähden se, mikä taidetaan Jumalasta tuta, on heille tiettävä; sillä Jumala ilmoitti sen heille. ",
+      "swedish_karl_xii": "Ty thet som förstås kan om Gudh, är them vppenbart: ty Gudh hafwer them thet vppenbarat:",
+      "king_james": "Because that which may be known of God is manifest in them; for God hath shewed *it* unto them."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Invisibilia enim ipsius, a creatura mundi, per ea quæ facta sunt, intellecta, conspiciuntur: sempiterna quoque ejus virtus, et divinitas: ita ut sint inexcusabiles.",
+      "greek_textus_receptus": "τὰ γὰρ ἀόρατα αὐτοῦ ἀπὸ κτίσεως κόσμου τοῖς ποιήμασιν νοούμενα καθορᾶται ἥ τε ἀΐδιος αὐτοῦ δύναμις καὶ θειότης εἰς τὸ εἶναι αὐτοὺς ἀναπολογήτους",
+      "finnish_biblia": "Sillä hänen näkymättömät menonsa, nimittäin, ijankaikkinen voimansa ja jumaluutensa nähdään hamasta maailman luomisesta, jotka ymmärretään niistä, jotka tehdyt ovat: ettei he taitaisi itseänsä syyttömiksi sanoa. ",
+      "swedish_karl_xii": "Ther medh at hans osynliga wäsende, och hans ewiga kraft, och Gudom warder beskådad, när the besinnas af gierningarna, nemliga af werldenes skapelse: så at the äro vthan vrsächt.",
+      "king_james": "For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, *even* his eternal power and Godhead; so that they are without excuse:"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Quia cum cognovissent Deum, non sicut Deum glorificaverunt, aut gratias egerunt: sed evanuerunt in cogitationibus suis, et obscuratum est insipiens cor eorum:",
+      "greek_textus_receptus": "διότι γνόντες τὸν θεὸν οὐχ ὡς θεὸν ἐδόξασαν ἢ εὐχαρίστησαν ἀλλ᾽ ἐματαιώθησαν ἐν τοῖς διαλογισμοῖς αὐτῶν καὶ ἐσκοτίσθη ἡ ἀσύνετος αὐτῶν καρδία",
+      "finnish_biblia": "Että he tunsivat Jumalan, ja ei ylistäneet häntä niinkuin Jumalaa eikä kiittäneet, vaan vilpistelivät omissa ajatuksissansa, ja heidän järjetöin sydämensä on pimennyt. ",
+      "swedish_karl_xii": "Medan the förstodo Gudh, och hafwa icke prisat honom som en Gudh, och eij heller tackat; vtan wordo fåfängelige i sina tanckar, och theras osörnuftiga hierta är wordet mörkt.",
+      "king_james": "Because that, when they knew God, they glorified *him* not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "dicentes enim se esse sapientes, stulti facti sunt.",
+      "greek_textus_receptus": "φάσκοντες εἶναι σοφοὶ ἐμωράνθησαν",
+      "finnish_biblia": "Kuin he itsensä viisaiksi luulivat, niin he ovat tyhmiksi tulleet, ",
+      "swedish_karl_xii": "Tå the höllo sigh för wisa, äro the wordne dårar:",
+      "king_james": "Professing themselves to be wise, they became fools,"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Et mutaverunt gloriam incorruptibilis Dei in similitudinem imaginis corruptibilis hominis, et volucrum, et quadrupedum, et serpentium.",
+      "greek_textus_receptus": "καὶ ἤλλαξαν τὴν δόξαν τοῦ ἀφθάρτου θεοῦ ἐν ὁμοιώματι εἰκόνος φθαρτοῦ ἀνθρώπου καὶ πετεινῶν καὶ τετραπόδων καὶ ἑρπετῶν",
+      "finnish_biblia": "Ja ovat katoomattoman Jumalan kunnian muuttaneet katoovaisen ihmisen ja lintuin ja neljäjalkaisten ja matelevaisten kuvan muotoiseksi. ",
+      "swedish_karl_xii": "Och hafwa förwandlat thens oförgängeliga Gudz härlighet vthi beläte, thet eij allenast giordt war efter förgängeliga menniskiors, vtan jemwäl efter foglars, och fyraföts, och krypande diurs liknelse.",
+      "king_james": "And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Propter quod tradidit illos Deus in desideria cordis eorum, in immunditiam, ut contumeliis afficiant corpora sua in semetipsis:",
+      "greek_textus_receptus": "διὸ καὶ παρέδωκεν αὐτοὺς ὁ θεὸς ἐν ταῖς ἐπιθυμίαις τῶν καρδιῶν αὐτῶν εἰς ἀκαθαρσίαν τοῦ ἀτιμάζεσθαι τὰ σώματα αὐτῶν ἐν ἑαυτοῖς",
+      "finnish_biblia": "Sentähden on myös Jumala heidät laskenut sydämensä himoihin, saastauteen, häpäisemään keskenänsä omaa ruumistansa, ",
+      "swedish_karl_xii": "Therföre hafwer ock Gudh öfwergifwit them i theras hiertans lustar, vthi orenlighet, til at skäma sin lekamen inbyrdes:",
+      "king_james": "Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves:"
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "qui commutaverunt veritatem Dei in mendacium: et coluerunt, et servierunt creaturæ potius quam Creatori, qui est benedictus in sæcula. Amen.",
+      "greek_textus_receptus": "οἵτινες μετήλλαξαν τὴν ἀλήθειαν τοῦ θεοῦ ἐν τῷ ψεύδει καὶ ἐσεβάσθησαν καὶ ἐλάτρευσαν τῇ κτίσει παρὰ τὸν κτίσαντα ὅς ἐστιν εὐλογητὸς εἰς τοὺς αἰῶνας ἀμήν",
+      "finnish_biblia": "Jotka Jumalan totuuden ovat valheeksi muuttaneet ja ovat kunnioittaneet ja palvelleet enemmän luontokappaletta kuin Luojaa, joka on siunattu ijankaikkisesti, amen! ",
+      "swedish_karl_xii": "Hwilke förwandlat hafwa Gudz sanning i lögn; och hafwa ährat och dyrckat the ting som skapat äro, öfwer honom som them skapat hafwer, hwilken är wälsignad ewinnerliga: Amen.",
+      "king_james": "Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Propterea tradidit illos Deus in passiones ignominiæ: nam feminæ eorum immutaverunt naturalem usum in eum usum qui est contra naturam.",
+      "greek_textus_receptus": "διὰ τοῦτο παρέδωκεν αὐτοὺς ὁ θεὸς εἰς πάθη ἀτιμίας αἵ τε γὰρ θήλειαι αὐτῶν μετήλλαξαν τὴν φυσικὴν χρῆσιν εἰς τὴν παρὰ φύσιν",
+      "finnish_biblia": "Sentähden on Jumala heidät antanut ylön häpiällisiin himoihin, että myös heidän vaimonsa ovat muuttaneet luonnollisen tavan luontoa vastaan, ",
+      "swedish_karl_xii": "Therföre hafwer ock Gudh öfwergifwit them i skämliga lustar: ty theras qwinnor hafwa förwandlat then naturliga brukningena, vthi then som är emot naturen.",
+      "king_james": "For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Similiter autem et masculi, relicto naturali usu feminæ, exarserunt in desideriis suis in invicem, masculi in masculos turpitudinem operantes, et mercedem, quam oportuit, erroris sui in semetipsis recipientes.",
+      "greek_textus_receptus": "ὁμοίως τε καὶ οἱ ἄῤῥενες ἀφέντες τὴν φυσικὴν χρῆσιν τῆς θηλείας ἐξεκαύθησαν ἐν τῇ ὀρέξει αὐτῶν εἰς ἀλλήλους ἄρσενες ἐν ἄρσεσιν τὴν ἀσχημοσύνην κατεργαζόμενοι καὶ τὴν ἀντιμισθίαν ἣν ἔδει τῆς πλάνης αὐτῶν ἐν ἑαυτοῖς ἀπολαμβάνοντες",
+      "finnish_biblia": "Niin myös miehet ovat antaneet ylön vaimon luonnollisen pitämisen, toinen toisensa puoleen himoissansa palaneet, miehet miesten kanssa riettauden tehneet ja saaneet, niinkuin pitikin, eksymisensä palkan itsessänsä. ",
+      "swedish_karl_xii": "Sammaledes ock männerna hafwa öfwergifwit then naturliga qwinnones brukning, och hafwa brunnet i sin lusta til hwar annan; man medh man bedrifwit slemhet, och fått, som tilbörligit war, theras willos rätta löön i sigh sielfwom.",
+      "king_james": "And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Et sicut non probaverunt Deum habere in notitia, tradidit illos Deus in reprobum sensum, ut faciant ea quæ non conveniunt,",
+      "greek_textus_receptus": "καὶ καθὼς οὐκ ἐδοκίμασαν τὸν θεὸν ἔχειν ἐν ἐπιγνώσει παρέδωκεν αὐτοὺς ὁ θεὸς εἰς ἀδόκιμον νοῦν ποιεῖν τὰ μὴ καθήκοντα",
+      "finnish_biblia": "Ja niinkuin ei he tahtoneet Jumalaa tuta, niin Jumala laski heidät häijyyn mieleen tekemään niitä, mitä ei sovi tehdä, ",
+      "swedish_karl_xii": "Och såsom the intet achtade hafwa Gudh i käntslo, hafwer Gudh öfwergifwit them i ett wrångt sinne, til at bedrifwa obeqwämlig ting:",
+      "king_james": "And even as they did not like to retain God in *their* knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;"
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "repletos omni iniquitate, malitia, fornicatione, avaritia, nequitia, plenos invidia, homicidio, contentione, dolo, malignitate: susurrones,",
+      "greek_textus_receptus": "πεπληρωμένους πάσῃ ἀδικίᾳ πορνείᾳ, πονηρίᾳ πλεονεξίᾳ κακίᾳ μεστοὺς φθόνου φόνου ἔριδος δόλου κακοηθείας ψιθυριστάς",
+      "finnish_biblia": "Täynnänsä kaikkea vääryyttä, salavuoteutta, koiruutta, ahneutta, pahuutta: täynnä kateutta, murhaa, riitaa, petosta, pahan suomuutta: ",
+      "swedish_karl_xii": "Fulle medh all orättferdighet, bolerij, arghet, girighet, ondsko; fulle medh afwund, mord, kijf, swek, otucht:",
+      "king_james": "Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,"
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "detractores, Deo odibiles, contumeliosos, superbos, elatos, inventores malorum, parentibus non obedientes,",
+      "greek_textus_receptus": "καταλάλους θεοστυγεῖς ὑβριστάς ὑπερηφάνους ἀλαζόνας ἐφευρετὰς κακῶν γονεῦσιν ἀπειθεῖς",
+      "finnish_biblia": "Korvankuiskutteliat, panetteliat, Jumalaa vihaajat, häpäisiät, ylpiät öykkärit, pahain neuvoin pesät, vanhemmillensa tottelemattomat, ",
+      "swedish_karl_xii": "Örnataslare, bakdantare, Gudz förachtare, wåldzwerckare, högferdige, stolte, illfundige, föräldromen olydige:",
+      "king_james": "Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,"
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "insipientes, incompositos, sine affectione, absque fœdere, sine misericordia.",
+      "greek_textus_receptus": "ἀσυνέτους ἀσυνθέτους ἀστόργους ἀσπόνδους, ἀνελεήμονας",
+      "finnish_biblia": "Tomppelit, liiton rikkojat, haluttomat, sovittamattomat, armottomat. ",
+      "swedish_karl_xii": "Oförnuftige, ordlöse, okärlige, trolöse, obarmhertige.",
+      "king_james": "Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:"
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Qui cum justitiam Dei cognovissent, non intellexerunt quoniam qui talia agunt, digni sunt morte: et non solum qui ea faciunt, sed etiam qui consentiunt facientibus.",
+      "greek_textus_receptus": "οἵτινες τὸ δικαίωμα τοῦ θεοῦ ἐπιγνόντες ὅτι οἱ τὰ τοιαῦτα πράσσοντες ἄξιοι θανάτου εἰσίν οὐ μόνον αὐτὰ ποιοῦσιν ἀλλὰ καὶ συνευδοκοῦσιν τοῖς πράσσουσιν",
+      "finnish_biblia": "Jotka Jumalan oikeuden tietävät, (että ne, jotka näitä tekevät, ovat kuoleman ansainneet) ei ainoastaan niitä tee, mutta myös suostuvat niihin, jotka niitä tekevät.   ",
+      "swedish_karl_xii": "Hwilke, äntå the Gudz rättwiso weta, at the som sådant giöra, äro wärde döden, likwäl giöra the thet icke allenast, vtan ock hålla medh them som thet giöra.",
+      "king_james": "Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them."
+    }
+  ]
+}

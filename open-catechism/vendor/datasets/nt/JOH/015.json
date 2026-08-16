@@ -1,0 +1,227 @@
+{
+  "book_id": "JOH",
+  "latin_name": "Evangelium secundum Ioannem",
+  "greek_name": "Κατὰ Ἰωάννην",
+  "finnish_name": "Johanneksen evankeliumi",
+  "swedish_name": "S. Johannis Evangelium",
+  "english_name": "The Gospel According to John",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Ego sum vitis vera, et Pater meus agricola est.",
+      "greek_textus_receptus": "ἐγώ εἰμι ἡ ἄμπελος ἡ ἀληθινή καὶ ὁ πατήρ μου ὁ γεωργός ἐστιν",
+      "finnish_biblia": "Minä olen totinen viinipuu, ja minun Isäni on peltomies: ",
+      "swedish_karl_xii": "Jagh är ett sant wijnträ, och min Fader är en wijngårdzman:",
+      "king_james": "I am the true vine, and my Father is the husbandman."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Omnem palmitem in me non ferentem fructum, tollet eum, et omnem qui fert fructum, purgabit eum, ut fructum plus afferat.",
+      "greek_textus_receptus": "πᾶν κλῆμα ἐν ἐμοὶ μὴ φέρον καρπόν αἴρει αὐτό καὶ πᾶν τὸ καρπὸν φέρον καθαίρει αὐτὸ ἵνα πλείονα καρπὸν φέρῃ",
+      "finnish_biblia": "Jokaisen oksan minussa, joka ei kanna hedelmää, hän karsii pois, ja jokaisen, joka hedelmän kantaa, hän puhdistaa, että se kantais runsaamman hedelmän. ",
+      "swedish_karl_xii": "Hwar och en green i migh, som icke bär frucht, then tager han bort; och hwar och en som bär frucht, then rensar han, at han meer frucht bära skal.",
+      "king_james": "Every branch in me that beareth not fruit he taketh away: and every *branch* that beareth fruit, he purgeth it, that it may bring forth more fruit."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Jam vos mundi estis propter sermonem quem locutus sum vobis.",
+      "greek_textus_receptus": "ἤδη ὑμεῖς καθαροί ἐστε διὰ τὸν λόγον ὃν λελάληκα ὑμῖν",
+      "finnish_biblia": "Te olette nyt puhtaat, sen sanan tähden, jonka minä teille puhuin. ",
+      "swedish_karl_xii": "Nu ären J rene, för thet taal skul som jagh hafwer talat medh eder.",
+      "king_james": "Now ye are clean through the word which I have spoken unto you."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Manete in me, et ego in vobis. Sicut palmes non potest fere fructum a semetipso, nisi manserit in vite, sic nec vos, nisi in me manseritis.",
+      "greek_textus_receptus": "μείνατε ἐν ἐμοί κἀγὼ ἐν ὑμῖν καθὼς τὸ κλῆμα οὐ δύναται καρπὸν φέρειν ἀφ᾽ ἑαυτοῦ ἐὰν μὴ μείνῃ ἐν τῇ ἀμπέλῳ οὕτως οὐδὲ ὑμεῖς ἐὰν μὴ ἐν ἐμοὶ μείνητε",
+      "finnish_biblia": "Pysykäät te minussa, ja minä teissä. Niinkuin ei oksa taida itsestänsä hedelmää kantaa, ellei hän viinapuussa kiinni ole, niin ette tekään, jollette minussa pysy. ",
+      "swedish_karl_xii": "Blifwer i migh, och jagh i eder: såsom grenen kan icke bära frucht af sigh sielf, medh mindre han blifwer i wijnträd; så kunnen icke heller J, vtan J blifwen i migh.",
+      "king_james": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Ego sum vitis, vos palmites: qui manet in me, et ego in eo, hic fert fructum multum, quia sine me nihil potestis facere.",
+      "greek_textus_receptus": "ἐγώ εἰμι ἡ ἄμπελος ὑμεῖς τὰ κλήματα ὁ μένων ἐν ἐμοὶ κἀγὼ ἐν αὐτῷ οὗτος φέρει καρπὸν πολύν ὅτι χωρὶς ἐμοῦ οὐ δύνασθε ποιεῖν οὐδέν",
+      "finnish_biblia": "Minä olen viinapuu, te olette oksat: joka minussa pysyy ja minä hänessä, hän kantaa paljon hedelmää; sillä ilman minua ette voi mitään tehdä. ",
+      "swedish_karl_xii": "Jagh är wijnträd, J ären grenarna; then som blifwer i migh, och jagh i honom, han bär mycken frucht: ty migh förvthan kunnen J intet giöra.",
+      "king_james": "I am the vine, ye *are* the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Si quis in me non manserit, mittetur foras sicut palmes, et arescet, et colligent eum, et in ignem mittent, et ardet.",
+      "greek_textus_receptus": "ἐὰν μή τις μείνῃ ἐν ἐμοί ἐβλήθη ἔξω ὡς τὸ κλῆμα καὶ ἐξηράνθη καὶ συνάγουσιν αὐτὰ καὶ εἰς πῦρ βάλλουσιν καὶ καίεται",
+      "finnish_biblia": "Jos ei joku minussa pysy, se heitetään ulos niinkuin oksa, ja kuivettuu, ja ne sidotaan kokoon, ja heitetään tuleen, ja palavat. ",
+      "swedish_karl_xii": "Hwilken som icke blifwer i migh, han skal bortkastas, såsom en green, och förtorkas; och man binder them samman, och kastar i elden, och the brinna.",
+      "king_james": "If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast *them* into the fire, and they are burned."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Si manseritis in me, et verba mea in vobis manserint, quodcumque volueritis petetis, et fiet vobis.",
+      "greek_textus_receptus": "ἐὰν μείνητε ἐν ἐμοὶ καὶ τὰ ῥήματά μου ἐν ὑμῖν μείνῃ ὃ ἐὰν θέλητε αἰτήσεσθε καὶ γενήσεται ὑμῖν",
+      "finnish_biblia": "Jos te minussa pysytte ja minun sanani pysyvät teissä, mitkä ikänä te tahdotte, niin anokaat, ja te saatte. ",
+      "swedish_karl_xii": "Om J blifwen i migh, och min ord blifwa i eder, alt thet J welen, må J bedas, och thet skal skee eder.",
+      "king_james": "If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "In hoc clarificatus est Pater meus, ut fructum plurimum afferatis, et efficiamini mei discipuli.",
+      "greek_textus_receptus": "ἐν τούτῳ ἐδοξάσθη ὁ πατήρ μου ἵνα καρπὸν πολὺν φέρητε καὶ γενήσεσθε ἐμοὶ μαθηταί",
+      "finnish_biblia": "Siinä minun Isäni kunnioitetaan, että te paljon hedelmää kantaisitte, ja tulette minun opetuslapsikseni. ",
+      "swedish_karl_xii": "Ther vthinnan är min Fader prisad, at J bären mycken frucht; och warden mine Lärjungar.",
+      "king_james": "Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Sicut dilexit me Pater, et ego dilexi vos. Manete in dilectione mea.",
+      "greek_textus_receptus": "καθὼς ἠγάπησέν με ὁ πατήρ κἀγὼ ἠγάπησα ὑμᾶς μείνατε ἐν τῇ ἀγάπῃ τῇ ἐμῇ",
+      "finnish_biblia": "Niinkuin Isä rakasti minua, niin minä myös rakastin teitä: pysykäät minun rakkaudessani. ",
+      "swedish_karl_xii": "Såsom Fadren hafwer älskat migh, så hafwer jagh ock älskat eder: blifwer i min kärlek.",
+      "king_james": "As the Father hath loved me, so have I loved you: continue ye in my love."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Si præcepta mea servaveritis, manebitis in dilectione mea, sicut et ego Patris mei præcepta servavi, et maneo in ejus dilectione.",
+      "greek_textus_receptus": "ἐὰν τὰς ἐντολάς μου τηρήσητε μενεῖτε ἐν τῇ ἀγάπῃ μου καθὼς ἐγὼ τὰς ἐντολὰς τοῦ πατρός μου τετήρηκα καὶ μένω αὐτοῦ ἐν τῇ ἀγάπῃ",
+      "finnish_biblia": "Jos te minun käskyni pidätte, niin te pysytte minun rakkaudessani, niinkuin minä pidän Isäni käskyn ja pysyn hänen rakkaudessansa. ",
+      "swedish_karl_xii": "Om J hållen min budh, så blifwen J i minom kärlek; såsom ock jagh hafwer hållet mins Faders budh, och blifwer i hans kärlek.",
+      "king_james": "If ye keep my commandments, ye shall abide in my love; even as I have kept my Father's commandments, and abide in his love."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Hæc locutus sum vobis: ut gaudium meum in vobis sit, et gaudium vestrum impleatur.",
+      "greek_textus_receptus": "ταῦτα λελάληκα ὑμῖν ἵνα ἡ χαρὰ ἡ ἐμὴ ἐν ὑμῖν μείνῃ, καὶ ᾖ χαρὰ ὑμῶν πληρωθῇ",
+      "finnish_biblia": "Näitä olen minä teille puhunut, että minun iloni teissä pysyis ja teidän ilonne tulis täydelliseksi. ",
+      "swedish_karl_xii": "Thetta hafwer jagh talat til eder, at min glädie skal blifwa i eder, och edor glädie fulkommen warda.",
+      "king_james": "These things have I spoken unto you, that my joy might remain in you, and *that* your joy might be full."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Hoc est præceptum meum, ut diligatis invicem, sicut dilexi vos.",
+      "greek_textus_receptus": "αὕτη ἐστὶν ἡ ἐντολὴ ἡ ἐμή ἵνα ἀγαπᾶτε ἀλλήλους καθὼς ἠγάπησα ὑμᾶς",
+      "finnish_biblia": "Se on minun käskyni, että te rakastatte teitänne keskenänne, niinkuin minä teitä rakastin. ",
+      "swedish_karl_xii": "Thetta är mitt budh, at J skolen älska eder inbyrdes, såsom jagh hafwer älskat eder.",
+      "king_james": "This is my commandment, That ye love one another, as I have loved you."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Majorem hac dilectionem nemo habet, ut animam suam ponat qui pro amicis suis.",
+      "greek_textus_receptus": "μείζονα ταύτης ἀγάπην οὐδεὶς ἔχει ἵνα τις τὴν ψυχὴν αὐτοῦ θῇ ὑπὲρ τῶν φίλων αὐτοῦ",
+      "finnish_biblia": "Ei ole kellään sitä suurempaa rakkautta, kuin että joku panis henkensä ystäväinsä edestä. ",
+      "swedish_karl_xii": "Jngen hafwer större kärlek, än at en låter sitt lijf för sina wänner.",
+      "king_james": "Greater love hath no man than this, that a man lay down his life for his friends."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Vos amici mei estis, si feceritis quæ ego præcipio vobis.",
+      "greek_textus_receptus": "ὑμεῖς φίλοι μού ἐστε ἐὰν ποιῆτε ὅσα ἐγὼ ἐντέλλομαι ὑμῖν",
+      "finnish_biblia": "Te olette minun ystäväni, jos te teette, mitä minä teidän käsken. ",
+      "swedish_karl_xii": "J ären mine wänner, om J giören hwad jagh biuder eder.",
+      "king_james": "Ye are my friends, if ye do whatsoever I command you."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Jam non dicam vos servos: quia servus nescit quid faciat dominus ejus. Vos autem dixi amicos: quia omnia quæcumque audivi a Patre meo, nota feci vobis.",
+      "greek_textus_receptus": "οὐκέτι ὑμᾶς λέγω δούλους ὅτι ὁ δοῦλος οὐκ οἶδεν τί ποιεῖ αὐτοῦ ὁ κύριος ὑμᾶς δὲ εἴρηκα φίλους ὅτι πάντα ἃ ἤκουσα παρὰ τοῦ πατρός μου ἐγνώρισα ὑμῖν",
+      "finnish_biblia": "En minä tästedes sano teitä palvelijoiksi; sillä ei palvelia tiedä, mitä hänen herransa tekee; mutta minä kutsun teitä ystäviksi, sillä kaikki, mitä minä Isältäni kuulin, ne minä teille ilmoitin. ",
+      "swedish_karl_xii": "Här efter säger jagh icke, at J ären tienare: ty tienaren weet icke hwad hans herre giör; men wänner hafwer jagh kallat eder: ty alt thet jagh hafwer hördt af minom Fader, hafwer jagh kungiordt eder.",
+      "king_james": "Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Non vos me elegistis, sed ego elegi vos, et posui vos ut eatis, et fructum afferatis, et fructus vester maneat: ut quodcumque petieritis Patrem in nomine meo, det vobis.",
+      "greek_textus_receptus": "οὐχ ὑμεῖς με ἐξελέξασθε ἀλλ᾽ ἐγὼ ἐξελεξάμην ὑμᾶς καὶ ἔθηκα ὑμᾶς ἵνα ὑμεῖς ὑπάγητε καὶ καρπὸν φέρητε καὶ ὁ καρπὸς ὑμῶν μένῃ ἵνα ὅ τι ἂν αἰτήσητε τὸν πατέρα ἐν τῷ ὀνόματί μου δῷ ὑμῖν",
+      "finnish_biblia": "Ette minua valinneet, vaan minä valitsin teidät, ja sääsin teidät, että te menisitte hedelmää tekemään ja teidän hedelmänne pysyis: että mitä te anotte Isältä minun nimeeni, sen hän antaa teille. ",
+      "swedish_karl_xii": "J hafwen icke vthkorat migh; men jagh hafwer vthkorat eder, och tilskickat eder, at J skolen gå, och giöra frucht, och edor frucht skal blifwa: på thet, at hwad J bedien Fadren i mitt namn, thet skal han gifwa eder.",
+      "king_james": "Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and *that* your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Hæc mando vobis: ut diligatis invicem.",
+      "greek_textus_receptus": "ταῦτα ἐντέλλομαι ὑμῖν ἵνα ἀγαπᾶτε ἀλλήλους",
+      "finnish_biblia": "Näitä minä käsken teille, että te toinen toistanne rakastaisitte. ",
+      "swedish_karl_xii": "Thetta biuder jagh eder, at J älsken eder inbyrdes.",
+      "king_james": "These things I command you, that ye love one another."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Si mundus vos odit, scitote quia me priorem vobis odio habuit.",
+      "greek_textus_receptus": "εἰ ὁ κόσμος ὑμᾶς μισεῖ γινώσκετε ὅτι ἐμὲ πρῶτον ὑμῶν μεμίσηκεν",
+      "finnish_biblia": "Jos maailma teitä vihaa, niin tietäkäät hänen ennen minua vihanneen kuin teitä. ",
+      "swedish_karl_xii": "Om werlden hatar eder, så weter, at hon hafwer hatat migh förr än eder.",
+      "king_james": "If the world hate you, ye know that it hated me before *it hated* you."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Si de mundo fuissetis, mundus quod suum erat diligeret: quia vero de mundo non estis, sed ego elegi vos de mundo, propterea odit vos mundus.",
+      "greek_textus_receptus": "εἰ ἐκ τοῦ κόσμου ἦτε ὁ κόσμος ἂν τὸ ἴδιον ἐφίλει ὅτι δὲ ἐκ τοῦ κόσμου οὐκ ἐστέ ἀλλ᾽ ἐγὼ ἐξελεξάμην ὑμᾶς ἐκ τοῦ κόσμου διὰ τοῦτο μισεῖ ὑμᾶς ὁ κόσμος",
+      "finnish_biblia": "Jos te maailmasta olisitte, niin maailma omaansa rakastais; mutta ette ole maailmasta, vaan minä valitsin teidät maailmasta, sentähden maailma vihaa teitä. ",
+      "swedish_karl_xii": "Woren J af werldene, så älskade werlden thet hennes wore: men efter thet J icke ären af werldene, vtan jagh hafwer eder vthwaldt ifrå werldene, therföre hatar werlden eder.",
+      "king_james": "If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Mementote sermonis mei, quem ego dixi vobis: non est servus major domino suo. Si me persecuti sunt, et vos persequentur; si sermonem meum servaverunt, et vestrum servabunt.",
+      "greek_textus_receptus": "μνημονεύετε τοῦ λόγου οὗ ἐγὼ εἶπον ὑμῖν οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ εἰ ἐμὲ ἐδίωξαν καὶ ὑμᾶς διώξουσιν εἰ τὸν λόγον μου ἐτήρησαν καὶ τὸν ὑμέτερον τηρήσουσιν",
+      "finnish_biblia": "Muistakaat sitä sanaa, jonka minä teille sanoin: ei ole palvelia suurempi herraansa. Jos he minua vainosivat, niin he myös teitä vainoovat: jos he minun sanani kätkivät, niin he teidänkin sananne kätkevät. ",
+      "swedish_karl_xii": "Kommer ihogh min ord, som jagh hafwer sagt eder: Tienaren är icke förmeer än hans herre: hafwa the förfölgdt migh, så skola the ock förfölja eder; hafwa the hållit min ord, så warda the ock hållande edor.",
+      "king_james": "Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Sed hæc omnia facient vobis propter nomen meum: quia nesciunt eum qui misit me.",
+      "greek_textus_receptus": "ἀλλὰ ταῦτα πάντα ποιήσουσιν ὑμῖν διὰ τὸ ὄνομά μου ὅτι οὐκ οἴδασιν τὸν πέμψαντά με",
+      "finnish_biblia": "Mutta kaikkia näitä tekevät he teille minun nimeni tähden; sillä ei he tunne sitä, joka minun lähetti. ",
+      "swedish_karl_xii": "Men alt thetta skola the giöra eder för mitt namn skul: ty the känna icke honom som migh sändt hafwer.",
+      "king_james": "But all these things will they do unto you for my name's sake, because they know not him that sent me."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Si non venissem, et locutus fuissem eis, peccatum non haberent: nunc autem excusationem non habent de peccato suo.",
+      "greek_textus_receptus": "εἰ μὴ ἦλθον καὶ ἐλάλησα αὐτοῖς ἁμαρτίαν οὐκ εἴχον νῦν δὲ πρόφασιν οὐκ ἔχουσιν περὶ τῆς ἁμαρτίας αὐτῶν",
+      "finnish_biblia": "Jos en minä olisi tullut ja heitä puhutellut, niin ei heillä olisi syntiä; mutta nyt ei heillä ole, millä he syntinsä verhoovat. ",
+      "swedish_karl_xii": "Hade jagh icke kommet, och talat medh them, så hade the icke synd: men nu hafwa the ingen vrsächt för sina synd.",
+      "king_james": "If I had not come and spoken unto them, they had not had sin: but now they have no cloke for their sin."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Qui me odit, et Patrem meum odit.",
+      "greek_textus_receptus": "ὁ ἐμὲ μισῶν καὶ τὸν πατέρα μου μισεῖ",
+      "finnish_biblia": "Joka minua vihaa, hän vihaa myös minun Isääni. ",
+      "swedish_karl_xii": "Then migh hatar, han hatar ock min Fader.",
+      "king_james": "He that hateth me hateth my Father also."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Si opera non fecissem in eis quæ nemo alius fecit, peccatum non haberent: nunc autem et viderunt, et oderunt et me, et Patrem meum.",
+      "greek_textus_receptus": "εἰ τὰ ἔργα μὴ ἐποίησα ἐν αὐτοῖς ἃ οὐδεὶς ἄλλος πεποίηκεν, ἁμαρτίαν οὐκ εἴχον νῦν δὲ καὶ ἑωράκασιν καὶ μεμισήκασιν καὶ ἐμὲ καὶ τὸν πατέρα μου",
+      "finnish_biblia": "Ellen minä olisi niitä töitä heidän seassansa tehnyt, joita ei kenkään muu ole tehnyt, niin ei heillä olisi syntiä; mutta nyt he näkivät, ja vihasivat sekä minua että minun Isääni. ",
+      "swedish_karl_xii": "Hade jagh icke giordt the gierningar ibland them, som ingen annar giordt hafwer, så hade the icke synd: men nu hafwa the sedt thet, och hata doch både migh, och min Fader.",
+      "king_james": "If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Sed ut adimpleatur sermo, qui in lege eorum scriptus est: Quia odio habuerunt me gratis.",
+      "greek_textus_receptus": "ἀλλ᾽ ἵνα πληρωθῇ ὁ λόγος ὁ γεγραμμένος ἐν τῷ νόμῳ αὐτῶν ὅτι ἐμίσησάν με δωρεάν",
+      "finnish_biblia": "Vaan (se tapahtui) että se täytettäisiin, mitä heidän laissansa on kirjoitettu: he vihasivat minua ilman syytä. ",
+      "swedish_karl_xii": "Doch är thet skedt, at thet talet fulkomnas skal, som i theras lagh skrifwit är: The hafwa hatat migh vthan saak.",
+      "king_james": "But *this cometh to pass*, that the word might be fulfilled that is written in their law, They hated me without a cause."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Cum autem venerit Paraclitus, quem ego mittam vobis a Patre, Spiritum veritatis, qui a Patre procedit, ille testimonium perhibebit de me;",
+      "greek_textus_receptus": "ὅταν δὲ ἔλθῃ ὁ παράκλητος ὃν ἐγὼ πέμψω ὑμῖν παρὰ τοῦ πατρός τὸ πνεῦμα τῆς ἀληθείας ὃ παρὰ τοῦ πατρὸς ἐκπορεύεται ἐκεῖνος μαρτυρήσει περὶ ἐμοῦ",
+      "finnish_biblia": "Mutta kuin Lohduttaja tulee, jonka minä teille Isältä lähetän, totuuden Henki, joka Isästä käy ulos, se on minusta todistava. ",
+      "swedish_karl_xii": "Men när Hugswalaren kommer, then jagh skal sända eder af Fadrenom; sanningenes Ande, som vthgår af Fadrenom, han skal bära witnesbyrd om migh.",
+      "king_james": "But when the Comforter is come, whom I will send unto you from the Father, *even* the Spirit of truth, which proceedeth from the Father, he shall testify of me:"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "et vos testimonium perhibebitis, quia ab initio mecum estis.",
+      "greek_textus_receptus": "καὶ ὑμεῖς δὲ μαρτυρεῖτε ὅτι ἀπ᾽ ἀρχῆς μετ᾽ ἐμοῦ ἐστε",
+      "finnish_biblia": "Ja teidän pitää myös todistaman; sillä te olette alusta minun kanssani.   ",
+      "swedish_karl_xii": "J skolen ock theslikes witna: ty J hafwen warit medh migh af begynnelsen.",
+      "king_james": "And ye also shall bear witness, because ye have been with me from the beginning."
+    }
+  ]
+}

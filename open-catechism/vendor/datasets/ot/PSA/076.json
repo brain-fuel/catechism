@@ -1,0 +1,288 @@
+{
+  "book_id": "PSA",
+  "latin_name": "Liber Psalmorum",
+  "hebrew_name": "תְּהִלִּים",
+  "douay_name": "Psalms",
+  "finnish_name": "Psalmit",
+  "swedish_name": "Psaltaren",
+  "english_name": "Psalms",
+  "chapter": 76,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "  Notus in Judæa Deus ;  in Israël magnum nomen ejus. ",
+      "hebrew_masoretic": "נוֹדָ֣ע בִּיהוּדָ֣ה אֱלֹהִ֑ים בְּ֝יִשְׂרָאֵ֗ל גָּד֥וֹל שְׁמֽוֹ׃",
+      "douay_rheims": "In Judea God is known: his name is great in Israel.",
+      "finnish_biblia": "Asaphin Psalmi ja veisu, kanteleilla, edelläveisaajalle. (H76:2) Jumala on tuttu Juudassa, Israelissa on hänen suuri nimensä. ",
+      "swedish_karl_xii": "Gudh är känd i Juda; i Jsrael är hans namn härligit.",
+      "king_james": "In Judah is God known: his name is great in Israel.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:2"
+        },
+        "hebrew_masoretic": {
+          "src": "76:2"
+        },
+        "douay_rheims": {
+          "src": "75:2"
+        },
+        "swedish_karl_xii": {
+          "src": "76:2"
+        }
+      }
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": " Et factus est in pace locus ejus,  et habitatio ejus in Sion. ",
+      "hebrew_masoretic": "וַיְהִ֣י בְשָׁלֵ֣ם סוּכּ֑וֹ וּמְע֖וֹנָת֣וֹ בְצִיּֽוֹן׃",
+      "douay_rheims": "And his place is in peace: and his abode in Sion:",
+      "finnish_biblia": "Salemissa on hänen majansa, ja Zionissa hänen asumisensa. ",
+      "swedish_karl_xii": "J Salem är hans tiäll; och hans boning i Zion.",
+      "king_james": "In Salem also is his tabernacle, and his dwelling place in Zion.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:3"
+        },
+        "hebrew_masoretic": {
+          "src": "76:3"
+        },
+        "douay_rheims": {
+          "src": "75:3"
+        },
+        "swedish_karl_xii": {
+          "src": "76:3"
+        }
+      }
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": " Ibi confregit potentias arcuum,  scutum, gladium, et bellum. ",
+      "hebrew_masoretic": "שָׁ֭מָּה שִׁבַּ֣ר רִשְׁפֵי־קָ֑שֶׁת מָגֵ֬ן וְחֶ֖רֶב וּמִלְחָמָ֣ה סֶֽלָה׃",
+      "douay_rheims": "There hath he broken the powers of bows, the shield, the sword, and the battle.",
+      "finnish_biblia": "Siellä hän särkee joutsen nuolet, kilvet, miekan ja sodan, Sela! ",
+      "swedish_karl_xii": "Ther sönderbryter han bogans pilar, sköld, swärd, och strijd. Sela.",
+      "king_james": "There brake he the arrows of the bow, the shield, and the sword, and the battle. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:4"
+        },
+        "hebrew_masoretic": {
+          "src": "76:4"
+        },
+        "douay_rheims": {
+          "src": "75:4"
+        },
+        "swedish_karl_xii": {
+          "src": "76:4"
+        }
+      }
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": " Illuminans tu mirabiliter a montibus æternis ; ",
+      "hebrew_masoretic": "נָ֭אוֹר אַתָּ֥ה אַדִּ֗יר מֵֽהַרְרֵי־טָֽרֶף׃",
+      "douay_rheims": "Thou enlightenest wonderfully from the everlasting hills.",
+      "finnish_biblia": "Sinä olet kirkkaampi ja väkevämpi kuin ryöstövuoret. ",
+      "swedish_karl_xii": "Tu äst härligare och mächtigare än the röfware berg.",
+      "king_james": "Thou art more glorious and excellent than the mountains of prey.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:5"
+        },
+        "hebrew_masoretic": {
+          "src": "76:5"
+        },
+        "douay_rheims": {
+          "src": "75:5"
+        },
+        "swedish_karl_xii": {
+          "src": "76:5"
+        }
+      }
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": " turbati sunt omnes insipientes corde.  Dormierunt somnum suum,  et nihil invenerunt omnes viri divitiarum in manibus suis. ",
+      "hebrew_masoretic": "אֶשְׁתּֽוֹלְל֨וּ ׀ אַבִּ֣ירֵי לֵ֭ב נָמ֣וּ שְׁנָתָ֑ם וְלֹֽא־מָצְא֖וּ כׇל־אַנְשֵׁי־חַ֣יִל יְדֵיהֶֽם׃",
+      "douay_rheims": "All the foolish of heart were troubled. They have slept their sleep; and all the men of riches have found nothing in their hands.",
+      "finnish_biblia": "Urhoolliset pitää ryöstettämän ja uneensa nukkuman; ja kaikki sotamiehet täytyy käsistänsä hermottomaksi tulla. ",
+      "swedish_karl_xii": "The stålte måste beröfwade warda, och afsomna: och alle krigare måste låta händerna falla.",
+      "king_james": "The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:6"
+        },
+        "hebrew_masoretic": {
+          "src": "76:6"
+        },
+        "douay_rheims": {
+          "src": "75:6"
+        },
+        "swedish_karl_xii": {
+          "src": "76:6"
+        }
+      }
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": " Ab increpatione tua, Deus Jacob,  dormitaverunt qui ascenderunt equos. ",
+      "hebrew_masoretic": "מִ֭גַּעֲרָ֣תְךָ אֱלֹהֵ֣י יַעֲקֹ֑ב נִ֝רְדָּ֗ם וְרֶ֣כֶב וָסֽוּס׃",
+      "douay_rheims": "At thy rebuke, O God of Jacob, they have all slumbered that mounted on horseback.",
+      "finnish_biblia": "Sinun rangaistuksestas, Jakobin Jumala, vajoo uneen orhi ja ratas, ",
+      "swedish_karl_xii": "För titt näpsande, Jacobs Gudh, faller i sömn både wagn och häst.",
+      "king_james": "At thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead sleep.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:7"
+        },
+        "hebrew_masoretic": {
+          "src": "76:7"
+        },
+        "douay_rheims": {
+          "src": "75:7"
+        },
+        "swedish_karl_xii": {
+          "src": "76:7"
+        }
+      }
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": " Tu terribilis es ; et quis resistet tibi ?  ex tunc ira tua. ",
+      "hebrew_masoretic": "אַתָּ֤ה ׀ נ֥וֹרָא אַ֗תָּה וּמִֽי־יַעֲמֹ֥ד לְפָנֶ֗יךָ מֵאָ֥ז אַפֶּֽךָ׃",
+      "douay_rheims": "Thou art terrible, and who shall resist thee? from that time thy wrath.",
+      "finnish_biblia": "Sinä olet peljättävä: kuka voi seisoa sinun edessäs, koskas vihastut? ",
+      "swedish_karl_xii": "Tu äst förskräckelig; ho kan för tigh stå tå tu wredh äst?",
+      "king_james": "Thou, even thou, art to be feared: and who may stand in thy sight when once thou art angry?",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:8"
+        },
+        "hebrew_masoretic": {
+          "src": "76:8"
+        },
+        "douay_rheims": {
+          "src": "75:8"
+        },
+        "swedish_karl_xii": {
+          "src": "76:8"
+        }
+      }
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": " De cælo auditum fecisti judicium :  terra tremuit et quievit ",
+      "hebrew_masoretic": "מִ֭שָּׁמַיִם הִשְׁמַ֣עְתָּ דִּ֑ין אֶ֖רֶץ יָֽרְאָ֣ה וְשָׁקָֽטָה׃",
+      "douay_rheims": "Thou hast caused judgment to be heard from heaven: the earth trembled and was still,",
+      "finnish_biblia": "Koskas tuomion annat kuulua taivaasta, niin maa vapisee ja vaikenee; ",
+      "swedish_karl_xii": "När tu låter höra domen af himmelen, så förskräckes jorden, och warder stilla,",
+      "king_james": "Thou didst cause judgment to be heard from heaven; the earth feared, and was still,",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:9"
+        },
+        "hebrew_masoretic": {
+          "src": "76:9"
+        },
+        "douay_rheims": {
+          "src": "75:9"
+        },
+        "swedish_karl_xii": {
+          "src": "76:9"
+        }
+      }
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "cum exsurgeret in judicium Deus,  ut salvos faceret omnes mansuetos terræ. ",
+      "hebrew_masoretic": "בְּקוּם־לַמִּשְׁפָּ֥ט אֱלֹהִ֑ים לְהוֹשִׁ֖יעַ כׇּל־עַנְוֵי־אֶ֣רֶץ סֶֽלָה׃",
+      "douay_rheims": "When God arose in judgment, to save all the meek of the earth.",
+      "finnish_biblia": "Koska Jumala nousee tuomitsemaan, että hän auttais kaikkia raadollisia maan päällä, Sela! ",
+      "swedish_karl_xii": "När Gudh vpstår til at döma, på thet han skal hielpa alla elända på jordene. Sela.",
+      "king_james": "When God arose to judgment, to save all the meek of the earth. Selah.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:10"
+        },
+        "hebrew_masoretic": {
+          "src": "76:10"
+        },
+        "douay_rheims": {
+          "src": "75:10"
+        },
+        "swedish_karl_xii": {
+          "src": "76:10"
+        }
+      }
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": " Quoniam cogitatio hominis confitebitur tibi,  et reliquiæ cogitationis diem festum agent tibi. ",
+      "hebrew_masoretic": "כִּֽי־חֲמַ֣ת אָדָ֣ם תּוֹדֶ֑ךָּ שְׁאֵרִ֖ית חֵמֹ֣ת תַּחְגֹּֽר׃",
+      "douay_rheims": "For the thought of man shall give praise to thee: and the remainders of the thought shall keep holiday to thee.",
+      "finnish_biblia": "Kuin ihmiset kiukuitsevat sinua vastaan, niin sinä voitat kunnian, ja kuin he vielä enemmin kiukuitsevat, niin sinä olet valmis. ",
+      "swedish_karl_xii": "När tu ena menniskio straffar, så måste man bekänna tigh, at tu redo äst til at straffa andra flera.",
+      "king_james": "Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:11"
+        },
+        "hebrew_masoretic": {
+          "src": "76:11"
+        },
+        "douay_rheims": {
+          "src": "75:11"
+        },
+        "swedish_karl_xii": {
+          "src": "76:11"
+        }
+      }
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": " Vovete et reddite Domino Deo vestro,  omnes qui in circuitu ejus affertis munera :  terribili, ",
+      "hebrew_masoretic": "נִ֥דְר֣וּ וְשַׁלְּמוּ֮ לַיהֹוָ֢ה אֱֽלֹהֵ֫יכֶ֥ם כׇּל־סְבִיבָ֑יו יֹבִ֥ילוּ שַׁ֝֗י לַמּוֹרָֽא׃",
+      "douay_rheims": "Vow ye, and pay to the Lord your God: all you that are round about him bring presents. To him that is terrible,",
+      "finnish_biblia": "Luvatkaat ja antakaat Herralle teidän Jumalallenne kaikki, jotka hänen ympärillänsä olette, viekäät lahjoja peljättävälle, ",
+      "swedish_karl_xii": "Låfwer, och håller thet HERRANOM edrom Gudh, alle J som omkring honom ären: bären fram skäncker them förskräckeliga.",
+      "king_james": "Vow, and pay unto the LORD your God: let all that be round about him bring presents unto him that ought to be feared.",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:12"
+        },
+        "hebrew_masoretic": {
+          "src": "76:12"
+        },
+        "douay_rheims": {
+          "src": "75:12"
+        },
+        "swedish_karl_xii": {
+          "src": "76:12"
+        }
+      }
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "et ei qui aufert spiritum principum :  terribili apud reges terræ.  ",
+      "hebrew_masoretic": "יִ֭בְצֹר ר֣וּחַ נְגִידִ֑ים נ֝וֹרָ֗א לְמַלְכֵי־אָֽרֶץ׃ {פ}",
+      "douay_rheims": "Even to him who taketh away the spirit of princes: to the terrible with the kings of the earth. ",
+      "finnish_biblia": "Joka päämiehiltä ottaa pois rohkeuden, ja on peljättävä maan kuninkaille.   ",
+      "swedish_karl_xii": "Then ther Förstomen borttager modet; och förskräckelig är ibland Konungarna på jordene.",
+      "king_james": "He shall cut off the spirit of princes: he is terrible to the kings of the earth. ",
+      "refs": {
+        "latin_vulgate": {
+          "src": "75:13"
+        },
+        "hebrew_masoretic": {
+          "src": "76:13"
+        },
+        "douay_rheims": {
+          "src": "75:13"
+        },
+        "swedish_karl_xii": {
+          "src": "76:13"
+        }
+      }
+    }
+  ]
+}

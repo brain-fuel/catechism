@@ -1,0 +1,376 @@
+# ref = PSA.135.1
+1	Ἁλληλουιά	ἀλληλούϊα	_	_	_	_	_	Align=exact
+2	Ἐξομολογεῖσθε	ἐξομολογέω	_	_	_	_	_	Strong=G1843|Align=positional
+3	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+5	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+6	χρηστός	χρηστός	_	_	_	_	_	Strong=G5543|Align=exact
+7	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+8	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+9	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+11	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+13	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.2
+1	ἐξομολογεῖσθε	ἐξομολογέω	_	_	_	_	_	Strong=G1843|Align=positional
+2	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	θεῷ	θεός	_	_	_	_	_	Strong=G2316|Align=positional
+4	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	θεῶν	θεός	_	_	_	_	_	Strong=G2316|Align=positional
+6	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+10	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+12	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.3
+1	ἐξομολογεῖσθε	ἐξομολογέω	_	_	_	_	_	Strong=G1843|Align=positional
+2	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	κυρίῳ	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+4	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	κυρίων	κύριος	_	_	_	_	_	Strong=G2962|Align=positional
+6	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+10	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+12	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.4
+1	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	ποιοῦντι	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+3	θαυμάσια	θαυμάσιος	_	_	_	_	_	Strong=G2297|Align=positional
+4	μεγάλα	μέγας	_	_	_	_	_	Strong=G3173|Align=positional
+5	μόνῳ	μόνος	_	_	_	_	_	Strong=G3441|Align=positional
+6	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+10	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+12	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.5
+1	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	ποιήσαντι	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+3	τοὺς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	οὐρανοὺς	οὐρανός	_	_	_	_	_	Strong=G3772|Align=positional
+5	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+6	συνέσει	σύνεσις	_	_	_	_	_	Strong=G4907|Align=positional
+7	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+8	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+9	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+11	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+13	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.6
+1	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	στερεώσαντι	στερεόω	_	_	_	_	_	Strong=G4732|Align=positional
+3	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	γῆν	γῆ	_	_	_	_	_	Strong=G1093|Align=positional
+5	ἐπὶ	ἐπί	_	_	_	_	_	Strong=G1909|Align=exact
+6	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+7	ὕδωρ	ὕδωρ	_	_	_	_	_	Strong=G5204|Align=exact
+8	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+9	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+10	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+12	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+14	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.7
+1	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	ποιήσαντι	ποιέω	_	_	_	_	_	Strong=G4160|Align=positional
+3	φῶτα	φῶς	_	_	_	_	_	Strong=G5457|Align=positional
+4	μεγάλα	μέγας	_	_	_	_	_	Strong=G3173|Align=positional
+5	μόνῳ	μόνος	_	_	_	_	_	Strong=G3441|Align=positional
+6	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+10	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+12	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.8
+1	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	ἥλιον	ἥλιος	_	_	_	_	_	Strong=G2246|Align=positional
+3	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+4	ἐξουσίαν	ἐξουσία	_	_	_	_	_	Strong=G1849|Align=positional
+5	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	ἡμέρας	ἡμέρα	_	_	_	_	_	Strong=G2250|Align=positional
+7	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+8	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+9	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+11	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+13	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.9
+1	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	σελήνην	σελήνη	_	_	_	_	_	Strong=G4582|Align=positional
+3	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+4	τὰ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	ἄστρα	ἄστρον	_	_	_	_	_	Strong=G0798|Align=positional
+6	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+7	ἐξουσίαν	ἐξουσία	_	_	_	_	_	Strong=G1849|Align=positional
+8	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	νυκτός	νύξ	_	_	_	_	_	Strong=G3571|Align=positional
+10	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+11	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+12	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+14	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+15	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+16	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.10
+1	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	πατάξαντι	πατάσσω	_	_	_	_	_	Strong=G3960|Align=positional
+3	Αἴγυπτον	Αἴγυπτος	_	_	_	_	_	Strong=G0125|Align=positional
+4	σὺν	σύν	_	_	_	_	_	Strong=G4862|Align=exact
+5	τοῖς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	πρωτοτόκοις	πρωτότοκος	_	_	_	_	_	Strong=G4416|Align=positional
+7	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+8	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+9	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+10	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+12	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+14	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.11
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐξαγαγόντι	_	_	_	_	_	_	Align=unmatched
+3	Ἰσραὴλ	Ἰσραήλ	_	_	_	_	_	Strong=G2474|Align=exact
+4	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+5	μέσου	μέσος	_	_	_	_	_	Strong=G3319|Align=positional
+6	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+7	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+8	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+9	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+11	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+13	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional,source_extra:2
+
+# ref = PSA.135.12
+1	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+2	χειρὶ	χείρ	_	_	_	_	_	Strong=G5495|Align=positional
+3	κραταιᾷ	κραταιός	_	_	_	_	_	Strong=G2900|Align=positional
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+6	βραχίονι	βραχίων	_	_	_	_	_	Strong=G1023|Align=positional
+7	ὑψηλῷ	ὑψηλός	_	_	_	_	_	Strong=G5308|Align=positional
+8	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+9	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+10	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+12	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+14	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.13
+1	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	καταδιελόντι	καταδιαιρέω	_	_	_	_	_	Align=positional
+3	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	ἐρυθρὰν	ἐρυθρός	_	_	_	_	_	Strong=G2063|Align=positional
+5	θάλασσαν	θάλασσα	_	_	_	_	_	Strong=G2281|Align=positional
+6	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+7	διαιρέσεις	διαίρεσις	_	_	_	_	_	Strong=G1243|Align=positional
+8	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+9	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+10	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+12	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+14	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.14
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	διαγαγόντι	διάγω	_	_	_	_	_	Strong=G1236|Align=positional
+3	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	Ἰσραὴλ	Ἰσραήλ	_	_	_	_	_	Strong=G2474|Align=exact
+5	ἐν	διά	_	_	_	_	_	Strong=G1223|Align=positional
+6	μέσῳ	μέσος	_	_	_	_	_	Strong=G3319|Align=positional
+7	αὐτῆς	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+8	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+9	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+10	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+12	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+14	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.15
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐκτινάξαντι	ἐκτινάσσω	_	_	_	_	_	Strong=G1621|Align=positional
+3	Φαραὼ	Φαραώ	_	_	_	_	_	Strong=G5328|Align=exact
+4	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+5	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	δύναμιν	δύναμις	_	_	_	_	_	Strong=G1411|Align=positional
+7	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+8	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+9	θάλασσαν	θάλασσα	_	_	_	_	_	Strong=G2281|Align=positional
+10	ἐρυθράν	ἐρυθρός	_	_	_	_	_	Strong=G2063|Align=positional
+11	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+12	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+13	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+14	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+15	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+16	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+17	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.16
+1	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	διαγαγόντι	διάγω	_	_	_	_	_	Strong=G1236|Align=positional
+3	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	λαὸν	λαός	_	_	_	_	_	Strong=G2992|Align=positional
+5	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+6	ἐν	ἐν	_	_	_	_	_	Strong=G1722|Align=exact
+7	ἐρήμῳ	_	_	_	_	_	_	Align=unmatched
+8	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+9	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+10	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+12	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+14	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:16
+
+# ref = PSA.135.17
+1	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	πατάξαντι	πατάσσω	_	_	_	_	_	Strong=G3960|Align=positional
+3	βασιλεῖς	βασιλεύς	_	_	_	_	_	Strong=G0935|Align=positional
+4	μεγάλους	μέγας	_	_	_	_	_	Strong=G3173|Align=positional
+5	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+6	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+7	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+9	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+11	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.18
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἀποκτείναντι	ἀποκτείνω	_	_	_	_	_	Strong=G0615|Align=positional
+3	βασιλεῖς	βασιλεύς	_	_	_	_	_	Strong=G0935|Align=positional
+4	κραταιούς	κραταιός	_	_	_	_	_	Strong=G2900|Align=positional
+5	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+6	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+7	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+9	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+11	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.19
+1	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+2	Σηὼν	Σηων	_	_	_	_	_	Align=exact
+3	βασιλέα	βασιλεύς	_	_	_	_	_	Strong=G0935|Align=positional
+4	τῶν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	Ἀμορραίων	Ἀμορραῖος	_	_	_	_	_	Align=positional
+6	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+10	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+12	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.20
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	Ὢγ	Ωγ	_	_	_	_	_	Align=exact
+4	βασιλέα	βασιλεύς	_	_	_	_	_	Strong=G0935|Align=positional
+5	τῆς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	Βασάν	Βασαν	_	_	_	_	_	Align=exact
+7	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+8	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+9	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+11	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+13	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.21
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	δόντι	δίδωμι	_	_	_	_	_	Strong=G1325|Align=positional
+3	τὴν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+4	γῆν	γῆ	_	_	_	_	_	Strong=G1093|Align=positional
+5	αὐτῶν	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+6	κληρονομίαν	κληρονομία	_	_	_	_	_	Strong=G2817|Align=positional
+7	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+8	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+9	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+11	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+12	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+13	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.22
+1	κληρονομίαν	κληρονομία	_	_	_	_	_	Strong=G2817|Align=positional
+2	Ἰσραὴλ	Ἰσραήλ	_	_	_	_	_	Strong=G2474|Align=exact
+3	δούλῳ	δοῦλος	_	_	_	_	_	Strong=G1401|Align=positional
+4	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+5	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+6	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+7	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+8	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+9	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+10	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+11	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.24
+1	καὶ	καί	_	_	_	_	_	Strong=G2532|Align=exact
+2	ἐλυτρώσατο	λυτρόω	_	_	_	_	_	Strong=G3084|Align=positional
+3	ἡμᾶς	ἡμᾶς	_	_	_	_	_	Align=exact
+4	ἐκ	ἐκ	_	_	_	_	_	Strong=G1537|Align=exact
+5	χειρὸς	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+6	ἐχθρῶν	ἐχθρός	_	_	_	_	_	Strong=G2190|Align=positional
+7	ἡμῶν	ἡμῶν	_	_	_	_	_	Align=exact
+8	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+9	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+10	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+12	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+13	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+14	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.25
+1	ὁ	ὁ	_	_	_	_	_	Strong=G3588|Align=exact
+2	διδοὺς	δίδωμι	_	_	_	_	_	Strong=G1325|Align=positional
+3	τροφὴν	τροφή	_	_	_	_	_	Strong=G5160|Align=positional
+4	πάσῃ	πᾶς	_	_	_	_	_	Strong=G3956|Align=positional
+5	σαρκί	σάρξ	_	_	_	_	_	Strong=G4561|Align=positional
+6	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+10	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+12	αὐτοῦ	αὐτός	_	_	_	_	_	Strong=G0846|Align=positional
+
+# ref = PSA.135.26
+1	ἐξομολογεῖσθε	ἐξομολογέω	_	_	_	_	_	Strong=G1843|Align=positional
+2	τῷ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+3	κυρίῳ	θεός	_	_	_	_	_	Strong=G2316|Align=positional
+4	τοῦ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+5	οὐρανοῦ	οὐρανός	_	_	_	_	_	Strong=G3772|Align=positional
+6	ὅτι	ὅτι	_	_	_	_	_	Strong=G3754|Align=exact
+7	εἰς	εἰς	_	_	_	_	_	Strong=G1519|Align=exact
+8	τὸν	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+9	αἰῶνα	αἰών	_	_	_	_	_	Strong=G0165|Align=positional
+10	τὸ	ὁ	_	_	_	_	_	Strong=G3588|Align=positional
+11	ἔλεος	ἔλεος	_	_	_	_	_	Strong=G1656|Align=exact
+12	αὐτοῦ	_	_	_	_	_	_	Align=unmatched,source_extra:13
+

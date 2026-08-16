@@ -1,0 +1,171 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et vidi: et ecce Agnus stabat supra montem Sion, et cum eo centum quadraginta quatuor millia, habentes nomen ejus, et nomen Patris ejus scriptum in frontibus suis.",
+      "greek_textus_receptus": "καὶ εἶδον καὶ ἰδού ἀρνίον ἑστηκὸς ἐπὶ τὸ ὄρος σιών καὶ μετ᾽ αὐτοῦ ἑκατὸν τεσσαράκοντα τέσσαρες χιλιάδες ἔχουσαι τὸ ὄνομα τοῦ πατρὸς αὐτοῦ γεγραμμένον ἐπὶ τῶν μετώπων αὐτῶν",
+      "finnish_biblia": "Ja minä näin, ja katso, Karitsa seisoi Zionin vuorella, ja hänen kanssansa sata ja neljäviidettäkymmentä tuhatta, joilla oli hänen Isänsä nimi kirjoitettu heidän otsissansa. ",
+      "swedish_karl_xii": "Och jagh såg, och sij: Ett Lamb stod på Sions berg, och medh thy hundrade fyra och fyratijotusend: the hade thes Faders namn beskrifwit på sin anlete.",
+      "king_james": "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty *and* four thousand, having his Father's name written in their foreheads."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et audivi vocem de cælo, tamquam vocem aquarum multarum, et tamquam vocem tonitrui magni: et vocem, quam audivi, sicut citharœdorum citharizantium in citharis suis.",
+      "greek_textus_receptus": "καὶ ἤκουσα φωνὴν ἐκ τοῦ οὐρανοῦ ὡς φωνὴν ὑδάτων πολλῶν καὶ ὡς φωνὴν βροντῆς μεγάλης καὶ φωνὴν ἤκουσα κιθαρῳδῶν κιθαριζόντων ἐν ταῖς κιθάραις αὐτῶν",
+      "finnish_biblia": "Ja minä kuulin äänen taivaasta niinkuin paljon veden äänen, ja niinkuin suuren pitkäisen äänen. Ja se ääni, jonka minä kuulin, oli niinkuin kanteleen soittajain, jotka kanteleitansa soittavat, ",
+      "swedish_karl_xii": "Och jagh hörde ena röst af himmelen, såsom af ett stort watn, och såsom ena röst af en stoor toordön: och rösten som jagh hörde, war såsom harpolekares, the ther lekte på sina harpor.",
+      "king_james": "And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et cantabant quasi canticum novum ante sedem, et ante quatuor animalia, et seniores: et nemo poterat dicere canticum, nisi illa centum quadraginta quatuor millia, qui empti sunt de terra.",
+      "greek_textus_receptus": "καὶ ᾄδουσιν ὡς ᾠδὴν καινὴν ἐνώπιον τοῦ θρόνου καὶ ἐνώπιον τῶν τεσσάρων ζῴων καὶ τῶν πρεσβυτέρων καὶ οὐδεὶς ἠδύνατο μαθεῖν τὴν ᾠδὴν εἰ μὴ αἱ ἑκατὸν τεσσαράκοντα τέσσαρες χιλιάδες οἱ ἠγορασμένοι ἀπὸ τῆς γῆς",
+      "finnish_biblia": "Ja veisasivat niinkuin uutta virttä istuimen edessä, ja neljän eläimen edessä, ja vanhinten. Ja ei yksikään taitanut sitä virttä oppia, paitsi niitä sataa ja neljääviidettäkymmentä tuhatta, jotka maasta ostetut ovat. ",
+      "swedish_karl_xii": "Och the sungo såsom en ny sång, för stolen, och för the fyra diuren, och för the Äldsta: och ingen kunde lära then sången, vtan the hundrade fyra och fyratijotusend, som köpte äro af jordene.",
+      "king_james": "And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred *and* forty *and* four thousand, which were redeemed from the earth."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Hi sunt, qui cum mulieribus non sunt coinquinati: virgines enim sunt. Hi sequuntur Agnum quocumque ierit. Hi empti sunt ex hominibus primitiæ Deo, et Agno:",
+      "greek_textus_receptus": "οὗτοί εἰσιν οἳ μετὰ γυναικῶν οὐκ ἐμολύνθησαν παρθένοι γάρ εἰσιν οὗτοι εἰσιν οἱ ἀκολουθοῦντες τῷ ἀρνίῳ ὅπου ἂν ὑπάγῃ οὗτοι ἠγοράσθησαν ἀπὸ τῶν ἀνθρώπων ἀπαρχὴ τῷ θεῷ καὶ τῷ ἀρνίῳ",
+      "finnish_biblia": "Nämät ovat ne, jotka ei vaimoin kanssa ole saastutetut; sillä he ovat neitseet: nämät ovat ne, jotka seuraavat Karitsaa, kuhunka hän menee. Nämät ovat ihmisistä ostetut Jumalalle ja Karitsalle uutiseksi, ",
+      "swedish_karl_xii": "Thesse äro the, som medh qwinnor icke besinittade äro; ty the äro jungfrur: thesse äro the som följa Lambet, ehwart thet går: thesse äro köpte ifrå menniskiorna, til en förstling Gudi, och Lambena.",
+      "king_james": "These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, *being* the firstfruits unto God and to the Lamb."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "et in ore eorum non est inventum mendacium: sine macula enim sunt ante thronum Dei.",
+      "greek_textus_receptus": "καὶ ἐν τῷ στόματι αὐτῶν οὐχ εὑρέθη δόλος ἄμωμοί γάρ εἰσιν ἐνώπιον τοῦ θρόνου τοῦ θεοῦ",
+      "finnish_biblia": "Joiden suussa ei ole petosta löydetty; sillä he ovat ilman saastaisuutta Jumalan istuimen edessä. ",
+      "swedish_karl_xii": "Och i theras mun är intet swek funnet: ty the äro vthan smitto för Gudz stool.",
+      "king_james": "And in their mouth was found no guile: for they are without fault before the throne of God."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Et vidi alterum angelum volantem per medium cæli, habentem Evangelium æternum, ut evangelizaret sedentibus super terram, et super omnem gentem, et tribum, et linguam, et populum:",
+      "greek_textus_receptus": "καὶ εἶδον ἄλλον ἄγγελον πετώμενον ἐν μεσουρανήματι ἔχοντα εὐαγγέλιον αἰώνιον εὐαγγελίσαι τοὺς κατοικοῦντας ἐπὶ τῆς γῆς καὶ πᾶν ἔθνος καὶ φυλὴν καὶ γλῶσσαν καὶ λαόν",
+      "finnish_biblia": "Ja minä näin toisen enkelin lentävän taivaan keskitse, jolla ijankaikkinen evankeliumi oli, jota hänen pitää niille ilmoittaman, jotka maan päällä asuvat, ja kaikille pakanoille ja sukukunnille, ja kielille ja kansoille; ",
+      "swedish_karl_xii": "Och jagh såg en annan Ängel flyga mitt genom himmelen: han hade ett ewigt Evangelium, thet han förkunna skulle them som på jordene boo, och allom Hedningom, och slächtom, och tungomålom, och folckom.",
+      "king_james": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "dicens magna voce: Timete Dominum, et date illi honorem, quia venit hora judicii ejus: et adorate eum, qui fecit cælum, et terram, mare, et fontes aquarum.",
+      "greek_textus_receptus": "λέγοντα ἐν φωνῇ μεγάλῃ φοβήθητε τὸν θεὸν καὶ δότε αὐτῷ δόξαν ὅτι ἦλθεν ἡ ὥρα τῆς κρίσεως αὐτοῦ καὶ προσκυνήσατε τῷ ποιήσαντι τὸν οὐρανὸν καὶ τὴν γῆν καὶ θάλασσαν καὶ πηγὰς ὑδάτων",
+      "finnish_biblia": "Joka sanoi suurella äänellä: peljätkäät Jumalaa, ja antakaat hänelle kunnia; sillä hänen tuomionsa hetki on tullut: ja kumartakaat ja rukoilkaat sitä, joka taivaan ja maan ja meret ja vesilähteet teki. ",
+      "swedish_karl_xii": "Och sade medh höga röst: Fruchter Gudh, och gifwer honom ähro: ty stunden är kommen til hans doom; och tilbeder honom, som hafwer giordt himmel och jord, hafwet och watukällorna.",
+      "king_james": "Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Et alius angelus secutus est dicens: Cecidit, cecidit Babylon illa magna: quæ a vino iræ fornicationis suæ potavit omnes gentes.",
+      "greek_textus_receptus": "καὶ ἄλλος ἄγγελος ἠκολούθησεν λέγων ἕπεσεν ἔπεσεν βαβυλὼν ἡ πόλις ἣ μεγάλη ὅτι ἐκ τοῦ οἴνου τοῦ θυμοῦ τῆς πορνείας αὐτῆς πεπότικεν πάντα ἔθνη",
+      "finnish_biblia": "Ja toinen enkeli seurasi, sanoen: lankesi, lankesi Babylon, suuri kaupunki; sillä hän oli huoruutensa vihan (a) viinalla kaikki pakanat juottanut. ",
+      "swedish_karl_xii": "Och en annar Ängel fölgde efter, och sade: Fallen, fallen är then store staden Babylon: ty han hafwer dricka gifwit allom Hedningom af wredenes wijn sins bolerijs.",
+      "king_james": "And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Et tertius angelus secutus est illos, dicens voce magna: Si quis adoraverit bestiam, et imaginem ejus, et acceperit caracterem in fronte sua, aut in manu sua:",
+      "greek_textus_receptus": "καὶ τρίτος ἄγγελος ἠκολούθησεν αὐτοῖς λέγων ἐν φωνῇ μεγάλῃ εἴ τις τὸ θηρίον προσκυνεῖ καὶ τὴν εἰκόνα αὐτοῦ καὶ λαμβάνει χάραγμα ἐπὶ τοῦ μετώπου αὐτοῦ ἢ ἐπὶ τὴν χεῖρα αὐτοῦ",
+      "finnish_biblia": "Ja kolmas enkeli seurasi niitä, sanoen suurella äänellä: jos joku petoa ja hänen kuvaansa kumartaa, ja ottaa sen merkin otsaansa taikka käteensä, ",
+      "swedish_karl_xii": "Och tredie Angelen fölgde them, och sade medh höga röst: Hwar någor tilbeder willdiuret, och thes beläte, och tager thes wedertekn på sitt anlete, eller på sin hand:",
+      "king_james": "And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive *his* mark in his forehead, or in his hand,"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "et hic bibet de vino iræ Dei, quod mistum est mero in calice iræ ipsius, et cruciabitur igne, et sulphure in conspectu angelorum sanctorum, et ante conspectum Agni:",
+      "greek_textus_receptus": "καὶ αὐτὸς πίεται ἐκ τοῦ οἴνου τοῦ θυμοῦ τοῦ θεοῦ τοῦ κεκερασμένου ἀκράτου ἐν τῷ ποτηρίῳ τῆς ὀργῆς αὐτοῦ καὶ βασανισθήσεται ἐν πυρὶ καὶ θείῳ ἐνώπιον τῶν ἁγίων ἀγγέλων καὶ ἐνώπιον τοῦ ἀρνίου",
+      "finnish_biblia": "Sen pitää myös Jumalan vihan viinaa juoman, selkiää viinaa, joka hänen vihansa maljaan kaadettu on; ja häntä pitää tulella ja tulikivellä pyhäin enkeleitten edessä ja Karitsan edessä vaivattaman. ",
+      "swedish_karl_xii": "Han skal ock dricka af Gudz wredes wijn, thet inskänckt och klart är i hans wredes kalk; och han skal warda plågad medh eld och swafwel, i helga Anglars åsyn, och i Lambsens åsyn.",
+      "king_james": "The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "et fumus tormentorum eorum ascendet in sæcula sæculorum: nec habent requiem die ac nocte, qui adoraverunt bestiam, et imaginem ejus, et si quis acceperit caracterem nominis ejus.",
+      "greek_textus_receptus": "καὶ ὁ καπνὸς τοῦ βασανισμοῦ αὐτῶν ἀναβαίνει εἰς αἰῶνας αἰώνων καὶ οὐκ ἔχουσιν ἀνάπαυσιν ἡμέρας καὶ νυκτός οἱ προσκυνοῦντες τὸ θηρίον καὶ τὴν εἰκόνα αὐτοῦ καὶ εἴ τις λαμβάνει τὸ χάραγμα τοῦ ὀνόματος αὐτοῦ",
+      "finnish_biblia": "Ja heidän vaivansa savu astuu ylös ijankaikkisesta ijankaikkiseen, ja ei heillä ole lepoa päivällä eikä yöllä, jotka petoa ja hänen kuvaansa kumartavat, ja jos joku on hänen nimensä merkin ottanut. ",
+      "swedish_karl_xii": "Och röken af theras plågo, skal vpstiga af ewighet til ewighet: och the hafwa hwarken dagh eller natt roo, som tilbedia willdiuret och thes beläte, och ther någor taget hafwer thes namns wedertekn.",
+      "king_james": "And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Hic patientia sanctorum est, qui custodiunt mandata Dei, et fidem Jesu.",
+      "greek_textus_receptus": "ὧδε ὑπομονὴ τῶν ἁγίων ἐστίν ὧδε οἱ τηροῦντες τὰς ἐντολὰς τοῦ θεοῦ καὶ τὴν πίστιν ἰησοῦ",
+      "finnish_biblia": "Tässä on pyhäin kärsivällisyys. Tässä ne ovat, jotka Jumalan käskyt ja Jesuksen uskon pitävät. ",
+      "swedish_karl_xii": "Här är the heligas tolamod; här äro the som hålla Gudz budh, och Jesu troo.",
+      "king_james": "Here is the patience of the saints: here *are* they that keep the commandments of God, and the faith of Jesus."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Et audivi vocem de cælo, dicentem mihi: Scribe: Beati mortui qui in Domino moriuntur. Amodo jam dicit Spiritus, ut requiescant a laboribus suis: opera enim illorum sequuntur illos.",
+      "greek_textus_receptus": "καὶ ἤκουσα φωνῆς ἐκ τοῦ οὐρανοῦ λεγούσης μοι γράψον μακάριοι οἱ νεκροὶ οἱ ἐν κυρίῳ ἀποθνῄσκοντες ἀπαρτί ναί λέγει τὸ πνεῦμα ἵνα ἀναπαύσωνται ἐκ τῶν κόπων αὐτῶν τὰ δὲ ἔργα αὐτῶν ἀκολουθεῖ μετ᾽ αὐτῶν",
+      "finnish_biblia": "Ja minä kuulin äänen taivaasta minulle sanovan: kirjoita: autuaat ovat ne kuolleet, jotka Herrassa kuolevat tästälähin. Jaa, Henki sanoo: heidän pitää lepäämän töistänsä; sillä heidän tekonsa noudattavat heitä. ",
+      "swedish_karl_xii": "Och jagh hörde ena röst af himmelen säija til migh: Skrif; Salige äro the döde, som i Herranom döö här efter: ja, Anden säger, at the skola hwila sigh ifrå sitt arbete: ty theras gierningar följa them efter.",
+      "king_james": "And I heard a voice from heaven saying unto me, Write, Blessed *are* the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Et vidi: et ecce nubem candidam, et super nubem sedentem similem Filio hominis, habentem in capite suo coronam auream, et in manu sua falcem acutam.",
+      "greek_textus_receptus": "καὶ εἶδον καὶ ἰδού νεφέλη λευκή καὶ ἐπὶ τὴν νεφέλην καθήμενος ὅμοιος υιῷ ἀνθρώπου ἔχων ἐπὶ τῆς κεφαλῆς αὐτοῦ στέφανον χρυσοῦν καὶ ἐν τῇ χειρὶ αὐτοῦ δρέπανον ὀξύ",
+      "finnish_biblia": "Ja minä näin, ja katso, valkia pilvi, ja pilven päällä istui Ihmisen Pojan muotoinen, jonka päässä oli kultainen kruunu ja terävä sirppi hänen kädessänsä. ",
+      "swedish_karl_xii": "Och jagh såg, och sij, en hwijt skyy, och på skynom satt en, som lijk war menniskiones Son, och hade på sitt hufwud ena guldcrono, och i hans hand en hwaß lija.",
+      "king_james": "And I looked, and behold a white cloud, and upon the cloud *one* sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Et alius angelus exivit de templo, clamans voce magna ad sedentem super nubem: Mitte falcem tuam, et mete, quia venit hora ut metatur, quoniam aruit messis terræ.",
+      "greek_textus_receptus": "καὶ ἄλλος ἄγγελος ἐξῆλθεν ἐκ τοῦ ναοῦ κράζων ἐν μεγάλῃ φωνῇ τῷ καθημένῳ ἐπὶ τῆς νεφέλης πέμψον τὸ δρέπανόν σου καὶ θέρισον ὅτι ἦλθεν σοι ἡ ὥρα τοῦ θερίσαι ὅτι ἐξηράνθη ὁ θερισμὸς τῆς γῆς",
+      "finnish_biblia": "Ja toinen enkeli läksi templistä, huutaen suurella äänellä pilven päällä istuvaiselle: sivalla sirpilläs ja leikkaa; sillä sinulle tuli hetki leikatakses, ja elo on maan päällä kuivaksi tullut. ",
+      "swedish_karl_xii": "Och en annar Ängel kom vthu templet, och ropade medh höga röst til then som satt på skynom: Hugg til medh tin lija, och skär: ty tiden är tigh kommen, at tu skalt skära: ty säden på jordene är torr worden.",
+      "king_james": "And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Et misit qui sedebat super nubem, falcem suam in terram, et demessa est terra.",
+      "greek_textus_receptus": "καὶ ἔβαλεν ὁ καθήμενος ἐπὶ τὴν νεφέλην τὸ δρέπανον αὐτοῦ ἐπὶ τὴν γῆν καὶ ἐθερίσθη ἡ γῆ",
+      "finnish_biblia": "Ja se, joka pilven päällä istui, sivalsi sirpillänsä maan päältä, ja maa tuli leikatuksi. ",
+      "swedish_karl_xii": "Och han som satt på skyyn, högg til medh sin lija på jordena, och jorden wardt afskoren.",
+      "king_james": "And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Et alius angelus exivit de templo, quod est in cælo, habens et ipse falcem acutam.",
+      "greek_textus_receptus": "καὶ ἄλλος ἄγγελος ἐξῆλθεν ἐκ τοῦ ναοῦ τοῦ ἐν τῷ οὐρανῷ ἔχων καὶ αὐτὸς δρέπανον ὀξύ",
+      "finnish_biblia": "Ja toinen enkeli läksi templistä, joka taivaassa on, jolla myös terävä sirppi oli. ",
+      "swedish_karl_xii": "Och en annar Ängel kom vthu templet, som i himmelen är, then ock en hwaß lija hade.",
+      "king_james": "And another angel came out of the temple which is in heaven, he also having a sharp sickle."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Et alius angelus exivit de altari, qui habebat potestatem supra ignem: et clamavit voce magna ad eum qui habebat falcem acutam, dicens: Mitte falcem tuam acutam, et vindemia botros vineæ terræ: quoniam maturæ sunt uvæ ejus.",
+      "greek_textus_receptus": "καὶ ἄλλος ἄγγελος ἐξῆλθεν ἐκ τοῦ θυσιαστηρίου ἔχων ἐξουσίαν ἐπὶ τοῦ πυρός καὶ ἐφώνησεν κραυγῇ μεγάλῃ τῷ ἔχοντι τὸ δρέπανον τὸ ὀξὺ λέγων πέμψον σου τὸ δρέπανον τὸ ὀξὺ καὶ τρύγησον τοὺς βότρυας τῆς γῆς ὅτι ἤκμασαν αἱ σταφυλαὶ αὐτῆς",
+      "finnish_biblia": "Ja toinen enkeli läksi alttarista, jolla oli valta tulen päälle, ja huusi suurella äänellä sille, jolla terävä sirppi oli, ja sanoi: sivalla terävällä sirpilläs, ja leikkaa ne viina-oksan versot maan päältä; sillä hänen viinamarjansa ovat kypsyneet. ",
+      "swedish_karl_xii": "Och en annar Ängel kom vthur altaret, then macht hade öfwer elden; och ropade medh höga röst til honom som hade then hwassa lijan, och sade: Hugg til medh tin hwassa lija, och skär vp wijnqwistarna på jordene: ty hennes wijnbär äro mogen.",
+      "king_james": "And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Et misit angelus falcem suam acutam in terram, et vindemiavit vineam terræ, et misit in lacum iræ Dei magnum:",
+      "greek_textus_receptus": "καὶ ἔβαλεν ὁ ἄγγελος τὸ δρέπανον αὐτοῦ εἰς τὴν γῆν καὶ ἐτρύγησεν τὴν ἄμπελον τῆς γῆς καὶ ἔβαλεν εἰς τὴν ληνὸν τοῦ θυμοῦ τοῦ θεοῦ τὴν μέγαλην",
+      "finnish_biblia": "Ja enkeli sivalsi terävällä sirpillänsä maan päällä, ja niitti maan viinamäen, ja heitti ne Jumalan vihan suureen kuurnaan. ",
+      "swedish_karl_xii": "Och Ängelen högg til medh sin skarpa lija på jordena, och skar vp wijngårdarna på jordene, och kastade them vthi Gudz wredes stora präß.",
+      "king_james": "And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast *it* into the great winepress of the wrath of God."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "et calcatus est lacus extra civitatem, et exivit sanguis de lacu usque ad frenos equorum per stadia mille sexcenta.",
+      "greek_textus_receptus": "καὶ ἐπατήθη ἡ ληνὸς ἔξω τῆς πόλεως καὶ ἐξῆλθεν αἷμα ἐκ τῆς ληνοῦ ἄχρι τῶν χαλινῶν τῶν ἵππων ἀπὸ σταδίων χιλίων ἑξακοσίων",
+      "finnish_biblia": "Ja kuurna sotkuttiin ulkona kaupungista, ja veri kuurnasta kuohui ulos hamaan orhitten suitsiin asti, tuhannen ja kuusisataa vakomittaa.   ",
+      "swedish_karl_xii": "Och wardt prässen trampad vthom staden: och blodet gick vth af prässen, alt in til betzlen på hästarna, vthöfwer tusende sexhundrat stadier wägs.",
+      "king_james": "And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand *and* six hundred furlongs."
+    }
+  ]
+}

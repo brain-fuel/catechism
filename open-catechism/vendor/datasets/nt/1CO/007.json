@@ -1,0 +1,331 @@
+{
+  "book_id": "1CO",
+  "latin_name": "Epistula I ad Corinthios",
+  "greek_name": "Πρὸς Κορινθίους Α",
+  "finnish_name": "Ensimmäinen kirje korinttilaisille",
+  "swedish_name": "S. Pauli Epistel then förra Til the Corinther",
+  "english_name": "The First Epistle of Paul the Apostle to the Corinthians",
+  "chapter": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "De quibus autem scripsistis mihi: Bonum est homini mulierem non tangere:",
+      "greek_textus_receptus": "περὶ δὲ ὧν ἐγράψατε μοι, καλὸν ἀνθρώπῳ γυναικὸς μὴ ἅπτεσθαι",
+      "finnish_biblia": "Mutta niistä, joita te minulle kirjoititte, hyvä on miehelle, ettei hän vaimoon ryhdy. ",
+      "swedish_karl_xii": "Nu ther J migh om skrefwen, swarar jagh. Thet är mannenom godt at han intet befattar sigh medh hustru.",
+      "king_james": "Now concerning the things whereof ye wrote unto me: *It is* good for a man not to touch a woman."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "propter fornicationem autem unusquisque suam uxorem habeat, et unaquæque suum virum habeat.",
+      "greek_textus_receptus": "διὰ δὲ τὰς πορνείας ἕκαστος τὴν ἑαυτοῦ γυναῖκα ἐχέτω καὶ ἑκάστη τὸν ἴδιον ἄνδρα ἐχέτω",
+      "finnish_biblia": "Mutta huoruuden tähden pitäköön kukin oman vaimonsa, ja jokainen pitäköön oman miehensä. ",
+      "swedish_karl_xii": "Doch likwäl, til at vndfly bolerij, hafwe hwar och en sina hustru, och hwar och een sin man.",
+      "king_james": "Nevertheless, *to avoid* fornication, let every man have his own wife, and let every woman have her own husband."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Uxori vir debitum reddat: similiter autem et uxor viro.",
+      "greek_textus_receptus": "τῇ γυναικὶ ὁ ἀνὴρ τὴν ὀφειλομένην εὔνοιαν ἀποδιδότω ὁμοίως δὲ καὶ ἡ γυνὴ τῷ ἀνδρί",
+      "finnish_biblia": "Mies antakoon vaimolle velvollisen mielisuosion, niin myös vaimo miehelle. ",
+      "swedish_karl_xii": "Mannen skal låta få hustrune skyldig wälwiljoghet; och sammalunda hustrun mannen.",
+      "king_james": "Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Mulier sui corporis potestatem non habet, sed vir. Similiter autem et vir sui corporis potestatem non habet, sed mulier.",
+      "greek_textus_receptus": "ἡ γυνὴ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλ᾽ ὁ ἀνήρ ὁμοίως δὲ καὶ ὁ ἀνὴρ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλ᾽ ἡ γυνή",
+      "finnish_biblia": "Ei ole vaimolla valtaa omalle ruumiillensa, vaan miehellä: ei myös miehellä ole valtaa ruumiillensa, vaan vaimolla. ",
+      "swedish_karl_xii": "Hustrun hafwer icke sielf macht öfwer sin egen krop, vtan mannen: sammalunda mannen hafwer icke macht öfwer sin egen krop, vtan hustrun.",
+      "king_james": "The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Nolite fraudare invicem, nisi forte ex consensu ad tempus, ut vacetis orationi: et iterum revertimini in idipsum, ne tentet vos Satanas propter incontinentiam vestram.",
+      "greek_textus_receptus": "μὴ ἀποστερεῖτε ἀλλήλους εἰ μὴ τι ἂν ἐκ συμφώνου πρὸς καιρὸν ἵνα σχολάζητε τῇ νηστείᾳ καὶ τῇ προσευχῇ καὶ πάλιν ἐπὶ τὸ αὐτὸ συνέρχησθε, ἵνα μὴ πειράζῃ ὑμᾶς ὁ σατανᾶς διὰ τὴν ἀκρασίαν ὑμῶν",
+      "finnish_biblia": "Älkäät toinen toistanne vältkö, jollei se ole molempain suosiosta hetkeksi, että teillä jouto olis paastota ja rukoilla: ja tulkaat jälleen yhteen, ettei saatana teitä kiusaisi teidän himonne hillimättömyyden puolesta. ",
+      "swedish_karl_xii": "Drager eder icke vndan för hwar annan, vtan thet skeer medh bägges edra samtyckio, til en tijd, at J mågen hafwa tom til fasto och böner: och kommer så igen tilsammans, at diefwulen icke skal fresta eder för edor okyskhet skul.",
+      "king_james": "Defraud ye not one the other, except *it be* with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Hoc autem dico secundum indulgentiam, non secundum imperium.",
+      "greek_textus_receptus": "τοῦτο δὲ λέγω κατὰ συγγνώμην οὐ κατ᾽ ἐπιταγήν",
+      "finnish_biblia": "Mutta sen sanon minä teille suomisen ja ei käskyn jälkeen. ",
+      "swedish_karl_xii": "Men sådant säger jagh eder efter tilstädelse, och icke efter budh.",
+      "king_james": "But I speak this by permission, *and* not of commandment."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Volo enim omnes vos esse sicut meipsum: sed unusquisque proprium donum habet ex Deo: alius quidem sic, alius vero sic.",
+      "greek_textus_receptus": "θέλω γὰρ πάντας ἀνθρώπους εἶναι ὡς καὶ ἐμαυτόν ἀλλ᾽ ἕκαστος ἴδιον χάρισμα ἔχει ἐκ θεοῦ ὅς μὲν οὕτως ὅς δὲ οὕτως",
+      "finnish_biblia": "Sillä minä tahtoisin, että kaikki ihmiset niin olisivat kuin minäkin olen; mutta jokaisella on oma lahja Jumalalta, yhdellä niin ja toisella näin. ",
+      "swedish_karl_xii": "Vtan jagh wille hällre at alla menniskior woro såsom jagh är: men hwar och en hafwer sina egna gåfwo af Gudi; then ene så, then andre så.",
+      "king_james": "For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Dico autem non nuptis, et viduis: bonum est illis si sic permaneant, sicut et ego.",
+      "greek_textus_receptus": "λέγω δὲ τοῖς ἀγάμοις καὶ ταῖς χήραις καλὸν αὐτοῖς ἐστιν ἐὰν μείνωσιν ὡς κἀγώ",
+      "finnish_biblia": "Vaan minä sanon naimattomille ja leskille: se on heille hyvä, jos he ovat niinkuin minäkin. ",
+      "swedish_karl_xii": "Them ogiftom, och enkiom säger jagh: Godt är them om the blifwa såsom ock jagh.",
+      "king_james": "I say therefore to the unmarried and widows, It is good for them if they abide even as I."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Quod si non se continent, nubant. Melius est enim nubere, quam uri.",
+      "greek_textus_receptus": "εἰ δὲ οὐκ ἐγκρατεύονται γαμησάτωσαν κρεῖσσον γάρ ἐστιν γαμῆσαι ἢ πυροῦσθαι",
+      "finnish_biblia": "Vaan ellei he voi itsiänsä pidättää, niin naikaan; sillä parempi on naida kuin palaa. ",
+      "swedish_karl_xii": "Men kunna the icke hålla sigh, så gifte sigh: ty thet är bättre gifta sigh än brinna.",
+      "king_james": "But if they cannot contain, let them marry: for it is better to marry than to burn."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Iis autem qui matrimonio juncti sunt, præcipio non ego, sed Dominus, uxorem a viro non discedere:",
+      "greek_textus_receptus": "τοῖς δὲ γεγαμηκόσιν παραγγέλλω οὐκ ἐγὼ ἀλλ᾽ ὁ κύριος γυναῖκα ἀπὸ ἀνδρὸς μὴ χωρισθῆναι",
+      "finnish_biblia": "Mutta naineelle käsken, en minä, vaan Herra, ettei vaimon pidä miehestänsä eriämän. ",
+      "swedish_karl_xii": "Men them giftom biuder icke jagh, vtan Herren: Hustrun skilje sigh icke ifrå mannen.",
+      "king_james": "And unto the married I command, *yet* not I, but the Lord, Let not the wife depart from *her* husband:"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "quod si discesserit, manere innuptam, aut viro suo reconciliari. Et vir uxorem non dimittat.",
+      "greek_textus_receptus": "ἐὰν δὲ καὶ χωρισθῇ μενέτω ἄγαμος ἢ τῷ ἀνδρὶ καταλλαγήτω καὶ ἄνδρα γυναῖκα μὴ ἀφιέναι",
+      "finnish_biblia": "Mutta jos hän eriää, niin olkoon naimatta taikka sopikaan miehensä kanssa, ja älköön mies hyljätkö vaimoansa. ",
+      "swedish_karl_xii": "Skils hon ock ifrå honom, så blifwe ogift, eller förlike sigh medh mannen igen; och mannen öfwergifwe icke hustruna.",
+      "king_james": "But and if she depart, let her remain unmarried, or be reconciled to *her* husband: and let not the husband put away *his* wife."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Nam ceteris ego dico, non Dominus. Si quis frater uxorem habet infidelem, et hæc consentit habitare cum illo, non dimittat illam.",
+      "greek_textus_receptus": "τοῖς δὲ λοιποῖς ἐγὼ λέγω οὐχ ὁ κύριος εἴ τις ἀδελφὸς γυναῖκα ἔχει ἄπιστον καὶ αὕτη συνευδοκεῖ οἰκεῖν μετ᾽ αὐτοῦ μὴ ἀφιέτω αὐτήν",
+      "finnish_biblia": "Vaan muille sanon minä ja ei Herra: jos jollakin veljellä on uskotoin vaimo, ja se mielistyy hänen kanssansa asumaan, älköön sitä itsestänsä eroittako. ",
+      "swedish_karl_xii": "Them androm säger jagh, icke Herren: Om så är, at en broder hafwer ena otrogna hustru, och hon hafwer wilja til at boo medh honom, skilje tå han icke henne ifrå sigh.",
+      "king_james": "But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Et si qua mulier fidelis habet virum infidelem, et hic consentit habitare cum illa, non dimittat virum:",
+      "greek_textus_receptus": "καὶ γυνὴ ἥτις ἔχει ἄνδρα ἄπιστον καὶ αὑτὸς συνευδοκεῖ οἰκεῖν μετ᾽ αὐτῆς μὴ ἀφιέτω αὐτόν",
+      "finnish_biblia": "Ja jos jollakin vaimolla on uskotoin mies, ja hän tahtoo sen kanssa asua, älköön häntä itsestänsä eroittako. ",
+      "swedish_karl_xii": "Och om een qwinna hafwer en otrogen man, och han hafwer wilja til at blifwa när henne, skilje icke tå honom ifrå sigh.",
+      "king_james": "And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "sanctificatus est enim vir infidelis per mulierem fidelem, et sanctificata est mulier infidelis per virum fidelem: alioquin filii vestri immundi essent, nunc autem sancti sunt.",
+      "greek_textus_receptus": "ἡγίασται γὰρ ὁ ἀνὴρ ὁ ἄπιστος ἐν τῇ γυναικί καὶ ἡγίασται ἡ γυνὴ ἡ ἄπιστος ἐν τῷ ἀνδρί ἐπεὶ ἄρα τὰ τέκνα ὑμῶν ἀκάθαρτά ἐστιν νῦν δὲ ἅγιά ἐστιν",
+      "finnish_biblia": "Sillä uskotoin mies on vaimonsa kautta pyhitetty, ja uskotoin vaimo on pyhitetty miehensä kautta: Muutoin olisivat teidän lapsenne saastaiset, vaan nyt ne ovat pyhitetyt. ",
+      "swedish_karl_xii": "Ty then otrogne mannen är helgad genom hustruna; och then otrogna hustrun är helgad genom mannen: annars wordo edor barn oreen; men nu äro the helig.",
+      "king_james": "For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband: else were your children unclean; but now are they holy."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Quod si infidelis discedit, discedat: non enim servituti subjectus est frater, aut soror in hujusmodi: in pace autem vocavit nos Deus.",
+      "greek_textus_receptus": "εἰ δὲ ὁ ἄπιστος χωρίζεται χωριζέσθω οὐ δεδούλωται ὁ ἀδελφὸς ἢ ἡ ἀδελφὴ ἐν τοῖς τοιούτοις ἐν δὲ εἰρήνῃ κέκληκεν ἡμᾶς ὁ θεός",
+      "finnish_biblia": "Mutta jos uskotoin itsensä eroittaa, niin olkoot eroitetut. Eipä veli taikka sisar ole sidottu orjuuteen senmuotoisissa menoissa; mutta rauhassa on Jumala meitä kutsunut. ",
+      "swedish_karl_xii": "Om ock then otrogne wil skiljas, så lät honom skiljas. En broder eller syster är icke bunden til egendom i sådana fallom; vtan i frijd hafwer Gudh kallat oß.",
+      "king_james": "But if the unbelieving depart, let him depart. A brother or a sister is not under bondage in such *cases*: but God hath called us to peace."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Unde enim scis mulier, si virum salvum facies? aut unde scis vir, si mulierem salvam facies?",
+      "greek_textus_receptus": "τί γὰρ οἶδας γύναι εἰ τὸν ἄνδρα σώσεις ἢ τί οἶδας ἄνερ εἰ τὴν γυναῖκα σώσεις",
+      "finnish_biblia": "Sillä kuinkas tiedät, vaimo, jos sinä miehes taidat autuaaksi saattaa? Eli sinä mies, kuinkas tiedät, jos sinä taidat vaimos autuaaksi saattaa? ",
+      "swedish_karl_xii": "Ty huru wetst tu, qwinna, om tu kant giöra mannen salig? Eller huru wetst tu, man, om tu kant giöra hustruna saliga?",
+      "king_james": "For what knowest thou, O wife, whether thou shalt save *thy* husband? or how knowest thou, O man, whether thou shalt save *thy* wife?"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Nisi unicuique sicut divisit Dominus, unumquemque sicut vocavit Deus, ita ambulet, et sicut in omnibus ecclesiis doceo.",
+      "greek_textus_receptus": "εἰ μὴ ἑκάστῳ ὡς ἐμέρισεν ὁ θεός ἕκαστον ὡς κέκληκεν ὁ κύριος οὕτως περιπατείτω καὶ οὕτως ἐν ταῖς ἐκκλησίαις πάσαις διατάσσομαι",
+      "finnish_biblia": "Kuitenkin niinkuin Jumala kullekin on jakanut: jokainen niin vaeltakaan, kuin Herra on hänen kutsunut: ja niin minäkin kaikissa seurakunnissa säädän. ",
+      "swedish_karl_xii": "Doch såsom Gudh hafwer hwarjom och enom vthdelat. Hwar och en, såsom Herren honom kallat hafwer, så wandre han. Och så stadgar jagh i alla församlingar.",
+      "king_james": "But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Circumcisus aliquis vocatus est? non adducat præputium. In præputio aliquis vocatus est? non circumcidatur.",
+      "greek_textus_receptus": "περιτετμημένος τις ἐκλήθη μὴ ἐπισπάσθω ἐν ἀκροβυστίᾳ τις ἐκλήθη μὴ περιτεμνέσθω",
+      "finnish_biblia": "Jos joku ympärileikattu on kutsuttu, älkään se esinahkaa pyytäkö: jos joku on esinahasta kutsuttu, älkään se antako itsiänsä ympärileikata. ",
+      "swedish_karl_xii": "Är någor omskoren kallad, han begäre icke förhud: är någor kallad i förhuden, han läte icke omskära sigh.",
+      "king_james": "Is any man called being circumcised? let him not become uncircumcised. Is any called in uncircumcision? let him not be circumcised."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Circumcisio nihil est, et præputium nihil est: sed observatio mandatorum Dei.",
+      "greek_textus_receptus": "ἡ περιτομὴ οὐδέν ἐστιν καὶ ἡ ἀκροβυστία οὐδέν ἐστιν ἀλλὰ τήρησις ἐντολῶν θεοῦ",
+      "finnish_biblia": "Ympärileikkaus ei ole mitään, eikä esinahka mitään ole, vaan Jumalan käskyin pitämys. ",
+      "swedish_karl_xii": "Omskärelsen är intet, och förhuden är intet; vtan hålla Gudz budh.",
+      "king_james": "Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Unusquisque in qua vocatione vocatus est, in ea permaneat.",
+      "greek_textus_receptus": "ἕκαστος ἐν τῇ κλήσει ᾗ ἐκλήθη ἐν ταύτῃ μενέτω",
+      "finnish_biblia": "Jokainen pysyköön siinä kutsumisessa, johonka hän kutsuttu on. ",
+      "swedish_karl_xii": "Hwar och en blifwe vthi then kallelse i hwilka han kallad är.",
+      "king_james": "Let every man abide in the same calling wherein he was called."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Servus vocatus es? non sit tibi curæ: sed et si potes fieri liber, magis utere.",
+      "greek_textus_receptus": "δοῦλος ἐκλήθης μή σοι μελέτω ἀλλ᾽ εἰ καὶ δύνασαι ἐλεύθερος γενέσθαι μᾶλλον χρῆσαι",
+      "finnish_biblia": "Jos sinä olet orjaksi kutsuttu, älä sitä murehdi: kuitenkin jos sinä taidat vapaaksi tulla, niin nautitse sitä paremmin. ",
+      "swedish_karl_xii": "Äst tu kallad i träldom, haf ther ingen sorg om: doch kant tu frij warda, så bruka thet hällre:",
+      "king_james": "Art thou called *being* a servant? care not for it: but if thou mayest be made free, use *it* rather."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Qui enim in Domino vocatus est servus, libertus est Domini: similiter qui liber vocatus est, servus est Christi.",
+      "greek_textus_receptus": "ὁ γὰρ ἐν κυρίῳ κληθεὶς δοῦλος ἀπελεύθερος κυρίου ἐστίν ὁμοίως καί ὁ ἐλεύθερος κληθεὶς δοῦλός ἐστιν χριστοῦ",
+      "finnish_biblia": "Sillä joka orjaksi on Herrassa kutsuttu, se on Herran vapaa: niin myös joka vapaaksi on kutsuttu, hän on Kristuksen orja. ",
+      "swedish_karl_xii": "Ty then som i träldom kallad är i Herranom, han är Herrans frij: sammalunda ock then som kallad är i frihet, han är Christi egen worden.",
+      "king_james": "For he that is called in the Lord, *being* a servant, is the Lord's freeman: likewise also he that is called, *being* free, is Christ's servant."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Pretio empti estis: nolite fieri servi hominum.",
+      "greek_textus_receptus": "τιμῆς ἠγοράσθητε μὴ γίνεσθε δοῦλοι ἀνθρώπων",
+      "finnish_biblia": "Te olette kalliisti ostetut! älkäät ihmisten orjat olko! ",
+      "swedish_karl_xii": "J ären dyrt köpte; blifwer icke menniskiors trälar.",
+      "king_james": "Ye are bought with a price; be not ye the servants of men."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Unusquisque in quo vocatus est, fratres, in hoc permaneat apud Deum.",
+      "greek_textus_receptus": "ἕκαστος ἐν ᾧ ἐκλήθη ἀδελφοί ἐν τούτῳ μενέτω παρὰ τῷ θεῷ",
+      "finnish_biblia": "Itsekukin, rakkaat veljet, jossa hän kutsuttu on, olkaan siinä Jumalan tykönä. ",
+      "swedish_karl_xii": "Hwar och en, käre bröder, ther han vthi kallad är, ther blifwe han vthi när Gudi.",
+      "king_james": "Brethren, let every man, wherein he is called, therein abide with God."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "De virginibus autem præceptum Domini non habeo: consilium autem do, tamquam misericordiam consecutus a Domino, ut sim fidelis.",
+      "greek_textus_receptus": "περὶ δὲ τῶν παρθένων ἐπιταγὴν κυρίου οὐκ ἔχω γνώμην δὲ δίδωμι ὡς ἠλεημένος ὑπὸ κυρίου πιστὸς εἶναι",
+      "finnish_biblia": "Mutta neitseistä ei ole minulla Herran käskyä; kuitenkin sanon minä minun neuvoni niinkuin laupiuden saanut Herralta uskollisena ollakseni. ",
+      "swedish_karl_xii": "Men om jung frur hafwer jagh icke Herrans budh; vtan jagh säger mina mening, såsom then ther barmhertighet fått hafwer af Herranom, til at wara trogen.",
+      "king_james": "Now concerning virgins I have no commandment of the Lord: yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Existimo ergo hoc bonum esse propter instantem necessitatem, quoniam bonum est homini sic esse.",
+      "greek_textus_receptus": "νομίζω οὖν τοῦτο καλὸν ὑπάρχειν διὰ τὴν ἐνεστῶσαν ἀνάγκην ὅτι καλὸν ἀνθρώπῳ τὸ οὕτως εἶναι",
+      "finnish_biblia": "Minä luulen siis sen hyväksi, nykyisen tuskan tähden, että ihmisen on niin hyvä olla. ",
+      "swedish_karl_xii": "Så menar jagh nu sådant wara godt, för then nödh som förhanden är, at menniskione skal godt wara, så blifwa.",
+      "king_james": "I suppose therefore that this is good for the present distress, *I say*, that *it is* good for a man so to be."
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Alligatus es uxori? noli quærere solutionem. Solutus es ab uxore? noli quærere uxorem.",
+      "greek_textus_receptus": "δέδεσαι γυναικί μὴ ζήτει λύσιν λέλυσαι ἀπὸ γυναικός μὴ ζήτει γυναῖκα",
+      "finnish_biblia": "Jos sinä olet vaimoon sidottu, älä pyydä eroa; jos sinä olet vaimotoin, niin älä pyydä vaimoa. ",
+      "swedish_karl_xii": "Äst tu widh hustru bunden, begära icke skiljas widh henne: äst tu ock vthan hustru, så begära icke hustru.",
+      "king_james": "Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "Si autem acceperis uxorem, non peccasti. Et si nupserit virgo, non peccavit: tribulationem tamen carnis habebunt hujusmodi. Ego autem vobis parco.",
+      "greek_textus_receptus": "ἐὰν δὲ καὶ γήμῃς, οὐχ ἥμαρτες καὶ ἐὰν γήμῃ ἡ παρθένος οὐχ ἥμαρτεν θλῖψιν δὲ τῇ σαρκὶ ἕξουσιν οἱ τοιοῦτοι ἐγὼ δὲ ὑμῶν φείδομαι",
+      "finnish_biblia": "Mutta jos sinä myös olet nainut, et sinä syntiä tehnyt, ja jos neitsy huoli, ei hänkään syntiä tehnyt. Kuitenkin senkaltaiset saavat vaivan ruumiisensa. Mutta minä säästäisin mielelläni teitä. ",
+      "swedish_karl_xii": "Men gifter tu tigh, syndar tu intet: och om een jungfru gifter sigh, syndar hon intet: doch warda sådana lidande lekamlig bekymmer: men jagh skonade eder gierna.",
+      "king_james": "But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Hoc itaque dico, fratres: tempus breve est: reliquum est, ut et qui habent uxores, tamquam non habentes sint:",
+      "greek_textus_receptus": "τοῦτο δέ φημι ἀδελφοί ὁ καιρὸς συνεσταλμένος τὸ λοιπόν ἐστιν ἵνα καὶ οἱ ἔχοντες γυναῖκας ὡς μὴ ἔχοντες ὦσιν",
+      "finnish_biblia": "Mutta sen minä sanon, rakkaat veljet, aika on lyhetty. Mitä enempi? Joilla vaimot ovat, olkaan niinkuin ei heillä olisikaan, ",
+      "swedish_karl_xii": "Men thet säger jagh: Käre bröder, tiden är kort. Öfwer thetta: The som hustrur hafwa, ware såsom the inga hade:",
+      "king_james": "But this I say, brethren, the time *is* short: it remaineth, that both they that have wives be as though they had none;"
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "et qui flent, tamquam non flentes: et qui gaudent, tamquam non gaudentes: et qui emunt, tamquam non possidentes:",
+      "greek_textus_receptus": "καὶ οἱ κλαίοντες ὡς μὴ κλαίοντες καὶ οἱ χαίροντες ὡς μὴ χαίροντες καὶ οἱ ἀγοράζοντες ὡς μὴ κατέχοντες",
+      "finnish_biblia": "Ja jotka itkevät, niinkuin ei he itkisikään: ja jotka iloitsevat, niinkuin ei iloitsisikaan: ja jotka ostavat, niinkuin ei nautitsisikaan; ",
+      "swedish_karl_xii": "Och the som gråta, såsom the intet grete; och the som frögda sigh, såsom the frögdade sigh intet; och the som köpa, såsom the behöllo thet intet:",
+      "king_james": "And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not;"
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "et qui utuntur hoc mundo, tamquam non utantur: præterit enim figura hujus mundi.",
+      "greek_textus_receptus": "καὶ οἱ χρώμενοι τῳ κόσμῳ τούτῳ ὡς μὴ καταχρώμενοι παράγει γὰρ τὸ σχῆμα τοῦ κόσμου τούτου",
+      "finnish_biblia": "Ja jotka tätä maailmaa viljelevät, ettei he sitä väärin käyttäisi; sillä tämän maailman meno on menevä. ",
+      "swedish_karl_xii": "Och the som bruka thenna werldena, såsom the brukade icke: ty thenna werldenes wäsende förgås.",
+      "king_james": "And they that use this world, as not abusing *it*: for the fashion of this world passeth away."
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Volo autem vos sine sollicitudine esse. Qui sine uxore est, sollicitus est quæ Domini sunt, quomodo placeat Deo.",
+      "greek_textus_receptus": "θέλω δὲ ὑμᾶς ἀμερίμνους εἶναι ὁ ἄγαμος μεριμνᾷ τὰ τοῦ κυρίου πῶς ἀρέσει τῷ κυρίῳ",
+      "finnish_biblia": "Mutta minä tahtoisin, että te ilman murhetta olisitte: naimatoin tottelee niitä, jotka Herran ovat, kuinka hänen pitää Herralle kelpaaman. ",
+      "swedish_karl_xii": "Men jagh wille gierna, at J woren vthan omsorg. Then ther ogift är, han achtar thet Herranom tilhörer, huru han skal täckias Herranom.",
+      "king_james": "But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord:"
+    },
+    {
+      "verse": 33,
+      "latin_vulgate": "Qui autem cum uxore est, sollicitus est quæ sunt mundi, quomodo placeat uxori, et divisus est.",
+      "greek_textus_receptus": "ὁ δὲ γαμήσας μεριμνᾷ τὰ τοῦ κόσμου πῶς ἀρέσει τῇ γυναικί",
+      "finnish_biblia": "Mutta joka nai, hän suree maailmallisista, kuinka hän emännällensä kelpais. ",
+      "swedish_karl_xii": "Men then som gifter sigh, han achtar hwad werldene tilhörer, at han skal behaga hustrune.",
+      "king_james": "But he that is married careth for the things that are of the world, how he may please *his* wife."
+    },
+    {
+      "verse": 34,
+      "latin_vulgate": "Et mulier innupta, et virgo, cogitat quæ Domini sunt, ut sit sancta corpore, et spiritu. Quæ autem nupta est, cogitat quæ sunt mundi, quomodo placeat viro.",
+      "greek_textus_receptus": "μεμέρισται ἡ γυνὴ καὶ ἡ παρθένος ἡ ἄγαμος μεριμνᾷ τὰ τοῦ κυρίου ἵνα ᾖ ἁγία καὶ σώματι καὶ πνεύματι ἡ δὲ γαμήσασα μεριμνᾷ τὰ τοῦ κόσμου πῶς ἀρέσει τῷ ἀνδρί",
+      "finnish_biblia": "Nämät ovat eroitetut, vaimo ja neitsy, joka ei naitu ole, se murehtii niitä, jotka Herran ovat, että hän pyhä olis sekä ruumiilla että hengellä; mutta se, joka naitu on, murehtii maailmallisista, kuinka hänen pitää miehellensä kelpaaman. ",
+      "swedish_karl_xii": "Och thet skil på een qwinna, och een jungfru: then som ogift är, hon achtar thet Herranom tilhörer, at hon skal blifwa helig både til krop och til anda: men then som gifter sigh, hon achtar thet werldene tilhörer, huru hon skal behaga mannenom.",
+      "king_james": "There is difference *also* between a wife and a virgin. The unmarried woman careth for the things of the Lord, that she may be holy both in body and in spirit: but she that is married careth for the things of the world, how she may please *her* husband."
+    },
+    {
+      "verse": 35,
+      "latin_vulgate": "Porro hoc ad utilitatem vestram dico: non ut laqueum vobis injiciam, sed ad id, quod honestum est, et quod facultatem præbeat sine impedimento Dominum obsecrandi.",
+      "greek_textus_receptus": "τοῦτο δὲ πρὸς τὸ ὑμῶν αὐτῶν συμφέρον λέγω οὐχ ἵνα βρόχον ὑμῖν ἐπιβάλω ἀλλὰ πρὸς τὸ εὔσχημον καὶ εὐπρόσεδρον τῷ κυρίῳ ἀπερισπάστως",
+      "finnish_biblia": "Mutta senkaltaista sanon minä teidän tarpeeksenne: ei, että minä paulan teidän päällenne heittäisin, vaan että te soveliaasti ja hyvin Herrassa riippuisitte, ilman eroittamatta. ",
+      "swedish_karl_xii": "Men thetta säger jagh til thet som eder kan gagneligit wara; och icke at jagh wil kasta band på eder: vtan på thet J skolen efterfölja thet ährligit är, och blifwa widh Herran, vthan alt hinder.",
+      "king_james": "And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction."
+    },
+    {
+      "verse": 36,
+      "latin_vulgate": "Si quis autem turpem se videri existimat super virgine sua, quod sit superadulta, et ita oportet fieri: quod vult faciat: non peccat, si nubat.",
+      "greek_textus_receptus": "εἰ δέ τις ἀσχημονεῖν ἐπὶ τὴν παρθένον αὐτοῦ νομίζει ἐὰν ᾖ ὑπέρακμος καὶ οὕτως ὀφείλει γίνεσθαι ὃ θέλει ποιείτω οὐχ ἁμαρτάνει γαμείτωσαν",
+      "finnish_biblia": "Mutta jos joku luulee, ettei se sovi hänen neitseellensä, sittekuin hän jo naitavissa on, eikä saa toisin olla, niin tehkään, mitä hän tahtoo, ei hän syntiä tee; sallikaan hänen huolla. ",
+      "swedish_karl_xii": "Men om någor låter sigh tyckia, at thet icke wäl skickar sigh medh hans jungfru, sedan hon wäl manwäxt är, och thet wil icke annars wara, så giöre som han wil, han syndar intet; han läte henne gifta sigh.",
+      "king_james": "But if any man think that he behaveth himself uncomely toward his virgin, if she pass the flower of *her* age, and need so require, let him do what he will, he sinneth not: let them marry."
+    },
+    {
+      "verse": 37,
+      "latin_vulgate": "Nam qui statuit in corde suo firmus, non habens necessitatem, potestatem autem habens suæ voluntatis, et hoc judicavit in corde suo, servare virginem suam, bene facit.",
+      "greek_textus_receptus": "ὃς δὲ ἕστηκεν ἑδραῖος ἐν τῇ καρδίᾳ μὴ ἔχων ἀνάγκην ἐξουσίαν δὲ ἔχει περὶ τοῦ ἰδίου θελήματος καὶ τοῦτο κέκρικεν ἐν τῇ καρδίᾳ αὐτοῦ τοῦ τηρεῖν τὴν ἑαυτοῦ παρθένον καλῶς ποιεῖ",
+      "finnish_biblia": "Mutta joka seisoo vahvana sydämessänsä ja ei ole vaadittu, vaan hänellä on oma ehtonsa ja päättää sen sydämessänsä, että hän tahtoo neitseensä pitää, se tekee hyvin. ",
+      "swedish_karl_xii": "Men om en sätter sigh fast före, efter han onödd är, och hafwer sin frij wilja, och besluter thetta i sitt hierta, at låta sina jungfru så blifwa, han giör wäl.",
+      "king_james": "Nevertheless he that standeth stedfast in his heart, having no necessity, but hath power over his own will, and hath so decreed in his heart that he will keep his virgin, doeth well."
+    },
+    {
+      "verse": 38,
+      "latin_vulgate": "Igitur et qui matrimonio jungit virginem suam, bene facit: et qui non jungit, melius facit.",
+      "greek_textus_receptus": "ὥστε καὶ ὁ ἐκγαμίζων καλῶς ποιεῖ ὁ δὲ μὴ ἑκγαμίζων κρεῖσσον ποιεῖ",
+      "finnish_biblia": "Sentähden joka naittaa, se tekee hyvin; mutta joka ei naita, hän tekee paremmin. ",
+      "swedish_karl_xii": "Then nu vthgifter henne, han giör wäl: men then icke vthgifter henne, han giör bätter.",
+      "king_james": "So then he that giveth *her* in marriage doeth well; but he that giveth *her* not in marriage doeth better."
+    },
+    {
+      "verse": 39,
+      "latin_vulgate": "Mulier alligata est legi quanto tempore vir ejus vivit, quod si dormierit vir ejus, liberata est: cui vult nubat, tantum in Domino.",
+      "greek_textus_receptus": "γυνὴ δέδεται νόμῳ ἐφ᾽ ὅσον χρόνον ζῇ ὁ ἀνὴρ αὐτῆς ἐὰν δὲ κοιμηθῇ ὁ ἀνήρ αὐτῆς ἐλευθέρα ἐστὶν ᾧ θέλει γαμηθῆναι μόνον ἐν κυρίῳ",
+      "finnish_biblia": "Vaimo on sidottu lakiin, niinkauvan kuin hänen miehensä elää; vaan kuin hänen miehensä kuollut on, niin hän on vapaa toiselle huolemaan, kelle hän tahtoo; ainoasti että se Herrassa tapahtuu. ",
+      "swedish_karl_xii": "Hustrun är bunden til lagen, så länge hennes man lefwer: men när hennes man är afsomnad, är hon frij at gifwa sigh enom androm, hwem hon wil; doch at thet skeer i Herranom.",
+      "king_james": "The wife is bound by the law as long as her husband liveth; but if her husband be dead, she is at liberty to be married to whom she will; only in the Lord."
+    },
+    {
+      "verse": 40,
+      "latin_vulgate": "Beatior autem erit si sic permanserit secundum meum consilium: puto autem quod et ego Spiritum Dei habeam.",
+      "greek_textus_receptus": "μακαριωτέρα δέ ἐστιν ἐὰν οὕτως μείνῃ κατὰ τὴν ἐμὴν γνώμην δοκῶ δὲ κἀγὼ πνεῦμα θεοῦ ἔχειν",
+      "finnish_biblia": "Vaan hän on autuaampi, minun luullakseni, jos hän sillänsä pysyy; sillä minä luulen, että minullakin on Jumalan Henki.   ",
+      "swedish_karl_xii": "Men saligare är hon, om hon så blifwer, efter mitt sinne: jagh menar, at jagh ock hafwer Gudz Anda.",
+      "king_james": "But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God."
+    }
+  ]
+}

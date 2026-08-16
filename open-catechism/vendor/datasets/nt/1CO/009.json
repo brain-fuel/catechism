@@ -1,0 +1,227 @@
+{
+  "book_id": "1CO",
+  "latin_name": "Epistula I ad Corinthios",
+  "greek_name": "Πρὸς Κορινθίους Α",
+  "finnish_name": "Ensimmäinen kirje korinttilaisille",
+  "swedish_name": "S. Pauli Epistel then förra Til the Corinther",
+  "english_name": "The First Epistle of Paul the Apostle to the Corinthians",
+  "chapter": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Non sum liber? non sum Apostolus? nonne Christum Jesum Dominum nostrum vidi? nonne opus meum vos estis in Domino?",
+      "greek_textus_receptus": "οὐκ εἰμὶ ἀπόστολος οὐκ εἰμὶ ἐλεύθερος οὐχὶ ἰησοῦν χριστὸν τὸν κύριον ἡμῶν ἑώρακα οὐ τὸ ἔργον μου ὑμεῖς ἐστε ἐν κυρίῳ",
+      "finnish_biblia": "Enkö minä ole apostoli? Enkö minä vapaa ole? Enkö minä meidän Herraa Jesusta Kristusta nähnyt? Ettekö te ole minun työni Herrassa? ",
+      "swedish_karl_xii": "Är jagh icke en Apostel? Är jagh icke frij? Hafwer jagh icke sedt wår Herra Jesum Christum? Ären icke J mitt werck i Herranom?",
+      "king_james": "Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et si aliis non sum Apostolus, sed tamen vobis sum: nam signaculum apostolatus mei vos estis in Domino.",
+      "greek_textus_receptus": "εἰ ἄλλοις οὐκ εἰμὶ ἀπόστολος ἀλλά γε ὑμῖν εἰμι ἡ γὰρ σφραγὶς τῆς ἐμῆς ἀποστολῆς ὑμεῖς ἐστε ἐν κυρίῳ",
+      "finnish_biblia": "Ellen minä ole muille apostoli, niin minä tosin teille olen; sillä te olette minun apostolivirkani sinetti Herrassa. ",
+      "swedish_karl_xii": "Är jagh icke androm en Apostel, så är jagh åth minsto edar Apostel: ty insiglet til mitt Apostlaämbete ären J, vthi Herranom.",
+      "king_james": "If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Mea defensio apud eos qui me interrogant, hæc est:",
+      "greek_textus_receptus": "ἡ ἐμὴ ἀπολογία τοῖς ἐμὲ ἀνακρίνουσιν αὕτη ἐστίν",
+      "finnish_biblia": "Niille, jotka minulta kysyvät, on tämä minun edesvastaukseni: ",
+      "swedish_karl_xii": "Them som migh fråga, är thetta mitt swar.",
+      "king_james": "Mine answer to them that do examine me is this,"
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Numquid non habemus potestatem manducandi et bibendi?",
+      "greek_textus_receptus": "μὴ οὐκ ἔχομεν ἐξουσίαν φαγεῖν καὶ πιεῖν",
+      "finnish_biblia": "Eikö meillä ole valta syödä ja juoda? ",
+      "swedish_karl_xii": "Hafwe wij icke macht til at äta, och dricka?",
+      "king_james": "Have we not power to eat and to drink?"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "numquid non habemus potestatem mulierem sororem circumducendi sicut et ceteri Apostoli, et fratres Domini, et Cephas?",
+      "greek_textus_receptus": "μὴ οὐκ ἔχομεν ἐξουσίαν ἀδελφὴν γυναῖκα περιάγειν ὡς καὶ οἱ λοιποὶ ἀπόστολοι καὶ οἱ ἀδελφοὶ τοῦ κυρίου καὶ κηφᾶς",
+      "finnish_biblia": "Eikö meillä ole valta sisarta vaimona kanssamme ympäri viedä, niinkuin muillakin apostoleilla, ja Herran veljillä, ja Kephaalla? ",
+      "swedish_karl_xii": "Hafwe wij icke macht at omföra medh oß een hustru som een syster är, såsom the andre Apostlar och Herrans bröder, och Cephas?",
+      "king_james": "Have we not power to lead about a sister, a wife, as well as other apostles, and *as* the brethren of the Lord, and Cephas?"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "aut ego solus, et Barnabas, non habemus potestatem hoc operandi?",
+      "greek_textus_receptus": "ἢ μόνος ἐγὼ καὶ βαρναβᾶς οὐκ ἔχομεν ἐξουσίαν τοῦ μὴ ἐργάζεσθαι",
+      "finnish_biblia": "Eli minullako yksin ja Barnabaalla ei ole valtaa olla työtä tekemättä? ",
+      "swedish_karl_xii": "Eller hafwer jagh och Barnabas allena icke macht sammaledes giöra?",
+      "king_james": "Or I only and Barnabas, have not we power to forbear working?"
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Quis militat suis stipendiis umquam? quis plantat vineam, et de fructu ejus non edit? quis pascit gregem, et de lacte gregis non manducat?",
+      "greek_textus_receptus": "τίς στρατεύεται ἰδίοις ὀψωνίοις ποτέ τίς φυτεύει ἀμπελῶνα καὶ ἐκ τοῦ καρποῦ αὐτοῦ οὐκ ἐσθίει ἢ τίς ποιμαίνει ποίμνην καὶ ἐκ τοῦ γάλακτος τῆς ποίμνης οὐκ ἐσθίει",
+      "finnish_biblia": "Kuka sotii koskaan omalla kulutuksellansa? Kuka istuttaa viinatarhan ja ei syö sen hedelmästä? Eli kuka karjaa kaitsee ja ei syö karjan rieskasta? ",
+      "swedish_karl_xii": "Ho tienar til krijg på sin egen sold någon tijd? Ho planterar en wijngård, och icke åter af hans frucht? Eller ho wachtar en hiord, och äter icke af hiordsens miölk?",
+      "king_james": "Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?"
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Numquid secundum hominem hæc dico? an et lex hæc non dicit?",
+      "greek_textus_receptus": "μὴ κατὰ ἄνθρωπον ταῦτα λαλῶ ἢ οὐχὶ καὶ ὁ νόμος ταῦτα λέγει",
+      "finnish_biblia": "Puhunenko minä näitä ihmisten tavalla? Eikö myös laki sitä sano? ",
+      "swedish_karl_xii": "Mån jagh tala sådant efter menniskio sätt? Säger ock icke lagen thet samma?",
+      "king_james": "Say I these things as a man? or saith not the law the same also?"
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Scriptum est enim in lege Moysi: Non alligabis os bovi trituranti. Numquid de bobus cura est Deo?",
+      "greek_textus_receptus": "ἐν γὰρ τῷ Μωσέως νόμῳ γέγραπται οὐ φιμώσεις βοῦν ἀλοῶντα μὴ τῶν βοῶν μέλει τῷ θεῷ",
+      "finnish_biblia": "Sillä Moseksen laissa on kirjoitettu: Ei sinun pidä sitoman kiinni riihtä tappavan härjän suuta. Sureneeko Jumala härkiä? ",
+      "swedish_karl_xii": "Ty vthi Mose lagh är skrifwit: Tu skalt icke binda munnen til på oxan som tröskar . Mån Gudi wara omsorg om oxar?",
+      "king_james": "For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "an propter nos utique hoc dicit? Nam propter nos scripta sunt: quoniam debet in spe qui arat, arare: et qui triturat, in spe fructus percipiendi.",
+      "greek_textus_receptus": "ἢ δι᾽ ἡμᾶς πάντως λέγει δι᾽ ἡμᾶς γὰρ ἐγράφη ὅτι ἐπ᾽ ἐλπίδι ὀφείλει ὁ ἀροτριῶν ἀροτριᾶν καὶ ὁ ἀλοῶν τῆς ἐλπίδος αὐτοῦ μετέχειν ἐπ᾽ ἐλπίδι",
+      "finnish_biblia": "Taikka, eikö hän sitä kaiketi meidän tähtemme sano? sillä meidän tähtemme on se kirjoitettu: että se joka kyntää, hänen pitää toivossa kyntämän, ja joka riihtä tappaa, hänen pitää toivossa riihtä tappaman, että hän toivostansa osalliseksi tulis. ",
+      "swedish_karl_xii": "Säger han icke thet alt för wåra skul? Ty för wåra skul är thet skrifwit: At then som plöijer, han skal plöija på een förhoppning; och then som tröskar, han skal tröska på een förhoppning, at han må af sitt hopp deelachtig warda.",
+      "king_james": "Or saith he *it* altogether for our sakes? For our sakes, no doubt, *this* is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Si nos vobis spiritualia seminavimus, magnum est si nos carnalia vestra metamus?",
+      "greek_textus_receptus": "εἰ ἡμεῖς ὑμῖν τὰ πνευματικὰ ἐσπείραμεν μέγα εἰ ἡμεῖς ὑμῶν τὰ σαρκικὰ θερίσομεν",
+      "finnish_biblia": "Jos me olemme teille hengellisiä kylväneet; paljoko se on, jos me teidän ruumiillisianne niitämme? ",
+      "swedish_karl_xii": "Hafwe wij nu sådt eder thet andeligit är: synes eder thet mycket wara, at wij vpskäre edor lekamliga ting?",
+      "king_james": "If we have sown unto you spiritual things, *is it* a great thing if we shall reap your carnal things?"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Si alii potestatis vestræ participes sunt, quare non potius nos? Sed non usi sumus hac potestate: sed omnia sustinemus, ne quod offendiculum demus Evangelio Christi.",
+      "greek_textus_receptus": "εἰ ἄλλοι τῆς ἐξουσίας ὑμῶν μετέχουσιν οὐ μᾶλλον ἡμεῖς ἀλλ οὐκ ἐχρησάμεθα τῇ ἐξουσίᾳ ταύτῃ ἀλλὰ πάντα στέγομεν ἵνα μὴ ἐγκοπήν τινα δῶμεν τῷ εὐαγγελίῳ τοῦ χριστοῦ",
+      "finnish_biblia": "Jos muut ovat tässä vallassa osalliset teidän tykönänne, miksi emme siis paljoa enemmin? mutta emmepä me ole sitä valtaa pitäneet, vaan me kärsimme kaikkinaisia, ettemme Kristuksen evankeliumille mitään estettä tekisi. ",
+      "swedish_karl_xii": "Äro andre wordne deelachtige i thenna machten när eder; hwij icke mycket meer wij? Men wij hafwe sådana macht icke brukat; vtan wij lidom allahanda, at wij icke något hinder giöra skole Christi Evangelio.",
+      "king_james": "If others be partakers of *this* power over you, *are* not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Nescitis quoniam qui in sacrario operantur quæ de sacrario sunt, edunt: et qui altari deserviunt, cum altari participant?",
+      "greek_textus_receptus": "οὐκ οἴδατε ὅτι οἱ τὰ ἱερὰ ἐργαζόμενοι ἐκ τοῦ ἱεροῦ ἐσθίουσιν οἱ τῷ θυσιαστηρίῳ προσεδρεύοντες τῷ θυσιαστηρίῳ συμμερίζονται",
+      "finnish_biblia": "Ettekö te tiedä, että ne, jotka uhraavat, ne syövät uhrista, ja ne, jotka alttaria valmistavat, ne alttarista osalliseksi tulevat? ",
+      "swedish_karl_xii": "Weten J icke, at the som offra, the hafwa sina näring af offret? Och the som skiöta altaret, the warda ock altaret åthniutande?",
+      "king_james": "Do ye not know that they which minister about holy things live *of the things* of the temple? and they which wait at the altar are partakers with the altar?"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Ita et Dominus ordinavit iis qui Evangelium annuntiant, de Evangelio vivere.",
+      "greek_textus_receptus": "οὕτως καὶ ὁ κύριος διέταξεν τοῖς τὸ εὐαγγέλιον καταγγέλλουσιν ἐκ τοῦ εὐαγγελίου ζῆν",
+      "finnish_biblia": "Niin on myös Herra säätänyt, että ne, jotka evankeliumia ilmoittavat, pitää evankeliumista elatuksensa saaman. ",
+      "swedish_karl_xii": "Så hafwer ock Herren skickat, at the som förkunna Evangelium, skola ock hafwa sina näring af Evangelio.",
+      "king_james": "Even so hath the Lord ordained that they which preach the gospel should live of the gospel."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Ego autem nullo horum usus sum. Non autem scripsi hæc ut ita fiant in me: bonum est enim mihi magis mori, quam ut gloriam meam quis evacuet.",
+      "greek_textus_receptus": "ἐγὼ δὲ οὐδενὶ ἐχρησάμην τούτων οὐκ ἔγραψα δὲ ταῦτα ἵνα οὕτως γένηται ἐν ἐμοί καλὸν γάρ μοι μᾶλλον ἀποθανεῖν ἤ τὸ καύχημά μου ἵνα τις κενώσῃ",
+      "finnish_biblia": "Mutta en minä ole kuitenkaan mitään näistä tehnyt. Vaan en minä sentähden sitä kirjoita, että niin pitäis minun kanssani tapahtuman. Parempi olis minun kuolla kuin että joku minun kerskaamiseni tyhjäksi tekis. ",
+      "swedish_karl_xii": "Men jagh hafwer thes intet brukat: jagh skrifwer ock icke förthenskul ther om, at så skee skal medh migh: jagh wore hällre död, än at någor skulle min berömelse om intet giöra.",
+      "king_james": "But I have used none of these things: neither have I written these things, that it should be so done unto me: for *it were* better for me to die, than that any man should make my glorying void."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Nam si evangelizavero, non est mihi gloria: necessitas enim mihi incumbit: væ enim mihi est, si non evangelizavero.",
+      "greek_textus_receptus": "ἐὰν γὰρ εὐαγγελίζωμαι οὐκ ἔστιν μοι καύχημα ἀνάγκη γάρ μοι ἐπίκειται οὐαὶ δέ μοι ἐστὶν ἐὰν μὴ εὐαγγελίζωμαι,",
+      "finnish_biblia": "Mutta että minä evankeliumia saarnaan, niin ei minun tarvitse siitä öykätä; sillä minun tulee se tehdä. Voi minua, ellen minä evankeliumia ilmoita! ",
+      "swedish_karl_xii": "Ty at jagh förkunnar Evangelium, thes torf jagh icke beröma migh: ty jagh måste thet giöra; och wee migh om jagh Evangelium icke förkunnar.",
+      "king_james": "For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!"
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Si enim volens hoc ago, mercedem habeo: si autem invitus, dispensatio mihi credita est.",
+      "greek_textus_receptus": "εἰ γὰρ ἑκὼν τοῦτο πράσσω μισθὸν ἔχω εἰ δὲ ἄκων οἰκονομίαν πεπίστευμαι",
+      "finnish_biblia": "Sillä jos minä sen mielelläni teen, niin minulla on palkka; mutta jos minä ylönmielin sen teen, niin on se virka kuitenkin minulle uskottu. ",
+      "swedish_karl_xii": "Giör jagh thet gierna, så warder migh lönt: men giör jagh thet nödigt, så är migh doch thet ämbetet befalt.",
+      "king_james": "For if I do this thing willingly, I have a reward: but if against my will, a dispensation *of the gospel* is committed unto me."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Quæ est ergo merces mea? ut Evangelium prædicans, sine sumptu ponam Evangelium, ut non abutar potestate mea in Evangelio.",
+      "greek_textus_receptus": "τίς οὖν μοί ἐστιν ὁ μισθός ἵνα εὐαγγελιζόμενος ἀδάπανον θήσω τὸ εὐαγγέλιον τοῦ χριστοῦ, εἰς τὸ μὴ καταχρήσασθαι τῇ ἐξουσίᾳ μου ἐν τῷ εὐαγγελίῳ",
+      "finnish_biblia": "Mitäs siis minun palkkani on? että minä Kristuksen evankeliumia saarnaan, ja teen sen ilman vapauttani evankeliumissa. ",
+      "swedish_karl_xii": "Hwad är tå nu min löön? Nemliga, at jagh predikar Christi Evangelium, och giör thet frij omsyß; på thet jagh icke skal mißbruka mina macht som jagh hafwer vthi Evangelio.",
+      "king_james": "What is my reward then? *Verily* that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Nam cum liber essem ex omnibus, omnium me servum feci, ut plures lucrifacerem.",
+      "greek_textus_receptus": "ἐλεύθερος γὰρ ὢν ἐκ πάντων πᾶσιν ἐμαυτὸν ἐδούλωσα ἵνα τοὺς πλείονας κερδήσω",
+      "finnish_biblia": "Sillä ehkä minä olen vapaa jokaisesta, niin minä olen kuitenkin minuni tehnyt jokaisen palveliaksi, että minä sitä usiammat voittaisin. ",
+      "swedish_karl_xii": "Therföre, ändoch jagh är frij för hwar man, hafwer jagh likwäl giordt migh til hwars mans tienare; på thet jagh må winna thes flera.",
+      "king_james": "For though I be free from all *men*, yet have I made myself servant unto all, that I might gain the more."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Et factus sum Judæis tamquam Judæus, ut Judæos lucrarer: iis qui sub lege sunt, quasi sub lege essem (cum ipse non essem sub lege) ut eos qui sub lege erant, lucrifacerem:",
+      "greek_textus_receptus": "καὶ ἐγενόμην τοῖς ἰουδαίοις ὡς ἰουδαῖος ἵνα ἰουδαίους κερδήσω τοῖς ὑπὸ νόμον ὡς ὑπὸ νόμον ἵνα τοὺς ὑπὸ νόμον κερδήσω",
+      "finnish_biblia": "Ja olen Juudalaisille tehty niinkuin Juudalainen, että minä Juudalaiset voittaisin; niille jotka lain alla ovat, niinkuin lain alainen, että minä ne, jotka lain alla ovat, voittaisin; ",
+      "swedish_karl_xii": "Judomen är jagh worden såsom en Jude; på thet jagh skal winna Judarna: them som vnder lagen äro, är jagh worden lika som jagh vnder lagen wore; på thet jagh skal winna them som vnder lagen äro.",
+      "king_james": "And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "iis qui sine lege erant, tamquam sine lege essem (cum sine lege Dei non essem: sed in lege essem Christi) ut lucrifacerem eos qui sine lege erant.",
+      "greek_textus_receptus": "τοῖς ἀνόμοις ὡς ἄνομος μὴ ὢν ἄνομος θεῷ ἀλλ᾽ ἔννομος χριστῷ ἵνα κερδήσω ἀνόμους",
+      "finnish_biblia": "Niille jotka ilman lakia ovat, niinkuin minä ilman lakia olisin, (vaikka en minä ilman lakia Jumalan edessä ole, vaan olen Kristuksen laissa,) että minä ne, jotka ilman lakia ovat, voittaisin; ",
+      "swedish_karl_xii": "Them som vthan lagh äro, är jagh worden lika som jagh vthan lagh wore: ändoch jagh icke är vthan Gudz lagh, vtan är i Christi lagh; på thet jagh them winna må, som vthan lagh äro.",
+      "king_james": "To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Factus sum infirmis infirmus, ut infirmos lucrifacerem. Omnibus omnia factus sum, ut omnes facerem salvos.",
+      "greek_textus_receptus": "ἐγενόμην τοῖς ἀσθενέσιν ὡς ἀσθενής ἵνα τοὺς ἀσθενεῖς κερδήσω τοῖς πᾶσιν γέγονα τὰ πάντα ἵνα πάντως τινὰς σώσω",
+      "finnish_biblia": "Heikoille olen minä tehty niinkuin heikko, että minä heikot voittaisin. Minä olen kaikille tehty kaikiksi, että minä kaiketi muutamat autuaaksi saattaisin. ",
+      "swedish_karl_xii": "Them swagom är jagh swag worden, på thet jagh winna må the swaga: jagh är hwarjom manne worden allahanda, på thet jagh skal ju några saliga giöra.",
+      "king_james": "To the weak became I as weak, that I might gain the weak: I am made all things to all *men*, that I might by all means save some."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Omnia autem facio propter Evangelium: ut particeps ejus efficiar.",
+      "greek_textus_receptus": "τοῦτο δὲ ποιῶ διὰ τὸ εὐαγγέλιον ἵνα συγκοινωνὸς αὐτοῦ γένωμαι",
+      "finnish_biblia": "Mutta sen minä teen evankeliumin tähden, että minä siitä osalliseksi tulisin. ",
+      "swedish_karl_xii": "Men sådant giör jagh för Evangelij skul, på thet jagh skal warda thes deelachtig.",
+      "king_james": "And this I do for the gospel's sake, that I might be partaker thereof with *you*."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Nescitis quod ii qui in stadio currunt, omnes quidem currunt, sed unus accipit bravium? Sic currite ut comprehendatis.",
+      "greek_textus_receptus": "οὐκ οἴδατε ὅτι οἱ ἐν σταδίῳ τρέχοντες πάντες μὲν τρέχουσιν εἷς δὲ λαμβάνει τὸ βραβεῖον οὕτως τρέχετε ἵνα καταλάβητε",
+      "finnish_biblia": "Ettekö te tiedä, että ne, jotka kiistassa juoksevat, kaikki tosin he juoksevat, vaan yksi palkan ennättää? Juoskaat siis niin, että te käsittäisitte. ",
+      "swedish_karl_xii": "Weten icke J, at the som löpa på wädjobanen, alle löpa the; men en får lönen? Löper så, at J fån thet.",
+      "king_james": "Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Omnis autem qui in agone contendit, ab omnibus se abstinet, et illi quidem ut corruptibilem coronam accipiant: nos autem incorruptam.",
+      "greek_textus_receptus": "πᾶς δὲ ὁ ἀγωνιζόμενος πάντα ἐγκρατεύεται ἐκεῖνοι μὲν οὖν ἵνα φθαρτὸν στέφανον λάβωσιν ἡμεῖς δὲ ἄφθαρτον",
+      "finnish_biblia": "Mutta jokainen joka kilvoittelee, kaikista hän itsensä pitää pois. Ne tosin sitä varten, että he katoovaisen kruunun saisivat; mutta me katoomattoman. ",
+      "swedish_karl_xii": "Ty hwar och en som kämpar, han hafwer återhåll i all ting: the ther vppå, at the skola få een förgängelig crono; men wij een oförgängelig.",
+      "king_james": "And every man that striveth for the mastery is temperate in all things. Now they *do it* to obtain a corruptible crown; but we an incorruptible."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Ego igitur sic curro, non quasi in incertum: sic pugno, non quasi aërem verberans:",
+      "greek_textus_receptus": "ἐγὼ τοίνυν οὕτως τρέχω ὡς οὐκ ἀδήλως οὕτως πυκτεύω ὡς οὐκ ἀέρα δέρων",
+      "finnish_biblia": "Mutta en minä niin juokse kuin tietämättömän puoleen, ja minä kilvoittelen, ei niinkuin tuulta pieksäin. ",
+      "swedish_karl_xii": "Men jagh löper icke såsom til något owist; så kämpar jagh icke, såsom then som hugger i wädret:",
+      "king_james": "I therefore so run, not as uncertainly; so fight I, not as one that beateth the air:"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "sed castigo corpus meum, et in servitutem redigo: ne forte cum aliis prædicaverim, ipse reprobus efficiar.",
+      "greek_textus_receptus": "ἀλλ᾽ ὑπωπιάζω μου τὸ σῶμα καὶ δουλαγωγῶ μήπως, ἄλλοις κηρύξας αὐτὸς ἀδόκιμος γένωμαι",
+      "finnish_biblia": "Vaan minä kuritan ruumistani ja painan sitä alas, etten minä, joka muille saarnaan, itse hyljättäväksi tulisi.   ",
+      "swedish_karl_xii": "Vtan jagh späker min lekamen, och vnderkufwar honom; på thet jagh icke predikar androm, och warder sielfwer straffelig.",
+      "king_james": "But I keep under my body, and bring *it* into subjection: lest that by any means, when I have preached to others, I myself should be a castaway."
+    }
+  ]
+}

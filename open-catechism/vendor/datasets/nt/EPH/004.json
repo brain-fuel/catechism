@@ -1,0 +1,267 @@
+{
+  "book_id": "EPH",
+  "latin_name": "Epistula ad Ephesios",
+  "greek_name": "Πρὸς Ἐφεσίους",
+  "finnish_name": "Kirje efesolaisille",
+  "swedish_name": "S. Pauli Epistel Til the Epheser",
+  "english_name": "The Epistle of Paul the Apostle to the Ephesians",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Obsecro itaque vos ego vinctus in Domino, ut digne ambuletis vocatione, qua vocati estis,",
+      "greek_textus_receptus": "παρακαλῶ οὖν ὑμᾶς ἐγὼ ὁ δέσμιος ἐν κυρίῳ ἀξίως περιπατῆσαι τῆς κλήσεως ἡς ἐκλήθητε",
+      "finnish_biblia": "Niin minä vangittu Herrassa neuvon teitä, että te siinä kutsumisessa, johon te kutsutut olette, niin vaeltaisitte kuin sopii, ",
+      "swedish_karl_xii": "Så förmanar jagh nu eder, jagh fången i Herranom, at J wandren såsom tilbörligit är, i then kallelse ther J vthi kallade ären;",
+      "king_james": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,"
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "cum omni humilitate, et mansuetudine, cum patientia, supportantes invicem in caritate,",
+      "greek_textus_receptus": "μετὰ πάσης ταπεινοφροσύνης καὶ πρᾳότητος μετὰ μακροθυμίας ἀνεχόμενοι ἀλλήλων ἐν ἀγάπῃ",
+      "finnish_biblia": "Kaikella nöyryydellä, siveydellä ja pitkämielisyydellä, ja kärsikäät toinen toistanne rakkaudessa. ",
+      "swedish_karl_xii": "Medh alla ödmiukhet, och sachtmodighet: medh tolamod, vndragandes then ene them andra i kärlekenom:",
+      "king_james": "With all lowliness and meekness, with longsuffering, forbearing one another in love;"
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "solliciti servare unitatem Spiritus in vinculo pacis.",
+      "greek_textus_receptus": "σπουδάζοντες τηρεῖν τὴν ἑνότητα τοῦ πνεύματος ἐν τῷ συνδέσμῳ τῆς εἰρήνης",
+      "finnish_biblia": "Ahkeroitkaat myös pitämään hengen yhteyttä rauhan siteen kautta: ",
+      "swedish_karl_xii": "Winläggiandes eder at hålla Andans eenhet, genom fridsens band.",
+      "king_james": "Endeavouring to keep the unity of the Spirit in the bond of peace."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Unum corpus, et unus Spiritus, sicut vocati estis in una spe vocationis vestræ.",
+      "greek_textus_receptus": "ἓν σῶμα καὶ ἓν πνεῦμα καθὼς καὶ ἐκλήθητε ἐν μιᾷ ἐλπίδι τῆς κλήσεως ὑμῶν",
+      "finnish_biblia": "Yksi ruumis ja yksi henki, niinkuin tekin olette teidän kutsumisessanne yhdenkaltaiseen toivoon kutsutut, ",
+      "swedish_karl_xii": "En krop, och en Ande, såsom J ock kallade ären vthi ett edars kallelses hopp:",
+      "king_james": "*There is* one body, and one Spirit, even as ye are called in one hope of your calling;"
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Unus Dominus, una fides, unum baptisma.",
+      "greek_textus_receptus": "εἷς κύριος μία πίστις ἓν βάπτισμα",
+      "finnish_biblia": "Yksi Herra, yksi usko, yksi kaste, ",
+      "swedish_karl_xii": "En Herre, een troo, ett doop, en Gudh, och allas wåra Fader;",
+      "king_james": "One Lord, one faith, one baptism,"
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Unus Deus et Pater omnium, qui est super omnes, et per omnia, et in omnibus nobis.",
+      "greek_textus_receptus": "εἷς θεὸς καὶ πατὴρ πάντων ὁ ἐπὶ πάντων καὶ διὰ πάντων καὶ ἐν πᾶσιν ὑμῖν",
+      "finnish_biblia": "Yksi Jumala ja kaikkein Isä, joka kaikkein päällä on, ja kaikkein kautta, ja teissä kaikissa. ",
+      "swedish_karl_xii": "Hwilken är öfwer eder alla, genom eder alla, och i eder alla.",
+      "king_james": "One God and Father of all, who *is* above all, and through all, and in you all."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Unicuique autem nostrum data est gratia secundum mensuram donationis Christi.",
+      "greek_textus_receptus": "ἑνὶ δὲ ἑκάστῳ ἡμῶν ἐδόθη ἡ χάρις κατὰ τὸ μέτρον τῆς δωρεᾶς τοῦ χριστοῦ",
+      "finnish_biblia": "Mutta jokaiselle meille on armo annettu Kristuksen lahjan mitan jälkeen. ",
+      "swedish_karl_xii": "Men hwarjom och enom af oß är gifwen nådh, efter Christi gåfwos mått.",
+      "king_james": "But unto every one of us is given grace according to the measure of the gift of Christ."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Propter quod dicit: Ascendens in altum, captivam duxit captivitatem: dedit dona hominibus.",
+      "greek_textus_receptus": "διὸ λέγει ἀναβὰς εἰς ὕψος ᾐχμαλώτευσεν αἰχμαλωσίαν καὶ ἔδωκεν δόματα τοῖς ἀνθρώποις",
+      "finnish_biblia": "Sentähden hän sanoo: hän on astunut ylös korkeuteen, ja on vankiuden vangiksi vienyt, ja ihmisille lahjoja antanut. ",
+      "swedish_karl_xii": "Therföre säger han: Han är vpstigen i högden, och hafwer fördt fängelset fånget , och hafwer gifwit menniskiomen gåfwor.",
+      "king_james": "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Quod autem ascendit, quid est, nisi quia et descendit primum in inferiores partes terræ?",
+      "greek_textus_receptus": "τὸ δὲ ἀνέβη τί ἐστιν εἰ μὴ ὅτι καὶ κατέβη πρῶτον εἰς τὰ κατώτερα μέρη τῆς γῆς",
+      "finnish_biblia": "Mutta se, että hän astui ylös, ei ole mikään muu kuin että hän ennen tänne astui alas, alimmaisiin maan paikkoihin. ",
+      "swedish_karl_xii": "Men thet han vpfaren är, hwad är thet annat än han foor först här nedh, vthi the nedersta jordenes rum?",
+      "king_james": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?"
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Qui descendit, ipse est et qui ascendit super omnes cælos, ut impleret omnia.",
+      "greek_textus_receptus": "ὁ καταβὰς αὐτός ἐστιν καὶ ὁ ἀναβὰς ὑπεράνω πάντων τῶν οὐρανῶν ἵνα πληρώσῃ τὰ πάντα",
+      "finnish_biblia": "Joka on astunut alas, hän on se, joka kaikkein taivasten päälle astui ylös, että hän kaikki täyttäis, ",
+      "swedish_karl_xii": "Then ther nederfor, han är ock then ther vpfor öfwer alla himlar, på thet han skulle all ting vpfylla.",
+      "king_james": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Et ipse dedit quosdam quidem apostolos, quosdam autem prophetas, alios vero evangelistas, alios autem pastores et doctores,",
+      "greek_textus_receptus": "καὶ αὐτὸς ἔδωκεν τοὺς μὲν ἀποστόλους τοὺς δὲ προφήτας τοὺς δὲ εὐαγγελιστάς τοὺς δὲ ποιμένας καὶ διδασκάλους",
+      "finnish_biblia": "Ja hän on pannut muutamat apostoleiksi, muutamat prophetaiksi, muutamat evankelistaiksi, muutamat paimeniksi ja opettajiksi. ",
+      "swedish_karl_xii": "Han hafwer ock somliga satt til Apostlar, somliga til Propheter, somliga til Evangelister, somliga til Herdar, och Lärare:",
+      "king_james": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "ad consummationem sanctorum in opus ministerii, in ædificationem corporis Christi:",
+      "greek_textus_receptus": "πρὸς τὸν καταρτισμὸν τῶν ἁγίων εἰς ἔργον διακονίας εἰς οἰκοδομὴν τοῦ σώματος τοῦ χριστοῦ",
+      "finnish_biblia": "Pyhäin täydellisyyteen, palveluksen työhön ja Kristuksen ruumiin rakennukseen, ",
+      "swedish_karl_xii": "At the helige skola skickelige wara, til ämbetsens werck, genom hwilket Christi lekamen må vpbygd warda:",
+      "king_james": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "donec occurramus omnes in unitatem fidei, et agnitionis Filii Dei, in virum perfectum, in mensuram ætatis plenitudinis Christi:",
+      "greek_textus_receptus": "μέχρι καταντήσωμεν οἱ πάντες εἰς τὴν ἑνότητα τῆς πίστεως καὶ τῆς ἐπιγνώσεως τοῦ υἱοῦ τοῦ θεοῦ εἰς ἄνδρα τέλειον εἰς μέτρον ἡλικίας τοῦ πληρώματος τοῦ χριστοῦ",
+      "finnish_biblia": "Siihenasti kuin me kaikki tulemme uskon ja Jumalan Pojan tuntemisen yhteydessä täydeksi mieheksi, Kristuksen täydellisen varren mitan jälkeen: ",
+      "swedish_karl_xii": "Til thes at wij alle kommom til ena troo, och Gudz Sons kundskap, och wardom en fulkommen man, then ther är vthi Christi fulbordiga ålders mått.",
+      "king_james": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:"
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "ut jam non simus parvuli fluctuantes, et circumferamur omni vento doctrinæ in nequitia hominum, in astutia ad circumventionem erroris.",
+      "greek_textus_receptus": "ἵνα μηκέτι ὦμεν νήπιοι κλυδωνιζόμενοι καὶ περιφερόμενοι παντὶ ἀνέμῳ τῆς διδασκαλίας ἐν τῇ κυβείᾳ τῶν ἀνθρώπων ἐν πανουργίᾳ πρὸς τὴν μεθοδείαν τῆς πλάνης",
+      "finnish_biblia": "Ettemme silleen lapset olisi, jotka horjuisimme ja kaikkinaisilta opetuksen tuulilta vieteltäisiin, ihmisten koiruuden ja kavaluuden kautta, jolla he meitä käyvät ympäri, saadaksensa pettää; ",
+      "swedish_karl_xii": "På thet wij icke meer skolom wara barn, och låta oß beweka och omföras af allahanda lärdoms wäder, genom menniskiors skalckhet och illfundighet, medh hwilka the falla til, at the måga bedraga oß.",
+      "king_james": "That we *henceforth* be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, *and* cunning craftiness, whereby they lie in wait to deceive;"
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Veritatem autem facientes in caritate, crescamus in illo per omnia, qui est caput Christus:",
+      "greek_textus_receptus": "ἀληθεύοντες δὲ ἐν ἀγάπῃ αὐξήσωμεν εἰς αὐτὸν τὰ πάντα ὅς ἐστιν ἡ κεφαλή ὁ χριστός",
+      "finnish_biblia": "Mutta olkaamme toimelliset rakkaudessa ja kasvakaamme kaikissa, hänessä, joka pää on, Kristus, ",
+      "swedish_karl_xii": "Men warom rättsinnige i kärlekenom, och wäxom til i all stycke i honom som hufwudet är, Christus:",
+      "king_james": "But speaking the truth in love, may grow up into him in all things, which is the head, *even* Christ:"
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "ex quo totum corpus compactum et connexum per omnem juncturam subministrationis, secundum operationem in mensuram uniuscujusque membri, augmentum corporis facit in ædificationem sui in caritate.",
+      "greek_textus_receptus": "ἐξ οὗ πᾶν τὸ σῶμα συναρμολογούμενον καὶ συμβιβαζόμενον διὰ πάσης ἁφῆς τῆς ἐπιχορηγίας κατ᾽ ἐνέργειαν ἐν μέτρῳ ἑνὸς ἑκάστου μέρους τὴν αὔξησιν τοῦ σώματος ποιεῖται εἰς οἰκοδομὴν ἑαυτοῦ ἐν ἀγάπῃ",
+      "finnish_biblia": "Josta koko ruumis on koottu ja yhteen liitetty, kaiken yhdistyksen kautta, joka siihen lisääntyy, sen vaikutuksen ja määrän jälkeen, joka kullakin jäsenellä on, siitä kasvaa ruumis omaksi rakennukseksensa rakkaudessa. ",
+      "swedish_karl_xii": "Af hwilkom hele kroppen tilhopa foges, och en lem hänger in til then andra genom all ledamöten, ther then ene tienar them andra, efter thet werck som hwar lem hafwer i sitt mått, och giör at kroppen wäxer sigh sielf til förbättring, genom kärleken.",
+      "king_james": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Hoc igitur dico, et testificor in Domino, ut jam non ambuletis, sicut et gentes ambulant in vanitate sensus sui,",
+      "greek_textus_receptus": "τοῦτο οὖν λέγω καὶ μαρτύρομαι ἐν κυρίῳ μηκέτι ὑμᾶς περιπατεῖν καθὼς καὶ τὰ λοιπὰ ἔθνη περιπατεῖ ἐν ματαιότητι τοῦ νοὸς αὐτῶν",
+      "finnish_biblia": "Niin minä nyt sanon ja todistan Herrassa, ettette silleen vaella niinkuin muut pakanat vaeltavat mielensä tyhmyydessä, ",
+      "swedish_karl_xii": "Så säger jagh nu, och betygar thet i Herranom, at J icke meer wandren, såsom the andra Hedningar wandra, i theras sinnes fåfängelighet:",
+      "king_james": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,"
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "tenebris obscuratum habentes intellectum, alienati a vita Dei per ignorantiam, quæ est in illis, propter cæcitatem cordis ipsorum,",
+      "greek_textus_receptus": "ἐσκοτισμένοι τῇ διανοίᾳ ὄντες ἀπηλλοτριωμένοι τῆς ζωῆς τοῦ θεοῦ διὰ τὴν ἄγνοιαν τὴν οὖσαν ἐν αὐτοῖς διὰ τὴν πώρωσιν τῆς καρδίας αὐτῶν",
+      "finnish_biblia": "Joiden ymmärrys pimitetty on ja ovat vieraantuneet siitä elämästä, joka Jumalasta on, tyhmyyden kautta, joka heissä on, ja heidän sydämensä kovuuden kautta, ",
+      "swedish_karl_xii": "Hwilkas förstånd förmörkrat är, och the bortkomne ifrå thet lijf, som af Gudi är, genom then fåwitsko som i them är, och genom theras hiertas blindhet.",
+      "king_james": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:"
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "qui desperantes, semetipsos tradiderunt impudicitiæ, in operationem immunditiæ omnis in avaritiam.",
+      "greek_textus_receptus": "οἵτινες ἀπηλγηκότες ἑαυτοὺς παρέδωκαν τῇ ἀσελγείᾳ εἰς ἐργασίαν ἀκαθαρσίας πάσης ἐν πλεονεξίᾳ",
+      "finnish_biblia": "Jotka, sitten kuin he olivat paatuneet, antoivat ylön heitänsä haureuteen ja tekivät kaikkinaista saastaisuutta ylönpalttisessa himossa. ",
+      "swedish_karl_xii": "Hwilke, sedan the wordo förstockade, gåfwo the sigh sielfwa vthi otucht, til at bedrifwa all oreenlighet, samt medh girighet.",
+      "king_james": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Vos autem non ita didicistis Christum,",
+      "greek_textus_receptus": "ὑμεῖς δὲ οὐχ οὕτως ἐμάθετε τὸν χριστόν",
+      "finnish_biblia": "Mutta ette niin Kristusta ole oppineet. ",
+      "swedish_karl_xii": "Men J hafwen icke så lärdt Christum:",
+      "king_james": "But ye have not so learned Christ;"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "si tamen illum audistis, et in ipso edocti estis, sicut est veritas in Jesu,",
+      "greek_textus_receptus": "εἴγε αὐτὸν ἠκούσατε καὶ ἐν αὐτῷ ἐδιδάχθητε καθώς ἐστιν ἀλήθεια ἐν τῷ ἰησοῦ",
+      "finnish_biblia": "Jos te muutoin hänestä kuulleet olette ja hänessä opetetut olette, niinkuin totuus Jesuksessa on, ",
+      "swedish_karl_xii": "Om J annars honom hördt hafwen, och vthi honom lärde ären, huru ett rättsinnigt wäsende är i Jesu.",
+      "king_james": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:"
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "deponere vos secundum pristinam conversationem veterem hominem, qui corrumpitur secundum desideria erroris.",
+      "greek_textus_receptus": "ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης",
+      "finnish_biblia": "Niin pankaat pois vanha ihminen, jonka kanssa te ennen vaelsitte, joka himoin kautta eksyksissä itsensä turmelee; ",
+      "swedish_karl_xii": "Så lägger nu bort ifrån eder then gamla menniskian, ther J förra medh vmgingen, hwilken genom lusta i wilfarelse sigh förderfwar:",
+      "king_james": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;"
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Renovamini autem spiritu mentis vestræ,",
+      "greek_textus_receptus": "ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν",
+      "finnish_biblia": "Mutta uudistakaat teitänne teidän mielenne hengessä, ",
+      "swedish_karl_xii": "Och förnyer eder i edar sinnes Anda;",
+      "king_james": "And be renewed in the spirit of your mind;"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "et induite novum hominem, qui secundum Deum creatus est in justitia, et sanctitate veritatis.",
+      "greek_textus_receptus": "καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας",
+      "finnish_biblia": "Ja pukekaat päällenne uusi ihminen, joka Jumalan jälkeen luotu on, totisessa vahurskaudessa ja pyhyydessä. ",
+      "swedish_karl_xii": "Och ikläder eder then nya menniskiona, then efter Gudh skapad är, i sanskylliga rättferdighet och helighet.",
+      "king_james": "And that ye put on the new man, which after God is created in righteousness and true holiness."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Propter quod deponentes mendacium, loquimini veritatem unusquisque cum proximo suo: quoniam sumus invicem membra.",
+      "greek_textus_receptus": "διὸ ἀποθέμενοι τὸ ψεῦδος λαλεῖτε ἀλήθειαν ἕκαστος μετὰ τοῦ πλησίον αὐτοῦ ὅτι ἐσμὲν ἀλλήλων μέλη",
+      "finnish_biblia": "Sentähden pankaat pois valhe, ja puhukaan jokainen lähimmäisensä kanssa totuutta; sillä me olemme jäsenet keskenämme. ",
+      "swedish_karl_xii": "Therföre, lägger bort lögnen, och taler sanningen, hwar och en medh sin nästa; efter wij ärom inbyrdes lemmar.",
+      "king_james": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Irascimini, et nolite peccare: sol non occidat super iracundiam vestram.",
+      "greek_textus_receptus": "ὀργίζεσθε καὶ μὴ ἁμαρτάνετε ὁ ἥλιος μὴ ἐπιδυέτω ἐπὶ τῷ παροργισμῷ ὑμῶν",
+      "finnish_biblia": "Vihastukaat ja älkäät syntiä tehkö, älkäät antako auringon laskea ylitse teidän vihanne, ",
+      "swedish_karl_xii": "Wredgens, och synder icke: läter icke solena gå nedh öfwer edra wrede.",
+      "king_james": "Be ye angry, and sin not: let not the sun go down upon your wrath:"
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Nolite locum dare diabolo:",
+      "greek_textus_receptus": "μήτε δίδοτε τόπον τῷ διαβόλῳ",
+      "finnish_biblia": "Älkäät antako laittajalle siaa. ",
+      "swedish_karl_xii": "Gifwer ock icke lastarenom rum.",
+      "king_james": "Neither give place to the devil."
+    },
+    {
+      "verse": 28,
+      "latin_vulgate": "qui furabatur, jam non furetur: magis autem laboret, operando manibus suis, quod bonum est, ut habeat unde tribuat necessitatem patienti.",
+      "greek_textus_receptus": "ὁ κλέπτων μηκέτι κλεπτέτω μᾶλλον δὲ κοπιάτω ἐργαζόμενος τὸ ἀγαθόν ταῖς χερσὶν ἵνα ἔχῃ μεταδιδόναι τῷ χρείαν ἔχοντι",
+      "finnish_biblia": "Joka varastanut on, älkään silleen varastako, vaan paremmin tehkään työtä ja toimittakaan käsillänsä jotakin hyvää, että hänellä olis tarvitsevalle jakamista. ",
+      "swedish_karl_xii": "Then ther stolet hafwer, han stiele icke meer: vtan hällre arbete medh sina händer thet godt är; på thet han något skal hafwa dela medh then som nödtorftig är.",
+      "king_james": "Let him that stole steal no more: but rather let him labour, working with *his* hands the thing which is good, that he may have to give to him that needeth."
+    },
+    {
+      "verse": 29,
+      "latin_vulgate": "Omnis sermo malus ex ore vestro non procedat: sed si quis bonus ad ædificationem fidei ut det gratiam audientibus.",
+      "greek_textus_receptus": "πᾶς λόγος σαπρὸς ἐκ τοῦ στόματος ὑμῶν μὴ ἐκπορευέσθω ἀλλ᾽ εἴ τις ἀγαθὸς πρὸς οἰκοδομὴν τῆς χρείας ἵνα δῷ χάριν τοῖς ἀκούουσιν",
+      "finnish_biblia": "Älköön yksikään rietas puhe teidän suustanne lähtekö, vaan mitä sovelias on parannuksen tarpeeksi, että se kelvollinen kuulla olis. ",
+      "swedish_karl_xii": "Jntet ohöfwiskt taal gånge vthaf edar mun; vtan thet nyttigt är til förbättring, ther thet behöfwes: at thet må them som thet höra til tacka wara.",
+      "king_james": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."
+    },
+    {
+      "verse": 30,
+      "latin_vulgate": "Et nolite contristare Spiritum Sanctum Dei: in quo signati estis in diem redemptionis.",
+      "greek_textus_receptus": "καὶ μὴ λυπεῖτε τὸ πνεῦμα τὸ ἅγιον τοῦ θεοῦ ἐν ᾧ ἐσφραγίσθητε εἰς ἡμέραν ἀπολυτρώσεως",
+      "finnish_biblia": "Ja älkäät Jumalan Pyhää Henkeä murheelliseksi saattako, jossa te lunastuksen päivään asti kiinnitetyt olette. ",
+      "swedish_karl_xii": "Och bedröfwer icke Gudz Helga Anda, ther J medh besiglade ären til förloßningenes dagh.",
+      "king_james": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption."
+    },
+    {
+      "verse": 31,
+      "latin_vulgate": "Omnis amaritudo, et ira, et indignatio, et clamor, et blasphemia tollatur a vobis cum omni malitia.",
+      "greek_textus_receptus": "πᾶσα πικρία καὶ θυμὸς καὶ ὀργὴ καὶ κραυγὴ καὶ βλασφημία ἀρθήτω ἀφ᾽ ὑμῶν σὺν πάσῃ κακίᾳ",
+      "finnish_biblia": "Kaikki haikeus, ja närkästys, ja viha, ja huuto, ja sadatus olkoon kaukana teistä kaiken pahuuden kanssa. ",
+      "swedish_karl_xii": "All bitterhet, och grymhet, och wrede, och roop, och hädelse ware långt ifrån eder, samt medh alla ondsko.",
+      "king_james": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:"
+    },
+    {
+      "verse": 32,
+      "latin_vulgate": "Estote autem invicem benigni, misericordes, donantes invicem sicut et Deus in Christo donavit vobis.",
+      "greek_textus_receptus": "γίνεσθε δὲ εἰς ἀλλήλους χρηστοί εὔσπλαγχνοι χαριζόμενοι ἑαυτοῖς καθὼς καὶ ὁ θεὸς ἐν χριστῷ ἐχαρίσατο ὑμῖν",
+      "finnish_biblia": "Mutta olkaat keskenänne ystävälliset ja laupiaat, ja anteeksi antakaat toinen toisellenne niinkuin Jumala teillekin Kristuksen kautta anteeksi antanut on.   ",
+      "swedish_karl_xii": "Men warer inbyrdes til hwar annan wänlige, godhiertige; och förlåter then ene them andra, såsom ock Gudh genom Christum hafwer förlåtet eder.",
+      "king_james": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you."
+    }
+  ]
+}

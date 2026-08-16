@@ -1,0 +1,211 @@
+{
+  "book_id": "JOH",
+  "latin_name": "Evangelium secundum Ioannem",
+  "greek_name": "Κατὰ Ἰωάννην",
+  "finnish_name": "Johanneksen evankeliumi",
+  "swedish_name": "S. Johannis Evangelium",
+  "english_name": "The Gospel According to John",
+  "chapter": 21,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Postea manifestavit se iterum Jesus discipulis ad mare Tiberiadis. Manifestavit autem sic:",
+      "greek_textus_receptus": "μετὰ ταῦτα ἐφανέρωσεν ἑαυτὸν πάλιν ὁ ἰησοῦς τοῖς μαθηταῖς ἐπὶ τῆς θαλάσσης τῆς τιβεριάδος ἐφανέρωσεν δὲ οὕτως",
+      "finnish_biblia": "Sitte ilmoitti Jesus taas itsensä opetuslapsille Tiberiaan meren tykönä, ja hän ilmoitti itsensä näin: ",
+      "swedish_karl_xii": "Ther efter vppenbarade åter Jesus sigh för Lärjungarna, widh Tyberias haaf; och vppenbarade han sigh i så måtto:",
+      "king_james": "After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he *himself*."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "erant simul Simon Petrus, et Thomas, qui dicitur Didymus, et Nathanaël, qui erat a Cana Galilææ, et filii Zebedæi, et alii ex discipulis ejus duo.",
+      "greek_textus_receptus": "ἦσαν ὁμοῦ σίμων πέτρος καὶ θωμᾶς ὁ λεγόμενος δίδυμος καὶ ναθαναὴλ ὁ ἀπὸ κανὰ τῆς γαλιλαίας καὶ οἱ τοῦ ζεβεδαίου καὶ ἄλλοι ἐκ τῶν μαθητῶν αὐτοῦ δύο",
+      "finnish_biblia": "Simon Pietari ja Toomas, joka kaksoiseksi kutsutaan, olivat ynnä ja Natanael, joka oli Galilean Kaanasta, ja Zebedeuksen pojat ja kaksi muuta hänen opetuslapsistansa. ",
+      "swedish_karl_xii": "Simon Petrus, och Thomas, som kallas Twilling, woro tilsamman; och Nathanael, som war af Cana i Galileen, och Zebedei söner, och twå andre af hans Lärjungar.",
+      "king_james": "There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the *sons* of Zebedee, and two other of his disciples."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Dicit eis Simon Petrus: Vado piscari. Dicunt ei: Venimus et nos tecum. Et exierunt, et ascenderunt in navim: et illa nocte nihil prendiderunt.",
+      "greek_textus_receptus": "λέγει αὐτοῖς σίμων πέτρος ὑπάγω ἁλιεύειν λέγουσιν αὐτῷ ἐρχόμεθα καὶ ἡμεῖς σὺν σοί ἐξῆλθον καὶ ἀνέβησαν εἰς τὸ πλοῖον εὐθὺς, καὶ ἐν ἐκείνῃ τῇ νυκτὶ ἐπίασαν οὐδέν",
+      "finnish_biblia": "Sanoi Simon Pietari heille: minä menen kalaan: ne sanoivat hänelle: me menemme myös kanssas. Niin he menivät ja astuivat kohta venheesen, ja ei he sinä yönä mitään saaneet. ",
+      "swedish_karl_xii": "Sade Simon Petrus til them: Jagh wil gå och fiskia. The sade til honom: Wij gåm ock medh tigh. The gingo vth, och stego strax i båten; och i then natten fingo the intet.",
+      "king_james": "Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "Mane autem facto stetit Jesus in littore: non tamen cognoverunt discipuli quia Jesus est.",
+      "greek_textus_receptus": "πρωΐας δὲ ἤδη γενομένης ἔστη ὁ ἰησοῦς εἰς τὸν αἰγιαλόν οὐ μέντοι ᾔδεισαν οἱ μαθηταὶ ὅτι ἰησοῦς ἐστιν",
+      "finnish_biblia": "Mutta kuin jo aamu oli, niin Jesus seisoi rannalle; mutta ei opetuslapset tietäneet, että se oli Jesus. ",
+      "swedish_karl_xii": "Tå nu morgon war, stod Jesus på strandene: doch wiste Lärjungarna icke at thet war Jesus.",
+      "king_james": "But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Dixit ergo eis Jesus: Pueri, numquid pulmentarium habetis? Responderunt ei: Non.",
+      "greek_textus_receptus": "λέγει οὖν αὐτοῖς ὁ ἰησοῦς παιδία μή τι προσφάγιον ἔχετε ἀπεκρίθησαν αὐτῷ οὔ",
+      "finnish_biblia": "Niin sanoi Jesus heille: lapset, onko teillä mitään syötävää? He vastasivat häntä: ei. ",
+      "swedish_karl_xii": "Sade Jesus til them: Barn, hafwen J något til maats? The swarade honom: Neij.",
+      "king_james": "Then Jesus saith unto them, Children, have ye any meat? They answered him, No."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Dicit eis: Mittite in dexteram navigii rete, et invenietis. Miserunt ergo: et jam non valebant illud trahere præ multitudine piscium.",
+      "greek_textus_receptus": "ὁ δὲ εἶπεν αὐτοῖς βάλετε εἰς τὰ δεξιὰ μέρη τοῦ πλοίου τὸ δίκτυον καὶ εὑρήσετε ἔβαλον οὖν καὶ οὐκ ἔτι αὐτὸ ἑλκύσαι ἴσχυσαν ἀπὸ τοῦ πλήθους τῶν ἰχθύων",
+      "finnish_biblia": "Hän sanoi heille: laskekaat verkko oikialle puolelle venhettä, niin te löydätte. Niin he laskivat, ja tuli niin paljo kaloja, ettei he voineet vetää. ",
+      "swedish_karl_xii": "Tå sade han til them: Kaster vth nätet på högra sidona om båten, så warden J finnande. Tå kastade the vth; och kom så mycken fisk, at the förmåtte thet icke draga.",
+      "king_james": "And he said unto them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Dixit ergo discipulus ille, quem diligebat Jesus, Petro: Dominus est. Simon Petrus cum audisset quia Dominus est, tunica succinxit se (erat enim nudus) et misit se in mare.",
+      "greek_textus_receptus": "λέγει οὖν ὁ μαθητὴς ἐκεῖνος ὃν ἠγάπα ὁ ἰησοῦς τῷ πέτρῳ ὁ κύριός ἐστιν σίμων οὖν πέτρος ἀκούσας ὅτι ὁ κύριός ἐστιν τὸν ἐπενδύτην διεζώσατο ἦν γὰρ γυμνός καὶ ἔβαλεν ἑαυτὸν εἰς τὴν θάλασσαν",
+      "finnish_biblia": "Niin sanoi se opetuslapsi, jota Jesus rakasti, Pietarille: Herra se on. Kuin Simon Pietari sen kuuli, että se oli Herra, vyötti hän hameen ympärillensä, (sillä hän oli alasti,) ja heitti itsensä mereen. ",
+      "swedish_karl_xii": "Tå sade then Lärjungen, som Jesus älskade, til Petrum: Herren äret. När Simon Petrus hörde, at thet war Herren, bandt han om sigh kiortelen, ty han war naken, och gaf sigh i siön.",
+      "king_james": "Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt *his* fisher's coat *unto him*, (for he was naked,) and did cast himself into the sea."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Alii autem discipuli navigio venerunt (non enim longe erant a terra, sed quasi cubitis ducentis), trahentes rete piscium.",
+      "greek_textus_receptus": "οἱ δὲ ἄλλοι μαθηταὶ τῷ πλοιαρίῳ ἦλθον οὐ γὰρ ἦσαν μακρὰν ἀπὸ τῆς γῆς ἀλλ᾽ ὡς ἀπὸ πηχῶν διακοσίων σύροντες τὸ δίκτυον τῶν ἰχθύων",
+      "finnish_biblia": "Mutta muut opetuslapset tulivat venheellä, (sillä ei he olleet kaukana maalta, vaan lähes kaksisataa kyynärää,) ja vetivät verkon kaloinensa. ",
+      "swedish_karl_xii": "Men the andre Lärjungarna kommo medh båten: ty the woro icke låugt ifrå landet, vtan widh paß twhundrade alnar; och drogo fiskanätet.",
+      "king_james": "And the other disciples came in a little ship; (for they were not far from land, but as it were two hundred cubits,) dragging the net with fishes."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Ut ergo descenderunt in terram, viderunt prunas positas, et piscem superpositum, et panem.",
+      "greek_textus_receptus": "ὡς οὖν ἀπέβησαν εἰς τὴν γῆν βλέπουσιν ἀνθρακιὰν κειμένην καὶ ὀψάριον ἐπικείμενον καὶ ἄρτον",
+      "finnish_biblia": "Kuin he siis olivat maalle tulleet, näkivät he hiilet ja kalan, niiden päällä pantuna, ja leivän. ",
+      "swedish_karl_xii": "Och när the woro stegne på landet, sågo the ther wara lagda glödh, och en fisk ther på, och brödh.",
+      "king_james": "As soon then as they were come to land, they saw a fire of coals there, and fish laid thereon, and bread."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Dicit eis Jesus: Afferte de piscibus, quos prendidistis nunc.",
+      "greek_textus_receptus": "λέγει αὐτοῖς ὁ ἰησοῦς ἐνέγκατε ἀπὸ τῶν ὀψαρίων ὧν ἐπιάσατε νῦν",
+      "finnish_biblia": "Jesus sanoi heille: tuokaat tänne niistä kaloista, jotka te nyt saitte. ",
+      "swedish_karl_xii": "Jesus sade til them: Tager hijt af the fiskar som J nu fingen.",
+      "king_james": "Jesus saith unto them, Bring of the fish which ye have now caught."
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "Ascendit Simon Petrus et traxit rete in terram, plenum magnis piscibus centum quinquaginta tribus. Et cum tanti essent, non est scissum rete.",
+      "greek_textus_receptus": "ἀνέβη σίμων πέτρος καὶ εἵλκυσεν τὸ δίκτυον ἐπὶ τῆς γῆς, μεστὸν ἰχθύων μεγάλων ἑκατὸν πεντηκοντατριῶν καὶ τοσούτων ὄντων οὐκ ἐσχίσθη τὸ δίκτυον",
+      "finnish_biblia": "Simon Pietari meni ja veti verkon maalle, täynnä suuria kaloja, sata ja kolmekuudettakymmentä. Ja vaikka niitä niin monta oli, ei kuitenkaan verkko revennyt. ",
+      "swedish_karl_xii": "Simon Petrus steg in, och drog nätet vp på landet, fult medh stora fiskar, hundrade femtijo och tre: och ändoch the woro så månge, gick likwäl nätet icke sönder.",
+      "king_james": "Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken."
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Dicit eis Jesus: Venite, prandete. Et nemo audebat discumbentium interrogare eum: Tu quis es? scientes, quia Dominus est.",
+      "greek_textus_receptus": "λέγει αὐτοῖς ὁ ἰησοῦς δεῦτε ἀριστήσατε οὐδεὶς δὲ ἐτόλμα τῶν μαθητῶν ἐξετάσαι αὐτόν σὺ τίς εἶ εἰδότες ὅτι ὁ κύριός ἐστιν",
+      "finnish_biblia": "Jesus sanoi heille: tulkaat rualle; mutta ei yksikään opetuslapsista uskaltanut häntä kysyä: kukas olet? sillä he tiesivät sen olevan Herran. ",
+      "swedish_karl_xii": "Sade Jesus til them: Kommer, och äter. Och ingen af Lärjungarna dierfdes til at spörja honom: Ho äst tu? Efter the wiste, at thet war Herren.",
+      "king_james": "Jesus saith unto them, Come *and* dine. And none of the disciples durst ask him, Who art thou? knowing that it was the Lord."
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "Et venit Jesus, et accipit panem, et dat eis, et piscem similiter.",
+      "greek_textus_receptus": "ἔρχεται οὖν ὁ ἰησοῦς καὶ λαμβάνει τὸν ἄρτον καὶ δίδωσιν αὐτοῖς καὶ τὸ ὀψάριον ὁμοίως",
+      "finnish_biblia": "Niin Jesus tuli, otti leivän ja antoi heille, niin myös kalan. ",
+      "swedish_karl_xii": "Tå kom Jesus, och tog brödet, och gaf them; och fisken sammaledes.",
+      "king_james": "Jesus then cometh, and taketh bread, and giveth them, and fish likewise."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Hoc jam tertio manifestatus est Jesus discipulis suis cum resurrexisset a mortuis.",
+      "greek_textus_receptus": "τοῦτο ἤδη τρίτον ἐφανερώθη ὁ ἰησοῦς τοῖς μαθηταῖς αὐτοῦ, ἐγερθεὶς ἐκ νεκρῶν",
+      "finnish_biblia": "Tämä on kolmas kerta, kuin Jesus opetuslapsillensa ilmestyi, sitte kuin hän oli noussut ylös kuolleista. ",
+      "swedish_karl_xii": "Thetta war nu tredie reson, at Jesus vppenbarades sinom Lärjungom, sedan han war vpstånden ifrå the döda.",
+      "king_james": "This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Cum ergo prandissent, dicit Simoni Petro Jesus: Simon Joannis, diligis me plus his? Dicit ei: Etiam Domine, tu scis quia amo te. Dicit ei: Pasce agnos meos.",
+      "greek_textus_receptus": "ὅτε οὖν ἠρίστησαν λέγει τῷ σίμωνι πέτρῳ ὁ ἰησοῦς σίμων ἰωνᾶ, ἀγαπᾷς με πλεῖόν τούτων λέγει αὐτῷ ναί κύριε σὺ οἶδας ὅτι φιλῶ σε λέγει αὐτῷ βόσκε τὰ ἀρνία μου",
+      "finnish_biblia": "Kuin he siis syöneet olivat, sanoi Jesus Simon Pietarille: Simon Jonan poika! rakastatkos minua enempi kuin nämät? Hän sanoi: jaa, Herra, sinä tiedät, että minä sinua rakastan. Hän sanoi hänelle: ruoki minun karitsoitani. ",
+      "swedish_karl_xii": "Tå the nu hade ätit, sade Jesus til Simon Petrum: Simon Jona, älskar tu migh meer än thesse? Han sade til honom: Ja Herre, tu wetst at jagh älskar tigh. Sade han til honom: Föd min lamb.",
+      "king_james": "So when they had dined, Jesus saith to Simon Peter, Simon, *son* of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Dicit ei iterum: Simon Joannis, diligis me? Ait illi: Etiam Domine, tu scis quia amo te. Dicit ei: Pasce agnos meos.",
+      "greek_textus_receptus": "λέγει αὐτῷ πάλιν δεύτερον σίμων ἰωνᾶ ἀγαπᾷς με λέγει αὐτῷ ναί κύριε σὺ οἶδας ὅτι φιλῶ σε λέγει αὐτῷ ποίμαινε τὰ πρόβατά μου",
+      "finnish_biblia": "Ja sanoi taas toisen kerran hänelle: Simon Jonan poika! rakastatkos minua? Hän vastasi: jaa, Herra, sinä tiedät, että minä sinua rakastan. Sanoi hän hänelle: kaitse minun lampaitani. ",
+      "swedish_karl_xii": "Åter sade han til honom: Simon Jona, älskar tu migh? Han sade til honom: Ja, Herre, tu wetst at jagh älskar tigh. Sade han til honom: Föd min fåår.",
+      "king_james": "He saith to him again the second time, Simon, *son* of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Dicit ei tertio: Simon Joannis, amas me? Contristatus est Petrus, quia dixit ei tertio: Amas me? et dixit ei: Domine, tu omnia nosti, tu scis quia amo te. Dixit ei: Pasce oves meas.",
+      "greek_textus_receptus": "λέγει αὐτῷ τὸ τρίτον σίμων ἰωνᾶ, φιλεῖς με ἐλυπήθη ὁ πέτρος ὅτι εἶπεν αὐτῷ τὸ τρίτον φιλεῖς με καὶ εἶπεν αὐτῷ κύριε σὺ πάντα οἶδας σὺ γινώσκεις ὅτι φιλῶ σε λέγει αὐτῷ ὁ ἰησοῦς βόσκε τὰ πρόβατά μου",
+      "finnish_biblia": "Hän sanoi kolmannen kerran hänelle: Simon Jonan poika! rakastatkos minua? Pietari tuli murheelliseksi, että hän kolmannen kerran sanoi hänelle: rakastatkos minua? ja sanoi hänelle: Herra, sinä tiedät kaikki: sinä tiedät, että minä rakastan sinua. Jesus sanoi hänelle: ruoki minun lampaitani. ",
+      "swedish_karl_xii": "Sade han til honom tredie reson: Simon Jona, älskar tu migh? Petrus wardt bedröfwad, at han sade tredie reson til honom, älskar tu migh? Och sade til honom: Herre, tu wetst all ting; tu wetst at jagh älskar tigh. Sade Jesus til honom: Föd min fåår.",
+      "king_james": "He saith unto him the third time, Simon, *son* of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Amen, amen dico tibi: cum esses junior, cingebas te, et ambulabas ubi volebas: cum autem senueris, extendes manus tuas, et alius te cinget, et ducet quo tu non vis.",
+      "greek_textus_receptus": "ἀμὴν ἀμὴν λέγω σοι ὅτε ἦς νεώτερος ἐζώννυες σεαυτὸν καὶ περιεπάτεις ὅπου ἤθελες ὅταν δὲ γηράσῃς ἐκτενεῖς τὰς χεῖράς σου καὶ ἄλλος σε ζώσει καὶ οἴσει ὅπου οὐ θέλεις",
+      "finnish_biblia": "Totisesti, totisesti sanon minä sinulle: kuin sinä olit nuori, niin sinä vyötit itses ja menit, kuhunkas tahdoit; mutta kuin vanhenet, niin sinä ojennat kätes, ja toinen vyöttää sinun, ja vie, kuhunka et sinä tahdo. ",
+      "swedish_karl_xii": "Sannerliga, sannerliga säger jagh tigh: När tu wast vng, omgiordade tu tigh sielf, och gick hwart tu wille; men tå tu warder gammal, skalt tu vthräckia tina händer, och en annar skal omgiorda tigh, och leda tigh tijt tu icke wilt.",
+      "king_james": "Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry *thee* whither thou wouldest not."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Hoc autem dixit significans qua morte clarificaturus esset Deum. Et cum hoc dixisset, dicit ei: Sequere me.",
+      "greek_textus_receptus": "τοῦτο δὲ εἶπεν σημαίνων ποίῳ θανάτῳ δοξάσει τὸν θεόν καὶ τοῦτο εἰπὼν λέγει αὐτῷ ἀκολούθει μοι",
+      "finnish_biblia": "Mutta sen hän sanoi, antain tietää, millä kuolemalla hänen piti kunnioittaman Jumalaa. Ja kuin hän sen sanonut oli, sanoi hän hänelle: seuraa minua. ",
+      "swedish_karl_xii": "Men thet sade han, gifwandes tilkänna, medh hwad dödh han skulle prisa Gudh. Och tå han hade thetta sagt, sade han til honom: Fölg migh.",
+      "king_james": "This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me."
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "Conversus Petrus vidit illum discipulum, quem diligebat Jesus, sequentem, qui et recubuit in cœna super pectus ejus, et dixit: Domine, quis est qui tradet te?",
+      "greek_textus_receptus": "ἐπιστραφεὶς δέ ὁ πέτρος βλέπει τὸν μαθητὴν ὃν ἠγάπα ὁ ἰησοῦς ἀκολουθοῦντα ὃς καὶ ἀνέπεσεν ἐν τῷ δείπνῳ ἐπὶ τὸ στῆθος αὐτοῦ καὶ εἶπεν κύριε τίς ἐστιν ὁ παραδιδούς σε",
+      "finnish_biblia": "Pietari käänsi itsensä, ja näki sen opetuslapsen seuraavan, jota Jesus rakasti, joka myös oli Jesuksen rinnoilla ehtoollisessa maannut, ja sanonut: Herra, kuka se on, joka sinun pettää? ",
+      "swedish_karl_xii": "Petrus wände sigh om, och såg then Lärjungan följa, som Jesus älskade; hwilken ock i Nattwarden låg in til hans bröst, och sade: Herre, hwilken är then tigh förråder?",
+      "king_james": "Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?"
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Hunc ergo cum vidisset Petrus, dixit Jesu: Domine, hic autem quid?",
+      "greek_textus_receptus": "τοῦτον ἰδὼν ὁ πέτρος λέγει τῷ ἰησοῦ κύριε οὗτος δὲ τί",
+      "finnish_biblia": "Kuin siis Pietari hänen näki, sanoi hän Jesukselle: Herra, mitästä tämä? ",
+      "swedish_karl_xii": "Tå Petrus såg honom, sade han til Jesum: Herre, hwad skal tå thenne?",
+      "king_james": "Peter seeing him saith to Jesus, Lord, and what *shall* this man *do*?"
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Dicit ei Jesus: Sic eum volo manere donec veniam, quid ad te? tu me sequere.",
+      "greek_textus_receptus": "λέγει αὐτῷ ὁ ἰησοῦς ἐὰν αὐτὸν θέλω μένειν ἕως ἔρχομαι τί πρὸς σέ σύ ἀκολούθει μοι",
+      "finnish_biblia": "Jesus sanoi hänelle: jos minä tahtoisin hänen siihenasti olevan kuin minä tulen, mitä sinun siihen tulee? Seuraa sinä minua. ",
+      "swedish_karl_xii": "Sade Jesus til honom: Om jagh wille at han skulle blifwa til thes jagh kommer, hwad kommer thet tigh widh? Fölg tu migh.",
+      "king_james": "Jesus saith unto him, If I will that he tarry till I come, what *is that* to thee? follow thou me."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Exiit ergo sermo iste inter fratres quia discipulus ille non moritur. Et non dixit ei Jesus: Non moritur, sed: Sic eum volo manere donec veniam, quid ad te?",
+      "greek_textus_receptus": "ἐξῆλθεν οὖν ὁ λόγος οὗτος εἰς τοὺς ἀδελφοὺς ὅτι ὁ μαθητὴς ἐκεῖνος οὐκ ἀποθνῄσκει καὶ οὐκ εἶπεν αὐτῷ ὁ ἰησοῦς ὅτι οὐκ ἀποθνῄσκει ἀλλ᾽ ἐὰν αὐτὸν θέλω μένειν ἕως ἔρχομαι τί πρὸς σέ",
+      "finnish_biblia": "Niin veljesten seassa kävi ulos se puhe, ettei sen opetuslapsen pitänyt kuoleman. Mutta ei Jesus hänelle sanonut: ei hän kuole, vaan: jos minä tahdon hänen siihenasti olevan kuin minä tulen, mitä sinun siihen tulee? ",
+      "swedish_karl_xii": "Tå gick ett taal vth ibland bröderna: Thenne Lärjungen döör icke. Och Jesus sade icke til honom: Han döör icke; vtan, om jagh wille, at han skulle blifwa til thes jagh kommer, hwad kommer thet tigh widh?",
+      "king_james": "Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what *is that* to thee?"
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Hic est discipulus ille qui testimonium perhibet de his, et scripsit hæc: et scimus quia verum est testimonium ejus.",
+      "greek_textus_receptus": "οὗτός ἐστιν ὁ μαθητὴς ὁ μαρτυρῶν περὶ τούτων καὶ γράψας ταῦτα καὶ οἴδαμεν ὅτι ἀληθὴς ἐστίν ἡ μαρτυρία αὐτοῦ",
+      "finnish_biblia": "Tämä on se opetuslapsi, joka todistaa näistä ja on nämät kirjoittanut, ja me tiedämme hänen todistuksensa todeksi. ",
+      "swedish_karl_xii": "Thenne är then Lärjungen som witnar här om, och then thetta skrifwit hafwer; och wij wete at hans witnesbyrd är sant.",
+      "king_james": "This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Sunt autem et alia multa quæ fecit Jesus: quæ si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.",
+      "greek_textus_receptus": "ἔστιν δὲ καὶ ἄλλα πολλὰ ὃσα ἐποίησεν ὁ ἰησοῦς ἅτινα ἐὰν γράφηται καθ᾽ ἕν οὐδὲ αὐτὸν οἶμαι τὸν κόσμον χωρῆσαι τὰ γραφόμενα βιβλία ἀμήν",
+      "finnish_biblia": "On myös paljon muuta, mitä Jesus teki, jos ne erinänsä kirjoitettaisiin, en minä luulisi koko maailman käsittävän niitä kirjoja, joita pitäis kirjoitettaman. Amen.    ",
+      "swedish_karl_xii": "Äro ock mång annor ting, som Jesus giorde, hwilken om the thet ena medh thet andra skrifwes, troor jagh, at werlden skulle icke kunna begripa the böcker, som skrifwas skulle: Amen.",
+      "king_james": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen."
+    }
+  ]
+}

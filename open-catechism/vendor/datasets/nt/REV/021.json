@@ -1,0 +1,227 @@
+{
+  "book_id": "REV",
+  "latin_name": "Apocalypsis Ioannis",
+  "greek_name": "Ἀποκάλυψις Ἰωάννου",
+  "finnish_name": "Johanneksen ilmestys",
+  "swedish_name": "S. Johannis Theologi Vppenbarelse",
+  "english_name": "The Revelation of Saint John the Divine",
+  "chapter": 21,
+  "verses": [
+    {
+      "verse": 1,
+      "latin_vulgate": "Et vidi cælum novum et terram novam. Primum enim cælum, et prima terra abiit, et mare jam non est.",
+      "greek_textus_receptus": "καὶ εἶδον οὐρανὸν καινὸν καὶ γῆν καινήν ὁ γὰρ πρῶτος οὐρανὸς καὶ ἡ πρώτη γῆ παρῆλθεν καὶ ἡ θάλασσα οὐκ ἔστιν ἔτι",
+      "finnish_biblia": "Ja minä näin uuden taivaan ja uuden maan, sillä ensimäinen taivas ja ensimäinen maa katosi, ja ei meri silleen ole. ",
+      "swedish_karl_xii": "Och jagh såg en ny himmel, och een ny jord: ty then första himmelen och then första jorden förgingos; och hafwet är icke meer.",
+      "king_james": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea."
+    },
+    {
+      "verse": 2,
+      "latin_vulgate": "Et ego Joannes vidi sanctam civitatem Jerusalem novam descendentem de cælo a Deo, paratam sicut sponsam ornatam viro suo.",
+      "greek_textus_receptus": "καὶ ἐγὼ ἰωάννης εἶδον τὴν πόλιν τὴν ἁγίαν ἰερουσαλὴμ καινὴν καταβαίνουσαν ἀπὸ τοῦ θεοῦ ἐκ τοῦ οὐρανοῦ ἡτοιμασμένην ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς",
+      "finnish_biblia": "Ja minä Johannes näin pyhän kaupungin, uuden Jerusalemin, astuvan alas taivaasta, Jumalalta valmistetun, niinkuin morsiamen kaunistetun hänen miehellensä. ",
+      "swedish_karl_xii": "Och jagh Johannes såg then helga staden, thet nya Jerusalem nederkomma af himmelen, ifrå Gudi, tilredd, såsom een prydd brudh til sin man.",
+      "king_james": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband."
+    },
+    {
+      "verse": 3,
+      "latin_vulgate": "Et audivi vocem magnam de throno dicentem: Ecce tabernaculum Dei cum hominibus, et habitabit cum eis. Et ipsi populus ejus erunt, et ipse Deus cum eis erit eorum Deus:",
+      "greek_textus_receptus": "καὶ ἤκουσα φωνῆς μεγάλης ἐκ τοῦ οὐρανοῦ λεγούσης ἰδού ἡ σκηνὴ τοῦ θεοῦ μετὰ τῶν ἀνθρώπων καὶ σκηνώσει μετ᾽ αὐτῶν καὶ αὐτοὶ λαοὶ αὐτοῦ ἔσονται καὶ αὐτὸς ὁ θεὸς ἔσται μετ᾽ αὐτῶν θεός αὐτῶν",
+      "finnish_biblia": "Ja kuulin suuren äänen taivaasta sanovan: katso Jumalan maja ihmisten seassa, ja hän on asuva heidän kanssansa, ja he tulevat hänen kansaksensa, ja itse Jumala on oleva heidän kanssansa ja heidän Jumalansa. ",
+      "swedish_karl_xii": "Och jagh hörde ena stora röst af himmelen säija: Sij, Gudz tabernakel ibland menniskiorna, och han skal boo medh them; och the skola wara hans folck, och sielfwer Gudh medh them, skal wara theras Gudh.",
+      "king_james": "And I heard a great voice out of heaven saying, Behold, the tabernacle of God *is* with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, *and be* their God."
+    },
+    {
+      "verse": 4,
+      "latin_vulgate": "et absterget Deus omnem lacrimam ab oculis eorum: et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abierunt.",
+      "greek_textus_receptus": "καὶ ἐξαλείψει ὁ φεὸς πᾶν δάκρυον ἀπὸ τῶν ὀφθαλμῶν αὐτῶν καὶ ὁ θάνατος οὐκ ἔσται ἔτι οὔτε πένθος οὔτε κραυγὴ οὔτε πόνος οὐκ ἔσται ἔτι ὅτι τὰ πρῶτα ἀπῆλθον",
+      "finnish_biblia": "Ja Jumala on pyyhkivä pois kaikki kyyneleet heidän silmistänsä, ja ei kuolemaa pidä silleen oleman, eikä itkua, eikä parkua, eikä kipua pidä silleen oleman; sillä ne entiset poismenivät. ",
+      "swedish_karl_xii": "Och Gudh skal aftorka alla tårar af theras ögon, och ingen dödh skal sedan wara; icke heller grååt, icke heller roop, icke heller någon wärck warder meer: ty thet första är förgånget.",
+      "king_james": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away."
+    },
+    {
+      "verse": 5,
+      "latin_vulgate": "Et dixit qui sedebat in throno: Ecce nova facio omnia. Et dixit mihi: Scribe, quia hæc verba fidelissima sunt, et vera.",
+      "greek_textus_receptus": "καὶ εἶπεν ὁ καθήμενος ἐπὶ τοῦ θρόνου ἰδού καινὰ πάντα ποιῶ καὶ λέγει μοι γράψον ὅτι οὗτοι οἱ λόγοι ἀληθινοί καὶ πιστοὶ εἰσιν",
+      "finnish_biblia": "Ja se, joka istuimella istui, sanoi: katso, minä uudistan kaikki. Ja sanoi minulle: kirjoita! sillä nämä sanat ovat totiset ja vahvat. ",
+      "swedish_karl_xii": "Och then ther satt på stolen, sade: Sij, jagh giör all ting ny. Och han sade til migh: Skrif; ty thessa ord äro wiß och san.",
+      "king_james": "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful."
+    },
+    {
+      "verse": 6,
+      "latin_vulgate": "Et dixit mihi: Factum est: ego sum alpha et omega, initium et finis. Ego sitienti dabo de fonte aquæ vitæ, gratis.",
+      "greek_textus_receptus": "καὶ εἶπέν μοι γέγονεν ἐγώ εἰμι τὸ α καὶ τὸ Ω ἡ ἀρχὴ καὶ τὸ τέλος ἐγὼ τῷ διψῶντι δώσω ἐκ τῆς πηγῆς τοῦ ὕδατος τῆς ζωῆς δωρεάν",
+      "finnish_biblia": "Ja hän sanoi minulle: Se on tapahtunut. Minä olen A ja O, alku ja loppu. Minä annan janoovalle elämän veden lähteestä lahjaksi. ",
+      "swedish_karl_xii": "Och han sade til migh: Thet är giordt. Jagh är A och O, begynnelsen och änden: jagh skal gifwa honom som törster af lefwande watnens källo förgäfwes.",
+      "king_james": "And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely."
+    },
+    {
+      "verse": 7,
+      "latin_vulgate": "Qui vicerit, possidebit hæc: et ero illi Deus, et ille erit mihi filius.",
+      "greek_textus_receptus": "ὁ νικῶν κληρονομήσει πάντα καὶ ἔσομαι αὐτῷ θεὸς καὶ αὐτὸς ἔσται μοι ὁ υἱός",
+      "finnish_biblia": "Joka voittaa, sen pitää kaikki nämät perimän, ja minä olen hänen Jumalansa, ja hänen pitää oleman minun poikani. ",
+      "swedish_karl_xii": "Then som winner, han skal alt thetta få äga; och jagh skal wara honom hans Gudh, och han skal wara min son.",
+      "king_james": "He that overcometh shall inherit all things; and I will be his God, and he shall be my son."
+    },
+    {
+      "verse": 8,
+      "latin_vulgate": "Timidis autem, et incredulis, et execratis, et homicidis, et fornicatoribus, et veneficis, et idolatris, et omnibus mendacibus, pars illorum erit in stagno ardenti igne et sulphure: quod est mors secunda.",
+      "greek_textus_receptus": "δειλοῖς δὲ καὶ ἀπίστοις καὶ ἐβδελυγμένοις καὶ φονεῦσιν καὶ πόρνοις καὶ φαρμακεῦσιν καὶ εἰδωλολάτραις καὶ πᾶσιν τοῖς ψευδέσιν τὸ μέρος αὐτῶν ἐν τῇ λίμνῃ τῇ καιομένῃ πυρὶ καὶ θείῳ ὅ ἐστιν δεύτερος θάνατος",
+      "finnish_biblia": "Mutta pelkureille ja uskottomille, ja hirmuisille, ja murhaajille, ja salavuoteisille, ja velhoille, ja epäjumalisille, ja kaikille valehtelioille pitää osa oleman siinä järvessä, joka tulesta ja tulikivestä palaa, joka on toinen kuolema. ",
+      "swedish_karl_xii": "Men them räddom, och otrognom, och grufweligom, och mandråparom, och bolarom, och trulkarlom, och afgudadyrkarom, och allom lögnachtigom, theras deel skal wara vthi then siön som brinner medh eld och swafwel: hwilket är then andre döden.",
+      "king_james": "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death."
+    },
+    {
+      "verse": 9,
+      "latin_vulgate": "Et venit unus de septem angelis habentibus phialas plenas septem plagis novissimis, et locutus est mecum, dicens: Veni, et ostendam tibi sponsam, uxorem Agni.",
+      "greek_textus_receptus": "καὶ ἦλθεν πρὸς με εἷς τῶν ἑπτὰ ἀγγέλων τῶν ἐχόντων τὰς ἑπτὰ φιάλας τὰς γεμούσας τῶν ἑπτὰ πληγῶν τῶν ἐσχάτων καὶ ἐλάλησεν μετ᾽ ἐμοῦ λέγων δεῦρο δείξω σοι τὴν νύμφην τοῦ ἀρνίου τὴν γυναῖκα",
+      "finnish_biblia": "Ja minun tyköni tuli yksi seitsemästä enkelistä, joilla oli seitsemän maljaa täynnä seitsentä viimeistä vitsausta, ja puhui minun kanssani, sanoen: tule, minä osoitan sinulle morsiamen, Karitsan emännän. ",
+      "swedish_karl_xii": "Och til migh kom en af the siu Änglar, som hade siu skålar fulla medh the siu yttersta plågor; och han talade medh migh, och sade: Kom, och jagh wil wisa tigh brudena, Lambsens hustru.",
+      "king_james": "And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb's wife."
+    },
+    {
+      "verse": 10,
+      "latin_vulgate": "Et sustulit me in spiritu in montem magnum et altum, et ostendit mihi civitatem sanctam Jerusalem descendentem de cælo a Deo,",
+      "greek_textus_receptus": "καὶ ἀπήνεγκέν με ἐν πνεύματι ἐπ᾽ ὄρος μέγα καὶ ὑψηλόν καὶ ἔδειξέν μοι τὴν πόλιν τὴν μεγάλην τὴν ἁγίαν ἰερουσαλὴμ καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ",
+      "finnish_biblia": "Ja hän vei minun hengessä suurelle ja korkialle vuorelle, ja osoitti minulle suuren kaupungin, pyhän Jerusalemin, astuvan alas taivaasta Jumalalta, ",
+      "swedish_karl_xii": "Och han förde migh i Andanom på ett stort och högt berg, och wijste migh then stora staden, thet helga Jerusalem, nederkomma af himmelen ifrå Gudh;",
+      "king_james": "And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,"
+    },
+    {
+      "verse": 11,
+      "latin_vulgate": "habentem claritatem Dei: et lumen ejus simile lapidi pretioso tamquam lapidi jaspidis, sicut crystallum.",
+      "greek_textus_receptus": "ἔχουσαν τὴν δόξαν τοῦ θεοῦ καὶ ὁ φωστὴρ αὐτῆς ὅμοιος λίθῳ τιμιωτάτῳ ὡς λίθῳ ἰάσπιδι κρυσταλλίζοντι",
+      "finnish_biblia": "Jolla oli Jumalan kirkkaus; ja sen valkeus oli kaikkein kalleimman kiven muotoinen, niinkuin kirkas jaspis. ",
+      "swedish_karl_xii": "Och hade Gudz härlighet: och hans lius war lika som then alraädlaste stenen, en klar jaspis.",
+      "king_james": "Having the glory of God: and her light *was* like unto a stone most precious, even like a jasper stone, clear as crystal;"
+    },
+    {
+      "verse": 12,
+      "latin_vulgate": "Et habebat murum magnum, et altum, habentem portas duodecim: et in portis angelos duodecim, et nomina inscripta, quæ sunt nomina duodecim tribuum filiorum Israël:",
+      "greek_textus_receptus": "ἔχουσαν τε τεῖχος μέγα καὶ ὑψηλόν ἔχουσαν πυλῶνας δώδεκα καὶ ἐπὶ τοῖς πυλῶσιν ἀγγέλους δώδεκα καὶ ὀνόματα ἐπιγεγραμμένα ἅ ἐστιν τῶν δώδεκα φυλῶν τῶν υἱῶν ἰσραήλ",
+      "finnish_biblia": "Ja hänellä oli suuri ja korkia muuri, jolla oli kaksitoistakymmentä porttia, ja porteissa kaksitoistakymmentä enkeliä, ja nimet kirjoitetut, jotka ovat kahdentoistakymmenen Israelin lasten sukukuntain nimet: ",
+      "swedish_karl_xii": "Och han hade en stoor och högh muur; then ther tolf portar hade, och i portarna tolf Änglar, och inskrifna namn, hwilka äro the tolf Jsraels söners slächters namn.",
+      "king_james": "And had a wall great and high, *and* had twelve gates, and at the gates twelve angels, and names written thereon, which are *the names* of the twelve tribes of the children of Israel:"
+    },
+    {
+      "verse": 13,
+      "latin_vulgate": "ab oriente portæ tres, et ab aquilone portæ tres, et ab austro portæ tres, et ab occasu portæ tres.",
+      "greek_textus_receptus": "ἀπ᾽ ἀνατολῆς πυλῶνες τρεῖς ἀπὸ βοῤῥᾶ πυλῶνες τρεῖς ἀπὸ νότου πυλῶνες τρεῖς ἀπὸ δυσμῶν πυλῶνες τρεῖς",
+      "finnish_biblia": "Idässä kolme porttia, pohjoisessa kolme porttia, etelässä kolme porttia, lännessä kolme porttia. ",
+      "swedish_karl_xii": "Östan til tre portar, nordan til tre portar, sunnan til tre portar, wästan til tre portar.",
+      "king_james": "On the east three gates; on the north three gates; on the south three gates; and on the west three gates."
+    },
+    {
+      "verse": 14,
+      "latin_vulgate": "Et murus civitatis habens fundamenta duodecim, et in ipsis duodecim nomina duodecim apostolorum Agni.",
+      "greek_textus_receptus": "καὶ τὸ τεῖχος τῆς πόλεως ἔχον θεμελίους δώδεκα καὶ ἐν αὐτοῖς ὀνόματα τῶν δώδεκα ἀποστόλων τοῦ ἀρνίου",
+      "finnish_biblia": "Ja sen kaupungin muurilla oli kaksitoistakymmentä perustusta, ja niissä Karitsan kahdentoistakymmenen apostolin nimet. ",
+      "swedish_karl_xii": "Och stadzmuren hade tolf grundwalar, och i them the tolf Lambsens Apostlars namn.",
+      "king_james": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb."
+    },
+    {
+      "verse": 15,
+      "latin_vulgate": "Et qui loquebatur mecum, habebat mensuram arundineam auream, ut metiretur civitatem, et portas ejus, et murum.",
+      "greek_textus_receptus": "καὶ ὁ λαλῶν μετ᾽ ἐμοῦ εἶχεν κάλαμον χρυσοῦν ἵνα μετρήσῃ τὴν πόλιν καὶ τοὺς πυλῶνας αὐτῆς καὶ τὸ τεῖχος αὐτῆς",
+      "finnish_biblia": "Ja sillä, joka minun kanssani puhui, oli kultainen ruoko, kaupunkia mitataksensa ja hänen porttejansa ja muuriansa. ",
+      "swedish_karl_xii": "Och then som talade medh migh, hade ena gyldene röö, ther han medh mäla skulle staden, och hans portar, och hans muur.",
+      "king_james": "And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof."
+    },
+    {
+      "verse": 16,
+      "latin_vulgate": "Et civitas in quadro posita est, et longitudo ejus tanta est quanta et latitudo: et mensus est civitatem de arundine aurea per stadia duodecim millia: et longitudo, et altitudo, et latitudo ejus æqualia sunt.",
+      "greek_textus_receptus": "καὶ ἡ πόλις τετράγωνος κεῖται καὶ τὸ μῆκος αὐτῆς τοσοῦτόν ἐστίν ὅσον καὶ τὸ πλάτος καὶ ἐμέτρησεν τὴν πόλιν τῷ καλάμῳ ἐπὶ σταδίων δώδεκα χιλιάδων τὸ μῆκος καὶ τὸ πλάτος καὶ τὸ ὕψος αὐτῆς ἴσα ἐστιν",
+      "finnish_biblia": "Ja kaupunki on pantu nelikulmaiseksi, ja hänen pituutensa on niin suuri kuin hänen leveytensä. Ja hän mittasi kaupungin ruovolla kaksitoistakymmentä tuhatta vakomittaa; ja hänen pituutensa ja leveytensä ja korkeutensa ovat yhtäläiset. ",
+      "swedish_karl_xii": "Och staden ligger fyrkant; och hans längd är så stoor som bredden: och han mälte staden medh röön, tolf tusend stadier: och hans längd, och bredd, och högd äro lika.",
+      "king_james": "And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal."
+    },
+    {
+      "verse": 17,
+      "latin_vulgate": "Et mensus est murum ejus centum quadraginta quatuor cubitorum, mensura hominis, quæ est angeli.",
+      "greek_textus_receptus": "καὶ ἐμέτρησεν τὸ τεῖχος αὐτῆς ἑκατὸν τεσσαράκοντα τεσσάρων πηχῶν μέτρον ἀνθρώπου ὅ ἐστιν ἀγγέλου",
+      "finnish_biblia": "Ja mittasi hänen muurinsa, sata ja neljäviidettäkymmentä kyynärää ihmisen mitan jälkeen, joka enkelillä oli. ",
+      "swedish_karl_xii": "Och han mälte hans muur hundrade fyra och fyratijo alnar, efter ens menniskios mått, som Ängelen hade.",
+      "king_james": "And he measured the wall thereof, an hundred *and* forty *and* four cubits, *according to* the measure of a man, that is, of the angel."
+    },
+    {
+      "verse": 18,
+      "latin_vulgate": "Et erat structura muri ejus ex lapide jaspide: ipsa vero civitas aurum mundum simile vitro mundo.",
+      "greek_textus_receptus": "καὶ ἦν ἡ ἐνδόμησις τοῦ τείχους αὐτῆς ἴασπις καὶ ἡ πόλις χρυσίον καθαρὸν ὅμοια ὑάλῳ καθαρῷ",
+      "finnish_biblia": "Ja muurin rakennus oli jaspiksesta, ja itse kaupunki puhtaasta kullasta, puhtaan lasin kaltainen. ",
+      "swedish_karl_xii": "Och hans muurs byggning war af jaspis; men sielfwa staden af klart guld, lijk widh reent glaas.",
+      "king_james": "And the building of the wall of it was *of* jasper: and the city *was* pure gold, like unto clear glass."
+    },
+    {
+      "verse": 19,
+      "latin_vulgate": "Et fundamenta muri civitatis omni lapide pretioso ornata. Fundamentum primum, jaspis: secundum, sapphirus: tertium, calcedonius: quartum, smaragdus:",
+      "greek_textus_receptus": "καὶ οἱ θεμέλιοι τοῦ τείχους τῆς πόλεως παντὶ λίθῳ τιμίῳ κεκοσμημένοι ὁ θεμέλιος ὁ πρῶτος ἴασπις ὁ δεύτερος σάπφειρος ὁ τρίτος χαλκηδών ὁ τέταρτος σμάραγδος",
+      "finnish_biblia": "Ja kaupungin muurin perustukset olivat kaikkinaisilla kalliilla kivillä kaunistetut: ensimäinen perustus oli jaspis, toinen saphiri, kolmas kalkedoni, neljäs smaragdi, ",
+      "swedish_karl_xii": "Och stadzmurens grundwalar woro prydde medh all dyrbar steen: första grundwalen war en jaspis; then andre en saphir, then tredie en calcedonier, then fierde en smaragd;",
+      "king_james": "And the foundations of the wall of the city *were* garnished with all manner of precious stones. The first foundation *was* jasper; the second, sapphire; the third, a chalcedony; the fourth, an emerald;"
+    },
+    {
+      "verse": 20,
+      "latin_vulgate": "quintum, sardonyx: sextum, sardius: septimum, chrysolithus: octavum, beryllus: nonum, topazius: decimum, chrysoprasus: undecimum, hyacinthus: duodecimum, amethystus.",
+      "greek_textus_receptus": "ὁ πέμπτος σαρδόνυξ ὁ ἕκτος σάρδιος ὁ ἕβδομος χρυσόλιθος ὁ ὄγδοος βήρυλλος ὁ ἔνατος τοπάζιον ὁ δέκατος χρυσόπρασος ὁ ἑνδέκατος ὑάκινθος ὁ δωδέκατος ἀμέθυστος",
+      "finnish_biblia": "Viides sardoniks, kuudes sardius, seitsemäs krysoliti, kahdeksas berilli, yhdeksäs topasis, kymmenes krysoprasi, yksitoistakymmenes hyakinti, kaksitoistakymmenes ametysti. ",
+      "swedish_karl_xii": "Then femte en sardonix, then siette en sardis, then siunde en chrysolit, then ottonde en beryll, then nijonde en topazier, then tijonde en chrysopraß, then ellofte en hyacinth, then tolfte en amethist.",
+      "king_james": "The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst."
+    },
+    {
+      "verse": 21,
+      "latin_vulgate": "Et duodecim portæ, duodecim margaritæ sunt, per singulas: et singulæ portæ erant ex singulis margaritis: et platea civitatis aurum mundum, tamquam vitrum perlucidum.",
+      "greek_textus_receptus": "καὶ οἱ δώδεκα πυλῶνες δώδεκα μαργαρῖται ἀνὰ εἷς ἕκαστος τῶν πυλώνων ἦν ἐξ ἑνὸς μαργαρίτου καὶ ἡ πλατεῖα τῆς πόλεως χρυσίον καθαρὸν ὡς ὕαλος διαφανής",
+      "finnish_biblia": "Ja ne kaksitoistakymmentä porttia olivat kaksitoistakymmentä päärlyä, ja kukin portti oli yhdestä päärlystä; ja kaupungin kadut olivat puhdas kulta, niinkuin lävitse paistavainen lasi. ",
+      "swedish_karl_xii": "Och the tolf portar woro tolf pärlor, hwar för sigh; och hwar port war af ene pärlo: och stadsens gator woro klart guld, såsom genomskinande glaas.",
+      "king_james": "And the twelve gates *were* twelve pearls; every several gate was of one pearl: and the street of the city *was* pure gold, as it were transparent glass."
+    },
+    {
+      "verse": 22,
+      "latin_vulgate": "Et templum non vidi in ea: Dominus enim Deus omnipotens templum illius est, et Agnus.",
+      "greek_textus_receptus": "καὶ ναὸν οὐκ εἶδον ἐν αὐτῇ ὁ γὰρ κύριος ὁ θεὸς ὁ παντοκράτωρ ναὸς αὐτῆς ἐστιν καὶ τὸ ἀρνίον",
+      "finnish_biblia": "Ja en minä hänessä templiä nähnyt; sillä Herra kaikkivaltias Jumala on hänen templinsä, ja Karitsa. ",
+      "swedish_karl_xii": "Och jagh såg ther intet tempel vthi: ty Herren alswåldig Gudh är templet ther vthi, och Lambet.",
+      "king_james": "And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it."
+    },
+    {
+      "verse": 23,
+      "latin_vulgate": "Et civitas non eget sole neque luna ut luceant in ea, nam claritas Dei illuminavit eam, et lucerna ejus est Agnus.",
+      "greek_textus_receptus": "καὶ ἡ πόλις οὐ χρείαν ἔχει τοῦ ἡλίου οὐδὲ τῆς σελήνης ἵνα φαίνωσιν ἐν αὐτῇ ἡ γὰρ δόξα τοῦ θεοῦ ἐφώτισεν αὐτήν καὶ ὁ λύχνος αὐτῆς τὸ ἀρνίον",
+      "finnish_biblia": "Ja ei se kaupunki tarvitse aurinkoa eikä kuuta hänessä valistamaan; sillä Jumalan kirkkaus valistaa hänessä, ja hänen valkeutensa on Karitsa. ",
+      "swedish_karl_xii": "Och staden behöfwer icke sool eller måna, at the skola lysa ther vthi: ty Gudz härlighet vplyser honom, och hans lius är Lambet.",
+      "king_james": "And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb *is* the light thereof."
+    },
+    {
+      "verse": 24,
+      "latin_vulgate": "Et ambulabunt gentes in lumine ejus: et reges terræ afferent gloriam suam et honorem in illam.",
+      "greek_textus_receptus": "καὶ τὰ ἔθνη τῶν σωζομένων ἐν τῷ φωτί αὐτῆς περιπατήσουσιν καὶ οἱ βασιλεῖς τῆς γῆς φέρουσιν τὴν δόξαν καὶ τὴν τιμὴν αὐτῶν εἰς αὐτήν",
+      "finnish_biblia": "Ja pakanat, jotka autuaaksi tulevat, pitää hänen valkeudessansa vaeltaman, ja maan kuninkaat tuovat kunniansa ja ylistyksensä siihen. ",
+      "swedish_karl_xii": "Och Hedningarna, som salige warda, skola wandra i hans lius; och Konungarna på jordene skola föra sina härlighet och ähra in vthi honom.",
+      "king_james": "And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it."
+    },
+    {
+      "verse": 25,
+      "latin_vulgate": "Et portæ ejus non claudentur per diem: nox enim non erit illic.",
+      "greek_textus_receptus": "καὶ οἱ πυλῶνες αὐτῆς οὐ μὴ κλεισθῶσιν ἡμέρας νὺξ γὰρ οὐκ ἔσται ἐκεῖ",
+      "finnish_biblia": "Ja ei sen portteja suljeta päivillä; sillä ei siellä yötä pidä oleman. ",
+      "swedish_karl_xii": "Och hans portar låtas intet til om dagen: ty ther warder ingen natt.",
+      "king_james": "And the gates of it shall not be shut at all by day: for there shall be no night there."
+    },
+    {
+      "verse": 26,
+      "latin_vulgate": "Et afferent gloriam et honorem gentium in illam.",
+      "greek_textus_receptus": "καὶ οἴσουσιν τὴν δόξαν καὶ τὴν τιμὴν τῶν ἐθνῶν εἰς αὐτήν",
+      "finnish_biblia": "Ja pakanain ylistys ja kunnia tuodaan siihen. ",
+      "swedish_karl_xii": "Och the skola föra Hedningarnas härlighet och ähra in vthi honom.",
+      "king_james": "And they shall bring the glory and honour of the nations into it."
+    },
+    {
+      "verse": 27,
+      "latin_vulgate": "Non intrabit in eam aliquod coinquinatum, aut abominationem faciens et mendacium, nisi qui scripti sunt in libro vitæ Agni.",
+      "greek_textus_receptus": "καὶ οὐ μὴ εἰσέλθῃ εἰς αὐτὴν πᾶν κοινοῦν καὶ ποιοῦν βδέλυγμα καὶ ψεῦδος εἰ μὴ οἱ γεγραμμένοι ἐν τῷ βιβλίῳ τῆς ζωῆς τοῦ ἀρνίου",
+      "finnish_biblia": "Ja ei pidä häneen mitään saastuttavaa tuleman sisälle, taikka sitä, mikä kauhistuksen eli valheen saattaa; vaan ne, jotka Karitsan elämän kirjassa kirjoitetut ovat.   ",
+      "swedish_karl_xii": "Ther skal intet inkomma som besmitteligit är, eller thet styggelse giör och lögn: vtan the som skrifne äro i Lambsens lefwande book.",
+      "king_james": "And there shall in no wise enter into it any thing that defileth, neither *whatsoever* worketh abomination, or *maketh* a lie: but they which are written in the Lamb's book of life."
+    }
+  ]
+}
