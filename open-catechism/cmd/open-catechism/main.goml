@@ -41,6 +41,9 @@ let ValidateDecalogue () : Unit :=
 let ValidateSacredArt () : Unit :=
   Shell "set -eu; test $(grep -Rl '^## Story and sacred art$' content/units/*.md | wc -l | tr -d ' ') = 35; for f in content/units/*.md; do test \"$(grep '^## ' \"$f\" | head -1)\" = '## Story and sacred art'; done; test $(grep -Rh '^!\\[.*\\](/assets/art/unit-[0-9][0-9]-.*\\.jpg)$' content/units/*.md | wc -l | tr -d ' ') = 35; test $(grep -c '^  - {unit:' assets/sacred-art.yaml) = 35; ! grep -qiE 'NC|ND|unclear' assets/sacred-art.yaml; for src in $(grep -Rho '/assets/art/unit-[0-9][0-9]-[^)]*\\.jpg' content/units | sort -u); do test -s \".${src}\"; done"
 
+let ValidateDivineService () : Unit :=
+  Shell "set -eu; for heading in 'Introit (Entrance Antiphon)' 'Kyrie (Lord Have Mercy)' 'Gloria in Excelsis (Glory Be to God on High)' 'Collect (Opening Prayer)' 'Epistle Reading' 'Gradual (including Alleluia or Tract)' 'Gospel Reading' 'Nicene Creed' 'Sermon' 'General Prayer (Prayer of the Church)' 'Preface and Sanctus (Holy, Holy, Holy)' 'Institution Narrative (Words of Institution)' 'Agnus Dei (Lamb of God)' 'Distribution (Communion)' 'Post-Communion Collect' 'Nunc Dimittis (Song of Simeon)' 'Benediction (Apostolic Greeting)'; do grep -qF \"### ${heading}\" content/divine-service.md; done; test $(grep -c '^\\*\\*Meaning:\\*\\*' content/divine-service.md) = 17; test $(grep -c '^\\*\\*Catechism:\\*\\*' content/divine-service.md) = 17; test $(grep -c '^\\*\\*Congregation:\\*\\*' content/divine-service.md) = 17; test $(grep -c '^\\*\\*Daily life:\\*\\*' content/divine-service.md) = 17"
+
 let BuildWeb () : Unit :=
   Shell "set -eu; test -x .tools/hugo; .tools/hugo --cleanDestinationDir --gc --minify"
 let BuildEPUB () : Unit :=
@@ -56,7 +59,7 @@ let BuildPrintableEditions () : Unit :=
 let main () : Unit := do {
   let line := strings.Join os.Args " ";
   if strings.Contains line " coverage" then Coverage ()
-  else if strings.Contains line " validate" then do { Validate (); ValidateCapitalization (); ValidateFrontMatter (); ValidateImagesAndNames (); ValidateEditorialBoilerplate (); ValidateDecalogue (); ValidateSacredArt () }
+  else if strings.Contains line " validate" then do { Validate (); ValidateCapitalization (); ValidateFrontMatter (); ValidateImagesAndNames (); ValidateEditorialBoilerplate (); ValidateDecalogue (); ValidateSacredArt (); ValidateDivineService () }
   else if strings.Contains line " sources" then fmt.Println "offline sources synchronized at 94d44842cb242e8aa840330748e03d2803f2a7c1"
   else if strings.Contains line " build" then do {
     Validate ();
@@ -66,6 +69,7 @@ let main () : Unit := do {
     ValidateEditorialBoilerplate ();
     ValidateDecalogue ();
     ValidateSacredArt ();
+    ValidateDivineService ();
     if strings.Contains line "web" || strings.Contains line "all" then BuildWeb () else Nop ();
     if strings.Contains line "epub" || strings.Contains line "all" then BuildEPUB () else Nop ();
     if strings.Contains line "pdf" || strings.Contains line "all" then BuildPrintableEditions () else Nop ();
