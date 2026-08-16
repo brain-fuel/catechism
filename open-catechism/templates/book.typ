@@ -1,6 +1,6 @@
 #import "../vendor/typst/cmarker/lib.typ" as cmarker
 
-#let catechism-template = (xs) => {
+#let catechism-template = (xs, edition: "Svebilius/Laine Edition") => {
   let title = "Open Catechism"
   set document(title: title, author: "Open Catechism")
   set page(
@@ -35,7 +35,7 @@
   align(center + horizon)[
     #text(font: "Overpass", size: 28pt, weight: "bold")[#title]
     #v(0.45in)
-    #text(size: 13pt)[Svebilius/Laine Edition]
+    #text(size: 13pt)[#edition]
     #v(0.3in)
     #text(size: 10pt)[Open Catechism]
   ]

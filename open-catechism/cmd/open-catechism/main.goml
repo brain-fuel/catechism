@@ -44,8 +44,8 @@ let BuildEPUB () : Unit :=
   Shell "set -eu; scripts/inject-epub-assets.sh dist/open-catechism.epub";
 }
 
-let BuildPDF () : Unit :=
-  Shell "set -eu; work=$(mktemp -d \"$PWD/dist/pdf-build.XXXXXX\"); mkdir -p \"$work/markdown\"; normalize(){ src=$1; dst=\"$work/markdown/$(basename \"$src\")\"; if test \"$(head -1 \"$src\")\" = '---'; then title=$(grep '^title:' \"$src\" | head -1 | cut -d: -f2- | tr -d '\"' | sed 's/^ *//'); printf '# %s\\n\\n' \"$title\" > \"$dst\"; awk 'NR==1 && $0==\"---\" { front=1; next } front && $0==\"---\" { front=0; next } !front { print }' \"$src\" >> \"$dst\"; else cp \"$src\" \"$dst\"; fi; sed -i '' '/^<a id=\"[^\"]*\"><\\/a>$/d' \"$dst\"; perl -pi -e 's/\\[([^]\\n]+)\\]\\(#[^)]+\\)/$1/g' \"$dst\"; }; for src in content/prefaces.md content/units/*.md content/divine-service.md content/divine-name.md; do normalize \"$src\"; done; build_pdf(){ out=$1; shift; { printf '%s\\n' '#import \"../templates/book.typ\": catechism-template'; printf '#catechism-template((\\n'; for src in \"$@\"; do printf '  \"../%s/markdown/%s\",\\n' \"${work#$PWD/}\" \"$(basename \"$src\")\"; done; printf '))\\n'; } > \"dist/$out.typ\"; typst compile --root . --font-path assets/fonts --ignore-system-fonts \"dist/$out.typ\" \"dist/$out.pdf\"; }; build_pdf open-catechism content/prefaces.md content/units/*.md content/divine-service.md content/divine-name.md; build_pdf 01-foundations-commandments content/prefaces.md content/units/0[1-9]-*.md content/units/1[0-2]-*.md content/divine-name.md; build_pdf 02-creed content/units/1[3-6]-*.md content/divine-name.md; build_pdf 03-lords-prayer content/units/1[7-9]-*.md content/units/2[0-6]-*.md content/divine-name.md; build_pdf 04-means-of-grace content/units/2[7-9]-*.md content/units/3[0-3]-*.md content/divine-name.md; build_pdf 05-daily-life-divine-service content/units/3[4-5]-*.md content/divine-service.md content/divine-name.md"
+let BuildPrintableEditions () : Unit :=
+  Shell "set -eu; scripts/build-pdfs.sh"
 
 let main () : Unit := do {
   let line := strings.Join os.Args " ";
@@ -60,7 +60,7 @@ let main () : Unit := do {
     ValidateEditorialBoilerplate ();
     if strings.Contains line "web" || strings.Contains line "all" then BuildWeb () else Nop ();
     if strings.Contains line "epub" || strings.Contains line "all" then BuildEPUB () else Nop ();
-    if strings.Contains line "pdf" || strings.Contains line "all" then BuildPDF () else Nop ();
+    if strings.Contains line "pdf" || strings.Contains line "all" then BuildPrintableEditions () else Nop ();
     fmt.Println "build: PASS"
   } else Nop ()
 }

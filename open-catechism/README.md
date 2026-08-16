@@ -26,6 +26,17 @@ source is GoML and lowers through `brain-fuel/goplus` v0.145.1 to ordinary Go;
 Typst is needed for PDF output. All textual datasets are local after
 synchronization.
 
+Each printable is built as a three-file family:
+
+- the standard PDF contains every Scripture passage in place;
+- the `-short.pdf` edition keeps passages of 50 words or fewer in place and
+  replaces longer passages with their citations and a pointer to its companion;
+- the matching `-passages.pdf` companion contains those longer passages in full,
+  grouped by unit and citation.
+
+This applies to the complete book and all five split printables, producing six
+standard PDFs, six shortened PDFs, and six Scripture-passages companions.
+
 The website is rendered from the canonical Markdown by Hugo v0.164.0 using the
 project-local `open-catechism` theme. Unit numbers indicate sequence; doctrinal
 titles—not generic unit labels—name links, pages, and browser titles.

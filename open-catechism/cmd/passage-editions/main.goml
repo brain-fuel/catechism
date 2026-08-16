@@ -1,0 +1,15 @@
+module main
+
+import "fmt"
+import "os"
+import "os/exec"
+
+let Nop () : Unit := fmt.Print ""
+
+let main () : Unit := do {
+  let command := exec.Command "sh" "-c" "set -eu; : \"${PASSAGE_INPUT:?}\" \"${PASSAGE_SHORT:?}\" \"${PASSAGE_COMPANION:?}\"; awk -f scripts/passage-editions.awk \"$PASSAGE_INPUT\"";
+  command.Stdout := os.Stdout;
+  command.Stderr := os.Stderr;
+  let err := command.Run ();
+  if err != nil then os.Exit 1 else Nop ()
+}
