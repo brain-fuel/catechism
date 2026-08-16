@@ -1,5 +1,7 @@
 dist/
 .tools/
 cmd/open-catechism/*_gml.go
+cmd/passage-editions/*_gml.go
+tmp/
 .DS_Store
 .hugo_build.lock
