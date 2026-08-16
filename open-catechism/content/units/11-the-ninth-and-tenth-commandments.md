@@ -327,11 +327,3 @@ Naboth would not surrender his fathers’ inheritance, but Ahab coveted it and J
 1. What does this unit teach us to confess about God?
 2. Which words accuse or command us, and which words promise Christ’s mercy?
 3. How may this teaching be practiced in household and congregation this week?
-
-## Endnotes and provenance
-
-- Resource groups: 11; reference occurrences: 21. Each group retains its source filename and numeric key in its stable ID.
-
-- Scripture: King James Version text from the pinned Open Catechism dataset; Divine Name and Third-Person terminology follow the editorial policy.
-
-- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.
