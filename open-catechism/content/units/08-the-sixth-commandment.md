@@ -36,7 +36,7 @@ Answer: First, in general, that all men should lead a chaste and pure life and s
 
 > **Titus 2:4,5**
 >
-> That the young women may learn good manners, to love their husbands, to hold their children dear, to be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
+> That the young women may learn good manners, to love their husbands, to hold their children dear, to be discreet, chaste, keepers at home, good, obedient to their own husbands, that the Word of God be not blasphemed.
 
 
 **What is forbidden in the seventh commandment?**
@@ -588,7 +588,7 @@ These passages locate **Disordered Desire** within the whole counsel of Holy Scr
 
 > **1 Timothy 1:8-11**
 >
-> **1:8** But we know that the law is good, if a man use it lawfully; **1:9** Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers, **1:10** For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine; **1:11** According to the glorious gospel of the blessed God, which was committed to my trust.
+> **1:8** But we know that the law is good, if a man use it lawfully; **1:9** Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers, **1:10** For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine; **1:11** According to the glorious Gospel of the blessed God, which was committed to my trust.
 
 > **Leviticus 18:22**
 >

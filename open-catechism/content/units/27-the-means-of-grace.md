@@ -86,15 +86,15 @@ These passages locate **The Word Received by Faith** within the whole counsel of
 
 > **1 Thessalonians 2:13**
 >
-> **2:13** For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it ot as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe.
+> **2:13** For this cause also thank we God without ceasing, because, when ye received the Word of God which ye heard of us, ye received it ot as the word of men, but as it is in truth, the Word of God, which effectually worketh also in you that believe.
 
 > **Ephesians 1:13**
 >
-> **1:13** In whom ye also trusted, after that ye heard the Word of Truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
+> **1:13** In whom ye also trusted, after that ye heard the Word of Truth, the Gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
 
 > **Hebrews 4:2**
 >
-> **4:2** For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.
+> **4:2** For unto us was the Gospel preached, as well as unto them: but the Word preached did not profit them, not being mixed with faith in them that heard it.
 
 > **James 1:21**
 >
@@ -106,7 +106,7 @@ These passages locate **The Word Received by Faith** within the whole counsel of
 
 > **Romans 10:17**
 >
-> **10:17** So then faith cometh by hearing, and hearing by the word of God.
+> **10:17** So then faith cometh by hearing, and hearing by the Word of God.
 
 
 <a id="rg-05-0-the-means-of-grace-006"></a>
@@ -125,15 +125,15 @@ These passages locate **The Scriptures Bear Witness to the Word Made Flesh** wit
 
 > **John 5:39-40**
 >
-> **5:39** Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. **5:40** And ye will not come to me, that ye might have life.
+> **5:39** Search the Scriptures; for in them ye think ye have eternal life: and they are they which testify of me. **5:40** And ye will not come to me, that ye might have life.
 
 > **Luke 24:27**
 >
-> **24:27** And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.
+> **24:27** And beginning at Moses and all the prophets, he expounded unto them in all the Scriptures the things concerning himself.
 
 > **Luke 24:44-45**
 >
-> **24:44** And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me. **24:45** Then opened he their understanding, that they might understand the scriptures,
+> **24:44** And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me. **24:45** Then opened he their understanding, that they might understand the Scriptures,
 
 
 <a id="rg-05-0-the-means-of-grace-007"></a>

@@ -141,7 +141,7 @@ These passages locate **Far More Than We Ask or Think** within the whole counsel
 
 > **Psalm 33:6**
 >
-> **33:6** By the word of Yahweh were the heavens made; and all the host of them by the breath of his mouth.
+> **33:6** By the Word of Yahweh were the heavens made; and all the host of them by the breath of his mouth.
 
 
 <a id="rg-04-3-the-lord-s-prayer-the-conclusion-004"></a>

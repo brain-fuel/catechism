@@ -54,7 +54,7 @@ Answer: Those which are made by the name of God unlawfully, needlessly, in vain 
 
 **What is witchcraft?**
 
-Answer: It is, not only when someone by the help of the devil does harm to his neighbour, but also when in superstitions the name and word of God are wrongly used to soothe and drive away diseases from men and beasts, to enchant, to inquire into secret and hidden things, and other such things.
+Answer: It is, not only when someone by the help of the devil does harm to his neighbour, but also when in superstitions the name and Word of God are wrongly used to soothe and drive away diseases from men and beasts, to enchant, to inquire into secret and hidden things, and other such things.
 
 > **Deut. 18:10**
 >
@@ -321,7 +321,7 @@ These passages locate **Misusing God's Name: Cursing and Sorcery** within the wh
 
 > **Acts 19:11-20**
 >
-> **19:11** And God wrought special miracles by the hands of Paul: **19:12** So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them. **19:13** Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth. **19:14** And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so. **19:15** And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye? **19:16** And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded. **19:17** And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified. **19:18** And many that believed came, and confessed, and shewed their deeds. **19:19** Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver. **19:20** So mightily grew the word of God and prevailed.
+> **19:11** And God wrought special miracles by the hands of Paul: **19:12** So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them. **19:13** Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth. **19:14** And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so. **19:15** And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye? **19:16** And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded. **19:17** And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified. **19:18** And many that believed came, and confessed, and shewed their deeds. **19:19** Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver. **19:20** So mightily grew the Word of God and prevailed.
 
 > **Acts 23:12-15**
 >
@@ -448,7 +448,7 @@ These passages locate **Faithfully Speaking God's Word** within the whole counse
 
 > **John 17:11-19**
 >
-> **17:11** And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are. **17:12** While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled. **17:13** And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves. **17:14** I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world. **17:15** I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. **17:16** They are not of the world, even as I am not of the world. **17:17** Sanctify them through thy truth: thy word is truth. **17:18** As thou hast sent me into the world, even so have I also sent them into the world. **17:19** And for their sakes I sanctify myself, that they also might be sanctified through the truth.
+> **17:11** And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are. **17:12** While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the Scripture might be fulfilled. **17:13** And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves. **17:14** I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world. **17:15** I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. **17:16** They are not of the world, even as I am not of the world. **17:17** Sanctify them through thy truth: thy word is truth. **17:18** As thou hast sent me into the world, even so have I also sent them into the world. **17:19** And for their sakes I sanctify myself, that they also might be sanctified through the truth.
 
 
 <a id="rg-02-2-the-second-commandment-014"></a>
@@ -532,7 +532,7 @@ These passages locate **Oaths and Vows** within the whole counsel of Holy Script
 
 > **Romans 1:9**
 >
-> **1:9** For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;
+> **1:9** For God is my witness, whom I serve with my spirit in the Gospel of his Son, that without ceasing I make mention of you always in my prayers;
 
 
 <a id="rg-02-2-the-second-commandment-018"></a>

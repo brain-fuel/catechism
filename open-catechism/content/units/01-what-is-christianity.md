@@ -60,7 +60,7 @@ Answer: Because all ought to learn it from childhood, and therein, as the childr
 
 > **1 Pet. 2:2**
 >
-> As newborn babes, desire the sincere milk of the word, that ye may grow thereby.
+> As newborn babes, desire the sincere milk of the Word, that ye may grow thereby.
 
 
 **Where is the Catechism taken from?**
@@ -255,11 +255,11 @@ These passages locate **The Purpose of Holy Scripture** within the whole counsel
 
 > **John 5:39**
 >
-> **5:39** Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
+> **5:39** Search the Scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
 
 > **Luke 24:27**
 >
-> **24:27** And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.
+> **24:27** And beginning at Moses and all the prophets, he expounded unto them in all the Scriptures the things concerning himself.
 
 
 <a id="rg-01-what-is-christianity-007"></a>
@@ -274,7 +274,7 @@ These passages locate **The Inspiration and Authority of Scripture** within the 
 
 > **2 Timothy 3:16-17**
 >
-> **3:16** All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: **3:17** That the man of God may be perfect, throughly furnished unto all good works.
+> **3:16** All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: **3:17** That the man of God may be perfect, throughly furnished unto all good works.
 
 > **Ephesians 2:19-20**
 >
@@ -297,7 +297,7 @@ These passages locate **The Authority and Power of God's Word** within the whole
 
 > **2 Peter 1:16-21**
 >
-> **1:16** For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty. **1:17** For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased. **1:18** And this voice which came from heaven we heard, when we were with him in the holy mount. **1:19** We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: **1:20** Knowing this first, that no prophecy of the scripture is of any private interpretation. **1:21** For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.
+> **1:16** For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty. **1:17** For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased. **1:18** And this voice which came from heaven we heard, when we were with him in the holy mount. **1:19** We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: **1:20** Knowing this first, that no prophecy of the Scripture is of any private interpretation. **1:21** For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.
 
 > **Acts 1:8**
 >
@@ -309,7 +309,7 @@ These passages locate **The Authority and Power of God's Word** within the whole
 
 > **John 10:35**
 >
-> **10:35** If he called them gods, unto whom the word of God came, and the scripture cannot be broken;
+> **10:35** If he called them gods, unto whom the Word of God came, and the Scripture cannot be broken;
 
 > **John 14:26**
 >
@@ -372,7 +372,7 @@ These passages locate **Receiving God's Word** within the whole counsel of Holy 
 
 > **Acts 17:11**
 >
-> **17:11** These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.
+> **17:11** These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the Scriptures daily, whether those things were so.
 
 > **Matthew 22:37**
 >
@@ -395,11 +395,11 @@ These passages locate **Holding Fast to Sound Doctrine** within the whole counse
 
 > **2 Peter 1:20-21**
 >
-> **1:20** Knowing this first, that no prophecy of the scripture is of any private interpretation. **1:21** For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.
+> **1:20** Knowing this first, that no prophecy of the Scripture is of any private interpretation. **1:21** For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.
 
 > **2 Peter 3:15-16**
 >
-> **3:15** And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you; **3:16** As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
+> **3:15** And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you; **3:16** As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other Scriptures, unto their own destruction.
 
 > **2 Timothy 4:3-4**
 >
@@ -441,7 +441,7 @@ These passages locate **Rightly Dividing Law and Gospel** within the whole couns
 
 > **Romans 1:16**
 >
-> **1:16** For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
+> **1:16** For I am not ashamed of the Gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
 
 > **Romans 3:20**
 >
@@ -450,9 +450,9 @@ These passages locate **Rightly Dividing Law and Gospel** within the whole couns
 
 <a id="rg-01-what-is-christianity-013"></a>
 
-### Self-Examination Before The Lord's Supper
+### Self-Examination Before the Lord's Supper
 
-These passages locate **Self-Examination Before The Lord's Supper** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Self-Examination Before the Lord's Supper** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:28**
 >

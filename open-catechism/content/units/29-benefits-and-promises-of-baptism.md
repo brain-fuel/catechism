@@ -229,7 +229,7 @@ These passages locate **The Promise Is for You and Your Children** within the wh
 
 > **Acts 16:25-34**
 >
-> **16:25** And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them. **16:26** And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one's bands were loosed. **16:27** And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled. **16:28** But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here. **16:29** Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas, **16:30** And brought them out, and said, Sirs, what must I do to be saved? **16:31** And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. **16:32** And they spake unto him the word of the Lord, and to all that were in his house. **16:33** And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway. **16:34** And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house.
+> **16:25** And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them. **16:26** And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one's bands were loosed. **16:27** And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled. **16:28** But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here. **16:29** Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas, **16:30** And brought them out, and said, Sirs, what must I do to be saved? **16:31** And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. **16:32** And they spake unto him the Word of the Lord, and to all that were in his house. **16:33** And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway. **16:34** And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house.
 
 > **Acts 2:39**
 >
@@ -267,7 +267,7 @@ These passages locate **Born Again Through the Living Word** within the whole co
 
 > **1 Peter 1:23**
 >
-> **1:23** Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.
+> **1:23** Being born again, not of corruptible seed, but of incorruptible, by the Word of God, which liveth and abideth for ever.
 
 > **Luke 23:39-43**
 >

@@ -239,7 +239,7 @@ These passages locate **Receiving with Thanksgiving** within the whole counsel o
 
 > **1 Timothy 4:4-5**
 >
-> **4:4** For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: **4:5** For it is sanctified by the word of God and prayer.
+> **4:4** For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: **4:5** For it is sanctified by the Word of God and prayer.
 
 > **Ephesians 5:19-20**
 >

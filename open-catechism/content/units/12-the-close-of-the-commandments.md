@@ -194,7 +194,7 @@ These passages locate **Judgment on Idolatry** within the whole counsel of Holy 
 
 > **2 Chronicles 36:17-21**
 >
-> **36:17** Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand. **36:18** And all the vessels of the house of God, great and small, and the treasures of the house of Yahweh, and the treasures of the king, and of his princes; all these he brought to Babylon. **36:19** And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof. **36:20** And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia: **36:21** To fulfil the word of Yahweh by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.
+> **36:17** Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand. **36:18** And all the vessels of the house of God, great and small, and the treasures of the house of Yahweh, and the treasures of the king, and of his princes; all these he brought to Babylon. **36:19** And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof. **36:20** And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia: **36:21** To fulfil the Word of Yahweh by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.
 
 > **Jeremiah 11:17**
 >
@@ -294,7 +294,7 @@ These passages locate **Wholehearted Obedience** within the whole counsel of Hol
 
 > **Romans 7:22**
 >
-> **7:22** For I delight in the law of God after the inward man:
+> **7:22** For I delight in the Law of God after the inward man:
 
 
 <a id="rg-02-11-the-close-of-the-commandments-008"></a>
@@ -328,7 +328,7 @@ These passages locate **Consequences of Disobedience** within the whole counsel 
 
 > **2 Chronicles 36:17-21**
 >
-> **36:17** Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand. **36:18** And all the vessels of the house of God, great and small, and the treasures of the house of Yahweh, and the treasures of the king, and of his princes; all these he brought to Babylon. **36:19** And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof. **36:20** And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia: **36:21** To fulfil the word of Yahweh by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.
+> **36:17** Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand. **36:18** And all the vessels of the house of God, great and small, and the treasures of the house of Yahweh, and the treasures of the king, and of his princes; all these he brought to Babylon. **36:19** And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof. **36:20** And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia: **36:21** To fulfil the Word of Yahweh by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.
 
 > **2 Kings 25:1**
 >
@@ -435,7 +435,7 @@ These passages locate **The Promise Fulfilled in Christ** within the whole couns
 
 > **Galatians 3:22**
 >
-> **3:22** But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.
+> **3:22** But the Scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.
 
 > **Luke 24:44**
 >

@@ -199,7 +199,7 @@ These passages locate **Sin Separates, Faith Shields** within the whole counsel 
 
 > **Ephesians 6:16-18**
 >
-> **6:16** Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. **6:17** And take the helmet of salvation, and the sword of the Spirit, which is the word of God: **6:18** Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
+> **6:16** Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. **6:17** And take the helmet of salvation, and the sword of the Spirit, which is the Word of God: **6:18** Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
 
 > **Isaiah 59:2**
 >

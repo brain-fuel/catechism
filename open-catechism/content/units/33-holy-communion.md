@@ -13,13 +13,13 @@ title: "Holy Communion"
 
 Answer: Because, by ancient Christian custom, it is held before the altar, or at such tables as in appearance are of the form of the altars of old.
 
-**Why is it called The Lord's Supper?**
+**Why is it called the Lord's Supper?**
 
 Answer: Because the Lord Jesus instituted this high meal by night, after He had eaten the paschal lamb, a little before He went to His death. It is also called the table of God or of the Lord, for at it are set forth high and heavenly dishes, as it is called the Mass in the Augsburg Confession, but not according to the faith of the papists.
 
 > **1 Cor. 11:20**
 >
-> When ye come together therefore into one place, this is not to eat The Lord's Supper.
+> When ye come together therefore into one place, this is not to eat the Lord's Supper.
 
 > **1 Cor. 10:21**
 >
@@ -77,9 +77,9 @@ Answer: With God nothing is impossible. Although we can neither search out nor c
 > It is impossible for God to lie.
 
 
-**What kind of eating and drinking takes place in The Lord’s Supper?**
+**What kind of eating and drinking takes place in the Lord’s Supper?**
 
-Answer: In The Lord's Supper a threefold eating and drinking takes place. 1. Natural and ordinary eating and drinking, when the bread and wine are taken into the mouth, swallowed, and consumed in the stomach. 2. Spiritual eating and drinking, which takes place by faith in the grace of God and in the merit of Jesus Christ. 3. Sacramental, which takes place in an incomprehensible and unsearchable manner, when all the guests, unworthy as well as worthy, receive with their mouth in the Supper the true body and blood of Christ, under the bread and wine. And this eating and drinking takes place especially in The Lord's Supper.
+Answer: In the Lord's Supper a threefold eating and drinking takes place. 1. Natural and ordinary eating and drinking, when the bread and wine are taken into the mouth, swallowed, and consumed in the stomach. 2. Spiritual eating and drinking, which takes place by faith in the grace of God and in the merit of Jesus Christ. 3. Sacramental, which takes place in an incomprehensible and unsearchable manner, when all the guests, unworthy as well as worthy, receive with their mouth in the Supper the true body and blood of Christ, under the bread and wine. And this eating and drinking takes place especially in the Lord's Supper.
 
 > **John 6:47-51**
 >
@@ -138,7 +138,7 @@ Answer: That we in humility might remember and proclaim those great good deeds w
 > As often as ye eat this bread, and drink this cup, ye do shew the Lord's death till He come.
 
 
-**What benefits does The Lord’s Supper give us?**
+**What benefits does the Lord’s Supper give us?**
 
 Answer: 1. Our faith is thereby strengthened and assured concerning the forgiveness of sins. 2. We become united with Christ, so that He is in us and we in Him. 3. Our faith is strengthened concerning the resurrection unto eternal life.
 
@@ -155,7 +155,7 @@ Answer: 1. Our faith is thereby strengthened and assured concerning the forgiven
 
 Answer: Not in the least; rather it is an accursed sin and idolatry when they are used to heal bodily diseases, which ought not to be allowed; but those who seek and desire such things ought to be rebuked and punished.
 
-**Is everyone free to choose whether to attend The Lord’s Supper or stay away?**
+**Is everyone free to choose whether to attend the Lord’s Supper or stay away?**
 
 Answer: By no means, for the Lord says: This do; eat and drink.
 
@@ -164,11 +164,11 @@ Answer: By no means, for the Lord says: This do; eat and drink.
 > See question 10 in this chief part.
 
 
-**How often should one receive The Lord’s Supper?**
+**How often should one receive the Lord’s Supper?**
 
 Answer: Not only once a year, but more often—as often as one’s conscience requires it for comfort and strengthening.
 
-**What moves us to go to The Lord's Supper?**
+**What moves us to go to the Lord's Supper?**
 
 Answer: 1. The command of Jesus Christ. 2. His gracious promise. 3. Our own need, weakness, and temptations, which always beset us.
 
@@ -191,7 +191,7 @@ Answer: After we have received absolution from the ministry of preaching, we oug
 
 **In conclusion, can you briefly tell me how to use all six chief parts rightly in the practice of the Christian faith?**
 
-Answer: When man has, from the ten commandments and the law of God, learned to know and to repent of his sins, he ought not to fall into doubt; but, by the guidance of the confession of faith and the gospel, straightway to flee to the merit of Jesus Christ, and by faith to make it his own and to be assured of the forgiveness of sins. Together with this he ought every day faithfully to pray to God concerning all his spiritual and bodily needs by the Lord's Prayer, which Jesus Himself has taught, ever mindful of the covenant of his baptism, in which he has promised to renounce the devil and all his works, and on the contrary to serve God in holiness and righteousness. And when he perceives that he has broken this and fallen into fault, he ought to go to confession, there to confess his sins and to pray for absolution from the ministry of preaching, to which the power is given to forgive sins on Christ's behalf; and then to go in a Christian manner to The Lord's Supper for the strengthening of his faith concerning the grace of God, the forgiveness of sins, and eternal life, which God grant unto us all graciously for Christ's sake!
+Answer: When man has, from the Ten Commandments and the Law of God, learned to know and to repent of his sins, he ought not to fall into doubt; but, by the guidance of the Confession of Faith and the Gospel, straightway to flee to the merit of Jesus Christ, and by faith to make it his own and to be assured of the forgiveness of sins. Together with this he ought every day faithfully to pray to God concerning all his spiritual and bodily needs by the Lord's Prayer, which Jesus Himself has taught, ever mindful of the covenant of his baptism, in which he has promised to renounce the devil and all his works, and on the contrary to serve God in holiness and righteousness. And when he perceives that he has broken this and fallen into fault, he ought to go to confession, there to confess his sins and to pray for absolution from the ministry of preaching, to which the power is given to forgive sins on Christ's behalf; and then to go in a Christian manner to the Lord's Supper for the strengthening of his faith concerning the grace of God, the forgiveness of sins, and eternal life, which God grant unto us all graciously for Christ's sake!
 
 The End. Ps. 41:14. Blessed be the Lord God of Israel from everlasting to everlasting. Amen, amen.
 
@@ -265,7 +265,7 @@ These passages locate **By the Word All Things Were Made** within the whole coun
 
 > **Hebrews 11:3**
 >
-> **11:3** Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.
+> **11:3** Through faith we understand that the worlds were framed by the Word of God, so that things which are seen were not made of things which do appear.
 
 > **John 1:1-3**
 >
@@ -445,7 +445,7 @@ These passages locate **When You Come Together** within the whole counsel of Hol
 
 > **1 Corinthians 11:20**
 >
-> **11:20** When ye come together therefore into one place, this is not to eat The Lord's Supper.
+> **11:20** When ye come together therefore into one place, this is not to eat the Lord's Supper.
 
 > **1 Corinthians 11:33**
 >

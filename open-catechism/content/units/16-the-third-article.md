@@ -70,7 +70,7 @@ Answer: For the sake of the common faith and doctrine which the congregation con
 
 > **Col. 1:23**
 >
-> The gospel is preached before every creature which is under heaven.
+> The Gospel is preached before every creature which is under heaven.
 
 
 **Where is the holy Christian Church to be found?**
@@ -262,7 +262,7 @@ Answer: We thereby make known that all which we here confess with our mouth we a
 > See Question 70.
 
 
-**Why, and for what benefit, do we make such a confession of faith?**
+**Why, and for what benefit, do we make such a Confession of Faith?**
 
 Answer: That we might thereby separate ourselves from all the unbelieving and the hypocrites, and that through such a confession we might also be saved.
 
@@ -379,7 +379,7 @@ These passages locate **Resisting or Following the Spirit** within the whole cou
 
 > **Romans 8:7**
 >
-> **8:7** Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.
+> **8:7** Because the carnal mind is enmity against God: for it is not subject to the Law of God, neither indeed can be.
 
 
 <a id="rg-03-3-1-the-apostles-creed-third-article-part-1-005"></a>
@@ -390,31 +390,31 @@ These passages locate **Faith Comes by the Word** within the whole counsel of Ho
 
 > **1 Corinthians 4:15**
 >
-> **4:15** For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel.
+> **4:15** For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the Gospel.
 
 > **1 Peter 1:23**
 >
-> **1:23** Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.
+> **1:23** Being born again, not of corruptible seed, but of incorruptible, by the Word of God, which liveth and abideth for ever.
 
 > **1 Peter 1:25**
 >
-> **1:25** But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.
+> **1:25** But the Word of the Lord endureth for ever. And this is the word which by the Gospel is preached unto you.
 
 > **1 Thessalonians 2:13**
 >
-> **2:13** For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it ot as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe.
+> **2:13** For this cause also thank we God without ceasing, because, when ye received the Word of God which ye heard of us, ye received it ot as the word of men, but as it is in truth, the Word of God, which effectually worketh also in you that believe.
 
 > **2 Thessalonians 2:14**
 >
-> **2:14** Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
+> **2:14** Whereunto he called you by our Gospel, to the obtaining of the glory of our Lord Jesus Christ.
 
 > **Acts 4:31**
 >
-> **4:31** And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.
+> **4:31** And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the Word of God with boldness.
 
 > **Ephesians 1:13**
 >
-> **1:13** In whom ye also trusted, after that ye heard the Word of Truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
+> **1:13** In whom ye also trusted, after that ye heard the Word of Truth, the Gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
 
 > **John 17:20**
 >
@@ -422,11 +422,11 @@ These passages locate **Faith Comes by the Word** within the whole counsel of Ho
 
 > **Romans 10:17**
 >
-> **10:17** So then faith cometh by hearing, and hearing by the word of God.
+> **10:17** So then faith cometh by hearing, and hearing by the Word of God.
 
 > **Romans 1:16**
 >
-> **1:16** For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
+> **1:16** For I am not ashamed of the Gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
 
 
 <a id="rg-03-3-1-the-apostles-creed-third-article-part-1-006"></a>
@@ -437,15 +437,15 @@ These passages locate **The Means of Grace** within the whole counsel of Holy Sc
 
 > **1 Corinthians 4:15**
 >
-> **4:15** For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel.
+> **4:15** For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the Gospel.
 
 > **1 Peter 1:23**
 >
-> **1:23** Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.
+> **1:23** Being born again, not of corruptible seed, but of incorruptible, by the Word of God, which liveth and abideth for ever.
 
 > **1 Thessalonians 1:5**
 >
-> **1:5** For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake.
+> **1:5** For our Gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake.
 
 > **2 Corinthians 4:6**
 >
@@ -469,7 +469,7 @@ These passages locate **The Means of Grace** within the whole counsel of Holy Sc
 
 > **Romans 10:17**
 >
-> **10:17** So then faith cometh by hearing, and hearing by the word of God.
+> **10:17** So then faith cometh by hearing, and hearing by the Word of God.
 
 > **Titus 3:5**
 >
@@ -577,7 +577,7 @@ These passages locate **Living by the Spirit** within the whole counsel of Holy 
 
 > **Mark 14:3-9**
 >
-> **14:3** And being in Bethany in the house of Simon the leper, as he sat at meat, there came a woman having an alabaster box of ointment of spikenard very precious; and she brake the box, and poured it on his head. **14:4** And there were some that had indignation within themselves, and said, Why was this waste of the ointment made? **14:5** For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her. **14:6** And Jesus said, Let her alone; why trouble ye her? she hath wrought a good work on me. **14:7** For ye have the poor with you always, and whensoever ye will ye may do them good: but me ye have not always. **14:8** She hath done what she could: she is come aforehand to anoint my body to the burying. **14:9** Verily I say unto you, Wheresoever this gospel shall be preached throughout the whole world, this also that she hath done shall be spoken of for a memorial of her.
+> **14:3** And being in Bethany in the house of Simon the leper, as he sat at meat, there came a woman having an alabaster box of ointment of spikenard very precious; and she brake the box, and poured it on his head. **14:4** And there were some that had indignation within themselves, and said, Why was this waste of the ointment made? **14:5** For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her. **14:6** And Jesus said, Let her alone; why trouble ye her? she hath wrought a good work on me. **14:7** For ye have the poor with you always, and whensoever ye will ye may do them good: but me ye have not always. **14:8** She hath done what she could: she is come aforehand to anoint my body to the burying. **14:9** Verily I say unto you, Wheresoever this Gospel shall be preached throughout the whole world, this also that she hath done shall be spoken of for a memorial of her.
 
 > **Psalm 119**
 >
@@ -718,7 +718,7 @@ These passages locate **Predestined in Christ** within the whole counsel of Holy
 
 > **Acts 13:44-48**
 >
-> **13:44** And the next sabbath day came almost the whole city together to hear the word of God. **13:45** But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming. **13:46** Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles. **13:47** For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth. **13:48** And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
+> **13:44** And the next sabbath day came almost the whole city together to hear the Word of God. **13:45** But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming. **13:46** Then Paul and Barnabas waxed bold, and said, It was necessary that the Word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles. **13:47** For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth. **13:48** And when the Gentiles heard this, they were glad, and glorified the Word of the Lord: and as many as were ordained to eternal life believed.
 
 > **Ephesians 1:3-7**
 >
@@ -741,7 +741,7 @@ These passages locate **Revealed by the Spirit** within the whole counsel of Hol
 
 > **1 Thessalonians 2:13**
 >
-> **2:13** For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it ot as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe.
+> **2:13** For this cause also thank we God without ceasing, because, when ye received the Word of God which ye heard of us, ye received it ot as the word of men, but as it is in truth, the Word of God, which effectually worketh also in you that believe.
 
 > **Ephesians 3:14-19**
 >
@@ -757,7 +757,7 @@ These passages locate **Revealed by the Spirit** within the whole counsel of Hol
 
 > **Romans 10:17**
 >
-> **10:17** So then faith cometh by hearing, and hearing by the word of God.
+> **10:17** So then faith cometh by hearing, and hearing by the Word of God.
 
 
 <a id="rg-03-3-1-the-apostles-creed-third-article-part-1-019"></a>
@@ -973,7 +973,7 @@ These passages locate **Forgiveness Proclaimed to All Nations** within the whole
 
 > **Romans 1:16**
 >
-> **1:16** For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
+> **1:16** For I am not ashamed of the Gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
 
 
 <a id="rg-03-3-2-the-apostles-creed-third-article-part-2-012"></a>
@@ -1122,7 +1122,7 @@ These passages locate **The Means the Spirit Uses** within the whole counsel of 
 
 > **Romans 10:17**
 >
-> **10:17** So then faith cometh by hearing, and hearing by the word of God.
+> **10:17** So then faith cometh by hearing, and hearing by the Word of God.
 
 
 <a id="rg-03-3-2-the-apostles-creed-third-article-part-2-019"></a>
@@ -1137,7 +1137,7 @@ These passages locate **Life Together in Love** within the whole counsel of Holy
 
 > **2 Timothy 1:8**
 >
-> **1:8** Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;
+> **1:8** Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the Gospel according to the power of God;
 
 > **Acts 2:42-43**
 >
@@ -1188,7 +1188,7 @@ These passages locate **Sent to Witness and Proclaim** within the whole counsel 
 
 > **Acts 8:26-35**
 >
-> **8:26** And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert. **8:27** And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship, **8:28** Was returning, and sitting in his chariot read Esaias the prophet. **8:29** Then the Spirit said unto Philip, Go near, and join thyself to this chariot. **8:30** And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest? **8:31** And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him. **8:32** The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth: **8:33** In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth. **8:34** And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man? **8:35** Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus.
+> **8:26** And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert. **8:27** And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship, **8:28** Was returning, and sitting in his chariot read Esaias the prophet. **8:29** Then the Spirit said unto Philip, Go near, and join thyself to this chariot. **8:30** And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest? **8:31** And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him. **8:32** The place of the Scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth: **8:33** In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth. **8:34** And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man? **8:35** Then Philip opened his mouth, and began at the same Scripture, and preached unto him Jesus.
 
 > **Matthew 28:19**
 >
@@ -1203,7 +1203,7 @@ These passages locate **Abiding in the Word** within the whole counsel of Holy S
 
 > **Colossians 3:16**
 >
-> **3:16** Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
+> **3:16** Let the Word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
 > **John 15:5**
 >
@@ -1230,7 +1230,7 @@ These passages locate **Testing Everything by Scripture** within the whole couns
 
 > **Acts 17:11**
 >
-> **17:11** These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.
+> **17:11** These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the Scriptures daily, whether those things were so.
 
 
 <a id="rg-03-3-2-the-apostles-creed-third-article-part-2-023"></a>
@@ -1245,7 +1245,7 @@ These passages locate **Beware of False Teachers** within the whole counsel of H
 
 > **Galatians 1:8**
 >
-> **1:8** But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
+> **1:8** But though we, or an angel from heaven, preach any other Gospel unto you than that which we have preached unto you, let him be accursed.
 
 > **Matthew 7:15-16**
 >
@@ -1264,7 +1264,7 @@ These passages locate **Sending and Supporting the Ministry** within the whole c
 
 > **2 Corinthians 8-9**
 >
-> **8:1** Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia; **8:2** How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality. **8:3** For to their power, I bear record, yea, and beyond their power they were willing of themselves; **8:4** Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints. **8:5** And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God. **8:6** Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also. **8:7** Therefore, as ye abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that ye abound in this grace also. **8:8** I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love. **8:9** For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich. **8:10** And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago. **8:11** Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have. **8:12** For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not. **8:13** For I mean not that other men be eased, and ye burdened: **8:14** But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality: **8:15** As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack. **8:16** But thanks be to God, which put the same earnest care into the heart of Titus for you. **8:17** For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you. **8:18** And we have sent with him the brother, whose praise is in the gospel throughout all the churches; **8:19** And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind: **8:20** Avoiding this, that no man should blame us in this abundance which is administered by us: **8:21** Providing for honest things, not only in the sight of the Lord, but also in the sight of men. **8:22** And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you. **8:23** Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ. **8:24** Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf. **9:1** For as touching the ministering to the saints, it is superfluous for me to write to you: **9:2** For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many. **9:3** Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready: **9:4** Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting. **9:5** Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness. **9:6** But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully. **9:7** Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver. **9:8** And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work: **9:9** (As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever. **9:10** Now he that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;) **9:11** Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God. **9:12** For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God; **9:13** Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men; **9:14** And by their prayer for you, which long after you for the exceeding grace of God in you. **9:15** Thanks be unto God for his unspeakable gift.
+> **8:1** Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia; **8:2** How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality. **8:3** For to their power, I bear record, yea, and beyond their power they were willing of themselves; **8:4** Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints. **8:5** And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God. **8:6** Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also. **8:7** Therefore, as ye abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that ye abound in this grace also. **8:8** I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love. **8:9** For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich. **8:10** And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago. **8:11** Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have. **8:12** For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not. **8:13** For I mean not that other men be eased, and ye burdened: **8:14** But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality: **8:15** As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack. **8:16** But thanks be to God, which put the same earnest care into the heart of Titus for you. **8:17** For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you. **8:18** And we have sent with him the brother, whose praise is in the Gospel throughout all the churches; **8:19** And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind: **8:20** Avoiding this, that no man should blame us in this abundance which is administered by us: **8:21** Providing for honest things, not only in the sight of the Lord, but also in the sight of men. **8:22** And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you. **8:23** Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ. **8:24** Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf. **9:1** For as touching the ministering to the saints, it is superfluous for me to write to you: **9:2** For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many. **9:3** Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready: **9:4** Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting. **9:5** Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness. **9:6** But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully. **9:7** Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver. **9:8** And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work: **9:9** (As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever. **9:10** Now he that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;) **9:11** Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God. **9:12** For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God; **9:13** Whiles by the experiment of this ministration they glorify God for your professed subjection unto the Gospel of Christ, and for your liberal distribution unto them, and unto all men; **9:14** And by their prayer for you, which long after you for the exceeding grace of God in you. **9:15** Thanks be unto God for his unspeakable gift.
 
 > **Acts 2:17-39**
 >
@@ -1329,7 +1329,7 @@ These passages locate **The Gates of Hell Shall Not Prevail** within the whole c
 
 > **John 17:12**
 >
-> **17:12** While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
+> **17:12** While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the Scripture might be fulfilled.
 
 > **Matthew 16:18**
 >
@@ -1609,7 +1609,7 @@ These passages locate **A New Heaven and a New Earth** within the whole counsel 
 
 > **2 Peter 3:5-13**
 >
-> **3:5** For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water: **3:6** Whereby the world that then was, being overflowed with water, perished: **3:7** But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men. **3:8** But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day. **3:9** The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. **3:10** But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up. **3:11** Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness, **3:12** Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat? **3:13** Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.
+> **3:5** For this they willingly are ignorant of, that by the Word of God the heavens were of old, and the earth standing out of the water and in the water: **3:6** Whereby the world that then was, being overflowed with water, perished: **3:7** But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men. **3:8** But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day. **3:9** The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. **3:10** But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up. **3:11** Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness, **3:12** Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat? **3:13** Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.
 
 > **Isaiah 60:19-20**
 >
@@ -1729,7 +1729,7 @@ These passages locate **The First Resurrection** within the whole counsel of Hol
 
 > **Revelation 20:4-6**
 >
-> **20:4** And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years. **20:5** But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection. **20:6** Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.
+> **20:4** And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the Word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years. **20:5** But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection. **20:6** Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.
 
 
 <a id="rg-03-3-3-the-apostles-creed-third-article-part-3-014"></a>
@@ -1740,7 +1740,7 @@ These passages locate **Appointed Once to Die, Then Judgment** within the whole 
 
 > **1 Thessalonians 4:13-18**
 >
-> **4:13** But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. **4:14** For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him. **4:15** For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep. **4:16** For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: **4:17** Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord. **4:18** Wherefore comfort one another with these words.
+> **4:13** But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. **4:14** For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him. **4:15** For this we say unto you by the Word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep. **4:16** For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: **4:17** Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord. **4:18** Wherefore comfort one another with these words.
 
 > **1 Thessalonians 5:1-3**
 >

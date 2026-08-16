@@ -40,7 +40,7 @@ Answer: When someone confesses his sins by himself, or alone.
 
 **How is it done?**
 
-Answer: In many ways: 1. Before God alone, when someone, being alone by himself, or in his own heart, sighs unto God, confesses his sins and prays that they be forgiven, as David, Manasseh, and the publican did: such a confession of sin is always needful, and ought to be made every day. 2. Before the whole congregation; when a public sinner, who has committed a great transgression, confesses and prays forgiveness for his sins; this is called public confession. 3. Before a neighbour whom someone has angered, and from whom he prays forgiveness for his offence. 4. Before the ministers of the word sins are also confessed, whether all in common or some particular sin that troubles someone's conscience; this is called private confession and disclosure, and no one may make it known.
+Answer: In many ways: 1. Before God alone, when someone, being alone by himself, or in his own heart, sighs unto God, confesses his sins and prays that they be forgiven, as David, Manasseh, and the publican did: such a confession of sin is always needful, and ought to be made every day. 2. Before the whole congregation; when a public sinner, who has committed a great transgression, confesses and prays forgiveness for his sins; this is called public confession. 3. Before a neighbour whom someone has angered, and from whom he prays forgiveness for his offence. 4. Before the ministers of the Word sins are also confessed, whether all in common or some particular sin that troubles someone's conscience; this is called private confession and disclosure, and no one may make it known.
 
 > **Ps. 51:6**
 >
@@ -86,7 +86,7 @@ Answer: Two: first, a true sorrow and contrition for sin; second, faith in Chris
 
 > **Mark 1:15**
 >
-> The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.
+> The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the Gospel.
 
 > **Acts 20:21**
 >
@@ -95,7 +95,7 @@ Answer: Two: first, a true sorrow and contrition for sin; second, faith in Chris
 
 **Where do the knowledge of sin and contrition come from?**
 
-Answer: From the law of God, which awakens man's conscience, shows him that he has done evil and thereby earned the wrath of God, temporal and eternal punishment.
+Answer: From the Law of God, which awakens man's conscience, shows him that he has done evil and thereby earned the wrath of God, temporal and eternal punishment.
 
 > **Rom. 3:20**
 >
@@ -108,16 +108,16 @@ Answer: From the law of God, which awakens man's conscience, shows him that he h
 
 **Where does faith come from?**
 
-Answer: From the sweet teaching of the gospel and the promises of grace concerning the forgiveness of sins for Christ's sake.
+Answer: From the sweet teaching of the Gospel and the promises of grace concerning the forgiveness of sins for Christ's sake.
 
 > **Rom. 1:16**
 >
-> I am not ashamed of the gospel of Christ, for it is the power of God unto salvation to every one that believeth.
+> I am not ashamed of the Gospel of Christ, for it is the power of God unto salvation to every one that believeth.
 
 
 **What is Absolution?**
 
-Answer: It is the promise and assurance of the forgiveness of sins, given by the ministers of the word on Christ's behalf.
+Answer: It is the promise and assurance of the forgiveness of sins, given by the ministers of the Word on Christ's behalf.
 
 **Who has given the minister of the Word this power?**
 
@@ -183,11 +183,11 @@ Answer: It is the power given whereby the preacher binds the impenitent in his s
 
 **What is excommunication, or being placed under the ban?**
 
-Answer: It is this: when the impenitent and unworthy sinner is shut out from The Lord's Supper, or also altogether from the fellowship of the congregation; the latter is called the greater ban, but the former the lesser.
+Answer: It is this: when the impenitent and unworthy sinner is shut out from the Lord's Supper, or also altogether from the fellowship of the congregation; the latter is called the greater ban, but the former the lesser.
 
 **Can someone who has been excommunicated and bound in his sins be received into grace again?**
 
-Answer: Assuredly he can; when he turns himself, showing true contrition and repentance, he is to be set right with the comfort of the gospel and assured of God's grace; for the key of retaining is not given for damnation, but for the amendment and setting right of the soul.
+Answer: Assuredly he can; when he turns himself, showing true contrition and repentance, he is to be set right with the comfort of the Gospel and assured of God's grace; for the key of retaining is not given for damnation, but for the amendment and setting right of the soul.
 
 > **Ezek. 18:21**
 >
@@ -448,7 +448,7 @@ These passages locate **The Seven Penitential Psalms** within the whole counsel 
 
 > **Psalm 51**
 >
-> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin. **51:3** For I acknowledge my transgressions: and my sin is ever before me. **51:4** Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest. **51:5** Behold, I was shapen in iniquity; and in sin did my mother conceive me. **51:6** Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom. **51:7** Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow. **51:8** Make me to hear joy and gladness; that the bones which thou hast broken may rejoice. **51:9** Hide thy face from my sins, and blot out all mine iniquities. **51:10** Create in me a clean heart, O God; and renew a right spirit within me. **51:11** Cast me not away from thy presence; and take not thy holy spirit from me. **51:12** Restore unto me the joy of thy salvation; and uphold me with thy free spirit. **51:13** Then will I teach transgressors thy ways; and sinners shall be converted unto thee. **51:14** Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness. **51:15** O Lord, open thou my lips; and my mouth shall shew forth thy praise. **51:16** For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering. **51:17** The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise. **51:18** Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem. **51:19** Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
+> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin. **51:3** For I acknowledge my transgressions: and my sin is ever before me. **51:4** Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest. **51:5** Behold, I was shapen in iniquity; and in sin did my mother conceive me. **51:6** Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom. **51:7** Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow. **51:8** Make me to hear joy and gladness; that the bones which thou hast broken may rejoice. **51:9** Hide thy face from my sins, and blot out all mine iniquities. **51:10** Create in me a clean heart, O God; and renew a right spirit within me. **51:11** Cast me not away from thy presence; and take not thy Holy Ghost from me. **51:12** Restore unto me the joy of thy salvation; and uphold me with thy free spirit. **51:13** Then will I teach transgressors thy ways; and sinners shall be converted unto thee. **51:14** Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness. **51:15** O Lord, open thou my lips; and my mouth shall shew forth thy praise. **51:16** For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering. **51:17** The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise. **51:18** Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem. **51:19** Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
 
 > **Psalm 6**
 >
@@ -530,7 +530,7 @@ These passages locate **Repent and Believe** within the whole counsel of Holy Sc
 
 > **Mark 1:15**
 >
-> **1:15** And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.
+> **1:15** And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the Gospel.
 
 > **Psalm 32:5**
 >
@@ -549,7 +549,7 @@ These passages locate **Gathered in His Name** within the whole counsel of Holy 
 
 > **Luke 24:45-47**
 >
-> **24:45** Then opened he their understanding, that they might understand the scriptures, **24:46** And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day: **24:47** And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.
+> **24:45** Then opened he their understanding, that they might understand the Scriptures, **24:46** And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day: **24:47** And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.
 
 > **Matthew 18:20**
 >
@@ -644,7 +644,7 @@ These passages locate **How Shall They Preach Unless Sent?** within the whole co
 
 > **Romans 10:15**
 >
-> **10:15** And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
+> **10:15** And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the Gospel of peace, and bring glad tidings of good things!
 
 
 <a id="rg-05-2-1-confession-and-absolution-024"></a>
@@ -689,7 +689,7 @@ These passages locate **Order and Gifts in the Church** within the whole counsel
 
 > **1 Corinthians 14:33-36**
 >
-> **14:33** For God is not the author of confusion, but of peace, as in all churches of the saints. **14:34** Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience, as also saith the law. **14:35** And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church. **14:36** What? came the word of God out from you? or came it unto you only?
+> **14:33** For God is not the author of confusion, but of peace, as in all churches of the saints. **14:34** Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience, as also saith the law. **14:35** And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church. **14:36** What? came the Word of God out from you? or came it unto you only?
 
 > **1 Peter 4:10**
 >

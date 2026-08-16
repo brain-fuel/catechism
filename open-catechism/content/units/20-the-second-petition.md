@@ -36,7 +36,7 @@ Answer: When we here, through the grace of God, believe His holy word and abide 
 
 **What is the will of God?**
 
-Answer: It is the will of God, which He hath made known unto us in His word, which teacheth us what we ought to believe, to do, and to suffer; namely, out of the law: to lead a holy and blameless life; and out of the gospel: to believe on Christ; and, when He layeth some cross upon us, that we bear it patiently.
+Answer: It is the will of God, which He hath made known unto us in His word, which teacheth us what we ought to believe, to do, and to suffer; namely, out of the law: to lead a holy and blameless life; and out of the Gospel: to believe on Christ; and, when He layeth some cross upon us, that we bear it patiently.
 
 > **1 Thess. 4:3,4**
 >
@@ -182,7 +182,7 @@ These passages locate **The Kingdom Is at Hand** within the whole counsel of Hol
 
 > **Mark 1:15**
 >
-> **1:15** And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.
+> **1:15** And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the Gospel.
 
 
 <a id="rg-04-2-2-the-lord-s-prayer-the-second-petition-004"></a>
@@ -262,7 +262,7 @@ These passages locate **Spirit, Word, and Godly Life** within the whole counsel 
 
 > **Psalm 51:11-12**
 >
-> **51:11** Cast me not away from thy presence; and take not thy holy spirit from me. **51:12** Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
+> **51:11** Cast me not away from thy presence; and take not thy Holy Ghost from me. **51:12** Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
 
 
 <a id="rg-04-2-2-the-lord-s-prayer-the-second-petition-008"></a>
@@ -273,7 +273,7 @@ These passages locate **Pray That the Word Speed Ahead** within the whole counse
 
 > **2 Thessalonians 3:1**
 >
-> **3:1** Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:
+> **3:1** Finally, brethren, pray for us, that the Word of the Lord may have free course, and be glorified, even as it is with you:
 
 > **Acts 4:29**
 >

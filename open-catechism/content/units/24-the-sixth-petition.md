@@ -192,7 +192,7 @@ These passages locate **Watch and Pray** within the whole counsel of Holy Script
 
 > **Matthew 24:9-14**
 >
-> **24:9** Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake. **24:10** And then shall many be offended, and shall betray one another, and shall hate one another. **24:11** And many false prophets shall rise, and shall deceive many. **24:12** And because iniquity shall abound, the love of many shall wax cold. **24:13** But he that shall endure unto the end, the same shall be saved. **24:14** And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
+> **24:9** Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake. **24:10** And then shall many be offended, and shall betray one another, and shall hate one another. **24:11** And many false prophets shall rise, and shall deceive many. **24:12** And because iniquity shall abound, the love of many shall wax cold. **24:13** But he that shall endure unto the end, the same shall be saved. **24:14** And this Gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
 
 
 <a id="rg-04-2-6-the-lord-s-prayer-the-sixth-petition-004"></a>
@@ -211,7 +211,7 @@ These passages locate **Flee, Lest You Fall Away** within the whole counsel of H
 
 > **Hebrews 6:4-6**
 >
-> **6:4** For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost, **6:5** And have tasted the good word of God, and the powers of the world to come, **6:6** If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.
+> **6:4** For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost, **6:5** And have tasted the good Word of God, and the powers of the world to come, **6:6** If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.
 
 > **Proverbs 1:10**
 >
@@ -238,7 +238,7 @@ These passages locate **Armed with the Word** within the whole counsel of Holy S
 
 > **Ephesians 6:11, 17-18**
 >
-> **6:11** Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. **6:17** And take the helmet of salvation, and the sword of the Spirit, which is the word of God: **6:18** Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
+> **6:11** Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. **6:17** And take the helmet of salvation, and the sword of the Spirit, which is the Word of God: **6:18** Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
 
 > **Matthew 4:1-11**
 >

@@ -45,7 +45,7 @@ Answer: It is: to hold it as the soul's best treasure; not as the word of men, b
 
 > **1 Thess. 2:13**
 >
-> When ye received the word of God which ye heard of us, ye received it not as the word of men, but (as it is in truth) the word of God, which effectually worketh also in you that believe.
+> When ye received the Word of God which ye heard of us, ye received it not as the word of men, but (as it is in truth) the Word of God, which effectually worketh also in you that believe.
 
 > **Acts 13:26**
 >
@@ -285,7 +285,7 @@ These passages locate **Hearing the Preached Word** within the whole counsel of 
 
 > **1 Samuel 15:10-23**
 >
-> **15:10** Then came the word of Yahweh unto Samuel, saying, **15:11** It repenteth me that I have set up Saul to be king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto Yahweh all night. **15:12** And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal. **15:13** And Samuel came to Saul: and Saul said unto him, Blessed be thou of Yahweh: I have performed the commandment of Yahweh. **15:14** And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear? **15:15** And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto Yahweh thy God; and the rest we have utterly destroyed. **15:16** Then Samuel said unto Saul, Stay, and I will tell thee what Yahweh hath said to me this night. And he said unto him, Say on. **15:17** And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and Yahweh anointed thee king over Israel? **15:18** And Yahweh sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed. **15:19** Wherefore then didst thou not obey the voice of Yahweh, but didst fly upon the spoil, and didst evil in the sight of Yahweh? **15:20** And Saul said unto Samuel, Yea, I have obeyed the voice of Yahweh, and have gone the way which Yahweh sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites. **15:21** But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto Yahweh thy God in Gilgal. **15:22** And Samuel said, Hath Yahweh as great delight in burnt offerings and sacrifices, as in obeying the voice of Yahweh? Behold, to obey is better than sacrifice, and to hearken than the fat of rams. **15:23** For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of Yahweh, he hath also rejected thee from being king.
+> **15:10** Then came the Word of Yahweh unto Samuel, saying, **15:11** It repenteth me that I have set up Saul to be king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto Yahweh all night. **15:12** And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal. **15:13** And Samuel came to Saul: and Saul said unto him, Blessed be thou of Yahweh: I have performed the commandment of Yahweh. **15:14** And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear? **15:15** And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto Yahweh thy God; and the rest we have utterly destroyed. **15:16** Then Samuel said unto Saul, Stay, and I will tell thee what Yahweh hath said to me this night. And he said unto him, Say on. **15:17** And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and Yahweh anointed thee king over Israel? **15:18** And Yahweh sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed. **15:19** Wherefore then didst thou not obey the voice of Yahweh, but didst fly upon the spoil, and didst evil in the sight of Yahweh? **15:20** And Saul said unto Samuel, Yea, I have obeyed the voice of Yahweh, and have gone the way which Yahweh sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites. **15:21** But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto Yahweh thy God in Gilgal. **15:22** And Samuel said, Hath Yahweh as great delight in burnt offerings and sacrifices, as in obeying the voice of Yahweh? Behold, to obey is better than sacrifice, and to hearken than the fat of rams. **15:23** For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the Word of Yahweh, he hath also rejected thee from being king.
 
 > **1 Timothy 4:11-16**
 >
@@ -308,7 +308,7 @@ These passages locate **Delighting in God's Word** within the whole counsel of H
 
 > **Colossians 3:16**
 >
-> **3:16** Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
+> **3:16** Let the Word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
 > **Luke 2:8-20**
 >
@@ -331,7 +331,7 @@ These passages locate **Devotion to the Word** within the whole counsel of Holy 
 
 > **Acts 17:10-11**
 >
-> **17:10** And the brethren immediately sent away Paul and Silas by night unto Berea: who coming thither went into the synagogue of the Jews. **17:11** These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.
+> **17:10** And the brethren immediately sent away Paul and Silas by night unto Berea: who coming thither went into the synagogue of the Jews. **17:11** These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the Scriptures daily, whether those things were so.
 
 > **Acts 2:42**
 >
@@ -343,7 +343,7 @@ These passages locate **Devotion to the Word** within the whole counsel of Holy 
 
 > **Luke 11:28**
 >
-> **11:28** But he said, Yea rather, blessed are they that hear the word of God, and keep it.
+> **11:28** But he said, Yea rather, blessed are they that hear the Word of God, and keep it.
 
 > **Psalm 26:8**
 >
@@ -388,7 +388,7 @@ These passages locate **Rest in the Lord** within the whole counsel of Holy Scri
 
 > **Hebrews 4:1-13**
 >
-> **4:1** Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it. **4:2** For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it. **4:3** For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world. **4:4** For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works. **4:5** And in this place again, If they shall enter into my rest. **4:6** Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief: **4:7** Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts. **4:8** For if Jesus had given them rest, then would he not afterward have spoken of another day. **4:9** There remaineth therefore a rest to the people of God. **4:10** For he that is entered into his rest, he also hath ceased from his own works, as God did from his. **4:11** Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief. **4:12** For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart. **4:13** Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.
+> **4:1** Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it. **4:2** For unto us was the Gospel preached, as well as unto them: but the Word preached did not profit them, not being mixed with faith in them that heard it. **4:3** For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world. **4:4** For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works. **4:5** And in this place again, If they shall enter into my rest. **4:6** Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief: **4:7** Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts. **4:8** For if Jesus had given them rest, then would he not afterward have spoken of another day. **4:9** There remaineth therefore a rest to the people of God. **4:10** For he that is entered into his rest, he also hath ceased from his own works, as God did from his. **4:11** Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief. **4:12** For the Word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart. **4:13** Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.
 
 > **Mark 4:35-41**
 >
@@ -434,11 +434,11 @@ These passages locate **The Word Dwelling in Us** within the whole counsel of Ho
 
 > **1 Timothy 4:4-5**
 >
-> **4:4** For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: **4:5** For it is sanctified by the word of God and prayer.
+> **4:4** For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: **4:5** For it is sanctified by the Word of God and prayer.
 
 > **Colossians 3:16**
 >
-> **3:16** Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
+> **3:16** Let the Word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
 > **Psalm 119:11-13**
 >
@@ -457,7 +457,7 @@ These passages locate **The Lord's Day** within the whole counsel of Holy Script
 
 > **Colossians 3:15-17**
 >
-> **3:15** And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful. **3:16** Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord. **3:17** And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.
+> **3:15** And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful. **3:16** Let the Word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord. **3:17** And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.
 
 > **John 20:19-31**
 >
@@ -495,7 +495,7 @@ These passages locate **The Means of Grace** within the whole counsel of Holy Sc
 
 > **2 Thessalonians 2:14**
 >
-> **2:14** Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
+> **2:14** Whereunto he called you by our Gospel, to the obtaining of the glory of our Lord Jesus Christ.
 
 > **Acts 10:43**
 >
@@ -538,7 +538,7 @@ These passages locate **Gathering on the Lord's Day** within the whole counsel o
 
 > **Jeremiah 6:10**
 >
-> **6:10** To whom shall I speak, and give warning, that they may hear? behold, their ear is uncircumcised, and they cannot hearken: behold, the word of Yahweh is unto them a reproach; they have no delight in it.
+> **6:10** To whom shall I speak, and give warning, that they may hear? behold, their ear is uncircumcised, and they cannot hearken: behold, the Word of Yahweh is unto them a reproach; they have no delight in it.
 
 > **John 8:47**
 >
@@ -565,7 +565,7 @@ These passages locate **The Assembly of the Saints** within the whole counsel of
 
 > **Colossians 3:16**
 >
-> **3:16** Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
+> **3:16** Let the Word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
 > **Hebrews 10:25**
 >

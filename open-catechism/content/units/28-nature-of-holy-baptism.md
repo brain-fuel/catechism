@@ -11,7 +11,7 @@ title: "Nature of Holy Baptism"
 
 **What is a sacrament?**
 
-Answer: A sacrament is a holy ordinance and work of grace, wherein God, through visible and earthly elements, dealeth out heavenly gifts, and thereby not only offereth unto men the sweet promises of grace of the gospel, but also giveth and sealeth them in the hearts of those who rightly receive them and enjoy them in faith.
+Answer: A sacrament is a holy ordinance and work of grace, wherein God, through visible and earthly elements, dealeth out heavenly gifts, and thereby not only offereth unto men the sweet promises of grace of the Gospel, but also giveth and sealeth them in the hearts of those who rightly receive them and enjoy them in faith.
 
 **How many kinds of sacraments are there?**
 
@@ -23,7 +23,7 @@ Answer: Circumcision and the paschal lamb.
 
 **What are the sacraments of the New Testament?**
 
-Answer: Baptism and the sacrament of the altar, or The Lord's Supper.
+Answer: Baptism and the sacrament of the altar, or the Lord's Supper.
 
 **What is Baptism?**
 
@@ -47,7 +47,7 @@ Answer: God Himself sent John to baptize, and thereafter Jesus Christ commanded 
 
 > **Luke 3:2,3**
 >
-> When Annas and Caiaphas were the high priests, the word of God came unto John the son of Zacharias in the wilderness. And he came into all the country about Jordan, and preached for remission.
+> When Annas and Caiaphas were the high priests, the Word of God came unto John the son of Zacharias in the wilderness. And he came into all the country about Jordan, and preached for remission.
 
 > **John 1:33**
 >
@@ -196,7 +196,7 @@ These passages locate **Households Baptized** within the whole counsel of Holy S
 
 > **Acts 16:25-34**
 >
-> **16:25** And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them. **16:26** And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one's bands were loosed. **16:27** And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled. **16:28** But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here. **16:29** Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas, **16:30** And brought them out, and said, Sirs, what must I do to be saved? **16:31** And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. **16:32** And they spake unto him the word of the Lord, and to all that were in his house. **16:33** And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway. **16:34** And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house.
+> **16:25** And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them. **16:26** And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one's bands were loosed. **16:27** And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled. **16:28** But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here. **16:29** Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas, **16:30** And brought them out, and said, Sirs, what must I do to be saved? **16:31** And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. **16:32** And they spake unto him the Word of the Lord, and to all that were in his house. **16:33** And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway. **16:34** And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house.
 
 > **Acts 2:38-39**
 >
@@ -289,7 +289,7 @@ These passages locate **Baptized Without Delay** within the whole counsel of Hol
 
 > **Acts 16:25-33**
 >
-> **16:25** And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them. **16:26** And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one's bands were loosed. **16:27** And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled. **16:28** But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here. **16:29** Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas, **16:30** And brought them out, and said, Sirs, what must I do to be saved? **16:31** And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. **16:32** And they spake unto him the word of the Lord, and to all that were in his house. **16:33** And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway.
+> **16:25** And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them. **16:26** And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one's bands were loosed. **16:27** And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled. **16:28** But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here. **16:29** Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas, **16:30** And brought them out, and said, Sirs, what must I do to be saved? **16:31** And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. **16:32** And they spake unto him the Word of the Lord, and to all that were in his house. **16:33** And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway.
 
 > **Acts 2:38-41**
 >
@@ -297,7 +297,7 @@ These passages locate **Baptized Without Delay** within the whole counsel of Hol
 
 > **Acts 8:26-39**
 >
-> **8:26** And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert. **8:27** And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship, **8:28** Was returning, and sitting in his chariot read Esaias the prophet. **8:29** Then the Spirit said unto Philip, Go near, and join thyself to this chariot. **8:30** And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest? **8:31** And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him. **8:32** The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth: **8:33** In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth. **8:34** And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man? **8:35** Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus. **8:36** And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized? **8:37** And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God. **8:38** And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him. **8:39** And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.
+> **8:26** And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert. **8:27** And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship, **8:28** Was returning, and sitting in his chariot read Esaias the prophet. **8:29** Then the Spirit said unto Philip, Go near, and join thyself to this chariot. **8:30** And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest? **8:31** And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him. **8:32** The place of the Scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth: **8:33** In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth. **8:34** And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man? **8:35** Then Philip opened his mouth, and began at the same Scripture, and preached unto him Jesus. **8:36** And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized? **8:37** And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God. **8:38** And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him. **8:39** And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.
 
 > **Luke 18:15-17**
 >

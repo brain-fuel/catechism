@@ -375,7 +375,7 @@ These passages locate **Supporting Gospel Workers** within the whole counsel of 
 
 > **1 Corinthians 9:14**
 >
-> **9:14** Even so hath the Lord ordained that they which preach the gospel should live of the gospel.
+> **9:14** Even so hath the Lord ordained that they which preach the Gospel should live of the Gospel.
 
 > **Galatians 6:6**
 >
