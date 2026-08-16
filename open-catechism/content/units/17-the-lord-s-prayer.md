@@ -6,6 +6,12 @@ part: "Lord’s Prayer"
 title: "The Lord’s Prayer"
 ---
 
+<figure>
+
+![Jesus sits on a hillside teaching His attentive disciples to pray.](/assets/art/jesus-teaches-prayer.png)
+<figcaption>Jesus teaches His disciples to pray.</figcaption>
+</figure>
+
 
 
 

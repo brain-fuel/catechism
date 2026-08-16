@@ -44,7 +44,7 @@ Answer: Thereby is understood not the Father alone, the first Person in the bein
 
 > **Isa. 63:16**
 >
-> Lord, thou art our Father; and thy name is for ever.
+> Yahweh, thou art our Father; and thy name is for ever.
 
 > **Eph. 4:6**
 >

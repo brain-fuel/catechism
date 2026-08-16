@@ -6,6 +6,12 @@ part: "Means of Grace"
 title: "Nature of Holy Baptism"
 ---
 
+<figure>
+
+![John baptizes Jesus in the Jordan as the dove descends in a shaft of light.](/assets/art/baptism-of-jesus.png)
+<figcaption>The Baptism of Jesus in the Jordan.</figcaption>
+</figure>
+
 
 
 

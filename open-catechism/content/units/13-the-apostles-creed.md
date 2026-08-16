@@ -108,7 +108,7 @@ Answer: God, according to His being, is a Spirit, eternal, almighty, righteous, 
 
 > **Ps. 139:1,8,9,10**
 >
-> Lord, Thou hast searched me, and known me. If I ascend up into heaven, Thou art there; if I make my bed in hell, behold, Thou art there also. If I take the wings of the morning, and dwell in the uttermost parts of the sea, even there shall Thy hand lead me, and Thy right hand shall hold me.
+> Yahweh, Thou hast searched me, and known me. If I ascend up into heaven, Thou art there; if I make my bed in hell, behold, Thou art there also. If I take the wings of the morning, and dwell in the uttermost parts of the sea, even there shall Thy hand lead me, and Thy right hand shall hold me.
 
 > **John 8:26**
 >
@@ -116,7 +116,7 @@ Answer: God, according to His being, is a Spirit, eternal, almighty, righteous, 
 
 > **Exod. 34:6**
 >
-> The Lord cried: The Lord, The Lord God, merciful and gracious, longsuffering, and abundant in goodness and truth.
+> Yahweh cried: Yahweh, Yahweh God, merciful and gracious, longsuffering, and abundant in goodness and truth.
 
 
 ### Luther’s Small Catechism

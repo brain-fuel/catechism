@@ -31,7 +31,7 @@ Answer: When the whole congregation together confesses its sins in the common wo
 
 > **Judg. 10:10**
 >
-> And the children of Israel cried unto the Lord, saying, We have sinned against thee, for we have forsaken our God, and served Baal.
+> And the children of Israel cried unto Yahweh, saying, We have sinned against thee, for we have forsaken our God, and served Baal.
 
 
 **What do you call private confession?**
@@ -60,7 +60,7 @@ Answer: In many ways: 1. Before God alone, when someone, being alone by himself,
 
 > **2 Sam. 12:13**
 >
-> And David said unto Nathan, I have sinned against the Lord. And Nathan said unto David, The Lord also hath put away thy sin; thou shalt not die.
+> And David said unto Nathan, I have sinned against Yahweh. And Nathan said unto David, Yahweh also hath put away thy sin; thou shalt not die.
 
 > **Matt. 3:5,6**
 >

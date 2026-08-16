@@ -1694,7 +1694,7 @@ These passages locate **Gathered Before the Throne** within the whole counsel of
 
 > **Revelation 19:6-9**
 >
-> **19:6** And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth. **19:7** Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready. **19:8** And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints. **19:9** And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.
+> **19:6** And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Hallelujah: for the Lord God omnipotent reigneth. **19:7** Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready. **19:8** And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints. **19:9** And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.
 
 > **Revelation 20:10**
 >

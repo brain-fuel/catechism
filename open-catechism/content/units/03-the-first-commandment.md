@@ -53,7 +53,7 @@ Answer: Indeed it does: when someone trusts in himself, in his wisdom, his riche
 
 > **Prov. 3:5**
 >
-> Trust in the Lord with all thine heart, and lean not unto thine own understanding.
+> Trust in Yahweh with all thine heart, and lean not unto thine own understanding.
 
 > **Ps. 146:3**
 >
@@ -87,11 +87,11 @@ Answer: It is: to acknowledge and honour the greatness and righteousness of God,
 
 > **Ps. 18:1,2**
 >
-> I will love thee, O Lord, my strength, the Lord my rock, my fortress, and my Saviour; my God is my strength, in whom I will trust, my shield, and the horn of my salvation, and my high tower.
+> I will love thee, O Yahweh, my strength, Yahweh my rock, my fortress, and my Saviour; my God is my strength, in whom I will trust, my shield, and the horn of my salvation, and my high tower.
 
 > **Josh. 24:14**
 >
-> Fear the Lord, and serve him in sincerity and in truth, and put away the gods which your fathers served.
+> Fear Yahweh, and serve him in sincerity and in truth, and put away the gods which your fathers served.
 
 
 **What does it mean to believe and trust in him alone?**
@@ -104,7 +104,7 @@ Answer: It is: to trust perfectly and firmly in the almightiness, goodness, and 
 
 > **Ps. 71:5**
 >
-> For thou art my hope, O Lord God: my trust from my youth. By thee have I been holden up from my mother's womb: thou art ever my praise.
+> For thou art my hope, O Lord Yahweh: my trust from my youth. By thee have I been holden up from my mother's womb: thou art ever my praise.
 
 
 **What is forbidden in the second commandment?**
@@ -121,7 +121,7 @@ Answer: It is God himself, in respect of his divine being and attributes, and li
 
 > **Prov. 18:10**
 >
-> The name of the Lord is a strong tower: the righteous runneth into it, and is safe.
+> The name of Yahweh is a strong tower: the righteous runneth into it, and is safe.
 
 
 **How is the name of God taken in vain?**
@@ -130,7 +130,7 @@ Answer: When someone mocks and dishonours God, and likewise, out of anger, evil 
 
 > **Lev. 24:16**
 >
-> He that blasphemeth the name of the Lord shall surely be put to death, all the congregation shall certainly stone him.
+> He that blasphemeth the name of Yahweh shall surely be put to death, all the congregation shall certainly stone him.
 
 > **Matt. 12:36**
 >

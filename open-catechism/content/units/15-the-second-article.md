@@ -6,6 +6,12 @@ part: "Creed"
 title: "Jesus Christ and Redemption: The Second Article"
 ---
 
+<figure>
+
+![The risen Christ shows His wounded hands to the disciples gathered in a locked room.](/assets/art/risen-christ-with-disciples.png)
+<figcaption>The risen Christ appears to His disciples in peace.</figcaption>
+</figure>
+
 
 
 
@@ -62,7 +68,7 @@ Answer: Because He has revealed to us the will and counsel of His heavenly Fathe
 
 > **Deut. 18:18**
 >
-> The Lord said: I will raise them up a Prophet from among their brethren, like unto thee; and I will put my words in His mouth. He shall speak unto them all that I shall command Him.
+> Yahweh said: I will raise them up a Prophet from among their brethren, like unto thee; and I will put my words in His mouth. He shall speak unto them all that I shall command Him.
 
 > **John 1:18**
 >
@@ -178,7 +184,7 @@ Answer: That He has truly suffered for our sins, both in soul and in body, and u
 
 > **Isa. 53:4-6**
 >
-> Surely He hath borne our griefs, and carried our sorrows. He was wounded for our transgressions, and for our iniquities was He bruised: the chastisement of our peace was upon Him, that we might have peace; the Lord laid on Him the iniquity of us all.
+> Surely He hath borne our griefs, and carried our sorrows. He was wounded for our transgressions, and for our iniquities was He bruised: the chastisement of our peace was upon Him, that we might have peace; Yahweh laid on Him the iniquity of us all.
 
 > **Matt. 27:46**
 >

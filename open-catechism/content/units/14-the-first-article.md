@@ -82,7 +82,7 @@ Answer: By no means; for the Father has created all things through the Son in th
 
 > **Ps. 33:6**
 >
-> By the Word of the Lord were the heavens made; and all the host of them by the breath of His mouth.
+> By the Word of Yahweh were the heavens made; and all the host of them by the breath of His mouth.
 
 > **Job 33:4**
 >
@@ -156,7 +156,7 @@ Answer: The angels.
 
 > **Ps. 104:4**
 >
-> Lord, Thou makest Thine angels spirits; Thy ministers a flaming fire.
+> Yahweh, Thou makest Thine angels spirits; Thy ministers a flaming fire.
 
 
 **What are the angels?**
@@ -234,7 +234,7 @@ Answer: Out of His own pure grace and fatherly goodness, without the least merit
 
 > **Ps. 145:9**
 >
-> The Lord is good to all: and His tender mercies are over all His works.
+> Yahweh is good to all: and His tender mercies are over all His works.
 
 
 **What should be said about all the evil that happens in the world?**
@@ -243,11 +243,11 @@ Answer: God does all that is good and furthers that which happens according to H
 
 > **2 Sam. 17:14**
 >
-> The Lord had appointed it so, that the good counsel of Ahithophel should be defeated, that the Lord might bring evil upon Absalom.
+> Yahweh had appointed it so, that the good counsel of Ahithophel should be defeated, that Yahweh might bring evil upon Absalom.
 
 > **Job 2:6**
 >
-> The Lord said unto Satan: Behold, he is in thine hand; but save his life.
+> Yahweh said unto Satan: Behold, he is in thine hand; but save his life.
 
 > **John 7:30**
 >
@@ -260,11 +260,11 @@ Answer: To thanksgiving, praise, obedience, and service.
 
 > **Ps. 136:1**
 >
-> O give thanks unto the Lord; for He is good: for His mercy endureth for ever (read the whole psalm).
+> O give thanks unto Yahweh; for He is good: for His mercy endureth for ever (read the whole psalm).
 
 > **1 Sam. 15:22**
 >
-> Samuel said: Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
+> Samuel said: Hath Yahweh as great delight in burnt offerings and sacrifices, as in obeying the voice of Yahweh? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
 
 > **Luke 1:68,74,75**
 >
@@ -728,11 +728,11 @@ These passages locate **All Creation Praises God** within the whole counsel of H
 
 > **Psalm 148**
 >
-> **148:1** Praise ye Yahweh. Praise ye Yahweh from the heavens: praise him in the heights. **148:2** Praise ye him, all his angels: praise ye him, all his hosts. **148:3** Praise ye him, sun and moon: praise him, all ye stars of light. **148:4** Praise him, ye heavens of heavens, and ye waters that be above the heavens. **148:5** Let them praise the name of Yahweh: for he commanded, and they were created. **148:6** He hath also stablished them for ever and ever: he hath made a decree which shall not pass. **148:7** Praise Yahweh from the earth, ye dragons, and all deeps: **148:8** Fire, and hail; snow, and vapour; stormy wind fulfilling his word: **148:9** Mountains, and all hills; fruitful trees, and all cedars: **148:10** Beasts, and all cattle; creeping things, and flying fowl: **148:11** Kings of the earth, and all people; princes, and all judges of the earth: **148:12** Both young men, and maidens; old men, and children: **148:13** Let them praise the name of Yahweh: for his name alone is excellent; his glory is above the earth and heaven. **148:14** He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye Yahweh.
+> **148:1** Hallelujah. Praise ye Yahweh from the heavens: praise him in the heights. **148:2** Praise ye him, all his angels: praise ye him, all his hosts. **148:3** Praise ye him, sun and moon: praise him, all ye stars of light. **148:4** Praise him, ye heavens of heavens, and ye waters that be above the heavens. **148:5** Let them praise the name of Yahweh: for he commanded, and they were created. **148:6** He hath also stablished them for ever and ever: he hath made a decree which shall not pass. **148:7** Praise Yahweh from the earth, ye dragons, and all deeps: **148:8** Fire, and hail; snow, and vapour; stormy wind fulfilling his word: **148:9** Mountains, and all hills; fruitful trees, and all cedars: **148:10** Beasts, and all cattle; creeping things, and flying fowl: **148:11** Kings of the earth, and all people; princes, and all judges of the earth: **148:12** Both young men, and maidens; old men, and children: **148:13** Let them praise the name of Yahweh: for his name alone is excellent; his glory is above the earth and heaven. **148:14** He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Hallelujah.
 
 > **Psalm 150:6**
 >
-> **150:6** Let every thing that hath breath praise Yahweh. Praise ye Yahweh.
+> **150:6** Let every thing that hath breath praise Yahweh. Hallelujah.
 
 
 <a id="rg-03-1-1-the-apostles-creed-first-article-part-1-017"></a>
@@ -1259,7 +1259,7 @@ These passages locate **Bless the Lord, O My Soul** within the whole counsel of 
 
 > **Psalm 104**
 >
-> **104:1** Bless Yahweh, O my soul. O Yahweh my God, thou art very great; thou art clothed with honour and majesty. **104:2** Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain: **104:3** Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind: **104:4** Who maketh his angels spirits; his ministers a flaming fire: **104:5** Who laid the foundations of the earth, that it should not be removed for ever. **104:6** Thou coveredst it with the deep as with a garment: the waters stood above the mountains. **104:7** At thy rebuke they fled; at the voice of thy thunder they hasted away. **104:8** They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them. **104:9** Thou hast set a bound that they may not pass over; that they turn not again to cover the earth. **104:10** He sendeth the springs into the valleys, which run among the hills. **104:11** They give drink to every beast of the field: the wild asses quench their thirst. **104:12** By them shall the fowls of the heaven have their habitation, which sing among the branches. **104:13** He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works. **104:14** He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth; **104:15** And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart. **104:16** The trees of Yahweh are full of sap; the cedars of Lebanon, which he hath planted; **104:17** Where the birds make their nests: as for the stork, the fir trees are her house. **104:18** The high hills are a refuge for the wild goats; and the rocks for the conies. **104:19** He appointed the moon for seasons: the sun knoweth his going down. **104:20** Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth. **104:21** The young lions roar after their prey, and seek their meat from God. **104:22** The sun ariseth, they gather themselves together, and lay them down in their dens. **104:23** Man goeth forth unto his work and to his labour until the evening. **104:24** O Yahweh, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches. **104:25** So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts. **104:26** There go the ships: there is that leviathan, whom thou hast made to play therein. **104:27** These wait all upon thee; that thou mayest give them their meat in due season. **104:28** That thou givest them they gather: thou openest thine hand, they are filled with good. **104:29** Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust. **104:30** Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth. **104:31** The glory of Yahweh shall endure for ever: Yahweh shall rejoice in his works. **104:32** He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke. **104:33** I will sing unto Yahweh as long as I live: I will sing praise to my God while I have my being. **104:34** My meditation of him shall be sweet: I will be glad in Yahweh. **104:35** Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou Yahweh, O my soul. Praise ye Yahweh.
+> **104:1** Bless Yahweh, O my soul. O Yahweh my God, thou art very great; thou art clothed with honour and majesty. **104:2** Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain: **104:3** Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind: **104:4** Who maketh his angels spirits; his ministers a flaming fire: **104:5** Who laid the foundations of the earth, that it should not be removed for ever. **104:6** Thou coveredst it with the deep as with a garment: the waters stood above the mountains. **104:7** At thy rebuke they fled; at the voice of thy thunder they hasted away. **104:8** They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them. **104:9** Thou hast set a bound that they may not pass over; that they turn not again to cover the earth. **104:10** He sendeth the springs into the valleys, which run among the hills. **104:11** They give drink to every beast of the field: the wild asses quench their thirst. **104:12** By them shall the fowls of the heaven have their habitation, which sing among the branches. **104:13** He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works. **104:14** He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth; **104:15** And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart. **104:16** The trees of Yahweh are full of sap; the cedars of Lebanon, which he hath planted; **104:17** Where the birds make their nests: as for the stork, the fir trees are her house. **104:18** The high hills are a refuge for the wild goats; and the rocks for the conies. **104:19** He appointed the moon for seasons: the sun knoweth his going down. **104:20** Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth. **104:21** The young lions roar after their prey, and seek their meat from God. **104:22** The sun ariseth, they gather themselves together, and lay them down in their dens. **104:23** Man goeth forth unto his work and to his labour until the evening. **104:24** O Yahweh, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches. **104:25** So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts. **104:26** There go the ships: there is that leviathan, whom thou hast made to play therein. **104:27** These wait all upon thee; that thou mayest give them their meat in due season. **104:28** That thou givest them they gather: thou openest thine hand, they are filled with good. **104:29** Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust. **104:30** Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth. **104:31** The glory of Yahweh shall endure for ever: Yahweh shall rejoice in his works. **104:32** He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke. **104:33** I will sing unto Yahweh as long as I live: I will sing praise to my God while I have my being. **104:34** My meditation of him shall be sweet: I will be glad in Yahweh. **104:35** Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou Yahweh, O my soul. Hallelujah.
 
 
 <a id="rg-03-1-3-the-apostles-creed-first-article-part-3-001"></a>

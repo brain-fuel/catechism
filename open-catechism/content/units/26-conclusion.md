@@ -15,7 +15,7 @@ Answer: Amen is such a word whereby one not only wisheth unto himself that for w
 
 > **Ps. 145:19**
 >
-> The Lord fulfilleth the desire of them that fear Him, and heareth their cry, and helpeth them.
+> Yahweh fulfilleth the desire of them that fear Him, and heareth their cry, and helpeth them.
 
 > **Matt. 7:8**
 >

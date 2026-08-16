@@ -75,7 +75,7 @@ Answer: Truly; — in Baptism we put on Christ, who covereth all our sins with t
 
 > **Isa. 61:10**
 >
-> I will greatly rejoice in the Lord, my soul shall be joyful in my God; for He hath clothed me with the garments of salvation, He hath covered me with the robe of righteousness.
+> I will greatly rejoice in Yahweh, my soul shall be joyful in my God; for He hath clothed me with the garments of salvation, He hath covered me with the robe of righteousness.
 
 > **John 3:5**
 >

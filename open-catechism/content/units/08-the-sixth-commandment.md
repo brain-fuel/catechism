@@ -69,7 +69,7 @@ Answer: In many ways; but especially when someone: 1. Without leave and secretly
 
 > **Mal. 3:10**
 >
-> Bring ye the whole tithes into my storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out abundantly a blessing.
+> Bring ye the whole tithes into my storehouse, that there may be meat in mine house, and prove me now herewith, saith Yahweh of hosts, if I will not open you the windows of heaven, and pour you out abundantly a blessing.
 
 
 **What is commanded in the seventh commandment?**

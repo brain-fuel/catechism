@@ -19,7 +19,7 @@ Answer: That a man leaves all worldly labours and bodily work that hinder the se
 
 > **Ps. 92:1,2**
 >
-> It is a good thing to give thanks unto the Lord, and to sing praises unto thy name, O thou most High: to shew forth thy lovingkindness in the morning, and thy faithfulness in the evening.
+> It is a good thing to give thanks unto Yahweh, and to sing praises unto thy name, O thou most High: to shew forth thy lovingkindness in the morning, and thy faithfulness in the evening.
 
 > **Luke 10:16**
 >

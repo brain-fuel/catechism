@@ -56,7 +56,7 @@ Answer: That God would forgive us our sins: that is, for Christ's sake would blo
 
 > **Ps. 32:1,2**
 >
-> Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the Lord imputeth not iniquity.
+> Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom Yahweh imputeth not iniquity.
 
 
 **Is anyone free from this fault?**
@@ -255,7 +255,7 @@ These passages locate **Receiving with Thanksgiving** within the whole counsel o
 
 > **Psalm 106:1**
 >
-> **106:1** Praise ye Yahweh. O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
+> **106:1** Hallelujah. O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
 
 
 <a id="rg-04-2-4-the-lord-s-prayer-the-fourth-petition-007"></a>

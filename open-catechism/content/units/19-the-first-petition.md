@@ -41,7 +41,7 @@ Answer: Not as though God dwelt in the created heaven, as in a particular place,
 
 > **Ps. 11:4**
 >
-> The Lord's throne is in heaven.
+> Yahweh.s throne is in heaven.
 
 > **1 Tim. 6:15,16**
 >

@@ -57,7 +57,7 @@ Answer: Among the holy angels and the departed saints, in that rejoicing congreg
 
 > **Ps. 103:20**
 >
-> Bless the Lord, ye His angels, ye mighty heroes, that do His commandments, that the voice of His word may be heard.
+> Bless Yahweh, ye His angels, ye mighty heroes, that do His commandments, that the voice of His word may be heard.
 
 > **Dan. 7:10**
 >

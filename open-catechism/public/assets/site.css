@@ -110,6 +110,8 @@ code, pre { overflow-wrap: anywhere; white-space: pre-wrap; }
 .hero-art { margin: 0; }
 .hero-art img { width: min(100%, 28rem); margin-inline: auto; box-shadow: 0 1.2rem 3rem rgb(70 54 25 / .18); }
 figcaption { margin-top: .75rem; color: var(--muted); font-size: .8rem; text-align: center; }
+.prose figure { margin: 1.5rem 0 2rem; }
+.prose figure img { width: 100%; border: 1px solid var(--rule); }
 
 .catalog { padding-block: clamp(2rem, 6vw, 5rem); }
 .catalog > h2 { margin-top: .25em; }

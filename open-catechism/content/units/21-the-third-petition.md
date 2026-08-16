@@ -38,11 +38,11 @@ Answer: Because without God's blessing we can, by our own work or skill, neither
 
 > **Ps. 127:1**
 >
-> Except the Lord build the house, they labour in vain that build it.
+> Except Yahweh build the house, they labour in vain that build it.
 
 > **Ps. 132:15**
 >
-> I the Lord will bless her provision, and will satisfy her poor with bread.
+> I Yahweh will bless her provision, and will satisfy her poor with bread.
 
 
 **Why do we say, “give us”?**

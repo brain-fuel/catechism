@@ -6,6 +6,12 @@ part: "Commandments"
 title: "The Ten Commandments"
 ---
 
+<figure>
+
+![Moses stands upon Sinai holding the two stone tablets as Israel gathers below.](/assets/art/moses-at-sinai.png)
+<figcaption>Moses receives the Commandments at Sinai.</figcaption>
+</figure>
+
 
 
 
@@ -41,7 +47,7 @@ Answer: Ten.
 
 > **Deut. 4:13**
 >
-> The Lord declared unto you his covenant, which he commanded you to perform, even ten words, and he wrote them upon two tables of stone.
+> Yahweh declared unto you his covenant, which he commanded you to perform, even ten words, and he wrote them upon two tables of stone.
 
 
 **How are they divided?**
@@ -50,7 +56,7 @@ Answer: Into two tables.
 
 > **Deut. 5:21**
 >
-> These are the words which the Lord spake unto all your congregation in the mount, out of the fire, the cloud, and the thick darkness, with a great voice, and he added no more; and he wrote them upon two tables of stone, and delivered them unto me.
+> These are the words which Yahweh spake unto all your congregation in the mount, out of the fire, the cloud, and the thick darkness, with a great voice, and he added no more; and he wrote them upon two tables of stone, and delivered them unto me.
 
 
 The first table

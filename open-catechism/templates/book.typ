@@ -43,7 +43,12 @@
 
   for (index, path) in xs.enumerate() {
     columns(2, gutter: 0.28in)[
-      #cmarker.render(read(path), smart-punctuation: false, raw-typst: false)
+      #cmarker.render(
+        read(path),
+        smart-punctuation: false,
+        raw-typst: false,
+        scope: (image: (source, ..args) => image(source, ..args)),
+      )
     ]
     if index < xs.len() - 1 { pagebreak() }
   }

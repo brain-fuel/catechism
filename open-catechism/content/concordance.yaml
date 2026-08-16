@@ -23,3 +23,9 @@ changes:
     category: Divine Name concordance
     reason: Restore the Divine Name in direct New Testament quotations of Deuteronomy.
     evidence: Manually approved Matthew 4:7, Matthew 22:37, and Luke 10:27 registry entries.
+  - source_id: scripture-hebrew-hallelu-yah
+    before: Praise ye Yahweh / Alleluia
+    after: Hallelujah
+    category: Hebrew liturgical transliteration
+    reason: Preserve the Hebrew acclamation as a single transliterated liturgical word rather than the KJV paraphrase.
+    evidence: Hebrew הללויה, Strong’s H1984 and H3050 in the pinned Hebrew dataset.
