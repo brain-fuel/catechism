@@ -54,7 +54,14 @@ Psalm 143. A Psalm of David. 1. Hear my prayer, O Lord, give ear to my supplicat
 
 These passages locate **into your hands i commit my spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Psalm 31:5](#passage-psalm-31-5), [Psalm 91:11](#passage-psalm-91-11)
+> **Psalm 31:5**
+>
+> **31:5** Into thine hand I commit my spirit: thou hast redeemed me, O Yahweh God of truth.
+
+> **Psalm 91:11**
+>
+> **91:11** For he shall give his angels charge over thee, to keep thee in all thy ways.
+
 
 <a id="rg-06-daily-prayers-002"></a>
 
@@ -62,7 +69,18 @@ References: [Psalm 31:5](#passage-psalm-31-5), [Psalm 91:11](#passage-psalm-91-1
 
 These passages locate **in peace i will lie down and sleep** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Psalm 121](#passage-psalm-121), [Psalm 127](#passage-psalm-127), [Psalm 4:8](#passage-psalm-4-8)
+> **Psalm 121**
+>
+> **121:1** I will lift up mine eyes unto the hills, from whence cometh my help. **121:2** My help cometh from Yahweh, which made heaven and earth. **121:3** He will not suffer thy foot to be moved: he that keepeth thee will not slumber. **121:4** Behold, he that keepeth Israel shall neither slumber nor sleep. **121:5** Yahweh is thy keeper: Yahweh is thy shade upon thy right hand. **121:6** The sun shall not smite thee by day, nor the moon by night. **121:7** Yahweh shall preserve thee from all evil: he shall preserve thy soul. **121:8** Yahweh shall preserve thy going out and thy coming in from this time forth, and even for evermore.
+
+> **Psalm 127**
+>
+> **127:1** Except Yahweh build the house, they labour in vain that build it: except Yahweh keep the city, the watchman waketh but in vain. **127:2** It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep. **127:3** Lo, children are an heritage of Yahweh: and the fruit of the womb is his reward. **127:4** As arrows are in the hand of a mighty man; so are children of the youth. **127:5** Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.
+
+> **Psalm 4:8**
+>
+> **4:8** I will both lay me down in peace, and sleep: for thou, Yahweh, only makest me dwell in safety.
+
 
 <a id="rg-06-daily-prayers-003"></a>
 
@@ -70,7 +88,10 @@ References: [Psalm 121](#passage-psalm-121), [Psalm 127](#passage-psalm-127), [P
 
 These passages locate **the eyes of all look to you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Psalm 145:15-16](#passage-psalm-145-15-16)
+> **Psalm 145:15-16**
+>
+> **145:15** The eyes of all wait upon thee; and thou givest them their meat in due season. **145:16** Thou openest thine hand, and satisfiest the desire of every living thing.
+
 
 <a id="rg-06-daily-prayers-004"></a>
 
@@ -78,69 +99,22 @@ References: [Psalm 145:15-16](#passage-psalm-145-15-16)
 
 These passages locate **made holy by the word and prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [1 Timothy 4:4-5](#passage-1-timothy-4-4-5), [Psalm 103:2](#passage-psalm-103-2), [Psalm 136:1, 25](#passage-psalm-136-1-25), [Psalm 147:9-11](#passage-psalm-147-9-11)
+> **1 Timothy 4:4-5**
+>
+> **4:4** For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: **4:5** For it is sanctified by the word of God and prayer.
 
-## Scripture readings
+> **Psalm 103:2**
+>
+> **103:2** Bless Yahweh, O my soul, and forget not all his benefits:
 
-<a id="passage-psalm-31-5"></a>
+> **Psalm 136:1, 25**
+>
+> **136:1** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever. **136:25** Who giveth food to all flesh: for his mercy endureth for ever.
 
-### Psalm 31:5
+> **Psalm 147:9-11**
+>
+> **147:9** He giveth to the beast his food, and to the young ravens which cry. **147:10** He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man. **147:11** Yahweh taketh pleasure in them that fear him, in those that hope in his mercy.
 
-**31:5** Into thine hand I commit my spirit: thou hast redeemed me, O Yahweh God of truth.
-
-<a id="passage-psalm-91-11"></a>
-
-### Psalm 91:11
-
-**91:11** For he shall give his angels charge over thee, to keep thee in all thy ways.
-
-<a id="passage-psalm-121"></a>
-
-### Psalm 121
-
-**121:1** I will lift up mine eyes unto the hills, from whence cometh my help. **121:2** My help cometh from Yahweh, which made heaven and earth. **121:3** He will not suffer thy foot to be moved: he that keepeth thee will not slumber. **121:4** Behold, he that keepeth Israel shall neither slumber nor sleep. **121:5** Yahweh is thy keeper: Yahweh is thy shade upon thy right hand. **121:6** The sun shall not smite thee by day, nor the moon by night. **121:7** Yahweh shall preserve thee from all evil: he shall preserve thy soul. **121:8** Yahweh shall preserve thy going out and thy coming in from this time forth, and even for evermore. 
-
-<a id="passage-psalm-127"></a>
-
-### Psalm 127
-
-**127:1** Except Yahweh build the house, they labour in vain that build it: except Yahweh keep the city, the watchman waketh but in vain. **127:2** It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep. **127:3** Lo, children are an heritage of Yahweh: and the fruit of the womb is his reward. **127:4** As arrows are in the hand of a mighty man; so are children of the youth. **127:5** Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate. 
-
-<a id="passage-psalm-4-8"></a>
-
-### Psalm 4:8
-
-**4:8** I will both lay me down in peace, and sleep: for thou, Yahweh, only makest me dwell in safety. 
-
-<a id="passage-psalm-145-15-16"></a>
-
-### Psalm 145:15-16
-
-**145:15** The eyes of all wait upon thee; and thou givest them their meat in due season. **145:16** Thou openest thine hand, and satisfiest the desire of every living thing.
-
-<a id="passage-1-timothy-4-4-5"></a>
-
-### 1 Timothy 4:4-5
-
-**4:4** For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: **4:5** For it is sanctified by the word of God and prayer.
-
-<a id="passage-psalm-103-2"></a>
-
-### Psalm 103:2
-
-**103:2** Bless Yahweh, O my soul, and forget not all his benefits:
-
-<a id="passage-psalm-136-1-25"></a>
-
-### Psalm 136:1, 25
-
-**136:1** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever. **136:25** Who giveth food to all flesh: for his mercy endureth for ever.
-
-<a id="passage-psalm-147-9-11"></a>
-
-### Psalm 147:9-11
-
-**147:9** He giveth to the beast his food, and to the young ravens which cry. **147:10** He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man. **147:11** Yahweh taketh pleasure in them that fear him, in those that hope in his mercy.
 
 ## Bible narratives
 

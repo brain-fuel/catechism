@@ -13,16 +13,20 @@ title: "For Thine Is the Kingdom: The Conclusion"
 
 Answer: Amen is such a word whereby one not only wisheth unto himself that for which he hath prayed, but also showeth himself assured that God heareth the prayer; whereupon he, as sealing it with a seal, saith: Amen, so let it be!
 
-> **Ps. 145:19**  
+> **Ps. 145:19**
+>
 > The Lord fulfilleth the desire of them that fear Him, and heareth their cry, and helpeth them.
 
-> **Matt. 7:8**  
+> **Matt. 7:8**
+>
 > Every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
 
-> **1 John 5:14**  
+> **1 John 5:14**
+>
 > This is the confidence that we have in Him, that, if we ask any thing according to His will, He heareth us.
 
-> **Matt. 21:22**  
+> **Matt. 21:22**
+>
 > All things whatsoever ye shall ask in prayer, believing, ye shall receive.
 
 
@@ -97,7 +101,10 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 These passages locate **yours is the kingdom, the power, and the glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [1 Chronicles 29:11](#passage-1-chronicles-29-11)
+> **1 Chronicles 29:11**
+>
+> **29:11** Thine, O Yahweh, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O Yahweh, and thou art exalted as head above all.
+
 
 <a id="rg-04-3-the-lord-s-prayer-the-conclusion-002"></a>
 
@@ -105,7 +112,14 @@ References: [1 Chronicles 29:11](#passage-1-chronicles-29-11)
 
 These passages locate **every good gift from above** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [James 1:17](#passage-james-1-17), [Psalm 103:2-3](#passage-psalm-103-2-3)
+> **James 1:17**
+>
+> **1:17** Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.
+
+> **Psalm 103:2-3**
+>
+> **103:2** Bless Yahweh, O my soul, and forget not all his benefits: **103:3** Who forgiveth all thine iniquities; who healeth all thy diseases;
+
 
 <a id="rg-04-3-the-lord-s-prayer-the-conclusion-003"></a>
 
@@ -113,7 +127,22 @@ References: [James 1:17](#passage-james-1-17), [Psalm 103:2-3](#passage-psalm-10
 
 These passages locate **far more than we ask or think** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [1 Timothy 1:17](#passage-1-timothy-1-17), [Ephesians 3:20-21](#passage-ephesians-3-20-21), [Psalm 113:4-5](#passage-psalm-113-4-5), [Psalm 33:6](#passage-psalm-33-6)
+> **1 Timothy 1:17**
+>
+> **1:17** Now unto the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen.
+
+> **Ephesians 3:20-21**
+>
+> **3:20** Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, **3:21** Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.
+
+> **Psalm 113:4-5**
+>
+> **113:4** Yahweh is high above all nations, and his glory above the heavens. **113:5** Who is like unto Yahweh our God, who dwelleth on high,
+
+> **Psalm 33:6**
+>
+> **33:6** By the word of Yahweh were the heavens made; and all the host of them by the breath of his mouth.
+
 
 <a id="rg-04-3-the-lord-s-prayer-the-conclusion-004"></a>
 
@@ -121,7 +150,14 @@ References: [1 Timothy 1:17](#passage-1-timothy-1-17), [Ephesians 3:20-21](#pass
 
 These passages locate **he hears the prayer of the righteous** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Proverbs 15:29](#passage-proverbs-15-29), [Proverbs 15:8](#passage-proverbs-15-8)
+> **Proverbs 15:29**
+>
+> **15:29** Yahweh is far from the wicked: but he heareth the prayer of the righteous.
+
+> **Proverbs 15:8**
+>
+> **15:8** The sacrifice of the wicked is an abomination to Yahweh: but the prayer of the upright is his delight.
+
 
 <a id="rg-04-3-the-lord-s-prayer-the-conclusion-005"></a>
 
@@ -129,69 +165,10 @@ References: [Proverbs 15:29](#passage-proverbs-15-29), [Proverbs 15:8](#passage-
 
 These passages locate **the lord reigns; holy is he** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Psalm 99](#passage-psalm-99)
+> **Psalm 99**
+>
+> **99:1** Yahweh reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved. **99:2** Yahweh is great in Zion; and he is high above all the people. **99:3** Let them praise thy great and terrible name; for it is holy. **99:4** The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob. **99:5** Exalt ye Yahweh our God, and worship at his footstool; for he is holy. **99:6** Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon Yahweh, and he answered them. **99:7** He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them. **99:8** Thou answeredst them, O Yahweh our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions. **99:9** Exalt Yahweh our God, and worship at his holy hill; for Yahweh our God is holy.
 
-## Scripture readings
-
-<a id="passage-1-chronicles-29-11"></a>
-
-### 1 Chronicles 29:11
-
-**29:11** Thine, O Yahweh, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O Yahweh, and thou art exalted as head above all.
-
-<a id="passage-james-1-17"></a>
-
-### James 1:17
-
-**1:17** Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.
-
-<a id="passage-psalm-103-2-3"></a>
-
-### Psalm 103:2-3
-
-**103:2** Bless Yahweh, O my soul, and forget not all his benefits: **103:3** Who forgiveth all thine iniquities; who healeth all thy diseases;
-
-<a id="passage-1-timothy-1-17"></a>
-
-### 1 Timothy 1:17
-
-**1:17** Now unto the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen.
-
-<a id="passage-ephesians-3-20-21"></a>
-
-### Ephesians 3:20-21
-
-**3:20** Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, **3:21** Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.
-
-<a id="passage-psalm-113-4-5"></a>
-
-### Psalm 113:4-5
-
-**113:4** Yahweh is high above all nations, and his glory above the heavens. **113:5** Who is like unto Yahweh our God, who dwelleth on high,
-
-<a id="passage-psalm-33-6"></a>
-
-### Psalm 33:6
-
-**33:6** By the word of Yahweh were the heavens made; and all the host of them by the breath of his mouth.
-
-<a id="passage-proverbs-15-29"></a>
-
-### Proverbs 15:29
-
-**15:29** Yahweh is far from the wicked: but he heareth the prayer of the righteous.
-
-<a id="passage-proverbs-15-8"></a>
-
-### Proverbs 15:8
-
-**15:8** The sacrifice of the wicked is an abomination to Yahweh: but the prayer of the upright is his delight.
-
-<a id="passage-psalm-99"></a>
-
-### Psalm 99
-
-**99:1** Yahweh reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved. **99:2** Yahweh is great in Zion; and he is high above all the people. **99:3** Let them praise thy great and terrible name; for it is holy. **99:4** The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob. **99:5** Exalt ye Yahweh our God, and worship at his footstool; for he is holy. **99:6** Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon Yahweh, and he answered them. **99:7** He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them. **99:8** Thou answeredst them, O Yahweh our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions. **99:9** Exalt Yahweh our God, and worship at his holy hill; for Yahweh our God is holy. 
 
 ## Bible narratives
 

@@ -13,10 +13,12 @@ title: "Our Father Who Art in Heaven: The Introduction"
 
 Answer: Spiritual things are to be prayed for without conditions; for we know that God will surely give them unto us, and they are ever needful for us; but temporal things we must ask with a condition, namely, if they be pleasing unto God and profitable unto us.
 
-> **Luke 18:13**  
+> **Luke 18:13**
+>
 > The publican said, God be merciful to me a sinner. Jas. 4:3. Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.
 
-> **Matt. 8:2**  
+> **Matt. 8:2**
+>
 > A leper worshipped Jesus, saying, Lord, if thou wilt, thou canst make me clean.
 
 
@@ -24,7 +26,8 @@ Answer: Spiritual things are to be prayed for without conditions; for we know th
 
 Answer: Christ Himself.
 
-> **Matt. 6:9**  
+> **Matt. 6:9**
+>
 > After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
 
 **How is the Lord’s Prayer arranged?**
@@ -39,10 +42,12 @@ Answer: Our Father, which art in heaven.
 
 Answer: Thereby is understood not the Father alone, the first Person in the being of the Godhead, but the whole Holy Trinity: Father, Son and Holy Ghost; not as to the Persons, but as to the being.
 
-> **Isa. 63:16**  
+> **Isa. 63:16**
+>
 > Lord, thou art our Father; and thy name is for ever.
 
-> **Eph. 4:6**  
+> **Eph. 4:6**
+>
 > One God and Father of all.
 
 
@@ -111,7 +116,10 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 These passages locate **the father who runs to meet us** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Luke 15:11-32](#passage-luke-15-11-32)
+> **Luke 15:11-32**
+>
+> **15:11** And he said, A certain man had two sons: **15:12** And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. **15:13** And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living. **15:14** And when he had spent all, there arose a mighty famine in that land; and he began to be in want. **15:15** And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine. **15:16** And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him. **15:17** And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger! **15:18** I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee, **15:19** And am no more worthy to be called thy son: make me as one of thy hired servants. **15:20** And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. **15:21** And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. **15:22** But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: **15:23** And bring hither the fatted calf, and kill it; and let us eat, and be merry: **15:24** For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry. **15:25** Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing. **15:26** And he called one of the servants, and asked what these things meant. **15:27** And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound. **15:28** And he was angry, and would not go in: therefore came his father out, and intreated him. **15:29** And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends: **15:30** But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf. **15:31** And he said unto him, Son, thou art ever with me, and all that I have is thine. **15:32** It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
+
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-002"></a>
 
@@ -119,15 +127,37 @@ References: [Luke 15:11-32](#passage-luke-15-11-32)
 
 These passages locate **our father in heaven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Matthew 6:9](#passage-matthew-6-9)
+> **Matthew 6:9**
+>
+> **6:9** After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
+
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-003"></a>
 
 ### Adopted as Children of God
 
-These passages locate **adopted as children of god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **adopted as children of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [1 John 3:1](#passage-1-john-3-1), [2 Corinthians 6:18](#passage-2-corinthians-6-18), [Galatians 3:26](#passage-galatians-3-26), [Galatians 4:4-6](#passage-galatians-4-4-6), [Romans 8:15-16](#passage-romans-8-15-16)
+> **1 John 3:1**
+>
+> **3:1** Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
+
+> **2 Corinthians 6:18**
+>
+> **6:18** And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
+
+> **Galatians 3:26**
+>
+> **3:26** For ye are all the children of God by faith in Christ Jesus.
+
+> **Galatians 4:4-6**
+>
+> **4:4** But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, **4:5** To redeem them that were under the law, that we might receive the adoption of sons. **4:6** And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
+
+> **Romans 8:15-16**
+>
+> **8:15** For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father. **8:16** The Spirit itself beareth witness with our spirit, that we are the children of God:
+
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-004"></a>
 
@@ -135,7 +165,18 @@ References: [1 John 3:1](#passage-1-john-3-1), [2 Corinthians 6:18](#passage-2-c
 
 These passages locate **approaching with boldness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Ephesians 3:11-15](#passage-ephesians-3-11-15), [Hebrews 4:16](#passage-hebrews-4-16), [John 14:13-14](#passage-john-14-13-14)
+> **Ephesians 3:11-15**
+>
+> **3:11** According to the eternal purpose which he purposed in Christ Jesus our Lord: **3:12** In whom we have boldness and access with confidence by the faith of him. **3:13** Wherefore I desire that ye faint not at my tribulations for you, which is your glory. **3:14** For this cause I bow my knees unto the Father of our Lord Jesus Christ, **3:15** Of whom the whole family in heaven and earth is named,
+
+> **Hebrews 4:16**
+>
+> **4:16** Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.
+
+> **John 14:13-14**
+>
+> **14:13** And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son. **14:14** If ye shall ask any thing in my name, I will do it.
+
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-005"></a>
 
@@ -143,7 +184,14 @@ References: [Ephesians 3:11-15](#passage-ephesians-3-11-15), [Hebrews 4:16](#pas
 
 These passages locate **one father of all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Ephesians 4:6](#passage-ephesians-4-6), [Galatians 3:26](#passage-galatians-3-26)
+> **Ephesians 4:6**
+>
+> **4:6** One God and Father of all, who is above all, and through all, and in you all.
+
+> **Galatians 3:26**
+>
+> **3:26** For ye are all the children of God by faith in Christ Jesus.
+
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-006"></a>
 
@@ -151,7 +199,18 @@ References: [Ephesians 4:6](#passage-ephesians-4-6), [Galatians 3:26](#passage-g
 
 These passages locate **our help is in the name of the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Acts 17:24](#passage-acts-17-24), [Luke 1:37](#passage-luke-1-37), [Psalm 124:8](#passage-psalm-124-8)
+> **Acts 17:24**
+>
+> **17:24** God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;
+
+> **Luke 1:37**
+>
+> **1:37** For with God nothing shall be impossible.
+
+> **Psalm 124:8**
+>
+> **124:8** Our help is in the name of Yahweh, who made heaven and earth.
+
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-007"></a>
 
@@ -159,7 +218,14 @@ References: [Acts 17:24](#passage-acts-17-24), [Luke 1:37](#passage-luke-1-37), 
 
 These passages locate **you shall worship the lord alone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Matthew 4:9-10](#passage-matthew-4-9-10), [Revelation 22:8-9](#passage-revelation-22-8-9)
+> **Matthew 4:9-10**
+>
+> **4:9** And saith unto him, All these things will I give thee, if thou wilt fall down and worship me. **4:10** Thou shalt worship Yahweh thy God, and him only shalt thou serve.
+
+> **Revelation 22:8-9**
+>
+> **22:8** And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things. **22:9** Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.
+
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-008"></a>
 
@@ -167,15 +233,33 @@ References: [Matthew 4:9-10](#passage-matthew-4-9-10), [Revelation 22:8-9](#pass
 
 These passages locate **calling on him as father** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [1 Peter 1:17](#passage-1-peter-1-17), [Ephesians 3:14-17](#passage-ephesians-3-14-17), [Matthew 6:9](#passage-matthew-6-9)
+> **1 Peter 1:17**
+>
+> **1:17** And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear:
+
+> **Ephesians 3:14-17**
+>
+> **3:14** For this cause I bow my knees unto the Father of our Lord Jesus Christ, **3:15** Of whom the whole family in heaven and earth is named, **3:16** That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man; **3:17** That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,
+
+> **Matthew 6:9**
+>
+> **6:9** After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
+
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-009"></a>
 
 ### Asking in Jesus' Name
 
-These passages locate **asking in jesus' name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **asking in Jesus' name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [John 14:14](#passage-john-14-14), [John 16:23](#passage-john-16-23)
+> **John 14:14**
+>
+> **14:14** If ye shall ask any thing in my name, I will do it.
+
+> **John 16:23**
+>
+> **16:23** And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you.
+
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-010"></a>
 
@@ -183,15 +267,49 @@ References: [John 14:14](#passage-john-14-14), [John 16:23](#passage-john-16-23)
 
 These passages locate **praying in the spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Acts 4:23-31](#passage-acts-4-23-31), [Ephesians 6:18](#passage-ephesians-6-18), [Jude 20](#passage-jude-20), [Romans 8:26](#passage-romans-8-26)
+> **Acts 4:23-31**
+>
+> **4:23** And being let go, they went to their own company, and reported all that the chief priests and elders had said unto them. **4:24** And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou art God, which hast made heaven, and earth, and the sea, and all that in them is: **4:25** Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things? **4:26** The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Christ. **4:27** For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together, **4:28** For to do whatsoever thy hand and thy counsel determined before to be done. **4:29** And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word, **4:30** By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus. **4:31** And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.
+
+> **Ephesians 6:18**
+>
+> **6:18** Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
+
+> **Jude 20**
+>
+> **1:20** But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,
+
+> **Romans 8:26**
+>
+> **8:26** Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.
+
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-011"></a>
 
 ### Praying to the Lord Jesus
 
-These passages locate **praying to the lord jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **praying to the lord Jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [1 Corinthians 1:2](#passage-1-corinthians-1-2), [1 John 5:13-15](#passage-1-john-5-13-15), [Acts 1:24](#passage-acts-1-24), [Acts 7:59-60](#passage-acts-7-59-60), [Revelation 22:20](#passage-revelation-22-20)
+> **1 Corinthians 1:2**
+>
+> **1:2** Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
+
+> **1 John 5:13-15**
+>
+> **5:13** These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God. **5:14** And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us: **5:15** And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.
+
+> **Acts 1:24**
+>
+> **1:24** And they prayed, and said, Thou, Lord, which knowest the hearts of all men, shew whether of these two thou hast chosen,
+
+> **Acts 7:59-60**
+>
+> **7:59** And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit. **7:60** And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
+
+> **Revelation 22:20**
+>
+> **22:20** He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.
+
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-012"></a>
 
@@ -199,189 +317,10 @@ References: [1 Corinthians 1:2](#passage-1-corinthians-1-2), [1 John 5:13-15](#p
 
 These passages locate **my chosen portion and my cup** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Psalm 16](#passage-psalm-16)
+> **Psalm 16**
+>
+> **16:1** Preserve me, O God: for in thee do I put my trust. **16:2** O my soul, thou hast said unto Yahweh, Thou art my Lord: my goodness extendeth not to thee; **16:3** But to the saints that are in the earth, and to the excellent, in whom is all my delight. **16:4** Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips. **16:5** Yahweh is the portion of mine inheritance and of my cup: thou maintainest my lot. **16:6** The lines are fallen unto me in pleasant places; yea, I have a goodly heritage. **16:7** I will bless Yahweh, who hath given me counsel: my reins also instruct me in the night seasons. **16:8** I have set Yahweh always before me: because he is at my right hand, I shall not be moved. **16:9** Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope. **16:10** For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption. **16:11** Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.
 
-## Scripture readings
-
-<a id="passage-luke-15-11-32"></a>
-
-### Luke 15:11-32
-
-**15:11** And he said, A certain man had two sons: **15:12** And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. **15:13** And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living. **15:14** And when he had spent all, there arose a mighty famine in that land; and he began to be in want. **15:15** And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine. **15:16** And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him. **15:17** And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger! **15:18** I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee, **15:19** And am no more worthy to be called thy son: make me as one of thy hired servants. **15:20** And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. **15:21** And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. **15:22** But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: **15:23** And bring hither the fatted calf, and kill it; and let us eat, and be merry: **15:24** For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry. **15:25** Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing. **15:26** And he called one of the servants, and asked what these things meant. **15:27** And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound. **15:28** And he was angry, and would not go in: therefore came his father out, and intreated him. **15:29** And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends: **15:30** But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf. **15:31** And he said unto him, Son, thou art ever with me, and all that I have is thine. **15:32** It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
-
-<a id="passage-matthew-6-9"></a>
-
-### Matthew 6:9
-
-**6:9** After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
-
-<a id="passage-1-john-3-1"></a>
-
-### 1 John 3:1
-
-**3:1** Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
-
-<a id="passage-2-corinthians-6-18"></a>
-
-### 2 Corinthians 6:18
-
-**6:18** And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
-
-<a id="passage-galatians-3-26"></a>
-
-### Galatians 3:26
-
-**3:26** For ye are all the children of God by faith in Christ Jesus.
-
-<a id="passage-galatians-4-4-6"></a>
-
-### Galatians 4:4-6
-
-**4:4** But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, **4:5** To redeem them that were under the law, that we might receive the adoption of sons. **4:6** And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
-
-<a id="passage-romans-8-15-16"></a>
-
-### Romans 8:15-16
-
-**8:15** For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father. **8:16** The Spirit itself beareth witness with our spirit, that we are the children of God:
-
-<a id="passage-ephesians-3-11-15"></a>
-
-### Ephesians 3:11-15
-
-**3:11** According to the eternal purpose which he purposed in Christ Jesus our Lord: **3:12** In whom we have boldness and access with confidence by the faith of him. **3:13** Wherefore I desire that ye faint not at my tribulations for you, which is your glory. **3:14** For this cause I bow my knees unto the Father of our Lord Jesus Christ, **3:15** Of whom the whole family in heaven and earth is named,
-
-<a id="passage-hebrews-4-16"></a>
-
-### Hebrews 4:16
-
-**4:16** Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.
-
-<a id="passage-john-14-13-14"></a>
-
-### John 14:13-14
-
-**14:13** And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son. **14:14** If ye shall ask any thing in my name, I will do it.
-
-<a id="passage-ephesians-4-6"></a>
-
-### Ephesians 4:6
-
-**4:6** One God and Father of all, who is above all, and through all, and in you all.
-
-<a id="passage-acts-17-24"></a>
-
-### Acts 17:24
-
-**17:24** God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;
-
-<a id="passage-luke-1-37"></a>
-
-### Luke 1:37
-
-**1:37** For with God nothing shall be impossible.
-
-<a id="passage-psalm-124-8"></a>
-
-### Psalm 124:8
-
-**124:8** Our help is in the name of Yahweh, who made heaven and earth. 
-
-<a id="passage-matthew-4-9-10"></a>
-
-### Matthew 4:9-10
-
-**4:9** And saith unto him, All these things will I give thee, if thou wilt fall down and worship me. **4:10** Thou shalt worship Yahweh thy God, and him only shalt thou serve.
-
-<a id="passage-revelation-22-8-9"></a>
-
-### Revelation 22:8-9
-
-**22:8** And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things. **22:9** Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.
-
-<a id="passage-1-peter-1-17"></a>
-
-### 1 Peter 1:17
-
-**1:17** And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear:
-
-<a id="passage-ephesians-3-14-17"></a>
-
-### Ephesians 3:14-17
-
-**3:14** For this cause I bow my knees unto the Father of our Lord Jesus Christ, **3:15** Of whom the whole family in heaven and earth is named, **3:16** That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man; **3:17** That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,
-
-<a id="passage-john-14-14"></a>
-
-### John 14:14
-
-**14:14** If ye shall ask any thing in my name, I will do it.
-
-<a id="passage-john-16-23"></a>
-
-### John 16:23
-
-**16:23** And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you.
-
-<a id="passage-acts-4-23-31"></a>
-
-### Acts 4:23-31
-
-**4:23** And being let go, they went to their own company, and reported all that the chief priests and elders had said unto them. **4:24** And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou art God, which hast made heaven, and earth, and the sea, and all that in them is: **4:25** Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things? **4:26** The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Christ. **4:27** For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together, **4:28** For to do whatsoever thy hand and thy counsel determined before to be done. **4:29** And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word, **4:30** By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus. **4:31** And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.
-
-<a id="passage-ephesians-6-18"></a>
-
-### Ephesians 6:18
-
-**6:18** Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
-
-<a id="passage-jude-20"></a>
-
-### Jude 20
-
-**1:20** But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,
-
-<a id="passage-romans-8-26"></a>
-
-### Romans 8:26
-
-**8:26** Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.
-
-<a id="passage-1-corinthians-1-2"></a>
-
-### 1 Corinthians 1:2
-
-**1:2** Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
-
-<a id="passage-1-john-5-13-15"></a>
-
-### 1 John 5:13-15
-
-**5:13** These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God. **5:14** And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us: **5:15** And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.
-
-<a id="passage-acts-1-24"></a>
-
-### Acts 1:24
-
-**1:24** And they prayed, and said, Thou, Lord, which knowest the hearts of all men, shew whether of these two thou hast chosen,
-
-<a id="passage-acts-7-59-60"></a>
-
-### Acts 7:59-60
-
-**7:59** And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit. **7:60** And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
-
-<a id="passage-revelation-22-20"></a>
-
-### Revelation 22:20
-
-**22:20** He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.
-
-<a id="passage-psalm-16"></a>
-
-### Psalm 16
-
-**16:1** Preserve me, O God: for in thee do I put my trust. **16:2** O my soul, thou hast said unto Yahweh, Thou art my Lord: my goodness extendeth not to thee; **16:3** But to the saints that are in the earth, and to the excellent, in whom is all my delight. **16:4** Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips. **16:5** Yahweh is the portion of mine inheritance and of my cup: thou maintainest my lot. **16:6** The lines are fallen unto me in pleasant places; yea, I have a goodly heritage. **16:7** I will bless Yahweh, who hath given me counsel: my reins also instruct me in the night seasons. **16:8** I have set Yahweh always before me: because he is at my right hand, I shall not be moved. **16:9** Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope. **16:10** For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption. **16:11** Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore. 
 
 ## Bible narratives
 

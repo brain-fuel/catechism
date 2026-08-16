@@ -19,13 +19,18 @@ go run ./cmd/open-catechism build --format all
 ```
 
 The ready-to-serve site is committed in `public/`. Publication binaries are
-built into ignored `dist/`. The build source is GoML and lowers through
-`brain-fuel/goplus` v0.145.1 to ordinary Go; Typst is needed for PDF output.
-All textual datasets are local after synchronization.
+built into ignored `dist/`. EPUB output is semantic EPUB 3 XHTML with embedded
+Overpass and Atkinson Hyperlegible fonts. PDF output renders CommonMark through
+the vendored cmarker Typst package and uses the same font families. The build
+source is GoML and lowers through `brain-fuel/goplus` v0.145.1 to ordinary Go;
+Typst is needed for PDF output. All textual datasets are local after
+synchronization.
 
 The website is rendered from the canonical Markdown by Hugo v0.164.0 using the
 project-local `open-catechism` theme. Unit numbers indicate sequence; doctrinal
 titles—not generic unit labels—name links, pages, and browser titles.
+Scripture cited by a teaching section is printed there as an inline blockquote,
+not deferred to a reference section.
 
 ## Editorial policy
 

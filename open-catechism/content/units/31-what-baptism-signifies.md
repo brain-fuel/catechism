@@ -13,10 +13,12 @@ title: "What Baptism Signifies"
 
 Answer: All who keep the covenant of their Baptism, and remain steadfast in faith unto the end, become saved; but the hypocrites, who suffer themselves to be baptized for custom's sake and for temporal profit, unto them it turneth rather to damnation than to salvation.
 
-> **Matt. 10:22**  
+> **Matt. 10:22**
+>
 > He that endureth steadfast unto the end shall be saved.
 
-> **Heb. 11:6**  
+> **Heb. 11:6**
+>
 > Without faith it is impossible to please God.
 
 
@@ -24,13 +26,16 @@ Answer: All who keep the covenant of their Baptism, and remain steadfast in fait
 
 Answer: Because all men, who are conceived and born in sin, are by nature the children of wrath; but through Baptism they are regenerated and become the children of God, cleansed and washed from sin unto eternal life.
 
-> **Ps. 51:5**  
+> **Ps. 51:5**
+>
 > Behold, I was shapen in iniquity; and in sin did my mother conceive me.
 
-> **Eph. 2:3**  
+> **Eph. 2:3**
+>
 > We were by nature the children of wrath, even as others.
 
-> **Rom. 7:17**  
+> **Rom. 7:17**
+>
 > See question 25.
 
 
@@ -38,10 +43,12 @@ Answer: Because all men, who are conceived and born in sin, are by nature the ch
 
 Answer: Because the Holy Ghost through Baptism reneweth us both in understanding and in will, and giveth us power unto a new life, so that we more and more withstand sin and become meet for good works, which are called the fruits of the Spirit and of faith.
 
-> **Gal. 4:6**  
+> **Gal. 4:6**
+>
 > Because ye are children, God hath sent forth the Spirit of His Son into your hearts, crying, Abba, dear Father!
 
-> **Col. 3:10**  
+> **Col. 3:10**
+>
 > Put on the new (man), which is renewed in knowledge after the image of Him that created him.
 
 
@@ -53,10 +60,12 @@ Answer: Our corrupt nature and the evil lust born with us, which we have inherit
 
 Answer: When, through daily contrition and repentance, as in spiritual water, we drown that evil lust, crucify our flesh, and withstand its sinful desires.
 
-> **Gal. 5:24**  
+> **Gal. 5:24**
+>
 > They that are Christ's have crucified the flesh with the affections and lusts.
 
-> **Rom. 6:6**  
+> **Rom. 6:6**
+>
 > Knowing this, that our old man is crucified with Him, that the body of sin might be destroyed, that henceforth we should not serve sin.
 
 
@@ -64,7 +73,8 @@ Answer: When, through daily contrition and repentance, as in spiritual water, we
 
 Answer: Sin is indeed taken away in Baptism and forgiven, so that it is no more imputed unto us, neither can it any more condemn us; but it dwelleth nevertheless in us so long as we live, and is not rooted out until death.
 
-> **Rom. 7:17,23,24**  
+> **Rom. 7:17,23,24**
+>
 > Now then it is no more I that do it, but sin that dwelleth in me. I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members. O wretched man that I am! who shall deliver me from this body of death?
 
 
@@ -72,13 +82,16 @@ Answer: Sin is indeed taken away in Baptism and forgiven, so that it is no more 
 
 Answer: He that is regenerated of the Holy Ghost, and liveth in righteousness and purity, putteth off the old man, which through lusts corrupteth himself in error, and is diligent to keep faith and a good conscience.
 
-> **Col. 3:10**  
+> **Col. 3:10**
+>
 > See question 28.
 
-> **Eph. 4:22**  
+> **Eph. 4:22**
+>
 > Put off the old man, wherein ye walked heretofore, which through lusts corrupteth itself in error.
 
-> **1 Tim. 1:18,19**  
+> **1 Tim. 1:18,19**
+>
 > This charge I commit unto thee: that thou shouldest hold faith and a good conscience.
 
 
@@ -86,13 +99,16 @@ Answer: He that is regenerated of the Holy Ghost, and liveth in righteousness an
 
 Answer: He can indeed. For although man on his part breaketh the covenant made, and falleth into sin, yet is God faithful and abideth steadfast in His covenant, whereby He again receiveth the sinner into His grace, as often as he turneth and amendeth himself.
 
-> **Ezek. 18:21**  
+> **Ezek. 18:21**
+>
 > If the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right; he shall surely live, and shall not die.
 
-> **2 Tim. 2:13**  
+> **2 Tim. 2:13**
+>
 > If we believe not, yet He abideth faithful: He cannot deny Himself.
 
-> **Rom. 3:3,4**  
+> **Rom. 3:3,4**
+>
 > For some of the Jews did not believe; what of it? shall their unbelief make the faith of God without effect? God forbid!
 
 
@@ -137,15 +153,21 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 
 These passages locate **walking in newness of life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Romans 6:4](#passage-romans-6-4)
+> **Romans 6:4**
+>
+> **6:4** Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
+
 
 <a id="rg-05-1-4-what-baptism-signifies-002"></a>
 
 ### Dead to Sin, Alive to God
 
-These passages locate **dead to sin, alive to god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **dead to sin, alive to God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Romans 6:1-14](#passage-romans-6-1-14)
+> **Romans 6:1-14**
+>
+> **6:1** What shall we say then? Shall we continue in sin, that grace may abound? **6:2** God forbid. How shall we, that are dead to sin, live any longer therein? **6:3** Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? **6:4** Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. **6:5** For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection: **6:6** Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin. **6:7** For he that is dead is freed from sin. **6:8** Now if we be dead with Christ, we believe that we shall also live with him: **6:9** Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him. **6:10** For in that he died, he died unto sin once: but in that he liveth, he liveth unto God. **6:11** Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord. **6:12** Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof. **6:13** Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God. **6:14** For sin shall not have dominion over you: for ye are not under the law, but under grace.
+
 
 <a id="rg-05-1-4-what-baptism-signifies-003"></a>
 
@@ -153,7 +175,10 @@ References: [Romans 6:1-14](#passage-romans-6-1-14)
 
 These passages locate **put off the old self** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Ephesians 4:22](#passage-ephesians-4-22)
+> **Ephesians 4:22**
+>
+> **4:22** That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
+
 
 <a id="rg-05-1-4-what-baptism-signifies-004"></a>
 
@@ -161,7 +186,10 @@ References: [Ephesians 4:22](#passage-ephesians-4-22)
 
 These passages locate **the old has passed away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [2 Corinthians 5:17](#passage-2-corinthians-5-17)
+> **2 Corinthians 5:17**
+>
+> **5:17** Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.
+
 
 <a id="rg-05-1-4-what-baptism-signifies-005"></a>
 
@@ -169,15 +197,33 @@ References: [2 Corinthians 5:17](#passage-2-corinthians-5-17)
 
 These passages locate **the flesh against the spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Galatians 5:17](#passage-galatians-5-17)
+> **Galatians 5:17**
+>
+> **5:17** For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.
+
 
 <a id="rg-05-1-4-what-baptism-signifies-006"></a>
 
 ### The New Self Raised with Christ
 
-These passages locate **the new self raised with christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the new self raised with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Colossians 3:1-10](#passage-colossians-3-1-10), [Ephesians 4:24](#passage-ephesians-4-24), [Galatians 2:20](#passage-galatians-2-20), [Romans 6:3-4](#passage-romans-6-3-4)
+> **Colossians 3:1-10**
+>
+> **3:1** If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God. **3:2** Set your affection on things above, not on things on the earth. **3:3** For ye are dead, and your life is hid with Christ in God. **3:4** When Christ, who is our life, shall appear, then shall ye also appear with him in glory. **3:5** Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry: **3:6** For which things' sake the wrath of God cometh on the children of disobedience: **3:7** In the which ye also walked some time, when ye lived in them. **3:8** But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth. **3:9** Lie not one to another, seeing that ye have put off the old man with his deeds; **3:10** And have put on the new man, which is renewed in knowledge after the image of him that created him:
+
+> **Ephesians 4:24**
+>
+> **4:24** And that ye put on the new man, which after God is created in righteousness and true holiness.
+
+> **Galatians 2:20**
+>
+> **2:20** I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
+
+> **Romans 6:3-4**
+>
+> **6:3** Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? **6:4** Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
+
 
 <a id="rg-05-1-4-what-baptism-signifies-007"></a>
 
@@ -185,7 +231,26 @@ References: [Colossians 3:1-10](#passage-colossians-3-1-10), [Ephesians 4:24](#p
 
 These passages locate **living daily in our baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [1 Corinthians 6:11](#passage-1-corinthians-6-11), [Acts 2:38](#passage-acts-2-38), [Matthew 28:19](#passage-matthew-28-19), [Romans 6:3-6](#passage-romans-6-3-6), [Titus 3:5-6](#passage-titus-3-5-6)
+> **1 Corinthians 6:11**
+>
+> **6:11** And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.
+
+> **Acts 2:38**
+>
+> **2:38** Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.
+
+> **Matthew 28:19**
+>
+> **28:19** Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
+
+> **Romans 6:3-6**
+>
+> **6:3** Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? **6:4** Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. **6:5** For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection: **6:6** Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.
+
+> **Titus 3:5-6**
+>
+> **3:5** Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost; **3:6** Which he shed on us abundantly through Jesus Christ our Saviour;
+
 
 <a id="rg-05-1-4-what-baptism-signifies-008"></a>
 
@@ -193,99 +258,10 @@ References: [1 Corinthians 6:11](#passage-1-corinthians-6-11), [Acts 2:38](#pass
 
 These passages locate **he drew me out of many waters** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
-References: [Psalm 18](#passage-psalm-18)
+> **Psalm 18**
+>
+> **18:1** I will love thee, O Yahweh, my strength. **18:2** Yahweh is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower. **18:3** I will call upon Yahweh, who is worthy to be praised: so shall I be saved from mine enemies. **18:4** The sorrows of death compassed me, and the floods of ungodly men made me afraid. **18:5** The sorrows of hell compassed me about: the snares of death prevented me. **18:6** In my distress I called upon Yahweh, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears. **18:7** Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth. **18:8** There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it. **18:9** He bowed the heavens also, and came down: and darkness was under his feet. **18:10** And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind. **18:11** He made darkness his secret place; his pavilion round about him were dark waters and thick clouds of the skies. **18:12** At the brightness that was before him his thick clouds passed, hail stones and coals of fire. **18:13** Yahweh also thundered in the heavens, and the Highest gave his voice; hail stones and coals of fire. **18:14** Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them. **18:15** Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O Yahweh, at the blast of the breath of thy nostrils. **18:16** He sent from above, he took me, he drew me out of many waters. **18:17** He delivered me from my strong enemy, and from them which hated me: for they were too strong for me. **18:18** They prevented me in the day of my calamity: but Yahweh was my stay. **18:19** He brought me forth also into a large place; he delivered me, because he delighted in me. **18:20** Yahweh rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me. **18:21** For I have kept the ways of Yahweh, and have not wickedly departed from my God. **18:22** For all his judgments were before me, and I did not put away his statutes from me. **18:23** I was also upright before him, and I kept myself from mine iniquity. **18:24** Therefore hath Yahweh recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight. **18:25** With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright; **18:26** With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward. **18:27** For thou wilt save the afflicted people; but wilt bring down high looks. **18:28** For thou wilt light my candle: Yahweh my God will enlighten my darkness. **18:29** For by thee I have run through a troop; and by my God have I leaped over a wall. **18:30** As for God, his way is perfect: the word of Yahweh is tried: he is a buckler to all those that trust in him. **18:31** For who is God save Yahweh? or who is a rock save our God? **18:32** It is God that girdeth me with strength, and maketh my way perfect. **18:33** He maketh my feet like hinds’ feet, and setteth me upon my high places. **18:34** He teacheth my hands to war, so that a bow of steel is broken by mine arms. **18:35** Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great. **18:36** Thou hast enlarged my steps under me, that my feet did not slip. **18:37** I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed. **18:38** I have wounded them that they were not able to rise: they are fallen under my feet. **18:39** For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me. **18:40** Thou hast also given me the necks of mine enemies; that I might destroy them that hate me. **18:41** They cried, but there was none to save them: even unto Yahweh, but he answered them not. **18:42** Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets. **18:43** Thou hast delivered me from the strivings of the people; and thou hast made me the head of the heathen: a people whom I have not known shall serve me. **18:44** As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me. **18:45** The strangers shall fade away, and be afraid out of their close places. **18:46** Yahweh liveth; and blessed be my rock; and let the God of my salvation be exalted. **18:47** It is God that avengeth me, and subdueth the people under me. **18:48** He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man. **18:49** Therefore will I give thanks unto thee, O Yahweh, among the heathen, and sing praises unto thy name. **18:50** Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.
 
-## Scripture readings
-
-<a id="passage-romans-6-4"></a>
-
-### Romans 6:4
-
-**6:4** Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
-
-<a id="passage-romans-6-1-14"></a>
-
-### Romans 6:1-14
-
-**6:1** What shall we say then? Shall we continue in sin, that grace may abound? **6:2** God forbid. How shall we, that are dead to sin, live any longer therein? **6:3** Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? **6:4** Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. **6:5** For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection: **6:6** Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin. **6:7** For he that is dead is freed from sin. **6:8** Now if we be dead with Christ, we believe that we shall also live with him: **6:9** Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him. **6:10** For in that he died, he died unto sin once: but in that he liveth, he liveth unto God. **6:11** Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord. **6:12** Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof. **6:13** Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God. **6:14** For sin shall not have dominion over you: for ye are not under the law, but under grace.
-
-<a id="passage-ephesians-4-22"></a>
-
-### Ephesians 4:22
-
-**4:22** That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
-
-<a id="passage-2-corinthians-5-17"></a>
-
-### 2 Corinthians 5:17
-
-**5:17** Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.
-
-<a id="passage-galatians-5-17"></a>
-
-### Galatians 5:17
-
-**5:17** For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.
-
-<a id="passage-colossians-3-1-10"></a>
-
-### Colossians 3:1-10
-
-**3:1** If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God. **3:2** Set your affection on things above, not on things on the earth. **3:3** For ye are dead, and your life is hid with Christ in God. **3:4** When Christ, who is our life, shall appear, then shall ye also appear with him in glory. **3:5** Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry: **3:6** For which things' sake the wrath of God cometh on the children of disobedience: **3:7** In the which ye also walked some time, when ye lived in them. **3:8** But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth. **3:9** Lie not one to another, seeing that ye have put off the old man with his deeds; **3:10** And have put on the new man, which is renewed in knowledge after the image of him that created him:
-
-<a id="passage-ephesians-4-24"></a>
-
-### Ephesians 4:24
-
-**4:24** And that ye put on the new man, which after God is created in righteousness and true holiness.
-
-<a id="passage-galatians-2-20"></a>
-
-### Galatians 2:20
-
-**2:20** I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
-
-<a id="passage-romans-6-3-4"></a>
-
-### Romans 6:3-4
-
-**6:3** Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? **6:4** Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
-
-<a id="passage-1-corinthians-6-11"></a>
-
-### 1 Corinthians 6:11
-
-**6:11** And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.
-
-<a id="passage-acts-2-38"></a>
-
-### Acts 2:38
-
-**2:38** Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.
-
-<a id="passage-matthew-28-19"></a>
-
-### Matthew 28:19
-
-**28:19** Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
-
-<a id="passage-romans-6-3-6"></a>
-
-### Romans 6:3-6
-
-**6:3** Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? **6:4** Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. **6:5** For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection: **6:6** Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.
-
-<a id="passage-titus-3-5-6"></a>
-
-### Titus 3:5-6
-
-**3:5** Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost; **3:6** Which he shed on us abundantly through Jesus Christ our Saviour;
-
-<a id="passage-psalm-18"></a>
-
-### Psalm 18
-
-**18:1** I will love thee, O Yahweh, my strength. **18:2** Yahweh is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower. **18:3** I will call upon Yahweh, who is worthy to be praised: so shall I be saved from mine enemies. **18:4** The sorrows of death compassed me, and the floods of ungodly men made me afraid. **18:5** The sorrows of hell compassed me about: the snares of death prevented me. **18:6** In my distress I called upon Yahweh, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears. **18:7** Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth. **18:8** There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it. **18:9** He bowed the heavens also, and came down: and darkness was under his feet. **18:10** And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind. **18:11** He made darkness his secret place; his pavilion round about him were dark waters and thick clouds of the skies. **18:12** At the brightness that was before him his thick clouds passed, hail stones and coals of fire. **18:13** Yahweh also thundered in the heavens, and the Highest gave his voice; hail stones and coals of fire. **18:14** Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them. **18:15** Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O Yahweh, at the blast of the breath of thy nostrils. **18:16** He sent from above, he took me, he drew me out of many waters. **18:17** He delivered me from my strong enemy, and from them which hated me: for they were too strong for me. **18:18** They prevented me in the day of my calamity: but Yahweh was my stay. **18:19** He brought me forth also into a large place; he delivered me, because he delighted in me. **18:20** Yahweh rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me. **18:21** For I have kept the ways of Yahweh, and have not wickedly departed from my God. **18:22** For all his judgments were before me, and I did not put away his statutes from me. **18:23** I was also upright before him, and I kept myself from mine iniquity. **18:24** Therefore hath Yahweh recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight. **18:25** With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright; **18:26** With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward. **18:27** For thou wilt save the afflicted people; but wilt bring down high looks. **18:28** For thou wilt light my candle: Yahweh my God will enlighten my darkness. **18:29** For by thee I have run through a troop; and by my God have I leaped over a wall. **18:30** As for God, his way is perfect: the word of Yahweh is tried: he is a buckler to all those that trust in him. **18:31** For who is God save Yahweh? or who is a rock save our God? **18:32** It is God that girdeth me with strength, and maketh my way perfect. **18:33** He maketh my feet like hinds’ feet, and setteth me upon my high places. **18:34** He teacheth my hands to war, so that a bow of steel is broken by mine arms. **18:35** Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great. **18:36** Thou hast enlarged my steps under me, that my feet did not slip. **18:37** I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed. **18:38** I have wounded them that they were not able to rise: they are fallen under my feet. **18:39** For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me. **18:40** Thou hast also given me the necks of mine enemies; that I might destroy them that hate me. **18:41** They cried, but there was none to save them: even unto Yahweh, but he answered them not. **18:42** Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets. **18:43** Thou hast delivered me from the strivings of the people; and thou hast made me the head of the heathen: a people whom I have not known shall serve me. **18:44** As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me. **18:45** The strangers shall fade away, and be afraid out of their close places. **18:46** Yahweh liveth; and blessed be my rock; and let the God of my salvation be exalted. **18:47** It is God that avengeth me, and subdueth the people under me. **18:48** He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man. **18:49** Therefore will I give thanks unto thee, O Yahweh, among the heathen, and sing praises unto thy name. **18:50** Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore. 
 
 ## Bible narratives
 

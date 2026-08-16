@@ -21,3 +21,8 @@ See `licenses/BRAIN-FUEL-LICENSING.md`, `CC0-1.0.txt`, and `CC-BY-4.0.txt`.
   `assets/fonts/OFL-Overpass.txt`.
 - Atkinson Hyperlegible, Braille Institute, SIL Open Font License 1.1. The
   license text is bundled at `assets/fonts/OFL-Atkinson-Hyperlegible.txt`.
+
+## Typst Markdown rendering
+
+- cmarker 0.1.10, Andrew Barrett, MIT License. The vendored Typst package and
+  license are bundled at `vendor/typst/cmarker/` so PDF builds remain offline.
