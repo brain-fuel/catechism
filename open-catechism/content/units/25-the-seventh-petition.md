@@ -120,7 +120,7 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### The Fall and the Curse
 
-These passages locate **the fall and the curse** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Fall and the Curse** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 3:1-19**
 >
@@ -131,7 +131,7 @@ These passages locate **the fall and the curse** within the whole counsel of Hol
 
 ### The Lord Will Keep You from All Evil
 
-These passages locate **the lord will keep you from all evil** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Lord Will Keep You from All Evil** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Thessalonians 3:3**
 >
@@ -146,7 +146,7 @@ These passages locate **the lord will keep you from all evil** within the whole 
 
 ### Deliver Me from My Enemies
 
-These passages locate **deliver me from my enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Deliver Me from My Enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 20:1-2**
 >
@@ -161,7 +161,7 @@ These passages locate **deliver me from my enemies** within the whole counsel of
 
 ### Through Many Tribulations
 
-These passages locate **through many tribulations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Through Many Tribulations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 14:22**
 >
@@ -188,7 +188,7 @@ These passages locate **through many tribulations** within the whole counsel of 
 
 ### Rescued from This Evil Age
 
-These passages locate **rescued from this evil age** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Rescued from This Evil Age** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Thessalonians 3:3**
 >
@@ -215,7 +215,7 @@ These passages locate **rescued from this evil age** within the whole counsel of
 
 ### The Evil One Unmasked
 
-These passages locate **the evil one unmasked** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Evil One Unmasked** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 5:8**
 >
@@ -242,7 +242,7 @@ These passages locate **the evil one unmasked** within the whole counsel of Holy
 
 ### The Father of Lies
 
-These passages locate **the father of lies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Father of Lies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 2:1-2**
 >
@@ -265,7 +265,7 @@ These passages locate **the father of lies** within the whole counsel of Holy Sc
 
 ### A Very Present Help in Trouble
 
-These passages locate **a very present help in trouble** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A Very Present Help in Trouble** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Thessalonians 3:3**
 >
@@ -284,7 +284,7 @@ These passages locate **a very present help in trouble** within the whole counse
 
 ### Our Dwelling Place in All Generations
 
-These passages locate **our dwelling place in all generations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Our Dwelling Place in All Generations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 90**
 >
@@ -293,7 +293,7 @@ These passages locate **our dwelling place in all generations** within the whole
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Genesis 3:1-19 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -305,7 +305,7 @@ Read 2 Thessalonians 3:3. Attend to the actual persons, actions, and outcome nam
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

@@ -208,7 +208,7 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### Magnifying the Lord
 
-These passages locate **magnifying the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Magnifying the Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 1:39-56**
 >
@@ -219,7 +219,7 @@ These passages locate **magnifying the lord** within the whole counsel of Holy S
 
 ### God Reveals His Name
 
-These passages locate **God reveals his name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **God Reveals His Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 3:13-15**
 >
@@ -230,7 +230,7 @@ These passages locate **God reveals his name** within the whole counsel of Holy 
 
 ### Salvation in the Name of Jesus
 
-These passages locate **salvation in the name of Jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Salvation in the Name of Jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:3**
 >
@@ -257,7 +257,7 @@ These passages locate **salvation in the name of Jesus** within the whole counse
 
 ### Yahweh Our God
 
-These passages locate **Yahweh our God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Yahweh Our God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 20:2**
 >
@@ -276,7 +276,7 @@ These passages locate **Yahweh our God** within the whole counsel of Holy Script
 
 ### Calling on the Name of the Lord
 
-These passages locate **calling on the name of the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Calling on the Name of the Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 4:26**
 >
@@ -291,7 +291,7 @@ These passages locate **calling on the name of the lord** within the whole couns
 
 ### Proclaiming God's Name
 
-These passages locate **proclaiming God's name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Proclaiming God's Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 12:4**
 >
@@ -306,7 +306,7 @@ These passages locate **proclaiming God's name** within the whole counsel of Hol
 
 ### The Second Commandment
 
-These passages locate **the second commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Second Commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 20:7**
 >
@@ -317,7 +317,7 @@ These passages locate **the second commandment** within the whole counsel of Hol
 
 ### Misusing God's Name: Cursing and Sorcery
 
-These passages locate **misusing God's name: cursing and sorcery** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Misusing God's Name: Cursing and Sorcery** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 19:11-20**
 >
@@ -344,7 +344,7 @@ These passages locate **misusing God's name: cursing and sorcery** within the wh
 
 ### False Swearing and Lying by God's Name
 
-These passages locate **false swearing and lying by God's name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **False Swearing and Lying by God's Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Jeremiah 23:31-32**
 >
@@ -371,7 +371,7 @@ These passages locate **false swearing and lying by God's name** within the whol
 
 ### Prayer in Jesus' Name
 
-These passages locate **prayer in Jesus' name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Prayer in Jesus' Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:1**
 >
@@ -390,7 +390,7 @@ These passages locate **prayer in Jesus' name** within the whole counsel of Holy
 
 ### Calling on God in Trouble
 
-These passages locate **calling on God in trouble** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Calling on God in Trouble** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 36-37**
 >
@@ -409,7 +409,7 @@ These passages locate **calling on God in trouble** within the whole counsel of 
 
 ### Praise and Thanksgiving
 
-These passages locate **praise and thanksgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Praise and Thanksgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 1:46-55**
 >
@@ -440,7 +440,7 @@ These passages locate **praise and thanksgiving** within the whole counsel of Ho
 
 ### Faithfully Speaking God's Word
 
-These passages locate **faithfully speaking God's word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Faithfully Speaking God's Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Jeremiah 23:28**
 >
@@ -455,7 +455,7 @@ These passages locate **faithfully speaking God's word** within the whole counse
 
 ### Acting in God's Name
 
-These passages locate **acting in God's name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Acting in God's Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 14:13-14**
 >
@@ -470,7 +470,7 @@ These passages locate **acting in God's name** within the whole counsel of Holy 
 
 ### Unwholesome Speech
 
-These passages locate **unwholesome speech** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Unwholesome Speech** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 5:4**
 >
@@ -485,7 +485,7 @@ These passages locate **unwholesome speech** within the whole counsel of Holy Sc
 
 ### Speaking Truth
 
-These passages locate **speaking truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Speaking Truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 4:25**
 >
@@ -500,7 +500,7 @@ These passages locate **speaking truth** within the whole counsel of Holy Script
 
 ### Oaths and Vows
 
-These passages locate **oaths and vows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Oaths and Vows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 1:23**
 >
@@ -539,7 +539,7 @@ These passages locate **oaths and vows** within the whole counsel of Holy Script
 
 ### Praise the Name of the LORD
 
-These passages locate **praise the name of the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Praise the Name of the LORD** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 135**
 >
@@ -548,7 +548,7 @@ These passages locate **praise the name of the lord** within the whole counsel o
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Luke 1:39-56 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -560,7 +560,7 @@ Read Exodus 3:13-15. Attend to the actual persons, actions, and outcome named by
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

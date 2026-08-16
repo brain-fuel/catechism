@@ -306,7 +306,7 @@ In the name of Jesus! IN THE NAME OF JESUS!
 
 ### The Spirit Opens Hearts
 
-These passages locate **the spirit opens hearts** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Spirit Opens Hearts** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 16:13-15**
 >
@@ -321,7 +321,7 @@ These passages locate **the spirit opens hearts** within the whole counsel of Ho
 
 ### Faith Is God's Gift
 
-These passages locate **faith is God's gift** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Faith Is God's Gift** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:3**
 >
@@ -340,7 +340,7 @@ These passages locate **faith is God's gift** within the whole counsel of Holy S
 
 ### The Natural Man Cannot Believe
 
-These passages locate **the natural man cannot believe** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Natural Man Cannot Believe** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:3**
 >
@@ -359,7 +359,7 @@ These passages locate **the natural man cannot believe** within the whole counse
 
 ### Resisting or Following the Spirit
 
-These passages locate **resisting or following the spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Resisting or Following the Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 7:51**
 >
@@ -386,7 +386,7 @@ These passages locate **resisting or following the spirit** within the whole cou
 
 ### Faith Comes by the Word
 
-These passages locate **faith comes by the word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Faith Comes by the Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 4:15**
 >
@@ -414,7 +414,7 @@ These passages locate **faith comes by the word** within the whole counsel of Ho
 
 > **Ephesians 1:13**
 >
-> **1:13** In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
+> **1:13** In whom ye also trusted, after that ye heard the Word of Truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
 
 > **John 17:20**
 >
@@ -433,7 +433,7 @@ These passages locate **faith comes by the word** within the whole counsel of Ho
 
 ### The Means of Grace
 
-These passages locate **the means of grace** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Means of Grace** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 4:15**
 >
@@ -480,7 +480,7 @@ These passages locate **the means of grace** within the whole counsel of Holy Sc
 
 ### Washed and Sanctified
 
-These passages locate **washed and sanctified** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Washed and Sanctified** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 1:2**
 >
@@ -499,7 +499,7 @@ These passages locate **washed and sanctified** within the whole counsel of Holy
 
 ### A New Heart and Good Works
 
-These passages locate **a new heart and good works** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A New Heart and Good Works** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 2:10**
 >
@@ -522,7 +522,7 @@ These passages locate **a new heart and good works** within the whole counsel of
 
 ### The New Creation
 
-These passages locate **the new creation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The New Creation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:17**
 >
@@ -545,7 +545,7 @@ These passages locate **the new creation** within the whole counsel of Holy Scri
 
 ### Living by the Spirit
 
-These passages locate **living by the spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Living by the Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:31**
 >
@@ -581,14 +581,14 @@ These passages locate **living by the spirit** within the whole counsel of Holy 
 
 > **Psalm 119**
 >
-> **119:1**  Blessed are the undefiled in the way, who walk in the law of Yahweh. **119:2** Blessed are they that keep his testimonies, and that seek him with the whole heart. **119:3** They also do no iniquity: they walk in his ways. **119:4** Thou hast commanded us to keep thy precepts diligently. **119:5** O that my ways were directed to keep thy statutes! **119:6** Then shall I not be ashamed, when I have respect unto all thy commandments. **119:7** I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments. **119:8** I will keep thy statutes: O forsake me not utterly. **119:9**  Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word. **119:10** With my whole heart have I sought thee: O let me not wander from thy commandments. **119:11** Thy word have I hid in mine heart, that I might not sin against thee. **119:12** Blessed art thou, O Yahweh: teach me thy statutes. **119:13** With my lips have I declared all the judgments of thy mouth. **119:14** I have rejoiced in the way of thy testimonies, as much as in all riches. **119:15** I will meditate in thy precepts, and have respect unto thy ways. **119:16** I will delight myself in thy statutes: I will not forget thy word. **119:17**  Deal bountifully with thy servant, that I may live, and keep thy word. **119:18** Open thou mine eyes, that I may behold wondrous things out of thy law. **119:19** I am a stranger in the earth: hide not thy commandments from me. **119:20** My soul breaketh for the longing that it hath unto thy judgments at all times. **119:21** Thou hast rebuked the proud that are cursed, which do err from thy commandments. **119:22** Remove from me reproach and contempt; for I have kept thy testimonies. **119:23** Princes also did sit and speak against me: but thy servant did meditate in thy statutes. **119:24** Thy testimonies also are my delight and my counsellors. **119:25**  My soul cleaveth unto the dust: quicken thou me according to thy word. **119:26** I have declared my ways, and thou heardest me: teach me thy statutes. **119:27** Make me to understand the way of thy precepts: so shall I talk of thy wondrous works. **119:28** My soul melteth for heaviness: strengthen thou me according unto thy word. **119:29** Remove from me the way of lying: and grant me thy law graciously. **119:30** I have chosen the way of truth: thy judgments have I laid before me. **119:31** I have stuck unto thy testimonies: O Yahweh, put me not to shame. **119:32** I will run the way of thy commandments, when thou shalt enlarge my heart. **119:33**  Teach me, O Yahweh, the way of thy statutes; and I shall keep it unto the end. **119:34** Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart. **119:35** Make me to go in the path of thy commandments; for therein do I delight. **119:36** Incline my heart unto thy testimonies, and not to covetousness. **119:37** Turn away mine eyes from beholding vanity; and quicken thou me in thy way. **119:38** Stablish thy word unto thy servant, who is devoted to thy fear. **119:39** Turn away my reproach which I fear: for thy judgments are good. **119:40** Behold, I have longed after thy precepts: quicken me in thy righteousness. **119:41**  Let thy mercies come also unto me, O Yahweh, even thy salvation, according to thy word. **119:42** So shall I have wherewith to answer him that reproacheth me: for I trust in thy word. **119:43** And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments. **119:44** So shall I keep thy law continually for ever and ever. **119:45** And I will walk at liberty: for I seek thy precepts. **119:46** I will speak of thy testimonies also before kings, and will not be ashamed. **119:47** And I will delight myself in thy commandments, which I have loved. **119:48** My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes. **119:49**  Remember the word unto thy servant, upon which thou hast caused me to hope. **119:50** This is my comfort in my affliction: for thy word hath quickened me. **119:51** The proud have had me greatly in derision: yet have I not declined from thy law. **119:52** I remembered thy judgments of old, O Yahweh; and have comforted myself. **119:53** Horror hath taken hold upon me because of the wicked that forsake thy law. **119:54** Thy statutes have been my songs in the house of my pilgrimage. **119:55** I have remembered thy name, O Yahweh, in the night, and have kept thy law. **119:56** This I had, because I kept thy precepts. **119:57**  Thou art my portion, O Yahweh: I have said that I would keep thy words. **119:58** I intreated thy favour with my whole heart: be merciful unto me according to thy word. **119:59** I thought on my ways, and turned my feet unto thy testimonies. **119:60** I made haste, and delayed not to keep thy commandments. **119:61** The bands of the wicked have robbed me: but I have not forgotten thy law. **119:62** At midnight I will rise to give thanks unto thee because of thy righteous judgments. **119:63** I am a companion of all them that fear thee, and of them that keep thy precepts. **119:64** The earth, O Yahweh, is full of thy mercy: teach me thy statutes. **119:65**  Thou hast dealt well with thy servant, O Yahweh, according unto thy word. **119:66** Teach me good judgment and knowledge: for I have believed thy commandments. **119:67** Before I was afflicted I went astray: but now have I kept thy word. **119:68** Thou art good, and doest good; teach me thy statutes. **119:69** The proud have forged a lie against me: but I will keep thy precepts with my whole heart. **119:70** Their heart is as fat as grease; but I delight in thy law. **119:71** It is good for me that I have been afflicted; that I might learn thy statutes. **119:72** The law of thy mouth is better unto me than thousands of gold and silver. **119:73**  Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments. **119:74** They that fear thee will be glad when they see me; because I have hoped in thy word. **119:75** I know, O Yahweh, that thy judgments are right, and that thou in faithfulness hast afflicted me. **119:76** Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant. **119:77** Let thy tender mercies come unto me, that I may live: for thy law is my delight. **119:78** Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in thy precepts. **119:79** Let those that fear thee turn unto me, and those that have known thy testimonies. **119:80** Let my heart be sound in thy statutes; that I be not ashamed. **119:81**  My soul fainteth for thy salvation: but I hope in thy word. **119:82** Mine eyes fail for thy word, saying, When wilt thou comfort me? **119:83** For I am become like a bottle in the smoke; yet do I not forget thy statutes. **119:84** How many are the days of thy servant? when wilt thou execute judgment on them that persecute me? **119:85** The proud have digged pits for me, which are not after thy law. **119:86** All thy commandments are faithful: they persecute me wrongfully; help thou me. **119:87** They had almost consumed me upon earth; but I forsook not thy precepts. **119:88** Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth. **119:89**  For ever, O Yahweh, thy word is settled in heaven. **119:90** Thy faithfulness is unto all generations: thou hast established the earth, and it abideth. **119:91** They continue this day according to thine ordinances: for all are thy servants. **119:92** Unless thy law had been my delights, I should then have perished in mine affliction. **119:93** I will never forget thy precepts: for with them thou hast quickened me. **119:94** I am thine, save me; for I have sought thy precepts. **119:95** The wicked have waited for me to destroy me: but I will consider thy testimonies. **119:96** I have seen an end of all perfection: but thy commandment is exceeding broad. **119:97**  O how love I thy law! it is my meditation all the day. **119:98** Thou through thy commandments hast made me wiser than mine enemies: for they are ever with me. **119:99** I have more understanding than all my teachers: for thy testimonies are my meditation. **119:100** I understand more than the ancients, because I keep thy precepts. **119:101** I have refrained my feet from every evil way, that I might keep thy word. **119:102** I have not departed from thy judgments: for thou hast taught me. **119:103** How sweet are thy words unto my taste! yea, sweeter than honey to my mouth! **119:104** Through thy precepts I get understanding: therefore I hate every false way. **119:105**  Thy word is a lamp unto my feet, and a light unto my path. **119:106** I have sworn, and I will perform it, that I will keep thy righteous judgments. **119:107** I am afflicted very much: quicken me, O Yahweh, according unto thy word. **119:108** Accept, I beseech thee, the freewill offerings of my mouth, O Yahweh, and teach me thy judgments. **119:109** My soul is continually in my hand: yet do I not forget thy law. **119:110** The wicked have laid a snare for me: yet I erred not from thy precepts. **119:111** Thy testimonies have I taken as an heritage for ever: for they are the rejoicing of my heart. **119:112** I have inclined mine heart to perform thy statutes alway, even unto the end. **119:113**  I hate vain thoughts: but thy law do I love. **119:114** Thou art my hiding place and my shield: I hope in thy word. **119:115** Depart from me, ye evildoers: for I will keep the commandments of my God. **119:116** Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope. **119:117** Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually. **119:118** Thou hast trodden down all them that err from thy statutes: for their deceit is falsehood. **119:119** Thou puttest away all the wicked of the earth like dross: therefore I love thy testimonies. **119:120** My flesh trembleth for fear of thee; and I am afraid of thy judgments. **119:121**  I have done judgment and justice: leave me not to mine oppressors. **119:122** Be surety for thy servant for good: let not the proud oppress me. **119:123** Mine eyes fail for thy salvation, and for the word of thy righteousness. **119:124** Deal with thy servant according unto thy mercy, and teach me thy statutes. **119:125** I am thy servant; give me understanding, that I may know thy testimonies. **119:126** It is time for thee, Yahweh, to work: for they have made void thy law. **119:127** Therefore I love thy commandments above gold; yea, above fine gold. **119:128** Therefore I esteem all thy precepts concerning all things to be right; and I hate every false way. **119:129**  Thy testimonies are wonderful: therefore doth my soul keep them. **119:130** The entrance of thy words giveth light; it giveth understanding unto the simple. **119:131** I opened my mouth, and panted: for I longed for thy commandments. **119:132** Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name. **119:133** Order my steps in thy word: and let not any iniquity have dominion over me. **119:134** Deliver me from the oppression of man: so will I keep thy precepts. **119:135** Make thy face to shine upon thy servant; and teach me thy statutes. **119:136** Rivers of waters run down mine eyes, because they keep not thy law. **119:137**  Righteous art thou, O Yahweh, and upright are thy judgments. **119:138** Thy testimonies that thou hast commanded are righteous and very faithful. **119:139** My zeal hath consumed me, because mine enemies have forgotten thy words. **119:140** Thy word is very pure: therefore thy servant loveth it. **119:141** I am small and despised: yet do not I forget thy precepts. **119:142** Thy righteousness is an everlasting righteousness, and thy law is the truth. **119:143** Trouble and anguish have taken hold on me: yet thy commandments are my delights. **119:144** The righteousness of thy testimonies is everlasting: give me understanding, and I shall live. **119:145**  I cried with my whole heart; hear me, O Yahweh: I will keep thy statutes. **119:146** I cried unto thee; save me, and I shall keep thy testimonies. **119:147** I prevented the dawning of the morning, and cried: I hoped in thy word. **119:148** Mine eyes prevent the night watches, that I might meditate in thy word. **119:149** Hear my voice according unto thy lovingkindness: O Yahweh, quicken me according to thy judgment. **119:150** They draw nigh that follow after mischief: they are far from thy law. **119:151** Thou art near, O Yahweh; and all thy commandments are truth. **119:152** Concerning thy testimonies, I have known of old that thou hast founded them for ever. **119:153**  Consider mine affliction, and deliver me: for I do not forget thy law. **119:154** Plead my cause, and deliver me: quicken me according to thy word. **119:155** Salvation is far from the wicked: for they seek not thy statutes. **119:156** Great are thy tender mercies, O Yahweh: quicken me according to thy judgments. **119:157** Many are my persecutors and mine enemies; yet do I not decline from thy testimonies. **119:158** I beheld the transgressors, and was grieved; because they kept not thy word. **119:159** Consider how I love thy precepts: quicken me, O Yahweh, according to thy lovingkindness. **119:160** Thy word is true from the beginning: and every one of thy righteous judgments endureth for ever. **119:161**  Princes have persecuted me without a cause: but my heart standeth in awe of thy word. **119:162** I rejoice at thy word, as one that findeth great spoil. **119:163** I hate and abhor lying: but thy law do I love. **119:164** Seven times a day do I praise thee because of thy righteous judgments. **119:165** Great peace have they which love thy law: and nothing shall offend them. **119:166** Yahweh, I have hoped for thy salvation, and done thy commandments. **119:167** My soul hath kept thy testimonies; and I love them exceedingly. **119:168** I have kept thy precepts and thy testimonies: for all my ways are before thee. **119:169**  Let my cry come near before thee, O Yahweh: give me understanding according to thy word. **119:170** Let my supplication come before thee: deliver me according to thy word. **119:171** My lips shall utter praise, when thou hast taught me thy statutes. **119:172** My tongue shall speak of thy word: for all thy commandments are righteousness. **119:173** Let thine hand help me; for I have chosen thy precepts. **119:174** I have longed for thy salvation, O Yahweh; and thy law is my delight. **119:175** Let my soul live, and it shall praise thee; and let thy judgments help me. **119:176** I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.
+> **119:1**  Blessed are the undefiled in the way, who walk in the law of Yahweh. **119:2** Blessed are they that keep his testimonies, and that seek him with the whole heart. **119:3** They also do no iniquity: they walk in his ways. **119:4** Thou hast commanded us to keep thy precepts diligently. **119:5** O that my ways were directed to keep thy statutes! **119:6** Then shall I not be ashamed, when I have respect unto all thy commandments. **119:7** I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments. **119:8** I will keep thy statutes: O forsake me not utterly. **119:9**  Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word. **119:10** With my whole heart have I sought thee: O let me not wander from thy commandments. **119:11** Thy word have I hid in mine heart, that I might not sin against thee. **119:12** Blessed art thou, O Yahweh: teach me thy statutes. **119:13** With my lips have I declared all the judgments of thy mouth. **119:14** I have rejoiced in the way of thy testimonies, as much as in all riches. **119:15** I will meditate in thy precepts, and have respect unto thy ways. **119:16** I will delight myself in thy statutes: I will not forget thy word. **119:17**  Deal bountifully with thy servant, that I may live, and keep thy word. **119:18** Open thou mine eyes, that I may behold wondrous things out of thy law. **119:19** I am a stranger in the earth: hide not thy commandments from me. **119:20** My soul breaketh for the longing that it hath unto thy judgments at all times. **119:21** Thou hast rebuked the proud that are cursed, which do err from thy commandments. **119:22** Remove from me reproach and contempt; for I have kept thy testimonies. **119:23** Princes also did sit and speak against me: but thy servant did meditate in thy statutes. **119:24** Thy testimonies also are my delight and my counsellors. **119:25**  My soul cleaveth unto the dust: quicken thou me according to thy word. **119:26** I have declared my ways, and thou heardest me: teach me thy statutes. **119:27** Make me to understand the way of thy precepts: so shall I talk of thy wondrous works. **119:28** My soul melteth for heaviness: strengthen thou me according unto thy word. **119:29** Remove from me the way of lying: and grant me thy law graciously. **119:30** I have chosen the way of truth: thy judgments have I laid before me. **119:31** I have stuck unto thy testimonies: O Yahweh, put me not to shame. **119:32** I will run the way of thy commandments, when thou shalt enlarge my heart. **119:33**  Teach me, O Yahweh, the way of thy statutes; and I shall keep it unto the end. **119:34** Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart. **119:35** Make me to go in the path of thy commandments; for therein do I delight. **119:36** Incline my heart unto thy testimonies, and not to covetousness. **119:37** Turn away mine eyes from beholding vanity; and quicken thou me in thy way. **119:38** Stablish thy word unto thy servant, who is devoted to thy fear. **119:39** Turn away my reproach which I fear: for thy judgments are good. **119:40** Behold, I have longed after thy precepts: quicken me in thy righteousness. **119:41**  Let thy mercies come also unto me, O Yahweh, even thy salvation, according to thy word. **119:42** So shall I have wherewith to answer him that reproacheth me: for I trust in thy word. **119:43** And take not the Word of Truth utterly out of my mouth; for I have hoped in thy judgments. **119:44** So shall I keep thy law continually for ever and ever. **119:45** And I will walk at liberty: for I seek thy precepts. **119:46** I will speak of thy testimonies also before kings, and will not be ashamed. **119:47** And I will delight myself in thy commandments, which I have loved. **119:48** My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes. **119:49**  Remember the word unto thy servant, upon which thou hast caused me to hope. **119:50** This is my comfort in my affliction: for thy word hath quickened me. **119:51** The proud have had me greatly in derision: yet have I not declined from thy law. **119:52** I remembered thy judgments of old, O Yahweh; and have comforted myself. **119:53** Horror hath taken hold upon me because of the wicked that forsake thy law. **119:54** Thy statutes have been my songs in the house of my pilgrimage. **119:55** I have remembered thy name, O Yahweh, in the night, and have kept thy law. **119:56** This I had, because I kept thy precepts. **119:57**  Thou art my portion, O Yahweh: I have said that I would keep thy words. **119:58** I intreated thy favour with my whole heart: be merciful unto me according to thy word. **119:59** I thought on my ways, and turned my feet unto thy testimonies. **119:60** I made haste, and delayed not to keep thy commandments. **119:61** The bands of the wicked have robbed me: but I have not forgotten thy law. **119:62** At midnight I will rise to give thanks unto thee because of thy righteous judgments. **119:63** I am a companion of all them that fear thee, and of them that keep thy precepts. **119:64** The earth, O Yahweh, is full of thy mercy: teach me thy statutes. **119:65**  Thou hast dealt well with thy servant, O Yahweh, according unto thy word. **119:66** Teach me good judgment and knowledge: for I have believed thy commandments. **119:67** Before I was afflicted I went astray: but now have I kept thy word. **119:68** Thou art good, and doest good; teach me thy statutes. **119:69** The proud have forged a lie against me: but I will keep thy precepts with my whole heart. **119:70** Their heart is as fat as grease; but I delight in thy law. **119:71** It is good for me that I have been afflicted; that I might learn thy statutes. **119:72** The law of thy mouth is better unto me than thousands of gold and silver. **119:73**  Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments. **119:74** They that fear thee will be glad when they see me; because I have hoped in thy word. **119:75** I know, O Yahweh, that thy judgments are right, and that thou in faithfulness hast afflicted me. **119:76** Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant. **119:77** Let thy tender mercies come unto me, that I may live: for thy law is my delight. **119:78** Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in thy precepts. **119:79** Let those that fear thee turn unto me, and those that have known thy testimonies. **119:80** Let my heart be sound in thy statutes; that I be not ashamed. **119:81**  My soul fainteth for thy salvation: but I hope in thy word. **119:82** Mine eyes fail for thy word, saying, When wilt thou comfort me? **119:83** For I am become like a bottle in the smoke; yet do I not forget thy statutes. **119:84** How many are the days of thy servant? when wilt thou execute judgment on them that persecute me? **119:85** The proud have digged pits for me, which are not after thy law. **119:86** All thy commandments are faithful: they persecute me wrongfully; help thou me. **119:87** They had almost consumed me upon earth; but I forsook not thy precepts. **119:88** Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth. **119:89**  For ever, O Yahweh, thy word is settled in heaven. **119:90** Thy faithfulness is unto all generations: thou hast established the earth, and it abideth. **119:91** They continue this day according to thine ordinances: for all are thy servants. **119:92** Unless thy law had been my delights, I should then have perished in mine affliction. **119:93** I will never forget thy precepts: for with them thou hast quickened me. **119:94** I am thine, save me; for I have sought thy precepts. **119:95** The wicked have waited for me to destroy me: but I will consider thy testimonies. **119:96** I have seen an end of all perfection: but thy commandment is exceeding broad. **119:97**  O how love I thy law! it is my meditation all the day. **119:98** Thou through thy commandments hast made me wiser than mine enemies: for they are ever with me. **119:99** I have more understanding than all my teachers: for thy testimonies are my meditation. **119:100** I understand more than the ancients, because I keep thy precepts. **119:101** I have refrained my feet from every evil way, that I might keep thy word. **119:102** I have not departed from thy judgments: for thou hast taught me. **119:103** How sweet are thy words unto my taste! yea, sweeter than honey to my mouth! **119:104** Through thy precepts I get understanding: therefore I hate every false way. **119:105**  Thy word is a lamp unto my feet, and a light unto my path. **119:106** I have sworn, and I will perform it, that I will keep thy righteous judgments. **119:107** I am afflicted very much: quicken me, O Yahweh, according unto thy word. **119:108** Accept, I beseech thee, the freewill offerings of my mouth, O Yahweh, and teach me thy judgments. **119:109** My soul is continually in my hand: yet do I not forget thy law. **119:110** The wicked have laid a snare for me: yet I erred not from thy precepts. **119:111** Thy testimonies have I taken as an heritage for ever: for they are the rejoicing of my heart. **119:112** I have inclined mine heart to perform thy statutes alway, even unto the end. **119:113**  I hate vain thoughts: but thy law do I love. **119:114** Thou art my hiding place and my shield: I hope in thy word. **119:115** Depart from me, ye evildoers: for I will keep the commandments of my God. **119:116** Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope. **119:117** Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually. **119:118** Thou hast trodden down all them that err from thy statutes: for their deceit is falsehood. **119:119** Thou puttest away all the wicked of the earth like dross: therefore I love thy testimonies. **119:120** My flesh trembleth for fear of thee; and I am afraid of thy judgments. **119:121**  I have done judgment and justice: leave me not to mine oppressors. **119:122** Be surety for thy servant for good: let not the proud oppress me. **119:123** Mine eyes fail for thy salvation, and for the word of thy righteousness. **119:124** Deal with thy servant according unto thy mercy, and teach me thy statutes. **119:125** I am thy servant; give me understanding, that I may know thy testimonies. **119:126** It is time for thee, Yahweh, to work: for they have made void thy law. **119:127** Therefore I love thy commandments above gold; yea, above fine gold. **119:128** Therefore I esteem all thy precepts concerning all things to be right; and I hate every false way. **119:129**  Thy testimonies are wonderful: therefore doth my soul keep them. **119:130** The entrance of thy words giveth light; it giveth understanding unto the simple. **119:131** I opened my mouth, and panted: for I longed for thy commandments. **119:132** Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name. **119:133** Order my steps in thy word: and let not any iniquity have dominion over me. **119:134** Deliver me from the oppression of man: so will I keep thy precepts. **119:135** Make thy face to shine upon thy servant; and teach me thy statutes. **119:136** Rivers of waters run down mine eyes, because they keep not thy law. **119:137**  Righteous art thou, O Yahweh, and upright are thy judgments. **119:138** Thy testimonies that thou hast commanded are righteous and very faithful. **119:139** My zeal hath consumed me, because mine enemies have forgotten thy words. **119:140** Thy word is very pure: therefore thy servant loveth it. **119:141** I am small and despised: yet do not I forget thy precepts. **119:142** Thy righteousness is an everlasting righteousness, and thy law is the truth. **119:143** Trouble and anguish have taken hold on me: yet thy commandments are my delights. **119:144** The righteousness of thy testimonies is everlasting: give me understanding, and I shall live. **119:145**  I cried with my whole heart; hear me, O Yahweh: I will keep thy statutes. **119:146** I cried unto thee; save me, and I shall keep thy testimonies. **119:147** I prevented the dawning of the morning, and cried: I hoped in thy word. **119:148** Mine eyes prevent the night watches, that I might meditate in thy word. **119:149** Hear my voice according unto thy lovingkindness: O Yahweh, quicken me according to thy judgment. **119:150** They draw nigh that follow after mischief: they are far from thy law. **119:151** Thou art near, O Yahweh; and all thy commandments are truth. **119:152** Concerning thy testimonies, I have known of old that thou hast founded them for ever. **119:153**  Consider mine affliction, and deliver me: for I do not forget thy law. **119:154** Plead my cause, and deliver me: quicken me according to thy word. **119:155** Salvation is far from the wicked: for they seek not thy statutes. **119:156** Great are thy tender mercies, O Yahweh: quicken me according to thy judgments. **119:157** Many are my persecutors and mine enemies; yet do I not decline from thy testimonies. **119:158** I beheld the transgressors, and was grieved; because they kept not thy word. **119:159** Consider how I love thy precepts: quicken me, O Yahweh, according to thy lovingkindness. **119:160** Thy word is true from the beginning: and every one of thy righteous judgments endureth for ever. **119:161**  Princes have persecuted me without a cause: but my heart standeth in awe of thy word. **119:162** I rejoice at thy word, as one that findeth great spoil. **119:163** I hate and abhor lying: but thy law do I love. **119:164** Seven times a day do I praise thee because of thy righteous judgments. **119:165** Great peace have they which love thy law: and nothing shall offend them. **119:166** Yahweh, I have hoped for thy salvation, and done thy commandments. **119:167** My soul hath kept thy testimonies; and I love them exceedingly. **119:168** I have kept thy precepts and thy testimonies: for all my ways are before thee. **119:169**  Let my cry come near before thee, O Yahweh: give me understanding according to thy word. **119:170** Let my supplication come before thee: deliver me according to thy word. **119:171** My lips shall utter praise, when thou hast taught me thy statutes. **119:172** My tongue shall speak of thy word: for all thy commandments are righteousness. **119:173** Let thine hand help me; for I have chosen thy precepts. **119:174** I have longed for thy salvation, O Yahweh; and thy law is my delight. **119:175** Let my soul live, and it shall praise thee; and let thy judgments help me. **119:176** I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.
 
 
 <a id="rg-03-3-1-the-apostles-creed-third-article-part-1-011"></a>
 
 ### Kept in the Faith
 
-These passages locate **kept in the faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Kept in the Faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 1:5**
 >
@@ -611,7 +611,7 @@ These passages locate **kept in the faith** within the whole counsel of Holy Scr
 
 ### The Spirit in Creation
 
-These passages locate **the spirit in creation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Spirit in Creation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 1:2**
 >
@@ -630,7 +630,7 @@ These passages locate **the spirit in creation** within the whole counsel of Hol
 
 ### Born of the Spirit
 
-These passages locate **born of the spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Born of the Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 26:17-18**
 >
@@ -653,7 +653,7 @@ These passages locate **born of the spirit** within the whole counsel of Holy Sc
 
 ### God Desires All to Be Saved
 
-These passages locate **God desires all to be saved** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **God Desires All to Be Saved** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:4**
 >
@@ -672,7 +672,7 @@ These passages locate **God desires all to be saved** within the whole counsel o
 
 ### The Invitation Refused
 
-These passages locate **the invitation refused** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Invitation Refused** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 7:51**
 >
@@ -695,7 +695,7 @@ These passages locate **the invitation refused** within the whole counsel of Hol
 
 ### Chosen and Called
 
-These passages locate **chosen and called** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Chosen and Called** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:3**
 >
@@ -714,7 +714,7 @@ These passages locate **chosen and called** within the whole counsel of Holy Scr
 
 ### Predestined in Christ
 
-These passages locate **predestined in Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Predestined in Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 13:44-48**
 >
@@ -729,7 +729,7 @@ These passages locate **predestined in Christ** within the whole counsel of Holy
 
 ### Revealed by the Spirit
 
-These passages locate **revealed by the spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Revealed by the Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 1:18-25**
 >
@@ -764,7 +764,7 @@ These passages locate **revealed by the spirit** within the whole counsel of Hol
 
 ### Teach Me to Do Your Will
 
-These passages locate **teach me to do your will** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Teach Me to Do Your Will** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 143**
 >
@@ -775,7 +775,7 @@ These passages locate **teach me to do your will** within the whole counsel of H
 
 ### The Life of the First Congregation
 
-These passages locate **the life of the first congregation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Life of the First Congregation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 2:42-47**
 >
@@ -786,7 +786,7 @@ These passages locate **the life of the first congregation** within the whole co
 
 ### One Body, One Household
 
-These passages locate **one body, one household** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **One Body, One Household** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:13**
 >
@@ -801,7 +801,7 @@ These passages locate **one body, one household** within the whole counsel of Ho
 
 ### One Flock from Every Nation
 
-These passages locate **one flock from every nation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **One Flock from Every Nation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:27**
 >
@@ -824,7 +824,7 @@ These passages locate **one flock from every nation** within the whole counsel o
 
 ### Christ the Head of the Body
 
-These passages locate **Christ the head of the body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Christ the Head of the Body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 1:18**
 >
@@ -839,7 +839,7 @@ These passages locate **Christ the head of the body** within the whole counsel o
 
 ### Rescued and Forgiven
 
-These passages locate **rescued and forgiven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Rescued and Forgiven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 1:13-14**
 >
@@ -854,7 +854,7 @@ These passages locate **rescued and forgiven** within the whole counsel of Holy 
 
 ### Built on the Apostles' Foundation
 
-These passages locate **built on the apostles' foundation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Built on the Apostles' Foundation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 1:1-2**
 >
@@ -869,7 +869,7 @@ These passages locate **built on the apostles' foundation** within the whole cou
 
 ### One Lord, One Faith, One Baptism
 
-These passages locate **one lord, one faith, one baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **One Lord, One Faith, One Baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 4:4-6**
 >
@@ -880,7 +880,7 @@ These passages locate **one lord, one faith, one baptism** within the whole coun
 
 ### With You There Is Forgiveness
 
-These passages locate **with you there is forgiveness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **With You There Is Forgiveness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:7**
 >
@@ -915,7 +915,7 @@ These passages locate **with you there is forgiveness** within the whole counsel
 
 ### The Riches of God's Grace
 
-These passages locate **the riches of God's grace** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Riches of God's Grace** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 2:2**
 >
@@ -938,7 +938,7 @@ These passages locate **the riches of God's grace** within the whole counsel of 
 
 ### The Great Exchange
 
-These passages locate **the great exchange** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Great Exchange** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:21**
 >
@@ -961,7 +961,7 @@ These passages locate **the great exchange** within the whole counsel of Holy Sc
 
 ### Forgiveness Proclaimed to All Nations
 
-These passages locate **forgiveness proclaimed to all nations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Forgiveness Proclaimed to All Nations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:19**
 >
@@ -980,7 +980,7 @@ These passages locate **forgiveness proclaimed to all nations** within the whole
 
 ### Counted Righteous Through Faith
 
-These passages locate **counted righteous through faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Counted Righteous Through Faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 15:6**
 >
@@ -1003,7 +1003,7 @@ These passages locate **counted righteous through faith** within the whole couns
 
 ### All God's Promises Are Yes
 
-These passages locate **all God's promises are yes** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **All God's Promises Are Yes** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 1:20**
 >
@@ -1018,7 +1018,7 @@ These passages locate **all God's promises are yes** within the whole counsel of
 
 ### It Is Finished
 
-These passages locate **it is finished** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **It Is Finished** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 1:18-19**
 >
@@ -1037,7 +1037,7 @@ These passages locate **it is finished** within the whole counsel of Holy Script
 
 ### Forgiveness Delivered by Word and Sacrament
 
-These passages locate **forgiveness delivered by word and sacrament** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Forgiveness Delivered by Word and Sacrament** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 2:38**
 >
@@ -1056,7 +1056,7 @@ These passages locate **forgiveness delivered by word and sacrament** within the
 
 ### Known and Kept by God
 
-These passages locate **known and kept by God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Known and Kept by God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Timothy 2:19**
 >
@@ -1079,7 +1079,7 @@ These passages locate **known and kept by God** within the whole counsel of Holy
 
 ### Salvation in No One Else
 
-These passages locate **salvation in no one else** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Salvation in No One Else** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 4:12**
 >
@@ -1106,7 +1106,7 @@ These passages locate **salvation in no one else** within the whole counsel of H
 
 ### The Means the Spirit Uses
 
-These passages locate **the means the spirit uses** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Means the Spirit Uses** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:16**
 >
@@ -1129,7 +1129,7 @@ These passages locate **the means the spirit uses** within the whole counsel of 
 
 ### Life Together in Love
 
-These passages locate **life together in love** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Life Together in Love** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:21**
 >
@@ -1160,7 +1160,7 @@ These passages locate **life together in love** within the whole counsel of Holy
 
 ### Sent to Witness and Proclaim
 
-These passages locate **sent to witness and proclaim** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Sent to Witness and Proclaim** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:9**
 >
@@ -1199,7 +1199,7 @@ These passages locate **sent to witness and proclaim** within the whole counsel 
 
 ### Abiding in the Word
 
-These passages locate **abiding in the word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Abiding in the Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:16**
 >
@@ -1218,7 +1218,7 @@ These passages locate **abiding in the word** within the whole counsel of Holy S
 
 ### Testing Everything by Scripture
 
-These passages locate **testing everything by scripture** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Testing Everything by Scripture** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 6:14**
 >
@@ -1237,7 +1237,7 @@ These passages locate **testing everything by scripture** within the whole couns
 
 ### Beware of False Teachers
 
-These passages locate **beware of false teachers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Beware of False Teachers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 4:1**
 >
@@ -1260,7 +1260,7 @@ These passages locate **beware of false teachers** within the whole counsel of H
 
 ### Sending and Supporting the Ministry
 
-These passages locate **sending and supporting the ministry** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Sending and Supporting the Ministry** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 8-9**
 >
@@ -1291,7 +1291,7 @@ These passages locate **sending and supporting the ministry** within the whole c
 
 ### That They May All Be One
 
-These passages locate **that they may all be one** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **That They May All Be One** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 1:10**
 >
@@ -1310,7 +1310,7 @@ These passages locate **that they may all be one** within the whole counsel of H
 
 ### Forgiving as We Are Forgiven
 
-These passages locate **forgiving as we are forgiven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Forgiving as We Are Forgiven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 23:34**
 >
@@ -1325,7 +1325,7 @@ These passages locate **forgiving as we are forgiven** within the whole counsel 
 
 ### The Gates of Hell Shall Not Prevail
 
-These passages locate **the gates of hell shall not prevail** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Gates of Hell Shall Not Prevail** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 17:12**
 >
@@ -1344,7 +1344,7 @@ These passages locate **the gates of hell shall not prevail** within the whole c
 
 ### The Church Under the Cross
 
-These passages locate **the church under the cross** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Church Under the Cross** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 4:12-14**
 >
@@ -1367,7 +1367,7 @@ These passages locate **the church under the cross** within the whole counsel of
 
 ### Every Tear Wiped Away
 
-These passages locate **every tear wiped away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Every Tear Wiped Away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 25:8**
 >
@@ -1386,7 +1386,7 @@ These passages locate **every tear wiped away** within the whole counsel of Holy
 
 ### The Lord Is My Light and My Salvation
 
-These passages locate **the lord is my light and my salvation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Lord Is My Light and My Salvation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 27**
 >
@@ -1397,7 +1397,7 @@ These passages locate **the lord is my light and my salvation** within the whole
 
 ### A Resurrection of the Just and the Unjust
 
-These passages locate **a resurrection of the just and the unjust** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A Resurrection of the Just and the Unjust** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 24:14-21**
 >
@@ -1408,7 +1408,7 @@ These passages locate **a resurrection of the just and the unjust** within the w
 
 ### I Know That My Redeemer Lives
 
-These passages locate **i know that my redeemer lives** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **I Know That My Redeemer Lives** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:12-56**
 >
@@ -1435,7 +1435,7 @@ These passages locate **i know that my redeemer lives** within the whole counsel
 
 ### Sown Perishable, Raised in Glory
 
-These passages locate **sown perishable, raised in glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Sown Perishable, Raised in Glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:42-43**
 >
@@ -1450,7 +1450,7 @@ These passages locate **sown perishable, raised in glory** within the whole coun
 
 ### The Fire That Is Not Quenched
 
-These passages locate **the fire that is not quenched** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Fire That Is Not Quenched** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 66:24**
 >
@@ -1473,7 +1473,7 @@ These passages locate **the fire that is not quenched** within the whole counsel
 
 ### Death Entered Through Sin
 
-These passages locate **death entered through sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Death Entered Through Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 5:12**
 >
@@ -1488,7 +1488,7 @@ These passages locate **death entered through sin** within the whole counsel of 
 
 ### Heaven, Our Father's Dwelling
 
-These passages locate **heaven, our father's dwelling** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Heaven, Our Father's Dwelling** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Kings 8:30**
 >
@@ -1563,7 +1563,7 @@ These passages locate **heaven, our father's dwelling** within the whole counsel
 
 ### Fullness of Joy in His Presence
 
-These passages locate **fullness of joy in his presence** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Fullness of Joy in His Presence** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:51-52**
 >
@@ -1582,11 +1582,11 @@ These passages locate **fullness of joy in his presence** within the whole couns
 
 ### Creation Groans for Its Redemption
 
-These passages locate **creation groans for its redemption** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Creation Groans for Its Redemption** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **James 1:18**
 >
-> **1:18** Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.
+> **1:18** Of his own will begat he us with the Word of Truth, that we should be a kind of firstfruits of his creatures.
 
 > **Revelation 21:5**
 >
@@ -1601,7 +1601,7 @@ These passages locate **creation groans for its redemption** within the whole co
 
 ### A New Heaven and a New Earth
 
-These passages locate **a new heaven and a new earth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A New Heaven and a New Earth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Peter 3:13**
 >
@@ -1640,7 +1640,7 @@ These passages locate **a new heaven and a new earth** within the whole counsel 
 
 ### Like a Thief in the Night
 
-These passages locate **like a thief in the night** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Like a Thief in the Night** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Thessalonians 5:2**
 >
@@ -1655,7 +1655,7 @@ These passages locate **like a thief in the night** within the whole counsel of 
 
 ### Keep Watch
 
-These passages locate **keep watch** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Keep Watch** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Mark 13:3-8**
 >
@@ -1674,7 +1674,7 @@ These passages locate **keep watch** within the whole counsel of Holy Scripture.
 
 ### Gathered Before the Throne
 
-These passages locate **gathered before the throne** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Gathered Before the Throne** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:51-52**
 >
@@ -1721,7 +1721,7 @@ These passages locate **gathered before the throne** within the whole counsel of
 
 ### The First Resurrection
 
-These passages locate **the first resurrection** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The First Resurrection** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:52**
 >
@@ -1736,7 +1736,7 @@ These passages locate **the first resurrection** within the whole counsel of Hol
 
 ### Appointed Once to Die, Then Judgment
 
-These passages locate **appointed once to die, then judgment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Appointed Once to Die, Then Judgment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Thessalonians 4:13-18**
 >
@@ -1775,7 +1775,7 @@ These passages locate **appointed once to die, then judgment** within the whole 
 
 ### The Resurrection at the Last Day
 
-These passages locate **the resurrection at the last day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Resurrection at the Last Day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:50-53**
 >
@@ -1798,7 +1798,7 @@ These passages locate **the resurrection at the last day** within the whole coun
 
 ### As the Deer Pants for the Water
 
-These passages locate **as the deer pants for the water** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **As the Deer Pants for the Water** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 42**
 >
@@ -1807,7 +1807,7 @@ These passages locate **as the deer pants for the water** within the whole couns
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Acts 16:13-15 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -1819,7 +1819,7 @@ Read Acts 9:1-22. Attend to the actual persons, actions, and outcome named by Sc
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

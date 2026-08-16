@@ -32,7 +32,7 @@ Answer: From the Catechism.
 
 **What is the Catechism?**
 
-Answer: It is a brief instruction in the necessary articles that belong to our Christianity, set forth in questions and answers; or: the Catechism is a brief summary of Christian doctrine, taken from the holy Scripture and comprised in short chief articles, together with questions and answers.
+Answer: It is a brief instruction in the necessary articles that belong to our Christianity, set forth in questions and answers; or: the Catechism is a brief summary of Christian doctrine, taken from the Holy Scripture and comprised in short chief articles, together with questions and answers.
 
 **How many chief articles are there in the Catechism?**
 
@@ -56,7 +56,7 @@ Answer: Because all ought to learn it from childhood, and therein, as the childr
 
 > **2 Tim. 3:15**
 >
-> From a child thou hast known the holy Scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.
+> From a child thou hast known the Holy Scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.
 
 > **1 Pet. 2:2**
 >
@@ -65,7 +65,7 @@ Answer: Because all ought to learn it from childhood, and therein, as the childr
 
 **Where is the Catechism taken from?**
 
-Answer: From the holy Scripture.
+Answer: From the Holy Scripture.
 
 **What is Holy Scripture?**
 
@@ -112,7 +112,7 @@ Bishop of the Diocese of Skara
 
 ### The Way: Salvation in Christ Alone
 
-These passages locate **the way: salvation in Christ alone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Way: Salvation in Christ Alone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 5:11-12**
 >
@@ -143,7 +143,7 @@ These passages locate **the way: salvation in Christ alone** within the whole co
 
 ### The Holy Trinity
 
-These passages locate **the Holy Trinity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Holy Trinity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 17:3**
 >
@@ -162,7 +162,7 @@ These passages locate **the Holy Trinity** within the whole counsel of Holy Scri
 
 ### Adoption as God's Children
 
-These passages locate **adoption as God's children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Adoption as God's Children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Galatians 4:4-5**
 >
@@ -181,7 +181,7 @@ These passages locate **adoption as God's children** within the whole counsel of
 
 ### The Holy Spirit Creates Faith and Confession
 
-These passages locate **the Holy Spirit creates faith and confession** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Holy Spirit Creates Faith and Confession** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:3**
 >
@@ -204,7 +204,7 @@ These passages locate **the Holy Spirit creates faith and confession** within th
 
 ### Jesus Is Lord
 
-These passages locate **Jesus is lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Jesus Is Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 2:6-7**
 >
@@ -239,7 +239,7 @@ These passages locate **Jesus is lord** within the whole counsel of Holy Scriptu
 
 ### The Purpose of Holy Scripture
 
-These passages locate **the purpose of Holy Scripture** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Purpose of Holy Scripture** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:1-2**
 >
@@ -247,7 +247,7 @@ These passages locate **the purpose of Holy Scripture** within the whole counsel
 
 > **2 Timothy 3:15**
 >
-> **3:15** And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.
+> **3:15** And that from a child thou hast known the Holy Scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.
 
 > **John 20:31**
 >
@@ -266,7 +266,7 @@ These passages locate **the purpose of Holy Scripture** within the whole counsel
 
 ### The Inspiration and Authority of Scripture
 
-These passages locate **the inspiration and authority of scripture** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Inspiration and Authority of Scripture** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Peter 1:21**
 >
@@ -289,7 +289,7 @@ These passages locate **the inspiration and authority of scripture** within the 
 
 ### The Authority and Power of God's Word
 
-These passages locate **the authority and power of God's word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Authority and Power of God's Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:1-4**
 >
@@ -368,7 +368,7 @@ These passages locate **the authority and power of God's word** within the whole
 
 ### Receiving God's Word
 
-These passages locate **receiving God's word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Receiving God's Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 17:11**
 >
@@ -387,7 +387,7 @@ These passages locate **receiving God's word** within the whole counsel of Holy 
 
 ### Holding Fast to Sound Doctrine
 
-These passages locate **holding fast to sound doctrine** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Holding Fast to Sound Doctrine** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 10:5**
 >
@@ -422,18 +422,18 @@ These passages locate **holding fast to sound doctrine** within the whole counse
 
 ### Rightly Handling the Word of Truth
 
-These passages locate **rightly handling the word of truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Rightly Handling the Word of Truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Timothy 2:15**
 >
-> **2:15** Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
+> **2:15** Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the Word of Truth.
 
 
 <a id="rg-01-what-is-christianity-012"></a>
 
 ### Rightly Dividing Law and Gospel
 
-These passages locate **rightly dividing law and gospel** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Rightly Dividing Law and Gospel** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 6:63**
 >
@@ -450,9 +450,9 @@ These passages locate **rightly dividing law and gospel** within the whole couns
 
 <a id="rg-01-what-is-christianity-013"></a>
 
-### Self-Examination Before the Lord's Supper
+### Self-Examination Before The Lord's Supper
 
-These passages locate **self-examination before the lord's supper** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Self-Examination Before The Lord's Supper** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:28**
 >
@@ -461,7 +461,7 @@ These passages locate **self-examination before the lord's supper** within the w
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read 1 John 5:11-12 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -473,7 +473,7 @@ Read Acts 11:26. Attend to the actual persons, actions, and outcome named by Scr
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

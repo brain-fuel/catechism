@@ -148,7 +148,7 @@ Answer: I believe and confess that I cannot by my own reason or strength believe
 
 ### From Law to Faith
 
-These passages locate **from law to faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **From Law to Faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 2:15**
 >
@@ -163,7 +163,7 @@ These passages locate **from law to faith** within the whole counsel of Holy Scr
 
 ### God Known in Creation and Conscience
 
-These passages locate **God known in creation and conscience** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **God Known in Creation and Conscience** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 14:17**
 >
@@ -186,7 +186,7 @@ These passages locate **God known in creation and conscience** within the whole 
 
 ### The Holy Trinity
 
-These passages locate **the Holy Trinity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Holy Trinity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 13:14**
 >
@@ -201,7 +201,7 @@ These passages locate **the Holy Trinity** within the whole counsel of Holy Scri
 
 ### Father, Son, and Spirit
 
-These passages locate **father, son, and spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Father, Son, and Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 15:26**
 >
@@ -220,7 +220,7 @@ These passages locate **father, son, and spirit** within the whole counsel of Ho
 
 ### The Work of the Triune God
 
-These passages locate **the work of the Triune God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Work of the Triune God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:7**
 >
@@ -239,7 +239,7 @@ These passages locate **the work of the Triune God** within the whole counsel of
 
 ### One God, Varied Gifts
 
-These passages locate **one God, varied gifts** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **One God, Varied Gifts** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:4-6**
 >
@@ -250,11 +250,11 @@ These passages locate **one God, varied gifts** within the whole counsel of Holy
 
 ### Adopted by the Triune God
 
-These passages locate **adopted by the Triune God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Adopted by the Triune God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 1:1-13**
 >
-> **1:1** Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus: **1:2** Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ. **1:3** Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ: **1:4** According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: **1:5** Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will, **1:6** To the praise of the glory of his grace, wherein he hath made us accepted in the beloved. **1:7** In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace; **1:8** Wherein he hath abounded toward us in all wisdom and prudence; **1:9** Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself: **1:10** That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him: **1:11** In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will: **1:12** That we should be to the praise of his glory, who first trusted in Christ. **1:13** In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
+> **1:1** Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus: **1:2** Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ. **1:3** Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ: **1:4** According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: **1:5** Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will, **1:6** To the praise of the glory of his grace, wherein he hath made us accepted in the beloved. **1:7** In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace; **1:8** Wherein he hath abounded toward us in all wisdom and prudence; **1:9** Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself: **1:10** That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him: **1:11** In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will: **1:12** That we should be to the praise of his glory, who first trusted in Christ. **1:13** In whom ye also trusted, after that ye heard the Word of Truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
 
 > **Galatians 4:4-6**
 >
@@ -263,7 +263,7 @@ These passages locate **adopted by the Triune God** within the whole counsel of 
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Romans 2:15 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -275,7 +275,7 @@ Read Romans 3:19-22. Attend to the actual persons, actions, and outcome named by
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

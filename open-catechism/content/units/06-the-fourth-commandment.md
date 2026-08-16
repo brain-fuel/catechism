@@ -204,7 +204,7 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### Christ's Care for His Mother
 
-These passages locate **Christ's care for his mother** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Christ's Care for His Mother** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 19:25-27**
 >
@@ -215,7 +215,7 @@ These passages locate **Christ's care for his mother** within the whole counsel 
 
 ### Listen to Your Father
 
-These passages locate **listen to your father** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Listen to Your Father** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Proverbs 23:22**
 >
@@ -226,7 +226,7 @@ These passages locate **listen to your father** within the whole counsel of Holy
 
 ### The Wise Son Honors His Parents
 
-These passages locate **the wise son honors his parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Wise Son Honors His Parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Proverbs 15:20**
 >
@@ -237,7 +237,7 @@ These passages locate **the wise son honors his parents** within the whole couns
 
 ### Rebellion Against Parents
 
-These passages locate **rebellion against parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Rebellion Against Parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Samuel 2:12-25**
 >
@@ -256,7 +256,7 @@ These passages locate **rebellion against parents** within the whole counsel of 
 
 ### Do Not Withhold from Parents
 
-These passages locate **do not withhold from parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Do Not Withhold from Parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Mark 7:10-12**
 >
@@ -267,7 +267,7 @@ These passages locate **do not withhold from parents** within the whole counsel 
 
 ### Providing for Parents
 
-These passages locate **providing for parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Providing for Parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 47:11-12**
 >
@@ -282,7 +282,7 @@ These passages locate **providing for parents** within the whole counsel of Holy
 
 ### Obedience to Authority
 
-These passages locate **obedience to authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Obedience to Authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 6:1-3**
 >
@@ -301,7 +301,7 @@ These passages locate **obedience to authority** within the whole counsel of Hol
 
 ### Honoring Elders and Rulers
 
-These passages locate **honoring elders and rulers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Honoring Elders and Rulers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:1-4**
 >
@@ -328,7 +328,7 @@ These passages locate **honoring elders and rulers** within the whole counsel of
 
 ### Obeying God Above Men
 
-These passages locate **obeying God above men** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Obeying God Above Men** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:18-19**
 >
@@ -355,7 +355,7 @@ These passages locate **obeying God above men** within the whole counsel of Holy
 
 ### The Fourth Commandment
 
-These passages locate **the fourth commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Fourth Commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 6:3**
 >
@@ -370,7 +370,7 @@ These passages locate **the fourth commandment** within the whole counsel of Hol
 
 ### Children Are a Heritage
 
-These passages locate **children are a heritage** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Children Are a Heritage** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 127**
 >
@@ -379,7 +379,7 @@ These passages locate **children are a heritage** within the whole counsel of Ho
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read John 19:25-27 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -391,7 +391,7 @@ Read Proverbs 23:22. Attend to the actual persons, actions, and outcome named by
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

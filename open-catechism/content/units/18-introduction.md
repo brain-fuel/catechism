@@ -114,7 +114,7 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### The Father Who Runs to Meet Us
 
-These passages locate **the father who runs to meet us** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Father Who Runs to Meet Us** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 15:11-32**
 >
@@ -125,7 +125,7 @@ These passages locate **the father who runs to meet us** within the whole counse
 
 ### Our Father in Heaven
 
-These passages locate **our father in heaven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Our Father in Heaven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 6:9**
 >
@@ -136,7 +136,7 @@ These passages locate **our father in heaven** within the whole counsel of Holy 
 
 ### Adopted as Children of God
 
-These passages locate **adopted as children of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Adopted as Children of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 3:1**
 >
@@ -163,7 +163,7 @@ These passages locate **adopted as children of God** within the whole counsel of
 
 ### Approaching with Boldness
 
-These passages locate **approaching with boldness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Approaching with Boldness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 3:11-15**
 >
@@ -182,7 +182,7 @@ These passages locate **approaching with boldness** within the whole counsel of 
 
 ### One Father of All
 
-These passages locate **one father of all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **One Father of All** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 4:6**
 >
@@ -197,7 +197,7 @@ These passages locate **one father of all** within the whole counsel of Holy Scr
 
 ### Our Help Is in the Name of the Lord
 
-These passages locate **our help is in the name of the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Our Help Is in the Name of the Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 17:24**
 >
@@ -216,7 +216,7 @@ These passages locate **our help is in the name of the lord** within the whole c
 
 ### You Shall Worship the Lord Alone
 
-These passages locate **you shall worship the lord alone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **You Shall Worship the Lord Alone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 4:9-10**
 >
@@ -231,7 +231,7 @@ These passages locate **you shall worship the lord alone** within the whole coun
 
 ### Calling on Him as Father
 
-These passages locate **calling on him as father** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Calling on Him as Father** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 1:17**
 >
@@ -250,7 +250,7 @@ These passages locate **calling on him as father** within the whole counsel of H
 
 ### Asking in Jesus' Name
 
-These passages locate **asking in Jesus' name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Asking in Jesus' Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 14:14**
 >
@@ -265,7 +265,7 @@ These passages locate **asking in Jesus' name** within the whole counsel of Holy
 
 ### Praying in the Spirit
 
-These passages locate **praying in the spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Praying in the Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 4:23-31**
 >
@@ -288,7 +288,7 @@ These passages locate **praying in the spirit** within the whole counsel of Holy
 
 ### Praying to the Lord Jesus
 
-These passages locate **praying to the lord Jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Praying to the Lord Jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 1:2**
 >
@@ -315,7 +315,7 @@ These passages locate **praying to the lord Jesus** within the whole counsel of 
 
 ### My Chosen Portion and My Cup
 
-These passages locate **my chosen portion and my cup** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **My Chosen Portion and My Cup** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 16**
 >
@@ -324,7 +324,7 @@ These passages locate **my chosen portion and my cup** within the whole counsel 
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Luke 15:11-32 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -336,7 +336,7 @@ Read Matthew 6:9. Attend to the actual persons, actions, and outcome named by Sc
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

@@ -23,7 +23,7 @@ Answer: Circumcision and the paschal lamb.
 
 **What are the sacraments of the New Testament?**
 
-Answer: Baptism and the sacrament of the altar, or the Lord's Supper.
+Answer: Baptism and the sacrament of the altar, or The Lord's Supper.
 
 **What is Baptism?**
 
@@ -35,7 +35,7 @@ Answer: It is: ordained and commanded of God.
 
 **What does it mean that the water is united with God’s Word?**
 
-Answer: It is: united and hallowed with God's word and His holy name in a sacramental manner.
+Answer: It is: united and hallowed with God's Word and His holy name in a sacramental manner.
 
 **Can you say it more plainly?**
 
@@ -95,7 +95,7 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 
 ### Baptizing in the Triune Name
 
-These passages locate **baptizing in the triune name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Baptizing in the Triune Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 28:19**
 >
@@ -106,7 +106,7 @@ These passages locate **baptizing in the triune name** within the whole counsel 
 
 ### The Baptism of Jesus
 
-These passages locate **the baptism of Jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Baptism of Jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 3:13-17**
 >
@@ -117,7 +117,7 @@ These passages locate **the baptism of Jesus** within the whole counsel of Holy 
 
 ### The Word Means Washing
 
-These passages locate **the word means washing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Word Means Washing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Mark 7:4**
 >
@@ -128,7 +128,7 @@ These passages locate **the word means washing** within the whole counsel of Hol
 
 ### The Washing of Water with the Word
 
-These passages locate **the washing of water with the word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Washing of Water with the Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 5:25-26**
 >
@@ -139,7 +139,7 @@ These passages locate **the washing of water with the word** within the whole co
 
 ### Baptizing and Teaching
 
-These passages locate **baptizing and teaching** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Baptizing and Teaching** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 28:19-20**
 >
@@ -150,7 +150,7 @@ These passages locate **baptizing and teaching** within the whole counsel of Hol
 
 ### Where His Name Is, There He Blesses
 
-These passages locate **where his name is, there he blesses** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Where His Name Is, There He Blesses** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Kings 8:27-30**
 >
@@ -173,7 +173,7 @@ These passages locate **where his name is, there he blesses** within the whole c
 
 ### Stewards of the Mysteries
 
-These passages locate **stewards of the mysteries** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Stewards of the Mysteries** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 4:1**
 >
@@ -184,7 +184,7 @@ These passages locate **stewards of the mysteries** within the whole counsel of 
 
 ### Households Baptized
 
-These passages locate **households baptized** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Households Baptized** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 1:16**
 >
@@ -211,7 +211,7 @@ These passages locate **households baptized** within the whole counsel of Holy S
 
 ### Born in Sin, Born Again
 
-These passages locate **born in sin, born again** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Born in Sin, Born Again** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 3:5-6**
 >
@@ -234,7 +234,7 @@ These passages locate **born in sin, born again** within the whole counsel of Ho
 
 ### The Faith of Little Children
 
-These passages locate **the faith of little children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Faith of Little Children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 10**
 >
@@ -281,7 +281,7 @@ These passages locate **the faith of little children** within the whole counsel 
 
 ### Baptized Without Delay
 
-These passages locate **baptized without delay** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Baptized Without Delay** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 6:2**
 >
@@ -316,7 +316,7 @@ These passages locate **baptized without delay** within the whole counsel of Hol
 
 ### The Lord Will Fulfill His Purpose for Me
 
-These passages locate **the lord will fulfill his purpose for me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Lord Will Fulfill His Purpose for Me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 138**
 >
@@ -325,7 +325,7 @@ These passages locate **the lord will fulfill his purpose for me** within the wh
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Matthew 28:19 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -337,7 +337,7 @@ Read Matthew 3:13-17. Attend to the actual persons, actions, and outcome named b
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

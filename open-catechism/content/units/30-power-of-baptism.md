@@ -128,7 +128,7 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 
 ### The Washing of Regeneration
 
-These passages locate **the washing of regeneration** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Washing of Regeneration** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Titus 3:5-8**
 >
@@ -139,7 +139,7 @@ These passages locate **the washing of regeneration** within the whole counsel o
 
 ### Nicodemus and the New Birth
 
-These passages locate **nicodemus and the new birth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Nicodemus and the New Birth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 3:1-15**
 >
@@ -150,7 +150,7 @@ These passages locate **nicodemus and the new birth** within the whole counsel o
 
 ### Naaman and the Cleansing Word
 
-These passages locate **naaman and the cleansing word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Naaman and the Cleansing Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Kings 5:1-15**
 >
@@ -177,7 +177,7 @@ These passages locate **naaman and the cleansing word** within the whole counsel
 
 ### A New Creation, Heirs with Christ
 
-These passages locate **a new creation, heirs with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A New Creation, Heirs with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:17**
 >
@@ -196,7 +196,7 @@ These passages locate **a new creation, heirs with Christ** within the whole cou
 
 ### An Appeal for a Good Conscience
 
-These passages locate **an appeal for a good conscience** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **An Appeal for a Good Conscience** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 3:21**
 >
@@ -207,7 +207,7 @@ These passages locate **an appeal for a good conscience** within the whole couns
 
 ### One Baptism
 
-These passages locate **one baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **One Baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:13**
 >
@@ -230,7 +230,7 @@ These passages locate **one baptism** within the whole counsel of Holy Scripture
 
 ### Baptized with the Holy Spirit
 
-These passages locate **baptized with the Holy Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Baptized with the Holy Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:11**
 >
@@ -265,7 +265,7 @@ These passages locate **baptized with the Holy Spirit** within the whole counsel
 
 ### Devoted to the Apostles' Teaching
 
-These passages locate **devoted to the apostles' teaching** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Devoted to the Apostles' Teaching** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 2:42-43**
 >
@@ -276,7 +276,7 @@ These passages locate **devoted to the apostles' teaching** within the whole cou
 
 ### Send Out Your Light and Your Truth
 
-These passages locate **send out your light and your truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Send Out Your Light and Your Truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 43**
 >
@@ -285,7 +285,7 @@ These passages locate **send out your light and your truth** within the whole co
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Titus 3:5-8 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -297,7 +297,7 @@ Read John 3:1-15. Attend to the actual persons, actions, and outcome named by Sc
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

@@ -153,7 +153,7 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### The Meditation of My Heart
 
-These passages locate **the meditation of my heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Meditation of My Heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 19:14**
 >
@@ -164,7 +164,7 @@ These passages locate **the meditation of my heart** within the whole counsel of
 
 ### Give Thanks Without Ceasing
 
-These passages locate **give thanks without ceasing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Give Thanks Without Ceasing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Thessalonians 5:17-18**
 >
@@ -179,7 +179,7 @@ These passages locate **give thanks without ceasing** within the whole counsel o
 
 ### Ask in Faith, Without Doubting
 
-These passages locate **ask in faith, without doubting** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Ask in Faith, Without Doubting** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **James 1:6-7**
 >
@@ -198,7 +198,7 @@ These passages locate **ask in faith, without doubting** within the whole counse
 
 ### Pray Then Like This
 
-These passages locate **pray then like this** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Pray Then Like This** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 6:9**
 >
@@ -209,7 +209,7 @@ These passages locate **pray then like this** within the whole counsel of Holy S
 
 ### Jesus Prays the Psalms
 
-These passages locate **Jesus prays the psalms** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Jesus Prays the Psalms** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 10**
 >
@@ -260,7 +260,7 @@ These passages locate **Jesus prays the psalms** within the whole counsel of Hol
 
 ### The Psalms Teach Us to Pray
 
-These passages locate **the psalms teach us to pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Psalms Teach Us to Pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 10**
 >
@@ -291,7 +291,7 @@ These passages locate **the psalms teach us to pray** within the whole counsel o
 
 ### How God Answers Prayer
 
-These passages locate **how God answers prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **How God Answers Prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 12:8-9**
 >
@@ -306,7 +306,7 @@ These passages locate **how God answers prayer** within the whole counsel of Hol
 
 ### Faith That Keeps Asking
 
-These passages locate **faith that keeps asking** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Faith That Keeps Asking** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 3:7-10**
 >
@@ -329,7 +329,7 @@ These passages locate **faith that keeps asking** within the whole counsel of Ho
 
 ### Interceding for Others
 
-These passages locate **interceding for others** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Interceding for Others** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:1-2**
 >
@@ -368,7 +368,7 @@ These passages locate **interceding for others** within the whole counsel of Hol
 
 ### Praying Alone and Together
 
-These passages locate **praying alone and together** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Praying Alone and Together** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:8**
 >
@@ -391,7 +391,7 @@ These passages locate **praying alone and together** within the whole counsel of
 
 ### The Rhythm of Daily Prayer
 
-These passages locate **the rhythm of daily prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Rhythm of Daily Prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Thessalonians 5:17-18**
 >
@@ -422,7 +422,7 @@ These passages locate **the rhythm of daily prayer** within the whole counsel of
 
 ### The Spirit Helps Us Pray
 
-These passages locate **the spirit helps us pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Spirit Helps Us Pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 8:26**
 >
@@ -433,7 +433,7 @@ These passages locate **the spirit helps us pray** within the whole counsel of H
 
 ### Lord, Teach Us to Pray
 
-These passages locate **lord, teach us to pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Lord, Teach Us to Pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 11:1-4**
 >
@@ -446,7 +446,7 @@ These passages locate **lord, teach us to pray** within the whole counsel of Hol
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Psalm 19:14 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -458,7 +458,7 @@ Read 1 Thessalonians 5:17-18. Attend to the actual persons, actions, and outcome
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

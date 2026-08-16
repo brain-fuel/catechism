@@ -146,7 +146,7 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### The Unforgiving Servant
 
-These passages locate **the unforgiving servant** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Unforgiving Servant** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 18:21-35**
 >
@@ -157,7 +157,7 @@ These passages locate **the unforgiving servant** within the whole counsel of Ho
 
 ### Have Mercy on Me, a Sinner
 
-These passages locate **have mercy on me, a sinner** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Have Mercy on Me, a Sinner** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 18:13**
 >
@@ -176,7 +176,7 @@ These passages locate **have mercy on me, a sinner** within the whole counsel of
 
 ### Hidden Faults and Honest Confession
 
-These passages locate **hidden faults and honest confession** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Hidden Faults and Honest Confession** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 32:10**
 >
@@ -195,7 +195,7 @@ These passages locate **hidden faults and honest confession** within the whole c
 
 ### Sin Separates, Faith Shields
 
-These passages locate **sin separates, faith shields** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Sin Separates, Faith Shields** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 6:16-18**
 >
@@ -214,7 +214,7 @@ These passages locate **sin separates, faith shields** within the whole counsel 
 
 ### Blessed Is the One Whose Sin Is Covered
 
-These passages locate **blessed is the one whose sin is covered** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Blessed Is the One Whose Sin Is Covered** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:8-10**
 >
@@ -237,7 +237,7 @@ These passages locate **blessed is the one whose sin is covered** within the who
 
 ### Seventy Times Seven
 
-These passages locate **seventy times seven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Seventy Times Seven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 1:15**
 >
@@ -268,7 +268,7 @@ These passages locate **seventy times seven** within the whole counsel of Holy S
 
 ### As We Forgive Our Debtors
 
-These passages locate **as we forgive our debtors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **As We Forgive Our Debtors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 6:12**
 >
@@ -279,7 +279,7 @@ These passages locate **as we forgive our debtors** within the whole counsel of 
 
 ### Reconciled, and Reconciling
 
-These passages locate **reconciled, and reconciling** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Reconciled, and Reconciling** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:13**
 >
@@ -302,7 +302,7 @@ These passages locate **reconciled, and reconciling** within the whole counsel o
 
 ### Love Keeps No Record of Wrongs
 
-These passages locate **love keeps no record of wrongs** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Love Keeps No Record of Wrongs** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 13:4-5**
 >
@@ -313,7 +313,7 @@ These passages locate **love keeps no record of wrongs** within the whole counse
 
 ### You Forgave the Iniquity of My Sin
 
-These passages locate **you forgave the iniquity of my sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **You Forgave the Iniquity of My Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 32**
 >
@@ -322,7 +322,7 @@ These passages locate **you forgave the iniquity of my sin** within the whole co
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Matthew 18:21-35 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -334,7 +334,7 @@ Read Luke 18:13. Attend to the actual persons, actions, and outcome named by Scr
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

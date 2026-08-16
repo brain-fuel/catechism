@@ -11,7 +11,7 @@ title: "Benefits and Promises of Baptism"
 
 **What does it mean to baptize in the name of the Father and of the Son and of the Holy Ghost?**
 
-Answer: It is, according to the command of the holy Trinity of God, and in the power and the calling upon of His holy name, to immerse, to pour, or to sprinkle a man with water, unto the forgiveness of sins.
+Answer: It is, according to the command of the Holy Trinity of God, and in the power and the calling upon of His holy name, to immerse, to pour, or to sprinkle a man with water, unto the forgiveness of sins.
 
 **What is present in Baptism?**
 
@@ -32,7 +32,7 @@ Answer: Natural and pure water, and no other moisture.
 
 **What is the invisible heavenly gift?**
 
-Answer: God, the holy Trinity, and especially the Holy Ghost.
+Answer: God, the Holy Trinity, and especially the Holy Ghost.
 
 > **Titus 3:5,6**
 >
@@ -123,7 +123,7 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 
 ### The Promise at Pentecost
 
-These passages locate **the promise at pentecost** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Promise at Pentecost** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 2:1-14**
 >
@@ -146,7 +146,7 @@ These passages locate **the promise at pentecost** within the whole counsel of H
 
 ### Baptized for the Forgiveness of Sins
 
-These passages locate **baptized for the forgiveness of sins** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Baptized for the Forgiveness of Sins** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 22:16**
 >
@@ -161,7 +161,7 @@ These passages locate **baptized for the forgiveness of sins** within the whole 
 
 ### Buried and Raised with Christ
 
-These passages locate **buried and raised with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Buried and Raised with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 1:13-14**
 >
@@ -180,7 +180,7 @@ These passages locate **buried and raised with Christ** within the whole counsel
 
 ### Baptism Now Saves You
 
-These passages locate **baptism now saves you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Baptism Now Saves You** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 3:21**
 >
@@ -195,7 +195,7 @@ These passages locate **baptism now saves you** within the whole counsel of Holy
 
 ### Reconciliation Poured Out in Baptism
 
-These passages locate **reconciliation poured out in baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Reconciliation Poured Out in Baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 2:2**
 >
@@ -214,7 +214,7 @@ These passages locate **reconciliation poured out in baptism** within the whole 
 
 ### Washed, Sanctified, Justified
 
-These passages locate **washed, sanctified, justified** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Washed, Sanctified, Justified** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:11**
 >
@@ -225,7 +225,7 @@ These passages locate **washed, sanctified, justified** within the whole counsel
 
 ### The Promise Is for You and Your Children
 
-These passages locate **the promise is for you and your children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Promise Is for You and Your Children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 16:25-34**
 >
@@ -240,7 +240,7 @@ These passages locate **the promise is for you and your children** within the wh
 
 ### Baptized into One Body
 
-These passages locate **baptized into one body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Baptized into One Body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:12-13**
 >
@@ -263,7 +263,7 @@ These passages locate **baptized into one body** within the whole counsel of Hol
 
 ### Born Again Through the Living Word
 
-These passages locate **born again through the living word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Born Again Through the Living Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 1:23**
 >
@@ -278,7 +278,7 @@ These passages locate **born again through the living word** within the whole co
 
 ### Take Heed Lest You Fall
 
-These passages locate **take heed lest you fall** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Take Heed Lest You Fall** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:12**
 >
@@ -297,7 +297,7 @@ These passages locate **take heed lest you fall** within the whole counsel of Ho
 
 ### No Condemnation in Christ
 
-These passages locate **no condemnation in Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **No Condemnation in Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 8:1**
 >
@@ -308,7 +308,7 @@ These passages locate **no condemnation in Christ** within the whole counsel of 
 
 ### Heal Me, for I Have Sinned Against You
 
-These passages locate **heal me, for i have sinned against you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Heal Me, for I Have Sinned Against You** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 41**
 >
@@ -317,7 +317,7 @@ These passages locate **heal me, for i have sinned against you** within the whol
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Acts 2:1-14 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -329,7 +329,7 @@ Read Acts 2:29-41. Attend to the actual persons, actions, and outcome named by S
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

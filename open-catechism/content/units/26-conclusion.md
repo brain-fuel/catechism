@@ -99,7 +99,7 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### Yours Is the Kingdom, the Power, and the Glory
 
-These passages locate **yours is the kingdom, the power, and the glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Yours Is the Kingdom, the Power, and the Glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Chronicles 29:11**
 >
@@ -110,7 +110,7 @@ These passages locate **yours is the kingdom, the power, and the glory** within 
 
 ### Every Good Gift from Above
 
-These passages locate **every good gift from above** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Every Good Gift from Above** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **James 1:17**
 >
@@ -125,7 +125,7 @@ These passages locate **every good gift from above** within the whole counsel of
 
 ### Far More Than We Ask or Think
 
-These passages locate **far more than we ask or think** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Far More Than We Ask or Think** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 1:17**
 >
@@ -148,7 +148,7 @@ These passages locate **far more than we ask or think** within the whole counsel
 
 ### He Hears the Prayer of the Righteous
 
-These passages locate **he hears the prayer of the righteous** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Hears the Prayer of the Righteous** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Proverbs 15:29**
 >
@@ -163,7 +163,7 @@ These passages locate **he hears the prayer of the righteous** within the whole 
 
 ### The Lord Reigns; Holy Is He
 
-These passages locate **the lord reigns; holy is he** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Lord Reigns; Holy Is He** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 99**
 >
@@ -172,7 +172,7 @@ These passages locate **the lord reigns; holy is he** within the whole counsel o
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read 1 Chronicles 29:11 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -184,7 +184,7 @@ Read James 1:17. Attend to the actual persons, actions, and outcome named by Scr
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

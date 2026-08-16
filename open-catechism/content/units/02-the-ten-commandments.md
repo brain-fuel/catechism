@@ -160,7 +160,7 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### The Ten Commandments
 
-These passages locate **the ten commandments** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Ten Commandments** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 20:1-22**
 >
@@ -171,7 +171,7 @@ These passages locate **the ten commandments** within the whole counsel of Holy 
 
 ### The Will of God
 
-These passages locate **the will of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Will of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Thessalonians 4:3**
 >
@@ -190,7 +190,7 @@ These passages locate **the will of God** within the whole counsel of Holy Scrip
 
 ### The Law Written on the Heart
 
-These passages locate **the law written on the heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Law Written on the Heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 2:14-16**
 >
@@ -201,7 +201,7 @@ These passages locate **the law written on the heart** within the whole counsel 
 
 ### The Giving of the Ten Commandments
 
-These passages locate **the giving of the ten commandments** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Giving of the Ten Commandments** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Deuteronomy 5:6-21**
 >
@@ -220,7 +220,7 @@ These passages locate **the giving of the ten commandments** within the whole co
 
 ### Living According to God's Law
 
-These passages locate **living according to God's law** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Living According to God's Law** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 22:21-28**
 >
@@ -247,7 +247,7 @@ These passages locate **living according to God's law** within the whole counsel
 
 ### The Law Is for Sinners
 
-These passages locate **the law is for sinners** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Law Is for Sinners** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 1:9-10**
 >
@@ -258,7 +258,7 @@ These passages locate **the law is for sinners** within the whole counsel of Hol
 
 ### The Law Reveals Sin
 
-These passages locate **the law reveals sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Law Reveals Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:10**
 >
@@ -277,7 +277,7 @@ These passages locate **the law reveals sin** within the whole counsel of Holy S
 
 ### The Law Guides the Christian
 
-These passages locate **the law guides the christian** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Law Guides the Christian** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Proverbs 6:23**
 >
@@ -292,7 +292,7 @@ These passages locate **the law guides the christian** within the whole counsel 
 
 ### Christ Has Fulfilled the Law
 
-These passages locate **Christ has fulfilled the law** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Christ Has Fulfilled the Law** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Galatians 3:13-14**
 >
@@ -311,7 +311,7 @@ These passages locate **Christ has fulfilled the law** within the whole counsel 
 
 ### Sin
 
-These passages locate **sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 3:4**
 >
@@ -362,7 +362,7 @@ These passages locate **sin** within the whole counsel of Holy Scripture. Read t
 
 ### The Fall into Sin
 
-These passages locate **the fall into sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Fall into Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 3:8**
 >
@@ -381,7 +381,7 @@ These passages locate **the fall into sin** within the whole counsel of Holy Scr
 
 ### Original Sin
 
-These passages locate **original sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Original Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 4:22**
 >
@@ -400,7 +400,7 @@ These passages locate **original sin** within the whole counsel of Holy Scriptur
 
 ### Our Sinful Nature
 
-These passages locate **our sinful nature** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Our Sinful Nature** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 2:14**
 >
@@ -419,7 +419,7 @@ These passages locate **our sinful nature** within the whole counsel of Holy Scr
 
 ### The Fruits of the Sinful Nature
 
-These passages locate **the fruits of the sinful nature** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Fruits of the Sinful Nature** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Galatians 5:19**
 >
@@ -438,7 +438,7 @@ These passages locate **the fruits of the sinful nature** within the whole couns
 
 ### The Consequences of Sin
 
-These passages locate **the consequences of sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Consequences of Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 2:3**
 >
@@ -453,7 +453,7 @@ These passages locate **the consequences of sin** within the whole counsel of Ho
 
 ### Slavery to Sin
 
-These passages locate **slavery to sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Slavery to Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 8:34**
 >
@@ -466,7 +466,7 @@ These passages locate **slavery to sin** within the whole counsel of Holy Script
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Exodus 20:1-22 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -478,7 +478,7 @@ Read 1 Thessalonians 4:3. Attend to the actual persons, actions, and outcome nam
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

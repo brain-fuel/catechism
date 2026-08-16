@@ -424,7 +424,7 @@ Answer: I believe and confess that I cannot by my own reason or strength believe
 
 ### My Lord and My God
 
-These passages locate **my lord and my God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **My Lord and My God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 20:24-29**
 >
@@ -435,7 +435,7 @@ These passages locate **my lord and my God** within the whole counsel of Holy Sc
 
 ### Jesus the Savior and Lord
 
-These passages locate **Jesus the savior and lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Jesus the Savior and Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 4:12**
 >
@@ -462,7 +462,7 @@ These passages locate **Jesus the savior and lord** within the whole counsel of 
 
 ### Calling on the Name of the Lord
 
-These passages locate **calling on the name of the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Calling on the Name of the Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Joel 2:32**
 >
@@ -477,7 +477,7 @@ These passages locate **calling on the name of the lord** within the whole couns
 
 ### Knowing the Son
 
-These passages locate **knowing the son** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Knowing the Son** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Timothy 1:12**
 >
@@ -496,7 +496,7 @@ These passages locate **knowing the son** within the whole counsel of Holy Scrip
 
 ### Born of Woman, Under the Law
 
-These passages locate **born of woman, under the law** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Born of Woman, Under the Law** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Galatians 4:4-5**
 >
@@ -507,7 +507,7 @@ These passages locate **born of woman, under the law** within the whole counsel 
 
 ### Through Whom All Things Were Made
 
-These passages locate **through whom all things were made** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Through Whom All Things Were Made** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 8:6**
 >
@@ -526,7 +526,7 @@ These passages locate **through whom all things were made** within the whole cou
 
 ### The Word Made Flesh
 
-These passages locate **the word made flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Word Made Flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Hebrews 1:3**
 >
@@ -545,7 +545,7 @@ These passages locate **the word made flesh** within the whole counsel of Holy S
 
 ### The One Mediator
 
-These passages locate **the one mediator** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The One Mediator** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:5-6**
 >
@@ -560,7 +560,7 @@ These passages locate **the one mediator** within the whole counsel of Holy Scri
 
 ### Conceived by the Holy Spirit
 
-These passages locate **conceived by the Holy Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Conceived by the Holy Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 1:30-35**
 >
@@ -575,7 +575,7 @@ These passages locate **conceived by the Holy Spirit** within the whole counsel 
 
 ### God in the Flesh
 
-These passages locate **God in the flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **God in the Flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 3:16**
 >
@@ -594,7 +594,7 @@ These passages locate **God in the flesh** within the whole counsel of Holy Scri
 
 ### Born of the Virgin
 
-These passages locate **born of the virgin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Born of the Virgin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 7:14**
 >
@@ -613,7 +613,7 @@ These passages locate **born of the virgin** within the whole counsel of Holy Sc
 
 ### Not Ashamed to Call Us Brothers
 
-These passages locate **not ashamed to call us brothers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Not Ashamed to Call Us Brothers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Hebrews 2:11**
 >
@@ -624,7 +624,7 @@ These passages locate **not ashamed to call us brothers** within the whole couns
 
 ### Son of David, Son of Man
 
-These passages locate **son of david, son of man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Son of David, Son of Man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:5**
 >
@@ -647,7 +647,7 @@ These passages locate **son of david, son of man** within the whole counsel of H
 
 ### True Flesh and Soul
 
-These passages locate **true flesh and soul** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **True Flesh and Soul** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 24:39**
 >
@@ -662,7 +662,7 @@ These passages locate **true flesh and soul** within the whole counsel of Holy S
 
 ### Named Jesus, Immanuel
 
-These passages locate **named Jesus, immanuel** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Named Jesus, Immanuel** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 2:21**
 >
@@ -677,7 +677,7 @@ These passages locate **named Jesus, immanuel** within the whole counsel of Holy
 
 ### Truly Human
 
-These passages locate **truly human** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Truly Human** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Hebrews 4:14-16**
 >
@@ -712,7 +712,7 @@ These passages locate **truly human** within the whole counsel of Holy Scripture
 
 ### Obedient in Our Place
 
-These passages locate **obedient in our place** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Obedient in Our Place** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Galatians 4:4-5**
 >
@@ -727,7 +727,7 @@ These passages locate **obedient in our place** within the whole counsel of Holy
 
 ### Redeemed by His Blood
 
-These passages locate **redeemed by his blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Redeemed by His Blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 1:18-19**
 >
@@ -758,7 +758,7 @@ These passages locate **redeemed by his blood** within the whole counsel of Holy
 
 ### Victory Over Death
 
-These passages locate **victory over death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Victory Over Death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:20**
 >
@@ -777,7 +777,7 @@ These passages locate **victory over death** within the whole counsel of Holy Sc
 
 ### Whoever Has Seen Me
 
-These passages locate **whoever has seen me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Whoever Has Seen Me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 14:9**
 >
@@ -788,7 +788,7 @@ These passages locate **whoever has seen me** within the whole counsel of Holy S
 
 ### A Ransom for Many
 
-These passages locate **a ransom for many** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A Ransom for Many** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 1:18-19**
 >
@@ -803,7 +803,7 @@ These passages locate **a ransom for many** within the whole counsel of Holy Scr
 
 ### Christ's Divine Knowledge
 
-These passages locate **Christ's divine knowledge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Christ's Divine Knowledge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 1:48**
 >
@@ -842,7 +842,7 @@ These passages locate **Christ's divine knowledge** within the whole counsel of 
 
 ### Our Advocate
 
-These passages locate **our advocate** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Our Advocate** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 2:1**
 >
@@ -857,7 +857,7 @@ These passages locate **our advocate** within the whole counsel of Holy Scriptur
 
 ### Christ's Divine Power
 
-These passages locate **Christ's divine power** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Christ's Divine Power** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 4:10**
 >
@@ -900,7 +900,7 @@ These passages locate **Christ's divine power** within the whole counsel of Holy
 
 ### Authority to Judge
 
-These passages locate **authority to judge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Authority to Judge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 17:31**
 >
@@ -919,7 +919,7 @@ These passages locate **authority to judge** within the whole counsel of Holy Sc
 
 ### Worshiped as True God
 
-These passages locate **worshiped as true God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Worshiped as True God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 5:20**
 >
@@ -954,7 +954,7 @@ These passages locate **worshiped as true God** within the whole counsel of Holy
 
 ### The Father Made Known
 
-These passages locate **the father made known** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Father Made Known** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 17:25-26**
 >
@@ -965,7 +965,7 @@ These passages locate **the father made known** within the whole counsel of Holy
 
 ### True God and True Man
 
-These passages locate **true God and true man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **True God and True Man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:7**
 >
@@ -1008,7 +1008,7 @@ These passages locate **true God and true man** within the whole counsel of Holy
 
 ### The Lord's Anointed
 
-These passages locate **the lord's anointed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Lord's Anointed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 2**
 >
@@ -1019,7 +1019,7 @@ These passages locate **the lord's anointed** within the whole counsel of Holy S
 
 ### The Crucifixion and Burial
 
-These passages locate **the crucifixion and burial** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Crucifixion and Burial** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 23:32-56**
 >
@@ -1030,7 +1030,7 @@ These passages locate **the crucifixion and burial** within the whole counsel of
 
 ### Redeemed from Sin and Death
 
-These passages locate **redeemed from sin and death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Redeemed from Sin and Death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 3:8**
 >
@@ -1057,7 +1057,7 @@ These passages locate **redeemed from sin and death** within the whole counsel o
 
 ### Slaves to Sin
 
-These passages locate **slaves to sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Slaves to Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 5:19**
 >
@@ -1080,7 +1080,7 @@ These passages locate **slaves to sin** within the whole counsel of Holy Scriptu
 
 ### Dead in Sin, Under Wrath
 
-These passages locate **dead in sin, under wrath** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Dead in Sin, Under Wrath** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 2:1**
 >
@@ -1100,7 +1100,7 @@ These passages locate **dead in sin, under wrath** within the whole counsel of H
 
 > **John 8**
 >
-> **8:1** Jesus went unto the mount of Olives. **8:2** And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them. **8:3** And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst, **8:4** They say unto him, Master, this woman was taken in adultery, in the very act. **8:5** Now Moses in the law commanded us, that such should be stoned: but what sayest thou? **8:6** This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with his finger wrote on the ground, as though he heard them not. **8:7** So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her. **8:8** And again he stooped down, and wrote on the ground. **8:9** And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even unto the last: and Jesus was left alone, and the woman standing in the midst. **8:10** When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee? **8:11** She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more. **8:12** Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life. **8:13** The Pharisees therefore said unto him, Thou bearest record of thyself; thy record is not true. **8:14** Jesus answered and said unto them, Though I bear record of myself, yet my record is true: for I know whence I came, and whither I go; but ye cannot tell whence I come, and whither I go. **8:15** Ye judge after the flesh; I judge no man. **8:16** And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me. **8:17** It is also written in your law, that the testimony of two men is true. **8:18** I am one that bear witness of myself, and the Father that sent me beareth witness of me. **8:19** Then said they unto him, Where is thy Father? Jesus answered, Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also. **8:20** These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come. **8:21** Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come. **8:22** Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come. **8:23** And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world. **8:24** I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins. **8:25** Then said they unto him, Who art thou? And Jesus saith unto them, Even the same that I said unto you from the beginning. **8:26** I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him. **8:27** They understood not that he spake to them of the Father. **8:28** Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things. **8:29** And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him. **8:30** As he spake these words, many believed on him. **8:31** Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; **8:32** And ye shall know the truth, and the truth shall make you free. **8:33** They answered him, We be Abraham's seed, and were never in bondage to any man: how sayest thou, Ye shall be made free? **8:34** Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin. **8:35** And the servant abideth not in the house for ever: but the Son abideth ever. **8:36** If the Son therefore shall make you free, ye shall be free indeed. **8:37** I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you. **8:38** I speak that which I have seen with my Father: and ye do that which ye have seen with your father. **8:39** They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham's children, ye would do the works of Abraham. **8:40** But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham. **8:41** Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, even God. **8:42** Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me. **8:43** Why do ye not understand my speech? even because ye cannot hear my word. **8:44** Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. **8:45** And because I tell you the truth, ye believe me not. **8:46** Which of you convinceth me of sin? And if I say the truth, why do ye not believe me? **8:47** He that is of God heareth God's words: ye therefore hear them not, because ye are not of God. **8:48** Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil? **8:49** Jesus answered, I have not a devil; but I honour my Father, and ye do dishonour me. **8:50** And I seek not mine own glory: there is one that seeketh and judgeth. **8:51** Verily, verily, I say unto you, If a man keep my saying, he shall never see death. **8:52** Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death. **8:53** Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself? **8:54** Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God: **8:55** Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying. **8:56** Your father Abraham rejoiced to see my day: and he saw it, and was glad. **8:57** Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham? **8:58** Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am. **8:59** Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.
+> **8:1** Jesus went unto the mount of Olives. **8:2** And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them. **8:3** And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst, **8:4** They say unto him, Master, this woman was taken in adultery, in the very act. **8:5** Now Moses in the law commanded us, that such should be stoned: but what sayest thou? **8:6** This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with his finger wrote on the ground, as though he heard them not. **8:7** So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her. **8:8** And again he stooped down, and wrote on the ground. **8:9** And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even unto the last: and Jesus was left alone, and the woman standing in the midst. **8:10** When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee? **8:11** She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more. **8:12** Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life. **8:13** The Pharisees therefore said unto him, Thou bearest record of thyself; thy record is not true. **8:14** Jesus answered and said unto them, Though I bear record of myself, yet my record is true: for I know whence I came, and whither I go; but ye cannot tell whence I come, and whither I go. **8:15** Ye judge after the flesh; I judge no man. **8:16** And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me. **8:17** It is also written in your law, that the testimony of two men is true. **8:18** I am one that bear witness of myself, and the Father that sent me beareth witness of me. **8:19** Then said they unto him, Where is thy Father? Jesus answered, Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also. **8:20** These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come. **8:21** Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come. **8:22** Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come. **8:23** And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world. **8:24** I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins. **8:25** Then said they unto him, Who art thou? And Jesus saith unto them, Even the same that I said unto you from the beginning. **8:26** I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him. **8:27** They understood not that he spake to them of the Father. **8:28** Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things. **8:29** And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him. **8:30** As he spake these words, many believed on him. **8:31** Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; **8:32** And ye shall know the truth, and the truth shall make you free. **8:33** They answered him, We be Abraham's seed, and were never in bondage to any man: how sayest thou, Ye shall be made free? **8:34** Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin. **8:35** And the servant abideth not in the house for ever: but the Son abideth ever. **8:36** If the Son therefore shall make you free, ye shall be free indeed. **8:37** I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you. **8:38** I speak that which I have seen with my Father: and ye do that which ye have seen with your father. **8:39** They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham's children, ye would do the works of Abraham. **8:40** But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham. **8:41** Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, even God. **8:42** Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me. **8:43** Why do ye not understand my speech? even because ye cannot hear my word. **8:44** Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. **8:45** And because I tell you the truth, ye believe me not. **8:46** Which of you convinceth me of sin? And if I say the truth, why do ye not believe me? **8:47** He that is of God heareth God's Words: ye therefore hear them not, because ye are not of God. **8:48** Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil? **8:49** Jesus answered, I have not a devil; but I honour my Father, and ye do dishonour me. **8:50** And I seek not mine own glory: there is one that seeketh and judgeth. **8:51** Verily, verily, I say unto you, If a man keep my saying, he shall never see death. **8:52** Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death. **8:53** Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself? **8:54** Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God: **8:55** Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying. **8:56** Your father Abraham rejoiced to see my day: and he saw it, and was glad. **8:57** Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham? **8:58** Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am. **8:59** Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.
 
 > **Romans 1:18**
 >
@@ -1115,7 +1115,7 @@ These passages locate **dead in sin, under wrath** within the whole counsel of H
 
 ### Death Through One Man
 
-These passages locate **death through one man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Death Through One Man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 3**
 >
@@ -1130,7 +1130,7 @@ These passages locate **death through one man** within the whole counsel of Holy
 
 ### God's Promise of a Savior
 
-These passages locate **God's promise of a savior** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **God's Promise of a Savior** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 4:10**
 >
@@ -1149,7 +1149,7 @@ These passages locate **God's promise of a savior** within the whole counsel of 
 
 ### He Bore Our Sin
 
-These passages locate **he bore our sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Bore Our Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 1:18-19**
 >
@@ -1176,7 +1176,7 @@ These passages locate **he bore our sin** within the whole counsel of Holy Scrip
 
 ### The Propitiation for Sin
 
-These passages locate **the propitiation for sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Propitiation for Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 2:2**
 >
@@ -1199,7 +1199,7 @@ These passages locate **the propitiation for sin** within the whole counsel of H
 
 ### Freed to Righteousness
 
-These passages locate **freed to righteousness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Freed to Righteousness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:24**
 >
@@ -1214,7 +1214,7 @@ These passages locate **freed to righteousness** within the whole counsel of Hol
 
 ### Victory Over the Devil
 
-These passages locate **victory over the devil** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Victory Over the Devil** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 3:8**
 >
@@ -1269,7 +1269,7 @@ These passages locate **victory over the devil** within the whole counsel of Hol
 
 ### Death Destroyed
 
-These passages locate **death destroyed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Death Destroyed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:54-57**
 >
@@ -1288,7 +1288,7 @@ These passages locate **death destroyed** within the whole counsel of Holy Scrip
 
 ### Witnesses of the Risen Christ
 
-These passages locate **witnesses of the risen Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Witnesses of the Risen Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:4-8**
 >
@@ -1307,7 +1307,7 @@ These passages locate **witnesses of the risen Christ** within the whole counsel
 
 ### Declared the Son of God
 
-These passages locate **declared the son of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Declared the Son of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 1:4**
 >
@@ -1318,7 +1318,7 @@ These passages locate **declared the son of God** within the whole counsel of Ho
 
 ### Born to Bear Witness to the Truth
 
-These passages locate **born to bear witness to the truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Born to Bear Witness to the Truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 18:37**
 >
@@ -1329,7 +1329,7 @@ These passages locate **born to bear witness to the truth** within the whole cou
 
 ### Reconciled by His Death
 
-These passages locate **reconciled by his death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Reconciled by His Death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 5:10**
 >
@@ -1340,7 +1340,7 @@ These passages locate **reconciled by his death** within the whole counsel of Ho
 
 ### Because He Lives
 
-These passages locate **because he lives** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Because He Lives** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:22-23**
 >
@@ -1359,7 +1359,7 @@ These passages locate **because he lives** within the whole counsel of Holy Scri
 
 ### He Made Himself Poor
 
-These passages locate **he made himself poor** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Made Himself Poor** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 8:9**
 >
@@ -1374,7 +1374,7 @@ These passages locate **he made himself poor** within the whole counsel of Holy 
 
 ### No Room in the Inn
 
-These passages locate **no room in the inn** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **No Room in the Inn** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 2:7**
 >
@@ -1385,7 +1385,7 @@ These passages locate **no room in the inn** within the whole counsel of Holy Sc
 
 ### Not Even the Son Knows
 
-These passages locate **not even the son knows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Not Even the Son Knows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 24:36**
 >
@@ -1396,7 +1396,7 @@ These passages locate **not even the son knows** within the whole counsel of Hol
 
 ### His Human Weakness
 
-These passages locate **his human weakness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **His Human Weakness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 11:38-44**
 >
@@ -1415,7 +1415,7 @@ These passages locate **his human weakness** within the whole counsel of Holy Sc
 
 ### The Man of Sorrows
 
-These passages locate **the man of sorrows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Man of Sorrows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 53:3**
 >
@@ -1470,7 +1470,7 @@ These passages locate **the man of sorrows** within the whole counsel of Holy Sc
 
 ### Glory Revealed
 
-These passages locate **glory revealed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Glory Revealed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 2:11**
 >
@@ -1489,7 +1489,7 @@ These passages locate **glory revealed** within the whole counsel of Holy Script
 
 ### Highly Exalted
 
-These passages locate **highly exalted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Highly Exalted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Philippians 2:9-11**
 >
@@ -1500,7 +1500,7 @@ These passages locate **highly exalted** within the whole counsel of Holy Script
 
 ### The Descent and Triumph
 
-These passages locate **the descent and triumph** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Descent and Triumph** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 3:18-20**
 >
@@ -1515,7 +1515,7 @@ These passages locate **the descent and triumph** within the whole counsel of Ho
 
 ### He Is Risen
 
-These passages locate **he is risen** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Is Risen** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 24:6**
 >
@@ -1530,7 +1530,7 @@ These passages locate **he is risen** within the whole counsel of Holy Scripture
 
 ### Seated at God's Right Hand
 
-These passages locate **seated at God's right hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Seated at God's Right Hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Hebrews 1:3**
 >
@@ -1549,7 +1549,7 @@ These passages locate **seated at God's right hand** within the whole counsel of
 
 ### He Will Come Again
 
-These passages locate **he will come again** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Will Come Again** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 17:31**
 >
@@ -1568,7 +1568,7 @@ These passages locate **he will come again** within the whole counsel of Holy Sc
 
 ### My God, Why Have You Forsaken Me
 
-These passages locate **my God, why have you forsaken me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **My God, Why Have You Forsaken Me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 22**
 >
@@ -1579,7 +1579,7 @@ These passages locate **my God, why have you forsaken me** within the whole coun
 
 ### The Risen Lord Appears
 
-These passages locate **the risen lord appears** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Risen Lord Appears** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 24:36-53**
 >
@@ -1590,7 +1590,7 @@ These passages locate **the risen lord appears** within the whole counsel of Hol
 
 ### Living for Him Who Died
 
-These passages locate **living for him who died** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Living for Him Who Died** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:15**
 >
@@ -1605,7 +1605,7 @@ These passages locate **living for him who died** within the whole counsel of Ho
 
 ### No Longer My Own
 
-These passages locate **no longer my own** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **No Longer My Own** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:9**
 >
@@ -1632,7 +1632,7 @@ These passages locate **no longer my own** within the whole counsel of Holy Scri
 
 ### Rest and Peace in Christ
 
-These passages locate **rest and peace in Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Rest and Peace in Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 1:13-14**
 >
@@ -1655,7 +1655,7 @@ These passages locate **rest and peace in Christ** within the whole counsel of H
 
 ### The Promised Spirit
 
-These passages locate **the promised spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Promised Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 14:16-17**
 >
@@ -1674,7 +1674,7 @@ These passages locate **the promised spirit** within the whole counsel of Holy S
 
 ### Christ Will Complete His Work
 
-These passages locate **Christ will complete his work** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Christ Will Complete His Work** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 2:6**
 >
@@ -1705,7 +1705,7 @@ These passages locate **Christ will complete his work** within the whole counsel
 
 ### Raised with Christ
 
-These passages locate **raised with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Raised with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:17-20**
 >
@@ -1724,7 +1724,7 @@ These passages locate **raised with Christ** within the whole counsel of Holy Sc
 
 ### Witnesses of the Resurrection
 
-These passages locate **witnesses of the resurrection** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Witnesses of the Resurrection** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 15:5-9**
 >
@@ -1747,7 +1747,7 @@ These passages locate **witnesses of the resurrection** within the whole counsel
 
 ### Confessing Christ
 
-These passages locate **confessing Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Confessing Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 59:20**
 >
@@ -1786,7 +1786,7 @@ These passages locate **confessing Christ** within the whole counsel of Holy Scr
 
 ### Christ Our Prophet
 
-These passages locate **Christ our prophet** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Christ Our Prophet** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:20**
 >
@@ -1841,7 +1841,7 @@ These passages locate **Christ our prophet** within the whole counsel of Holy Sc
 
 ### Christ Our Priest
 
-These passages locate **Christ our priest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Christ Our Priest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 2:1-2**
 >
@@ -1860,7 +1860,7 @@ These passages locate **Christ our priest** within the whole counsel of Holy Scr
 
 ### Christ Our King
 
-These passages locate **Christ our king** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Christ Our King** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Timothy 4:18**
 >
@@ -1903,7 +1903,7 @@ These passages locate **Christ our king** within the whole counsel of Holy Scrip
 
 ### The Stone the Builders Rejected
 
-These passages locate **the stone the builders rejected** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Stone the Builders Rejected** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 118**
 >
@@ -1912,7 +1912,7 @@ These passages locate **the stone the builders rejected** within the whole couns
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read John 20:24-29 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -1924,7 +1924,7 @@ Read Acts 4:12. Attend to the actual persons, actions, and outcome named by Scri
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

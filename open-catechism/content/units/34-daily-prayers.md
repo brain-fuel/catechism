@@ -52,7 +52,7 @@ Psalm 143. A Psalm of David. 1. Hear my prayer, O Lord, give ear to my supplicat
 
 ### Into Your Hands I Commit My Spirit
 
-These passages locate **into your hands i commit my spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Into Your Hands I Commit My Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 31:5**
 >
@@ -67,7 +67,7 @@ These passages locate **into your hands i commit my spirit** within the whole co
 
 ### In Peace I Will Lie Down and Sleep
 
-These passages locate **in peace i will lie down and sleep** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **In Peace I Will Lie Down and Sleep** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 121**
 >
@@ -86,7 +86,7 @@ These passages locate **in peace i will lie down and sleep** within the whole co
 
 ### The Eyes of All Look to You
 
-These passages locate **the eyes of all look to you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Eyes of All Look to You** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 145:15-16**
 >
@@ -97,7 +97,7 @@ These passages locate **the eyes of all look to you** within the whole counsel o
 
 ### Made Holy by the Word and Prayer
 
-These passages locate **made holy by the word and prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Made Holy by the Word and Prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 4:4-5**
 >
@@ -118,7 +118,7 @@ These passages locate **made holy by the word and prayer** within the whole coun
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Psalm 31:5 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -130,7 +130,7 @@ Read Psalm 91:11. Attend to the actual persons, actions, and outcome named by Sc
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

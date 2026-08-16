@@ -158,7 +158,7 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### Ahab Covets Naboth's Vineyard
 
-These passages locate **ahab covets naboth's vineyard** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Ahab Covets Naboth's Vineyard** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Kings 21:1-16**
 >
@@ -169,7 +169,7 @@ These passages locate **ahab covets naboth's vineyard** within the whole counsel
 
 ### The Root of Coveting
 
-These passages locate **the root of coveting** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Root of Coveting** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **James 4:1-2**
 >
@@ -184,7 +184,7 @@ These passages locate **the root of coveting** within the whole counsel of Holy 
 
 ### Greed for More
 
-These passages locate **greed for more** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Greed for More** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 5:8**
 >
@@ -199,7 +199,7 @@ These passages locate **greed for more** within the whole counsel of Holy Script
 
 ### Coveting What Belongs to Another
 
-These passages locate **coveting what belongs to another** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Coveting What Belongs to Another** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Samuel 11:2-4**
 >
@@ -218,7 +218,7 @@ These passages locate **coveting what belongs to another** within the whole coun
 
 ### Contentment
 
-These passages locate **contentment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Contentment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 6:8-10**
 >
@@ -241,7 +241,7 @@ These passages locate **contentment** within the whole counsel of Holy Scripture
 
 ### Regarding Others' Interests
 
-These passages locate **regarding others' interests** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Regarding Others' Interests** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Philippians 2:4**
 >
@@ -252,7 +252,7 @@ These passages locate **regarding others' interests** within the whole counsel o
 
 ### The Lord Provides
 
-These passages locate **the lord provides** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Lord Provides** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Proverbs 10:3**
 >
@@ -263,7 +263,7 @@ These passages locate **the lord provides** within the whole counsel of Holy Scr
 
 ### God Satisfies the Longing Soul
 
-These passages locate **God satisfies the longing soul** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **God Satisfies the Longing Soul** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 107:6-9**
 >
@@ -274,7 +274,7 @@ These passages locate **God satisfies the longing soul** within the whole counse
 
 ### Desire That Leads to Sin
 
-These passages locate **desire that leads to sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Desire That Leads to Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:5**
 >
@@ -289,7 +289,7 @@ These passages locate **desire that leads to sin** within the whole counsel of H
 
 ### Delight in the Lord
 
-These passages locate **delight in the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Delight in the Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Philippians 4:8**
 >
@@ -308,7 +308,7 @@ These passages locate **delight in the lord** within the whole counsel of Holy S
 
 ### Do Not Fret
 
-These passages locate **do not fret** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Do Not Fret** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 37**
 >
@@ -317,7 +317,7 @@ These passages locate **do not fret** within the whole counsel of Holy Scripture
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read 1 Kings 21:1-16 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -329,7 +329,7 @@ Read James 4:1-2. Attend to the actual persons, actions, and outcome named by Sc
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

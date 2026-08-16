@@ -151,7 +151,7 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 
 ### Walking in Newness of Life
 
-These passages locate **walking in newness of life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Walking in Newness of Life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 6:4**
 >
@@ -162,7 +162,7 @@ These passages locate **walking in newness of life** within the whole counsel of
 
 ### Dead to Sin, Alive to God
 
-These passages locate **dead to sin, alive to God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Dead to Sin, Alive to God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 6:1-14**
 >
@@ -173,7 +173,7 @@ These passages locate **dead to sin, alive to God** within the whole counsel of 
 
 ### Put Off the Old Self
 
-These passages locate **put off the old self** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Put Off the Old Self** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 4:22**
 >
@@ -184,7 +184,7 @@ These passages locate **put off the old self** within the whole counsel of Holy 
 
 ### The Old Has Passed Away
 
-These passages locate **the old has passed away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Old Has Passed Away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:17**
 >
@@ -195,7 +195,7 @@ These passages locate **the old has passed away** within the whole counsel of Ho
 
 ### The Flesh Against the Spirit
 
-These passages locate **the flesh against the spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Flesh Against the Spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Galatians 5:17**
 >
@@ -206,7 +206,7 @@ These passages locate **the flesh against the spirit** within the whole counsel 
 
 ### The New Self Raised with Christ
 
-These passages locate **the new self raised with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The New Self Raised with Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:1-10**
 >
@@ -229,7 +229,7 @@ These passages locate **the new self raised with Christ** within the whole couns
 
 ### Living Daily in Our Baptism
 
-These passages locate **living daily in our baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Living Daily in Our Baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:11**
 >
@@ -256,7 +256,7 @@ These passages locate **living daily in our baptism** within the whole counsel o
 
 ### He Drew Me Out of Many Waters
 
-These passages locate **he drew me out of many waters** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Drew Me Out of Many Waters** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 18**
 >
@@ -265,7 +265,7 @@ These passages locate **he drew me out of many waters** within the whole counsel
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Romans 6:4 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -277,7 +277,7 @@ Read Romans 6:1-14. Attend to the actual persons, actions, and outcome named by 
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

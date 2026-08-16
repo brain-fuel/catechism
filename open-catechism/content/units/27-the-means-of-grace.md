@@ -14,7 +14,7 @@ title: "The Means of Grace"
 
 ### The Mysteries of God
 
-These passages locate **the mysteries of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Mysteries of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 4:1**
 >
@@ -33,7 +33,7 @@ These passages locate **the mysteries of God** within the whole counsel of Holy 
 
 ### Instituted by Christ
 
-These passages locate **instituted by Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Instituted by Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 20:22-23**
 >
@@ -52,7 +52,7 @@ These passages locate **instituted by Christ** within the whole counsel of Holy 
 
 ### From Circumcision to Baptism
 
-These passages locate **from circumcision to baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **From Circumcision to Baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 2:11-12**
 >
@@ -67,7 +67,7 @@ These passages locate **from circumcision to baptism** within the whole counsel 
 
 ### God Works Through Lowly Means
 
-These passages locate **God works through lowly means** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **God Works Through Lowly Means** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 1:28**
 >
@@ -82,7 +82,7 @@ These passages locate **God works through lowly means** within the whole counsel
 
 ### The Word Received by Faith
 
-These passages locate **the word received by faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Word Received by Faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Thessalonians 2:13**
 >
@@ -90,7 +90,7 @@ These passages locate **the word received by faith** within the whole counsel of
 
 > **Ephesians 1:13**
 >
-> **1:13** In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
+> **1:13** In whom ye also trusted, after that ye heard the Word of Truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
 
 > **Hebrews 4:2**
 >
@@ -113,7 +113,7 @@ These passages locate **the word received by faith** within the whole counsel of
 
 ### The Scriptures Bear Witness to the Word Made Flesh
 
-These passages locate **the scriptures bear witness to the word made flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Scriptures Bear Witness to the Word Made Flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:1-3**
 >
@@ -140,7 +140,7 @@ These passages locate **the scriptures bear witness to the word made flesh** wit
 
 ### Baptized into Christ
 
-These passages locate **baptized into Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Baptized into Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 3:21**
 >
@@ -167,7 +167,7 @@ These passages locate **baptized into Christ** within the whole counsel of Holy 
 
 ### Known in the Breaking of Bread
 
-These passages locate **known in the breaking of bread** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Known in the Breaking of Bread** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:16**
 >
@@ -194,7 +194,7 @@ These passages locate **known in the breaking of bread** within the whole counse
 
 ### He Who Hears You Hears Me
 
-These passages locate **he who hears you hears me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Who Hears You Hears Me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:18-20**
 >
@@ -219,7 +219,7 @@ These passages locate **he who hears you hears me** within the whole counsel of 
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read 1 Corinthians 4:1 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -231,7 +231,7 @@ Read 1 Timothy 3:16. Attend to the actual persons, actions, and outcome named by
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

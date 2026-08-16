@@ -156,7 +156,7 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### The Good Samaritan
 
-These passages locate **the good samaritan** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Good Samaritan** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 10:25-37**
 >
@@ -167,7 +167,7 @@ These passages locate **the good samaritan** within the whole counsel of Holy Sc
 
 ### Bloodshed and Murder
 
-These passages locate **bloodshed and murder** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Bloodshed and Murder** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Samuel 11:15**
 >
@@ -186,7 +186,7 @@ These passages locate **bloodshed and murder** within the whole counsel of Holy 
 
 ### Malice and Cruelty
 
-These passages locate **malice and cruelty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Malice and Cruelty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 4:31-32**
 >
@@ -213,7 +213,7 @@ These passages locate **malice and cruelty** within the whole counsel of Holy Sc
 
 ### Neglecting the Needy
 
-These passages locate **neglecting the needy** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Neglecting the Needy** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Deuteronomy 15:11**
 >
@@ -228,7 +228,7 @@ These passages locate **neglecting the needy** within the whole counsel of Holy 
 
 ### Anger and Hatred
 
-These passages locate **anger and hatred** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Anger and Hatred** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 4:19-21**
 >
@@ -247,7 +247,7 @@ These passages locate **anger and hatred** within the whole counsel of Holy Scri
 
 ### Mercy Toward Enemies
 
-These passages locate **mercy toward enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Mercy Toward Enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Samuel 26:1-12**
 >
@@ -270,7 +270,7 @@ These passages locate **mercy toward enemies** within the whole counsel of Holy 
 
 ### Defending and Forgiving
 
-These passages locate **defending and forgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Defending and Forgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 45:1-16**
 >
@@ -285,7 +285,7 @@ These passages locate **defending and forgiving** within the whole counsel of Ho
 
 ### Compassion and Kindness
 
-These passages locate **compassion and kindness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Compassion and Kindness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:12-14**
 >
@@ -308,7 +308,7 @@ These passages locate **compassion and kindness** within the whole counsel of Ho
 
 ### The Sanctity of Life
 
-These passages locate **the sanctity of life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Sanctity of Life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 1:18-19**
 >
@@ -339,7 +339,7 @@ These passages locate **the sanctity of life** within the whole counsel of Holy 
 
 ### Life in the Womb
 
-These passages locate **life in the womb** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Life in the Womb** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Jeremiah 1:5**
 >
@@ -358,7 +358,7 @@ These passages locate **life in the womb** within the whole counsel of Holy Scri
 
 ### My Times Are in God's Hands
 
-These passages locate **my times are in God's hands** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **My Times Are in God's Hands** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 31:14-15**
 >
@@ -369,7 +369,7 @@ These passages locate **my times are in God's hands** within the whole counsel o
 
 ### Not Provoking Family
 
-These passages locate **not provoking family** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Not Provoking Family** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:19**
 >
@@ -384,7 +384,7 @@ These passages locate **not provoking family** within the whole counsel of Holy 
 
 ### The Body as God's Temple
 
-These passages locate **the body as God's temple** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Body as God's Temple** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:19-20**
 >
@@ -395,7 +395,7 @@ These passages locate **the body as God's temple** within the whole counsel of H
 
 ### One Human Family
 
-These passages locate **one human family** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **One Human Family** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 3:15**
 >
@@ -418,7 +418,7 @@ These passages locate **one human family** within the whole counsel of Holy Scri
 
 ### Fearfully Made
 
-These passages locate **fearfully made** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Fearfully Made** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:19-20**
 >
@@ -433,7 +433,7 @@ These passages locate **fearfully made** within the whole counsel of Holy Script
 
 ### God's Way of Escape
 
-These passages locate **God's way of escape** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **God's Way of Escape** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:13**
 >
@@ -444,7 +444,7 @@ These passages locate **God's way of escape** within the whole counsel of Holy S
 
 ### Forgiveness for the Guilty
 
-These passages locate **forgiveness for the guilty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Forgiveness for the Guilty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:7-2:2**
 >
@@ -463,7 +463,7 @@ These passages locate **forgiveness for the guilty** within the whole counsel of
 
 ### The Sword of Authority
 
-These passages locate **the sword of authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Sword of Authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 13:4**
 >
@@ -474,7 +474,7 @@ These passages locate **the sword of authority** within the whole counsel of Hol
 
 ### God Hears the Afflicted
 
-These passages locate **God hears the afflicted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **God Hears the Afflicted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 10**
 >
@@ -483,7 +483,7 @@ These passages locate **God hears the afflicted** within the whole counsel of Ho
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Luke 10:25-37 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -495,7 +495,7 @@ Read 2 Samuel 11:15. Attend to the actual persons, actions, and outcome named by
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

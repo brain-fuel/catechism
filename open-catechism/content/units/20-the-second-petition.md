@@ -144,7 +144,7 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### My Kingdom Is Not of This World
 
-These passages locate **my kingdom is not of this world** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **My Kingdom Is Not of This World** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 18:33-40**
 >
@@ -155,7 +155,7 @@ These passages locate **my kingdom is not of this world** within the whole couns
 
 ### A Throne Established Forever
 
-These passages locate **a throne established forever** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A Throne Established Forever** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Samuel 7:12, 16**
 >
@@ -174,7 +174,7 @@ These passages locate **a throne established forever** within the whole counsel 
 
 ### The Kingdom Is at Hand
 
-These passages locate **the kingdom is at hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Kingdom Is at Hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 1:13-14**
 >
@@ -189,7 +189,7 @@ These passages locate **the kingdom is at hand** within the whole counsel of Hol
 
 ### A Kingdom Not Observed by Sight
 
-These passages locate **a kingdom not observed by sight** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A Kingdom Not Observed by Sight** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 3:5**
 >
@@ -208,7 +208,7 @@ These passages locate **a kingdom not observed by sight** within the whole couns
 
 ### The Kingdom of Glory
 
-These passages locate **the kingdom of glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Kingdom of Glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Daniel 7:13-14**
 >
@@ -239,7 +239,7 @@ These passages locate **the kingdom of glory** within the whole counsel of Holy 
 
 ### Fear Not, Little Flock
 
-These passages locate **fear not, little flock** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Fear Not, Little Flock** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 12:31-32**
 >
@@ -250,7 +250,7 @@ These passages locate **fear not, little flock** within the whole counsel of Hol
 
 ### Spirit, Word, and Godly Life
 
-These passages locate **spirit, word, and godly life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Spirit, Word, and Godly Life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:12**
 >
@@ -269,7 +269,7 @@ These passages locate **spirit, word, and godly life** within the whole counsel 
 
 ### Pray That the Word Speed Ahead
 
-These passages locate **pray that the word speed ahead** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Pray That the Word Speed Ahead** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Thessalonians 3:1**
 >
@@ -288,7 +288,7 @@ These passages locate **pray that the word speed ahead** within the whole counse
 
 ### Awaiting the King's Return
 
-These passages locate **awaiting the king's return** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Awaiting the King's Return** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Philippians 3:20**
 >
@@ -303,7 +303,7 @@ These passages locate **awaiting the king's return** within the whole counsel of
 
 ### Delivered from Darkness, Ruled by Christ
 
-These passages locate **delivered from darkness, ruled by Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Delivered from Darkness, Ruled by Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Timothy 4:18**
 >
@@ -334,7 +334,7 @@ These passages locate **delivered from darkness, ruled by Christ** within the wh
 
 ### His Kingdom Rules Over All
 
-These passages locate **his kingdom rules over all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **His Kingdom Rules Over All** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 103:19**
 >
@@ -345,7 +345,7 @@ These passages locate **his kingdom rules over all** within the whole counsel of
 
 ### He Did Not Leave Himself Without Witness
 
-These passages locate **he did not leave himself without witness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Did Not Leave Himself Without Witness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 14:16-17**
 >
@@ -356,7 +356,7 @@ These passages locate **he did not leave himself without witness** within the wh
 
 ### The Kingdom of Power
 
-These passages locate **the kingdom of power** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Kingdom of Power** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Hebrews 1:3**
 >
@@ -371,7 +371,7 @@ These passages locate **the kingdom of power** within the whole counsel of Holy 
 
 ### Rule in the Midst of Your Enemies
 
-These passages locate **rule in the midst of your enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Rule in the Midst of Your Enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 110**
 >
@@ -380,7 +380,7 @@ These passages locate **rule in the midst of your enemies** within the whole cou
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read John 18:33-40 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -392,7 +392,7 @@ Read 2 Samuel 7:12, 16. Attend to the actual persons, actions, and outcome named
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

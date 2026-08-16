@@ -126,7 +126,7 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### The Sower and the Soils
 
-These passages locate **the sower and the soils** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Sower and the Soils** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Mark 4:1-20**
 >
@@ -137,7 +137,7 @@ These passages locate **the sower and the soils** within the whole counsel of Ho
 
 ### The Tempter and Our Own Desire
 
-These passages locate **the tempter and our own desire** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Tempter and Our Own Desire** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 5:8-9**
 >
@@ -176,7 +176,7 @@ These passages locate **the tempter and our own desire** within the whole counse
 
 ### Watch and Pray
 
-These passages locate **watch and pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Watch and Pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:12-13**
 >
@@ -199,7 +199,7 @@ These passages locate **watch and pray** within the whole counsel of Holy Script
 
 ### Flee, Lest You Fall Away
 
-These passages locate **flee, lest you fall away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Flee, Lest You Fall Away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Galatians 5:19-21**
 >
@@ -226,7 +226,7 @@ These passages locate **flee, lest you fall away** within the whole counsel of H
 
 ### Armed with the Word
 
-These passages locate **armed with the word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Armed with the Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:13**
 >
@@ -253,7 +253,7 @@ These passages locate **armed with the word** within the whole counsel of Holy S
 
 ### God Tests, but Does Not Tempt
 
-These passages locate **God tests, but does not tempt** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **God Tests, but Does Not Tempt** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Genesis 22:1-19**
 >
@@ -280,7 +280,7 @@ These passages locate **God tests, but does not tempt** within the whole counsel
 
 ### Under the Shadow of the Almighty
 
-These passages locate **under the shadow of the almighty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Under the Shadow of the Almighty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 91**
 >
@@ -289,7 +289,7 @@ These passages locate **under the shadow of the almighty** within the whole coun
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Mark 4:1-20 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -301,7 +301,7 @@ Read 1 Peter 5:8-9. Attend to the actual persons, actions, and outcome named by 
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

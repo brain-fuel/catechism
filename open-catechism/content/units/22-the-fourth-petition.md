@@ -148,7 +148,7 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 
 ### Manna in the Wilderness
 
-These passages locate **manna in the wilderness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Manna in the Wilderness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 16:1-21**
 >
@@ -159,7 +159,7 @@ These passages locate **manna in the wilderness** within the whole counsel of Ho
 
 ### He Gives Food to All
 
-These passages locate **he gives food to all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Gives Food to All** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 14:16-17**
 >
@@ -182,7 +182,7 @@ These passages locate **he gives food to all** within the whole counsel of Holy 
 
 ### Why Spend for What Is Not Bread?
 
-These passages locate **why spend for what is not bread?** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Why Spend for What Is Not Bread?** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 55:2**
 >
@@ -193,7 +193,7 @@ These passages locate **why spend for what is not bread?** within the whole coun
 
 ### In Him We Live and Move
 
-These passages locate **in him we live and move** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **In Him We Live and Move** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 17:28**
 >
@@ -212,7 +212,7 @@ These passages locate **in him we live and move** within the whole counsel of Ho
 
 ### Bread for Today, Not Tomorrow
 
-These passages locate **bread for today, not tomorrow** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Bread for Today, Not Tomorrow** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 5:6-7**
 >
@@ -235,7 +235,7 @@ These passages locate **bread for today, not tomorrow** within the whole counsel
 
 ### Receiving with Thanksgiving
 
-These passages locate **receiving with thanksgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Receiving with Thanksgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 4:4-5**
 >
@@ -262,7 +262,7 @@ These passages locate **receiving with thanksgiving** within the whole counsel o
 
 ### Contentment and Nothing Wasted
 
-These passages locate **contentment and nothing wasted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Contentment and Nothing Wasted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 6:8**
 >
@@ -285,7 +285,7 @@ These passages locate **contentment and nothing wasted** within the whole counse
 
 ### You Open Your Hand
 
-These passages locate **you open your hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **You Open Your Hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 104:14**
 >
@@ -300,7 +300,7 @@ These passages locate **you open your hand** within the whole counsel of Holy Sc
 
 ### Working Quietly for Our Own Bread
 
-These passages locate **working quietly for our own bread** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Working Quietly for Our Own Bread** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Thessalonians 3:10-12**
 >
@@ -311,7 +311,7 @@ These passages locate **working quietly for our own bread** within the whole cou
 
 ### Good Government and a Peaceful Life
 
-These passages locate **good government and a peaceful life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Good Government and a Peaceful Life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:1-2**
 >
@@ -322,7 +322,7 @@ These passages locate **good government and a peaceful life** within the whole c
 
 ### Providing and Sharing
 
-These passages locate **providing and sharing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Providing and Sharing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 3:17-18**
 >
@@ -341,7 +341,7 @@ These passages locate **providing and sharing** within the whole counsel of Holy
 
 ### He Satisfies You with Good
 
-These passages locate **he satisfies you with good** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Satisfies You with Good** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 103**
 >
@@ -350,7 +350,7 @@ These passages locate **he satisfies you with good** within the whole counsel of
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Exodus 16:1-21 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -362,7 +362,7 @@ Read Acts 14:16-17. Attend to the actual persons, actions, and outcome named by 
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

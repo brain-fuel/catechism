@@ -255,7 +255,7 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### God Alone as Judge
 
-These passages locate **God alone as judge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **God Alone as Judge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 12:13-14**
 >
@@ -266,7 +266,7 @@ These passages locate **God alone as judge** within the whole counsel of Holy Sc
 
 ### Trusting God Above Created Things
 
-These passages locate **trusting God above created things** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Trusting God Above Created Things** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 45:20**
 >
@@ -285,7 +285,7 @@ These passages locate **trusting God above created things** within the whole cou
 
 ### Worship God Alone
 
-These passages locate **worship God alone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Worship God Alone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 8:4**
 >
@@ -308,7 +308,7 @@ These passages locate **worship God alone** within the whole counsel of Holy Scr
 
 ### Fear, Love, and Trust in God
 
-These passages locate **fear, love, and trust in God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Fear, Love, and Trust in God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Deuteronomy 6:5**
 >
@@ -327,7 +327,7 @@ These passages locate **fear, love, and trust in God** within the whole counsel 
 
 ### The One True God of All Nations
 
-These passages locate **the one true God of all nations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The One True God of All Nations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 8:5-6**
 >
@@ -346,7 +346,7 @@ These passages locate **the one true God of all nations** within the whole couns
 
 ### Fearing God Above All
 
-These passages locate **fearing God above all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Fearing God Above All** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 10:28**
 >
@@ -365,7 +365,7 @@ These passages locate **fearing God above all** within the whole counsel of Holy
 
 ### Loving God Above All
 
-These passages locate **loving God above all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Loving God Above All** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 14:15**
 >
@@ -384,7 +384,7 @@ These passages locate **loving God above all** within the whole counsel of Holy 
 
 ### Trusting God Above All
 
-These passages locate **trusting God above all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Trusting God Above All** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 5:6-7**
 >
@@ -415,7 +415,7 @@ These passages locate **trusting God above all** within the whole counsel of Hol
 
 ### Idols of Pride and Self
 
-These passages locate **idols of pride and self** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Idols of Pride and Self** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 6:12-20**
 >
@@ -442,7 +442,7 @@ These passages locate **idols of pride and self** within the whole counsel of Ho
 
 ### The Idolatry of the Heart
 
-These passages locate **the idolatry of the heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Idolatry of the Heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 5:5**
 >
@@ -469,7 +469,7 @@ These passages locate **the idolatry of the heart** within the whole counsel of 
 
 ### Seeking God First
 
-These passages locate **seeking God first** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Seeking God First** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Deuteronomy 30:19-20**
 >
@@ -488,7 +488,7 @@ These passages locate **seeking God first** within the whole counsel of Holy Scr
 
 ### No One Is Without Sin
 
-These passages locate **no one is without sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **No One Is Without Sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:8**
 >
@@ -534,7 +534,7 @@ These passages locate **God the Holy Trinity** within the whole counsel of Holy 
 
 ### The Attributes of God
 
-These passages locate **the attributes of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Attributes of God** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 4:8**
 >
@@ -589,7 +589,7 @@ These passages locate **the attributes of God** within the whole counsel of Holy
 
 ### The First Commandment
 
-These passages locate **the first commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The First Commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 20:1-3**
 >
@@ -612,7 +612,7 @@ These passages locate **the first commandment** within the whole counsel of Holy
 
 ### Unbelief and False Worship
 
-These passages locate **unbelief and false worship** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Unbelief and False Worship** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Samuel 28**
 >
@@ -647,7 +647,7 @@ These passages locate **unbelief and false worship** within the whole counsel of
 
 ### The Two Ways
 
-These passages locate **the two ways** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Two Ways** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 1**
 >
@@ -656,7 +656,7 @@ These passages locate **the two ways** within the whole counsel of Holy Scriptur
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Luke 12:13-14 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -668,7 +668,7 @@ Read Isaiah 45:20. Attend to the actual persons, actions, and outcome named by S
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

@@ -23,6 +23,9 @@ let Coverage () : Unit :=
 let Validate () : Unit :=
   Shell "set -eu; test $(find content/units -name '*.md' -type f | wc -l | tr -d ' ') = 35; test $(find content/resources -name '*.yaml' -type f | wc -l | tr -d ' ') = 44; test $(grep -Ec '^\\*\\*[0-9]+\\.' content/source/en/03-yksinkertainen-selitys.md) = 314; test $(grep -hEc '^[0-9]+:$' content/resources/*.yaml | awk '{s+=$1} END{print s}') = 642; test $(($(grep -hEc '^[[:space:]]+\\?' content/resources/*.yaml | awk '{s+=$1} END{print s}')-1)) = 2037; ! grep -q '^\\*\\*53\\.' content/source/en/03-yksinkertainen-selitys.md; ! grep -RqiE '\\b(TODO|TBD|placeholder)\\b' content/units; grep -RqF 'Thou shalt worship Yahweh thy God, and him only shalt thou serve.' content/units; grep -RqF 'Prepare ye the way of Yahweh.' content/units; grep -RqF 'Yahweh said unto my Lord' content/units; grep -RqF 'by his name Yah' content/units; ! grep -Rq '^References:' content/units; ! grep -Rq '^## Scripture readings' content/units; grep -RqF '> **Matthew 4:10**' content/units; ! grep -RqE '^These passages locate.*\\b(god|holy trinity)\\b' content/units; printf 'validation: PASS (inline Scripture and editorial capitalization verified)\\n'"
 
+let ValidateCapitalization () : Unit :=
+  Shell "set -eu; ! grep -RqE \"God['’]s word|God['’]s words|word of truth|law and gospel|the Lord['’]s Supper|The word heard|evangelical faith|holy Scripture|holy trinity\" content/units content/divine-service.md; grep -RqF \"God's Word\" content/units; grep -RqF 'Word of Truth' content/units; grep -RqF 'Law and Gospel' content/units; grep -RqF \"The Lord's Supper\" content/units; grep -RqF 'The Word heard' content/units; grep -RqF 'Evangelical Faith' content/units"
+
 let BuildWeb () : Unit :=
   Shell "set -eu; test -x .tools/hugo; .tools/hugo --cleanDestinationDir --gc --minify"
 let BuildEPUB () : Unit :=
@@ -34,10 +37,11 @@ let BuildPDF () : Unit :=
 let main () : Unit := do {
   let line := strings.Join os.Args " ";
   if strings.Contains line " coverage" then Coverage ()
-  else if strings.Contains line " validate" then Validate ()
+  else if strings.Contains line " validate" then do { Validate (); ValidateCapitalization () }
   else if strings.Contains line " sources" then fmt.Println "offline sources synchronized at 94d44842cb242e8aa840330748e03d2803f2a7c1"
   else if strings.Contains line " build" then do {
     Validate ();
+    ValidateCapitalization ();
     if strings.Contains line "web" || strings.Contains line "all" then BuildWeb () else Nop ();
     if strings.Contains line "epub" || strings.Contains line "all" then BuildEPUB () else Nop ();
     if strings.Contains line "pdf" || strings.Contains line "all" then BuildPDF () else Nop ();

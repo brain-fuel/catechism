@@ -194,7 +194,7 @@ Answer: God threatens to punish all who break and transgress these His commandme
 
 ### The One Thing Needful
 
-These passages locate **the one thing needful** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The One Thing Needful** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 10:38-42**
 >
@@ -205,7 +205,7 @@ These passages locate **the one thing needful** within the whole counsel of Holy
 
 ### Remember the Sabbath Day
 
-These passages locate **remember the sabbath day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Remember the Sabbath Day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 20:8-11**
 >
@@ -220,7 +220,7 @@ These passages locate **remember the sabbath day** within the whole counsel of H
 
 ### The Sabbath and Redemption
 
-These passages locate **the sabbath and redemption** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Sabbath and Redemption** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Deuteronomy 5:12**
 >
@@ -235,7 +235,7 @@ These passages locate **the sabbath and redemption** within the whole counsel of
 
 ### Sabbath Rest and Holy Days
 
-These passages locate **sabbath rest and holy days** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Sabbath Rest and Holy Days** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Deuteronomy 5:13-14**
 >
@@ -270,7 +270,7 @@ These passages locate **sabbath rest and holy days** within the whole counsel of
 
 ### Not Neglecting to Gather
 
-These passages locate **not neglecting to gather** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Not Neglecting to Gather** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Hebrews 10:25**
 >
@@ -281,7 +281,7 @@ These passages locate **not neglecting to gather** within the whole counsel of H
 
 ### Hearing the Preached Word
 
-These passages locate **hearing the preached word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Hearing the Preached Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Samuel 15:10-23**
 >
@@ -293,7 +293,7 @@ These passages locate **hearing the preached word** within the whole counsel of 
 
 > **John 8:42-47**
 >
-> **8:42** Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me. **8:43** Why do ye not understand my speech? even because ye cannot hear my word. **8:44** Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. **8:45** And because I tell you the truth, ye believe me not. **8:46** Which of you convinceth me of sin? And if I say the truth, why do ye not believe me? **8:47** He that is of God heareth God's words: ye therefore hear them not, because ye are not of God.
+> **8:42** Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me. **8:43** Why do ye not understand my speech? even because ye cannot hear my word. **8:44** Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. **8:45** And because I tell you the truth, ye believe me not. **8:46** Which of you convinceth me of sin? And if I say the truth, why do ye not believe me? **8:47** He that is of God heareth God's Words: ye therefore hear them not, because ye are not of God.
 
 > **Luke 10:16**
 >
@@ -304,7 +304,7 @@ These passages locate **hearing the preached word** within the whole counsel of 
 
 ### Delighting in God's Word
 
-These passages locate **delighting in God's word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Delighting in God's Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:16**
 >
@@ -327,7 +327,7 @@ These passages locate **delighting in God's word** within the whole counsel of H
 
 ### Devotion to the Word
 
-These passages locate **devotion to the word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Devotion to the Word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 17:10-11**
 >
@@ -354,7 +354,7 @@ These passages locate **devotion to the word** within the whole counsel of Holy 
 
 ### The Sabbath Fulfilled in Christ
 
-These passages locate **the sabbath fulfilled in Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Sabbath Fulfilled in Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 2:16-17**
 >
@@ -365,7 +365,7 @@ These passages locate **the sabbath fulfilled in Christ** within the whole couns
 
 ### Entering God's Rest
 
-These passages locate **entering God's rest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Entering God's Rest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Hebrews 4:1**
 >
@@ -384,7 +384,7 @@ These passages locate **entering God's rest** within the whole counsel of Holy S
 
 ### Rest in the Lord
 
-These passages locate **rest in the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Rest in the Lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Hebrews 4:1-13**
 >
@@ -403,7 +403,7 @@ These passages locate **rest in the lord** within the whole counsel of Holy Scri
 
 ### Come to Me and Rest
 
-These passages locate **come to me and rest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Come to Me and Rest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 5:1-17**
 >
@@ -430,7 +430,7 @@ These passages locate **come to me and rest** within the whole counsel of Holy S
 
 ### The Word Dwelling in Us
 
-These passages locate **the word dwelling in us** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Word Dwelling in Us** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 4:4-5**
 >
@@ -449,7 +449,7 @@ These passages locate **the word dwelling in us** within the whole counsel of Ho
 
 ### The Lord's Day
 
-These passages locate **the lord's day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Lord's Day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 20:7**
 >
@@ -468,7 +468,7 @@ These passages locate **the lord's day** within the whole counsel of Holy Script
 
 ### Lord of the Sabbath
 
-These passages locate **lord of the sabbath** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Lord of the Sabbath** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 12:1-8**
 >
@@ -483,7 +483,7 @@ These passages locate **lord of the sabbath** within the whole counsel of Holy S
 
 ### The Means of Grace
 
-These passages locate **the means of grace** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Means of Grace** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:16**
 >
@@ -522,7 +522,7 @@ These passages locate **the means of grace** within the whole counsel of Holy Sc
 
 ### Gathering on the Lord's Day
 
-These passages locate **gathering on the lord's day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Gathering on the Lord's Day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 16:1-2**
 >
@@ -542,7 +542,7 @@ These passages locate **gathering on the lord's day** within the whole counsel o
 
 > **John 8:47**
 >
-> **8:47** He that is of God heareth God's words: ye therefore hear them not, because ye are not of God.
+> **8:47** He that is of God heareth God's Words: ye therefore hear them not, because ye are not of God.
 
 > **Luke 10:16**
 >
@@ -561,7 +561,7 @@ These passages locate **gathering on the lord's day** within the whole counsel o
 
 ### The Assembly of the Saints
 
-These passages locate **the assembly of the saints** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Assembly of the Saints** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:16**
 >
@@ -580,7 +580,7 @@ These passages locate **the assembly of the saints** within the whole counsel of
 
 ### The Word Forever Settled
 
-These passages locate **the word forever settled** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Word Forever Settled** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 119:89-96**
 >
@@ -589,7 +589,7 @@ These passages locate **the word forever settled** within the whole counsel of H
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Luke 10:38-42 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -601,7 +601,7 @@ Read Exodus 20:8-11. Attend to the actual persons, actions, and outcome named by
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

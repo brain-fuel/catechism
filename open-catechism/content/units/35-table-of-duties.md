@@ -50,7 +50,7 @@ For the Common People. All things whatsoever you would that men should do to you
 
 ### The Household Under Christ
 
-These passages locate **the household under Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Household Under Christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:8-4:1**
 >
@@ -65,7 +65,7 @@ These passages locate **the household under Christ** within the whole counsel of
 
 ### To Bishops, Pastors, and Preachers
 
-These passages locate **to bishops, pastors, and preachers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **To Bishops, Pastors, and Preachers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 3:2-4, 6**
 >
@@ -80,7 +80,7 @@ These passages locate **to bishops, pastors, and preachers** within the whole co
 
 ### What the Hearers Owe Their Pastors
 
-These passages locate **what the hearers owe their pastors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **What the Hearers Owe Their Pastors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Thessalonians 5:12-13**
 >
@@ -95,7 +95,7 @@ These passages locate **what the hearers owe their pastors** within the whole co
 
 ### Supporting Those Who Teach
 
-These passages locate **supporting those who teach** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Supporting Those Who Teach** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 9:14**
 >
@@ -114,7 +114,7 @@ These passages locate **supporting those who teach** within the whole counsel of
 
 ### Of Civil Government
 
-These passages locate **of civil government** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Of Civil Government** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Romans 13:1-4**
 >
@@ -125,7 +125,7 @@ These passages locate **of civil government** within the whole counsel of Holy S
 
 ### Of Citizens
 
-These passages locate **of citizens** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Of Citizens** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 22:21**
 >
@@ -140,7 +140,7 @@ These passages locate **of citizens** within the whole counsel of Holy Scripture
 
 ### Praying for Those in Authority
 
-These passages locate **praying for those in authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Praying for Those in Authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:1-3**
 >
@@ -151,7 +151,7 @@ These passages locate **praying for those in authority** within the whole counse
 
 ### Subject for the Lord's Sake
 
-These passages locate **subject for the lord's sake** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Subject for the Lord's Sake** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:13-14**
 >
@@ -166,7 +166,7 @@ These passages locate **subject for the lord's sake** within the whole counsel o
 
 ### To Husbands
 
-These passages locate **to husbands** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **To Husbands** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 3:7**
 >
@@ -181,7 +181,7 @@ These passages locate **to husbands** within the whole counsel of Holy Scripture
 
 ### To Wives
 
-These passages locate **to wives** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **To Wives** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 3:5-6**
 >
@@ -196,7 +196,7 @@ These passages locate **to wives** within the whole counsel of Holy Scripture. R
 
 ### To Parents
 
-These passages locate **to parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **To Parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 6:4**
 >
@@ -207,7 +207,7 @@ These passages locate **to parents** within the whole counsel of Holy Scripture.
 
 ### To Children
 
-These passages locate **to children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **To Children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 6:1-3**
 >
@@ -218,7 +218,7 @@ These passages locate **to children** within the whole counsel of Holy Scripture
 
 ### To Youth
 
-These passages locate **to youth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **To Youth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 5:5-6**
 >
@@ -229,7 +229,7 @@ These passages locate **to youth** within the whole counsel of Holy Scripture. R
 
 ### To Widows
 
-These passages locate **to widows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **To Widows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 5:5-6**
 >
@@ -240,7 +240,7 @@ These passages locate **to widows** within the whole counsel of Holy Scripture. 
 
 ### To Workers of All Kinds
 
-These passages locate **to workers of all kinds** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **To Workers of All Kinds** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 6:5-8**
 >
@@ -251,7 +251,7 @@ These passages locate **to workers of all kinds** within the whole counsel of Ho
 
 ### To Employers and Supervisors
 
-These passages locate **to employers and supervisors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **To Employers and Supervisors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 6:9**
 >
@@ -262,7 +262,7 @@ These passages locate **to employers and supervisors** within the whole counsel 
 
 ### To Everyone
 
-These passages locate **to everyone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **To Everyone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 2:1**
 >
@@ -275,7 +275,7 @@ These passages locate **to everyone** within the whole counsel of Holy Scripture
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read Colossians 3:8-4:1 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -287,7 +287,7 @@ Read Ephesians 5:22-6:9. Attend to the actual persons, actions, and outcome name
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

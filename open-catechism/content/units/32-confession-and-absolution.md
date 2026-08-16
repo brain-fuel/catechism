@@ -183,7 +183,7 @@ Answer: It is the power given whereby the preacher binds the impenitent in his s
 
 **What is excommunication, or being placed under the ban?**
 
-Answer: It is this: when the impenitent and unworthy sinner is shut out from the Lord's Supper, or also altogether from the fellowship of the congregation; the latter is called the greater ban, but the former the lesser.
+Answer: It is this: when the impenitent and unworthy sinner is shut out from The Lord's Supper, or also altogether from the fellowship of the congregation; the latter is called the greater ban, but the former the lesser.
 
 **Can someone who has been excommunicated and bound in his sins be received into grace again?**
 
@@ -246,7 +246,7 @@ I, a poor sinful man, who am conceived and born in sin, and have all the days of
 
 ### David and Nathan
 
-These passages locate **david and nathan** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **David and Nathan** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Samuel 11:1-12:15**
 >
@@ -257,7 +257,7 @@ These passages locate **david and nathan** within the whole counsel of Holy Scri
 
 ### When I Kept Silent
 
-These passages locate **when i kept silent** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **When I Kept Silent** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 32:3, 5**
 >
@@ -272,7 +272,7 @@ These passages locate **when i kept silent** within the whole counsel of Holy Sc
 
 ### The Heart Is Deceitful
 
-These passages locate **the heart is deceitful** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Heart Is Deceitful** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:8-9**
 >
@@ -295,7 +295,7 @@ These passages locate **the heart is deceitful** within the whole counsel of Hol
 
 ### Confessing and Reconciling with One Another
 
-These passages locate **confessing and reconciling with one another** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Confessing and Reconciling with One Another** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Colossians 3:12-15**
 >
@@ -326,7 +326,7 @@ These passages locate **confessing and reconciling with one another** within the
 
 ### I Have Sinned Against the LORD
 
-These passages locate **i have sinned against the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **I Have Sinned Against the LORD** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Samuel 12:13**
 >
@@ -341,7 +341,7 @@ These passages locate **i have sinned against the lord** within the whole counse
 
 ### The Ministry of Reconciliation
 
-These passages locate **the ministry of reconciliation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Ministry of Reconciliation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 5:18**
 >
@@ -356,7 +356,7 @@ These passages locate **the ministry of reconciliation** within the whole counse
 
 ### Forgiven on Earth, Forgiven in Heaven
 
-These passages locate **forgiven on earth, forgiven in heaven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Forgiven on Earth, Forgiven in Heaven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 20:23**
 >
@@ -375,7 +375,7 @@ These passages locate **forgiven on earth, forgiven in heaven** within the whole
 
 ### As Far as the East Is from the West
 
-These passages locate **as far as the east is from the west** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **As Far as the East Is from the West** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 103:12**
 >
@@ -386,7 +386,7 @@ These passages locate **as far as the east is from the west** within the whole c
 
 ### Your Sins Are Forgiven
 
-These passages locate **your sins are forgiven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Your Sins Are Forgiven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Samuel 12:13**
 >
@@ -413,7 +413,7 @@ These passages locate **your sins are forgiven** within the whole counsel of Hol
 
 ### Examine Yourselves
 
-These passages locate **examine yourselves** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Examine Yourselves** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 13:5**
 >
@@ -424,7 +424,7 @@ These passages locate **examine yourselves** within the whole counsel of Holy Sc
 
 ### The Seven Penitential Psalms
 
-These passages locate **the seven penitential psalms** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Seven Penitential Psalms** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 102**
 >
@@ -459,7 +459,7 @@ These passages locate **the seven penitential psalms** within the whole counsel 
 
 ### Peace Be with You
 
-These passages locate **peace be with you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Peace Be with You** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 20:19-23**
 >
@@ -470,7 +470,7 @@ These passages locate **peace be with you** within the whole counsel of Holy Scr
 
 ### Binding and Loosing
 
-These passages locate **binding and loosing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Binding and Loosing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 20:22-23**
 >
@@ -485,7 +485,7 @@ These passages locate **binding and loosing** within the whole counsel of Holy S
 
 ### The Keys of the Kingdom
 
-These passages locate **the keys of the kingdom** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Keys of the Kingdom** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 16:19**
 >
@@ -496,7 +496,7 @@ These passages locate **the keys of the kingdom** within the whole counsel of Ho
 
 ### Repent, That Your Sins May Be Blotted Out
 
-These passages locate **repent, that your sins may be blotted out** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Repent, That Your Sins May Be Blotted Out** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Acts 3:19**
 >
@@ -511,7 +511,7 @@ These passages locate **repent, that your sins may be blotted out** within the w
 
 ### If He Refuses to Listen to the Church
 
-These passages locate **if he refuses to listen to the church** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **If He Refuses to Listen to the Church** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 18:17**
 >
@@ -522,7 +522,7 @@ These passages locate **if he refuses to listen to the church** within the whole
 
 ### Repent and Believe
 
-These passages locate **repent and believe** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Repent and Believe** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 19:1-10**
 >
@@ -541,7 +541,7 @@ These passages locate **repent and believe** within the whole counsel of Holy Sc
 
 ### Gathered in His Name
 
-These passages locate **gathered in his name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Gathered in His Name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:9**
 >
@@ -568,7 +568,7 @@ These passages locate **gathered in his name** within the whole counsel of Holy 
 
 ### Go and Tell Him His Fault
 
-These passages locate **go and tell him his fault** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Go and Tell Him His Fault** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 18:15-18**
 >
@@ -579,7 +579,7 @@ These passages locate **go and tell him his fault** within the whole counsel of 
 
 ### Discipline and Restoration
 
-These passages locate **discipline and restoration** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Discipline and Restoration** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 5:13**
 >
@@ -598,7 +598,7 @@ These passages locate **discipline and restoration** within the whole counsel of
 
 ### Reaffirm Your Love for Him
 
-These passages locate **reaffirm your love for him** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Reaffirm Your Love for Him** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 2:7-8**
 >
@@ -613,7 +613,7 @@ These passages locate **reaffirm your love for him** within the whole counsel of
 
 ### Shepherds and Overseers
 
-These passages locate **shepherds and overseers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Shepherds and Overseers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 4:1**
 >
@@ -632,7 +632,7 @@ These passages locate **shepherds and overseers** within the whole counsel of Ho
 
 ### How Shall They Preach Unless Sent?
 
-These passages locate **how shall they preach unless sent?** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **How Shall They Preach Unless Sent?** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 12:29**
 >
@@ -651,7 +651,7 @@ These passages locate **how shall they preach unless sent?** within the whole co
 
 ### The Priesthood of the Baptized
 
-These passages locate **the priesthood of the baptized** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Priesthood of the Baptized** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Peter 2:9-10**
 >
@@ -670,7 +670,7 @@ These passages locate **the priesthood of the baptized** within the whole counse
 
 ### Qualifications for the Office
 
-These passages locate **qualifications for the office** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Qualifications for the Office** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Timothy 3:1-2**
 >
@@ -685,7 +685,7 @@ These passages locate **qualifications for the office** within the whole counsel
 
 ### Order and Gifts in the Church
 
-These passages locate **order and gifts in the church** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Order and Gifts in the Church** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 14:33-36**
 >
@@ -704,7 +704,7 @@ These passages locate **order and gifts in the church** within the whole counsel
 
 ### He Drew Me Up from the Pit
 
-These passages locate **he drew me up from the pit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Drew Me Up from the Pit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 40**
 >
@@ -713,7 +713,7 @@ These passages locate **he drew me up from the pit** within the whole counsel of
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read 2 Samuel 11:1-12:15 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -725,7 +725,7 @@ Read Psalm 32:3, 5. Attend to the actual persons, actions, and outcome named by 
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

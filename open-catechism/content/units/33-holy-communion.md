@@ -13,13 +13,13 @@ title: "Holy Communion"
 
 Answer: Because, by ancient Christian custom, it is held before the altar, or at such tables as in appearance are of the form of the altars of old.
 
-**Why is it called the Lord's Supper?**
+**Why is it called The Lord's Supper?**
 
 Answer: Because the Lord Jesus instituted this high meal by night, after He had eaten the paschal lamb, a little before He went to His death. It is also called the table of God or of the Lord, for at it are set forth high and heavenly dishes, as it is called the Mass in the Augsburg Confession, but not according to the faith of the papists.
 
 > **1 Cor. 11:20**
 >
-> When ye come together therefore into one place, this is not to eat the Lord's Supper.
+> When ye come together therefore into one place, this is not to eat The Lord's Supper.
 
 > **1 Cor. 10:21**
 >
@@ -77,9 +77,9 @@ Answer: With God nothing is impossible. Although we can neither search out nor c
 > It is impossible for God to lie.
 
 
-**What kind of eating and drinking takes place in the Lord’s Supper?**
+**What kind of eating and drinking takes place in The Lord’s Supper?**
 
-Answer: In the Lord's Supper a threefold eating and drinking takes place. 1. Natural and ordinary eating and drinking, when the bread and wine are taken into the mouth, swallowed, and consumed in the stomach. 2. Spiritual eating and drinking, which takes place by faith in the grace of God and in the merit of Jesus Christ. 3. Sacramental, which takes place in an incomprehensible and unsearchable manner, when all the guests, unworthy as well as worthy, receive with their mouth in the Supper the true body and blood of Christ, under the bread and wine. And this eating and drinking takes place especially in the Lord's Supper.
+Answer: In The Lord's Supper a threefold eating and drinking takes place. 1. Natural and ordinary eating and drinking, when the bread and wine are taken into the mouth, swallowed, and consumed in the stomach. 2. Spiritual eating and drinking, which takes place by faith in the grace of God and in the merit of Jesus Christ. 3. Sacramental, which takes place in an incomprehensible and unsearchable manner, when all the guests, unworthy as well as worthy, receive with their mouth in the Supper the true body and blood of Christ, under the bread and wine. And this eating and drinking takes place especially in The Lord's Supper.
 
 > **John 6:47-51**
 >
@@ -138,7 +138,7 @@ Answer: That we in humility might remember and proclaim those great good deeds w
 > As often as ye eat this bread, and drink this cup, ye do shew the Lord's death till He come.
 
 
-**What benefits does the Lord’s Supper give us?**
+**What benefits does The Lord’s Supper give us?**
 
 Answer: 1. Our faith is thereby strengthened and assured concerning the forgiveness of sins. 2. We become united with Christ, so that He is in us and we in Him. 3. Our faith is strengthened concerning the resurrection unto eternal life.
 
@@ -155,7 +155,7 @@ Answer: 1. Our faith is thereby strengthened and assured concerning the forgiven
 
 Answer: Not in the least; rather it is an accursed sin and idolatry when they are used to heal bodily diseases, which ought not to be allowed; but those who seek and desire such things ought to be rebuked and punished.
 
-**Is everyone free to choose whether to attend the Lord’s Supper or stay away?**
+**Is everyone free to choose whether to attend The Lord’s Supper or stay away?**
 
 Answer: By no means, for the Lord says: This do; eat and drink.
 
@@ -164,11 +164,11 @@ Answer: By no means, for the Lord says: This do; eat and drink.
 > See question 10 in this chief part.
 
 
-**How often should one receive the Lord’s Supper?**
+**How often should one receive The Lord’s Supper?**
 
 Answer: Not only once a year, but more often—as often as one’s conscience requires it for comfort and strengthening.
 
-**What moves us to go to the Lord's Supper?**
+**What moves us to go to The Lord's Supper?**
 
 Answer: 1. The command of Jesus Christ. 2. His gracious promise. 3. Our own need, weakness, and temptations, which always beset us.
 
@@ -191,7 +191,7 @@ Answer: After we have received absolution from the ministry of preaching, we oug
 
 **In conclusion, can you briefly tell me how to use all six chief parts rightly in the practice of the Christian faith?**
 
-Answer: When man has, from the ten commandments and the law of God, learned to know and to repent of his sins, he ought not to fall into doubt; but, by the guidance of the confession of faith and the gospel, straightway to flee to the merit of Jesus Christ, and by faith to make it his own and to be assured of the forgiveness of sins. Together with this he ought every day faithfully to pray to God concerning all his spiritual and bodily needs by the Lord's Prayer, which Jesus Himself has taught, ever mindful of the covenant of his baptism, in which he has promised to renounce the devil and all his works, and on the contrary to serve God in holiness and righteousness. And when he perceives that he has broken this and fallen into fault, he ought to go to confession, there to confess his sins and to pray for absolution from the ministry of preaching, to which the power is given to forgive sins on Christ's behalf; and then to go in a Christian manner to the Lord's Supper for the strengthening of his faith concerning the grace of God, the forgiveness of sins, and eternal life, which God grant unto us all graciously for Christ's sake!
+Answer: When man has, from the ten commandments and the law of God, learned to know and to repent of his sins, he ought not to fall into doubt; but, by the guidance of the confession of faith and the gospel, straightway to flee to the merit of Jesus Christ, and by faith to make it his own and to be assured of the forgiveness of sins. Together with this he ought every day faithfully to pray to God concerning all his spiritual and bodily needs by the Lord's Prayer, which Jesus Himself has taught, ever mindful of the covenant of his baptism, in which he has promised to renounce the devil and all his works, and on the contrary to serve God in holiness and righteousness. And when he perceives that he has broken this and fallen into fault, he ought to go to confession, there to confess his sins and to pray for absolution from the ministry of preaching, to which the power is given to forgive sins on Christ's behalf; and then to go in a Christian manner to The Lord's Supper for the strengthening of his faith concerning the grace of God, the forgiveness of sins, and eternal life, which God grant unto us all graciously for Christ's sake!
 
 The End. Ps. 41:14. Blessed be the Lord God of Israel from everlasting to everlasting. Amen, amen.
 
@@ -224,7 +224,7 @@ Answer: Fasting and bodily preparation is indeed a fair outward discipline; but 
 
 ### The Passover and the Institution
 
-These passages locate **the passover and the institution** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Passover and the Institution** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 17:26**
 >
@@ -239,7 +239,7 @@ These passages locate **the passover and the institution** within the whole coun
 
 ### Received from the Lord, Delivered to You
 
-These passages locate **received from the lord, delivered to you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Received from the Lord, Delivered to You** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:23-24**
 >
@@ -250,7 +250,7 @@ These passages locate **received from the lord, delivered to you** within the wh
 
 ### This Is My Body, This Is My Blood
 
-These passages locate **this is my body, this is my blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **This Is My Body, This Is My Blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 26:26-28**
 >
@@ -261,7 +261,7 @@ These passages locate **this is my body, this is my blood** within the whole cou
 
 ### By the Word All Things Were Made
 
-These passages locate **by the word all things were made** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **By the Word All Things Were Made** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Hebrews 11:3**
 >
@@ -276,7 +276,7 @@ These passages locate **by the word all things were made** within the whole coun
 
 ### A Covenant Sealed in Blood
 
-These passages locate **a covenant sealed in blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A Covenant Sealed in Blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:25**
 >
@@ -295,7 +295,7 @@ These passages locate **a covenant sealed in blood** within the whole counsel of
 
 ### The Blood of the Covenant at Sinai
 
-These passages locate **the blood of the covenant at sinai** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Blood of the Covenant at Sinai** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 24:1-11**
 >
@@ -310,7 +310,7 @@ These passages locate **the blood of the covenant at sinai** within the whole co
 
 ### A Participation in the Body and Blood
 
-These passages locate **a participation in the body and blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A Participation in the Body and Blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:16**
 >
@@ -321,7 +321,7 @@ These passages locate **a participation in the body and blood** within the whole
 
 ### Discerning the Body
 
-These passages locate **discerning the body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Discerning the Body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:27, 29**
 >
@@ -332,7 +332,7 @@ These passages locate **discerning the body** within the whole counsel of Holy S
 
 ### Bread and Wine, Body and Blood
 
-These passages locate **bread and wine, body and blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Bread and Wine, Body and Blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:21**
 >
@@ -355,7 +355,7 @@ These passages locate **bread and wine, body and blood** within the whole counse
 
 ### The Cup of Blessing, the Bread We Break
 
-These passages locate **the cup of blessing, the bread we break** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Cup of Blessing, the Bread We Break** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:16**
 >
@@ -366,7 +366,7 @@ These passages locate **the cup of blessing, the bread we break** within the who
 
 ### Guilty of the Body and Blood
 
-These passages locate **guilty of the body and blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Guilty of the Body and Blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:27**
 >
@@ -377,7 +377,7 @@ These passages locate **guilty of the body and blood** within the whole counsel 
 
 ### Proclaiming the Lord's Death
 
-These passages locate **proclaiming the lord's death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Proclaiming the Lord's Death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:26**
 >
@@ -388,7 +388,7 @@ These passages locate **proclaiming the lord's death** within the whole counsel 
 
 ### The New Covenant Promised and Given
 
-These passages locate **the new covenant promised and given** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The New Covenant Promised and Given** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:25**
 >
@@ -415,7 +415,7 @@ These passages locate **the new covenant promised and given** within the whole c
 
 ### His Words Will Not Pass Away
 
-These passages locate **his words will not pass away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **His Words Will Not Pass Away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:16**
 >
@@ -430,7 +430,7 @@ These passages locate **his words will not pass away** within the whole counsel 
 
 ### Take, Eat; Take, Drink
 
-These passages locate **take, eat; take, drink** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Take, Eat; Take, Drink** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 26:26-27**
 >
@@ -441,11 +441,11 @@ These passages locate **take, eat; take, drink** within the whole counsel of Hol
 
 ### When You Come Together
 
-These passages locate **when you come together** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **When You Come Together** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:20**
 >
-> **11:20** When ye come together therefore into one place, this is not to eat the Lord's supper.
+> **11:20** When ye come together therefore into one place, this is not to eat The Lord's Supper.
 
 > **1 Corinthians 11:33**
 >
@@ -464,7 +464,7 @@ These passages locate **when you come together** within the whole counsel of Hol
 
 ### Do This in Remembrance of Me
 
-These passages locate **do this in remembrance of me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Do This in Remembrance of Me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:24-25**
 >
@@ -475,7 +475,7 @@ These passages locate **do this in remembrance of me** within the whole counsel 
 
 ### Until He Comes
 
-These passages locate **until he comes** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Until He Comes** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:26**
 >
@@ -486,7 +486,7 @@ These passages locate **until he comes** within the whole counsel of Holy Script
 
 ### Christ Our Passover Lamb
 
-These passages locate **Christ our passover lamb** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Christ Our Passover Lamb** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 5:7**
 >
@@ -501,7 +501,7 @@ These passages locate **Christ our passover lamb** within the whole counsel of H
 
 ### He Remembers His Covenant Forever
 
-These passages locate **he remembers his covenant forever** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **He Remembers His Covenant Forever** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 111**
 >
@@ -512,7 +512,7 @@ These passages locate **he remembers his covenant forever** within the whole cou
 
 ### The Passover Lamb in Egypt
 
-These passages locate **the passover lamb in egypt** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Passover Lamb in Egypt** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Exodus 12:1-14**
 >
@@ -523,7 +523,7 @@ These passages locate **the passover lamb in egypt** within the whole counsel of
 
 ### The Blood That Makes Atonement
 
-These passages locate **the blood that makes atonement** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Blood That Makes Atonement** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 1:7**
 >
@@ -558,7 +558,7 @@ These passages locate **the blood that makes atonement** within the whole counse
 
 ### The True Bread from Heaven
 
-These passages locate **the true bread from heaven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The True Bread from Heaven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Hebrews 12:22-24**
 >
@@ -577,7 +577,7 @@ These passages locate **the true bread from heaven** within the whole counsel of
 
 ### Christ in You, Sin Undone
 
-These passages locate **Christ in you, sin undone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Christ in You, Sin Undone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 John 3:8**
 >
@@ -596,7 +596,7 @@ These passages locate **Christ in you, sin undone** within the whole counsel of 
 
 ### One Bread, One Body
 
-These passages locate **one bread, one body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **One Bread, One Body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:17**
 >
@@ -615,7 +615,7 @@ These passages locate **one bread, one body** within the whole counsel of Holy S
 
 ### Love One Another as I Have Loved You
 
-These passages locate **love one another as i have loved you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Love One Another as I Have Loved You** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 15:12**
 >
@@ -626,7 +626,7 @@ These passages locate **love one another as i have loved you** within the whole 
 
 ### A Covenant Made by Sacrifice
 
-These passages locate **a covenant made by sacrifice** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A Covenant Made by Sacrifice** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 50**
 >
@@ -637,7 +637,7 @@ These passages locate **a covenant made by sacrifice** within the whole counsel 
 
 ### Have You Still No Faith?
 
-These passages locate **have you still no faith?** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Have You Still No Faith?** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Mark 4:35-41**
 >
@@ -648,7 +648,7 @@ These passages locate **have you still no faith?** within the whole counsel of H
 
 ### According to Your Faith
 
-These passages locate **according to your faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **According to Your Faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **John 20:29**
 >
@@ -671,7 +671,7 @@ These passages locate **according to your faith** within the whole counsel of Ho
 
 ### Faith Receives What Is Given
 
-These passages locate **faith receives what is given** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Faith Receives What Is Given** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:16**
 >
@@ -690,7 +690,7 @@ These passages locate **faith receives what is given** within the whole counsel 
 
 ### You Prepare a Table Before Me
 
-These passages locate **you prepare a table before me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **You Prepare a Table Before Me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 23**
 >
@@ -701,7 +701,7 @@ These passages locate **you prepare a table before me** within the whole counsel
 
 ### The Wedding Garment
 
-These passages locate **the wedding garment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Wedding Garment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:27-28**
 >
@@ -720,7 +720,7 @@ These passages locate **the wedding garment** within the whole counsel of Holy S
 
 ### Godly Grief and True Repentance
 
-These passages locate **godly grief and true repentance** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Godly Grief and True Repentance** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **2 Corinthians 7:10-11**
 >
@@ -735,7 +735,7 @@ These passages locate **godly grief and true repentance** within the whole couns
 
 ### Given and Poured Out for You
 
-These passages locate **given and poured out for you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Given and Poured Out for You** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Luke 22:19-20**
 >
@@ -746,7 +746,7 @@ These passages locate **given and poured out for you** within the whole counsel 
 
 ### No Longer Letting Sin Reign
 
-These passages locate **no longer letting sin reign** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **No Longer Letting Sin Reign** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Ephesians 4:22-24**
 >
@@ -761,7 +761,7 @@ These passages locate **no longer letting sin reign** within the whole counsel o
 
 ### A Bruised Reed He Will Not Break
 
-These passages locate **a bruised reed he will not break** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **A Bruised Reed He Will Not Break** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Isaiah 42:3**
 >
@@ -780,7 +780,7 @@ These passages locate **a bruised reed he will not break** within the whole coun
 
 ### The Works of the Flesh
 
-These passages locate **the works of the flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **The Works of the Flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Galatians 5:19-21**
 >
@@ -799,7 +799,7 @@ These passages locate **the works of the flesh** within the whole counsel of Hol
 
 ### Preparing to Receive Him
 
-These passages locate **preparing to receive him** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Preparing to Receive Him** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Matthew 26:17**
 >
@@ -814,7 +814,7 @@ These passages locate **preparing to receive him** within the whole counsel of H
 
 ### Let a Person Examine Himself
 
-These passages locate **let a person examine himself** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Let a Person Examine Himself** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 11:28**
 >
@@ -825,7 +825,7 @@ These passages locate **let a person examine himself** within the whole counsel 
 
 ### Communing in One Confession
 
-These passages locate **communing in one confession** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Communing in One Confession** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:17**
 >
@@ -852,7 +852,7 @@ These passages locate **communing in one confession** within the whole counsel o
 
 ### You Cannot Share Two Tables
 
-These passages locate **you cannot share two tables** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **You Cannot Share Two Tables** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:20-21**
 >
@@ -867,7 +867,7 @@ These passages locate **you cannot share two tables** within the whole counsel o
 
 ### Coming in Love and Forgiveness
 
-These passages locate **coming in love and forgiveness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **Coming in Love and Forgiveness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **1 Corinthians 10:17**
 >
@@ -890,7 +890,7 @@ These passages locate **coming in love and forgiveness** within the whole counse
 
 ### I Will Lift Up the Cup of Salvation
 
-These passages locate **i will lift up the cup of salvation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **I Will Lift Up the Cup of Salvation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 > **Psalm 116**
 >
@@ -899,7 +899,7 @@ These passages locate **i will lift up the cup of salvation** within the whole c
 
 ## Bible narratives
 
-### The word heard
+### The Word heard
 Read John 17:26 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
@@ -911,7 +911,7 @@ Read Matthew 26:17-30. Attend to the actual persons, actions, and outcome named 
 Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the Evangelical Faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 
