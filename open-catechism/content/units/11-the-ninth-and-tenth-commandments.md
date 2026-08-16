@@ -7,7 +7,6 @@ title: "Contentment and Holy Desire: The Ninth and Tenth Commandments"
 ---
 
 
-> Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 
 ## Svebilius and Luther
 

@@ -7,7 +7,6 @@ title: "For Thine Is the Kingdom: The Conclusion"
 ---
 
 
-> Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 
 ## Svebilius and Luther
 

@@ -7,7 +7,6 @@ title: "Our Neighbor’s Property: The Seventh Commandment"
 ---
 
 
-> Scripture quotations use a KJV-based reading text with Divine Name and terminology concordance. Added editorial material is marked “Laine addition.”
 
 ## Svebilius and Luther
 
