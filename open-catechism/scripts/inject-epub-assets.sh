@@ -10,6 +10,16 @@ mkdir -p "$stage/OEBPS/assets"
 cp -R assets/art "$stage/OEBPS/assets/"
 sed -i '' 's|src="/assets/|src="assets/|g' "$stage/OEBPS/book.xhtml"
 
+image_items=
+for image in assets/art/unit-*.jpg; do
+  base=$(basename "$image")
+  id=$(basename "$image" .jpg | tr '-' '_')
+  image_items="${image_items}<item id=\"${id}\" href=\"assets/art/${base}\" media-type=\"image/jpeg\"/>"
+done
+awk -v items="$image_items" '{ sub(/<\/manifest>/, items "</manifest>"); print }' "$stage/OEBPS/content.opf" > "$stage/OEBPS/content.opf.new"
+mv -f "$stage/OEBPS/content.opf.new" "$stage/OEBPS/content.opf"
+xmllint --noout "$stage/OEBPS/content.opf"
+
 output="$stage/rebuilt.epub"
 (
   cd "$stage"

@@ -208,6 +208,18 @@ title: "The Means of Grace"
 > **18:18** Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.
 
 
+## Story and sacred art
+
+### The Church Continues in Christ’s Gifts
+
+Those baptized at Pentecost continued in the apostles’ doctrine and fellowship, the breaking of bread, and prayers (Acts 2:41–42). Christ gathered His people through gifts that were heard, received, shared, and prayed.
+
+<figure>
+
+![John dictates the Gospel to Prochoros in an Armenian manuscript portrait.](/assets/art/unit-27-john-prochoros.jpg)
+<figcaption>John and Prochoros in a 1455 Armenian Gospel.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -252,4 +264,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

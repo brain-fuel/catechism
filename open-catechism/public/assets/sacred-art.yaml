@@ -1,0 +1,56 @@
+policy:
+  purpose: Pair one documented story with one historic sacred artwork in every unit.
+  selection: Prefer African, Middle Eastern, and early Christian witnesses; use European works only where a clear licensed witness was not available in the preferred traditions.
+  accepted_licenses: [Public Domain, CC0 1.0]
+  reviewed: true
+
+collections:
+  armenian_w540:
+    description: Armenian Gospel made near Lake Van in 1475; manuscript images digitized by the Walters Art Museum.
+    source: https://commons.wikimedia.org/wiki/Category:Walters_MS_W540_-_Armenian_Gospels_of_1475
+    license: CC0 1.0
+  armenian_w543:
+    description: Armenian Gospel made at Xizan in 1455, written by Yohannēs Vardapet and illuminated by the priest Xačʿatur.
+    source: https://commons.wikimedia.org/wiki/Category:Walters_MS_W543_-_Gospel
+    license: CC0 1.0
+  walters_ethiopian:
+    description: Ethiopian Christian manuscripts and church paintings digitized by the Walters Art Museum.
+    source: https://commons.wikimedia.org/wiki/Category:Christian_art_of_Ethiopia_in_the_Walters_Art_Museum
+    license: Public Domain
+
+assets:
+  - {unit: 1, file: art/unit-01-gospels.jpg, title: Leaf from the Gunda Gunde Gospels, tradition: Ethiopian, license: Public Domain}
+  - {unit: 2, file: art/unit-02-red-sea.jpg, title: Archangel Michael and the Crossing of the Red Sea, tradition: Ethiopian, license: Public Domain}
+  - {unit: 3, file: art/unit-03-burning-bush-dura.jpg, title: Moses and the Burning Bush, tradition: Jewish—Dura-Europos, license: Public Domain, source: "https://commons.wikimedia.org/wiki/File:DuraSyn-I-O-Moses_burning_bush.jpg"}
+  - {unit: 4, file: art/unit-04-burning-bush-finland.jpg, title: The Burning Bush, tradition: Finnish, creator: Mikael Toppelius, license: Public Domain, source: "https://commons.wikimedia.org/wiki/File:Mikael_Toppelius_-_Burning_Bush.jpg"}
+  - {unit: 5, file: art/unit-05-creation.jpg, title: Adam and Eve in Paradise, tradition: Armenian, license: Public Domain, source: "https://commons.wikimedia.org/wiki/File:ِAdam_and_Eve_in_Paradis,_1643-1646.jpg"}
+  - {unit: 6, file: art/unit-06-presentation.jpg, title: Presentation in the Temple, collection: armenian_w543}
+  - {unit: 7, file: art/unit-07-good-samaritan.jpg, title: The Good Samaritan, tradition: Byzantine—Rossano Gospels, license: Public Domain, source: "https://commons.wikimedia.org/wiki/File:RossanoGospelsFolio007vGoodSamaritan.jpg"}
+  - {unit: 8, file: art/unit-08-cana.jpg, title: Marriage Feast at Cana, collection: armenian_w543}
+  - {unit: 9, file: art/unit-09-vineyard.jpg, title: Parable of the Vineyard, collection: armenian_w540}
+  - {unit: 10, file: art/unit-10-healing-blind.jpg, title: Christ Healing the Blind Man, collection: armenian_w540}
+  - {unit: 11, file: art/unit-11-naboth.jpg, title: Naboth in His Vineyard, creator: James Smetham, license: Public Domain, source: "https://commons.wikimedia.org/wiki/File:James_Smetham_(1821-1889)_-_Naboth_in_his_Vineyard_-_N03203_-_National_Gallery.jpg"}
+  - {unit: 12, file: art/unit-12-weighing-souls.jpg, title: Weighing of Souls, collection: armenian_w540}
+  - {unit: 13, file: art/unit-13-christ-scribe.jpg, title: Christ the Donor and the Scribe, tradition: Armenian, creator: Sargis Pitsak, license: Public Domain, source: "https://commons.wikimedia.org/wiki/File:Christ,_the_donor_and_the_scribe_(CBL_Arm_614,_f.13v).jpg"}
+  - {unit: 14, file: art/unit-14-adam-eve.jpg, title: Adam and Eve, tradition: Armenian—New Julfa, license: CC0 1.0}
+  - {unit: 15, file: art/unit-15-ethiopian-gospels.jpg, title: Leaf from the Gunda Gunde Gospels, tradition: Ethiopian, license: Public Domain}
+  - {unit: 16, file: art/unit-16-pentecost.jpg, title: Pentecost, collection: armenian_w543}
+  - {unit: 17, file: art/unit-17-matthew.jpg, title: Evangelist Matthew, collection: armenian_w540}
+  - {unit: 18, file: art/unit-18-presentation.jpg, title: Presentation in the Temple, collection: armenian_w540}
+  - {unit: 19, file: art/unit-19-transfiguration.jpg, title: The Transfiguration, collection: armenian_w543}
+  - {unit: 20, file: art/unit-20-lazarus.jpg, title: The Raising of Lazarus, collection: armenian_w540}
+  - {unit: 21, file: art/unit-21-gethsemane.jpg, title: Christ in Gethsemane, tradition: Armenian, license: CC0 1.0}
+  - {unit: 22, file: art/unit-22-feeding.jpg, title: Christ Feeding the Multitude, tradition: Coptic, license: Public Domain, source: "https://commons.wikimedia.org/wiki/File:Christ_feeding_the_multitude.jpg"}
+  - {unit: 23, file: art/unit-23-prodigal.jpg, title: The Return of the Prodigal Son, creator: Rembrandt van Rijn, license: Public Domain, source: "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg"}
+  - {unit: 24, file: art/unit-24-temptations.jpg, title: The Three Temptations of Christ, creator: Sandro Botticelli, license: Public Domain, source: "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Three_Temptations_of_Christ_-_WGA2755.jpg"}
+  - {unit: 25, file: art/unit-25-harrowing.jpg, title: The Harrowing of Hell, collection: armenian_w543}
+  - {unit: 26, file: art/unit-26-ascension.jpg, title: The Ascension, collection: armenian_w543}
+  - {unit: 27, file: art/unit-27-john-prochoros.jpg, title: John and Prochoros, collection: armenian_w543}
+  - {unit: 28, file: art/unit-28-baptism-armenian.jpg, title: The Baptism of Christ, collection: armenian_w540}
+  - {unit: 29, file: art/unit-29-baptism-xizan.jpg, title: The Baptism of Christ, collection: armenian_w543}
+  - {unit: 30, file: art/unit-30-resurrection-ethiopian.jpg, title: Christ’s Resurrection, tradition: Ethiopian, creator: Mätre Krestos, license: Public Domain, source: "https://commons.wikimedia.org/wiki/File:Mätre_Krestos_-_Christ%27s_Resurrection,_flanked_by_two_women_-_Google_Art_Project.jpg"}
+  - {unit: 31, file: art/unit-31-women-tomb.jpg, title: Holy Women at the Tomb, collection: armenian_w540}
+  - {unit: 32, file: art/unit-32-peter-denial.jpg, title: Peter’s Denial, collection: armenian_w543}
+  - {unit: 33, file: art/unit-33-last-supper.jpg, title: The Last Supper, tradition: Armenian, license: Public Domain, source: "https://commons.wikimedia.org/wiki/File:Matenadaran_Gospel313_Last_Supper.jpg"}
+  - {unit: 34, file: art/unit-34-sensul.jpg, title: Ethiopic Psalter with Canticles and Prayers, tradition: Ethiopian, license: CC0 1.0, source: "https://commons.wikimedia.org/wiki/File:Illuminated_Manuscript,_Ethiopic_Psalter_with_Canticles,_Song_of_Songs,_and_Two_hymns_in_Praise_of_Mary,_Walters_Art_Museum_W.768,_Upper_board_outside.jpg"}
+  - {unit: 35, file: art/unit-35-washing-feet.jpg, title: Christ Washing the Disciples’ Feet, collection: armenian_w540}

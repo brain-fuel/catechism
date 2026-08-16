@@ -275,6 +275,18 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 > **8:1** O Yahweh our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens. **8:2** Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger. **8:3** When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained; **8:4** What is man, that thou art mindful of him? and the son of man, that thou visitest him? **8:5** For thou hast made him a little lower than the angels, and hast crowned him with glory and honour. **8:6** Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet: **8:7** All sheep and oxen, yea, and the beasts of the field; **8:8** The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas. **8:9** O Yahweh our Lord, how excellent is thy name in all the earth!
 
 
+## Story and sacred art
+
+### The Father Names His Beloved Son
+
+Jesus was transfigured before Peter, James, and John, and the Father declared Him the beloved Son whom they must hear (Matthew 17:1–8). God hallows His Name by revealing His Son and directing faith to His Word.
+
+<figure>
+
+![Christ shines between Moses and Elijah as the disciples fall below in an Armenian illumination.](/assets/art/unit-19-transfiguration.jpg)
+<figcaption>The Transfiguration in a 1455 Armenian Gospel.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -319,4 +331,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

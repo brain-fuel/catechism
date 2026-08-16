@@ -430,6 +430,18 @@ Answer: Two things: the Law and the Gospel.
 > **11:28** But let a man examine himself, and so let him eat of that bread, and drink of that cup.
 
 
+## Story and sacred art
+
+### The Gospel Reaches Ethiopia
+
+Acts 8:26–39 tells how Philip met an Ethiopian court official reading Isaiah. Philip preached Jesus from that Scripture, and when they came to water the man asked to be baptized.
+
+<figure>
+
+![An open Ethiopian Gospel manuscript with painted sacred figures and Geʽez text.](/assets/art/unit-01-gospels.jpg)
+<figcaption>An Ethiopian Gospel leaf bears witness to an ancient African tradition of receiving and proclaiming Christ’s Word.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -482,4 +494,4 @@ recorded here as policy controls and in the Divine Name appendix.
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

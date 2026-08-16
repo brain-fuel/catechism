@@ -454,6 +454,18 @@ Answer: God threatens to punish all who break and transgress these His commandme
 > **7:14** For we know that the law is spiritual: but I am carnal, sold under sin. **7:15** For that which I do I allow not: for what I would, that do I not; but what I hate, that do I. **7:16** If then I do that which I would not, I consent unto the law that it is good. **7:17** Now then it is no more I that do it, but sin that dwelleth in me. **7:18** For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not. **7:19** For the good that I would I do not: but the evil which I would not, that I do. **7:20** Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me. **7:21** I find then a law, that, when I would do good, evil is present with me. **7:22** For I delight in the Law of God after the inward man: **7:23** But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members. **7:24** O wretched man that I am! who shall deliver me from the body of this death? **7:25** I thank God through Jesus Christ our Lord. So then with the mind I myself serve the Law of God; but with the flesh the law of sin.
 
 
+## Story and sacred art
+
+### Yahweh Brings Israel Through the Sea
+
+In Exodus 14, Israel stood trapped between Pharaoh’s army and the sea. Yahweh opened a way through the waters, brought His people safely across, and overthrew the force that sought to return them to bondage.
+
+<figure>
+
+![An Ethiopian church painting shows Moses, Miriam, Israel, and Pharaoh’s army at the Red Sea.](/assets/art/unit-02-red-sea.jpg)
+<figcaption>The crossing of the Red Sea in a nineteenth-century Ethiopian church painting.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -498,4 +510,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

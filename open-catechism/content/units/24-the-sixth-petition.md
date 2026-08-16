@@ -280,6 +280,18 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 > **91:1** He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. **91:2** I will say of Yahweh, He is my refuge and my fortress: my God; in him will I trust. **91:3** Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence. **91:4** He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler. **91:5** Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day; **91:6** Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday. **91:7** A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee. **91:8** Only with thine eyes shalt thou behold and see the reward of the wicked. **91:9** Because thou hast made Yahweh, which is my refuge, even the most High, thy habitation; **91:10** There shall no evil befall thee, neither shall any plague come nigh thy dwelling. **91:11** For he shall give his angels charge over thee, to keep thee in all thy ways. **91:12** They shall bear thee up in their hands, lest thou dash thy foot against a stone. **91:13** Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet. **91:14** Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name. **91:15** He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him. **91:16** With long life will I satisfy him, and shew him my salvation.
 
 
+## Story and sacred art
+
+### Jesus Resists the Tempter
+
+Jesus was tempted to distrust His Father, seek spectacle, and grasp worldly rule (Matthew 4:1–11). He answered each temptation with Holy Scripture and worshiped Yahweh alone.
+
+<figure>
+
+![Several moments from Christ’s temptation appear together in a Renaissance fresco.](/assets/art/unit-24-temptations.jpg)
+<figcaption>The temptations of Christ, painted by Sandro Botticelli for the Sistine Chapel.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -324,4 +336,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

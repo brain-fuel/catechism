@@ -274,6 +274,18 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 > **43:1** Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man. **43:2** For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy? **43:3** O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles. **43:4** Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God. **43:5** Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God.
 
 
+## Story and sacred art
+
+### The Crucified Christ Is Raised
+
+The women came expecting to find Jesus’ body, but heard that the crucified One had risen (Matthew 28:1–10). Baptism’s power is not bare water or human resolve; it rests in the living Christ’s death and resurrection.
+
+<figure>
+
+![The risen Christ stands between two women in an Ethiopian painting.](/assets/art/unit-30-resurrection-ethiopian.jpg)
+<figcaption>Christ’s resurrection painted by the Ethiopian artist Mätre Krestos.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -318,4 +330,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

@@ -637,6 +637,18 @@ Answer: God threatens to punish all who break and transgress these His commandme
 > **1:1** Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. **1:2** But his delight is in the law of Yahweh; and in his law doth he meditate day and night. **1:3** And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper. **1:4** The ungodly are not so: but are like the chaff which the wind driveth away. **1:5** Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous. **1:6** For Yahweh knoweth the way of the righteous: but the way of the ungodly shall perish.
 
 
+## Story and sacred art
+
+### Moses Before the Burning Bush
+
+In Exodus 3:1–6, Moses turned aside to see the bush that burned without being consumed. God called him by name and declared Himself the God of Abraham, Isaac, and Jacob; Moses hid his face before Him.
+
+<figure>
+
+![Moses stands before the burning bush in a painted panel from the ancient Dura-Europos synagogue.](/assets/art/unit-03-burning-bush-dura.jpg)
+<figcaption>Moses and the burning bush, from the third-century Dura-Europos synagogue.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -681,4 +693,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

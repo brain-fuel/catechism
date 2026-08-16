@@ -254,6 +254,18 @@ Answer: I believe and confess that I cannot by my own reason or strength believe
 > **4:4** But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, **4:5** To redeem them that were under the law, that we might receive the adoption of sons. **4:6** And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
 
 
+## Story and sacred art
+
+### The Ethiopian Confesses Christ
+
+Philip began with Isaiah and preached Jesus to the Ethiopian traveler (Acts 8:30–39). Hearing the Gospel, the man asked for Baptism and went on his way rejoicing.
+
+<figure>
+
+![Christ blesses an Armenian manuscript’s donor and scribe.](/assets/art/unit-13-christ-scribe.jpg)
+<figcaption>Christ, a donor, and a scribe in a 1342 Armenian Gospel illuminated by Sargis Pitsak.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -298,4 +310,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

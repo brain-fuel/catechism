@@ -437,6 +437,18 @@ Answer: That I should be certain that such petitions are acceptable to our heave
 > **6:7** But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking. **6:8** Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him. **6:9** After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name. **6:10** Thy kingdom come. Thy will be done in earth, as it is in heaven. **6:11** Give us this day our daily bread. **6:12** And forgive us our debts, as we forgive our debtors. **6:13** And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 
+## Story and sacred art
+
+### Jesus Teaches His Disciples to Pray
+
+When a disciple asked Jesus to teach them to pray, He gave them the words beginning, “Our Father” (Luke 11:1–4). Christian prayer rests on Christ’s command and promise.
+
+<figure>
+
+![The Evangelist Matthew sits with his Gospel book in an Armenian manuscript portrait.](/assets/art/unit-17-matthew.jpg)
+<figcaption>Saint Matthew in a 1475 Armenian Gospel.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -481,4 +493,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

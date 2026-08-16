@@ -566,6 +566,18 @@ Answer: God threatens to punish all who break and transgress these His commandme
 > **14:1** The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good. **14:2** Yahweh looked down from heaven upon the children of men, to see if there were any that did understand, and seek God. **14:3** They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one. **14:4** Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon Yahweh. **14:5** There were they in great fear: for God is in the generation of the righteous. **14:6** Ye have shamed the counsel of the poor, because Yahweh is his refuge. **14:7** Oh that the salvation of Israel were come out of Zion! when Yahweh bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.
 
 
+## Story and sacred art
+
+### Life and Death Set Before Israel
+
+Moses set before Israel life and good, death and evil, and called the people to love Yahweh and walk in His ways (Deuteronomy 30:15–20). The warning is real, yet the God who commands also binds His people to His promise.
+
+<figure>
+
+![An Armenian Gospel illumination depicts souls being weighed at the judgment.](/assets/art/unit-12-weighing-souls.jpg)
+<figcaption>The weighing of souls in a 1475 Armenian Gospel.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -610,4 +622,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

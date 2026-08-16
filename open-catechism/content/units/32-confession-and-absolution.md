@@ -684,6 +684,18 @@ I, a poor sinful man, who am conceived and born in sin, and have all the days of
 > **40:1** I waited patiently for Yahweh; and he inclined unto me, and heard my cry. **40:2** He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings. **40:3** And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in Yahweh. **40:4** Blessed is that man that maketh Yahweh his trust, and respecteth not the proud, nor such as turn aside to lies. **40:5** Many, O Yahweh my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered. **40:6** Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required. **40:7** Then said I, Lo, I come: in the volume of the book it is written of me, **40:8** I delight to do thy will, O my God: yea, thy law is within my heart. **40:9** I have preached righteousness in the great congregation: lo, I have not refrained my lips, O Yahweh, thou knowest. **40:10** I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation. **40:11** Withhold not thou thy tender mercies from me, O Yahweh: let thy lovingkindness and thy truth continually preserve me. **40:12** For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me. **40:13** Be pleased, O Yahweh, to deliver me: O Yahweh, make haste to help me. **40:14** Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil. **40:15** Let them be desolate for a reward of their shame that say unto me, Aha, aha. **40:16** Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, Yahweh be magnified. **40:17** But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God.
 
 
+## Story and sacred art
+
+### Peter Falls and Is Restored
+
+Peter denied Jesus three times and went out weeping bitterly (Luke 22:54–62). After the resurrection, Jesus entrusted His sheep to him and called him again to follow (John 21:15–19).
+
+<figure>
+
+![An Armenian illumination gathers Christ’s betrayal, Peter’s violence, and Peter’s denial.](/assets/art/unit-32-peter-denial.jpg)
+<figcaption>Peter’s denial within the Passion cycle of a 1455 Armenian Gospel.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -728,4 +740,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

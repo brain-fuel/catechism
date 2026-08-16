@@ -528,6 +528,18 @@ Answer: God threatens to punish all who break and transgress these His commandme
 > **135:1** Hallelujah. Praise ye the name of Yahweh; praise him, O ye servants of Yahweh. **135:2** Ye that stand in the house of Yahweh, in the courts of the house of our God, **135:3** Praise Yahweh; for Yahweh is good: sing praises unto his name; for it is pleasant. **135:4** For Yahweh hath chosen Jacob unto himself, and Israel for his peculiar treasure. **135:5** For I know that Yahweh is great, and that our Lord is above all gods. **135:6** Whatsoever Yahweh pleased, that did he in heaven, and in earth, in the seas, and all deep places. **135:7** He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries. **135:8** Who smote the firstborn of Egypt, both of man and beast. **135:9** Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants. **135:10** Who smote great nations, and slew mighty kings; **135:11** Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan: **135:12** And gave their land for an heritage, an heritage unto Israel his people. **135:13** Thy name, O Yahweh, endureth for ever; and thy memorial, O Yahweh, throughout all generations. **135:14** For Yahweh will judge his people, and he will repent himself concerning his servants. **135:15** The idols of the heathen are silver and gold, the work of men’s hands. **135:16** They have mouths, but they speak not; eyes have they, but they see not; **135:17** They have ears, but they hear not; neither is there any breath in their mouths. **135:18** They that make them are like unto them: so is every one that trusteth in them. **135:19** Bless Yahweh, O house of Israel: bless Yahweh, O house of Aaron: **135:20** Bless Yahweh, O house of Levi: ye that fear Yahweh, bless Yahweh. **135:21** Blessed be Yahweh out of Zion, which dwelleth at Jerusalem. Hallelujah.
 
 
+## Story and sacred art
+
+### God Reveals His Holy Name
+
+At the bush, God sent Moses to Israel and disclosed the Name by which He would be remembered throughout generations (Exodus 3:13–15). That Name was given for faith, proclamation, prayer, and praise.
+
+<figure>
+
+![Moses kneels before the burning bush in a historic Finnish church painting.](/assets/art/unit-04-burning-bush-finland.jpg)
+<figcaption>The burning bush painted by the Finnish church artist Mikael Toppelius.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -572,4 +584,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

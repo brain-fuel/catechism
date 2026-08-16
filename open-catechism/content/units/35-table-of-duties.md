@@ -256,6 +256,18 @@ For the Common People. All things whatsoever you would that men should do to you
 > **13:9** For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.
 
 
+## Story and sacred art
+
+### The Lord Washes His Disciples’ Feet
+
+Jesus rose from supper, laid aside His garments, and washed His disciples’ feet (John 13:1–17). Their Lord and Teacher took a servant’s task and commanded them to serve one another.
+
+<figure>
+
+![Christ kneels to wash a disciple’s feet in an Armenian Gospel illumination.](/assets/art/unit-35-washing-feet.jpg)
+<figcaption>Christ washing the disciples’ feet in a 1475 Armenian Gospel.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -300,4 +312,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.

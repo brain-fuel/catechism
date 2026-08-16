@@ -397,6 +397,18 @@ Answer: God threatens to punish all who break and transgress these His commandme
 > **112:1** Hallelujah. Blessed is the man that feareth Yahweh, that delighteth greatly in his commandments. **112:2** His seed shall be mighty upon earth: the generation of the upright shall be blessed. **112:3** Wealth and riches shall be in his house: and his righteousness endureth for ever. **112:4** Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous. **112:5** A good man sheweth favour, and lendeth: he will guide his affairs with discretion. **112:6** Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance. **112:7** He shall not be afraid of evil tidings: his heart is fixed, trusting in Yahweh. **112:8** His heart is established, he shall not be afraid, until he see his desire upon his enemies. **112:9** He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour. **112:10** The wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish.
 
 
+## Story and sacred art
+
+### The Householder Pays His Laborers
+
+In Matthew 20:1–16, a householder hired workers for his vineyard and at evening paid what he had promised. The field, labor, and wages remained under his just administration.
+
+<figure>
+
+![A vineyard owner and laborers appear in an Armenian Gospel illumination.](/assets/art/unit-09-vineyard.jpg)
+<figcaption>The parable of the vineyard in a 1475 Armenian Gospel.</figcaption>
+</figure>
+
 ## Bible narratives
 
 ### The Word heard
@@ -441,4 +453,4 @@ Picture a household gathered without spectacle: one reads the fixed text, anothe
 
 - Church narratives: Martin Luther, *Small Catechism*, Preface (1529); *The Augsburg Confession* (1530), public-domain historical texts.
 
-- Illustration: Open Catechism generated linocut, 2026-08-16; prompt and provenance in `assets/manifest.yaml`.
+- Sacred art: Historic Public Domain or CC0 work; unit mapping, cultural tradition, source, and license are recorded in `assets/sacred-art.yaml`.
