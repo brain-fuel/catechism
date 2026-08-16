@@ -9,109 +9,109 @@ title: "Holy Communion"
 
 
 
-**1. Why is it called the Sacrament of the Altar?**
+**Why is it called the Sacrament of the Altar?**
 
 Answer: Because, by ancient Christian custom, it is held before the altar, or at such tables as in appearance are of the form of the altars of old.
 
-**2. Why is it called the Lord's Supper?**
+**Why is it called the Lord's Supper?**
 
 Answer: Because the Lord Jesus instituted this high meal by night, after He had eaten the paschal lamb, a little before He went to His death. It is also called the table of God or of the Lord, for at it are set forth high and heavenly dishes, as it is called the Mass in the Augsburg Confession, but not according to the faith of the papists. 1 Cor. 11:20. When ye come together therefore into one place, this is not to eat the Lord's Supper. 1 Cor. 10:21. Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord's table, and of the table of devils.
 
-**3. What is the Sacrament of the Altar?**
+**What is the Sacrament of the Altar?**
 
 Answer: It is the second sacrament of the New Testament, ordained and instituted by our Lord Christ, in which He, in an unsearchable manner, gives us with the blessed bread His true body to eat, and with the blessed wine His blood to drink, that we, being thus united with Christ, may call to remembrance His passion and death for the strengthening of our faith and the amendment of our life.
 
-**4. What is present in this Supper?**
+**What is present in this Supper?**
 
 Answer: Two kinds of things: visible and invisible.
 
-**5. What are the visible elements?**
+**What are the visible elements?**
 
 Answer: The bread and the wine.
 
-**6. What are the invisible gifts?**
+**What are the invisible gifts?**
 
 Answer: The body and blood of Christ.
 
-**7. What, then, do you receive in this Holy Supper?**
+**What, then, do you receive in this Holy Supper?**
 
 Answer: In the bread, with the bread, under the bread, I receive and take with my mouth the true body of Christ, that is, His flesh; and with the wine, the blood of Christ. 1 Cor. 10:16. The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
 
-**8. Why is it called the blood of the New Testament?**
+**Why is it called the blood of the New Testament?**
 
 Answer: To distinguish it from the blood of the Levitical, or Old Testament, sacrifices, which were only a shadow and figure of the blood of Jesus Christ the Son of God. Heb. 9:12. Neither by the blood of goats and calves, but by His own blood He entered in once into the holy place, having obtained eternal redemption.
 
-**9. How is it possible for Christ to give us His body and blood to eat and drink?**
+**How is it possible for Christ to give us His body and blood to eat and drink?**
 
 Answer: With God nothing is impossible. Although we can neither search out nor comprehend this mystery, yet we ought, as true Christians, simply to believe it, for this reason: that our Lord Christ, who has said it, is the true and almighty Lord, who is able to do it. Luke 1:37. The angel said unto Mary: For with God nothing shall be impossible. Eph. 3:20. God is able to do exceeding abundantly above all that we ask or think. Heb. 6:16. It is impossible for God to lie.
 
-**10. What kind of eating and drinking takes place in the Lord’s Supper?**
+**What kind of eating and drinking takes place in the Lord’s Supper?**
 
 Answer: In the Lord's Supper a threefold eating and drinking takes place. 1. Natural and ordinary eating and drinking, when the bread and wine are taken into the mouth, swallowed, and consumed in the stomach. 2. Spiritual eating and drinking, which takes place by faith in the grace of God and in the merit of Jesus Christ. 3. Sacramental, which takes place in an incomprehensible and unsearchable manner, when all the guests, unworthy as well as worthy, receive with their mouth in the Supper the true body and blood of Christ, under the bread and wine. And this eating and drinking takes place especially in the Lord's Supper. John 6:47-51. Verily, verily, I say unto you, He that believeth on me hath everlasting life. I am that bread of life. Your fathers did eat manna in the wilderness, and are dead. This is the bread which came down from heaven, that a man may eat thereof, and not die. I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world. 1 Cor. 11:23-26. The Lord Jesus the same night in which He was betrayed took bread: and when He had given thanks, He brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me. After the same manner also He took the cup, when He had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me. For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till He come.
 
-**11. What is the difference between spiritual and sacramental eating and drinking?**
+**What is the difference between spiritual and sacramental eating and drinking?**
 
 Answer: The difference is in this: 1. That the sacramental eating and drinking takes place only in the congregation of the New Testament; but the spiritual is held in all ages, both in the Old and in the New
 
 Testament. 2. The sacramental is received with the mouth, in the bread and wine, in the Supper; but the spiritual by faith, both in the Supper and apart from the Supper. 3. The sacramental is received by the ungodly as well as by the godly, but the spiritual only by the godly and worthy guests.
 
-**12. Does anyone benefit from coming to the Lord’s table without faith—that is, without spiritual eating and drinking?**
+**Does anyone benefit from coming to the Lord’s table without faith—that is, without spiritual eating and drinking?**
 
 Answer: No. Without faith, or without the spiritual eating and drinking, the sacramental eating and drinking that takes place in the Supper avails nothing: but it turns to the receiver rather to judgment than to salvation.
 
-**13. Are the body and blood of Christ in or with the bread and wine even when no one eats or drinks them?**
+**Are the body and blood of Christ in or with the bread and wine even when no one eats or drinks them?**
 
 Answer: No. The bread is nothing but bread, and the wine is nothing but wine, neither before nor after, or apart from the celebration and receiving of the Supper.
 
-**14. How, then, do we receive and partake of the body and blood of Jesus?**
+**How, then, do we receive and partake of the body and blood of Jesus?**
 
 Answer: In this way: that the blessed bread and wine are distributed, taken, eaten, and drunk in the Supper.
 
-**15. Is it right to say that the bread and wine signify the body and blood of Christ?**
+**Is it right to say that the bread and wine signify the body and blood of Christ?**
 
 Answer: No. For our Lord Christ has not in the Supper given us His body and blood as bare signs of things absent, but the very substance, namely, His true body and blood.
 
-**16. Do the bread and wine, then, change into the body and blood of Christ?**
+**Do the bread and wine, then, change into the body and blood of Christ?**
 
 Answer: By no means; but they are and remain bread and wine in the very receiving of the Supper; yet by the power of the sacramental union the true body and blood of Christ are truly received in the Supper, in the bread and wine, under the bread and wine, and with the bread and wine.
 
-**17. How is this confirmed by the Word of God?**
+**How is this confirmed by the Word of God?**
 
 Answer: The apostle Paul calls it bread and wine after it has been blessed, saying: the bread which we break is the communion of the body of Christ, and the cup of blessing which we bless is the communion of the blood of Christ. 1 Cor. 10:16. See question 7 in this chief part.
 
-**18. Why has Christ instituted the Supper?**
+**Why has Christ instituted the Supper?**
 
 Answer: That we in humility might remember and proclaim those great good deeds which He has done and shown us by His passion, and might thank Him for them. Luke 22:19. Jesus took bread, and gave thanks, and brake it, and gave it to them, saying, This is my body which is given for you: this do in remembrance of me. 1 Cor. 11:26. As often as ye eat this bread, and drink this cup, ye do shew the Lord's death till He come.
 
-**19. What benefits does the Lord’s Supper give us?**
+**What benefits does the Lord’s Supper give us?**
 
 Answer: 1. Our faith is thereby strengthened and assured concerning the forgiveness of sins. 2. We become united with Christ, so that He is in us and we in Him. 3. Our faith is strengthened concerning the resurrection unto eternal life. Matt. 26:28. This is my blood of the new testament, which is shed for many for the remission of sins. Gal. 2:20. I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
 
-**20. Apart from the celebration of the Supper, do the consecrated bread and wine possess any hidden power, whether through contact or otherwise, beyond that of ordinary bread and wine?**
+**Apart from the celebration of the Supper, do the consecrated bread and wine possess any hidden power, whether through contact or otherwise, beyond that of ordinary bread and wine?**
 
 Answer: Not in the least; rather it is an accursed sin and idolatry when they are used to heal bodily diseases, which ought not to be allowed; but those who seek and desire such things ought to be rebuked and punished.
 
-**21. Is everyone free to choose whether to attend the Lord’s Supper or stay away?**
+**Is everyone free to choose whether to attend the Lord’s Supper or stay away?**
 
 Answer: By no means, for the Lord says: This do; eat and drink. 1 Cor. 11:25,26. See question 10 in this chief part.
 
-**22. How often should one receive the Lord’s Supper?**
+**How often should one receive the Lord’s Supper?**
 
 Answer: Not only once a year, but more often—as often as one’s conscience requires it for comfort and strengthening.
 
-**23. What moves us to go to the Lord's Supper?**
+**What moves us to go to the Lord's Supper?**
 
 Answer: 1. The command of Jesus Christ. 2. His gracious promise. 3. Our own need, weakness, and temptations, which always beset us.
 
-**24. Who are worthy and unworthy guests at this Holy Supper?**
+**Who are worthy and unworthy guests at this Holy Supper?**
 
 Answer: The fit and worthy guests are those who examine themselves, whether they understand for what this holy observance is fitted: 1. Whether they repent from their heart of the sins they have committed. 2. Whether they firmly believe that God, for Christ's sake, forgives them their sins, and confirms this by the holy Supper. 3. Whether they have a heart at peace toward their neighbour; and 4, a true and firm intention and will to amend their life. But those are unworthy and unfit who take no account of these things, but go there for custom's sake, for the sake of outward form and from a hypocritical heart; they eat and drink judgment and damnation to themselves. 1 Cor. 11:28. Let a man examine himself, and so let him eat of that bread, and drink of that cup. Matt. 5:23,24. See question 36 in the third chief part.
 
-**25. How should we conduct ourselves when we come to the Lord’s table?**
+**How should we conduct ourselves when we come to the Lord’s table?**
 
 Answer: After we have received absolution from the ministry of preaching, we ought: 1. To come forward in true repentance, laying aside all strange and worldly thoughts. 2. In the very receiving of the sacrament to conduct ourselves godly, soberly, and modestly, considering that we have to do not with men but with God; 3. When we depart thence with renewed grace, to thank Him for it from our heart, holding a good intention and will to walk in newness of life.
 
-**26. In conclusion, can you briefly tell me how to use all six chief parts rightly in the practice of the Christian faith?**
+**In conclusion, can you briefly tell me how to use all six chief parts rightly in the practice of the Christian faith?**
 
 Answer: When man has, from the ten commandments and the law of God, learned to know and to repent of his sins, he ought not to fall into doubt; but, by the guidance of the confession of faith and the gospel, straightway to flee to the merit of Jesus Christ, and by faith to make it his own and to be assured of the forgiveness of sins. Together with this he ought every day faithfully to pray to God concerning all his spiritual and bodily needs by the Lord's Prayer, which Jesus Himself has taught, ever mindful of the covenant of his baptism, in which he has promised to renounce the devil and all his works, and on the contrary to serve God in holiness and righteousness. And when he perceives that he has broken this and fallen into fault, he ought to go to confession, there to confess his sins and to pray for absolution from the ministry of preaching, to which the power is given to forgive sins on Christ's behalf; and then to go in a Christian manner to the Lord's Supper for the strengthening of his faith concerning the grace of God, the forgiveness of sins, and eternal life, which God grant unto us all graciously for Christ's sake!
 

@@ -9,27 +9,27 @@ title: "Our Neighbor’s Property: The Seventh Commandment"
 
 
 
-**58. What is commanded in the eighth commandment?**
+**What is commanded in the eighth commandment?**
 
 Answer: To speak and think well of our neighbour; to cover his faults and weaknesses: and when backbiters slander him without cause, to answer for his honour, to turn all to the best, and to speak the truth. 1 Cor. 13:5,6. Charity thinketh no evil; rejoiceth not in iniquity, but rejoiceth in the truth. Ps. 15:1,3. Lord, who shall abide in thy tabernacle? He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor dishonoureth his neighbour.
 
-**59. What is forbidden in the ninth commandment?**
+**What is forbidden in the ninth commandment?**
 
 Answer: Covetousness and evil desire, that is: all the evil thoughts in which a man walks and which he holds to; but especially it is forbidden to covet the neighbour's house, inheritance, goods, and lawful property, which we ought not to bring to ourselves by deceitful schemes or under the pretext of law, as though it came to pass by right. James 1:14,15. Every man is tempted, when he is drawn away of his own lust, and enticed. For when lust hath conceived, it bringeth forth sin: but when sin is finished, it bringeth forth death.
 
-**60. What is commanded in the ninth commandment?**
+**What is commanded in the ninth commandment?**
 
 Answer: That we should gladly grant to our neighbour his good and be helpful to him, not only that he should keep and enjoy it, but also to remove all harm promptly. Phil. 2:4. Let every man look not on his own things, but every man also on the things of others.
 
-**61. What is forbidden in the tenth commandment?**
+**What is forbidden in the tenth commandment?**
 
 Answer: That evil desire born with us, and original sin, which is the root and beginning of wickedness and which incites us to act against the commandments of God; but especially the desire toward our neighbour's spouse, husband or wife, toward his servants, cattle, or other such things. Rom. 7:18. I know that in me, that is, in my flesh, dwelleth no good thing. For to will is present with me, but how to perform that which is good I find not. Gen. 6:5. James 1:14. See question 59.
 
-**62. What is commanded in the tenth commandment?**
+**What is commanded in the tenth commandment?**
 
 Answer: That we should utterly cast off that evil desire, and that we should have perfect purity of heart; and likewise that by counsel and deed we should help, so that our neighbour's spouse and servants might remain in their calling, their service, and their station, and faithfully do what they are bound to do.
 
-**63. Why does the explanation of each commandment say that we should fear and love God?**
+**Why does the explanation of each commandment say that we should fear and love God?**
 
 Answer: We make known thereby that the fear and love of God is the beginning and the source from which all the works commanded in the Law ought to flow; for without the fear and love of God they are, before God, nothing other than hypocrisy. 1 John 5:2. By this we know that we love the children of God, when we love God, and keep his commandments.
 

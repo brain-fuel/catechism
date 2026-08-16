@@ -9,43 +9,43 @@ title: "The Apostles’ Creed"
 
 
 
-**1. What is the doctrine of faith?**
+**What is the doctrine of faith?**
 
 Answer: It is the doctrine of God, of the Holy Trinity, and of His good works; which every Christian person must indeed know and believe, if he would be saved.
 
-**2. What does the Greek word “gospel” mean?**
+**What does the Greek word “gospel” mean?**
 
 Answer: A sweet and good tiding.
 
-**3. What does the Gospel teach?**
+**What does the Gospel teach?**
 
 Answer: It teaches that we have a gracious God, through faith in Jesus Christ, so that we obtain the forgiveness of sins and eternal life. John 3:16. God so loved the world, that He gave His only Son, that whosoever believeth in Him should not perish, but have everlasting life. John 20:31. These are written, that ye might believe that Jesus Christ is the Son of God, and that ye might have life through faith in His name.
 
-**4. What is the difference between the Law and the Gospel?**
+**What is the difference between the Law and the Gospel?**
 
 Answer: The law rebukes man for sin and terrifies him; but the Gospel comforts him and assures him of God's grace and of the forgiveness of sins. The law requires works, the Gospel faith. The law is known in some measure by nature; the Gospel is a mystery, hidden from all skill and understanding; but God has brought it forth through His Son. The law promises eternal life to those who keep it out of their own righteousness by perfect obedience; the Gospel promises it also, but through another, namely through the righteousness of Christ, appropriated by faith.
 
 Deut. 27:15,17. Cursed be the man that maketh any graven or molten image. Cursed be he that removeth his neighbour's landmark: and all the people shall say, Amen. Rom. 1:16. The gospel of Christ is the power of God unto salvation to every one that believeth. Luke 10:28. Do this, and thou shalt live. Rom. 10:9. If thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised Him from the dead, thou shalt be saved. Rom. 2:14. The Gentiles, which have not the law, do by nature the things contained in the law. Eph. 1:9. God hath made known unto us the mystery of His will, of His good tidings, and hath brought it forth through Him. John 1:18. No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, He hath declared Him unto us.
 
-**5. How many articles of faith are there?**
+**How many articles of faith are there?**
 
 Answer: Three.
 
-**6. What are they?**
+**What are they?**
 
 Answer: The first, of God the Father and of creation; the second, of the Son of God and of redemption; the third, of the Holy Ghost and of sanctification.
 
 THE FIRST ARTICLE OF FAITH, Of God the Father and of Creation
 
-**7. Why do you say, “I believe”?**
+**Why do you say, “I believe”?**
 
 Answer: For this reason, that he who would be saved may not trust in the faith of others, but must have for himself a right Christian faith, so that he may say with Paul: I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day. 2 Tim. 1:12.
 
-**8. In whom must we believe?**
+**In whom must we believe?**
 
 Answer: In God.
 
-**9. What is God?**
+**What is God?**
 
 Answer: God, according to His being, is a Spirit, eternal, almighty, righteous, present in all places, all-knowing, true, and merciful. John 4:24. God is a Spirit. Ps. 90:2. Before the mountains were brought forth, or ever Thou hadst formed the earth and the world, Thou art God from everlasting to everlasting. Job 42:2. I know that Thou canst do all things. Dan. 9:14. The Lord our God is righteous in all His works which He doeth. Ps. 139:1,8,9,10. Lord, Thou hast searched me, and known me. If I ascend up into heaven, Thou art there; if I make my bed in hell, behold, Thou art there also. If I take the wings of the morning, and dwell in the uttermost parts of the sea, even there shall Thy hand lead me, and Thy right hand shall hold me. John 8:26. Jesus said: He that sent me is true. Exod. 34:6. The Lord cried: The Lord, The Lord God, merciful and gracious, longsuffering, and abundant in goodness and truth.
 

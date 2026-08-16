@@ -9,31 +9,31 @@ title: "Protecting Our Neighbor’s Life: The Fifth Commandment"
 
 
 
-**44. How is this promise to be understood?**
+**How is this promise to be understood?**
 
 Answer: It is to be understood on this condition: if it is profitable to us and pleasing to God.
 
-**45. What is forbidden in the fourth commandment?**
+**What is forbidden in the fourth commandment?**
 
 Answer: Disobedience, contempt, the angering of parents, or of all those who are understood by the name of father and mother. Deut. 27:16. Cursed be he that setteth light by his father or his mother: and all the people shall say, Amen. Rom. 13:1. Let every one be subject unto the higher powers that have authority: for there is no power but of God: the powers that be are ordained of God.
 
-**46. What does God forbid in the fifth commandment?**
+**What does God forbid in the fifth commandment?**
 
 Answer: Killing, or the slaying of a man.
 
-**47. In what ways is murder committed?**
+**In what ways is murder committed?**
 
 Answer: When someone, whether himself or through others, secretly or openly, strikes dead, or kills with poison, or harms the life or the members of his neighbour, hates him from his heart, treats him with evil words and behaviour, and persecutes him. Gen. 9:6. Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man. Matt. 5:22. Whosoever is foolishly angry with his brother shall be in danger of the judgment: but whosoever shall say to his brother, Raca (worthless one), shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire. Gen. 4:5. But unto Cain and to his offering God had not (graciously) respect: and Cain was very wroth, and his countenance was changed.
 
-**48. Does God, then, forbid all killing and anger?**
+**Does God, then, forbid all killing and anger?**
 
 Answer: No; the earthly government, into whose hand God has given the sword for the punishment of the wicked, ought to punish the cruel.
 
-**49. What is commanded in the fifth commandment?**
+**What is commanded in the fifth commandment?**
 
 Answer: That we should help, deliver, and care for our neighbour in all his need.
 
-**50. How is this done?**
+**How is this done?**
 
 Answer: When we have mercy upon our neighbour and are diligent in all that is for the good of his life and his health, and hinder that which may harm him.
 

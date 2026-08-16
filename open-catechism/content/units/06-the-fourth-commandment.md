@@ -9,31 +9,31 @@ title: "Parents and Authorities: The Fourth Commandment"
 
 
 
-**37. Why is every person called our neighbour?**
+**Why is every person called our neighbour?**
 
 Answer: Because we all have one God: we all dwell together here upon the earth; we are all descended from Adam and Eve; all have a like going-out, for all must depart hence. Acts 17:26. God hath made of one blood all the nations of men for to dwell on all the face of the earth. Job 5:7. Man is born unto trouble, as the sparks fly upward. Job 7:1. Is there not an appointed time to man upon earth? are not his days also like the days of an hireling? Eccles. 9:3. There is one event unto all.
 
-**38. What does God command in the fourth commandment?**
+**What does God command in the fourth commandment?**
 
 Answer: To honour father and mother.
 
-**39. Who are included under the names of father and mother?**
+**Who are included under the names of father and mother?**
 
 Answer: Natural parents, father-in-law and mother-in-law, stepfather and stepmother, foster-fathers and foster-mothers, the government, teachers, masters, and all who take a fatherly care of us. Luke 2:41,51. The parents of Jesus (Joseph and Mary) went to Jerusalem, and he was subject unto them. Micah 7:6. The son despiseth his father, the daughter riseth up against her mother, and the daughter in law against her mother in law. 2 Kings 13:14. Now Elisha was fallen sick of his sickness whereof he died, and Joash the king of Israel came down unto him, and wept over him, and said: O my father! my father!
 
-**40. What does it mean to honour and esteem them?**
+**What does it mean to honour and esteem them?**
 
 Answer: It is to love them from the heart, to pray for them, to be with them in humility, that we should not anger them nor make them sorrowful; but should serve and honour them in deeds, words, and forbearance, and gladly obey them. Lev. 19:3. Every one shall fear his mother and his father. Mal. 1:6. A son honoureth his father, and a servant his master. Eph. 6:2,3. Honour thy father and mother (which is the first commandment with promise), that thou mayest prosper and live long on the earth. Col. 3:20. Children, obey your parents in all things: for this is well pleasing unto the Lord.
 
-**41. Are children bound to obey their parents in all things?**
+**Are children bound to obey their parents in all things?**
 
 Answer: In all things that are not against the Word of God and a good conscience, for then God is rather to be obeyed than man. Col. 3:20. See question 40. Prov. 23:22. Hearken unto thy father that begat thee, and despise not thy mother when she is old. Acts 5:29. Peter and the other apostles said: We ought to obey God rather than men.
 
-**42. What does God promise to those who do these things?**
+**What does God promise to those who do these things?**
 
 Answer: That they shall prosper and become long-lived upon the earth. Deut. 5:16. Honour thy father and thy mother, as the Lord thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the Lord thy God giveth thee. Eph. 6:3. See question 40.
 
-**43. Are those who die young, then, always displeasing to God?**
+**Are those who die young, then, always displeasing to God?**
 
 Answer: By no means; for it often comes to pass that God snatches away early from misfortune those whom he loves, and gives them a better life. Isa. 57:1,2. The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come. And they that have walked in their uprightness shall enter into peace, and rest in their chambers.
 

@@ -9,35 +9,35 @@ title: "Benefits and Promises of Baptism"
 
 
 
-**10. What does it mean to baptize in the name of the Father and of the Son and of the Holy Ghost?**
+**What does it mean to baptize in the name of the Father and of the Son and of the Holy Ghost?**
 
 Answer: It is, according to the command of the holy Trinity of God, and in the power and the calling upon of His holy name, to immerse, to pour, or to sprinkle a man with water, unto the forgiveness of sins.
 
-**11. What is present in Baptism?**
+**What is present in Baptism?**
 
 Answer: Two kinds of things: earthly and heavenly.
 
-**12. What is the visible earthly element?**
+**What is the visible earthly element?**
 
 Answer: Natural and pure water, and no other moisture. John 3:5. Jesus said unto Nicodemus: Verily, verily I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. Eph. 5:25,26. Christ gave Himself for the church, that He might sanctify it, and hath already cleansed it with the washing of water by the word.
 
-**13. What is the invisible heavenly gift?**
+**What is the invisible heavenly gift?**
 
 Answer: God, the holy Trinity, and especially the Holy Ghost. Titus 3:5,6. According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Saviour.
 
-**14. Why did you say, “especially the Holy Ghost”?**
+**Why did you say, “especially the Holy Ghost”?**
 
 Answer: Because the work of regeneration is especially ascribed unto the Holy Ghost, who is poured out upon us with the water of Baptism, yet not shutting out the other Persons; for God the Father taketh him that is baptized to be His child; the Son clotheth him with His righteousness; the Holy Ghost regenerateth him and maketh him His dwelling-place: therefore are we said to be born, not of the Holy Ghost alone, but of God (which work is common to all three Persons). Titus 3:5,6. See question 13. 1 Cor. 1:30. Christ Jesus is made unto us of God wisdom, and righteousness, and sanctification, and redemption. Rom. 8:15,16. Ye have not received the spirit of bondage, but ye have received the Spirit of the chosen children, whereby we cry, Abba, dear Father! The Spirit itself beareth witness with our spirit, that we are the children of God.
 
-**15. Is Baptism necessary?**
+**Is Baptism necessary?**
 
 Answer: It is indeed; — for Christ saith: Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. John 3:5. See question 12.
 
-**16. Does Baptism bring about the forgiveness of sins?**
+**Does Baptism bring about the forgiveness of sins?**
 
 Answer: Truly; — in Baptism we put on Christ, who covereth all our sins with the robe of righteousness. Gal. 3:27. As many of you as have been baptized into Christ have put on Christ. Isa. 61:10. I will greatly rejoice in the Lord, my soul shall be joyful in my God; for He hath clothed me with the garments of salvation, He hath covered me with the robe of righteousness. John 3:5. See question 12.
 
-**17. What does it mean to put on Christ?**
+**What does it mean to put on Christ?**
 
 Answer: It is: to be grafted into Christ, and by faith to make His merited righteousness and obedience our own, as though we had ourselves fulfilled the law and suffered for our sins.
 
@@ -45,7 +45,7 @@ Answer: It is: to be grafted into Christ, and by faith to make His merited right
 
 As the head of the family should teach it in a simple way to his household.
 
-**1. What is Baptism?**
+**What is Baptism?**
 
 Answer: Baptism is not simple water only, but it is water comprehended in God's command and connected with His Word.
 
@@ -53,7 +53,7 @@ Answer: Baptism is not simple water only, but it is water comprehended in God's 
 
 Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Matthew: Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you.
 
-**2. What gifts or benefits does Baptism bestow?**
+**What gifts or benefits does Baptism bestow?**
 
 Answer: Baptism works forgiveness of sins, delivers from death and the devil, and gives everlasting life to all who believe the words and promises of God.
 
@@ -61,11 +61,11 @@ Answer: Baptism works forgiveness of sins, delivers from death and the devil, an
 
 Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Mark: He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 
-**3. How can water do such great things?**
+**How can water do such great things?**
 
 Answer: It is not the water indeed that does them, but the Word of God which is in and with the water, and faith, which trusts such Word of God in the water. For without the Word of God the water is simple water and no Baptism; but with the Word of God it is a Baptism, that is, a gracious water of life and a washing of regeneration in the Holy Ghost, as St. Paul says in his Epistle to Titus, in the third chapter: According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Savior; that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is a faithful saying.
 
-**4. What does Baptism signify?**
+**What does Baptism signify?**
 
 Answer: It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts; and that again a new man should daily come forth and arise, who shall live before God in righteousness and purity forever.
 

@@ -9,35 +9,35 @@ title: "What Baptism Signifies"
 
 
 
-**26. Are all who are baptized, then, saved?**
+**Are all who are baptized, then, saved?**
 
 Answer: All who keep the covenant of their Baptism, and remain steadfast in faith unto the end, become saved; but the hypocrites, who suffer themselves to be baptized for custom's sake and for temporal profit, unto them it turneth rather to damnation than to salvation. Matt. 10:22. He that endureth steadfast unto the end shall be saved. Heb. 11:6. Without faith it is impossible to please God.
 
-**27. Why is Baptism called the washing of regeneration?**
+**Why is Baptism called the washing of regeneration?**
 
 Answer: Because all men, who are conceived and born in sin, are by nature the children of wrath; but through Baptism they are regenerated and become the children of God, cleansed and washed from sin unto eternal life. Ps. 51:5. Behold, I was shapen in iniquity; and in sin did my mother conceive me. Eph. 2:3. We were by nature the children of wrath, even as others. Rom. 7:17. See question 25.
 
-**28. Why is Baptism called the renewing of the Holy Ghost?**
+**Why is Baptism called the renewing of the Holy Ghost?**
 
 Answer: Because the Holy Ghost through Baptism reneweth us both in understanding and in will, and giveth us power unto a new life, so that we more and more withstand sin and become meet for good works, which are called the fruits of the Spirit and of faith. Gal. 4:6. Because ye are children, God hath sent forth the Spirit of His Son into your hearts, crying, Abba, dear Father! Col. 3:10. Put on the new (man), which is renewed in knowledge after the image of Him that created him.
 
-**29. What is the old Adam?**
+**What is the old Adam?**
 
 Answer: Our corrupt nature and the evil lust born with us, which we have inherited from our forefather Adam.
 
-**30. How is the old Adam drowned and put to death in us?**
+**How is the old Adam drowned and put to death in us?**
 
 Answer: When, through daily contrition and repentance, as in spiritual water, we drown that evil lust, crucify our flesh, and withstand its sinful desires. Gal. 5:24. They that are Christ's have crucified the flesh with the affections and lusts. Rom. 6:6. Knowing this, that our old man is crucified with Him, that the body of sin might be destroyed, that henceforth we should not serve sin.
 
-**31. Are the evil desire and original sin with which we are born completely taken away in Baptism?**
+**Are the evil desire and original sin with which we are born completely taken away in Baptism?**
 
 Answer: Sin is indeed taken away in Baptism and forgiven, so that it is no more imputed unto us, neither can it any more condemn us; but it dwelleth nevertheless in us so long as we live, and is not rooted out until death. Rom. 7:17,23,24. Now then it is no more I that do it, but sin that dwelleth in me. I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members. O wretched man that I am! who shall deliver me from this body of death?
 
-**32. What is meant by the new man?**
+**What is meant by the new man?**
 
 Answer: He that is regenerated of the Holy Ghost, and liveth in righteousness and purity, putteth off the old man, which through lusts corrupteth himself in error, and is diligent to keep faith and a good conscience. Col. 3:10. See question 28. Eph. 4:22. Put off the old man, wherein ye walked heretofore, which through lusts corrupteth itself in error. 1 Tim. 1:18,19. This charge I commit unto thee: that thou shouldest hold faith and a good conscience.
 
-**33. Can a person take comfort in the covenant of Baptism after breaking it and falling into sin again?**
+**Can a person take comfort in the covenant of Baptism after breaking it and falling into sin again?**
 
 Answer: He can indeed. For although man on his part breaketh the covenant made, and falleth into sin, yet is God faithful and abideth steadfast in His covenant, whereby He again receiveth the sinner into His grace, as often as he turneth and amendeth himself. Ezek. 18:21. If the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right; he shall surely live, and shall not die. 2 Tim. 2:13. If we believe not, yet He abideth faithful: He cannot deny Himself. Rom. 3:3,4. For some of the Jews did not believe; what of it? shall their unbelief make the faith of God without effect? God forbid!
 
@@ -47,7 +47,7 @@ THE FIFTH CHIEF PART
 
 As the head of the family should teach it in a simple way to his household.
 
-**1. What is Baptism?**
+**What is Baptism?**
 
 Answer: Baptism is not simple water only, but it is water comprehended in God's command and connected with His Word.
 
@@ -55,7 +55,7 @@ Answer: Baptism is not simple water only, but it is water comprehended in God's 
 
 Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Matthew: Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you.
 
-**2. What gifts or benefits does Baptism bestow?**
+**What gifts or benefits does Baptism bestow?**
 
 Answer: Baptism works forgiveness of sins, delivers from death and the devil, and gives everlasting life to all who believe the words and promises of God.
 
@@ -63,11 +63,11 @@ Answer: Baptism works forgiveness of sins, delivers from death and the devil, an
 
 Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Mark: He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 
-**3. How can water do such great things?**
+**How can water do such great things?**
 
 Answer: It is not the water indeed that does them, but the Word of God which is in and with the water, and faith, which trusts such Word of God in the water. For without the Word of God the water is simple water and no Baptism; but with the Word of God it is a Baptism, that is, a gracious water of life and a washing of regeneration in the Holy Ghost, as St. Paul says in his Epistle to Titus, in the third chapter: According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Savior; that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is a faithful saying.
 
-**4. What does Baptism signify?**
+**What does Baptism signify?**
 
 Answer: It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts; and that again a new man should daily come forth and arise, who shall live before God in righteousness and purity forever.
 

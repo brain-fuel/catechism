@@ -9,23 +9,23 @@ title: "God’s Wrath and Mercy: The Close of the Commandments"
 
 
 
-**74. What is actual sin?**
+**What is actual sin?**
 
 Answer: All the sin that we think, speak, and do against God and our neighbour, which comes of original sin. Matt. 15:19. Out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies.
 
-**75. What was the cause of the sin of our forefathers?**
+**What was the cause of the sin of our forefathers?**
 
 Answer: The envy of the devil, and they themselves, who misused their free will, believed the serpent rather than God, and ate of the fruit of the forbidden tree. Gen. 3:1,4,6. The serpent said unto the woman: Yea, hath God said, Ye shall not eat of every tree of the garden? Ye shall not surely die. And the woman took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.
 
-**76. Does God punish children for the evil deeds of their parents?**
+**Does God punish children for the evil deeds of their parents?**
 
 Answer: The punishment indeed falls especially upon him who commits the sin; but if children are partakers in their parents' sins and walk the same way, then they must suffer both for their own sins and for their parents'. Ezek. 18:4. The soul that sinneth, it shall die.
 
-**77. What punishment do those deserve who break the Law of God?**
+**What punishment do those deserve who break the Law of God?**
 
 Answer: The wrath of God, the curse, all manner of afflictions, death, and eternal damnation. Deut. 27:26. Cursed be he that confirmeth not all the words of this law to do them: and all the people shall say, Amen. Gal. 3:10.
 
-**78. How can we be delivered from all such evil?**
+**How can we be delivered from all such evil?**
 
 Answer: This the Confession of Faith, or the articles of faith, and the Gospel teach.
 

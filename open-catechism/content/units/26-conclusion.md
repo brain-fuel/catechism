@@ -9,11 +9,11 @@ title: "For Thine Is the Kingdom: The Conclusion"
 
 
 
-**52. What does “Amen” mean?**
+**What does “Amen” mean?**
 
 Answer: Amen is such a word whereby one not only wisheth unto himself that for which he hath prayed, but also showeth himself assured that God heareth the prayer; whereupon he, as sealing it with a seal, saith: Amen, so let it be! Ps. 145:19. The Lord fulfilleth the desire of them that fear Him, and heareth their cry, and helpeth them. Matt. 7:8. Every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. 1 John 5:14. This is the confidence that we have in Him, that, if we ask any thing according to His will, He heareth us. Matt. 21:22. All things whatsoever ye shall ask in prayer, believing, ye shall receive.
 
-**54. Why does God sometimes delay His answer?**
+**Why does God sometimes delay His answer?**
 
 Answer: God doth this: 1. thereby to prove our patience and our steadfastness in faith; 2. to put us in remembrance of our own slowness and hardness of hearing, when He calleth and summoneth us unto repentance; 3. that we may pray the more diligently; 4. and rejoice the more, when we are heard and helped.
 

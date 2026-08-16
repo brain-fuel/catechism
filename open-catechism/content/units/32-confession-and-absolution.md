@@ -9,93 +9,93 @@ title: "Confession and Absolution"
 
 
 
-**1. What does the word Confession mean?**
+**What does the word Confession mean?**
 
 Answer: The confession of sin.
 
-**2. What does confession involve?**
+**What does confession involve?**
 
 Answer: When the sinner is aware of his sins, confesses them before God with a penitent heart, and prays for forgiveness for Christ's sake.
 
-**3. In what ways is confession of sin made?**
+**In what ways is confession of sin made?**
 
 Answer: It is made in common and in particular.
 
-**4. What do you call general confession?**
+**What do you call general confession?**
 
 Answer: When the whole congregation together confesses its sins in the common worship of God, or when a common distress is at hand. Neh. 9:1,2. On the twenty-fourth day of the same month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them, and confessed their sins, and the iniquities of their fathers. Judg. 10:10. And the children of Israel cried unto the Lord, saying, We have sinned against thee, for we have forsaken our God, and served Baal.
 
-**5. What do you call private confession?**
+**What do you call private confession?**
 
 Answer: When someone confesses his sins by himself, or alone.
 
-**6. How is it done?**
+**How is it done?**
 
 Answer: In many ways: 1. Before God alone, when someone, being alone by himself, or in his own heart, sighs unto God, confesses his sins and prays that they be forgiven, as David, Manasseh, and the publican did: such a confession of sin is always needful, and ought to be made every day. 2. Before the whole congregation; when a public sinner, who has committed a great transgression, confesses and prays forgiveness for his sins; this is called public confession. 3. Before a neighbour whom someone has angered, and from whom he prays forgiveness for his offence. 4. Before the ministers of the word sins are also confessed, whether all in common or some particular sin that troubles someone's conscience; this is called private confession and disclosure, and no one may make it known. Ps. 51:6. Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified in thy words, and be clear when thou judgest. 1 Tim. 6:20. Them that sin rebuke before all, that others also may fear. Luke 17:4. If thy brother trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him. Matt. 5:23,24. If thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee, leave there thy gift before the altar, and go and be reconciled to thy brother, and then come and offer thy gift. 2 Sam. 12:13. And David said unto Nathan, I have sinned against the Lord. And Nathan said unto David, The Lord also hath put away thy sin; thou shalt not die. Matt. 3:5,6. Then went out to John Jerusalem, and all Judaea, and all the region round about Jordan, and were baptized of him in Jordan, confessing their sins.
 
-**7. Is it necessary to confess in this way?**
+**Is it necessary to confess in this way?**
 
 Answer: It is; not only needful, but also profitable; for from it a man receives comfort in his heart, and peace and rest for his conscience.
 
-**8. Must every sin be listed before a minister of the Word?**
+**Must every sin be listed before a minister of the Word?**
 
 Answer: There is no need of it, nor is it even possible, for who can understand his errors? Ps. 19:13. Who can understand his errors? Cleanse thou me from secret faults.
 
-**9. How many parts are there in true repentance?**
+**How many parts are there in true repentance?**
 
 Answer: Two: first, a true sorrow and contrition for sin; second, faith in Christ. Mark 1:15. The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel. Acts 20:21. Paul testified both to the Jews and also to the Greeks that conversion which is toward God, and that faith which is toward our Lord Jesus Christ.
 
-**10. Where do the knowledge of sin and contrition come from?**
+**Where do the knowledge of sin and contrition come from?**
 
 Answer: From the law of God, which awakens man's conscience, shows him that he has done evil and thereby earned the wrath of God, temporal and eternal punishment. Rom. 3:20. By the law is the knowledge of sin. Rom. 4:15. The law worketh wrath: for where no law is, there is no transgression.
 
-**11. Where does faith come from?**
+**Where does faith come from?**
 
 Answer: From the sweet teaching of the gospel and the promises of grace concerning the forgiveness of sins for Christ's sake. Rom. 1:16. I am not ashamed of the gospel of Christ, for it is the power of God unto salvation to every one that believeth.
 
-**12. What is Absolution?**
+**What is Absolution?**
 
 Answer: It is the promise and assurance of the forgiveness of sins, given by the ministers of the word on Christ's behalf.
 
-**13. Who has given the minister of the Word this power?**
+**Who has given the minister of the Word this power?**
 
 Answer: Christ Jesus, the Son of God.
 
 Acts 13:28. Be it known unto you, men, beloved brethren, that I also forgive; for to whom I forgave any thing, I forgave it for your sakes on Christ's behalf.
 
-**14. How do you know this?**
+**How do you know this?**
 
 Answer: From Christ's own words, when He said to His apostles, John 20:22,23: Receive ye the Holy Ghost: whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained. Matt. 18:18: Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven. And to Peter, Matt. 16:19: I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven, and whatsoever thou shalt loose on earth shall be loosed in heaven.
 
-**15. What is meant by the keys of the kingdom of heaven?**
+**What is meant by the keys of the kingdom of heaven?**
 
 Answer: That power which Christ has given to the congregation, and especially to the ministry of preaching, to forgive and to retain sin. John 20:23. See question 14.
 
-**16. How many of these keys are there?**
+**How many of these keys are there?**
 
 Answer: Two: one is called the key of loosing, the other the key of binding, or of retaining.
 
-**17. What is the key of loosing?**
+**What is the key of loosing?**
 
 Answer: It is that power which is given to Christ's servants on earth to loose the penitent sinner from his sins and to open to him the kingdom of heaven. 2 Cor. 5:20. We (says Paul) are ambassadors for Christ, as though God did beseech you by us: we pray you therefore in Christ's stead, be ye reconciled to God.
 
-**18. What is the key of binding, or retaining sins?**
+**What is the key of binding, or retaining sins?**
 
 Answer: It is the power given whereby the preacher binds the impenitent in his sin and shuts the kingdom of heaven against him, and which is called the ban. 1 Cor. 5:3-5. For I verily (says Paul), as absent in body, but present as though I were among you, have judged already, that he who hath so done this deed, in the name of our Lord Jesus Christ, when ye are gathered together, and together with my spirit, with the power of our Lord Jesus Christ, be delivered unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus. Matt. 18:15-18. If thy brother shall trespass against thee, go and tell him his fault between thee and him alone. If he shall hear thee, thou hast gained thy brother; but if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. But if he will not hear them, tell it unto the congregation: but if he neglect to hear the congregation, let him be unto thee as a heathen man and a publican. Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven; and whatsoever ye shall loose on earth shall be loosed in heaven.
 
-**19. What is excommunication, or being placed under the ban?**
+**What is excommunication, or being placed under the ban?**
 
 Answer: It is this: when the impenitent and unworthy sinner is shut out from the Lord's Supper, or also altogether from the fellowship of the congregation; the latter is called the greater ban, but the former the lesser.
 
-**20. Can someone who has been excommunicated and bound in his sins be received into grace again?**
+**Can someone who has been excommunicated and bound in his sins be received into grace again?**
 
 Answer: Assuredly he can; when he turns himself, showing true contrition and repentance, he is to be set right with the comfort of the gospel and assured of God's grace; for the key of retaining is not given for damnation, but for the amendment and setting right of the soul. Ezek. 18:21. See question 33 in the fourth chief part. 2 Cor. 13:10. Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.
 
-**21. What, then, does God require of us after we have repented and received the forgiveness of our sins?**
+**What, then, does God require of us after we have repented and received the forgiveness of our sins?**
 
 Answer: A new obedience, which shows itself in a holy and godly life, and is called the fruit of repentance. Matt. 3:8. Bring forth therefore fruits meet for repentance. Luke 3:8.
 
-**22. How should we strengthen our faith in the forgiveness of sins?**
+**How should we strengthen our faith in the forgiveness of sins?**
 
 Answer: With the Lord's high Supper, or the Sacrament of the Altar.
 

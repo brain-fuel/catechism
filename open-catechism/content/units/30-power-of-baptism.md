@@ -9,35 +9,35 @@ title: "Power of Baptism"
 
 
 
-**18. Does Baptism also deliver us from death?**
+**Does Baptism also deliver us from death?**
 
 Answer: Truly; — for through Baptism Christ liveth in us, and we in Him; therefore can no death harm us. Gal. 2:20. I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who hath loved me, and gave Himself for me.
 
-**19. How many kinds of death are there?**
+**How many kinds of death are there?**
 
 Answer: Of three kinds: natural, spiritual, and eternal.
 
-**20. What is natural death?**
+**What is natural death?**
 
 Answer: When the soul and the body are parted the one from the other.
 
-**21. What is spiritual death?**
+**What is spiritual death?**
 
 Answer: When the soul, through sin, is parted from God. Eph. 2:1. Ye were dead in trespasses and sins. 1 Tim. 5:6. She that liveth in pleasure is dead while she liveth.
 
-**22. What is eternal death?**
+**What is eternal death?**
 
 Answer: When the soul and the body are separated from the presence of God eternally, and cast into outer darkness. Matt. 10:28. Fear not them which kill the body, and are not able to kill the soul: but rather fear Him which is able to destroy both soul and body in hell. 2 Thess. 1:9.
 
-**23. Are we, through Baptism, delivered from all such death?**
+**Are we, through Baptism, delivered from all such death?**
 
 Answer: We are; — for though we must naturally and temporally die, yet that death doth not harm us; for it cannot hold us eternally, but at the last day we shall rise up, as out of sleep, unto eternal life. 1 Pet. 3:21. The water in Baptism doth save us, whereof it was a figure (not the putting away of the filth of the flesh, but the answer of a good conscience toward God), by the resurrection of Jesus Christ. John 11:25. Jesus said unto Martha: I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live.
 
-**24. Are we also delivered from the devil through Baptism?**
+**Are we also delivered from the devil through Baptism?**
 
 Answer: Because of sin we are under the power of the devil; but through Baptism we are translated into the kingdom of Christ, and separated from the devil. Col. 1:12,13. Give thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light: who hath delivered us from the power of darkness, and hath translated us into the kingdom of His dear Son.
 
-**25. How does Baptism give eternal life?**
+**How does Baptism give eternal life?**
 
 Answer: In this, that it giveth us power to become the children of God; it also maketh us heirs of the kingdom of God and of eternal salvation. John 1:12,13. To them that received Him, gave He power to become the children of God, even to them that believe on His name: which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God. Rom. 8:17. If we are children, then are we also heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with Him, that we may be also glorified together. Titus 3:7. That being justified by His grace, we should be made heirs according to the hope of eternal life.
 
@@ -45,7 +45,7 @@ Answer: In this, that it giveth us power to become the children of God; it also 
 
 As the head of the family should teach it in a simple way to his household.
 
-**1. What is Baptism?**
+**What is Baptism?**
 
 Answer: Baptism is not simple water only, but it is water comprehended in God's command and connected with His Word.
 
@@ -53,7 +53,7 @@ Answer: Baptism is not simple water only, but it is water comprehended in God's 
 
 Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Matthew: Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you.
 
-**2. What gifts or benefits does Baptism bestow?**
+**What gifts or benefits does Baptism bestow?**
 
 Answer: Baptism works forgiveness of sins, delivers from death and the devil, and gives everlasting life to all who believe the words and promises of God.
 
@@ -61,11 +61,11 @@ Answer: Baptism works forgiveness of sins, delivers from death and the devil, an
 
 Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Mark: He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 
-**3. How can water do such great things?**
+**How can water do such great things?**
 
 Answer: It is not the water indeed that does them, but the Word of God which is in and with the water, and faith, which trusts such Word of God in the water. For without the Word of God the water is simple water and no Baptism; but with the Word of God it is a Baptism, that is, a gracious water of life and a washing of regeneration in the Holy Ghost, as St. Paul says in his Epistle to Titus, in the third chapter: According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Savior; that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is a faithful saying.
 
-**4. What does Baptism signify?**
+**What does Baptism signify?**
 
 Answer: It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts; and that again a new man should daily come forth and arise, who shall live before God in righteousness and purity forever.
 

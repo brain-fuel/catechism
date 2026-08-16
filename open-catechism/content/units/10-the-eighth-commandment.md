@@ -9,23 +9,23 @@ title: "Truth and Our Neighbor’s Reputation: The Eighth Commandment"
 
 
 
-**64. What is the sum of the Law?**
+**What is the sum of the Law?**
 
 Answer: That which Jesus said to the learned Pharisee, Matt. 22:37-39: Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it: Thou shalt love thy neighbour as thyself. Deut. 6:5. Lev. 19:18.
 
-**65. How does the conclusion of the Law, or the Ten Commandments, read?**
+**How does the conclusion of the Law, or the Ten Commandments, read?**
 
 Answer: 1. With the threat of punishment to those who break the Law; 2. But with the promise of grace and all good to those who keep and fulfil it.
 
-**66. Can anyone fulfill, or perfectly keep, the Law?**
+**Can anyone fulfill, or perfectly keep, the Law?**
 
 Answer: No; in the state of innocence, before man fell into sin, he was able to keep the Law perfectly; but now, after the fall into sin, it is impossible for him, for the Law is spiritual, requiring perfect obedience; but we are carnal, and corrupted by evil desire. Rom. 7:14. We know that the law is spiritual: but I am carnal, sold under sin. Acts 15:10. Why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear? Eph. 2:1. Ye were dead in trespasses and sins. 2 Cor. 3:5. We are not sufficient of ourselves to think any thing as of ourselves.
 
-**67. Is God, then, harsh and unjust because He requires of us what we cannot fulfill?**
+**Is God, then, harsh and unjust because He requires of us what we cannot fulfill?**
 
 Answer: God forbid! God is not to blame for this; but he requires by right that again which he lent to our forefathers, namely the power and skill to fulfil the Law; no otherwise than when someone has lent to another, and the other has squandered it, so that he cannot pay it back; he cannot be charged with wrong who seeks out his own from that man's children and heirs.
 
-**68. What purpose, then, does the Law serve?**
+**What purpose, then, does the Law serve?**
 
 Answer: The Law teaches: 1. What we ought to do and to shun; 2. To know our sin and our corrupted nature; 3. It chastens and drives us to seek Christ, who is the end and fulfiller of the Law; for it shows us, and forcefully concludes in our own conscience, that we cannot by our own power keep it perfectly. Rom. 3:20. By the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin. Gal. 3:24. The law was our schoolmaster to bring us unto Christ, that we might be justified by faith. Rom. 10:4. Christ is the end of the law for righteousness to every one that believeth.
 

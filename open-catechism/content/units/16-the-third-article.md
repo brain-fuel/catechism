@@ -9,85 +9,85 @@ title: "The Holy Ghost and Sanctification: The Third Article"
 
 
 
-**71. Can we come to Christ and believe in Him by our own power?**
+**Can we come to Christ and believe in Him by our own power?**
 
 Answer: By no means, for we are dead in sin. As now a dead man cannot make himself alive, so neither can we by our own power turn ourselves unto Christ and believe in Him. Eph. 2:1,5. Ye were dead in trespasses and sins; by grace ye are saved. 1 Cor. 2:14. The natural man understandeth not the things which are of the Spirit of God, for they are foolishness unto him, neither can he know them: for they are spiritually discerned. 1 Cor. 12:3. No man can call Jesus Lord, but by the Holy Ghost.
 
-**72. What is meant by the congregation, or the Church?**
+**What is meant by the congregation, or the Church?**
 
 Answer: Not the house and building itself, which we call a church; for the first Christians had none such for many years, but they gathered wherever it suited them, to hear the Word and to receive the sacraments; but by it is understood the people who confess the faith of Christ.
 
-**73. Why is this Church called one?**
+**Why is this Church called one?**
 
 Answer: Not because only one company and people is found gathered in the world in a particular place to hear the Word of God, but because one and the same Spirit teaches them, wherever they are; and they have one God, one baptism, one Saviour, one faith, one hope, one confession. Eph. 4:3-6. Endeavouring to keep the unity of the Spirit in the bond of peace; there is one body, and one Spirit, even as ye are called in one hope of your calling. One Lord, one faith, one baptism, one God and Father of all, who is above all, and through all, and in you all. 1 Cor. 1:10.
 
-**74. Why is the Church called holy?**
+**Why is the Church called holy?**
 
 Answer: Because Christ has sanctified the congregation with His blood, and it serves God in holiness and righteousness; the Holy Ghost separates it from all sin and uncleanness, sanctifies it through the Word and the sacraments, and appropriates to it the sanctification of Christ. Luke 1:75. See Question 31. Eph. 5:25,26. Christ gave Himself for the congregation, that He might sanctify it.
 
-**75. Why is the Church called catholic?**
+**Why is the Church called catholic?**
 
 Answer: For the sake of the common faith and doctrine which the congregation confesses, and also because it is not bound to any particular place, nor time, nor to particular men, but is spread throughout all the world. Acts 15:11. We believe that through the grace of the Lord Jesus Christ we shall be saved, even as they (in the Old Testament). Gal. 3:28. There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female; for ye are all one in Christ Jesus. Col. 1:23. The gospel is preached before every creature which is under heaven.
 
-**76. Where is the holy Christian Church to be found?**
+**Where is the holy Christian Church to be found?**
 
 Answer: In all places where the Word of God is clearly and purely taught, and the holy sacraments are administered according to the command and institution of Christ; and wherever the name of Christ is called upon in true faith.
 
-**77. What is the communion of saints?**
+**What is the communion of saints?**
 
 Answer: It is the communion of all Christians, who are partakers of God's gracious promises, common in faith, love, and hope, and are the true members of the spiritual body of Christ, whom God alone sees and knows. 1 John 1:3. That which we have seen and heard declare we unto you, that ye also may have fellowship with us; and truly our fellowship is with the Father, and with His Son Jesus Christ. Eph. 4:3. See Question 73. 2 Tim. 2:19. The foundation of God standeth sure, having this seal: The Lord knoweth them that are His.
 
-**78. Do you believe in the forgiveness of sins?**
+**Do you believe in the forgiveness of sins?**
 
 Answer: I believe it. I am persuaded that God, out of His grace and for Christ's sake, forgives the sins of all those who believe in Him, and does not reckon their evil deeds unto them for condemnation. Acts 10:43. To Christ give all the prophets witness, that through His name whosoever believeth in Him shall receive remission of sins.
 
-**79. What is true faith?**
+**What is true faith?**
 
 Answer: Right and saving faith is not a bare knowledge of God and of His holy Word, and the holding of it as true, or assent; but it is a firm confidence and hearty trust in God, of the forgiveness of sins and of eternal life, for the sake of the merit of Jesus Christ. Rom. 8:38,39. I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Jesus Christ our Lord. Heb. 11:1. Faith is the firm confidence of things hoped for, and doubts not of things not seen.
 
-**80. Through what means does the Holy Ghost work faith?**
+**Through what means does the Holy Ghost work faith?**
 
 Answer: Through the Word and the sacrament.
 
-**81. Through whom does the Holy Ghost proclaim the Word and administer the sacraments?**
+**Through whom does the Holy Ghost proclaim the Word and administer the sacraments?**
 
 Answer: Through the holy office of preaching, which in Holy Scripture is called the office of the Spirit, the angels of the Lord of hosts, the labourers together with God, the stewards of His mysteries, and ambassadors on Christ's behalf. Acts 20:28. Take heed unto yourselves, and to all the flock, over which the Holy Ghost hath made you overseers. 2 Cor. 3:6. God hath made us able ministers of the New Testament, not of the letter, but of the Spirit. Mal. 2:7. The priest's lips should keep knowledge, and they should seek the law at his mouth; for he is the angel of the Lord of hosts. 1 Cor. 3:9. We are labourers together with God. 1 Cor. 4:1. Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. 2 Cor. 5:20. We are ambassadors for Christ; for God doth beseech you through us.
 
-**82. What do you understand by the resurrection of the body?**
+**What do you understand by the resurrection of the body?**
 
 Answer: That all men who are dead, both good and evil, shall on the last day rise again and be set before the judgment seat of Christ, to receive according to that which they have done in their life. Dan. 12:2. Many of them that sleep in the dust of the earth shall awake: some to everlasting life, and some to everlasting shame and contempt. Job 19:25. I know that my Redeemer liveth, and that He shall stand at the latter day upon the earth.
 
 Isa. 26:19. John 5:28.
 
-**83. Does a person die in both soul and body?**
+**Does a person die in both soul and body?**
 
 Answer: No; but the body only dies and returns again to earth; but the soul is immortal. Eccles. 12:7. Then shall the dust return to the earth as it was, and the spirit shall return unto God who gave it. Matt. 10:28.
 
-**84. Where, then, do the souls of the dead go?**
+**Where, then, do the souls of the dead go?**
 
 Answer: The souls of the believers the holy angels carry into Abraham's bosom, and they receive eternal life; but the souls of the unbelieving into hell, unto the place of torment. Luke 16:22-24. The beggar died, and was carried by the angels into Abraham's bosom; the rich man also died, and was buried. And in hell, being in torments, he cried, saying: I am tormented grievously in this flame. Matt. 25:46. The cursed shall go away into everlasting punishment, but the righteous into life eternal.
 
-**85. What will the bodies of believers be like in the resurrection?**
+**What will the bodies of believers be like in the resurrection?**
 
 Answer: They shall become like unto the glorious body of Christ, and shall no more need food or drink for their sustenance, as in this life; and they shall be incorruptible, radiant, and glorious, yet with a difference in glory. Dan. 12:3. Phil. 3:21. Jesus Christ shall change our vile body, that it may be fashioned like unto His glorious body, according to the working whereby He is able even to subdue all things unto Himself. 1 Cor. 15:40-44. There is one glory of the celestial, and another of the terrestrial. There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory. So also is the resurrection of the dead: it is sown in corruption, it is raised in incorruption; it is sown in dishonour, it is raised in glory; it is sown in weakness, it is raised in power; it is sown a natural body, it is raised a spiritual body.
 
-**86. What is eternal life?**
+**What is eternal life?**
 
 Answer: It is unspeakable joy and everlasting blessedness with God in heaven, where we, together with all the holy angels and all the elect, shall unceasingly behold God face to face, as the Scripture saith, and see Him as He is. 1 Cor. 13:12. Now we see through a glass, darkly; but then face to face. 1 John 3:2. My beloved, now are we the sons of God, and it doth not yet appear what we shall be; but we know that, when He shall appear, we shall be like Him; for we shall see Him as He is.
 
-**87. Who are the elect?**
+**Who are the elect?**
 
 Answer: Those whom God in eternity saw would abide steadfast in faith in Jesus Christ unto the end. Eph. 1:4. God hath chosen us through Jesus Christ, before the foundation of the world was laid, that we should be holy and without blame before Him in love.
 
-**88. Why are not all people saved?**
+**Why are not all people saved?**
 
 Answer: Because not all believe in Christ, but despise the means of salvation and resist the working of the Holy Ghost, and are thus themselves guilty of their own condemnation. He that believeth not shall be damned, and the wrath of God abideth on him. Matt. 23:37. O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings? And ye would not. Luke 14:16-18. A certain man made a great supper, and bade many, and sent his servant at supper time to say to them that were bidden: Come; for all things are now ready. And they all with one consent began to make excuse. John 3:18,36. He that believeth on the Son of God is not condemned; but he that believeth not is condemned already, because he hath not believed in the name of the only Son of God. He that believeth on the Son hath everlasting life; but he that believeth not the Son shall not see life, but the wrath of God abideth on him.
 
-**89. Why does the explanation of every article of faith conclude with the words, “This is most certainly true”?**
+**Why does the explanation of every article of faith conclude with the words, “This is most certainly true”?**
 
 Answer: We thereby make known that all which we here confess with our mouth we also firmly believe in our heart, and are willing both to live and to die thereupon. 2 Tim. 1:12. See Question 70.
 
-**90. Why, and for what benefit, do we make such a confession of faith?**
+**Why, and for what benefit, do we make such a confession of faith?**
 
 Answer: That we might thereby separate ourselves from all the unbelieving and the hypocrites, and that through such a confession we might also be saved.
 

@@ -9,113 +9,113 @@ title: "God the Father and Creation: The First Article"
 
 
 
-**10. Is there, then, more than one God?**
+**Is there, then, more than one God?**
 
 Answer: No; He alone is one, but in the being of the Godhead there are three persons: the Father, the Son, and the Holy Ghost, and they are called the Holy Trinity, or the Threefold Unity. Deut. 6:4. Hear, O Israel: The Lord our God is one Lord. 1 John 5:7. There are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
 
-**11. Who is the Father?**
+**Who is the Father?**
 
 Answer: The Father is the first person in the Divine being, who in eternity has begotten the Son, coexistent with Him and equal to Him. Ps. 2:7. Thou art my Son; this day have I begotten Thee. Heb. 1:3,5.
 
-**12. Why is the Father called the first person?**
+**Why is the Father called the first person?**
 
 Answer: Not because He is in any respect more or greater, or in regard to time earlier than the other persons; but He is called the first for the sake of order; for as the Father is eternal (without beginning and end), so is the Son eternal, so is the Holy Ghost eternal. And yet there are not three Gods; but one God, eternal and almighty.
 
-**13. What good works has God the Father done for us?**
+**What good works has God the Father done for us?**
 
 Answer: He has created us, cares for us, watches over us, and protects us. He has also given His Son for us. Ps. 71:6. Thou hast drawn me out of my mother's womb. Job 10:8. Thine hands have made me and fashioned me together round about. Acts 17:28. In Him we live, and move, and have our being. Isa. 41:10. Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness. Matt. 6:23. John 2:16. See Question 3.
 
-**14. Are the Son and the Holy Ghost, then, excluded from the work of creation?**
+**Are the Son and the Holy Ghost, then, excluded from the work of creation?**
 
 Answer: By no means; for the Father has created all things through the Son in the Holy Ghost. Heb. 1:2. God has made the world through the Son. Col. 1:16. Ps. 33:6. By the word of the Lord were the heavens made; and all the host of them by the breath of His mouth. Job 33:4.
 
-**15. What did God make all things from in the beginning?**
+**What did God make all things from in the beginning?**
 
 Answer: Out of nothing. Heb. 11:3. Through faith we understand that the worlds were framed by the word of God, so that things which are seen were made out of nothing.
 
-**16. What, then, has God made?**
+**What, then, has God made?**
 
 Answer: The heaven and the earth, and all that is in them, both visible and invisible. Gen. 1:1. In the beginning God created the heaven and the earth. Col. 1:16.
 
-**17. In what order did God create all things in the world?**
+**In what order did God create all things in the world?**
 
 Answer: In six days God created the heaven and the earth and all that is in them, in this manner, namely: on the first day, all matter and the light; on the second day, the firmament; on the third, the sea and the land, with all the trees and the grass; on the fourth, the sun, the moon, and the stars; on the fifth, the fishes and the birds; on the sixth, the beasts upon the earth, and last of all He created man in His own image. Gen. 1. Read the whole chapter of the creation.
 
-**18. In what way was man the image of God?**
+**In what way was man the image of God?**
 
 Answer: In the wisdom, righteousness, and holiness created together with him; he had also the immortality of the body and dominion over all the beasts upon the earth, in the sea, and in the air, and many great advantages, all of which are called the image of God; this, through natural birth, would have passed to their children and descendants, if the first parents had stood fast in the perfection created together with them. Gen. 1:27. God created man in His own image, in the image of God created He him; male and female created He them. Eph. 4:24. Put ye on the new man, which after God is created in true righteousness and holiness. Gen. 1:28. God blessed them, and said unto them: Have dominion over the fish of the sea, and over the fowl of the air, and over all the beasts that move upon the earth.
 
-**19. Did man remain in the blessed state in which he was created?**
+**Did man remain in the blessed state in which he was created?**
 
 Answer: No, God amend it!
 
-**20. How, then, did he lose the image of God?**
+**How, then, did he lose the image of God?**
 
 Answer: Through the fall into sin and the transgression of God's commandment. Gen. 5:3. Adam begat a son in his own likeness, after his image.
 
-**21. Who are the invisible creatures?**
+**Who are the invisible creatures?**
 
 Answer: The angels. Ps. 104:4. Lord, Thou makest Thine angels spirits; Thy ministers a flaming fire.
 
-**22. What are the angels?**
+**What are the angels?**
 
 Answer: The angels are spirits, invisible, created in the beginning in truth, wisdom, honour, power, and righteousness.
 
-**23. Did they all remain in this glorious state?**
+**Did they all remain in this glorious state?**
 
 Answer: No. John 8:44. The devil abode not in the truth, for there is no truth in him.
 
-**24. What kinds of angels are there, then?**
+**What kinds of angels are there, then?**
 
 Answer: Two kinds: good and evil.
 
-**25. Who are the good?**
+**Who are the good?**
 
 Answer: Those who stood fast in the honour and righteousness created together with them, and are now so confirmed and steadfast in goodness that they can no more fall; and these are called the good angels and the angels of light. Matt. 18:10. Take heed that ye despise not one of these little ones; for I say unto you, that in heaven their angels do always behold the face of my Father which is in heaven.
 
-**26. What is their task?**
+**What is their task?**
 
 Answer: To honour God, to carry out His commandments, and also to serve and preserve those who shall inherit salvation. Heb. 1:14. Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?
 
-**27. Whom do you call the evil angels?**
+**Whom do you call the evil angels?**
 
 Answer: Those who fall away from God and were cast down into hell, bound with the chains of darkness, reserved unto the day of judgment. Jude v. 6. The angels which kept not their first estate, but left their own habitation, He hath reserved in darkness with everlasting chains unto the judgment of the great day. 2 Pet. 2:4. God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment.
 
-**28. Does God continue to care for all things each day?**
+**Does God continue to care for all things each day?**
 
 Answer: Truly God cares for all His creatures; but above all for men, and especially for the believers. Matt. 6:26. Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they? Matt. 10:30. The very hairs of your head are all numbered. 1 Cor. 9:9,10. 1 Tim. 4:10. God is the Saviour of all men, especially of those that believe.
 
-**29. Why does God do all these things?**
+**Why does God do all these things?**
 
 Answer: Out of His own pure grace and fatherly goodness, without the least merit on our part. Ps. 145:9. The Lord is good to all: and His tender mercies are over all His works.
 
-**30. What should be said about all the evil that happens in the world?**
+**What should be said about all the evil that happens in the world?**
 
 Answer: God does all that is good and furthers that which happens according to His will; but evil He forbids, punishes, and often hinders; yet sometimes He also permits it, setting a certain limit to it, and directs it to a good end. 2 Sam. 17:14. The Lord had appointed it so, that the good counsel of Ahithophel should be defeated, that the Lord might bring evil upon Absalom. Job 2:6. The Lord said unto Satan: Behold, he is in thine hand; but save his life. John 7:30. The chief men sought to take Jesus; but no man laid hands on Him, because the Lord's hour was not yet come.
 
-**31. What do these and God’s other good works oblige us to do?**
+**What do these and God’s other good works oblige us to do?**
 
 Answer: To thanksgiving, praise, obedience, and service. Ps. 136:1. O give thanks unto the Lord; for He is good: for His mercy endureth for ever (read the whole psalm). 1 Sam. 15:22. Samuel said: Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams. Luke 1:68,74,75. Zacharias said: Blessed be the Lord God of Israel! For He hath visited and redeemed His people. That we, being delivered out of the hand of our enemies, might serve Him without fear, in holiness and righteousness before Him, all the days of our life.
 
 THE SECOND ARTICLE OF FAITH, Of the Son of God and of Redemption
 
-**32. Who is the Son of God?**
+**Who is the Son of God?**
 
 Answer: The Son of God is the second person in the Godhead, begotten of the Father in eternity, who became man, born of the Virgin Mary. Micah 5:1. Bethlehem Ephratah, out of thee shall He come forth that is to be ruler in Israel; whose goings forth have been from of old, from everlasting. Isa. 7:14. Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
 
-**33. What good works has the Son of God done for us?**
+**What good works has the Son of God done for us?**
 
 Answer: He has delivered us from all sins, from death, and from the power of the devil. 1 John 1:7. The blood of Jesus Christ, the Son of God, cleanseth us from all sin. Hos. 13:14. I will ransom them from the power of hell, and redeem them from death.
 
-**34. By what means did He redeem us?**
+**By what means did He redeem us?**
 
 Answer: Not with gold nor with silver, but with His holy and precious blood. 1 Pet. 1:18,19. Knowing that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot.
 
-**35. What further good has He done for us?**
+**What further good has He done for us?**
 
 Answer: He has also fulfilled the law in our stead, by His perfect obedience. Gal. 4:4,5. When the fulness of the time was come, God sent forth His Son, made of a woman, made under the law: that He might redeem them that were under the law. Matt. 5:17. I am not come to destroy the law, but to fulfil it.
 
-**36. What names is He given in this article of faith?**
+**What names is He given in this article of faith?**
 
 Answer: Jesus Christ. 1 Cor. 3:11. Other foundation can no man lay than that is laid, which is Jesus Christ.
 

@@ -9,23 +9,23 @@ title: "Contentment and Holy Desire: The Ninth and Tenth Commandments"
 
 
 
-**69. How does the Law make us aware of sin?**
+**How does the Law make us aware of sin?**
 
 Answer: When we rightly examine the Ten Commandments of God and test our life, our thoughts, our words, and our deeds by them, then we perceive and find therein, as in the spiritual mirror of the soul, our faults and our lacks; for in many things we all come short. Rom. 3:12. They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one.
 
-**70. What is sin?**
+**What is sin?**
 
 Answer: All that strives against the Law of God, angers God, and deserves punishment. 1 John 3:4. Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law. Ps. 5:4. Thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee. Rom. 2:9. Tribulation and anguish, upon every soul of man that doeth evil.
 
-**71. How many kinds of sin are there?**
+**How many kinds of sin are there?**
 
 Answer: Of two kinds: original sin and actual sin.
 
-**72. What is original sin?**
+**What is original sin?**
 
 Answer: Original sin is not only the loss of the image of God, but also the whole corrupted nature of man and evil desire, in which he is conceived and born a child of wrath, without the fear of God and true faith; in short, it is the powerlessness to all good and the desire to all evil. Rom. 7:18. See question 61.
 
-**73. Why is it called original sin?**
+**Why is it called original sin?**
 
 Answer: Because we have inherited it through natural birth from our forefathers Adam and Eve. Ps. 51:5. Behold, I was shapen in iniquity; and in sin did my mother conceive me. Rom. 5:12. By one man sin entered into the world, and death by sin.
 

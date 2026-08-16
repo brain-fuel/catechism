@@ -9,39 +9,39 @@ title: "Nature of Holy Baptism"
 
 
 
-**1. What is a sacrament?**
+**What is a sacrament?**
 
 Answer: A sacrament is a holy ordinance and work of grace, wherein God, through visible and earthly elements, dealeth out heavenly gifts, and thereby not only offereth unto men the sweet promises of grace of the gospel, but also giveth and sealeth them in the hearts of those who rightly receive them and enjoy them in faith.
 
-**2. How many kinds of sacraments are there?**
+**How many kinds of sacraments are there?**
 
 Answer: Of two kinds: the one of the Old, the other of the New Testament.
 
-**3. What were the sacraments of the Old Testament?**
+**What were the sacraments of the Old Testament?**
 
 Answer: Circumcision and the paschal lamb.
 
-**4. What are the sacraments of the New Testament?**
+**What are the sacraments of the New Testament?**
 
 Answer: Baptism and the sacrament of the altar, or the Lord's Supper.
 
-**5. What is Baptism?**
+**What is Baptism?**
 
 Answer: Baptism is not simply bare water, but is water comprehended in God's command and united with His word.
 
-**6. What does it mean that the water is included in God’s command?**
+**What does it mean that the water is included in God’s command?**
 
 Answer: It is: ordained and commanded of God.
 
-**7. What does it mean that the water is united with God’s Word?**
+**What does it mean that the water is united with God’s Word?**
 
 Answer: It is: united and hallowed with God's word and His holy name in a sacramental manner.
 
-**8. Can you say it more plainly?**
+**Can you say it more plainly?**
 
 Answer: I can, in this way: Baptism is the first sacrament of the New Testament, in which God, through water and the Word, receives a person into His covenant, cleanses him from his sins, and confirms him in grace and in the right to inherit eternal life. In response, the person renounces the devil and all his works and gives himself entirely (firmly promises or undertakes) to serve God in sincere faith and in true holiness and righteousness.
 
-**9. Who instituted and ordained Baptism?**
+**Who instituted and ordained Baptism?**
 
 Answer: God Himself sent John to baptize, and thereafter Jesus Christ commanded His disciples to go out into all the world to make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Ghost. Luke 3:2,3. When Annas and Caiaphas were the high priests, the word of God came unto John the son of Zacharias in the wilderness. And he came into all the country about Jordan, and preached for remission. John 1:33. Matt. 28:19. Jesus said unto His disciples: Go ye and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Ghost.
 
@@ -49,7 +49,7 @@ Answer: God Himself sent John to baptize, and thereafter Jesus Christ commanded 
 
 As the head of the family should teach it in a simple way to his household.
 
-**1. What is Baptism?**
+**What is Baptism?**
 
 Answer: Baptism is not simple water only, but it is water comprehended in God's command and connected with His Word.
 
@@ -57,7 +57,7 @@ Answer: Baptism is not simple water only, but it is water comprehended in God's 
 
 Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Matthew: Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you.
 
-**2. What gifts or benefits does Baptism bestow?**
+**What gifts or benefits does Baptism bestow?**
 
 Answer: Baptism works forgiveness of sins, delivers from death and the devil, and gives everlasting life to all who believe the words and promises of God.
 
@@ -65,11 +65,11 @@ Answer: Baptism works forgiveness of sins, delivers from death and the devil, an
 
 Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Mark: He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 
-**3. How can water do such great things?**
+**How can water do such great things?**
 
 Answer: It is not the water indeed that does them, but the Word of God which is in and with the water, and faith, which trusts such Word of God in the water. For without the Word of God the water is simple water and no Baptism; but with the Word of God it is a Baptism, that is, a gracious water of life and a washing of regeneration in the Holy Ghost, as St. Paul says in his Epistle to Titus, in the third chapter: According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Savior; that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is a faithful saying.
 
-**4. What does Baptism signify?**
+**What does Baptism signify?**
 
 Answer: It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts; and that again a new man should daily come forth and arise, who shall live before God in righteousness and purity forever.
 
