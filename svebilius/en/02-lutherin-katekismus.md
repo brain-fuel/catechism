@@ -128,7 +128,7 @@ Answer: By this preface God would draw us to believe firmly that He is truly our
 
 Answer: God's name is indeed holy in itself; but we pray in this petition that it may be hallowed among us also.
 
-**How and when does this come to pass?**
+**How and when does this happen?**
 
 Answer: When the Word of God is taught clearly and purely, and we, as the children of God, live holy lives according to it; to this help us, dear heavenly Father! But whosoever teaches and lives otherwise than the Word of God directs, profanes the name of God among us; from this preserve us, heavenly Father! The Second Petition. Thy kingdom come.
 
@@ -136,15 +136,15 @@ Answer: When the Word of God is taught clearly and purely, and we, as the childr
 
 Answer: The kingdom of God comes indeed of itself, without our prayer; but we pray in this petition that it may come unto us also.
 
-**How and when does this come to pass?**
+**How and when does this happen?**
 
 Answer: When our heavenly Father gives us His Holy Spirit, so that by His grace we believe His Word, and live holy lives here in this world, and hereafter in heaven forever. The Third Petition. Thy will be done on earth as it is in heaven.
 
-What does this mean?
+**What does this mean?**
 
 Answer: The good and gracious will of God is done indeed without our prayer; but we pray in this petition that it may be done among us also.
 
-**How and when does this come to pass?**
+**How and when does this happen?**
 
 Answer: When God restrains and breaks the will of our flesh and every evil counsel, and shatters and brings to nothing all the devices of the devil and the world, which will not let us hallow God's name and will not let His kingdom come unto us; and when He keeps us steadfast in His Word and in the true faith unto the end. Thus His good and gracious will is done. The Fourth Petition. Give us this day our daily bread.
 
@@ -170,7 +170,7 @@ Answer: We pray in this petition, as in a summary, that our dear heavenly Father
 
 at last, when our hour of death shall come, He would grant us a blessed end, and graciously take us from this vale of tears to Himself in heaven. For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
-**Amen, what does this mean?**
+**What does “Amen” mean?**
 
 Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
@@ -182,7 +182,7 @@ As the head of the family should teach it in a simple way to his household.
 
 Answer: Baptism is not simple water only, but it is water comprehended in God's command and connected with His Word.
 
-**Which is that Word of God?**
+**What are those words of God?**
 
 Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Matthew: Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you.
 
@@ -190,7 +190,7 @@ Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according t
 
 Answer: Baptism works forgiveness of sins, delivers from death and the devil, and gives everlasting life to all who believe the words and promises of God.
 
-**Which are such words and promises of God?**
+**What are those words and promises of God?**
 
 Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Mark: He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 
@@ -198,11 +198,11 @@ Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according t
 
 Answer: It is not the water indeed that does them, but the Word of God which is in and with the water, and faith, which trusts such Word of God in the water. For without the Word of God the water is simple water and no Baptism; but with the Word of God it is a Baptism, that is, a gracious water of life and a washing of regeneration in the Holy Ghost, as St. Paul says in his Epistle to Titus, in the third chapter: According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Savior; that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is a faithful saying.
 
-**4. What does such baptizing with water signify?**
+**4. What does Baptism signify?**
 
 Answer: It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts; and that again a new man should daily come forth and arise, who shall live before God in righteousness and purity forever.
 
-Where is this written?
+**Where is this written?**
 
 Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are buried with Christ by baptism into death, that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
@@ -214,11 +214,11 @@ How the simple should be taught to confess their sins.
 
 Answer: Confession consists of two parts: the one, that we confess our sins; the other, that we receive absolution or forgiveness from the confessor, as from God Himself, and in no wise doubt, but firmly believe that our sins are thereby forgiven before God in heaven.
 
-**Which sins should we confess?**
+**What sins should we confess?**
 
 Answer: Before God we should confess ourselves guilty of all sins, even of those which we do not know, as we do in the Lord's Prayer. But before the confessor we should confess only those sins which we know and feel in our hearts, and which trouble the conscience.
 
-**Which are these?**
+**What are they?**
 
 Answer: Consider your station according to the Ten Commandments, whether you are a father, mother, son, daughter, master, mistress, or servant, and the like; whether you have been hard-hearted, unfaithful, slothful, angry, or unchaste in deeds and words; whether you have wronged anyone by words or deeds, stolen, lied, or through carelessness done any harm and injured another's goods. A Short Form of Confession. Thus should you speak and confess before the confessor: Reverend and dear sir! I pray you to hear my confession, and to pronounce forgiveness to me for God's sake. If you are a servant, say thus: I, a poor sinner, confess myself guilty of all sins; and in particular I confess before you that I am a servant, and the like; but (alas) in many things I have not done as the heads of the household commanded me. I have provoked them and moved them to scold and curse; I have been slothful and let much harm come; I have been unseemly in words and deeds, impatient and grumbling, quarreled and wrangled with my equals, and the like. For all this I am sorry, and I pray for grace; I will gladly amend my ways. The head of the household should speak thus: In particular I confess before you that I have not faithfully brought up my children and household, nor accustomed them to honor God. I have cursed and taken God's name in vain, and been a bad example both in word and deed; I have done much harm to those who dwell with me, slandered many, cheated with false measure, sold dearly and deceitfully; and whatever else he has done against God's commandments and his station. But if anyone does not find himself burdened with such or greater sins, let him not be anxious about others, nor seek out and invent further sins for himself, thereby making his confession a torment of conscience; but let him name one or two that he knows. Thus: In particular I confess before you that once I cursed, once I spoke unseemly words, once I did such a thing, and then let it rest. But if he cannot name a single one (which is scarcely possible), let him not name any in particular, but receive forgiveness upon the general confession which he makes to God before the confessor, saying thus: I, a poor sinner, conceived and born in sin, and who all the days of my life have lived sinfully, confess with all my heart before You, Almighty and eternal God, my dear heavenly Father, that I have not loved You above all things, nor my neighbor as myself. I have, together with my forefathers, in many ways, by thoughts, words, and deeds, sinned against You and Your holy commandments, and I know therefore that I have deserved everlasting damnation, if You should judge me as Your holy justice demands and as my sins have deserved. But now You, dear heavenly Father, have promised Your grace and mercy to all poor sinners who desire to repent and by heartfelt faith flee to Your incomprehensible mercy and to the refuge of the Savior Jesus Christ. To such You will be merciful, however greatly they have sinned against You, and You will never again reproach them with their sins. In this I too, a poor sinner, put my trust, and pray with confidence: be merciful and gracious to me according to Your same promise, and forgive me all my sins, to the praise and glory of Your holy name. May Almighty and eternal God, for the sake of His great and incomprehensible mercy and of the Savior Jesus Christ, forgive us all our sins and grant us grace, that we may forsake our sinful life and obtain everlasting life with Him. Amen. And likewise: Merciful God, dear heavenly Father, whose mercy has no end! You who are patient and long-suffering, and of Your great mercy forgive iniquities, transgressions, and sins. We have sinned with our fathers, we have done wrong, we have been ungodly and displeased You; against You have we sinned, and done evil in Your sight; but remember not our former iniquities. Have speedy mercy upon us, for we are brought very low. Help us, O God of our salvation, for Your name's sake. Deliver us, and forgive us all our sins, and grant us the grace of Your Holy Spirit, that we may forsake our sinful life and obtain everlasting life with You, through Your Son, Jesus Christ our Lord. Amen. Or: O most merciful crucified Lord Jesus Christ, have mercy on me, a poor sinner, and look upon me with the eyes of Your mercy, as You looked upon Peter in the hall when he had denied You, and as You looked upon the sinful woman at the table in the Pharisee's house, and upon the thief on the cross; and grant me, through Your most holy grace, that with Peter I may weep over my sins, and with the sinful woman love You from my heart, and with the thief behold Your holy face in heaven forever. Amen. Here the confessor shall say: God be merciful to you, and strengthen your faith! Amen. The confessor shall ask the one confessing:
 
@@ -238,7 +238,7 @@ Answer: It is the true body and blood of our Lord Jesus Christ, under the bread 
 
 Answer: Thus write the holy Evangelists Matthew, Mark, Luke, and St. Paul: Our Lord Jesus Christ, in the night in which He was betrayed, took bread, and when He had given thanks, He brake it, and gave it to His disciples, saying: Take, eat; this is my body, which is given for you: this do in remembrance of me. After the same manner also He took the cup, when He had given thanks, and gave it to His disciples, saying: This cup is the New Testament in my blood, which is shed for you and for many for the remission of sins: this do ye, as oft as ye drink it, in remembrance of me.
 
-**What is the benefit of such eating and drinking?**
+**What benefits do such eating and drinking give?**
 
 Answer: That is shown us by these words: Given and shed for you for the remission of sins. Namely, that in this Sacrament forgiveness of sins, life, and salvation are given us through these words. For where there is forgiveness of sins, there is also life and salvation.
 

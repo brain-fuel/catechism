@@ -12,7 +12,7 @@ Answer: I am.
 
 Answer: Because I am baptized in the name of the Father and of the Son and of the Holy Spirit, and in baptism have put on Christ, whom I believe and confess to be my Saviour and the author of my salvation. Gal. 3:27. As many of you as have been baptized into Christ have put on Christ. Acts 4:12. Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
 
-**3. From what have you learned and know this?**
+**3. How have you learned and come to know this?**
 
 Answer: From the Catechism.
 
@@ -32,23 +32,23 @@ Answer: 1. The Ten Commandments of God. 2. The Confession of Faith. 3. The Lord'
 
 Answer: There are also prayers: morning and evening prayers, graces at meals, and the table of duties.
 
-8. Why is the Catechism also called the children's doctrine?
+**8. Why is the Catechism also called instruction for children?**
 
 Answer: Because all ought to learn it from childhood, and therein, as the children of God, to exercise themselves all their lives. Deut. 6:6,7. These words which I command thee shall be in thine heart, and thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up. 2 Tim. 3:15. From a child thou hast known the holy Scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus. 1 Pet. 2:2. As newborn babes, desire the sincere milk of the word, that ye may grow thereby.
 
-**9. From where is the Catechism taken?**
+**9. Where is the Catechism taken from?**
 
 Answer: From the holy Scripture.
 
-**10. What is the holy Scripture?**
+**10. What is Holy Scripture?**
 
 Answer: It is the Word of God, which the prophets, evangelists, and apostles, by the working and revelation of the Holy Spirit, have written and proclaimed, for our instruction, comfort, and eternal salvation. 2 Pet. 1:21. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. Rom. 15:4. For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the Scriptures might have hope. John 20:31. These are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through faith in his name.
 
-**11. When did they write these things?**
+**11. When did they write them?**
 
 Answer: The prophets wrote in the Old, but the evangelists and apostles in the New Testament.
 
-**12. What does the holy Scripture contain within itself?**
+**12. What does Holy Scripture contain?**
 
 Answer: Two things: the Law and the Gospel.
 
@@ -70,7 +70,7 @@ Answer: Through Moses.
 
 John 1:17. The Law was given by Moses; grace and truth came by Jesus Christ.
 
-**4. What man was Moses?**
+**4. What kind of man was Moses?**
 
 Answer: He was a faithful servant of the Lord, who led the people of Israel out of Egypt.
 
@@ -88,7 +88,7 @@ The first table
 
 Answer: The first three.
 
-**8. What do they contain within themselves?**
+**8. What do they contain?**
 
 Answer: They require love toward God.
 
@@ -96,15 +96,15 @@ Answer: They require love toward God.
 
 Answer: All service of idols, that we should have no strange gods before him or beside him. The reason for this prohibition is that he says: I am the Lord thy God, that is: I, who speak and command this, am of myself the Lord, the most high, from whom all things have received their being, thy God, who have created and protected thee, and have given thee my Law: therefore thou art also bound to show all obedience to me alone. Matt. 4:10. Thou shalt worship the Lord thy God, and him only shalt thou serve. Matt. 22:37. Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
 
-**10. What is it: to have strange gods?**
+**10. What does it mean to have other gods?**
 
 Answer: It is: when someone bows down to and prays to others besides the Lord alone, or ventures and trusts in some other thing in the world than in the one true God alone.
 
-**11. How, and in what manner, does such service of idols come to pass?**
+**11. In what ways does such idolatry take place?**
 
 Answer: In many ways: when the sun, the moon, and the stars of heaven are served, and likewise angels, departed saints, images and relics of saints; or when help is sought from the devil and his instruments, such as sorcerers, wizards, forest-spirits, water-spirits, house-goblins, and others of the like. Deut. 4:15,19. Take ye therefore good heed unto your souls: lest thou lift up thine eyes unto heaven, and behold the sun, the moon, and the stars, even all the host of heaven, and be driven to worship them and serve them. Rev. 19:10. I John fell at the feet of the angel to worship him. But he said unto me: See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship and pray to God. Exod. 20:4. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. Deut. 18:10,11. There shall not be found among you any one that is a diviner, an observer of times, an enchanter, a witch, a charmer, a wizard, an interpreter of signs, or one who inquires anything of the dead.
 
-**12. Does it come to pass in yet more ways?**
+**12. Does it take place in still other ways?**
 
 Answer: Indeed it does: when someone trusts in himself, in his wisdom, his riches, and his goods; ventures upon the power and greatness of other men; and likewise, when someone makes his belly his god. Prov. 3:5. Trust in the Lord with all thine heart, and lean not unto thine own understanding. Ps. 146:3. Put not your trust in princes; they are but men, they cannot help at all. Phil. 3:19. Whose God is their belly.
 
@@ -112,15 +112,15 @@ Answer: Indeed it does: when someone trusts in himself, in his wisdom, his riche
 
 Answer: That we should rightly fear him, love him, and trust in him, and likewise call upon him in all our need and praise him.
 
-**14. How ought we to fear and love God?**
+**14. How should we fear and love God?**
 
 Answer: Above all things, with all our heart, with all our soul, and with all our mind. Deut. 6:5. Thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might. Matt. 22:37.
 
-**15. What is it: to fear and love God above all things?**
+**15. What does it mean to fear and love God above all things?**
 
 Answer: It is: to acknowledge and honour the greatness and righteousness of God, to hold him as our best treasure, to bow down before him, and to hold him dear above all things. Ps. 18:1,2. I will love thee, O Lord, my strength, the Lord my rock, my fortress, and my Saviour; my God is my strength, in whom I will trust, my shield, and the horn of my salvation, and my high tower. Josh. 24:14. Fear the Lord, and serve him in sincerity and in truth, and put away the gods which your fathers served.
 
-**16. What is it: to believe and trust in him alone?**
+**16. What does it mean to believe and trust in him alone?**
 
 Answer: It is: to trust perfectly and firmly in the almightiness, goodness, and truth of God, and to venture upon him alone. Ps. 62:8. Ye people, trust in him at all times; pour out your heart before him: God is a refuge for us, Selah! Ps. 71:5. For thou art my hope, O Lord God: my trust from my youth. By thee have I been holden up from my mother's womb: thou art ever my praise.
 
@@ -140,11 +140,11 @@ Answer: When someone mocks and dishonours God, and likewise, out of anger, evil 
 
 Answer: It is, in anger and wrath, to wish upon oneself or one's neighbour all manner of evil. Ps. 10:7. The mouth of the ungodly is full of cursing. Ps. 109:17. As he loved cursing, so let it come unto him. Rom. 12:14. Bless them which persecute you: bless, and curse not. Lev. 24:11,23. The son of the woman of Israel blasphemed the name, and cursed: so they brought him forth out of the camp, him that had cursed, and stoned him to death.
 
-**21. What is it: to swear by the name of God?**
+**21. What does it mean to swear by the name of God?**
 
 Answer: When someone takes God as witness and avenger, in order thereby to confirm his word.
 
-**22. Is all swearing utterly forbidden?**
+**22. Is every oath completely forbidden?**
 
 Answer: No; when the honour of God and our duty of faithfulness toward the government, or the need of our neighbour and our own, require it; and likewise at the command of a judge, we may take an oath and thereby confirm the truth. Deut. 6:13. Thou shalt fear the Lord thy God, and serve him, and shalt swear by his name. Jer. 4:2. Then thou shalt swear, The Lord liveth, in truth, in judgment, and in righteousness. Heb. 6:16. For men verily swear by the greater: and an oath for confirmation is to them an end of all strife. 2 Cor. 1:23. I call God for a record upon my soul.
 
@@ -166,7 +166,7 @@ Answer: That we hold the name of the Lord in honour, which comes to pass when we
 
 Answer: That we should remember the sabbath, or the day of rest, so that we keep it holy.
 
-**27. Why does God say: remember?**
+**27. Why does God say, “Remember”?**
 
 Answer: He wills that we bring it to our remembrance when the sabbath, or day of rest, draws near, and that we fittingly prepare ourselves for it.
 
@@ -174,15 +174,15 @@ Answer: He wills that we bring it to our remembrance when the sabbath, or day of
 
 Answer: First, in the Old Testament, the seventh day, which was Saturday, was appointed and hallowed as the day of rest; but afterward, in the New Testament, Sunday has been set for it, because our Lord Jesus rose again from the dead on that day, for which reason it is also called the Lord's day. Gen. 2:3. God blessed the seventh day and sanctified it: because that in it he had rested from all his work which he had created and (perfectly) made. Exod. 20:10. The seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work. Acts 20:7. Rev. 1:10. I was in the Spirit on the Lord's day.
 
-**29. What is the hallowing of the day of rest?**
+**29. What does it mean to keep the day of rest holy?**
 
 Answer: That a man leaves all worldly labours and bodily work that hinder the service of God, and spends that day in the hearing of the Word of God, in prayer, and in songs of praise, serving God both in thoughts and in words and deeds. Exod. 31:14. Keep the sabbath, for it is holy unto you: every one that defileth it shall surely be put to death; for whosoever doeth any work therein, that soul shall be cut off from among the people. Ps. 92:1,2. It is a good thing to give thanks unto the Lord, and to sing praises unto thy name, O thou most High: to shew forth thy lovingkindness in the morning, and thy faithfulness in the evening. Luke 10:16. He that heareth you heareth me; and he that despiseth you despiseth me; but he that despiseth me despiseth him that sent me.
 
-**30. Then may no work be done on Sunday?**
+**30. Then is no work permitted on Sunday?**
 
 Answer: What great need and Christian love require is not forbidden; therefore it is well allowed on the sabbath to help an ox out of the pit. Matt. 12:11,12. What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out? How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days. Luke 14:5. Which of you shall have an ox or an ass fallen into a pit, and will not straightway pull him out on the sabbath day?
 
-**31. What is it: to hold the Word of God holy?**
+**31. What does it mean to regard the Word of God as holy?**
 
 Answer: It is: to hold it as the soul's best treasure; not as the word of men, but as the Word of God, to hear and read it gladly and in humility, to keep it in a holy heart, and to order one's life according to it. 1 Thess. 2:13. When ye received the word of God which ye heard of us, ye received it not as the word of men, but (as it is in truth) the word of God, which effectually worketh also in you that believe. Acts 13:26. Whosoever among you feareth God, to you is the word of this salvation sent. Heb. 13:17. Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.
 
@@ -192,7 +192,7 @@ Answer: That we should not despise preaching and the Word of God, nor forsake an
 
 The second table
 
-**33. Which and how many commandments are in the second table?**
+**33. Which commandments are in the second table, and how many are there?**
 
 Answer: The latter seven.
 
@@ -200,7 +200,7 @@ Answer: The latter seven.
 
 Answer: Love toward our neighbour.
 
-**35. How ought we to love our neighbour?**
+**35. How should we love our neighbour?**
 
 Answer: As ourselves. Matt. 22:39. Thou shalt love thy neighbour as thyself.
 
@@ -208,7 +208,7 @@ Answer: As ourselves. Matt. 22:39. Thou shalt love thy neighbour as thyself.
 
 Answer: All men, both friends and enemies, known and unknown, poor and rich, whoever has need of our counsel and our help. Matt. 5:44. Love your enemies: bless them that curse you, do good to them that hate you, and pray for them which persecute you and injure you. Luke 6:27,35.
 
-**37. Why are all men called our neighbour?**
+**37. Why is every person called our neighbour?**
 
 Answer: Because we all have one God: we all dwell together here upon the earth; we are all descended from Adam and Eve; all have a like going-out, for all must depart hence. Acts 17:26. God hath made of one blood all the nations of men for to dwell on all the face of the earth. Job 5:7. Man is born unto trouble, as the sparks fly upward. Job 7:1. Is there not an appointed time to man upon earth? are not his days also like the days of an hireling? Eccles. 9:3. There is one event unto all.
 
@@ -216,11 +216,11 @@ Answer: Because we all have one God: we all dwell together here upon the earth; 
 
 Answer: To honour father and mother.
 
-**39. What is understood by the name of father and mother?**
+**39. Who are included under the names of father and mother?**
 
 Answer: Natural parents, father-in-law and mother-in-law, stepfather and stepmother, foster-fathers and foster-mothers, the government, teachers, masters, and all who take a fatherly care of us. Luke 2:41,51. The parents of Jesus (Joseph and Mary) went to Jerusalem, and he was subject unto them. Micah 7:6. The son despiseth his father, the daughter riseth up against her mother, and the daughter in law against her mother in law. 2 Kings 13:14. Now Elisha was fallen sick of his sickness whereof he died, and Joash the king of Israel came down unto him, and wept over him, and said: O my father! my father!
 
-**40. What is it: to hold them in honour and before our eyes?**
+**40. What does it mean to honour and esteem them?**
 
 Answer: It is to love them from the heart, to pray for them, to be with them in humility, that we should not anger them nor make them sorrowful; but should serve and honour them in deeds, words, and forbearance, and gladly obey them. Lev. 19:3. Every one shall fear his mother and his father. Mal. 1:6. A son honoureth his father, and a servant his master. Eph. 6:2,3. Honour thy father and mother (which is the first commandment with promise), that thou mayest prosper and live long on the earth. Col. 3:20. Children, obey your parents in all things: for this is well pleasing unto the Lord.
 
@@ -228,15 +228,15 @@ Answer: It is to love them from the heart, to pray for them, to be with them in 
 
 Answer: In all things that are not against the Word of God and a good conscience, for then God is rather to be obeyed than man. Col. 3:20. See question 40. Prov. 23:22. Hearken unto thy father that begat thee, and despise not thy mother when she is old. Acts 5:29. Peter and the other apostles said: We ought to obey God rather than men.
 
-42. What does God promise to those who do these things?
+**42. What does God promise to those who do these things?**
 
 Answer: That they shall prosper and become long-lived upon the earth. Deut. 5:16. Honour thy father and thy mother, as the Lord thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the Lord thy God giveth thee. Eph. 6:3. See question 40.
 
-**43. Are those, then, always unpleasing to God who die early?**
+**43. Are those who die young, then, always displeasing to God?**
 
 Answer: By no means; for it often comes to pass that God snatches away early from misfortune those whom he loves, and gives them a better life. Isa. 57:1,2. The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come. And they that have walked in their uprightness shall enter into peace, and rest in their chambers.
 
-**44. How is it forbidden in the fourth commandment?**
+**44. How is this promise to be understood?**
 
 Answer: It is to be understood on this condition: if it is profitable to us and pleasing to God.
 
@@ -248,11 +248,11 @@ Answer: Disobedience, contempt, the angering of parents, or of all those who are
 
 Answer: Killing, or the slaying of a man.
 
-**47. How does killing, or the slaying of a man, come to pass?**
+**47. In what ways is murder committed?**
 
 Answer: When someone, whether himself or through others, secretly or openly, strikes dead, or kills with poison, or harms the life or the members of his neighbour, hates him from his heart, treats him with evil words and behaviour, and persecutes him. Gen. 9:6. Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man. Matt. 5:22. Whosoever is foolishly angry with his brother shall be in danger of the judgment: but whosoever shall say to his brother, Raca (worthless one), shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire. Gen. 4:5. But unto Cain and to his offering God had not (graciously) respect: and Cain was very wroth, and his countenance was changed.
 
-**48. Is then all killing and anger forbidden by God?**
+**48. Does God, then, forbid all killing and anger?**
 
 Answer: No; the earthly government, into whose hand God has given the sword for the punishment of the wicked, ought to punish the cruel.
 
@@ -260,7 +260,7 @@ Answer: No; the earthly government, into whose hand God has given the sword for 
 
 Answer: That we should help, deliver, and care for our neighbour in all his need.
 
-50. How does that come to pass?
+**50. How is this done?**
 
 Answer: When we have mercy upon our neighbour and are diligent in all that is for the good of his life and his health, and hinder that which may harm him.
 
@@ -276,7 +276,7 @@ Answer: First, in general, that all men should lead a chaste and pure life and s
 
 Answer: All manner of theft.
 
-**54. In how many ways does theft come to pass?**
+**54. In what ways is theft committed?**
 
 Answer: In many ways; but especially when someone: 1. Without leave and secretly takes away another's money or property against his will; or by violence robs something from him: 2. Entices and coaxes something from him; 3. Cheats someone in trade with false measure and balance; 4. When the government and teachers are not given their lawful portion that is due to them: 5. When someone does the work of his office lazily; 6. Withholds from a labourer his earned wage, and other such things. Eph. 4:28. Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth. Lev. 19:13. Thou shalt not do thy neighbour wrong, nor rob him. The wages of him that is hired shall not abide with thee until the morning. 1 Thess. 4:6. That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such. Deut. 25:13,14. Thou shalt not have in thy bag divers weights, a great and a small. Neither shalt thou have in thine house divers measures, a great and a small. Matt. 22:21. Render unto Caesar the things which are Caesar's; and unto God the things that are God's. Mal. 3:10. Bring ye the whole tithes into my storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out abundantly a blessing.
 
@@ -288,7 +288,7 @@ Answer: Faithfulness and honesty toward every one, that no wrong be done to anyo
 
 Answer: False witness and lying, which is the offspring of the devil. John 8:44. The devil abode not in the truth, for there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
 
-**57. How does it come to pass?**
+**57. In what ways are false witness and lying committed?**
 
 Answer: When someone: 1. Lies about his neighbour and witnesses falsely against him; 2. Betrays him by revealing entrusted secrets; 3. Turns his words and works to the worse and slanders him; 4. By false accusation ruins his good name and worth. Exod. 23:1. Thou shalt not believe lies, that thou shouldest help the ungodly and become a false witness. Prov. 20:19. Meddle not with him that revealeth a secret, that slandereth and hath a deceitful mouth.
 
@@ -312,7 +312,7 @@ Answer: That evil desire born with us, and original sin, which is the root and b
 
 Answer: That we should utterly cast off that evil desire, and that we should have perfect purity of heart; and likewise that by counsel and deed we should help, so that our neighbour's spouse and servants might remain in their calling, their service, and their station, and faithfully do what they are bound to do.
 
-**63. Why is it said in the explanation of each commandment: we ought to fear and love God?**
+**63. Why does the explanation of each commandment say that we should fear and love God?**
 
 Answer: We make known thereby that the fear and love of God is the beginning and the source from which all the works commanded in the Law ought to flow; for without the fear and love of God they are, before God, nothing other than hypocrisy. 1 John 5:2. By this we know that we love the children of God, when we love God, and keep his commandments.
 
@@ -320,23 +320,23 @@ Answer: We make known thereby that the fear and love of God is the beginning and
 
 Answer: That which Jesus said to the learned Pharisee, Matt. 22:37-39: Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it: Thou shalt love thy neighbour as thyself. Deut. 6:5. Lev. 19:18.
 
-**65. How is the Law, or the Ten Commandments, concluded?**
+**65. How does the conclusion of the Law, or the Ten Commandments, read?**
 
 Answer: 1. With the threat of punishment to those who break the Law; 2. But with the promise of grace and all good to those who keep and fulfil it.
 
-**66. Can any man fulfil, or perfectly keep, the Law?**
+**66. Can anyone fulfill, or perfectly keep, the Law?**
 
 Answer: No; in the state of innocence, before man fell into sin, he was able to keep the Law perfectly; but now, after the fall into sin, it is impossible for him, for the Law is spiritual, requiring perfect obedience; but we are carnal, and corrupted by evil desire. Rom. 7:14. We know that the law is spiritual: but I am carnal, sold under sin. Acts 15:10. Why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear? Eph. 2:1. Ye were dead in trespasses and sins. 2 Cor. 3:5. We are not sufficient of ourselves to think any thing as of ourselves.
 
-**67. Is God then harsh and unjust, that he requires of us what we cannot keep?**
+**67. Is God, then, harsh and unjust because He requires of us what we cannot fulfill?**
 
 Answer: God forbid! God is not to blame for this; but he requires by right that again which he lent to our forefathers, namely the power and skill to fulfil the Law; no otherwise than when someone has lent to another, and the other has squandered it, so that he cannot pay it back; he cannot be charged with wrong who seeks out his own from that man's children and heirs.
 
-**68. To what, then, is the Law necessary?**
+**68. What purpose, then, does the Law serve?**
 
 Answer: The Law teaches: 1. What we ought to do and to shun; 2. To know our sin and our corrupted nature; 3. It chastens and drives us to seek Christ, who is the end and fulfiller of the Law; for it shows us, and forcefully concludes in our own conscience, that we cannot by our own power keep it perfectly. Rom. 3:20. By the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin. Gal. 3:24. The law was our schoolmaster to bring us unto Christ, that we might be justified by faith. Rom. 10:4. Christ is the end of the law for righteousness to every one that believeth.
 
-**69. How do we know sin from the Law?**
+**69. How does the Law make us aware of sin?**
 
 Answer: When we rightly examine the Ten Commandments of God and test our life, our thoughts, our words, and our deeds by them, then we perceive and find therein, as in the spiritual mirror of the soul, our faults and our lacks; for in many things we all come short. Rom. 3:12. They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one.
 
@@ -344,7 +344,7 @@ Answer: When we rightly examine the Ten Commandments of God and test our life, o
 
 Answer: All that strives against the Law of God, angers God, and deserves punishment. 1 John 3:4. Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law. Ps. 5:4. Thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee. Rom. 2:9. Tribulation and anguish, upon every soul of man that doeth evil.
 
-**71. Of how many kinds is sin?**
+**71. How many kinds of sin are there?**
 
 Answer: Of two kinds: original sin and actual sin.
 
@@ -384,7 +384,7 @@ SECOND CHIEF ARTICLE
 
 Answer: It is the doctrine of God, of the Holy Trinity, and of His good works; which every Christian person must indeed know and believe, if he would be saved.
 
-**2. What does the Greek word "gospel" signify?**
+**2. What does the Greek word “gospel” mean?**
 
 Answer: A sweet and good tiding.
 
@@ -392,7 +392,7 @@ Answer: A sweet and good tiding.
 
 Answer: It teaches that we have a gracious God, through faith in Jesus Christ, so that we obtain the forgiveness of sins and eternal life. John 3:16. God so loved the world, that He gave His only Son, that whosoever believeth in Him should not perish, but have everlasting life. John 20:31. These are written, that ye might believe that Jesus Christ is the Son of God, and that ye might have life through faith in His name.
 
-**4. What difference is there between the law and the Gospel?**
+**4. What is the difference between the Law and the Gospel?**
 
 Answer: The law rebukes man for sin and terrifies him; but the Gospel comforts him and assures him of God's grace and of the forgiveness of sins. The law requires works, the Gospel faith. The law is known in some measure by nature; the Gospel is a mystery, hidden from all skill and understanding; but God has brought it forth through His Son. The law promises eternal life to those who keep it out of their own righteousness by perfect obedience; the Gospel promises it also, but through another, namely through the righteousness of Christ, appropriated by faith.
 
@@ -408,7 +408,7 @@ Answer: The first, of God the Father and of creation; the second, of the Son of 
 
 THE FIRST ARTICLE OF FAITH, Of God the Father and of Creation
 
-**7. Why dost thou say: I believe?**
+**7. Why do you say, “I believe”?**
 
 Answer: For this reason, that he who would be saved may not trust in the faith of others, but must have for himself a right Christian faith, so that he may say with Paul: I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day. 2 Tim. 1:12.
 
@@ -420,7 +420,7 @@ Answer: In God.
 
 Answer: God, according to His being, is a Spirit, eternal, almighty, righteous, present in all places, all-knowing, true, and merciful. John 4:24. God is a Spirit. Ps. 90:2. Before the mountains were brought forth, or ever Thou hadst formed the earth and the world, Thou art God from everlasting to everlasting. Job 42:2. I know that Thou canst do all things. Dan. 9:14. The Lord our God is righteous in all His works which He doeth. Ps. 139:1,8,9,10. Lord, Thou hast searched me, and known me. If I ascend up into heaven, Thou art there; if I make my bed in hell, behold, Thou art there also. If I take the wings of the morning, and dwell in the uttermost parts of the sea, even there shall Thy hand lead me, and Thy right hand shall hold me. John 8:26. Jesus said: He that sent me is true. Exod. 34:6. The Lord cried: The Lord, The Lord God, merciful and gracious, longsuffering, and abundant in goodness and truth.
 
-**10. Is there then more than one God?**
+**10. Is there, then, more than one God?**
 
 Answer: No; He alone is one, but in the being of the Godhead there are three persons: the Father, the Son, and the Holy Spirit, and they are called the Holy Trinity, or the Threefold Unity. Deut. 6:4. Hear, O Israel: The Lord our God is one Lord. 1 John 5:7. There are three that bear record in heaven, the Father, the Word, and the Holy Spirit: and these three are one.
 
@@ -436,31 +436,31 @@ Answer: Not because He is in any respect more or greater, or in regard to time e
 
 Answer: He has created us, cares for us, watches over us, and protects us. He has also given His Son for us. Ps. 71:6. Thou hast drawn me out of my mother's womb. Job 10:8. Thine hands have made me and fashioned me together round about. Acts 17:28. In Him we live, and move, and have our being. Isa. 41:10. Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness. Matt. 6:23. John 2:16. See Question 3.
 
-**14. Are then the Son and the Holy Spirit excluded from the work of creation?**
+**14. Are the Son and the Holy Spirit, then, excluded from the work of creation?**
 
 Answer: By no means; for the Father has created all things through the Son in the Holy Spirit. Heb. 1:2. God has made the world through the Son. Col. 1:16. Ps. 33:6. By the word of the Lord were the heavens made; and all the host of them by the breath of His mouth. Job 33:4.
 
-**15. Out of what did God make all things in the beginning?**
+**15. What did God make all things from in the beginning?**
 
 Answer: Out of nothing. Heb. 11:3. Through faith we understand that the worlds were framed by the word of God, so that things which are seen were made out of nothing.
 
-**16. What then has God made?**
+**16. What, then, has God made?**
 
 Answer: The heaven and the earth, and all that is in them, both visible and invisible. Gen. 1:1. In the beginning God created the heaven and the earth. Col. 1:16.
 
-17. In what order did God create all things in the world?
+**17. In what order did God create all things in the world?**
 
 Answer: In six days God created the heaven and the earth and all that is in them, in this manner, namely: on the first day, all matter and the light; on the second day, the firmament; on the third, the sea and the land, with all the trees and the grass; on the fourth, the sun, the moon, and the stars; on the fifth, the fishes and the birds; on the sixth, the beasts upon the earth, and last of all He created man in His own image. Gen. 1. Read the whole chapter of the creation.
 
-**18. In what respect was man the image of God?**
+**18. In what way was man the image of God?**
 
 Answer: In the wisdom, righteousness, and holiness created together with him; he had also the immortality of the body and dominion over all the beasts upon the earth, in the sea, and in the air, and many great advantages, all of which are called the image of God; this, through natural birth, would have passed to their children and descendants, if the first parents had stood fast in the perfection created together with them. Gen. 1:27. God created man in His own image, in the image of God created He him; male and female created He them. Eph. 4:24. Put ye on the new man, which after God is created in true righteousness and holiness. Gen. 1:28. God blessed them, and said unto them: Have dominion over the fish of the sea, and over the fowl of the air, and over all the beasts that move upon the earth.
 
-**19. Did not man remain in this blessed estate given to him at creation?**
+**19. Did man remain in the blessed state in which he was created?**
 
 Answer: No, God amend it!
 
-**20. How then did he lose the image of God?**
+**20. How, then, did he lose the image of God?**
 
 Answer: Through the fall into sin and the transgression of God's commandment. Gen. 5:3. Adam begat a son in his own likeness, after his image.
 
@@ -472,11 +472,11 @@ Answer: The angels. Ps. 104:4. Lord, Thou makest Thine angels spirits; Thy minis
 
 Answer: The angels are spirits, invisible, created in the beginning in truth, wisdom, honour, power, and righteousness.
 
-**23. Do they all abide in this honour?**
+**23. Did they all remain in this glorious state?**
 
 Answer: No. John 8:44. The devil abode not in the truth, for there is no truth in him.
 
-**24. How many kinds of angels are there then?**
+**24. What kinds of angels are there, then?**
 
 Answer: Two kinds: good and evil.
 
@@ -484,15 +484,15 @@ Answer: Two kinds: good and evil.
 
 Answer: Those who stood fast in the honour and righteousness created together with them, and are now so confirmed and steadfast in goodness that they can no more fall; and these are called the good angels and the angels of light. Matt. 18:10. Take heed that ye despise not one of these little ones; for I say unto you, that in heaven their angels do always behold the face of my Father which is in heaven.
 
-26. What is their office?
+**26. What is their task?**
 
 Answer: To honour God, to carry out His commandments, and also to serve and preserve those who shall inherit salvation. Heb. 1:14. Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?
 
-**27. Whom dost thou call the evil angels?**
+**27. Whom do you call the evil angels?**
 
 Answer: Those who fall away from God and were cast down into hell, bound with the chains of darkness, reserved unto the day of judgment. Jude v. 6. The angels which kept not their first estate, but left their own habitation, He hath reserved in darkness with everlasting chains unto the judgment of the great day. 2 Pet. 2:4. God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment.
 
-**28. Does God still care for all things every day?**
+**28. Does God continue to care for all things each day?**
 
 Answer: Truly God cares for all His creatures; but above all for men, and especially for the believers. Matt. 6:26. Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they? Matt. 10:30. The very hairs of your head are all numbered. 1 Cor. 9:9,10. 1 Tim. 4:10. God is the Saviour of all men, especially of those that believe.
 
@@ -500,11 +500,11 @@ Answer: Truly God cares for all His creatures; but above all for men, and especi
 
 Answer: Out of His own pure grace and fatherly goodness, without the least merit on our part. Ps. 145:9. The Lord is good to all: and His tender mercies are over all His works.
 
-**30. What is to be said of all the evil that happens in the world?**
+**30. What should be said about all the evil that happens in the world?**
 
 Answer: God does all that is good and furthers that which happens according to His will; but evil He forbids, punishes, and often hinders; yet sometimes He also permits it, setting a certain limit to it, and directs it to a good end. 2 Sam. 17:14. The Lord had appointed it so, that the good counsel of Ahithophel should be defeated, that the Lord might bring evil upon Absalom. Job 2:6. The Lord said unto Satan: Behold, he is in thine hand; but save his life. John 7:30. The chief men sought to take Jesus; but no man laid hands on Him, because the Lord's hour was not yet come.
 
-**31. To what are we bound in view of these and other good works of God?**
+**31. What do these and God’s other good works oblige us to do?**
 
 Answer: To thanksgiving, praise, obedience, and service. Ps. 136:1. O give thanks unto the Lord; for He is good: for His mercy endureth for ever (read the whole psalm). 1 Sam. 15:22. Samuel said: Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams. Luke 1:68,74,75. Zacharias said: Blessed be the Lord God of Israel! For He hath visited and redeemed His people. That we, being delivered out of the hand of our enemies, might serve Him without fear, in holiness and righteousness before Him, all the days of our life.
 
@@ -518,7 +518,7 @@ Answer: The Son of God is the second person in the Godhead, begotten of the Fath
 
 Answer: He has delivered us from all sins, from death, and from the power of the devil. 1 John 1:7. The blood of Jesus Christ, the Son of God, cleanseth us from all sin. Hos. 13:14. I will ransom them from the power of hell, and redeem them from death.
 
-**34. With what did He redeem us?**
+**34. By what means did He redeem us?**
 
 Answer: Not with gold nor with silver, but with His holy and precious blood. 1 Pet. 1:18,19. Knowing that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot.
 
@@ -526,15 +526,15 @@ Answer: Not with gold nor with silver, but with His holy and precious blood. 1 P
 
 Answer: He has also fulfilled the law in our stead, by His perfect obedience. Gal. 4:4,5. When the fulness of the time was come, God sent forth His Son, made of a woman, made under the law: that He might redeem them that were under the law. Matt. 5:17. I am not come to destroy the law, but to fulfil it.
 
-**36. How is He named in this article of faith?**
+**36. What names is He given in this article of faith?**
 
-Answer: J e s u s C h r i s t. 1 Cor. 3:11. Other foundation can no man lay than that is laid, which is Jesus Christ.
+Answer: Jesus Christ. 1 Cor. 3:11. Other foundation can no man lay than that is laid, which is Jesus Christ.
 
-**37. What does the Hebrew word "Jesus" signify?**
+**37. What does the Hebrew name “Jesus” mean?**
 
 Answer: A Saviour; for He saved His people from sin. Matt. 1:20,21. The angel of the Lord appeared to Joseph in a dream and said: Mary shall bring forth a Son, and thou shalt call his name Jesus; for He shall save His people from their sins.
 
-**38. What does the Greek word "Christ" signify?**
+**38. What does the Greek word “Christ” mean?**
 
 Answer: The Anointed; for He is anointed, according to His human nature, with the oil of gladness, with the Holy Spirit and with power. Ps. 45:8 [7]. God, thy God, hath anointed thee with the oil of gladness above thy fellows. Acts 10:38. God anointed Jesus of Nazareth with the Holy Spirit and with power.
 
@@ -542,7 +542,7 @@ Answer: The Anointed; for He is anointed, according to His human nature, with th
 
 Answer: Two: the nature of the Godhead and the nature of manhood.
 
-**40. Are there then two persons in Christ?**
+**40. Are there, then, two persons in Christ?**
 
 Answer: No; Jesus Christ, true God and man, is one person; for the two natures are so personally united in Christ, as the body and soul in man, yet inseparably, so that they can never eternally be parted one from the other.
 
@@ -550,7 +550,7 @@ Answer: No; Jesus Christ, true God and man, is one person; for the two natures a
 
 Answer: Man He must be, that He might suffer and die; but since mere man could not pay for sin and take away the wrath of God and the curse of the law, nor overcome death, the devil, and hell; therefore He must be true God. Ps. 49:7,8. None can by any means redeem his brother, nor give to God a ransom for him; for the redemption of their soul is precious, so that it must be left undone for ever. Rom. 8:3. What the law could not do, in that it was weak through the flesh, God sending His own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh.
 
-**42. Unto what is Jesus anointed?**
+**42. To what offices was Jesus anointed?**
 
 Answer: Unto a Prophet, a High Priest, and a King.
 
@@ -566,11 +566,11 @@ Answer: Because He once offered up Himself as an atonement for our sins, and dai
 
 Answer: This: that He rules, not only over all things that are in heaven and in earth, but also especially in Zion, that is, in His kingdom of grace and in the Christian congregation; and He has also His kingdom of glory in heaven. Ps. 8:6. Thou madest the Son of man to have dominion over the works of Thy hands; Thou hast put all things under His feet. Ps. 110:1. Ps. 2:6. I have set my King upon Zion, upon my holy hill.
 
-**46. Why dost thou say: I believe that Jesus is my Lord, who has redeemed me?**
+**46. Why do you say, “I believe that Jesus is my Lord, who has redeemed me”?**
 
 Answer: Because in matters of faith I hold or determine nothing of my own dark reason, but believe simply and appropriate to myself the common redemption of Christ, with the firm hope that He has also redeemed me and brought me unto God, from death unto life and from sin unto righteousness. Gal. 3:11. The just shall live by faith.
 
-47. What have we to observe concerning Christ?
+**47. What two states of Christ should we consider?**
 
 Answer: His humiliation and His exaltation.
 
@@ -582,7 +582,7 @@ Answer: It was the lowly estate of Christ, in which He appeared in the form of a
 
 Answer: From His conception and birth unto His descent into hell.
 
-**50. What things belong to the estate of His humiliation?**
+**50. What belongs to the state of His humiliation?**
 
 Answer: The conception of Christ, His birth (that it was lowly and despised), His passion, death, and burial, likewise His circumcision, His poverty, the flight into Egypt, His baptism, His temptation, the persecution of His enemies, and other such like.
 
@@ -594,7 +594,7 @@ Answer: Of the Holy Spirit, by His wonderful working in the womb of the Virgin M
 
 Answer: Of the Virgin Mary, who was a virgin both before and after the birth. Isa. 7:14. See Question 32. Luke 2:7. Mary brought forth her firstborn Son, and wrapped Him in swaddling clothes, and laid Him in a manger.
 
-**53. Under whose authority was He tormented and crucified?**
+**53. Under whose authority did He suffer and was He crucified?**
 
 Answer: Under Pontius Pilate, who, as an imperial and heathen judge, condemned Jesus to death. This is said in the Creed for this reason, that thereby is confirmed the truth of the history of Christ's passion, and the fulfilment of the prophecy that the sceptre had then departed from Judah. 1 Tim. 6:13. I charge thee before God, and before Christ Jesus, who before Pontius Pilate witnessed a good confession. Gen. 49:10. The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until the Hero come.
 
@@ -634,25 +634,25 @@ Answer: On the third day after His death, which was a Sunday, which we call the 
 
 Answer: This, that on the fortieth day after His resurrection He went up in visible form from the Mount of Olives into heaven, and so parted Himself from His visible presence and fellowship upon the earth. Acts 1:9. Jesus was taken up while the disciples beheld, and a cloud received Him up out of their sight. Luke 24:51. When Jesus had blessed His disciples, He was parted from them, and carried up into heaven.
 
-**63. Is He then no more present with us here upon the earth?**
+**63. Is He, then, no longer present with us here on earth?**
 
 Answer: He is indeed; but in an invisible manner He is with us every day, unto the end of the world. Matt. 28:20. Jesus said unto His disciples: Lo, I am with you alway, even unto the end of the world.
 
-**64. What is the sitting at the right hand of God the Father?**
+**64. What does it mean that Christ sits at the right hand of God the Father?**
 
 Answer: It is this: Christ rules, according to His manhood, now and in all eternity, together with the Father and the Son and the Holy Spirit, in glory, above all creatures in heaven and upon earth. Ps. 110:1. The Lord said unto my Lord: Sit thou at my right hand, until I make thine enemies thy footstool. Eph. 1:20,21. God raised Christ from the dead, and set Him at His own right hand in the heavenly places, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come. Eph. 4:10. He that descended is the same also that ascended up far above all heavens, that He might fill all things.
 
-**65. How shall Christ come to judgment?**
+**65. How will Christ come to judge?**
 
 Answer: He shall come in visible form in the clouds of heaven, with great power and glory, and all the holy angels with Him, to judge all peoples, both those then living and all the dead from the very beginning of the world. Acts 1:11. This same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen Him go into heaven. Acts 17:31. Matt. 25:31,32. When the Son of man shall come in His glory, and all the holy angels with Him, then shall He sit upon the throne of His glory. And before Him shall be gathered all nations.
 
-**66. What sentence then shall He pronounce upon them?**
+**66. What judgment will He pronounce upon them?**
 
 Answer: To the righteous He shall say: Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world; but to the ungodly He shall say: Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels.
 
 As is read in Matt. 25:34,41.
 
-**67. When shall this take place?**
+**67. When will this take place?**
 
 Answer: On the last day, when this world comes to its end; but that time is wholly hidden from us. Matt. 24:36. Of that day and hour knoweth no man, no, not the angels of heaven; but my Father only.
 
@@ -670,39 +670,39 @@ Answer: He is the third person in the being of the Godhead, who proceeds eternal
 
 Answer: He calls us through the Word and the sacraments into His congregation, enlightens our darkened reason, sanctifies and keeps us in the right and saving faith, daily forgives us our sins, and shall also on the last day, together with the Father and the Son, raise us from the dead and give us, together with all Christian believers, eternal life. 2 Tim. 1:9. God hath called us with a holy calling. Rom. 10:17. Faith cometh by hearing, and hearing by the word of God. 1 Cor. 6:11. Ye are washed, ye are sanctified, ye are justified in the name of the Lord Jesus, and by the Spirit of our God. 2 Tim. 1:12,14. I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day. That good thing which was committed unto thee keep by the Holy Spirit which dwelleth in us. Rom. 8:11. God, that raised up Christ from the dead, shall also quicken your mortal bodies by His Spirit that dwelleth in you.
 
-**71. Are we able by our own power to come unto Christ and to believe in Him?**
+**71. Can we come to Christ and believe in Him by our own power?**
 
 Answer: By no means, for we are dead in sin. As now a dead man cannot make himself alive, so neither can we by our own power turn ourselves unto Christ and believe in Him. Eph. 2:1,5. Ye were dead in trespasses and sins; by grace ye are saved. 1 Cor. 2:14. The natural man understandeth not the things which are of the Spirit of God, for they are foolishness unto him, neither can he know them: for they are spiritually discerned. 1 Cor. 12:3. No man can call Jesus Lord, but by the Holy Spirit.
 
-**72. What is understood by the congregation, or the Church?**
+**72. What is meant by the congregation, or the Church?**
 
 Answer: Not the house and building itself, which we call a church; for the first Christians had none such for many years, but they gathered wherever it suited them, to hear the Word and to receive the sacraments; but by it is understood the people who confess the faith of Christ.
 
-**73. Why is this congregation called one?**
+**73. Why is this Church called one?**
 
 Answer: Not because only one company and people is found gathered in the world in a particular place to hear the Word of God, but because one and the same Spirit teaches them, wherever they are; and they have one God, one baptism, one Saviour, one faith, one hope, one confession. Eph. 4:3-6. Endeavouring to keep the unity of the Spirit in the bond of peace; there is one body, and one Spirit, even as ye are called in one hope of your calling. One Lord, one faith, one baptism, one God and Father of all, who is above all, and through all, and in you all. 1 Cor. 1:10.
 
-**74. Why is the congregation called holy?**
+**74. Why is the Church called holy?**
 
 Answer: Because Christ has sanctified the congregation with His blood, and it serves God in holiness and righteousness; the Holy Spirit separates it from all sin and uncleanness, sanctifies it through the Word and the sacraments, and appropriates to it the sanctification of Christ. Luke 1:75. See Question 31. Eph. 5:25,26. Christ gave Himself for the congregation, that He might sanctify it.
 
-**75. Why is the congregation called catholic?**
+**75. Why is the Church called catholic?**
 
 Answer: For the sake of the common faith and doctrine which the congregation confesses, and also because it is not bound to any particular place, nor time, nor to particular men, but is spread throughout all the world. Acts 15:11. We believe that through the grace of the Lord Jesus Christ we shall be saved, even as they (in the Old Testament). Gal. 3:28. There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female; for ye are all one in Christ Jesus. Col. 1:23. The gospel is preached before every creature which is under heaven.
 
-**76. Where is the holy and Christian congregation to be found?**
+**76. Where is the holy Christian Church to be found?**
 
 Answer: In all places where the Word of God is clearly and purely taught, and the holy sacraments are administered according to the command and institution of Christ; and wherever the name of Christ is called upon in true faith.
 
-**77. What is the communion of holy men?**
+**77. What is the communion of saints?**
 
 Answer: It is the communion of all Christians, who are partakers of God's gracious promises, common in faith, love, and hope, and are the true members of the spiritual body of Christ, whom God alone sees and knows. 1 John 1:3. That which we have seen and heard declare we unto you, that ye also may have fellowship with us; and truly our fellowship is with the Father, and with His Son Jesus Christ. Eph. 4:3. See Question 73. 2 Tim. 2:19. The foundation of God standeth sure, having this seal: The Lord knoweth them that are His.
 
-**78. Dost thou believe the forgiveness of sins?**
+**78. Do you believe in the forgiveness of sins?**
 
 Answer: I believe it. I am persuaded that God, out of His grace and for Christ's sake, forgives the sins of all those who believe in Him, and does not reckon their evil deeds unto them for condemnation. Acts 10:43. To Christ give all the prophets witness, that through His name whosoever believeth in Him shall receive remission of sins.
 
-**79. What is right faith?**
+**79. What is true faith?**
 
 Answer: Right and saving faith is not a bare knowledge of God and of His holy Word, and the holding of it as true, or assent; but it is a firm confidence and hearty trust in God, of the forgiveness of sins and of eternal life, for the sake of the merit of Jesus Christ. Rom. 8:38,39. I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Jesus Christ our Lord. Heb. 11:1. Faith is the firm confidence of things hoped for, and doubts not of things not seen.
 
@@ -714,21 +714,21 @@ Answer: Through the Word and the sacrament.
 
 Answer: Through the holy office of preaching, which in Holy Scripture is called the office of the Spirit, the angels of the Lord of hosts, the labourers together with God, the stewards of His mysteries, and ambassadors on Christ's behalf. Acts 20:28. Take heed unto yourselves, and to all the flock, over which the Holy Spirit hath made you overseers. 2 Cor. 3:6. God hath made us able ministers of the New Testament, not of the letter, but of the Spirit. Mal. 2:7. The priest's lips should keep knowledge, and they should seek the law at his mouth; for he is the angel of the Lord of hosts. 1 Cor. 3:9. We are labourers together with God. 1 Cor. 4:1. Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. 2 Cor. 5:20. We are ambassadors for Christ; for God doth beseech you through us.
 
-**82. What dost thou understand by the resurrection of the body?**
+**82. What do you understand by the resurrection of the body?**
 
 Answer: That all men who are dead, both good and evil, shall on the last day rise again and be set before the judgment seat of Christ, to receive according to that which they have done in their life. Dan. 12:2. Many of them that sleep in the dust of the earth shall awake: some to everlasting life, and some to everlasting shame and contempt. Job 19:25. I know that my Redeemer liveth, and that He shall stand at the latter day upon the earth.
 
 Isa. 26:19. John 5:28.
 
-**83. Does man die both in soul and in body?**
+**83. Does a person die in both soul and body?**
 
 Answer: No; but the body only dies and returns again to earth; but the soul is immortal. Eccles. 12:7. Then shall the dust return to the earth as it was, and the spirit shall return unto God who gave it. Matt. 10:28.
 
-**84. Whither then do the souls of the dead go?**
+**84. Where, then, do the souls of the dead go?**
 
 Answer: The souls of the believers the holy angels carry into Abraham's bosom, and they receive eternal life; but the souls of the unbelieving into hell, unto the place of torment. Luke 16:22-24. The beggar died, and was carried by the angels into Abraham's bosom; the rich man also died, and was buried. And in hell, being in torments, he cried, saying: I am tormented grievously in this flame. Matt. 25:46. The cursed shall go away into everlasting punishment, but the righteous into life eternal.
 
-**85. Of what sort shall the bodies of the believers become in the resurrection?**
+**85. What will the bodies of believers be like in the resurrection?**
 
 Answer: They shall become like unto the glorious body of Christ, and shall no more need food or drink for their sustenance, as in this life; and they shall be incorruptible, radiant, and glorious, yet with a difference in glory. Dan. 12:3. Phil. 3:21. Jesus Christ shall change our vile body, that it may be fashioned like unto His glorious body, according to the working whereby He is able even to subdue all things unto Himself. 1 Cor. 15:40-44. There is one glory of the celestial, and another of the terrestrial. There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory. So also is the resurrection of the dead: it is sown in corruption, it is raised in incorruption; it is sown in dishonour, it is raised in glory; it is sown in weakness, it is raised in power; it is sown a natural body, it is raised a spiritual body.
 
@@ -740,15 +740,15 @@ Answer: It is unspeakable joy and everlasting blessedness with God in heaven, wh
 
 Answer: Those whom God in eternity saw would abide steadfast in faith in Jesus Christ unto the end. Eph. 1:4. God hath chosen us through Jesus Christ, before the foundation of the world was laid, that we should be holy and without blame before Him in love.
 
-**88. Why are not all men saved?**
+**88. Why are not all people saved?**
 
 Answer: Because not all believe in Christ, but despise the means of salvation and resist the working of the Holy Spirit, and are thus themselves guilty of their own condemnation. He that believeth not shall be damned, and the wrath of God abideth on him. Matt. 23:37. O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings? And ye would not. Luke 14:16-18. A certain man made a great supper, and bade many, and sent his servant at supper time to say to them that were bidden: Come; for all things are now ready. And they all with one consent began to make excuse. John 3:18,36. He that believeth on the Son of God is not condemned; but he that believeth not is condemned already, because he hath not believed in the name of the only Son of God. He that believeth on the Son hath everlasting life; but he that believeth not the Son shall not see life, but the wrath of God abideth on him.
 
-**89. Why is the explanation of all the articles of faith concluded with these words: this is verily true?**
+**89. Why does the explanation of every article of faith conclude with the words, “This is most certainly true”?**
 
 Answer: We thereby make known that all which we here confess with our mouth we also firmly believe in our heart, and are willing both to live and to die thereupon. 2 Tim. 1:12. See Question 70.
 
-**90. Wherefore, or to what good, do we make such a confession of faith?**
+**90. Why, and for what benefit, do we make such a confession of faith?**
 
 Answer: That we might thereby separate ourselves from all the unbelieving and the hypocrites, and that through such a confession we might also be saved.
 
@@ -762,39 +762,39 @@ Our Father, etc.
 
 Answer: Prayer is a humble and faithful discourse with God, wherein, according to His will and in the name of Jesus, we ask of Him both spiritual and bodily needs, and also give thanks and praise unto His holy name. John 16:23. Verily, verily I say unto you, whatsoever ye shall ask the Father in my name, He will give it you. Dan. 6:10. Daniel went into his house and kneeled upon his knees three times a day, and prayed, and gave thanks and praised his God, as he did aforetime. 1 Tim. 2:1. I exhort therefore, that first of all supplications, prayers, intercessions and giving of thanks be made for all men.
 
-**2. What ought to move us to prayer?**
+**2. What should move us to pray?**
 
 Answer: 1. God's commandment; 2. His promise, that He will hear our prayer; 3. Our own need; 4. The power and worth of prayer. Matt. 7:7. Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you. John 15:7. If ye abide in me, and my words abide in you, ye shall ask what ye will, and ye shall receive it. Ps. 50:15. Call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me. Jas. 5:16. The prayer of a righteous man availeth much, when it is fervent.
 
-**3. How ought we rightly to pray?**
+**3. How should we pray rightly?**
 
 Answer: With heart and mouth, in spirit and in truth, that is: according to God's will, in humility of heart, in faith, without doubting, in true repentance, and without hypocrisy. Matt. 15:8. This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me. John 4:24. God is a Spirit: and they that pray unto Him must pray unto Him in spirit and in truth. 1 John 5:14. See question 53. Jas. 1:5-7. If any of you lack wisdom, let him ask of God, that giveth to every man liberally; let him ask in faith, nothing wavering; for he that wavereth is like a wave of the sea driven with the wind and tossed. Let not that man think that he shall receive any thing of the Lord.
 
-**4. Who is to be prayed unto?**
+**4. To whom should we pray?**
 
 Answer: None other than the true and most high God in heaven, whereby the worship of all angels, saints, and also of the Virgin Mary is shut out. Matt. 4:10. Jesus saith unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and Him only shalt thou serve. Ps. 50:15. See question 2.
 
-**5. For what ought we to pray?**
+**5. What should we pray for?**
 
 Answer: For all that redoundeth to God's honour, and likewise for the good of ourselves and of our neighbours, whether it be in spiritual or in bodily things. John 16:23. See question 1.
 
-**6. What dost thou call spiritual good?**
+**6. What do you call spiritual blessings?**
 
 Answer: All that is for the good of the soul and for eternal salvation, such as the forgiveness of sins, faith, hope, patience, the governance of the Holy Spirit, and other things of like kind.
 
-**7. What is bodily good?**
+**7. What are bodily blessings?**
 
 Answer: That which is needful for us in this bodily and temporal life, such as health and soberness, clothing and food, and whatsoever else pertaineth thereto.
 
-**8. How and in what manner ought we to pray for all these things?**
+**8. How should we pray for all these things?**
 
 Answer: Spiritual things are to be prayed for without conditions; for we know that God will surely give them unto us, and they are ever needful for us; but temporal things we must ask with a condition, namely, if they be pleasing unto God and profitable unto us. Luke 18:13. The publican said, God be merciful to me a sinner. Jas. 4:3. Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts. Matt. 8:2. A leper worshipped Jesus, saying, Lord, if thou wilt, thou canst make me clean.
 
-**9. Who hath taught us this prayer: Our Father?**
+**9. Who taught us the prayer “Our Father”?**
 
 Answer: Christ Himself. Matt. 6:9, etc. After this manner therefore pray ye: Our Father, etc.
 
-**10. In what order is this Lord's Prayer set together?**
+**10. How is the Lord’s Prayer arranged?**
 
 Answer: First there is the preface, then the petitions themselves, and lastly the conclusion.
 
@@ -802,19 +802,19 @@ Answer: First there is the preface, then the petitions themselves, and lastly th
 
 Answer: Our Father, which art in heaven.
 
-**12. Who is understood by the name of Father?**
+**12. Who is meant by the name “Father”?**
 
 Answer: Thereby is understood not the Father alone, the first Person in the being of the Godhead, but the whole Holy Trinity: Father, Son and Holy Spirit; not as to the Persons, but as to the being. Isa. 63:16. Lord, thou art our Father; and thy name is for ever. Eph. 4:6. One God and Father of all.
 
-**13. Wherefore is God in this prayer called Father?**
+**13. Why is God called Father in this prayer?**
 
 Answer: To this end, that we may put ourselves in remembrance of His fatherly goodness and love, who hath created us and in Baptism hath received us as His children; that we may in no wise doubt of the hearing of our prayer, when we pray unto Him and call upon Him in childlike trust. Luke 11:9. Ask, and it shall be given you.
 
-**14. Why say we: Our Father?**
+**14. Why do we say, “Our Father”?**
 
 Answer: That we may in faith trustfully pray unto Him, not for ourselves only, but also for others, and especially for those who are our brethren and sisters in the faith. Col. 1:9. We ceased not to pray for you, and to desire that ye might be filled with the knowledge of His will in all spiritual wisdom and understanding.
 
-**15. What is understood by the word: in heaven?**
+**15. What is meant by the words “in heaven”?**
 
 Answer: Not as though God dwelt in the created heaven, as in a particular place, for the heavens and the heaven of heavens cannot contain Him; but thereby is understood the dwelling-place of God's glory and the heavenly height, in that light whereunto no man can attain, neither can comprehend it. Matt. 23:9. Call no man your father upon the earth: for one is your Father, which is in heaven. 1 Kings 8:27. Will God indeed dwell on the earth? Behold, the heavens and the heaven of heavens cannot contain Him. Ps. 11:4. The Lord's throne is in heaven. 1 Tim. 6:15,16. The King of kings, and Lord of lords; who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see.
 
@@ -822,27 +822,27 @@ Answer: Not as though God dwelt in the created heaven, as in a particular place,
 
 Answer: Seven. The first petition
 
-**17. How is God's name hallowed by us?**
+**17. How do we hallow God’s name?**
 
 Answer: When we rightly know, thank and praise God, hear His word, and order our manner of life according thereto, then is His name hallowed by us.
 
 1 Pet. 3:15. Sanctify the Lord God in your hearts. Matt. 5:16. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
 
-**18. From what evil do we pray God to keep us?**
+**18. From what evil do we ask God to preserve us?**
 
 Answer: From false and schismatic doctrine, and likewise from a sinful and offensive life, whereby God's name is dishonoured. Matt. 15:9. In vain do they worship me, teaching for doctrines the commandments of men. Rom. 2:23. Thou makest thy boast of the law, and through breaking the law dishonourest thou God.
 
 The second petition
 
-**19. What is understood here by the kingdom of God?**
+**19. What is meant here by the kingdom of God?**
 
 Answer: First, the kingdom of grace here upon earth, wherein God, through His word and sacraments, offereth His grace unto all men, and forgiveth the penitent their sins; and then the kingdom of glory in heaven, wherein He giveth His chosen eternal life and salvation. Rom. 14:17. The kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost. Luke 17:20,21. The kingdom of God cometh not so that it may be seen; for, behold, the kingdom of God is within you. 2 Tim. 4:18. The Lord shall deliver me from every evil work, and will preserve me unto His heavenly kingdom.
 
-**20. How doth the kingdom of God draw nigh of itself?**
+**20. How does the kingdom of God come by itself?**
 
 Answer: Of the mere grace of God, without our merit, work, or ability.
 
-**21. How doth it come unto us?**
+**21. How does it come to us?**
 
 Answer: When we here, through the grace of God, believe His holy word and abide steadfast therein unto the end, then shall we there in the kingdom of glory live eternally. The third petition
 
@@ -850,51 +850,51 @@ Answer: When we here, through the grace of God, believe His holy word and abide 
 
 Answer: It is the will of God, which He hath made known unto us in His word, which teacheth us what we ought to believe, to do, and to suffer; namely, out of the law: to lead a holy and blameless life; and out of the gospel: to believe on Christ; and, when He layeth some cross upon us, that we bear it patiently. 1 Thess. 4:3,4. This is the will of God, even your sanctification, that ye should abstain from fornication, that every one of you should know how to possess his vessel in sanctification and honour. John 6:40. This is the will of Him that sent me, that every one which seeth the Son, and believeth on Him, may have everlasting life. Luke 9:23. If any man will come after me, let him deny himself, and take up his cross daily, and follow me.
 
-**23. How and among whom is the will of God done in heaven?**
+**23. How, and by whom, is God’s will done in heaven?**
 
 Answer: Among the holy angels and the departed saints, in that rejoicing congregation, who with gladness serve, obey and praise God in heaven.
 
 Ps. 103:20. Bless the Lord, ye His angels, ye mighty heroes, that do His commandments, that the voice of His word may be heard. Dan. 7:10. Thousand thousands ministered unto Him, and ten thousand times ten thousand stood before Him.
 
-**24. Who hindereth us from doing God's will upon earth?**
+**24. Who hinders us from doing God’s will on earth?**
 
 Answer: The devil, the world, and our own flesh. Rev. 12:9. The great dragon, that old serpent, called the Devil and Satan, was cast out, which deceiveth the whole world. 1 John 2:15. Love not the world, neither the things that are in the world. Rom. 7:18. I know that in me (that is, in my flesh) dwelleth no good thing.
 
-**25. What is understood by the world?**
+**25. What is meant by the world?**
 
 Answer: Wicked men, who live in the world, their evil doings and their offensive life.
 
-**26. What is understood by our own flesh?**
+**26. What is meant by our own flesh?**
 
 Answer: Our sinful nature and carnal disposition, which is prone unto all wickedness.
 
-**27. Who helpeth us to overcome all these?**
+**27. Who helps us overcome all these?**
 
 Answer: God, who by His word strengtheneth us and keepeth us steadfast in the faith, He removeth all that hindereth the doing of His will. Luke 22:31,32. The Lord said unto Simon, I have prayed for thee, that thy faith fail not. Eph. 3:14,16. I bow my knees unto the Father of our Lord Jesus Christ, that He would grant you strength, according to the riches of His glory, that ye might be strengthened by His Spirit in the inner man.
 
 The fourth petition
 
-**28. Wherefore say we in this petition: g i v e?**
+**28. Why do we say “give” in this petition?**
 
 Answer: Because without God's blessing we can, by our own work or skill, neither earn nor gather anything; but every good gift cometh down from above, from the Father of lights. Jas. 1:7. Ps. 127:1. Except the Lord build the house, they labour in vain that build it. Ps. 132:15. I the Lord will bless her provision, and will satisfy her poor with bread.
 
-**29. Why say we: give u s?**
+**29. Why do we say, “give us”?**
 
 Answer: Because we ought not to ask for ourselves only, but also for our neighbour; and when God giveth us good things, we ought not to keep them for ourselves alone, but to impart them also unto others.
 
-**30. Why say we: give us t h i s d a y?**
+**30. Why do we say, “give us this day”?**
 
 Answer: As we have need every day of the sustaining of our life, so ought we also to pray for it every day; and we know not, moreover, whether we shall live until the morrow.
 
-31. Why say we: give us o u r bread?
+**31. Why do we say, “give us our bread”?**
 
 Answer: Because we pray that God would give us our appointed portion, and that we may eat our own bread, which God giveth us in our labour; and not the bread of others in theft, in wrong, and in idleness. Prov. 30:8. Give me neither poverty nor riches; but give me my appointed portion of food. 2 Thess. 3:10. If any would not work, neither should he eat.
 
-**32. Wherefore do we ask for d a i l y b r e a d?**
+**32. Why do we ask for daily bread?**
 
 Answer: That we may not, with untimely care and doubting, be anxious for the morrow, but be content with that which we have; for each day hath care enough of itself; let each day be content with its own care. Matt. 6:34.
 
-**33. What is understood by b r e a d?**
+**33. What is meant by bread?**
 
 Answer: All temporal things which men need for the sustaining of this life, and which are set forth in the Catechism. Gen. 3:19. Deal thy bread to the hungry, bring the poor wanderers into thine house; when thou seest the naked, that thou cover him, and turn not thyself away from him that is thine own flesh. Isa. 58:7. Deal thy bread to the hungry, bring the poor wanderers into thine house; when thou seest the naked, that thou cover him, and turn not thyself away from him that is thine own flesh.
 
@@ -904,83 +904,83 @@ The fifth petition
 
 Answer: That God would forgive us our sins: that is, for Christ's sake would blot out and forgive all our trespasses, faults and transgressions, whatsoever they may be. Matt. 18:27. The Lord had compassion on that servant, and loosed him, and forgave him the debt. Ps. 32:1,2. Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the Lord imputeth not iniquity.
 
-**35. Is any man free from this fault?**
+**35. Is anyone free from this fault?**
 
 Answer: Not one, — but Christ alone; for we are all sinners, and have nothing whereof to boast before God. Ps. 14:3. They are all gone aside, and they are all become unprofitable; there is none that doeth good, no, not one. Rom. 3:23. All have sinned, and have nothing whereof to boast before God.
 
-**36. Why are these words added: as we forgive them that are indebted to us?**
+**36. Why are these words added: “as we forgive those who are indebted to us”?**
 
 Answer: Not because we could by our forgiving earn the grace of God and the forgiveness of sins; but Christ would thereby teach us that we should thereby show our due thankfulness, and forgive those who trespass against us, whether they ask it or not, if we would otherwise be heard of God. Matt. 5:23,24. If thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee, leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift. Mark 11:25. And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.
 
-**37. How ought we to forgive our neighbour?**
+**37. How should we forgive our neighbour?**
 
 Answer: Not with words only, but also from the heart, so that we harbour no secret hatred against him, but wish and do him all good, though he have done us harm; therein following the example of our heavenly Father, who so forgiveth sins that He remembereth them no more. Jer. 31:34. I will forgive their iniquity, and I will remember their sin no more. Matt. 5:44. I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which persecute you and do you harm.
 
 The sixth petition
 
-**38. Of how many kinds is temptation?**
+**38. How many kinds of temptation are there?**
 
 Answer: Of two kinds: the one unto evil and unto damnation, the other unto good and unto salvation.
 
-**39. Who tempteth man unto evil?**
+**39. Who tempts a person to evil?**
 
 Answer: The devil, who is therefore called the tempter. 1 Pet. 5:8. Be sober, be vigilant; for your adversary the devil goeth about, as a roaring lion, seeking whom he may devour. 1 Thess. 3:5. I sent to know your faith, lest the tempter had tempted you.
 
-**40. By what means doth he do this?**
+**40. By what means does he do this?**
 
 Answer: By the world and by our own flesh.
 
-**41. How doth he tempt by the world?**
+**41. How does he tempt us through the world?**
 
 Answer: Sometimes by persecution, sometimes by allurements, and likewise by evil company and offensive examples. Rev. 12:12. Woe to the inhabiters of the earth and of the sea! For the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time. John 15:18. If the world hate you, ye know that it hated me before it hated you. Matt. 18:7. Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh. Prov. 1:10. My son, if sinners entice thee, consent thou not.
 
-**42. How doth he tempt us by our own flesh?**
+**42. How does he tempt us through our own flesh?**
 
 Answer: He casteth into our heart evil promptings, wicked lusts and desires. Gal. 5:17. The flesh lusteth against the spirit, and the spirit against the flesh: and these are contrary the one to the other, so that ye cannot do the things that ye would. Rom. 7:18. See question 24. 1 Pet. 2:11. Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul.
 
-**43. Wherefore doth he do all these things?**
+**43. Why does he do all these things?**
 
 Answer: To bring us into unbelief, doubting, carelessness, and other great sins, and at last into eternal damnation.
 
-**44. How ought we to withstand and overcome such temptations?**
+**44. How should we resist and overcome such temptations?**
 
 Answer: With a strong faith and fervent prayer. Eph. 6:16,18. Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. And praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and prayer.
 
-**45. Doth God tempt any man?**
+**45. Does God tempt anyone?**
 
 Answer: God tempteth no man unto evil, but for good He proveth His children's faith, hope and patience, as He did unto Abraham, when He commanded him to offer up his only son. Jas. 1:13. Let no man say when he is tempted, I am tempted of God: for God is not a tempter unto evil, neither tempteth He any man. Gen. 22:1,2. God did prove Abraham, and said unto him, Take Isaac, thine only son, whom thou lovest, and get thee into the land of Moriah, and offer him there for a burnt offering.
 
-**46. What temptation is it that we pray God to turn away from us?**
+**46. What kind of temptation do we ask God to turn away from us?**
 
 Answer: The temptation of the devil, which is unto man's damnation; and we are tempted therewith, that we be not overcome of him, but that with God's help we may at last overcome in faith. 2 Tim. 2:3. Endure hardness, as a good soldier of Jesus Christ. 2 Pet. 2:9. The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished. 1 John 5:4. Whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.
 
 The seventh petition
 
-**47. What is understood by the word: evil?**
+**47. What is meant by the word “evil”?**
 
 Answer: The devil and all wickedness, which afflicteth men in this world in body, soul, goods and honour; and likewise, after this life, hell and eternal damnation. Eph. 6:16. See question 44. Rom. 7:24. O wretched man that I am! who shall deliver me from this body of death?
 
-**48. What dost thou understand by deliverance?**
+**48. What do you understand by deliverance?**
 
 Answer: The taking away of wickedness and the helping out of it; or that the cross be lightened, and grace given to endure it, and at last a wished-for end thereof be brought about. Jer. 31:13. I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow. Ps. 94:19. I have much sorrow in my heart: but thy comforts delight my soul. 2 Cor. 1:10. God delivered us from so great a death (that is, from sorrow and persecution), and doth deliver; and we trust in Him that He will yet deliver us.
 
-**49. When are we utterly delivered from all evil?**
+**49. When are we completely delivered from all evil?**
 
 Answer: When we blessedly, that is, in faith on Christ, depart out of this world. 2 Tim. 4:18. See question 19.
 
-**50. Ought a man to wish death unto himself?**
+**50. Should a person wish for death?**
 
 Answer: When it is done out of a godly longing for eternal life, and not out of impatience, then is it fitting that we pray every day for a blessed departure. Phil. 1:23. I desire to depart, and to be with Christ; for that is far better. 2 Cor. 5:8. We are confident, and willing rather to be absent from the body, and to be present with the Lord.
 
-**51. Why is the prayer concluded with these words: For thine is the kingdom, and the power, and the glory, for ever. Amen.**
+**51. Why does the prayer conclude with the words, “For Thine is the kingdom, and the power, and the glory, for ever. Amen”?**
 
 Answer: That we may be assured of the hearing of our prayer: for He is a King both mighty and merciful, who will and can help, and we are the members and subjects of His kingdom; we ought also thereby to learn to conclude our own prayers with praise and thanksgiving. Eph. 3:20,21. Unto Him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, unto Him be glory in the church, which is in Christ Jesus, throughout all ages, world without end. Amen.
 
-**52. Amen, what is it?**
+**52. What does “Amen” mean?**
 
 Answer: Amen is such a word whereby one not only wisheth unto himself that for which he hath prayed, but also showeth himself assured that God heareth the prayer; whereupon he, as sealing it with a seal, saith: Amen, so let it be! Ps. 145:19. The Lord fulfilleth the desire of them that fear Him, and heareth their cry, and helpeth them. Matt. 7:8. Every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. 1 John 5:14. This is the confidence that we have in Him, that, if we ask any thing according to His will, He heareth us. Matt. 21:22. All things whatsoever ye shall ask in prayer, believing, ye shall receive.
 
-**54. Wherefore doth God sometimes tarry long in hearing?**
+**54. Why does God sometimes delay His answer?**
 
 Answer: God doth this: 1. thereby to prove our patience and our steadfastness in faith; 2. to put us in remembrance of our own slowness and hardness of hearing, when He calleth and summoneth us unto repentance; 3. that we may pray the more diligently; 4. and rejoice the more, when we are heard and helped.
 
@@ -992,15 +992,15 @@ THE FOURTH CHIEF PART
 
 Answer: A sacrament is a holy ordinance and work of grace, wherein God, through visible and earthly elements, dealeth out heavenly gifts, and thereby not only offereth unto men the sweet promises of grace of the gospel, but also giveth and sealeth them in the hearts of those who rightly receive them and enjoy them in faith.
 
-**2. Of how many kinds are the sacraments?**
+**2. How many kinds of sacraments are there?**
 
 Answer: Of two kinds: the one of the Old, the other of the New Testament.
 
-**3. Which were the sacraments of the Old Testament?**
+**3. What were the sacraments of the Old Testament?**
 
 Answer: Circumcision and the paschal lamb.
 
-**4. Which are those of the New Testament?**
+**4. What are the sacraments of the New Testament?**
 
 Answer: Baptism and the sacrament of the altar, or the Lord's Supper.
 
@@ -1008,57 +1008,59 @@ Answer: Baptism and the sacrament of the altar, or the Lord's Supper.
 
 Answer: Baptism is not simply bare water, but is water comprehended in God's command and united with His word.
 
-**6. What is this: water comprehended in God's command?**
+**6. What does it mean that the water is included in God’s command?**
 
 Answer: It is: ordained and commanded of God.
 
-**7. What is this: united with God's word?**
+**7. What does it mean that the water is united with God’s Word?**
 
 Answer: It is: united and hallowed with God's word and His holy name in a sacramental manner.
 
-8. Canst thou say it more plainly? I can, after this manner: Baptism is the first sacrament of the New Testament, wherein God, through water and the word, taketh man into His covenant, cleanseth him from his sins, and confirmeth him in grace and in the right of inheritance unto eternal life; whereagainst man renounceth the devil and all his works, and utterly giveth himself (firmly promiseth, or taketh upon himself) to serve God in unfeigned faith and in true holiness and righteousness.
+**8. Can you say it more plainly?**
 
-**9. Who hath appointed and ordained Baptism?**
+Answer: I can, in this way: Baptism is the first sacrament of the New Testament, in which God, through water and the Word, receives a person into His covenant, cleanses him from his sins, and confirms him in grace and in the right to inherit eternal life. In response, the person renounces the devil and all his works and gives himself entirely (firmly promises or undertakes) to serve God in sincere faith and in true holiness and righteousness.
+
+**9. Who instituted and ordained Baptism?**
 
 Answer: God Himself sent John to baptize, and thereafter Jesus Christ commanded His disciples to go out into all the world to make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit. Luke 3:2,3. When Annas and Caiaphas were the high priests, the word of God came unto John the son of Zacharias in the wilderness. And he came into all the country about Jordan, and preached for remission. John 1:33. Matt. 28:19. Jesus said unto His disciples: Go ye and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.
 
-**10. What is this: to baptize in the name of the Father, and of the Son, and of the Holy Spirit?**
+**10. What does it mean to baptize in the name of the Father and of the Son and of the Holy Spirit?**
 
 Answer: It is, according to the command of the holy Trinity of God, and in the power and the calling upon of His holy name, to immerse, to pour, or to sprinkle a man with water, unto the forgiveness of sins.
 
-**11. What is in Baptism?**
+**11. What is present in Baptism?**
 
 Answer: Two kinds of things: earthly and heavenly.
 
-**12. What is that earthly thing which we see?**
+**12. What is the visible earthly element?**
 
 Answer: Natural and pure water, and no other moisture. John 3:5. Jesus said unto Nicodemus: Verily, verily I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. Eph. 5:25,26. Christ gave Himself for the church, that He might sanctify it, and hath already cleansed it with the washing of water by the word.
 
-13. What is that heavenly thing which we see not?
+**13. What is the invisible heavenly gift?**
 
 Answer: God, the holy Trinity, and especially the Holy Spirit. Titus 3:5,6. According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Saviour.
 
-**14. Why saidst thou: especially the Holy Spirit?**
+**14. Why did you say, “especially the Holy Spirit”?**
 
 Answer: Because the work of regeneration is especially ascribed unto the Holy Spirit, who is poured out upon us with the water of Baptism, yet not shutting out the other Persons; for God the Father taketh him that is baptized to be His child; the Son clotheth him with His righteousness; the Holy Spirit regenerateth him and maketh him His dwelling-place: therefore are we said to be born, not of the Holy Spirit alone, but of God (which work is common to all three Persons). Titus 3:5,6. See question 13. 1 Cor. 1:30. Christ Jesus is made unto us of God wisdom, and righteousness, and sanctification, and redemption. Rom. 8:15,16. Ye have not received the spirit of bondage, but ye have received the Spirit of the chosen children, whereby we cry, Abba, dear Father! The Spirit itself beareth witness with our spirit, that we are the children of God.
 
-**15. Is Baptism needful?**
+**15. Is Baptism necessary?**
 
 Answer: It is indeed; — for Christ saith: Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. John 3:5. See question 12.
 
-**16. Doth Baptism work the forgiveness of sins?**
+**16. Does Baptism bring about the forgiveness of sins?**
 
 Answer: Truly; — in Baptism we put on Christ, who covereth all our sins with the robe of righteousness. Gal. 3:27. As many of you as have been baptized into Christ have put on Christ. Isa. 61:10. I will greatly rejoice in the Lord, my soul shall be joyful in my God; for He hath clothed me with the garments of salvation, He hath covered me with the robe of righteousness. John 3:5. See question 12.
 
-**17. What is this: to put on Christ?**
+**17. What does it mean to put on Christ?**
 
 Answer: It is: to be grafted into Christ, and by faith to make His merited righteousness and obedience our own, as though we had ourselves fulfilled the law and suffered for our sins.
 
-**18. Doth Baptism also deliver from death?**
+**18. Does Baptism also deliver us from death?**
 
 Answer: Truly; — for through Baptism Christ liveth in us, and we in Him; therefore can no death harm us. Gal. 2:20. I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who hath loved me, and gave Himself for me.
 
-**19. Of how many kinds is death?**
+**19. How many kinds of death are there?**
 
 Answer: Of three kinds: natural, spiritual, and eternal.
 
@@ -1082,19 +1084,19 @@ Answer: We are; — for though we must naturally and temporally die, yet that de
 
 Answer: Because of sin we are under the power of the devil; but through Baptism we are translated into the kingdom of Christ, and separated from the devil. Col. 1:12,13. Give thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light: who hath delivered us from the power of darkness, and hath translated us into the kingdom of His dear Son.
 
-**25. How doth Baptism give eternal life?**
+**25. How does Baptism give eternal life?**
 
 Answer: In this, that it giveth us power to become the children of God; it also maketh us heirs of the kingdom of God and of eternal salvation. John 1:12,13. To them that received Him, gave He power to become the children of God, even to them that believe on His name: which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God. Rom. 8:17. If we are children, then are we also heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with Him, that we may be also glorified together. Titus 3:7. That being justified by His grace, we should be made heirs according to the hope of eternal life.
 
-**26. Do then all that are baptized become saved?**
+**26. Are all who are baptized, then, saved?**
 
 Answer: All who keep the covenant of their Baptism, and remain steadfast in faith unto the end, become saved; but the hypocrites, who suffer themselves to be baptized for custom's sake and for temporal profit, unto them it turneth rather to damnation than to salvation. Matt. 10:22. He that endureth steadfast unto the end shall be saved. Heb. 11:6. Without faith it is impossible to please God.
 
-27. Wherefore is Baptism called the washing of regeneration?
+**27. Why is Baptism called the washing of regeneration?**
 
 Answer: Because all men, who are conceived and born in sin, are by nature the children of wrath; but through Baptism they are regenerated and become the children of God, cleansed and washed from sin unto eternal life. Ps. 51:5. Behold, I was shapen in iniquity; and in sin did my mother conceive me. Eph. 2:3. We were by nature the children of wrath, even as others. Rom. 7:17. See question 25.
 
-**28. Wherefore is Baptism called the renewing of the Holy Spirit?**
+**28. Why is Baptism called the renewing of the Holy Spirit?**
 
 Answer: Because the Holy Spirit through Baptism reneweth us both in understanding and in will, and giveth us power unto a new life, so that we more and more withstand sin and become meet for good works, which are called the fruits of the Spirit and of faith. Gal. 4:6. Because ye are children, God hath sent forth the Spirit of His Son into your hearts, crying, Abba, dear Father! Col. 3:10. Put on the new (man), which is renewed in knowledge after the image of Him that created him.
 
@@ -1106,15 +1108,15 @@ Answer: Our corrupt nature and the evil lust born with us, which we have inherit
 
 Answer: When, through daily contrition and repentance, as in spiritual water, we drown that evil lust, crucify our flesh, and withstand its sinful desires. Gal. 5:24. They that are Christ's have crucified the flesh with the affections and lusts. Rom. 6:6. Knowing this, that our old man is crucified with Him, that the body of sin might be destroyed, that henceforth we should not serve sin.
 
-**31. Is the evil lust and original sin born with us utterly taken away in Baptism?**
+**31. Are the evil desire and original sin with which we are born completely taken away in Baptism?**
 
 Answer: Sin is indeed taken away in Baptism and forgiven, so that it is no more imputed unto us, neither can it any more condemn us; but it dwelleth nevertheless in us so long as we live, and is not rooted out until death. Rom. 7:17,23,24. Now then it is no more I that do it, but sin that dwelleth in me. I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members. O wretched man that I am! who shall deliver me from this body of death?
 
-**32. What is understood by the new man?**
+**32. What is meant by the new man?**
 
 Answer: He that is regenerated of the Holy Spirit, and liveth in righteousness and purity, putteth off the old man, which through lusts corrupteth himself in error, and is diligent to keep faith and a good conscience. Col. 3:10. See question 28. Eph. 4:22. Put off the old man, wherein ye walked heretofore, which through lusts corrupteth itself in error. 1 Tim. 1:18,19. This charge I commit unto thee: that thou shouldest hold faith and a good conscience.
 
-**33. Can a man comfort himself with the covenant of his Baptism, when he hath broken it, and again fallen into sin?**
+**33. Can a person take comfort in the covenant of Baptism after breaking it and falling into sin again?**
 
 Answer: He can indeed. For although man on his part breaketh the covenant made, and falleth into sin, yet is God faithful and abideth steadfast in His covenant, whereby He again receiveth the sinner into His grace, as often as he turneth and amendeth himself. Ezek. 18:21. If the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right; he shall surely live, and shall not die. 2 Tim. 2:13. If we believe not, yet He abideth faithful: He cannot deny Himself. Rom. 3:3,4. For some of the Jews did not believe; what of it? shall their unbelief make the faith of God without effect? God forbid!
 
@@ -1126,19 +1128,19 @@ THE FIFTH CHIEF PART
 
 Answer: The confession of sin.
 
-**2. How does it come about?**
+**2. What does confession involve?**
 
 Answer: When the sinner is aware of his sins, confesses them before God with a penitent heart, and prays for forgiveness for Christ's sake.
 
-**3. In how many ways is the confession of sin made?**
+**3. In what ways is confession of sin made?**
 
 Answer: It is made in common and in particular.
 
-**4. What do you call the common?**
+**4. What do you call general confession?**
 
 Answer: When the whole congregation together confesses its sins in the common worship of God, or when a common distress is at hand. Neh. 9:1,2. On the twenty-fourth day of the same month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them, and confessed their sins, and the iniquities of their fathers. Judg. 10:10. And the children of Israel cried unto the Lord, saying, We have sinned against thee, for we have forsaken our God, and served Baal.
 
-**5. What do you call the particular?**
+**5. What do you call private confession?**
 
 Answer: When someone confesses his sins by himself, or alone.
 
@@ -1146,11 +1148,11 @@ Answer: When someone confesses his sins by himself, or alone.
 
 Answer: In many ways: 1. Before God alone, when someone, being alone by himself, or in his own heart, sighs unto God, confesses his sins and prays that they be forgiven, as David, Manasseh, and the publican did: such a confession of sin is always needful, and ought to be made every day. 2. Before the whole congregation; when a public sinner, who has committed a great transgression, confesses and prays forgiveness for his sins; this is called public confession. 3. Before a neighbour whom someone has angered, and from whom he prays forgiveness for his offence. 4. Before the ministers of the word sins are also confessed, whether all in common or some particular sin that troubles someone's conscience; this is called private confession and disclosure, and no one may make it known. Ps. 51:6. Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified in thy words, and be clear when thou judgest. 1 Tim. 6:20. Them that sin rebuke before all, that others also may fear. Luke 17:4. If thy brother trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him. Matt. 5:23,24. If thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee, leave there thy gift before the altar, and go and be reconciled to thy brother, and then come and offer thy gift. 2 Sam. 12:13. And David said unto Nathan, I have sinned against the Lord. And Nathan said unto David, The Lord also hath put away thy sin; thou shalt not die. Matt. 3:5,6. Then went out to John Jerusalem, and all Judaea, and all the region round about Jordan, and were baptized of him in Jordan, confessing their sins.
 
-**7. Is it needful thus to confess oneself?**
+**7. Is it necessary to confess in this way?**
 
 Answer: It is; not only needful, but also profitable; for from it a man receives comfort in his heart, and peace and rest for his conscience.
 
-**8. Must all sins be enumerated to the ministry of preaching?**
+**8. Must every sin be listed before a minister of the Word?**
 
 Answer: There is no need of it, nor is it even possible, for who can understand his errors? Ps. 19:13. Who can understand his errors? Cleanse thou me from secret faults.
 
@@ -1158,11 +1160,11 @@ Answer: There is no need of it, nor is it even possible, for who can understand 
 
 Answer: Two: first, a true sorrow and contrition for sin; second, faith in Christ. Mark 1:15. The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel. Acts 20:21. Paul testified both to the Jews and also to the Greeks that conversion which is toward God, and that faith which is toward our Lord Jesus Christ.
 
-**10. Whence come the awareness of sin and contrition?**
+**10. Where do the knowledge of sin and contrition come from?**
 
 Answer: From the law of God, which awakens man's conscience, shows him that he has done evil and thereby earned the wrath of God, temporal and eternal punishment. Rom. 3:20. By the law is the knowledge of sin. Rom. 4:15. The law worketh wrath: for where no law is, there is no transgression.
 
-**11. Whence comes faith?**
+**11. Where does faith come from?**
 
 Answer: From the sweet teaching of the gospel and the promises of grace concerning the forgiveness of sins for Christ's sake. Rom. 1:16. I am not ashamed of the gospel of Christ, for it is the power of God unto salvation to every one that believeth.
 
@@ -1170,17 +1172,17 @@ Answer: From the sweet teaching of the gospel and the promises of grace concerni
 
 Answer: It is the promise and assurance of the forgiveness of sins, given by the ministers of the word on Christ's behalf.
 
-**13. Who has given the minister of the word this power?**
+**13. Who has given the minister of the Word this power?**
 
 Answer: Christ Jesus, the Son of God.
 
 Acts 13:28. Be it known unto you, men, beloved brethren, that I also forgive; for to whom I forgave any thing, I forgave it for your sakes on Christ's behalf.
 
-**14. Whence do you know this?**
+**14. How do you know this?**
 
 Answer: From Christ's own words, when He said to His apostles, John 20:22,23: Receive ye the Holy Ghost: whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained. Matt. 18:18: Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven. And to Peter, Matt. 16:19: I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven, and whatsoever thou shalt loose on earth shall be loosed in heaven.
 
-**15. What is understood by the keys of the kingdom of heaven?**
+**15. What is meant by the keys of the kingdom of heaven?**
 
 Answer: That power which Christ has given to the congregation, and especially to the ministry of preaching, to forgive and to retain sin. John 20:23. See question 14.
 
@@ -1192,23 +1194,23 @@ Answer: Two: one is called the key of loosing, the other the key of binding, or 
 
 Answer: It is that power which is given to Christ's servants on earth to loose the penitent sinner from his sins and to open to him the kingdom of heaven. 2 Cor. 5:20. We (says Paul) are ambassadors for Christ, as though God did beseech you by us: we pray you therefore in Christ's stead, be ye reconciled to God.
 
-**18. What is the key of binding, or of retaining?**
+**18. What is the key of binding, or retaining sins?**
 
 Answer: It is the power given whereby the preacher binds the impenitent in his sin and shuts the kingdom of heaven against him, and which is called the ban. 1 Cor. 5:3-5. For I verily (says Paul), as absent in body, but present as though I were among you, have judged already, that he who hath so done this deed, in the name of our Lord Jesus Christ, when ye are gathered together, and together with my spirit, with the power of our Lord Jesus Christ, be delivered unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus. Matt. 18:15-18. If thy brother shall trespass against thee, go and tell him his fault between thee and him alone. If he shall hear thee, thou hast gained thy brother; but if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. But if he will not hear them, tell it unto the congregation: but if he neglect to hear the congregation, let him be unto thee as a heathen man and a publican. Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven; and whatsoever ye shall loose on earth shall be loosed in heaven.
 
-**19. What is the ban, or the laying under the ban?**
+**19. What is excommunication, or being placed under the ban?**
 
 Answer: It is this: when the impenitent and unworthy sinner is shut out from the Lord's Supper, or also altogether from the fellowship of the congregation; the latter is called the greater ban, but the former the lesser.
 
-20. Can one who has been laid under the ban, and who is bound in his sins, be received again into grace?
+**20. Can someone who has been excommunicated and bound in his sins be received into grace again?**
 
 Answer: Assuredly he can; when he turns himself, showing true contrition and repentance, he is to be set right with the comfort of the gospel and assured of God's grace; for the key of retaining is not given for damnation, but for the amendment and setting right of the soul. Ezek. 18:21. See question 33 in the fourth chief part. 2 Cor. 13:10. Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.
 
-**21. What then does God require of us, when we have repented and received forgiveness of our sins?**
+**21. What, then, does God require of us after we have repented and received the forgiveness of our sins?**
 
 Answer: A new obedience, which shows itself in a holy and godly life, and is called the fruit of repentance. Matt. 3:8. Bring forth therefore fruits meet for repentance. Luke 3:8.
 
-**22. Wherewith ought we to strengthen our faith in the forgiveness of sins?**
+**22. How should we strengthen our faith in the forgiveness of sins?**
 
 Answer: With the Lord's high Supper, or the Sacrament of the Altar.
 
@@ -1228,19 +1230,19 @@ Answer: Because the Lord Jesus instituted this high meal by night, after He had 
 
 Answer: It is the second sacrament of the New Testament, ordained and instituted by our Lord Christ, in which He, in an unsearchable manner, gives us with the blessed bread His true body to eat, and with the blessed wine His blood to drink, that we, being thus united with Christ, may call to remembrance His passion and death for the strengthening of our faith and the amendment of our life.
 
-**4. What is there in this Supper?**
+**4. What is present in this Supper?**
 
 Answer: Two kinds of things: visible and invisible.
 
-**5. What are the visible parts?**
+**5. What are the visible elements?**
 
 Answer: The bread and the wine.
 
-6. What are the invisible parts?
+**6. What are the invisible gifts?**
 
 Answer: The body and blood of Christ.
 
-**7. What then do you receive in this holy Supper?**
+**7. What, then, do you receive in this Holy Supper?**
 
 Answer: In the bread, with the bread, under the bread, I receive and take with my mouth the true body of Christ, that is, His flesh; and with the wine, the blood of Christ. 1 Cor. 10:16. The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
 
@@ -1248,29 +1250,29 @@ Answer: In the bread, with the bread, under the bread, I receive and take with m
 
 Answer: To distinguish it from the blood of the Levitical, or Old Testament, sacrifices, which were only a shadow and figure of the blood of Jesus Christ the Son of God. Heb. 9:12. Neither by the blood of goats and calves, but by His own blood He entered in once into the holy place, having obtained eternal redemption.
 
-**9. How is it possible that Christ can give us His body and blood to eat and to drink?**
+**9. How is it possible for Christ to give us His body and blood to eat and drink?**
 
 Answer: With God nothing is impossible. Although we can neither search out nor comprehend this mystery, yet we ought, as true Christians, simply to believe it, for this reason: that our Lord Christ, who has said it, is the true and almighty Lord, who is able to do it. Luke 1:37. The angel said unto Mary: For with God nothing shall be impossible. Eph. 3:20. God is able to do exceeding abundantly above all that we ask or think. Heb. 6:16. It is impossible for God to lie.
 
-**10. What manner of eating and drinking takes place in the Lord's Supper?**
+**10. What kind of eating and drinking takes place in the Lord’s Supper?**
 
 Answer: In the Lord's Supper a threefold eating and drinking takes place. 1. Natural and ordinary eating and drinking, when the bread and wine are taken into the mouth, swallowed, and consumed in the stomach. 2. Spiritual eating and drinking, which takes place by faith in the grace of God and in the merit of Jesus Christ. 3. Sacramental, which takes place in an incomprehensible and unsearchable manner, when all the guests, unworthy as well as worthy, receive with their mouth in the Supper the true body and blood of Christ, under the bread and wine. And this eating and drinking takes place especially in the Lord's Supper. John 6:47-51. Verily, verily, I say unto you, He that believeth on me hath everlasting life. I am that bread of life. Your fathers did eat manna in the wilderness, and are dead. This is the bread which came down from heaven, that a man may eat thereof, and not die. I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world. 1 Cor. 11:23-26. The Lord Jesus the same night in which He was betrayed took bread: and when He had given thanks, He brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me. After the same manner also He took the cup, when He had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me. For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till He come.
 
-**11. What difference is there between the spiritual and the sacramental eating and drinking?**
+**11. What is the difference between spiritual and sacramental eating and drinking?**
 
 Answer: The difference is in this: 1. That the sacramental eating and drinking takes place only in the congregation of the New Testament; but the spiritual is held in all ages, both in the Old and in the New
 
 Testament. 2. The sacramental is received with the mouth, in the bread and wine, in the Supper; but the spiritual by faith, both in the Supper and apart from the Supper. 3. The sacramental is received by the ungodly as well as by the godly, but the spiritual only by the godly and worthy guests.
 
-**12. Is it profitable to anyone to go to this table of the Lord without faith, or without the spiritual eating and drinking?**
+**12. Does anyone benefit from coming to the Lord’s table without faith—that is, without spiritual eating and drinking?**
 
 Answer: No. Without faith, or without the spiritual eating and drinking, the sacramental eating and drinking that takes place in the Supper avails nothing: but it turns to the receiver rather to judgment than to salvation.
 
-**13. Are the body and blood of Christ in the bread and wine, or present with them, even though no one eats and drinks thereof?**
+**13. Are the body and blood of Christ in or with the bread and wine even when no one eats or drinks them?**
 
 Answer: No. The bread is nothing but bread, and the wine is nothing but wine, neither before nor after, or apart from the celebration and receiving of the Supper.
 
-**14. How then do we receive and partake of the body and blood of Jesus?**
+**14. How, then, do we receive and partake of the body and blood of Jesus?**
 
 Answer: In this way: that the blessed bread and wine are distributed, taken, eaten, and drunk in the Supper.
 
@@ -1282,7 +1284,7 @@ Answer: No. For our Lord Christ has not in the Supper given us His body and bloo
 
 Answer: By no means; but they are and remain bread and wine in the very receiving of the Supper; yet by the power of the sacramental union the true body and blood of Christ are truly received in the Supper, in the bread and wine, under the bread and wine, and with the bread and wine.
 
-**17. How is this confirmed by the word of God?**
+**17. How is this confirmed by the Word of God?**
 
 Answer: The apostle Paul calls it bread and wine after it has been blessed, saying: the bread which we break is the communion of the body of Christ, and the cup of blessing which we bless is the communion of the blood of Christ. 1 Cor. 10:16. See question 7 in this chief part.
 
@@ -1290,31 +1292,35 @@ Answer: The apostle Paul calls it bread and wine after it has been blessed, sayi
 
 Answer: That we in humility might remember and proclaim those great good deeds which He has done and shown us by His passion, and might thank Him for them. Luke 22:19. Jesus took bread, and gave thanks, and brake it, and gave it to them, saying, This is my body which is given for you: this do in remembrance of me. 1 Cor. 11:26. As often as ye eat this bread, and drink this cup, ye do shew the Lord's death till He come.
 
-**19. What good does the Lord's Supper bring us?**
+**19. What benefits does the Lord’s Supper give us?**
 
 Answer: 1. Our faith is thereby strengthened and assured concerning the forgiveness of sins. 2. We become united with Christ, so that He is in us and we in Him. 3. Our faith is strengthened concerning the resurrection unto eternal life. Matt. 26:28. This is my blood of the new testament, which is shed for many for the remission of sins. Gal. 2:20. I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
 
-**20. Has the blessed bread and wine, apart from the celebration of the Supper, any secret power in other matters, in any connexion or otherwise, more than other bread and wine?**
+**20. Apart from the celebration of the Supper, do the consecrated bread and wine possess any hidden power, whether through contact or otherwise, beyond that of ordinary bread and wine?**
 
 Answer: Not in the least; rather it is an accursed sin and idolatry when they are used to heal bodily diseases, which ought not to be allowed; but those who seek and desire such things ought to be rebuked and punished.
 
-**21. Is it in everyone's will to go to the Lord's Supper, or to keep himself away from it?**
+**21. Is everyone free to choose whether to attend the Lord’s Supper or stay away?**
 
-Answer: By no means, for the Lord says: This do; eat and drink. 1 Cor. 11:25,26. See question 10 in this chief part. 22. How often ought one to go to the Lord's Supper? Answer: Not only once a year, but oftener, and as often as the conscience requires it for its comfort and strengthening.
+Answer: By no means, for the Lord says: This do; eat and drink. 1 Cor. 11:25,26. See question 10 in this chief part.
+
+**22. How often should one receive the Lord’s Supper?**
+
+Answer: Not only once a year, but more often—as often as one’s conscience requires it for comfort and strengthening.
 
 **23. What moves us to go to the Lord's Supper?**
 
 Answer: 1. The command of Jesus Christ. 2. His gracious promise. 3. Our own need, weakness, and temptations, which always beset us.
 
-**24. Who are the worthy and the unworthy guests at this holy meal?**
+**24. Who are worthy and unworthy guests at this Holy Supper?**
 
 Answer: The fit and worthy guests are those who examine themselves, whether they understand for what this holy observance is fitted: 1. Whether they repent from their heart of the sins they have committed. 2. Whether they firmly believe that God, for Christ's sake, forgives them their sins, and confirms this by the holy Supper. 3. Whether they have a heart at peace toward their neighbour; and 4, a true and firm intention and will to amend their life. But those are unworthy and unfit who take no account of these things, but go there for custom's sake, for the sake of outward form and from a hypocritical heart; they eat and drink judgment and damnation to themselves. 1 Cor. 11:28. Let a man examine himself, and so let him eat of that bread, and drink of that cup. Matt. 5:23,24. See question 36 in the third chief part.
 
-**25. How ought we to conduct ourselves when we come to the Lord's table?**
+**25. How should we conduct ourselves when we come to the Lord’s table?**
 
 Answer: After we have received absolution from the ministry of preaching, we ought: 1. To come forward in true repentance, laying aside all strange and worldly thoughts. 2. In the very receiving of the sacrament to conduct ourselves godly, soberly, and modestly, considering that we have to do not with men but with God; 3. When we depart thence with renewed grace, to thank Him for it from our heart, holding a good intention and will to walk in newness of life.
 
-**26. Can you, in conclusion, tell me briefly how one might rightly use all these six chief parts for the exercise of his Christianity?**
+**26. In conclusion, can you briefly tell me how to use all six chief parts rightly in the practice of the Christian faith?**
 
 Answer: When man has, from the ten commandments and the law of God, learned to know and to repent of his sins, he ought not to fall into doubt; but, by the guidance of the confession of faith and the gospel, straightway to flee to the merit of Jesus Christ, and by faith to make it his own and to be assured of the forgiveness of sins. Together with this he ought every day faithfully to pray to God concerning all his spiritual and bodily needs by the Lord's Prayer, which Jesus Himself has taught, ever mindful of the covenant of his baptism, in which he has promised to renounce the devil and all his works, and on the contrary to serve God in holiness and righteousness. And when he perceives that he has broken this and fallen into fault, he ought to go to confession, there to confess his sins and to pray for absolution from the ministry of preaching, to which the power is given to forgive sins on Christ's behalf; and then to go in a Christian manner to the Lord's Supper for the strengthening of his faith concerning the grace of God, the forgiveness of sins, and eternal life, which God grant unto us all graciously for Christ's sake!
 

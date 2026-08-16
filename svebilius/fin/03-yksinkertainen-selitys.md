@@ -528,7 +528,7 @@ Vastaus: Hän on myös meidän puolestamme täyttänyt lain, Hänen täydellisel
 
 **36. Kuinka Hän tässä uskonkappaleessa nimitetään?**
 
-Vastaus: J e e s u s K r i s t u s. 1 Kor. 3:11. Muuta perustusta ei taida yksikään panna, kuin mikä pantu on, ja se on Jeesus Kristus.
+Vastaus: Jeesus Kristus. 1 Kor. 3:11. Muuta perustusta ei taida yksikään panna, kuin mikä pantu on, ja se on Jeesus Kristus.
 
 **37. Mitä se on hebrean sana Jeesus merkitsee?**
 
@@ -876,27 +876,27 @@ Vastaus: Jumala, joka sanallansa meitä vahvistaa ja lujana pitää uskossa, Hä
 
 Neljäs rukous
 
-**28. Minkätähden me sanomme tässä rukouksessa: a n n a ?**
+**28. Minkätähden me sanomme tässä rukouksessa: anna?**
 
 Vastaus: Sentähden, ettemme ilman Jumalan siunausta omalla työllämme tahi taidollamme mitään taida ansaita tai koota; vaan kaikkinainen hyvä anti tulee ylhäältä valkeuden Isältä. Jaak. 1:7. Ps. 127:1. Jos ei Herra huonetta rakenna, niin he hukkaan työtä tekevät, jotka sitä rakentavat. Ps. 132:15. Minä Herra siunaan hänen elatuksensa ja hänen köyhillensä kyllä annan leipää.
 
-**29. Miksi me sanomme: anna m e i l l e ?**
+**29. Miksi me sanomme: anna meille?**
 
 Vastaus: Sillä ei meidän pidä ainoastansa itsellemme anoman, vaan myös meidän lähimmäisellemme; ja koska Jumala meille hyvää antaa, ei meidän pidä sitä yksinämme pitämään, vaan myös muille sitä jakaman.
 
-**30. Miksi me sanomme: anna meille t ä n ä p ä i v ä n ä?**
+**30. Miksi me sanomme: anna meille tänäpäivänä?**
 
 Vastaus: Niin kuin me joka päivä tarvitsemme meidän henkemme ylöspitämistä, niin meidän myös tulee joka päivä sitä rukoilla, ja emme myös tiedä, elämmekö huomiseksi.
 
-31. Miksi me sanomme: anna meille m e i d ä n leipämme ?
+31. Miksi me sanomme: anna meille meidän leipämme?
 
 Vastaus: Sillä me rukoilemme, että Jumala antaisi meille meidän määrätyn osamme, ja että saisimme syödä omaa leipäämme, jonka Jumala meille meidän työssämme antaa; eikä muitten leipää varkaudessa, vääryydessä ja laiskuudessa. Sananl. 30:8. Köyhyyttä ja rikkautta älä minulle anna; vaan anna minun saada määrätty osani ravinnosta. 2 Tess. 3:10. Jos ei joku tahdo työtä tehdä, niin ei hänen syömänkään pidä.
 
-**32. Minkätähden me anomme j o k a p ä i v ä i s t ä l e i p ä ä ?**
+**32. Minkätähden me anomme jokapäiväistä leipää?**
 
 Vastaus: Ettemme ajattomalla murheella ja epäilyksellä surisi huomisesta päivästä, vaan tyytyisimme siihen, mitä meillä on, sillä kullakin päivällä on suru itsestänsä; tyytyköön kukin päivä suruunsa. Matt. 6:34.
 
-**33. Mitä l e i v ä l l ä ymmärretään ?**
+**33. Mitä leivällä ymmärretään?**
 
 Vastaus: Kaikki ajalliset, mitä ihmiset tarvitsevat tämän elämän ylläpitämiseksi ja mitä Katekismuksessa luetellaan. 1 Moos. 3:19. Taita isoovaiselle leipäsi, vie raadolliset kulkijat huoneeseesi, koska sinä näet alastoman, niin vaateta häntä äläkä käännä itseäsi pois sen tyköä, joka on omaa lihaasi. Jes. 58:7. Taita isoovaiselle leipäsi, vie raadolliset kulkijat huoneeseesi, koska sinä näet alastoman, niin vaateta häntä äläkä käännä itseäsi pois sen tyköä, joka on omaa lihaasi.
 
