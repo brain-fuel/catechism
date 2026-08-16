@@ -8,7 +8,6 @@ title: "Lead Us Not into Temptation: The Sixth Petition"
 
 
 
-## Svebilius and Luther
 
 **43. Why does he do all these things?**
 
@@ -90,13 +89,12 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
-## Laine supplementary teaching
 
 <a id="rg-04-2-6-the-lord-s-prayer-the-sixth-petition-001"></a>
 
 ### The Sower and the Soils
 
-*Laine addition.* These passages locate **the sower and the soils** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the sower and the soils** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Mark 4:1-20](#passage-mark-4-1-20)
 
@@ -104,7 +102,7 @@ References: [Mark 4:1-20](#passage-mark-4-1-20)
 
 ### The Tempter and Our Own Desire
 
-*Laine addition.* These passages locate **the tempter and our own desire** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the tempter and our own desire** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 5:8-9](#passage-1-peter-5-8-9), [2 Samuel 12:9](#passage-2-samuel-12-9), [2 Timothy 3:1-4](#passage-2-timothy-3-1-4), [Genesis 3](#passage-genesis-3), [James 1:13-14](#passage-james-1-13-14), [John 13:2](#passage-john-13-2), [Luke 22:54-60](#passage-luke-22-54-60), [Matthew 27:4-5](#passage-matthew-27-4-5)
 
@@ -112,7 +110,7 @@ References: [1 Peter 5:8-9](#passage-1-peter-5-8-9), [2 Samuel 12:9](#passage-2-
 
 ### Watch and Pray
 
-*Laine addition.* These passages locate **watch and pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **watch and pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 10:12-13](#passage-1-corinthians-10-12-13), [Mark 14:38](#passage-mark-14-38), [Mark 9:24](#passage-mark-9-24), [Matthew 24:9-14](#passage-matthew-24-9-14)
 
@@ -120,7 +118,7 @@ References: [1 Corinthians 10:12-13](#passage-1-corinthians-10-12-13), [Mark 14:
 
 ### Flee, Lest You Fall Away
 
-*Laine addition.* These passages locate **flee, lest you fall away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **flee, lest you fall away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Galatians 5:19-21](#passage-galatians-5-19-21), [Genesis 39:1-20](#passage-genesis-39-1-20), [Hebrews 6:4-6](#passage-hebrews-6-4-6), [Proverbs 1:10](#passage-proverbs-1-10), [Revelation 3:10](#passage-revelation-3-10)
 
@@ -128,7 +126,7 @@ References: [Galatians 5:19-21](#passage-galatians-5-19-21), [Genesis 39:1-20](#
 
 ### Armed with the Word
 
-*Laine addition.* These passages locate **armed with the word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **armed with the word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 10:13](#passage-1-corinthians-10-13), [2 Corinthians 4:7-12](#passage-2-corinthians-4-7-12), [Ephesians 6:11, 17-18](#passage-ephesians-6-11-17-18), [Matthew 4:1-11](#passage-matthew-4-1-11), [Romans 13:14](#passage-romans-13-14)
 
@@ -136,7 +134,7 @@ References: [1 Corinthians 10:13](#passage-1-corinthians-10-13), [2 Corinthians 
 
 ### God Tests, but Does Not Tempt
 
-*Laine addition.* These passages locate **god tests, but does not tempt** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god tests, but does not tempt** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Genesis 22:1-19](#passage-genesis-22-1-19), [James 1:13](#passage-james-1-13), [James 1:2-3](#passage-james-1-2-3), [John 6:5-6](#passage-john-6-5-6), [Matthew 15:21-28](#passage-matthew-15-21-28)
 
@@ -144,7 +142,7 @@ References: [Genesis 22:1-19](#passage-genesis-22-1-19), [James 1:13](#passage-j
 
 ### Under the Shadow of the Almighty
 
-*Laine addition.* These passages locate **under the shadow of the almighty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **under the shadow of the almighty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 91](#passage-psalm-91)
 
@@ -327,18 +325,18 @@ References: [Psalm 91](#passage-psalm-91)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Mark 4:1-20 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Mark 4:1-20 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read 1 Peter 5:8-9. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read 1 Peter 5:8-9. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

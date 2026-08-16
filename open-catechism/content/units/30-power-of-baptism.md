@@ -8,7 +8,6 @@ title: "Power of Baptism"
 
 
 
-## Svebilius and Luther
 
 **18. Does Baptism also deliver us from death?**
 
@@ -74,13 +73,12 @@ Answer: It signifies that the old Adam in us should, by daily contrition and rep
 
 Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are buried with Christ by baptism into death, that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
-## Laine supplementary teaching
 
 <a id="rg-05-1-3-the-power-of-baptism-001"></a>
 
 ### The Washing of Regeneration
 
-*Laine addition.* These passages locate **the washing of regeneration** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the washing of regeneration** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Titus 3:5-8](#passage-titus-3-5-8)
 
@@ -88,7 +86,7 @@ References: [Titus 3:5-8](#passage-titus-3-5-8)
 
 ### Nicodemus and the New Birth
 
-*Laine addition.* These passages locate **nicodemus and the new birth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **nicodemus and the new birth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 3:1-15](#passage-john-3-1-15)
 
@@ -96,7 +94,7 @@ References: [John 3:1-15](#passage-john-3-1-15)
 
 ### Naaman and the Cleansing Word
 
-*Laine addition.* These passages locate **naaman and the cleansing word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **naaman and the cleansing word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Kings 5:1-15](#passage-2-kings-5-1-15), [Acts 22:16](#passage-acts-22-16), [Colossians 2:11-15](#passage-colossians-2-11-15), [Ephesians 5:25-26](#passage-ephesians-5-25-26), [Galatians 3:26-27](#passage-galatians-3-26-27)
 
@@ -104,7 +102,7 @@ References: [2 Kings 5:1-15](#passage-2-kings-5-1-15), [Acts 22:16](#passage-act
 
 ### A New Creation, Heirs with Christ
 
-*Laine addition.* These passages locate **a new creation, heirs with christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **a new creation, heirs with christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 5:17](#passage-2-corinthians-5-17), [Romans 8:11-17](#passage-romans-8-11-17), [Titus 3:5-8](#passage-titus-3-5-8)
 
@@ -112,7 +110,7 @@ References: [2 Corinthians 5:17](#passage-2-corinthians-5-17), [Romans 8:11-17](
 
 ### An Appeal for a Good Conscience
 
-*Laine addition.* These passages locate **an appeal for a good conscience** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **an appeal for a good conscience** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 3:21](#passage-1-peter-3-21)
 
@@ -120,7 +118,7 @@ References: [1 Peter 3:21](#passage-1-peter-3-21)
 
 ### One Baptism
 
-*Laine addition.* These passages locate **one baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **one baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 12:13](#passage-1-corinthians-12-13), [Ephesians 4:5](#passage-ephesians-4-5), [Hebrews 6:2](#passage-hebrews-6-2), [Mark 7:4](#passage-mark-7-4)
 
@@ -128,7 +126,7 @@ References: [1 Corinthians 12:13](#passage-1-corinthians-12-13), [Ephesians 4:5]
 
 ### Baptized with the Holy Spirit
 
-*Laine addition.* These passages locate **baptized with the holy spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **baptized with the holy spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 6:11](#passage-1-corinthians-6-11), [Acts 1:4-5](#passage-acts-1-4-5), [Acts 2](#passage-acts-2), [John 3:5](#passage-john-3-5), [John 7:39](#passage-john-7-39), [Matthew 3:11](#passage-matthew-3-11), [Titus 3:5](#passage-titus-3-5)
 
@@ -136,7 +134,7 @@ References: [1 Corinthians 6:11](#passage-1-corinthians-6-11), [Acts 1:4-5](#pas
 
 ### Devoted to the Apostles' Teaching
 
-*Laine addition.* These passages locate **devoted to the apostles' teaching** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **devoted to the apostles' teaching** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 2:42-43](#passage-acts-2-42-43)
 
@@ -144,7 +142,7 @@ References: [Acts 2:42-43](#passage-acts-2-42-43)
 
 ### Send Out Your Light and Your Truth
 
-*Laine addition.* These passages locate **send out your light and your truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **send out your light and your truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 43](#passage-psalm-43)
 
@@ -291,18 +289,18 @@ References: [Psalm 43](#passage-psalm-43)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Titus 3:5-8 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Titus 3:5-8 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read John 3:1-15. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read John 3:1-15. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

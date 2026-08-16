@@ -8,7 +8,6 @@ title: "Parents and Authorities: The Fourth Commandment"
 
 
 
-## Svebilius and Luther
 
 **37. Why is every person called our neighbour?**
 
@@ -130,13 +129,12 @@ Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the i
 
 Answer: God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
 
-## Laine supplementary teaching
 
 <a id="rg-02-4-the-fourth-commandment-001"></a>
 
 ### Christ's Care for His Mother
 
-*Laine addition.* These passages locate **christ's care for his mother** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **christ's care for his mother** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 19:25-27](#passage-john-19-25-27)
 
@@ -144,7 +142,7 @@ References: [John 19:25-27](#passage-john-19-25-27)
 
 ### Listen to Your Father
 
-*Laine addition.* These passages locate **listen to your father** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **listen to your father** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Proverbs 23:22](#passage-proverbs-23-22)
 
@@ -152,7 +150,7 @@ References: [Proverbs 23:22](#passage-proverbs-23-22)
 
 ### The Wise Son Honors His Parents
 
-*Laine addition.* These passages locate **the wise son honors his parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the wise son honors his parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Proverbs 15:20](#passage-proverbs-15-20)
 
@@ -160,7 +158,7 @@ References: [Proverbs 15:20](#passage-proverbs-15-20)
 
 ### Rebellion Against Parents
 
-*Laine addition.* These passages locate **rebellion against parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **rebellion against parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Samuel 2:12-25](#passage-1-samuel-2-12-25), [2 Samuel 15:10-11](#passage-2-samuel-15-10-11), [Deuteronomy 21:18-21](#passage-deuteronomy-21-18-21)
 
@@ -168,7 +166,7 @@ References: [1 Samuel 2:12-25](#passage-1-samuel-2-12-25), [2 Samuel 15:10-11](#
 
 ### Do Not Withhold from Parents
 
-*Laine addition.* These passages locate **do not withhold from parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **do not withhold from parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Mark 7:10-12](#passage-mark-7-10-12)
 
@@ -176,7 +174,7 @@ References: [Mark 7:10-12](#passage-mark-7-10-12)
 
 ### Providing for Parents
 
-*Laine addition.* These passages locate **providing for parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **providing for parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Genesis 47:11-12](#passage-genesis-47-11-12), [John 19:25-27](#passage-john-19-25-27)
 
@@ -184,7 +182,7 @@ References: [Genesis 47:11-12](#passage-genesis-47-11-12), [John 19:25-27](#pass
 
 ### Obedience to Authority
 
-*Laine addition.* These passages locate **obedience to authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **obedience to authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 6:1-3](#passage-ephesians-6-1-3), [Hebrews 13:17](#passage-hebrews-13-17), [Romans 13:1](#passage-romans-13-1)
 
@@ -192,7 +190,7 @@ References: [Ephesians 6:1-3](#passage-ephesians-6-1-3), [Hebrews 13:17](#passag
 
 ### Honoring Elders and Rulers
 
-*Laine addition.* These passages locate **honoring elders and rulers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **honoring elders and rulers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 2:1-4](#passage-1-timothy-2-1-4), [Leviticus 19:32](#passage-leviticus-19-32), [Luke 2:51](#passage-luke-2-51), [Proverbs 23:22-24](#passage-proverbs-23-22-24), [Titus 3:1](#passage-titus-3-1)
 
@@ -200,7 +198,7 @@ References: [1 Timothy 2:1-4](#passage-1-timothy-2-1-4), [Leviticus 19:32](#pass
 
 ### Obeying God Above Men
 
-*Laine addition.* These passages locate **obeying god above men** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **obeying god above men** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 2:18-19](#passage-1-peter-2-18-19), [1 Samuel 20:30-34](#passage-1-samuel-20-30-34), [Acts 5:29](#passage-acts-5-29), [Ephesians 6:1](#passage-ephesians-6-1), [Matthew 22:21](#passage-matthew-22-21)
 
@@ -208,7 +206,7 @@ References: [1 Peter 2:18-19](#passage-1-peter-2-18-19), [1 Samuel 20:30-34](#pa
 
 ### The Fourth Commandment
 
-*Laine addition.* These passages locate **the fourth commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the fourth commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 6:3](#passage-ephesians-6-3), [Exodus 20:12](#passage-exodus-20-12)
 
@@ -216,7 +214,7 @@ References: [Ephesians 6:3](#passage-ephesians-6-3), [Exodus 20:12](#passage-exo
 
 ### Children Are a Heritage
 
-*Laine addition.* These passages locate **children are a heritage** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **children are a heritage** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 127](#passage-psalm-127)
 
@@ -369,18 +367,18 @@ References: [Psalm 127](#passage-psalm-127)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read John 19:25-27 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read John 19:25-27 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Proverbs 23:22. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Proverbs 23:22. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

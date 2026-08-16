@@ -8,7 +8,6 @@ title: "Daily Prayers"
 
 
 
-## Svebilius and Luther
 
 ### Luther’s Small Catechism
 
@@ -48,13 +47,12 @@ Psalm 130. A Song of degrees. 1. Out of the depths have I cried unto thee, O Lor
 
 Psalm 143. A Psalm of David. 1. Hear my prayer, O Lord, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness. 2. And enter not into judgment with thy servant: for in thy sight shall no man living be justified. 3. For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead. 4. Therefore is my spirit overwhelmed within me; my heart within me is desolate. 5. I remember the days of old; I meditate on all thy works; I muse on the work of thy hands. 6. I stretch forth my hands unto thee: my soul thirsteth after thee, as a thirsty land. Selah. 7. Hear me speedily, O Lord: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit. 8. Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee. 9. Deliver me, O Lord, from mine enemies: I flee unto thee to hide me. 10. Teach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness. 11. Quicken me, O Lord, for thy name's sake: for thy righteousness' sake bring my soul out of trouble. 12. And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I am thy servant.
 
-## Laine supplementary teaching
 
 <a id="rg-06-daily-prayers-001"></a>
 
 ### Into Your Hands I Commit My Spirit
 
-*Laine addition.* These passages locate **into your hands i commit my spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **into your hands i commit my spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 31:5](#passage-psalm-31-5), [Psalm 91:11](#passage-psalm-91-11)
 
@@ -62,7 +60,7 @@ References: [Psalm 31:5](#passage-psalm-31-5), [Psalm 91:11](#passage-psalm-91-1
 
 ### In Peace I Will Lie Down and Sleep
 
-*Laine addition.* These passages locate **in peace i will lie down and sleep** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **in peace i will lie down and sleep** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 121](#passage-psalm-121), [Psalm 127](#passage-psalm-127), [Psalm 4:8](#passage-psalm-4-8)
 
@@ -70,7 +68,7 @@ References: [Psalm 121](#passage-psalm-121), [Psalm 127](#passage-psalm-127), [P
 
 ### The Eyes of All Look to You
 
-*Laine addition.* These passages locate **the eyes of all look to you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the eyes of all look to you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 145:15-16](#passage-psalm-145-15-16)
 
@@ -78,7 +76,7 @@ References: [Psalm 145:15-16](#passage-psalm-145-15-16)
 
 ### Made Holy by the Word and Prayer
 
-*Laine addition.* These passages locate **made holy by the word and prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **made holy by the word and prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 4:4-5](#passage-1-timothy-4-4-5), [Psalm 103:2](#passage-psalm-103-2), [Psalm 136:1, 25](#passage-psalm-136-1-25), [Psalm 147:9-11](#passage-psalm-147-9-11)
 
@@ -147,18 +145,18 @@ References: [1 Timothy 4:4-5](#passage-1-timothy-4-4-5), [Psalm 103:2](#passage-
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Psalm 31:5 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Psalm 31:5 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Psalm 91:11. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Psalm 91:11. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

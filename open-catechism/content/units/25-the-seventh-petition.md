@@ -8,7 +8,6 @@ title: "Deliver Us from Evil: The Seventh Petition"
 
 
 
-## Svebilius and Luther
 
 **48. What do you understand by deliverance?**
 
@@ -84,13 +83,12 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
-## Laine supplementary teaching
 
 <a id="rg-04-2-7-the-lord-s-prayer-the-seventh-petition-001"></a>
 
 ### The Fall and the Curse
 
-*Laine addition.* These passages locate **the fall and the curse** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the fall and the curse** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Genesis 3:1-19](#passage-genesis-3-1-19)
 
@@ -98,7 +96,7 @@ References: [Genesis 3:1-19](#passage-genesis-3-1-19)
 
 ### The Lord Will Keep You from All Evil
 
-*Laine addition.* These passages locate **the lord will keep you from all evil** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the lord will keep you from all evil** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Thessalonians 3:3](#passage-2-thessalonians-3-3), [Psalm 121:7-8](#passage-psalm-121-7-8)
 
@@ -106,7 +104,7 @@ References: [2 Thessalonians 3:3](#passage-2-thessalonians-3-3), [Psalm 121:7-8]
 
 ### Deliver Me from My Enemies
 
-*Laine addition.* These passages locate **deliver me from my enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **deliver me from my enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 20:1-2](#passage-psalm-20-1-2), [Psalm 59:1](#passage-psalm-59-1)
 
@@ -114,7 +112,7 @@ References: [Psalm 20:1-2](#passage-psalm-20-1-2), [Psalm 59:1](#passage-psalm-5
 
 ### Through Many Tribulations
 
-*Laine addition.* These passages locate **through many tribulations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **through many tribulations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 14:22](#passage-acts-14-22), [Daniel 3](#passage-daniel-3), [Daniel 6](#passage-daniel-6), [Proverbs 3:11-12](#passage-proverbs-3-11-12), [Psalm 91:9-10](#passage-psalm-91-9-10)
 
@@ -122,7 +120,7 @@ References: [Acts 14:22](#passage-acts-14-22), [Daniel 3](#passage-daniel-3), [D
 
 ### Rescued from This Evil Age
 
-*Laine addition.* These passages locate **rescued from this evil age** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **rescued from this evil age** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Thessalonians 3:3](#passage-2-thessalonians-3-3), [2 Timothy 4:18](#passage-2-timothy-4-18), [Galatians 1:4-5](#passage-galatians-1-4-5), [Revelation 14:13](#passage-revelation-14-13), [Revelation 21:4](#passage-revelation-21-4)
 
@@ -130,7 +128,7 @@ References: [2 Thessalonians 3:3](#passage-2-thessalonians-3-3), [2 Timothy 4:18
 
 ### The Evil One Unmasked
 
-*Laine addition.* These passages locate **the evil one unmasked** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the evil one unmasked** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 5:8](#passage-1-peter-5-8), [2 Corinthians 11:14](#passage-2-corinthians-11-14), [Isaiah 14:12-15](#passage-isaiah-14-12-15), [Matthew 13:24-30, 38-39](#passage-matthew-13-24-30-38-39), [Revelation 12:9](#passage-revelation-12-9)
 
@@ -138,7 +136,7 @@ References: [1 Peter 5:8](#passage-1-peter-5-8), [2 Corinthians 11:14](#passage-
 
 ### The Father of Lies
 
-*Laine addition.* These passages locate **the father of lies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the father of lies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 2:1-2](#passage-ephesians-2-1-2), [Ezekiel 28:11-19](#passage-ezekiel-28-11-19), [John 8:44](#passage-john-8-44), [Matthew 4:8-10](#passage-matthew-4-8-10)
 
@@ -146,7 +144,7 @@ References: [Ephesians 2:1-2](#passage-ephesians-2-1-2), [Ezekiel 28:11-19](#pas
 
 ### A Very Present Help in Trouble
 
-*Laine addition.* These passages locate **a very present help in trouble** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **a very present help in trouble** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Thessalonians 3:3](#passage-2-thessalonians-3-3), [Colossians 1:11-14](#passage-colossians-1-11-14), [Psalm 46:1-3](#passage-psalm-46-1-3)
 
@@ -154,7 +152,7 @@ References: [2 Thessalonians 3:3](#passage-2-thessalonians-3-3), [Colossians 1:1
 
 ### Our Dwelling Place in All Generations
 
-*Laine addition.* These passages locate **our dwelling place in all generations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **our dwelling place in all generations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 90](#passage-psalm-90)
 
@@ -319,18 +317,18 @@ References: [Psalm 90](#passage-psalm-90)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Genesis 3:1-19 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Genesis 3:1-19 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read 2 Thessalonians 3:3. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read 2 Thessalonians 3:3. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

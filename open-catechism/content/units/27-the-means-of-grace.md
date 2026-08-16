@@ -8,15 +8,13 @@ title: "The Means of Grace"
 
 
 
-## Svebilius and Luther
 
-## Laine supplementary teaching
 
 <a id="rg-05-0-the-means-of-grace-001"></a>
 
 ### The Mysteries of God
 
-*Laine addition.* These passages locate **the mysteries of god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the mysteries of god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 4:1](#passage-1-corinthians-4-1), [1 Timothy 3:16](#passage-1-timothy-3-16), [Ephesians 5:32](#passage-ephesians-5-32)
 
@@ -24,7 +22,7 @@ References: [1 Corinthians 4:1](#passage-1-corinthians-4-1), [1 Timothy 3:16](#p
 
 ### Instituted by Christ
 
-*Laine addition.* These passages locate **instituted by christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **instituted by christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 20:22-23](#passage-john-20-22-23), [Mark 14:22-25](#passage-mark-14-22-25), [Matthew 28:19](#passage-matthew-28-19)
 
@@ -32,7 +30,7 @@ References: [John 20:22-23](#passage-john-20-22-23), [Mark 14:22-25](#passage-ma
 
 ### From Circumcision to Baptism
 
-*Laine addition.* These passages locate **from circumcision to baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **from circumcision to baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 2:11-12](#passage-colossians-2-11-12), [Genesis 17:10-14](#passage-genesis-17-10-14)
 
@@ -40,7 +38,7 @@ References: [Colossians 2:11-12](#passage-colossians-2-11-12), [Genesis 17:10-14
 
 ### God Works Through Lowly Means
 
-*Laine addition.* These passages locate **god works through lowly means** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god works through lowly means** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 1:28](#passage-1-corinthians-1-28), [2 Kings 5:1-14](#passage-2-kings-5-1-14)
 
@@ -48,7 +46,7 @@ References: [1 Corinthians 1:28](#passage-1-corinthians-1-28), [2 Kings 5:1-14](
 
 ### The Word Received by Faith
 
-*Laine addition.* These passages locate **the word received by faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the word received by faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Thessalonians 2:13](#passage-1-thessalonians-2-13), [Ephesians 1:13](#passage-ephesians-1-13), [Hebrews 4:2](#passage-hebrews-4-2), [James 1:21](#passage-james-1-21), [Mark 16:16](#passage-mark-16-16), [Romans 10:17](#passage-romans-10-17)
 
@@ -56,7 +54,7 @@ References: [1 Thessalonians 2:13](#passage-1-thessalonians-2-13), [Ephesians 1:
 
 ### The Scriptures Bear Witness to the Word Made Flesh
 
-*Laine addition.* These passages locate **the scriptures bear witness to the word made flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the scriptures bear witness to the word made flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 1:1-3](#passage-1-john-1-1-3), [John 1:1-14](#passage-john-1-1-14), [John 5:39-40](#passage-john-5-39-40), [Luke 24:27](#passage-luke-24-27), [Luke 24:44-45](#passage-luke-24-44-45)
 
@@ -64,7 +62,7 @@ References: [1 John 1:1-3](#passage-1-john-1-1-3), [John 1:1-14](#passage-john-1
 
 ### Baptized into Christ
 
-*Laine addition.* These passages locate **baptized into christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **baptized into christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 3:21](#passage-1-peter-3-21), [Colossians 2:11-12](#passage-colossians-2-11-12), [Galatians 3:27](#passage-galatians-3-27), [Romans 6:3-5](#passage-romans-6-3-5), [Titus 3:5-7](#passage-titus-3-5-7)
 
@@ -72,7 +70,7 @@ References: [1 Peter 3:21](#passage-1-peter-3-21), [Colossians 2:11-12](#passage
 
 ### Known in the Breaking of Bread
 
-*Laine addition.* These passages locate **known in the breaking of bread** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **known in the breaking of bread** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 10:16](#passage-1-corinthians-10-16), [1 Corinthians 11:23-29](#passage-1-corinthians-11-23-29), [John 6:53-56](#passage-john-6-53-56), [Luke 24:30-31](#passage-luke-24-30-31), [Matthew 26:26-28](#passage-matthew-26-26-28)
 
@@ -80,7 +78,7 @@ References: [1 Corinthians 10:16](#passage-1-corinthians-10-16), [1 Corinthians 
 
 ### He Who Hears You Hears Me
 
-*Laine addition.* These passages locate **he who hears you hears me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **he who hears you hears me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 5:18-20](#passage-2-corinthians-5-18-20), [John 20:21-23](#passage-john-20-21-23), [Luke 10:16](#passage-luke-10-16), [Matthew 16:19](#passage-matthew-16-19), [Matthew 18:18](#passage-matthew-18-18)
 
@@ -299,18 +297,18 @@ References: [2 Corinthians 5:18-20](#passage-2-corinthians-5-18-20), [John 20:21
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read 1 Corinthians 4:1 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read 1 Corinthians 4:1 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read 1 Timothy 3:16. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read 1 Timothy 3:16. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

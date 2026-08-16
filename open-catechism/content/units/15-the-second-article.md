@@ -8,7 +8,6 @@ title: "Jesus Christ and Redemption: The Second Article"
 
 
 
-## Svebilius and Luther
 
 **37. What does the Hebrew name “Jesus” mean?**
 
@@ -174,13 +173,12 @@ Of the Holy Ghost and of Sanctification. I believe in the Holy Ghost, one holy C
 
 Answer: I believe and confess that I cannot by my own reason or strength believe in Jesus Christ my Lord, or come to Him; but the Holy Ghost has called me by the Gospel, enlightened me with His gifts, kept me in the true faith, sanctified and preserved me; even as He calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and preserves it in Jesus Christ through the one true faith; in which Christian Church He daily and richly forgives me and all believers all our sins, and at the last day will raise up me and all the dead, and give unto me and all believers in Christ everlasting life. This is most certainly true.
 
-## Laine supplementary teaching
 
 <a id="rg-03-2-1-the-apostles-creed-second-article-part-1-001"></a>
 
 ### My Lord and My God
 
-*Laine addition.* These passages locate **my lord and my god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **my lord and my god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 20:24-29](#passage-john-20-24-29)
 
@@ -188,7 +186,7 @@ References: [John 20:24-29](#passage-john-20-24-29)
 
 ### Jesus the Savior and Lord
 
-*Laine addition.* These passages locate **jesus the savior and lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **jesus the savior and lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 4:12](#passage-acts-4-12), [Colossians 1:16-20](#passage-colossians-1-16-20), [John 20:20-24](#passage-john-20-20-24), [John 4:42](#passage-john-4-42), [Romans 10:9-10](#passage-romans-10-9-10)
 
@@ -196,7 +194,7 @@ References: [Acts 4:12](#passage-acts-4-12), [Colossians 1:16-20](#passage-colos
 
 ### Calling on the Name of the Lord
 
-*Laine addition.* These passages locate **calling on the name of the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **calling on the name of the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Joel 2:32](#passage-joel-2-32), [Romans 10:13](#passage-romans-10-13)
 
@@ -204,7 +202,7 @@ References: [Joel 2:32](#passage-joel-2-32), [Romans 10:13](#passage-romans-10-1
 
 ### Knowing the Son
 
-*Laine addition.* These passages locate **knowing the son** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **knowing the son** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Timothy 1:12](#passage-2-timothy-1-12), [John 17:3-5](#passage-john-17-3-5), [John 3:36](#passage-john-3-36)
 
@@ -212,7 +210,7 @@ References: [2 Timothy 1:12](#passage-2-timothy-1-12), [John 17:3-5](#passage-jo
 
 ### Born of Woman, Under the Law
 
-*Laine addition.* These passages locate **born of woman, under the law** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **born of woman, under the law** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Galatians 4:4-5](#passage-galatians-4-4-5)
 
@@ -220,7 +218,7 @@ References: [Galatians 4:4-5](#passage-galatians-4-4-5)
 
 ### Through Whom All Things Were Made
 
-*Laine addition.* These passages locate **through whom all things were made** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **through whom all things were made** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 8:6](#passage-1-corinthians-8-6), [Colossians 1:16-17](#passage-colossians-1-16-17), [John 1:3](#passage-john-1-3)
 
@@ -228,7 +226,7 @@ References: [1 Corinthians 8:6](#passage-1-corinthians-8-6), [Colossians 1:16-17
 
 ### The Word Made Flesh
 
-*Laine addition.* These passages locate **the word made flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the word made flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Hebrews 1:3](#passage-hebrews-1-3), [John 1:1-2](#passage-john-1-1-2), [John 1:14](#passage-john-1-14)
 
@@ -236,7 +234,7 @@ References: [Hebrews 1:3](#passage-hebrews-1-3), [John 1:1-2](#passage-john-1-1-
 
 ### The One Mediator
 
-*Laine addition.* These passages locate **the one mediator** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the one mediator** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 2:5-6](#passage-1-timothy-2-5-6), [Hebrews 4:15](#passage-hebrews-4-15)
 
@@ -244,7 +242,7 @@ References: [1 Timothy 2:5-6](#passage-1-timothy-2-5-6), [Hebrews 4:15](#passage
 
 ### Conceived by the Holy Spirit
 
-*Laine addition.* These passages locate **conceived by the holy spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **conceived by the holy spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 1:30-35](#passage-luke-1-30-35), [Matthew 1:18-25](#passage-matthew-1-18-25)
 
@@ -252,7 +250,7 @@ References: [Luke 1:30-35](#passage-luke-1-30-35), [Matthew 1:18-25](#passage-ma
 
 ### God in the Flesh
 
-*Laine addition.* These passages locate **god in the flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god in the flesh** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 3:16](#passage-1-timothy-3-16), [Colossians 2:9](#passage-colossians-2-9), [John 1:14](#passage-john-1-14)
 
@@ -260,7 +258,7 @@ References: [1 Timothy 3:16](#passage-1-timothy-3-16), [Colossians 2:9](#passage
 
 ### Born of the Virgin
 
-*Laine addition.* These passages locate **born of the virgin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **born of the virgin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Isaiah 7:14](#passage-isaiah-7-14), [Luke 1:35](#passage-luke-1-35), [Matthew 1:20](#passage-matthew-1-20)
 
@@ -268,7 +266,7 @@ References: [Isaiah 7:14](#passage-isaiah-7-14), [Luke 1:35](#passage-luke-1-35)
 
 ### Not Ashamed to Call Us Brothers
 
-*Laine addition.* These passages locate **not ashamed to call us brothers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **not ashamed to call us brothers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Hebrews 2:11](#passage-hebrews-2-11)
 
@@ -276,7 +274,7 @@ References: [Hebrews 2:11](#passage-hebrews-2-11)
 
 ### Son of David, Son of Man
 
-*Laine addition.* These passages locate **son of david, son of man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **son of david, son of man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 2:5](#passage-1-timothy-2-5), [Luke 3:23-28](#passage-luke-3-23-28), [Matthew 1:1-17](#passage-matthew-1-1-17), [Romans 1:3](#passage-romans-1-3)
 
@@ -284,7 +282,7 @@ References: [1 Timothy 2:5](#passage-1-timothy-2-5), [Luke 3:23-28](#passage-luk
 
 ### True Flesh and Soul
 
-*Laine addition.* These passages locate **true flesh and soul** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **true flesh and soul** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 24:39](#passage-luke-24-39), [Matthew 26:38](#passage-matthew-26-38)
 
@@ -292,7 +290,7 @@ References: [Luke 24:39](#passage-luke-24-39), [Matthew 26:38](#passage-matthew-
 
 ### Named Jesus, Immanuel
 
-*Laine addition.* These passages locate **named jesus, immanuel** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **named jesus, immanuel** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 2:21](#passage-luke-2-21), [Matthew 1:22-23](#passage-matthew-1-22-23)
 
@@ -300,7 +298,7 @@ References: [Luke 2:21](#passage-luke-2-21), [Matthew 1:22-23](#passage-matthew-
 
 ### Truly Human
 
-*Laine addition.* These passages locate **truly human** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **truly human** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Hebrews 4:14-16](#passage-hebrews-4-14-16), [John 11:35](#passage-john-11-35), [John 19:28](#passage-john-19-28), [Luke 2](#passage-luke-2), [Mark 4:38](#passage-mark-4-38), [Matthew 26-27](#passage-matthew-26-27), [Matthew 4:2](#passage-matthew-4-2)
 
@@ -308,7 +306,7 @@ References: [Hebrews 4:14-16](#passage-hebrews-4-14-16), [John 11:35](#passage-j
 
 ### Obedient in Our Place
 
-*Laine addition.* These passages locate **obedient in our place** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **obedient in our place** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Galatians 4:4-5](#passage-galatians-4-4-5), [Romans 5:19](#passage-romans-5-19)
 
@@ -316,7 +314,7 @@ References: [Galatians 4:4-5](#passage-galatians-4-4-5), [Romans 5:19](#passage-
 
 ### Redeemed by His Blood
 
-*Laine addition.* These passages locate **redeemed by his blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **redeemed by his blood** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 1:18-19](#passage-1-peter-1-18-19), [Colossians 1:22](#passage-colossians-1-22), [Galatians 3:13](#passage-galatians-3-13), [Hebrews 2:14](#passage-hebrews-2-14), [Mark 10:45](#passage-mark-10-45), [Romans 3:22-24](#passage-romans-3-22-24)
 
@@ -324,7 +322,7 @@ References: [1 Peter 1:18-19](#passage-1-peter-1-18-19), [Colossians 1:22](#pass
 
 ### Victory Over Death
 
-*Laine addition.* These passages locate **victory over death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **victory over death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 15:20](#passage-1-corinthians-15-20), [1 Corinthians 15:57](#passage-1-corinthians-15-57), [2 Timothy 1:10](#passage-2-timothy-1-10)
 
@@ -332,7 +330,7 @@ References: [1 Corinthians 15:20](#passage-1-corinthians-15-20), [1 Corinthians 
 
 ### Whoever Has Seen Me
 
-*Laine addition.* These passages locate **whoever has seen me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **whoever has seen me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 14:9](#passage-john-14-9)
 
@@ -340,7 +338,7 @@ References: [John 14:9](#passage-john-14-9)
 
 ### A Ransom for Many
 
-*Laine addition.* These passages locate **a ransom for many** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **a ransom for many** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 1:18-19](#passage-1-peter-1-18-19), [Mark 10:45](#passage-mark-10-45)
 
@@ -348,7 +346,7 @@ References: [1 Peter 1:18-19](#passage-1-peter-1-18-19), [Mark 10:45](#passage-m
 
 ### Christ's Divine Knowledge
 
-*Laine addition.* These passages locate **christ's divine knowledge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **christ's divine knowledge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 1:48](#passage-john-1-48), [John 4:17-26](#passage-john-4-17-26), [Luke 18:31-33](#passage-luke-18-31-33), [Luke 22:8-13](#passage-luke-22-8-13), [Luke 5:4-6](#passage-luke-5-4-6), [Matthew 21:1-7](#passage-matthew-21-1-7), [Matthew 26:20-25](#passage-matthew-26-20-25), [Matthew 28:20](#passage-matthew-28-20)
 
@@ -356,7 +354,7 @@ References: [John 1:48](#passage-john-1-48), [John 4:17-26](#passage-john-4-17-2
 
 ### Our Advocate
 
-*Laine addition.* These passages locate **our advocate** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **our advocate** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 2:1](#passage-1-john-2-1), [1 Timothy 2:5-6](#passage-1-timothy-2-5-6)
 
@@ -364,7 +362,7 @@ References: [1 John 2:1](#passage-1-john-2-1), [1 Timothy 2:5-6](#passage-1-timo
 
 ### Christ's Divine Power
 
-*Laine addition.* These passages locate **christ's divine power** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **christ's divine power** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 4:10](#passage-ephesians-4-10), [Hebrews 2:8-9](#passage-hebrews-2-8-9), [John 11:38-44](#passage-john-11-38-44), [John 2:1-11](#passage-john-2-1-11), [Luke 8:22-25](#passage-luke-8-22-25), [Matthew 28:18](#passage-matthew-28-18), [Matthew 28:6-7](#passage-matthew-28-6-7), [Matthew 4:1-11](#passage-matthew-4-1-11), [Matthew 9:1-8](#passage-matthew-9-1-8)
 
@@ -372,7 +370,7 @@ References: [Ephesians 4:10](#passage-ephesians-4-10), [Hebrews 2:8-9](#passage-
 
 ### Authority to Judge
 
-*Laine addition.* These passages locate **authority to judge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **authority to judge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 17:31](#passage-acts-17-31), [John 5:27](#passage-john-5-27), [Matthew 9:6](#passage-matthew-9-6)
 
@@ -380,7 +378,7 @@ References: [Acts 17:31](#passage-acts-17-31), [John 5:27](#passage-john-5-27), 
 
 ### Worshiped as True God
 
-*Laine addition.* These passages locate **worshiped as true god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **worshiped as true god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 5:20](#passage-1-john-5-20), [Hebrews 1:6](#passage-hebrews-1-6), [John 20:28](#passage-john-20-28), [John 5:21-23](#passage-john-5-21-23), [Philippians 2:9-11](#passage-philippians-2-9-11), [Revelation 5:12-13](#passage-revelation-5-12-13), [Romans 9:5](#passage-romans-9-5)
 
@@ -388,7 +386,7 @@ References: [1 John 5:20](#passage-1-john-5-20), [Hebrews 1:6](#passage-hebrews-
 
 ### The Father Made Known
 
-*Laine addition.* These passages locate **the father made known** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the father made known** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 17:25-26](#passage-john-17-25-26)
 
@@ -396,7 +394,7 @@ References: [John 17:25-26](#passage-john-17-25-26)
 
 ### True God and True Man
 
-*Laine addition.* These passages locate **true god and true man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **true god and true man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 1:7](#passage-1-john-1-7), [1 Timothy 3:16](#passage-1-timothy-3-16), [Acts 20:28](#passage-acts-20-28), [Acts 3:15](#passage-acts-3-15), [Colossians 2:9](#passage-colossians-2-9), [Isaiah 9:6](#passage-isaiah-9-6), [John 1:14](#passage-john-1-14), [Matthew 28:18](#passage-matthew-28-18), [Matthew 28:20](#passage-matthew-28-20)
 
@@ -404,7 +402,7 @@ References: [1 John 1:7](#passage-1-john-1-7), [1 Timothy 3:16](#passage-1-timot
 
 ### The Lord's Anointed
 
-*Laine addition.* These passages locate **the lord's anointed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the lord's anointed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 2](#passage-psalm-2)
 
@@ -412,7 +410,7 @@ References: [Psalm 2](#passage-psalm-2)
 
 ### The Crucifixion and Burial
 
-*Laine addition.* These passages locate **the crucifixion and burial** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the crucifixion and burial** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 23:32-56](#passage-luke-23-32-56)
 
@@ -420,7 +418,7 @@ References: [Luke 23:32-56](#passage-luke-23-32-56)
 
 ### Redeemed from Sin and Death
 
-*Laine addition.* These passages locate **redeemed from sin and death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **redeemed from sin and death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 3:8](#passage-1-john-3-8), [1 Peter 1:18-21](#passage-1-peter-1-18-21), [Colossians 1:13-14](#passage-colossians-1-13-14), [Hebrews 2:14-15](#passage-hebrews-2-14-15), [Titus 2:14](#passage-titus-2-14)
 
@@ -428,7 +426,7 @@ References: [1 John 3:8](#passage-1-john-3-8), [1 Peter 1:18-21](#passage-1-pete
 
 ### Slaves to Sin
 
-*Laine addition.* These passages locate **slaves to sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **slaves to sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 5:19](#passage-1-john-5-19), [Galatians 4:8](#passage-galatians-4-8), [John 8:34-36](#passage-john-8-34-36), [Psalm 51:5](#passage-psalm-51-5)
 
@@ -436,7 +434,7 @@ References: [1 John 5:19](#passage-1-john-5-19), [Galatians 4:8](#passage-galati
 
 ### Dead in Sin, Under Wrath
 
-*Laine addition.* These passages locate **dead in sin, under wrath** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **dead in sin, under wrath** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 2:1](#passage-ephesians-2-1), [Ephesians 2:3](#passage-ephesians-2-3), [Genesis 3:1-4:12](#passage-genesis-3-1-4-12), [Genesis 6:5-12](#passage-genesis-6-5-12), [John 8](#passage-john-8), [Romans 1:18](#passage-romans-1-18), [Romans 3:9-18](#passage-romans-3-9-18)
 
@@ -444,7 +442,7 @@ References: [Ephesians 2:1](#passage-ephesians-2-1), [Ephesians 2:3](#passage-ep
 
 ### Death Through One Man
 
-*Laine addition.* These passages locate **death through one man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **death through one man** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Genesis 3](#passage-genesis-3), [Romans 5:12](#passage-romans-5-12)
 
@@ -452,7 +450,7 @@ References: [Genesis 3](#passage-genesis-3), [Romans 5:12](#passage-romans-5-12)
 
 ### God's Promise of a Savior
 
-*Laine addition.* These passages locate **god's promise of a savior** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god's promise of a savior** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 4:10](#passage-1-john-4-10), [Ephesians 2:8-9](#passage-ephesians-2-8-9), [Genesis 3:15](#passage-genesis-3-15)
 
@@ -460,7 +458,7 @@ References: [1 John 4:10](#passage-1-john-4-10), [Ephesians 2:8-9](#passage-ephe
 
 ### He Bore Our Sin
 
-*Laine addition.* These passages locate **he bore our sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **he bore our sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 1:18-19](#passage-1-peter-1-18-19), [2 Corinthians 5:21](#passage-2-corinthians-5-21), [Galatians 3:13](#passage-galatians-3-13), [Mark 10:45](#passage-mark-10-45), [Romans 4:25](#passage-romans-4-25)
 
@@ -468,7 +466,7 @@ References: [1 Peter 1:18-19](#passage-1-peter-1-18-19), [2 Corinthians 5:21](#p
 
 ### The Propitiation for Sin
 
-*Laine addition.* These passages locate **the propitiation for sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the propitiation for sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 2:2](#passage-1-john-2-2), [2 Corinthians 5:19](#passage-2-corinthians-5-19), [Hebrews 2:17](#passage-hebrews-2-17), [Romans 3:25](#passage-romans-3-25)
 
@@ -476,7 +474,7 @@ References: [1 John 2:2](#passage-1-john-2-2), [2 Corinthians 5:19](#passage-2-c
 
 ### Freed to Righteousness
 
-*Laine addition.* These passages locate **freed to righteousness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **freed to righteousness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 2:24](#passage-1-peter-2-24), [John 8:34-36](#passage-john-8-34-36)
 
@@ -484,7 +482,7 @@ References: [1 Peter 2:24](#passage-1-peter-2-24), [John 8:34-36](#passage-john-
 
 ### Victory Over the Devil
 
-*Laine addition.* These passages locate **victory over the devil** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **victory over the devil** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 3:8](#passage-1-john-3-8), [1 Peter 5:8-9](#passage-1-peter-5-8-9), [Colossians 2:15](#passage-colossians-2-15), [Galatians 3:12-13](#passage-galatians-3-12-13), [Genesis 3:15](#passage-genesis-3-15), [Hebrews 2:14](#passage-hebrews-2-14), [James 4:7](#passage-james-4-7), [Luke 8:26-39](#passage-luke-8-26-39), [Matthew 4:1-11](#passage-matthew-4-1-11), [Philippians 2:6-11](#passage-philippians-2-6-11), [Philippians 2:8](#passage-philippians-2-8), [Romans 8:31-34](#passage-romans-8-31-34)
 
@@ -492,7 +490,7 @@ References: [1 John 3:8](#passage-1-john-3-8), [1 Peter 5:8-9](#passage-1-peter-
 
 ### Death Destroyed
 
-*Laine addition.* These passages locate **death destroyed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **death destroyed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 15:54-57](#passage-1-corinthians-15-54-57), [2 Timothy 1:10](#passage-2-timothy-1-10), [Hebrews 2:14-15](#passage-hebrews-2-14-15)
 
@@ -500,7 +498,7 @@ References: [1 Corinthians 15:54-57](#passage-1-corinthians-15-54-57), [2 Timoth
 
 ### Witnesses of the Risen Christ
 
-*Laine addition.* These passages locate **witnesses of the risen christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **witnesses of the risen christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 15:4-8](#passage-1-corinthians-15-4-8), [Acts 10:40-41](#passage-acts-10-40-41), [Acts 1:3](#passage-acts-1-3)
 
@@ -508,7 +506,7 @@ References: [1 Corinthians 15:4-8](#passage-1-corinthians-15-4-8), [Acts 10:40-4
 
 ### Declared the Son of God
 
-*Laine addition.* These passages locate **declared the son of god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **declared the son of god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Romans 1:4](#passage-romans-1-4)
 
@@ -516,7 +514,7 @@ References: [Romans 1:4](#passage-romans-1-4)
 
 ### Born to Bear Witness to the Truth
 
-*Laine addition.* These passages locate **born to bear witness to the truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **born to bear witness to the truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 18:37](#passage-john-18-37)
 
@@ -524,7 +522,7 @@ References: [John 18:37](#passage-john-18-37)
 
 ### Reconciled by His Death
 
-*Laine addition.* These passages locate **reconciled by his death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **reconciled by his death** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Romans 5:10](#passage-romans-5-10)
 
@@ -532,7 +530,7 @@ References: [Romans 5:10](#passage-romans-5-10)
 
 ### Because He Lives
 
-*Laine addition.* These passages locate **because he lives** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **because he lives** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 15:22-23](#passage-1-corinthians-15-22-23), [John 11:25-26](#passage-john-11-25-26), [John 14:19](#passage-john-14-19)
 
@@ -540,7 +538,7 @@ References: [1 Corinthians 15:22-23](#passage-1-corinthians-15-22-23), [John 11:
 
 ### He Made Himself Poor
 
-*Laine addition.* These passages locate **he made himself poor** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **he made himself poor** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 8:9](#passage-2-corinthians-8-9), [Philippians 2:5-8](#passage-philippians-2-5-8)
 
@@ -548,7 +546,7 @@ References: [2 Corinthians 8:9](#passage-2-corinthians-8-9), [Philippians 2:5-8]
 
 ### No Room in the Inn
 
-*Laine addition.* These passages locate **no room in the inn** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **no room in the inn** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 2:7](#passage-luke-2-7)
 
@@ -556,7 +554,7 @@ References: [Luke 2:7](#passage-luke-2-7)
 
 ### Not Even the Son Knows
 
-*Laine addition.* These passages locate **not even the son knows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **not even the son knows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Matthew 24:36](#passage-matthew-24-36)
 
@@ -564,7 +562,7 @@ References: [Matthew 24:36](#passage-matthew-24-36)
 
 ### His Human Weakness
 
-*Laine addition.* These passages locate **his human weakness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **his human weakness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 11:38-44](#passage-john-11-38-44), [Matthew 26:36-46](#passage-matthew-26-36-46), [Matthew 4:1-11](#passage-matthew-4-1-11)
 
@@ -572,7 +570,7 @@ References: [John 11:38-44](#passage-john-11-38-44), [Matthew 26:36-46](#passage
 
 ### The Man of Sorrows
 
-*Laine addition.* These passages locate **the man of sorrows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the man of sorrows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Isaiah 53:3](#passage-isaiah-53-3), [John 19](#passage-john-19), [John 8:40](#passage-john-8-40), [John 8:50](#passage-john-8-50), [Luke 23](#passage-luke-23), [Luke 23:52-53](#passage-luke-23-52-53), [Luke 2:7](#passage-luke-2-7), [Luke 4:29](#passage-luke-4-29), [Mark 15](#passage-mark-15), [Matthew 27](#passage-matthew-27), [Matthew 2:13](#passage-matthew-2-13), [Matthew 8:20](#passage-matthew-8-20)
 
@@ -580,7 +578,7 @@ References: [Isaiah 53:3](#passage-isaiah-53-3), [John 19](#passage-john-19), [J
 
 ### Glory Revealed
 
-*Laine addition.* These passages locate **glory revealed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **glory revealed** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 2:11](#passage-john-2-11), [Luke 6:8](#passage-luke-6-8), [Matthew 17:1-2](#passage-matthew-17-1-2)
 
@@ -588,7 +586,7 @@ References: [John 2:11](#passage-john-2-11), [Luke 6:8](#passage-luke-6-8), [Mat
 
 ### Highly Exalted
 
-*Laine addition.* These passages locate **highly exalted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **highly exalted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Philippians 2:9-11](#passage-philippians-2-9-11)
 
@@ -596,7 +594,7 @@ References: [Philippians 2:9-11](#passage-philippians-2-9-11)
 
 ### The Descent and Triumph
 
-*Laine addition.* These passages locate **the descent and triumph** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the descent and triumph** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 3:18-20](#passage-1-peter-3-18-20), [Colossians 2:15](#passage-colossians-2-15)
 
@@ -604,7 +602,7 @@ References: [1 Peter 3:18-20](#passage-1-peter-3-18-20), [Colossians 2:15](#pass
 
 ### He Is Risen
 
-*Laine addition.* These passages locate **he is risen** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **he is risen** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 24:6](#passage-luke-24-6), [Mark 16:6](#passage-mark-16-6)
 
@@ -612,7 +610,7 @@ References: [Luke 24:6](#passage-luke-24-6), [Mark 16:6](#passage-mark-16-6)
 
 ### Seated at God's Right Hand
 
-*Laine addition.* These passages locate **seated at god's right hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **seated at god's right hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Hebrews 1:3](#passage-hebrews-1-3), [Hebrews 8:1](#passage-hebrews-8-1), [Luke 24:50-51](#passage-luke-24-50-51)
 
@@ -620,7 +618,7 @@ References: [Hebrews 1:3](#passage-hebrews-1-3), [Hebrews 8:1](#passage-hebrews-
 
 ### He Will Come Again
 
-*Laine addition.* These passages locate **he will come again** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **he will come again** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 17:31](#passage-acts-17-31), [Acts 1:11](#passage-acts-1-11), [Hebrews 9:28](#passage-hebrews-9-28)
 
@@ -628,7 +626,7 @@ References: [Acts 17:31](#passage-acts-17-31), [Acts 1:11](#passage-acts-1-11), 
 
 ### My God, Why Have You Forsaken Me
 
-*Laine addition.* These passages locate **my god, why have you forsaken me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **my god, why have you forsaken me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 22](#passage-psalm-22)
 
@@ -636,7 +634,7 @@ References: [Psalm 22](#passage-psalm-22)
 
 ### The Risen Lord Appears
 
-*Laine addition.* These passages locate **the risen lord appears** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the risen lord appears** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 24:36-53](#passage-luke-24-36-53)
 
@@ -644,7 +642,7 @@ References: [Luke 24:36-53](#passage-luke-24-36-53)
 
 ### Living for Him Who Died
 
-*Laine addition.* These passages locate **living for him who died** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **living for him who died** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 5:15](#passage-2-corinthians-5-15), [Jude 24-25](#passage-jude-24-25)
 
@@ -652,7 +650,7 @@ References: [2 Corinthians 5:15](#passage-2-corinthians-5-15), [Jude 24-25](#pas
 
 ### No Longer My Own
 
-*Laine addition.* These passages locate **no longer my own** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **no longer my own** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 2:9](#passage-1-peter-2-9), [Galatians 2:20](#passage-galatians-2-20), [Philippians 3:12](#passage-philippians-3-12), [Romans 14:8](#passage-romans-14-8), [Titus 2:14](#passage-titus-2-14)
 
@@ -660,7 +658,7 @@ References: [1 Peter 2:9](#passage-1-peter-2-9), [Galatians 2:20](#passage-galat
 
 ### Rest and Peace in Christ
 
-*Laine addition.* These passages locate **rest and peace in christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **rest and peace in christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 1:13-14](#passage-colossians-1-13-14), [John 14:27](#passage-john-14-27), [Matthew 11:28](#passage-matthew-11-28), [Psalm 23](#passage-psalm-23)
 
@@ -668,7 +666,7 @@ References: [Colossians 1:13-14](#passage-colossians-1-13-14), [John 14:27](#pas
 
 ### The Promised Spirit
 
-*Laine addition.* These passages locate **the promised spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the promised spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 14:16-17](#passage-john-14-16-17), [John 14:26](#passage-john-14-26), [John 16:13](#passage-john-16-13)
 
@@ -676,7 +674,7 @@ References: [John 14:16-17](#passage-john-14-16-17), [John 14:26](#passage-john-
 
 ### Christ Will Complete His Work
 
-*Laine addition.* These passages locate **christ will complete his work** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **christ will complete his work** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 2:6](#passage-colossians-2-6), [Luke 1:69-75](#passage-luke-1-69-75), [Matthew 25:31-46](#passage-matthew-25-31-46), [Philippians 1:6](#passage-philippians-1-6), [Revelation 21:4](#passage-revelation-21-4), [Romans 16:20](#passage-romans-16-20)
 
@@ -684,7 +682,7 @@ References: [Colossians 2:6](#passage-colossians-2-6), [Luke 1:69-75](#passage-l
 
 ### Raised with Christ
 
-*Laine addition.* These passages locate **raised with christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **raised with christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 15:17-20](#passage-1-corinthians-15-17-20), [1 Corinthians 15:3-5](#passage-1-corinthians-15-3-5), [Colossians 3:1-4](#passage-colossians-3-1-4)
 
@@ -692,7 +690,7 @@ References: [1 Corinthians 15:17-20](#passage-1-corinthians-15-17-20), [1 Corint
 
 ### Witnesses of the Resurrection
 
-*Laine addition.* These passages locate **witnesses of the resurrection** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **witnesses of the resurrection** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 15:5-9](#passage-1-corinthians-15-5-9), [1 John 1:1-4](#passage-1-john-1-1-4), [Acts 1:3](#passage-acts-1-3), [Acts 2:32](#passage-acts-2-32)
 
@@ -700,7 +698,7 @@ References: [1 Corinthians 15:5-9](#passage-1-corinthians-15-5-9), [1 John 1:1-4
 
 ### Confessing Christ
 
-*Laine addition.* These passages locate **confessing christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **confessing christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Isaiah 59:20](#passage-isaiah-59-20), [John 1:14](#passage-john-1-14), [John 20:28](#passage-john-20-28), [John 4:42](#passage-john-4-42), [Luke 2:11](#passage-luke-2-11), [Matthew 16:16](#passage-matthew-16-16), [Matthew 1:23](#passage-matthew-1-23), [Matthew 25:31](#passage-matthew-25-31)
 
@@ -708,7 +706,7 @@ References: [Isaiah 59:20](#passage-isaiah-59-20), [John 1:14](#passage-john-1-1
 
 ### Christ Our Prophet
 
-*Laine addition.* These passages locate **christ our prophet** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **christ our prophet** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 5:20](#passage-2-corinthians-5-20), [Acts 10:38](#passage-acts-10-38), [Deuteronomy 18:15](#passage-deuteronomy-18-15), [Hebrews 1:1-2](#passage-hebrews-1-1-2), [John 1:17-18](#passage-john-1-17-18), [John 3:34](#passage-john-3-34), [John 6:68](#passage-john-6-68), [Luke 10:16](#passage-luke-10-16), [Luke 4:18-19](#passage-luke-4-18-19), [Mark 16:15](#passage-mark-16-15), [Mark 1:38](#passage-mark-1-38), [Matthew 17:5](#passage-matthew-17-5)
 
@@ -716,7 +714,7 @@ References: [2 Corinthians 5:20](#passage-2-corinthians-5-20), [Acts 10:38](#pas
 
 ### Christ Our Priest
 
-*Laine addition.* These passages locate **christ our priest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **christ our priest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 2:1-2](#passage-1-john-2-1-2), [Hebrews 7:26-27](#passage-hebrews-7-26-27), [Romans 8:34](#passage-romans-8-34)
 
@@ -724,7 +722,7 @@ References: [1 John 2:1-2](#passage-1-john-2-1-2), [Hebrews 7:26-27](#passage-he
 
 ### Christ Our King
 
-*Laine addition.* These passages locate **christ our king** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **christ our king** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Timothy 4:18](#passage-2-timothy-4-18), [Acts 10:38](#passage-acts-10-38), [Colossians 1:17-18](#passage-colossians-1-17-18), [Ephesians 1:20-23](#passage-ephesians-1-20-23), [Hebrews 1:3-4](#passage-hebrews-1-3-4), [John 18:36](#passage-john-18-36), [John 3:34](#passage-john-3-34), [Matthew 28:18](#passage-matthew-28-18), [Psalm 45:7](#passage-psalm-45-7)
 
@@ -732,7 +730,7 @@ References: [2 Timothy 4:18](#passage-2-timothy-4-18), [Acts 10:38](#passage-act
 
 ### The Stone the Builders Rejected
 
-*Laine addition.* These passages locate **the stone the builders rejected** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the stone the builders rejected** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 118](#passage-psalm-118)
 
@@ -2025,18 +2023,18 @@ References: [Psalm 118](#passage-psalm-118)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read John 20:24-29 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read John 20:24-29 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Acts 4:12. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Acts 4:12. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

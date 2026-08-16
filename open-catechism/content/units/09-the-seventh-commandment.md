@@ -8,7 +8,6 @@ title: "Our Neighbor’s Property: The Seventh Commandment"
 
 
 
-## Svebilius and Luther
 
 **58. What is commanded in the eighth commandment?**
 
@@ -126,13 +125,12 @@ Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the i
 
 Answer: God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
 
-## Laine supplementary teaching
 
 <a id="rg-02-7-the-seventh-commandment-001"></a>
 
 ### Zacchaeus Makes Restitution
 
-*Laine addition.* These passages locate **zacchaeus makes restitution** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **zacchaeus makes restitution** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 19:1-10](#passage-luke-19-1-10)
 
@@ -140,7 +138,7 @@ References: [Luke 19:1-10](#passage-luke-19-1-10)
 
 ### Generosity
 
-*Laine addition.* These passages locate **generosity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **generosity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 8:1-7](#passage-2-corinthians-8-1-7), [Proverbs 14:21](#passage-proverbs-14-21), [Psalm 104:14-15](#passage-psalm-104-14-15)
 
@@ -148,7 +146,7 @@ References: [2 Corinthians 8:1-7](#passage-2-corinthians-8-1-7), [Proverbs 14:21
 
 ### The Thief's Heart
 
-*Laine addition.* These passages locate **the thief's heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the thief's heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 12:6](#passage-john-12-6)
 
@@ -156,7 +154,7 @@ References: [John 12:6](#passage-john-12-6)
 
 ### Honest Labor
 
-*Laine addition.* These passages locate **honest labor** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **honest labor** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Thessalonians 3:6-8](#passage-2-thessalonians-3-6-8), [Ephesians 4:28](#passage-ephesians-4-28)
 
@@ -164,7 +162,7 @@ References: [2 Thessalonians 3:6-8](#passage-2-thessalonians-3-6-8), [Ephesians 
 
 ### Honesty and Fair Dealing
 
-*Laine addition.* These passages locate **honesty and fair dealing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **honesty and fair dealing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Kings 5:19-25](#passage-2-kings-5-19-25), [Leviticus 19:36](#passage-leviticus-19-36), [Psalm 37:21](#passage-psalm-37-21)
 
@@ -172,7 +170,7 @@ References: [2 Kings 5:19-25](#passage-2-kings-5-19-25), [Leviticus 19:36](#pass
 
 ### Making Restitution
 
-*Laine addition.* These passages locate **making restitution** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **making restitution** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 22:14](#passage-exodus-22-14)
 
@@ -180,7 +178,7 @@ References: [Exodus 22:14](#passage-exodus-22-14)
 
 ### Protecting a Neighbor's Property
 
-*Laine addition.* These passages locate **protecting a neighbor's property** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **protecting a neighbor's property** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Deuteronomy 22:1](#passage-deuteronomy-22-1), [Deuteronomy 22:4](#passage-deuteronomy-22-4), [Exodus 23:4-5](#passage-exodus-23-4-5), [Genesis 13:8-12](#passage-genesis-13-8-12), [Genesis 14:12-16](#passage-genesis-14-12-16), [Philippians 2:4](#passage-philippians-2-4)
 
@@ -188,7 +186,7 @@ References: [Deuteronomy 22:1](#passage-deuteronomy-22-1), [Deuteronomy 22:4](#p
 
 ### God Provides the Harvest
 
-*Laine addition.* These passages locate **god provides the harvest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god provides the harvest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Deuteronomy 8:7-10](#passage-deuteronomy-8-7-10), [Psalm 65](#passage-psalm-65), [Psalm 65:9](#passage-psalm-65-9)
 
@@ -196,7 +194,7 @@ References: [Deuteronomy 8:7-10](#passage-deuteronomy-8-7-10), [Psalm 65](#passa
 
 ### Inheritance and Instruction
 
-*Laine addition.* These passages locate **inheritance and instruction** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **inheritance and instruction** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Hebrews 11:20](#passage-hebrews-11-20), [Proverbs 1:8](#passage-proverbs-1-8)
 
@@ -204,7 +202,7 @@ References: [Hebrews 11:20](#passage-hebrews-11-20), [Proverbs 1:8](#passage-pro
 
 ### Work and Diligence
 
-*Laine addition.* These passages locate **work and diligence** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **work and diligence** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Thessalonians 3:10-12](#passage-2-thessalonians-3-10-12), [Ephesians 4:28](#passage-ephesians-4-28)
 
@@ -212,7 +210,7 @@ References: [2 Thessalonians 3:10-12](#passage-2-thessalonians-3-10-12), [Ephesi
 
 ### Providing for One's Household
 
-*Laine addition.* These passages locate **providing for one's household** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **providing for one's household** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 5:8](#passage-1-timothy-5-8)
 
@@ -220,7 +218,7 @@ References: [1 Timothy 5:8](#passage-1-timothy-5-8)
 
 ### Giving to the Poor
 
-*Laine addition.* These passages locate **giving to the poor** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **giving to the poor** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 3:17](#passage-1-john-3-17), [Hebrews 13:16](#passage-hebrews-13-16), [Leviticus 19:9-10](#passage-leviticus-19-9-10), [Matthew 5:42](#passage-matthew-5-42), [Proverbs 17:5](#passage-proverbs-17-5)
 
@@ -228,7 +226,7 @@ References: [1 John 3:17](#passage-1-john-3-17), [Hebrews 13:16](#passage-hebrew
 
 ### Supporting Gospel Workers
 
-*Laine addition.* These passages locate **supporting gospel workers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **supporting gospel workers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 9:14](#passage-1-corinthians-9-14), [Galatians 6:6](#passage-galatians-6-6)
 
@@ -236,7 +234,7 @@ References: [1 Corinthians 9:14](#passage-1-corinthians-9-14), [Galatians 6:6](#
 
 ### Stewardship of Creation
 
-*Laine addition.* These passages locate **stewardship of creation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **stewardship of creation** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Deuteronomy 22:6](#passage-deuteronomy-22-6), [Genesis 2:15](#passage-genesis-2-15), [Leviticus 25:3-5](#passage-leviticus-25-3-5)
 
@@ -244,7 +242,7 @@ References: [Deuteronomy 22:6](#passage-deuteronomy-22-6), [Genesis 2:15](#passa
 
 ### The Blessing of the Generous
 
-*Laine addition.* These passages locate **the blessing of the generous** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the blessing of the generous** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 112](#passage-psalm-112)
 
@@ -463,18 +461,18 @@ References: [Psalm 112](#passage-psalm-112)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Luke 19:1-10 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Luke 19:1-10 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read 2 Corinthians 8:1-7. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read 2 Corinthians 8:1-7. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

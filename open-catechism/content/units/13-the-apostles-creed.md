@@ -8,7 +8,6 @@ title: "The Apostles’ Creed"
 
 
 
-## Svebilius and Luther
 
 **1. What is the doctrine of faith?**
 
@@ -74,13 +73,12 @@ Of the Holy Ghost and of Sanctification. I believe in the Holy Ghost, one holy C
 
 Answer: I believe and confess that I cannot by my own reason or strength believe in Jesus Christ my Lord, or come to Him; but the Holy Ghost has called me by the Gospel, enlightened me with His gifts, kept me in the true faith, sanctified and preserved me; even as He calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and preserves it in Jesus Christ through the one true faith; in which Christian Church He daily and richly forgives me and all believers all our sins, and at the last day will raise up me and all the dead, and give unto me and all believers in Christ everlasting life. This is most certainly true.
 
-## Laine supplementary teaching
 
 <a id="rg-03-0-the-apostles-creed-001"></a>
 
 ### From Law to Faith
 
-*Laine addition.* These passages locate **from law to faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **from law to faith** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Romans 2:15](#passage-romans-2-15), [Romans 3:19-22](#passage-romans-3-19-22)
 
@@ -88,7 +86,7 @@ References: [Romans 2:15](#passage-romans-2-15), [Romans 3:19-22](#passage-roman
 
 ### God Known in Creation and Conscience
 
-*Laine addition.* These passages locate **god known in creation and conscience** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god known in creation and conscience** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 14:17](#passage-acts-14-17), [Psalm 19:1](#passage-psalm-19-1), [Romans 1:20](#passage-romans-1-20), [Romans 2:15](#passage-romans-2-15)
 
@@ -96,7 +94,7 @@ References: [Acts 14:17](#passage-acts-14-17), [Psalm 19:1](#passage-psalm-19-1)
 
 ### The Holy Trinity
 
-*Laine addition.* These passages locate **the holy trinity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the holy trinity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 13:14](#passage-2-corinthians-13-14), [Matthew 28:19](#passage-matthew-28-19)
 
@@ -104,7 +102,7 @@ References: [2 Corinthians 13:14](#passage-2-corinthians-13-14), [Matthew 28:19]
 
 ### Father, Son, and Spirit
 
-*Laine addition.* These passages locate **father, son, and spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **father, son, and spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 15:26](#passage-john-15-26), [John 3:16](#passage-john-3-16), [Romans 8:9](#passage-romans-8-9)
 
@@ -112,7 +110,7 @@ References: [John 15:26](#passage-john-15-26), [John 3:16](#passage-john-3-16), 
 
 ### The Work of the Triune God
 
-*Laine addition.* These passages locate **the work of the triune god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the work of the triune god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 1:7](#passage-1-john-1-7), [Deuteronomy 32:6](#passage-deuteronomy-32-6), [Galatians 3:5](#passage-galatians-3-5)
 
@@ -120,7 +118,7 @@ References: [1 John 1:7](#passage-1-john-1-7), [Deuteronomy 32:6](#passage-deute
 
 ### One God, Varied Gifts
 
-*Laine addition.* These passages locate **one god, varied gifts** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **one god, varied gifts** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 12:4-6](#passage-1-corinthians-12-4-6)
 
@@ -128,7 +126,7 @@ References: [1 Corinthians 12:4-6](#passage-1-corinthians-12-4-6)
 
 ### Adopted by the Triune God
 
-*Laine addition.* These passages locate **adopted by the triune god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **adopted by the triune god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 1:1-13](#passage-ephesians-1-1-13), [Galatians 4:4-6](#passage-galatians-4-4-6)
 
@@ -233,18 +231,18 @@ References: [Ephesians 1:1-13](#passage-ephesians-1-1-13), [Galatians 4:4-6](#pa
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Romans 2:15 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Romans 2:15 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Romans 3:19-22. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Romans 3:19-22. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

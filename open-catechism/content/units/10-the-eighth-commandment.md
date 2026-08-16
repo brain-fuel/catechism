@@ -8,7 +8,6 @@ title: "Truth and Our Neighbor’s Reputation: The Eighth Commandment"
 
 
 
-## Svebilius and Luther
 
 **64. What is the sum of the Law?**
 
@@ -122,13 +121,12 @@ Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the i
 
 Answer: God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
 
-## Laine supplementary teaching
 
 <a id="rg-02-8-the-eighth-commandment-001"></a>
 
 ### Speaking Well of Others
 
-*Laine addition.* These passages locate **speaking well of others** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **speaking well of others** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Mark 14:3-9](#passage-mark-14-3-9)
 
@@ -136,7 +134,7 @@ References: [Mark 14:3-9](#passage-mark-14-3-9)
 
 ### A Good Name
 
-*Laine addition.* These passages locate **a good name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **a good name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ecclesiastes 7:1](#passage-ecclesiastes-7-1), [Proverbs 22:1](#passage-proverbs-22-1)
 
@@ -144,7 +142,7 @@ References: [Ecclesiastes 7:1](#passage-ecclesiastes-7-1), [Proverbs 22:1](#pass
 
 ### False Witness and Lying
 
-*Laine addition.* These passages locate **false witness and lying** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **false witness and lying** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Kings 21:13](#passage-1-kings-21-13), [2 Kings 5:19-27](#passage-2-kings-5-19-27), [Colossians 3:9](#passage-colossians-3-9), [Matthew 26:59-61](#passage-matthew-26-59-61)
 
@@ -152,7 +150,7 @@ References: [1 Kings 21:13](#passage-1-kings-21-13), [2 Kings 5:19-27](#passage-
 
 ### Betrayal and Slander
 
-*Laine addition.* These passages locate **betrayal and slander** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **betrayal and slander** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Samuel 22:6-19](#passage-1-samuel-22-6-19), [Matthew 26:14-16](#passage-matthew-26-14-16), [Proverbs 11:13](#passage-proverbs-11-13)
 
@@ -160,7 +158,7 @@ References: [1 Samuel 22:6-19](#passage-1-samuel-22-6-19), [Matthew 26:14-16](#p
 
 ### Slander and Deceit
 
-*Laine addition.* These passages locate **slander and deceit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **slander and deceit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Samuel 15:1-6](#passage-2-samuel-15-1-6), [James 4:11](#passage-james-4-11), [Zechariah 8:17](#passage-zechariah-8-17)
 
@@ -168,7 +166,7 @@ References: [2 Samuel 15:1-6](#passage-2-samuel-15-1-6), [James 4:11](#passage-j
 
 ### Defending the Accused
 
-*Laine addition.* These passages locate **defending the accused** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **defending the accused** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 7:36-50](#passage-luke-7-36-50), [Proverbs 31:8-9](#passage-proverbs-31-8-9)
 
@@ -176,7 +174,7 @@ References: [Luke 7:36-50](#passage-luke-7-36-50), [Proverbs 31:8-9](#passage-pr
 
 ### Speaking Up for Others
 
-*Laine addition.* These passages locate **speaking up for others** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **speaking up for others** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Samuel 19:1-7](#passage-1-samuel-19-1-7), [Luke 7:4-5](#passage-luke-7-4-5), [Mark 12:41-44](#passage-mark-12-41-44)
 
@@ -184,7 +182,7 @@ References: [1 Samuel 19:1-7](#passage-1-samuel-19-1-7), [Luke 7:4-5](#passage-l
 
 ### Love Covers and Believes the Best
 
-*Laine addition.* These passages locate **love covers and believes the best** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **love covers and believes the best** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 13:7](#passage-1-corinthians-13-7), [1 Peter 4:8](#passage-1-peter-4-8), [Acts 5:33-39](#passage-acts-5-33-39), [Ephesians 4:15](#passage-ephesians-4-15)
 
@@ -192,7 +190,7 @@ References: [1 Corinthians 13:7](#passage-1-corinthians-13-7), [1 Peter 4:8](#pa
 
 ### Faithful Correction
 
-*Laine addition.* These passages locate **faithful correction** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **faithful correction** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Thessalonians 5:14](#passage-1-thessalonians-5-14), [2 Samuel 12:1-14](#passage-2-samuel-12-1-14), [Ephesians 4:11-16](#passage-ephesians-4-11-16)
 
@@ -200,7 +198,7 @@ References: [1 Thessalonians 5:14](#passage-1-thessalonians-5-14), [2 Samuel 12:
 
 ### The Midwives Fear God
 
-*Laine addition.* These passages locate **the midwives fear god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the midwives fear god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 1:15-20](#passage-exodus-1-15-20)
 
@@ -208,7 +206,7 @@ References: [Exodus 1:15-20](#passage-exodus-1-15-20)
 
 ### God, Contend for Me
 
-*Laine addition.* These passages locate **god, contend for me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god, contend for me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 35](#passage-psalm-35)
 
@@ -379,18 +377,18 @@ References: [Psalm 35](#passage-psalm-35)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Mark 14:3-9 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Mark 14:3-9 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Ecclesiastes 7:1. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Ecclesiastes 7:1. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

@@ -8,7 +8,6 @@ title: "Table of Duties"
 
 
 
-## Svebilius and Luther
 
 ### Luther’s Small Catechism
 
@@ -46,13 +45,12 @@ She that is a widow indeed, and desolate, trusts in God, and continues in suppli
 
 For the Common People. All things whatsoever you would that men should do to you, do you even so to them; for this is the law and the prophets. Matt. 7:12. You shall love your neighbor as yourself. Love is the fulfilling of the law. Rom. 13:9, 10. Let love be without dissimulation. Abhor that which is evil; cleave to that which is good. Be kindly affectioned one to another with brotherly love; in honor preferring one another. Rom. 12:9, 10. I exhort therefore, that first of all, supplications, prayers, intercessions, and giving of thanks be made for all men. 1 Tim. 2:1.
 
-## Laine supplementary teaching
 
 <a id="rg-07-the-table-of-duties-001"></a>
 
 ### The Household Under Christ
 
-*Laine addition.* These passages locate **the household under christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the household under christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 3:8-4:1](#passage-colossians-3-8-4-1), [Ephesians 5:22-6:9](#passage-ephesians-5-22-6-9)
 
@@ -60,7 +58,7 @@ References: [Colossians 3:8-4:1](#passage-colossians-3-8-4-1), [Ephesians 5:22-6
 
 ### To Bishops, Pastors, and Preachers
 
-*Laine addition.* These passages locate **to bishops, pastors, and preachers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **to bishops, pastors, and preachers** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 3:2-4, 6](#passage-1-timothy-3-2-4-6), [Titus 1:9](#passage-titus-1-9)
 
@@ -68,7 +66,7 @@ References: [1 Timothy 3:2-4, 6](#passage-1-timothy-3-2-4-6), [Titus 1:9](#passa
 
 ### What the Hearers Owe Their Pastors
 
-*Laine addition.* These passages locate **what the hearers owe their pastors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **what the hearers owe their pastors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Thessalonians 5:12-13](#passage-1-thessalonians-5-12-13), [Hebrews 13:17](#passage-hebrews-13-17)
 
@@ -76,7 +74,7 @@ References: [1 Thessalonians 5:12-13](#passage-1-thessalonians-5-12-13), [Hebrew
 
 ### Supporting Those Who Teach
 
-*Laine addition.* These passages locate **supporting those who teach** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **supporting those who teach** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 9:14](#passage-1-corinthians-9-14), [1 Timothy 5:17-18](#passage-1-timothy-5-17-18), [Galatians 6:6-7](#passage-galatians-6-6-7)
 
@@ -84,7 +82,7 @@ References: [1 Corinthians 9:14](#passage-1-corinthians-9-14), [1 Timothy 5:17-1
 
 ### Of Civil Government
 
-*Laine addition.* These passages locate **of civil government** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **of civil government** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Romans 13:1-4](#passage-romans-13-1-4)
 
@@ -92,7 +90,7 @@ References: [Romans 13:1-4](#passage-romans-13-1-4)
 
 ### Of Citizens
 
-*Laine addition.* These passages locate **of citizens** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **of citizens** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Matthew 22:21](#passage-matthew-22-21), [Romans 13:5-7](#passage-romans-13-5-7)
 
@@ -100,7 +98,7 @@ References: [Matthew 22:21](#passage-matthew-22-21), [Romans 13:5-7](#passage-ro
 
 ### Praying for Those in Authority
 
-*Laine addition.* These passages locate **praying for those in authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **praying for those in authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 2:1-3](#passage-1-timothy-2-1-3)
 
@@ -108,7 +106,7 @@ References: [1 Timothy 2:1-3](#passage-1-timothy-2-1-3)
 
 ### Subject for the Lord's Sake
 
-*Laine addition.* These passages locate **subject for the lord's sake** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **subject for the lord's sake** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 2:13-14](#passage-1-peter-2-13-14), [Titus 3:1](#passage-titus-3-1)
 
@@ -116,7 +114,7 @@ References: [1 Peter 2:13-14](#passage-1-peter-2-13-14), [Titus 3:1](#passage-ti
 
 ### To Husbands
 
-*Laine addition.* These passages locate **to husbands** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **to husbands** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 3:7](#passage-1-peter-3-7), [Colossians 3:19](#passage-colossians-3-19)
 
@@ -124,7 +122,7 @@ References: [1 Peter 3:7](#passage-1-peter-3-7), [Colossians 3:19](#passage-colo
 
 ### To Wives
 
-*Laine addition.* These passages locate **to wives** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **to wives** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 3:5-6](#passage-1-peter-3-5-6), [Ephesians 5:22](#passage-ephesians-5-22)
 
@@ -132,7 +130,7 @@ References: [1 Peter 3:5-6](#passage-1-peter-3-5-6), [Ephesians 5:22](#passage-e
 
 ### To Parents
 
-*Laine addition.* These passages locate **to parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **to parents** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 6:4](#passage-ephesians-6-4)
 
@@ -140,7 +138,7 @@ References: [Ephesians 6:4](#passage-ephesians-6-4)
 
 ### To Children
 
-*Laine addition.* These passages locate **to children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **to children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 6:1-3](#passage-ephesians-6-1-3)
 
@@ -148,7 +146,7 @@ References: [Ephesians 6:1-3](#passage-ephesians-6-1-3)
 
 ### To Youth
 
-*Laine addition.* These passages locate **to youth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **to youth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 5:5-6](#passage-1-peter-5-5-6)
 
@@ -156,7 +154,7 @@ References: [1 Peter 5:5-6](#passage-1-peter-5-5-6)
 
 ### To Widows
 
-*Laine addition.* These passages locate **to widows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **to widows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 5:5-6](#passage-1-timothy-5-5-6)
 
@@ -164,7 +162,7 @@ References: [1 Timothy 5:5-6](#passage-1-timothy-5-5-6)
 
 ### To Workers of All Kinds
 
-*Laine addition.* These passages locate **to workers of all kinds** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **to workers of all kinds** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 6:5-8](#passage-ephesians-6-5-8)
 
@@ -172,7 +170,7 @@ References: [Ephesians 6:5-8](#passage-ephesians-6-5-8)
 
 ### To Employers and Supervisors
 
-*Laine addition.* These passages locate **to employers and supervisors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **to employers and supervisors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 6:9](#passage-ephesians-6-9)
 
@@ -180,7 +178,7 @@ References: [Ephesians 6:9](#passage-ephesians-6-9)
 
 ### To Everyone
 
-*Laine addition.* These passages locate **to everyone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **to everyone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 2:1](#passage-1-timothy-2-1), [Romans 13:9](#passage-romans-13-9)
 
@@ -351,18 +349,18 @@ References: [1 Timothy 2:1](#passage-1-timothy-2-1), [Romans 13:9](#passage-roma
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Colossians 3:8-4:1 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Colossians 3:8-4:1 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Ephesians 5:22-6:9. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Ephesians 5:22-6:9. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

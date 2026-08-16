@@ -8,7 +8,6 @@ title: "Forgive Us Our Trespasses: The Fifth Petition"
 
 
 
-## Svebilius and Luther
 
 **37. How should we forgive our neighbour?**
 
@@ -94,13 +93,12 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
-## Laine supplementary teaching
 
 <a id="rg-04-2-5-the-lord-s-prayer-the-fifth-petition-001"></a>
 
 ### The Unforgiving Servant
 
-*Laine addition.* These passages locate **the unforgiving servant** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the unforgiving servant** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Matthew 18:21-35](#passage-matthew-18-21-35)
 
@@ -108,7 +106,7 @@ References: [Matthew 18:21-35](#passage-matthew-18-21-35)
 
 ### Have Mercy on Me, a Sinner
 
-*Laine addition.* These passages locate **have mercy on me, a sinner** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **have mercy on me, a sinner** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 18:13](#passage-luke-18-13), [Psalm 130:3-4](#passage-psalm-130-3-4), [Psalm 51:1-2](#passage-psalm-51-1-2)
 
@@ -116,7 +114,7 @@ References: [Luke 18:13](#passage-luke-18-13), [Psalm 130:3-4](#passage-psalm-13
 
 ### Hidden Faults and Honest Confession
 
-*Laine addition.* These passages locate **hidden faults and honest confession** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **hidden faults and honest confession** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Genesis 32:10](#passage-genesis-32-10), [Proverbs 28:13](#passage-proverbs-28-13), [Psalm 19:12](#passage-psalm-19-12)
 
@@ -124,7 +122,7 @@ References: [Genesis 32:10](#passage-genesis-32-10), [Proverbs 28:13](#passage-p
 
 ### Sin Separates, Faith Shields
 
-*Laine addition.* These passages locate **sin separates, faith shields** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **sin separates, faith shields** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 6:16-18](#passage-ephesians-6-16-18), [Isaiah 59:2](#passage-isaiah-59-2), [Proverbs 28:13](#passage-proverbs-28-13)
 
@@ -132,7 +130,7 @@ References: [Ephesians 6:16-18](#passage-ephesians-6-16-18), [Isaiah 59:2](#pass
 
 ### Blessed Is the One Whose Sin Is Covered
 
-*Laine addition.* These passages locate **blessed is the one whose sin is covered** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **blessed is the one whose sin is covered** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 1:8-10](#passage-1-john-1-8-10), [Psalm 130:3-4](#passage-psalm-130-3-4), [Psalm 32:1-5](#passage-psalm-32-1-5), [Romans 3:23-24](#passage-romans-3-23-24)
 
@@ -140,7 +138,7 @@ References: [1 John 1:8-10](#passage-1-john-1-8-10), [Psalm 130:3-4](#passage-ps
 
 ### Seventy Times Seven
 
-*Laine addition.* These passages locate **seventy times seven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **seventy times seven** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 1:15](#passage-1-timothy-1-15), [Ephesians 4:32](#passage-ephesians-4-32), [Genesis 50:15-21](#passage-genesis-50-15-21), [Matthew 18:21-22](#passage-matthew-18-21-22), [Matthew 18:23-35](#passage-matthew-18-23-35), [Matthew 6:14-15](#passage-matthew-6-14-15)
 
@@ -148,7 +146,7 @@ References: [1 Timothy 1:15](#passage-1-timothy-1-15), [Ephesians 4:32](#passage
 
 ### As We Forgive Our Debtors
 
-*Laine addition.* These passages locate **as we forgive our debtors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **as we forgive our debtors** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Matthew 6:12](#passage-matthew-6-12)
 
@@ -156,7 +154,7 @@ References: [Matthew 6:12](#passage-matthew-6-12)
 
 ### Reconciled, and Reconciling
 
-*Laine addition.* These passages locate **reconciled, and reconciling** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **reconciled, and reconciling** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 3:13](#passage-colossians-3-13), [Matthew 18:35](#passage-matthew-18-35), [Matthew 6:15](#passage-matthew-6-15), [Romans 5:2, 10](#passage-romans-5-2-10)
 
@@ -164,7 +162,7 @@ References: [Colossians 3:13](#passage-colossians-3-13), [Matthew 18:35](#passag
 
 ### Love Keeps No Record of Wrongs
 
-*Laine addition.* These passages locate **love keeps no record of wrongs** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **love keeps no record of wrongs** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 13:4-5](#passage-1-corinthians-13-4-5)
 
@@ -172,7 +170,7 @@ References: [1 Corinthians 13:4-5](#passage-1-corinthians-13-4-5)
 
 ### You Forgave the Iniquity of My Sin
 
-*Laine addition.* These passages locate **you forgave the iniquity of my sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **you forgave the iniquity of my sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 32](#passage-psalm-32)
 
@@ -331,18 +329,18 @@ References: [Psalm 32](#passage-psalm-32)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Matthew 18:21-35 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Matthew 18:21-35 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Luke 18:13. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Luke 18:13. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

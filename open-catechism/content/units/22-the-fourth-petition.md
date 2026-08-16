@@ -8,7 +8,6 @@ title: "Give Us This Day Our Daily Bread: The Fourth Petition"
 
 
 
-## Svebilius and Luther
 
 **31. Why do we say, “give us our bread”?**
 
@@ -94,13 +93,12 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
-## Laine supplementary teaching
 
 <a id="rg-04-2-4-the-lord-s-prayer-the-fourth-petition-001"></a>
 
 ### Manna in the Wilderness
 
-*Laine addition.* These passages locate **manna in the wilderness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **manna in the wilderness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 16:1-21](#passage-exodus-16-1-21)
 
@@ -108,7 +106,7 @@ References: [Exodus 16:1-21](#passage-exodus-16-1-21)
 
 ### He Gives Food to All
 
-*Laine addition.* These passages locate **he gives food to all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **he gives food to all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 14:16-17](#passage-acts-14-16-17), [Matthew 5:45](#passage-matthew-5-45), [Psalm 104:21](#passage-psalm-104-21), [Psalm 145:15-16](#passage-psalm-145-15-16)
 
@@ -116,7 +114,7 @@ References: [Acts 14:16-17](#passage-acts-14-16-17), [Matthew 5:45](#passage-mat
 
 ### Why Spend for What Is Not Bread?
 
-*Laine addition.* These passages locate **why spend for what is not bread?** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **why spend for what is not bread?** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Isaiah 55:2](#passage-isaiah-55-2)
 
@@ -124,7 +122,7 @@ References: [Isaiah 55:2](#passage-isaiah-55-2)
 
 ### In Him We Live and Move
 
-*Laine addition.* These passages locate **in him we live and move** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **in him we live and move** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 17:28](#passage-acts-17-28), [James 4:15](#passage-james-4-15), [Psalm 104:27-29](#passage-psalm-104-27-29)
 
@@ -132,7 +130,7 @@ References: [Acts 17:28](#passage-acts-17-28), [James 4:15](#passage-james-4-15)
 
 ### Bread for Today, Not Tomorrow
 
-*Laine addition.* These passages locate **bread for today, not tomorrow** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **bread for today, not tomorrow** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 5:6-7](#passage-1-peter-5-6-7), [Exodus 16:17-26](#passage-exodus-16-17-26), [Matthew 6:26](#passage-matthew-6-26), [Matthew 6:34](#passage-matthew-6-34)
 
@@ -140,7 +138,7 @@ References: [1 Peter 5:6-7](#passage-1-peter-5-6-7), [Exodus 16:17-26](#passage-
 
 ### Receiving with Thanksgiving
 
-*Laine addition.* These passages locate **receiving with thanksgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **receiving with thanksgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 4:4-5](#passage-1-timothy-4-4-5), [Ephesians 5:19-20](#passage-ephesians-5-19-20), [Luke 17:11-19](#passage-luke-17-11-19), [Mark 10:46-52](#passage-mark-10-46-52), [Psalm 106:1](#passage-psalm-106-1)
 
@@ -148,7 +146,7 @@ References: [1 Timothy 4:4-5](#passage-1-timothy-4-4-5), [Ephesians 5:19-20](#pa
 
 ### Contentment and Nothing Wasted
 
-*Laine addition.* These passages locate **contentment and nothing wasted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **contentment and nothing wasted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 6:8](#passage-1-timothy-6-8), [John 6:12](#passage-john-6-12), [Luke 12:15-21](#passage-luke-12-15-21), [Proverbs 30:8-9](#passage-proverbs-30-8-9)
 
@@ -156,7 +154,7 @@ References: [1 Timothy 6:8](#passage-1-timothy-6-8), [John 6:12](#passage-john-6
 
 ### You Open Your Hand
 
-*Laine addition.* These passages locate **you open your hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **you open your hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 104:14](#passage-psalm-104-14), [Psalm 145:15-16](#passage-psalm-145-15-16)
 
@@ -164,7 +162,7 @@ References: [Psalm 104:14](#passage-psalm-104-14), [Psalm 145:15-16](#passage-ps
 
 ### Working Quietly for Our Own Bread
 
-*Laine addition.* These passages locate **working quietly for our own bread** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **working quietly for our own bread** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Thessalonians 3:10-12](#passage-2-thessalonians-3-10-12)
 
@@ -172,7 +170,7 @@ References: [2 Thessalonians 3:10-12](#passage-2-thessalonians-3-10-12)
 
 ### Good Government and a Peaceful Life
 
-*Laine addition.* These passages locate **good government and a peaceful life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **good government and a peaceful life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 2:1-2](#passage-1-timothy-2-1-2)
 
@@ -180,7 +178,7 @@ References: [1 Timothy 2:1-2](#passage-1-timothy-2-1-2)
 
 ### Providing and Sharing
 
-*Laine addition.* These passages locate **providing and sharing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **providing and sharing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 3:17-18](#passage-1-john-3-17-18), [1 Timothy 5:8](#passage-1-timothy-5-8), [Hebrews 13:16](#passage-hebrews-13-16)
 
@@ -188,7 +186,7 @@ References: [1 John 3:17-18](#passage-1-john-3-17-18), [1 Timothy 5:8](#passage-
 
 ### He Satisfies You with Good
 
-*Laine addition.* These passages locate **he satisfies you with good** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **he satisfies you with good** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 103](#passage-psalm-103)
 
@@ -371,18 +369,18 @@ References: [Psalm 103](#passage-psalm-103)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Exodus 16:1-21 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Exodus 16:1-21 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Acts 14:16-17. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Acts 14:16-17. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

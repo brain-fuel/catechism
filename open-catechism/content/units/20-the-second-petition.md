@@ -8,7 +8,6 @@ title: "Thy Kingdom Come: The Second Petition"
 
 
 
-## Svebilius and Luther
 
 **19. What is meant here by the kingdom of God?**
 
@@ -94,13 +93,12 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
-## Laine supplementary teaching
 
 <a id="rg-04-2-2-the-lord-s-prayer-the-second-petition-001"></a>
 
 ### My Kingdom Is Not of This World
 
-*Laine addition.* These passages locate **my kingdom is not of this world** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **my kingdom is not of this world** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 18:33-40](#passage-john-18-33-40)
 
@@ -108,7 +106,7 @@ References: [John 18:33-40](#passage-john-18-33-40)
 
 ### A Throne Established Forever
 
-*Laine addition.* These passages locate **a throne established forever** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **a throne established forever** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Samuel 7:12, 16](#passage-2-samuel-7-12-16), [Exodus 15:18](#passage-exodus-15-18), [Isaiah 9:7](#passage-isaiah-9-7)
 
@@ -116,7 +114,7 @@ References: [2 Samuel 7:12, 16](#passage-2-samuel-7-12-16), [Exodus 15:18](#pass
 
 ### The Kingdom Is at Hand
 
-*Laine addition.* These passages locate **the kingdom is at hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the kingdom is at hand** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 1:13-14](#passage-colossians-1-13-14), [Mark 1:15](#passage-mark-1-15)
 
@@ -124,7 +122,7 @@ References: [Colossians 1:13-14](#passage-colossians-1-13-14), [Mark 1:15](#pass
 
 ### A Kingdom Not Observed by Sight
 
-*Laine addition.* These passages locate **a kingdom not observed by sight** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **a kingdom not observed by sight** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 3:5](#passage-john-3-5), [Luke 17:20-21](#passage-luke-17-20-21), [Romans 14:17](#passage-romans-14-17)
 
@@ -132,7 +130,7 @@ References: [John 3:5](#passage-john-3-5), [Luke 17:20-21](#passage-luke-17-20-2
 
 ### The Kingdom of Glory
 
-*Laine addition.* These passages locate **the kingdom of glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the kingdom of glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Daniel 7:13-14](#passage-daniel-7-13-14), [Isaiah 11:1-9](#passage-isaiah-11-1-9), [Matthew 25:34](#passage-matthew-25-34), [Revelation 11:15](#passage-revelation-11-15), [Revelation 21:5](#passage-revelation-21-5), [Revelation 22:1-5](#passage-revelation-22-1-5)
 
@@ -140,7 +138,7 @@ References: [Daniel 7:13-14](#passage-daniel-7-13-14), [Isaiah 11:1-9](#passage-
 
 ### Fear Not, Little Flock
 
-*Laine addition.* These passages locate **fear not, little flock** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **fear not, little flock** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 12:31-32](#passage-luke-12-31-32)
 
@@ -148,7 +146,7 @@ References: [Luke 12:31-32](#passage-luke-12-31-32)
 
 ### Spirit, Word, and Godly Life
 
-*Laine addition.* These passages locate **spirit, word, and godly life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **spirit, word, and godly life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 2:12](#passage-1-peter-2-12), [Isaiah 55:11](#passage-isaiah-55-11), [Psalm 51:11-12](#passage-psalm-51-11-12)
 
@@ -156,7 +154,7 @@ References: [1 Peter 2:12](#passage-1-peter-2-12), [Isaiah 55:11](#passage-isaia
 
 ### Pray That the Word Speed Ahead
 
-*Laine addition.* These passages locate **pray that the word speed ahead** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **pray that the word speed ahead** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Thessalonians 3:1](#passage-2-thessalonians-3-1), [Acts 4:29](#passage-acts-4-29), [Matthew 9:38](#passage-matthew-9-38)
 
@@ -164,7 +162,7 @@ References: [2 Thessalonians 3:1](#passage-2-thessalonians-3-1), [Acts 4:29](#pa
 
 ### Awaiting the King's Return
 
-*Laine addition.* These passages locate **awaiting the king's return** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **awaiting the king's return** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Philippians 3:20](#passage-philippians-3-20), [Revelation 22:20](#passage-revelation-22-20)
 
@@ -172,7 +170,7 @@ References: [Philippians 3:20](#passage-philippians-3-20), [Revelation 22:20](#p
 
 ### Delivered from Darkness, Ruled by Christ
 
-*Laine addition.* These passages locate **delivered from darkness, ruled by christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **delivered from darkness, ruled by christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Timothy 4:18](#passage-2-timothy-4-18), [Acts 26:18](#passage-acts-26-18), [Colossians 1:13-14](#passage-colossians-1-13-14), [Colossians 3:15](#passage-colossians-3-15), [Ephesians 4:17-32](#passage-ephesians-4-17-32), [Matthew 5](#passage-matthew-5)
 
@@ -180,7 +178,7 @@ References: [2 Timothy 4:18](#passage-2-timothy-4-18), [Acts 26:18](#passage-act
 
 ### His Kingdom Rules Over All
 
-*Laine addition.* These passages locate **his kingdom rules over all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **his kingdom rules over all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 103:19](#passage-psalm-103-19)
 
@@ -188,7 +186,7 @@ References: [Psalm 103:19](#passage-psalm-103-19)
 
 ### He Did Not Leave Himself Without Witness
 
-*Laine addition.* These passages locate **he did not leave himself without witness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **he did not leave himself without witness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 14:16-17](#passage-acts-14-16-17)
 
@@ -196,7 +194,7 @@ References: [Acts 14:16-17](#passage-acts-14-16-17)
 
 ### The Kingdom of Power
 
-*Laine addition.* These passages locate **the kingdom of power** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the kingdom of power** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Hebrews 1:3](#passage-hebrews-1-3), [Romans 13:1-7](#passage-romans-13-1-7)
 
@@ -204,7 +202,7 @@ References: [Hebrews 1:3](#passage-hebrews-1-3), [Romans 13:1-7](#passage-romans
 
 ### Rule in the Midst of Your Enemies
 
-*Laine addition.* These passages locate **rule in the midst of your enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **rule in the midst of your enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 110](#passage-psalm-110)
 
@@ -417,18 +415,18 @@ References: [Psalm 110](#passage-psalm-110)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read John 18:33-40 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read John 18:33-40 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read 2 Samuel 7:12, 16. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read 2 Samuel 7:12, 16. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

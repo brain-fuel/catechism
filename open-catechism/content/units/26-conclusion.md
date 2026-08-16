@@ -8,7 +8,6 @@ title: "For Thine Is the Kingdom: The Conclusion"
 
 
 
-## Svebilius and Luther
 
 **52. What does “Amen” mean?**
 
@@ -78,13 +77,12 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
-## Laine supplementary teaching
 
 <a id="rg-04-3-the-lord-s-prayer-the-conclusion-001"></a>
 
 ### Yours Is the Kingdom, the Power, and the Glory
 
-*Laine addition.* These passages locate **yours is the kingdom, the power, and the glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **yours is the kingdom, the power, and the glory** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Chronicles 29:11](#passage-1-chronicles-29-11)
 
@@ -92,7 +90,7 @@ References: [1 Chronicles 29:11](#passage-1-chronicles-29-11)
 
 ### Every Good Gift from Above
 
-*Laine addition.* These passages locate **every good gift from above** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **every good gift from above** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [James 1:17](#passage-james-1-17), [Psalm 103:2-3](#passage-psalm-103-2-3)
 
@@ -100,7 +98,7 @@ References: [James 1:17](#passage-james-1-17), [Psalm 103:2-3](#passage-psalm-10
 
 ### Far More Than We Ask or Think
 
-*Laine addition.* These passages locate **far more than we ask or think** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **far more than we ask or think** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 1:17](#passage-1-timothy-1-17), [Ephesians 3:20-21](#passage-ephesians-3-20-21), [Psalm 113:4-5](#passage-psalm-113-4-5), [Psalm 33:6](#passage-psalm-33-6)
 
@@ -108,7 +106,7 @@ References: [1 Timothy 1:17](#passage-1-timothy-1-17), [Ephesians 3:20-21](#pass
 
 ### He Hears the Prayer of the Righteous
 
-*Laine addition.* These passages locate **he hears the prayer of the righteous** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **he hears the prayer of the righteous** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Proverbs 15:29](#passage-proverbs-15-29), [Proverbs 15:8](#passage-proverbs-15-8)
 
@@ -116,7 +114,7 @@ References: [Proverbs 15:29](#passage-proverbs-15-29), [Proverbs 15:8](#passage-
 
 ### The Lord Reigns; Holy Is He
 
-*Laine addition.* These passages locate **the lord reigns; holy is he** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the lord reigns; holy is he** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 99](#passage-psalm-99)
 
@@ -185,18 +183,18 @@ References: [Psalm 99](#passage-psalm-99)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read 1 Chronicles 29:11 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read 1 Chronicles 29:11 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read James 1:17. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read James 1:17. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

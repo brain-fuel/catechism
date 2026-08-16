@@ -8,7 +8,6 @@ title: "The Holy Name of God: The Second Commandment"
 
 
 
-## Svebilius and Luther
 
 **21. What does it mean to swear by the name of God?**
 
@@ -136,13 +135,12 @@ Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the i
 
 Answer: God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
 
-## Laine supplementary teaching
 
 <a id="rg-02-2-the-second-commandment-001"></a>
 
 ### Magnifying the Lord
 
-*Laine addition.* These passages locate **magnifying the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **magnifying the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 1:39-56](#passage-luke-1-39-56)
 
@@ -150,7 +148,7 @@ References: [Luke 1:39-56](#passage-luke-1-39-56)
 
 ### God Reveals His Name
 
-*Laine addition.* These passages locate **god reveals his name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god reveals his name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 3:13-15](#passage-exodus-3-13-15)
 
@@ -158,7 +156,7 @@ References: [Exodus 3:13-15](#passage-exodus-3-13-15)
 
 ### Salvation in the Name of Jesus
 
-*Laine addition.* These passages locate **salvation in the name of jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **salvation in the name of jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 12:3](#passage-1-corinthians-12-3), [Joel 2:32](#passage-joel-2-32), [Matthew 1:21](#passage-matthew-1-21), [Philippians 2:10-11](#passage-philippians-2-10-11), [Romans 10:13](#passage-romans-10-13)
 
@@ -166,7 +164,7 @@ References: [1 Corinthians 12:3](#passage-1-corinthians-12-3), [Joel 2:32](#pass
 
 ### The LORD Our God
 
-*Laine addition.* These passages locate **the lord our god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the lord our god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 20:2](#passage-exodus-20-2), [Isaiah 44:24](#passage-isaiah-44-24), [Psalm 9:16](#passage-psalm-9-16)
 
@@ -174,7 +172,7 @@ References: [Exodus 20:2](#passage-exodus-20-2), [Isaiah 44:24](#passage-isaiah-
 
 ### Calling on the Name of the Lord
 
-*Laine addition.* These passages locate **calling on the name of the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **calling on the name of the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Genesis 4:26](#passage-genesis-4-26), [Luke 11:2](#passage-luke-11-2)
 
@@ -182,7 +180,7 @@ References: [Genesis 4:26](#passage-genesis-4-26), [Luke 11:2](#passage-luke-11-
 
 ### Proclaiming God's Name
 
-*Laine addition.* These passages locate **proclaiming god's name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **proclaiming god's name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Isaiah 12:4](#passage-isaiah-12-4), [Matthew 28:19-20](#passage-matthew-28-19-20)
 
@@ -190,7 +188,7 @@ References: [Isaiah 12:4](#passage-isaiah-12-4), [Matthew 28:19-20](#passage-mat
 
 ### The Second Commandment
 
-*Laine addition.* These passages locate **the second commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the second commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 20:7](#passage-exodus-20-7)
 
@@ -198,7 +196,7 @@ References: [Exodus 20:7](#passage-exodus-20-7)
 
 ### Misusing God's Name: Cursing and Sorcery
 
-*Laine addition.* These passages locate **misusing god's name: cursing and sorcery** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **misusing god's name: cursing and sorcery** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 19:11-20](#passage-acts-19-11-20), [Acts 23:12-15](#passage-acts-23-12-15), [Deuteronomy 18:10-12](#passage-deuteronomy-18-10-12), [James 3:8-10](#passage-james-3-8-10), [Luke 9:51-55](#passage-luke-9-51-55)
 
@@ -206,7 +204,7 @@ References: [Acts 19:11-20](#passage-acts-19-11-20), [Acts 23:12-15](#passage-ac
 
 ### False Swearing and Lying by God's Name
 
-*Laine addition.* These passages locate **false swearing and lying by god's name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **false swearing and lying by god's name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Jeremiah 23:31-32](#passage-jeremiah-23-31-32), [Leviticus 19:12](#passage-leviticus-19-12), [Matthew 26:69-74](#passage-matthew-26-69-74), [Matthew 5:33-37](#passage-matthew-5-33-37), [Matthew 7:21](#passage-matthew-7-21)
 
@@ -214,7 +212,7 @@ References: [Jeremiah 23:31-32](#passage-jeremiah-23-31-32), [Leviticus 19:12](#
 
 ### Prayer in Jesus' Name
 
-*Laine addition.* These passages locate **prayer in jesus' name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **prayer in jesus' name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 2:1](#passage-1-timothy-2-1), [John 16:23](#passage-john-16-23), [Luke 11:1-4](#passage-luke-11-1-4)
 
@@ -222,7 +220,7 @@ References: [1 Timothy 2:1](#passage-1-timothy-2-1), [John 16:23](#passage-john-
 
 ### Calling on God in Trouble
 
-*Laine addition.* These passages locate **calling on god in trouble** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **calling on god in trouble** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Isaiah 36-37](#passage-isaiah-36-37), [Matthew 27:38-49](#passage-matthew-27-38-49), [Psalm 50:15](#passage-psalm-50-15)
 
@@ -230,7 +228,7 @@ References: [Isaiah 36-37](#passage-isaiah-36-37), [Matthew 27:38-49](#passage-m
 
 ### Praise and Thanksgiving
 
-*Laine addition.* These passages locate **praise and thanksgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **praise and thanksgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 1:46-55](#passage-luke-1-46-55), [Luke 1:58-79](#passage-luke-1-58-79), [Psalm 118:1](#passage-psalm-118-1), [Psalm 136](#passage-psalm-136), [Psalm 138](#passage-psalm-138), [Psalm 150:2](#passage-psalm-150-2)
 
@@ -238,7 +236,7 @@ References: [Luke 1:46-55](#passage-luke-1-46-55), [Luke 1:58-79](#passage-luke-
 
 ### Faithfully Speaking God's Word
 
-*Laine addition.* These passages locate **faithfully speaking god's word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **faithfully speaking god's word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Jeremiah 23:28](#passage-jeremiah-23-28), [John 17:11-19](#passage-john-17-11-19)
 
@@ -246,7 +244,7 @@ References: [Jeremiah 23:28](#passage-jeremiah-23-28), [John 17:11-19](#passage-
 
 ### Acting in God's Name
 
-*Laine addition.* These passages locate **acting in god's name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **acting in god's name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 14:13-14](#passage-john-14-13-14), [Matthew 28:19](#passage-matthew-28-19)
 
@@ -254,7 +252,7 @@ References: [John 14:13-14](#passage-john-14-13-14), [Matthew 28:19](#passage-ma
 
 ### Unwholesome Speech
 
-*Laine addition.* These passages locate **unwholesome speech** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **unwholesome speech** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 5:4](#passage-ephesians-5-4), [Matthew 15:11](#passage-matthew-15-11)
 
@@ -262,7 +260,7 @@ References: [Ephesians 5:4](#passage-ephesians-5-4), [Matthew 15:11](#passage-ma
 
 ### Speaking Truth
 
-*Laine addition.* These passages locate **speaking truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **speaking truth** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 4:25](#passage-ephesians-4-25), [Matthew 5:37](#passage-matthew-5-37)
 
@@ -270,7 +268,7 @@ References: [Ephesians 4:25](#passage-ephesians-4-25), [Matthew 5:37](#passage-m
 
 ### Oaths and Vows
 
-*Laine addition.* These passages locate **oaths and vows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **oaths and vows** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 1:23](#passage-2-corinthians-1-23), [Galatians 1:20](#passage-galatians-1-20), [Judges 11:30-40](#passage-judges-11-30-40), [Leviticus 19:12](#passage-leviticus-19-12), [Mark 14:60-62](#passage-mark-14-60-62), [Numbers 30:2](#passage-numbers-30-2), [Romans 13:1](#passage-romans-13-1), [Romans 1:9](#passage-romans-1-9)
 
@@ -278,7 +276,7 @@ References: [2 Corinthians 1:23](#passage-2-corinthians-1-23), [Galatians 1:20](
 
 ### Praise the Name of the LORD
 
-*Laine addition.* These passages locate **praise the name of the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **praise the name of the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 135](#passage-psalm-135)
 
@@ -605,18 +603,18 @@ References: [Psalm 135](#passage-psalm-135)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Luke 1:39-56 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Luke 1:39-56 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Exodus 3:13-15. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Exodus 3:13-15. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

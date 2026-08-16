@@ -8,7 +8,6 @@ title: "What Baptism Signifies"
 
 
 
-## Svebilius and Luther
 
 **26. Are all who are baptized, then, saved?**
 
@@ -76,13 +75,12 @@ Answer: It signifies that the old Adam in us should, by daily contrition and rep
 
 Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are buried with Christ by baptism into death, that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
-## Laine supplementary teaching
 
 <a id="rg-05-1-4-what-baptism-signifies-001"></a>
 
 ### Walking in Newness of Life
 
-*Laine addition.* These passages locate **walking in newness of life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **walking in newness of life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Romans 6:4](#passage-romans-6-4)
 
@@ -90,7 +88,7 @@ References: [Romans 6:4](#passage-romans-6-4)
 
 ### Dead to Sin, Alive to God
 
-*Laine addition.* These passages locate **dead to sin, alive to god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **dead to sin, alive to god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Romans 6:1-14](#passage-romans-6-1-14)
 
@@ -98,7 +96,7 @@ References: [Romans 6:1-14](#passage-romans-6-1-14)
 
 ### Put Off the Old Self
 
-*Laine addition.* These passages locate **put off the old self** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **put off the old self** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 4:22](#passage-ephesians-4-22)
 
@@ -106,7 +104,7 @@ References: [Ephesians 4:22](#passage-ephesians-4-22)
 
 ### The Old Has Passed Away
 
-*Laine addition.* These passages locate **the old has passed away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the old has passed away** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 5:17](#passage-2-corinthians-5-17)
 
@@ -114,7 +112,7 @@ References: [2 Corinthians 5:17](#passage-2-corinthians-5-17)
 
 ### The Flesh Against the Spirit
 
-*Laine addition.* These passages locate **the flesh against the spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the flesh against the spirit** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Galatians 5:17](#passage-galatians-5-17)
 
@@ -122,7 +120,7 @@ References: [Galatians 5:17](#passage-galatians-5-17)
 
 ### The New Self Raised with Christ
 
-*Laine addition.* These passages locate **the new self raised with christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the new self raised with christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 3:1-10](#passage-colossians-3-1-10), [Ephesians 4:24](#passage-ephesians-4-24), [Galatians 2:20](#passage-galatians-2-20), [Romans 6:3-4](#passage-romans-6-3-4)
 
@@ -130,7 +128,7 @@ References: [Colossians 3:1-10](#passage-colossians-3-1-10), [Ephesians 4:24](#p
 
 ### Living Daily in Our Baptism
 
-*Laine addition.* These passages locate **living daily in our baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **living daily in our baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 6:11](#passage-1-corinthians-6-11), [Acts 2:38](#passage-acts-2-38), [Matthew 28:19](#passage-matthew-28-19), [Romans 6:3-6](#passage-romans-6-3-6), [Titus 3:5-6](#passage-titus-3-5-6)
 
@@ -138,7 +136,7 @@ References: [1 Corinthians 6:11](#passage-1-corinthians-6-11), [Acts 2:38](#pass
 
 ### He Drew Me Out of Many Waters
 
-*Laine addition.* These passages locate **he drew me out of many waters** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **he drew me out of many waters** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 18](#passage-psalm-18)
 
@@ -237,18 +235,18 @@ References: [Psalm 18](#passage-psalm-18)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Romans 6:4 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Romans 6:4 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Romans 6:1-14. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Romans 6:1-14. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

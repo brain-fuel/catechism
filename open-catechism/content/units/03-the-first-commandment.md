@@ -8,7 +8,6 @@ title: "No Other Gods: The First Commandment"
 
 
 
-## Svebilius and Luther
 
 **9. What does God forbid in the first commandment?**
 
@@ -150,13 +149,12 @@ Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the i
 
 Answer: God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
 
-## Laine supplementary teaching
 
 <a id="rg-02-1-the-first-commandment-001"></a>
 
 ### God Alone as Judge
 
-*Laine addition.* These passages locate **god alone as judge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god alone as judge** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 12:13-14](#passage-luke-12-13-14)
 
@@ -164,7 +162,7 @@ References: [Luke 12:13-14](#passage-luke-12-13-14)
 
 ### Trusting God Above Created Things
 
-*Laine addition.* These passages locate **trusting god above created things** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **trusting god above created things** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Isaiah 45:20](#passage-isaiah-45-20), [Matthew 10:37](#passage-matthew-10-37), [Proverbs 11:28](#passage-proverbs-11-28)
 
@@ -172,7 +170,7 @@ References: [Isaiah 45:20](#passage-isaiah-45-20), [Matthew 10:37](#passage-matt
 
 ### Worship God Alone
 
-*Laine addition.* These passages locate **worship god alone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **worship god alone** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 8:4](#passage-1-corinthians-8-4), [Isaiah 42:8](#passage-isaiah-42-8), [Matthew 4:10](#passage-matthew-4-10), [Romans 1:22-23](#passage-romans-1-22-23)
 
@@ -180,7 +178,7 @@ References: [1 Corinthians 8:4](#passage-1-corinthians-8-4), [Isaiah 42:8](#pass
 
 ### Fear, Love, and Trust in God
 
-*Laine addition.* These passages locate **fear, love, and trust in god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **fear, love, and trust in god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Deuteronomy 6:5](#passage-deuteronomy-6-5), [Proverbs 3:5](#passage-proverbs-3-5), [Psalm 111:10](#passage-psalm-111-10)
 
@@ -188,7 +186,7 @@ References: [Deuteronomy 6:5](#passage-deuteronomy-6-5), [Proverbs 3:5](#passage
 
 ### The One True God of All Nations
 
-*Laine addition.* These passages locate **the one true god of all nations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the one true god of all nations** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 8:5-6](#passage-1-corinthians-8-5-6), [Acts 17:28-29](#passage-acts-17-28-29), [Psalm 22:27](#passage-psalm-22-27)
 
@@ -196,7 +194,7 @@ References: [1 Corinthians 8:5-6](#passage-1-corinthians-8-5-6), [Acts 17:28-29]
 
 ### Fearing God Above All
 
-*Laine addition.* These passages locate **fearing god above all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **fearing god above all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Matthew 10:28](#passage-matthew-10-28), [Proverbs 8:13](#passage-proverbs-8-13), [Psalm 96:4-13](#passage-psalm-96-4-13)
 
@@ -204,7 +202,7 @@ References: [Matthew 10:28](#passage-matthew-10-28), [Proverbs 8:13](#passage-pr
 
 ### Loving God Above All
 
-*Laine addition.* These passages locate **loving god above all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **loving god above all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 14:15](#passage-john-14-15), [Mark 10:17-27](#passage-mark-10-17-27), [Psalm 73:25-26](#passage-psalm-73-25-26)
 
@@ -212,7 +210,7 @@ References: [John 14:15](#passage-john-14-15), [Mark 10:17-27](#passage-mark-10-
 
 ### Trusting God Above All
 
-*Laine addition.* These passages locate **trusting god above all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **trusting god above all** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 5:6-7](#passage-1-peter-5-6-7), [Isaiah 30:15](#passage-isaiah-30-15), [Luke 23:46](#passage-luke-23-46), [Philippians 4:5-6](#passage-philippians-4-5-6), [Proverbs 3:5-10](#passage-proverbs-3-5-10), [Psalm 115:4](#passage-psalm-115-4)
 
@@ -220,7 +218,7 @@ References: [1 Peter 5:6-7](#passage-1-peter-5-6-7), [Isaiah 30:15](#passage-isa
 
 ### Idols of Pride and Self
 
-*Laine addition.* These passages locate **idols of pride and self** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **idols of pride and self** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 6:12-20](#passage-1-corinthians-6-12-20), [Genesis 11:1-9](#passage-genesis-11-1-9), [Luke 18:18-24](#passage-luke-18-18-24), [Luke 18:9-14](#passage-luke-18-9-14), [Matthew 10:37-39](#passage-matthew-10-37-39)
 
@@ -228,7 +226,7 @@ References: [1 Corinthians 6:12-20](#passage-1-corinthians-6-12-20), [Genesis 11
 
 ### The Idolatry of the Heart
 
-*Laine addition.* These passages locate **the idolatry of the heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the idolatry of the heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 5:5](#passage-ephesians-5-5), [Exodus 32:1-10](#passage-exodus-32-1-10), [Matthew 6:19](#passage-matthew-6-19), [Matthew 6:21](#passage-matthew-6-21), [Romans 1:18-25](#passage-romans-1-18-25)
 
@@ -236,7 +234,7 @@ References: [Ephesians 5:5](#passage-ephesians-5-5), [Exodus 32:1-10](#passage-e
 
 ### Seeking God First
 
-*Laine addition.* These passages locate **seeking god first** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **seeking god first** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Deuteronomy 30:19-20](#passage-deuteronomy-30-19-20), [Matthew 6:33](#passage-matthew-6-33), [Proverbs 11:28](#passage-proverbs-11-28)
 
@@ -244,7 +242,7 @@ References: [Deuteronomy 30:19-20](#passage-deuteronomy-30-19-20), [Matthew 6:33
 
 ### No One Is Without Sin
 
-*Laine addition.* These passages locate **no one is without sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **no one is without sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 1:8](#passage-1-john-1-8), [Ecclesiastes 7:20](#passage-ecclesiastes-7-20)
 
@@ -252,7 +250,7 @@ References: [1 John 1:8](#passage-1-john-1-8), [Ecclesiastes 7:20](#passage-eccl
 
 ### God the Holy Trinity
 
-*Laine addition.* These passages locate **god the holy trinity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god the holy trinity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 13:14](#passage-2-corinthians-13-14), [Genesis 1:1-3](#passage-genesis-1-1-3), [John 1:1-3](#passage-john-1-1-3), [Matthew 28:19](#passage-matthew-28-19), [Matthew 3:16-17](#passage-matthew-3-16-17), [Numbers 6:24-26](#passage-numbers-6-24-26)
 
@@ -260,7 +258,7 @@ References: [2 Corinthians 13:14](#passage-2-corinthians-13-14), [Genesis 1:1-3]
 
 ### The Attributes of God
 
-*Laine addition.* These passages locate **the attributes of god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the attributes of god** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 4:8](#passage-1-john-4-8), [1 Timothy 1:17](#passage-1-timothy-1-17), [2 Timothy 2:13](#passage-2-timothy-2-13), [Deuteronomy 32:4](#passage-deuteronomy-32-4), [Isaiah 6:3](#passage-isaiah-6-3), [Jeremiah 23:24](#passage-jeremiah-23-24), [John 4:24](#passage-john-4-24), [Malachi 3:6](#passage-malachi-3-6), [Matthew 19:26](#passage-matthew-19-26), [Psalm 116:5](#passage-psalm-116-5), [Psalm 139:1-4](#passage-psalm-139-1-4), [Psalm 145:9](#passage-psalm-145-9)
 
@@ -268,7 +266,7 @@ References: [1 John 4:8](#passage-1-john-4-8), [1 Timothy 1:17](#passage-1-timot
 
 ### The First Commandment
 
-*Laine addition.* These passages locate **the first commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the first commandment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 20:1-3](#passage-exodus-20-1-3), [Exodus 20:4](#passage-exodus-20-4), [Exodus 20:5](#passage-exodus-20-5), [John 3:16](#passage-john-3-16)
 
@@ -276,7 +274,7 @@ References: [Exodus 20:1-3](#passage-exodus-20-1-3), [Exodus 20:4](#passage-exod
 
 ### Unbelief and False Worship
 
-*Laine addition.* These passages locate **unbelief and false worship** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **unbelief and false worship** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Samuel 28](#passage-1-samuel-28), [John 10:22-30](#passage-john-10-22-30), [John 5:19-23](#passage-john-5-19-23), [John 5:39-47](#passage-john-5-39-47), [Psalm 14:1](#passage-psalm-14-1), [Psalm 53:1](#passage-psalm-53-1), [Romans 1:16-25](#passage-romans-1-16-25)
 
@@ -284,7 +282,7 @@ References: [1 Samuel 28](#passage-1-samuel-28), [John 10:22-30](#passage-john-1
 
 ### The Two Ways
 
-*Laine addition.* These passages locate **the two ways** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the two ways** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 1](#passage-psalm-1)
 
@@ -713,18 +711,18 @@ References: [Psalm 1](#passage-psalm-1)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Luke 12:13-14 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Luke 12:13-14 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Isaiah 45:20. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Isaiah 45:20. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

@@ -8,7 +8,6 @@ title: "Hallowed Be Thy Name: The First Petition"
 
 
 
-## Svebilius and Luther
 
 **13. Why is God called Father in this prayer?**
 
@@ -96,13 +95,12 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
-## Laine supplementary teaching
 
 <a id="rg-04-2-1-the-lord-s-prayer-the-first-petition-001"></a>
 
 ### Ask, Seek, Knock
 
-*Laine addition.* These passages locate **ask, seek, knock** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **ask, seek, knock** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 11:9-13](#passage-luke-11-9-13)
 
@@ -110,7 +108,7 @@ References: [Luke 11:9-13](#passage-luke-11-9-13)
 
 ### The Name Not to Be Misused
 
-*Laine addition.* These passages locate **the name not to be misused** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the name not to be misused** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 20:7](#passage-exodus-20-7)
 
@@ -118,7 +116,7 @@ References: [Exodus 20:7](#passage-exodus-20-7)
 
 ### God Puts His Name Upon His People
 
-*Laine addition.* These passages locate **god puts his name upon his people** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god puts his name upon his people** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 20:24](#passage-exodus-20-24), [Isaiah 42:8](#passage-isaiah-42-8), [Matthew 18:20](#passage-matthew-18-20), [Numbers 6:23-27](#passage-numbers-6-23-27), [Psalm 9:1-2](#passage-psalm-9-1-2)
 
@@ -126,7 +124,7 @@ References: [Exodus 20:24](#passage-exodus-20-24), [Isaiah 42:8](#passage-isaiah
 
 ### Taught in Truth and Purity
 
-*Laine addition.* These passages locate **taught in truth and purity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **taught in truth and purity** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Jeremiah 23:28](#passage-jeremiah-23-28), [John 17:17](#passage-john-17-17)
 
@@ -134,7 +132,7 @@ References: [Jeremiah 23:28](#passage-jeremiah-23-28), [John 17:17](#passage-joh
 
 ### Let Your Light Shine
 
-*Laine addition.* These passages locate **let your light shine** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **let your light shine** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 4:1](#passage-ephesians-4-1), [Luke 19:1-9](#passage-luke-19-1-9), [Matthew 5:16](#passage-matthew-5-16)
 
@@ -142,7 +140,7 @@ References: [Ephesians 4:1](#passage-ephesians-4-1), [Luke 19:1-9](#passage-luke
 
 ### Speaking Falsely in God's Name
 
-*Laine addition.* These passages locate **speaking falsely in god's name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **speaking falsely in god's name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Jeremiah 23:31](#passage-jeremiah-23-31)
 
@@ -150,7 +148,7 @@ References: [Jeremiah 23:31](#passage-jeremiah-23-31)
 
 ### God's Name Blasphemed Because of Us
 
-*Laine addition.* These passages locate **god's name blasphemed because of us** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god's name blasphemed because of us** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Romans 2:23-24](#passage-romans-2-23-24)
 
@@ -158,7 +156,7 @@ References: [Romans 2:23-24](#passage-romans-2-23-24)
 
 ### Correcting with Gentleness
 
-*Laine addition.* These passages locate **correcting with gentleness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **correcting with gentleness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Timothy 2:23-25](#passage-2-timothy-2-23-25), [Galatians 6:1](#passage-galatians-6-1)
 
@@ -166,7 +164,7 @@ References: [2 Timothy 2:23-25](#passage-2-timothy-2-23-25), [Galatians 6:1](#pa
 
 ### Holding Firm to Sound Doctrine
 
-*Laine addition.* These passages locate **holding firm to sound doctrine** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **holding firm to sound doctrine** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Titus 1:9](#passage-titus-1-9), [Titus 3:10](#passage-titus-3-10)
 
@@ -174,7 +172,7 @@ References: [Titus 1:9](#passage-titus-1-9), [Titus 3:10](#passage-titus-3-10)
 
 ### How Majestic Is Your Name
 
-*Laine addition.* These passages locate **how majestic is your name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **how majestic is your name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 8](#passage-psalm-8)
 
@@ -297,18 +295,18 @@ References: [Psalm 8](#passage-psalm-8)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Luke 11:9-13 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Luke 11:9-13 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Exodus 20:7. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Exodus 20:7. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

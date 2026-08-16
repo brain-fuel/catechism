@@ -8,7 +8,6 @@ title: "The Sabbath and God’s Word: The Third Commandment"
 
 
 
-## Svebilius and Luther
 
 **29. What does it mean to keep the day of rest holy?**
 
@@ -136,13 +135,12 @@ Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the i
 
 Answer: God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
 
-## Laine supplementary teaching
 
 <a id="rg-02-3-the-third-commandment-001"></a>
 
 ### The One Thing Needful
 
-*Laine addition.* These passages locate **the one thing needful** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the one thing needful** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 10:38-42](#passage-luke-10-38-42)
 
@@ -150,7 +148,7 @@ References: [Luke 10:38-42](#passage-luke-10-38-42)
 
 ### Remember the Sabbath Day
 
-*Laine addition.* These passages locate **remember the sabbath day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **remember the sabbath day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 20:8-11](#passage-exodus-20-8-11), [Matthew 6:24-34](#passage-matthew-6-24-34)
 
@@ -158,7 +156,7 @@ References: [Exodus 20:8-11](#passage-exodus-20-8-11), [Matthew 6:24-34](#passag
 
 ### The Sabbath and Redemption
 
-*Laine addition.* These passages locate **the sabbath and redemption** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the sabbath and redemption** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Deuteronomy 5:12](#passage-deuteronomy-5-12), [Deuteronomy 5:15](#passage-deuteronomy-5-15)
 
@@ -166,7 +164,7 @@ References: [Deuteronomy 5:12](#passage-deuteronomy-5-12), [Deuteronomy 5:15](#p
 
 ### Sabbath Rest and Holy Days
 
-*Laine addition.* These passages locate **sabbath rest and holy days** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **sabbath rest and holy days** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Deuteronomy 5:13-14](#passage-deuteronomy-5-13-14), [Deuteronomy 6](#passage-deuteronomy-6), [Exodus 23:12](#passage-exodus-23-12), [Genesis 2:3](#passage-genesis-2-3), [Isaiah 61](#passage-isaiah-61), [Leviticus 23](#passage-leviticus-23), [Leviticus 25](#passage-leviticus-25)
 
@@ -174,7 +172,7 @@ References: [Deuteronomy 5:13-14](#passage-deuteronomy-5-13-14), [Deuteronomy 6]
 
 ### Not Neglecting to Gather
 
-*Laine addition.* These passages locate **not neglecting to gather** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **not neglecting to gather** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Hebrews 10:25](#passage-hebrews-10-25)
 
@@ -182,7 +180,7 @@ References: [Hebrews 10:25](#passage-hebrews-10-25)
 
 ### Hearing the Preached Word
 
-*Laine addition.* These passages locate **hearing the preached word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **hearing the preached word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Samuel 15:10-23](#passage-1-samuel-15-10-23), [1 Timothy 4:11-16](#passage-1-timothy-4-11-16), [John 8:42-47](#passage-john-8-42-47), [Luke 10:16](#passage-luke-10-16)
 
@@ -190,7 +188,7 @@ References: [1 Samuel 15:10-23](#passage-1-samuel-15-10-23), [1 Timothy 4:11-16]
 
 ### Delighting in God's Word
 
-*Laine addition.* These passages locate **delighting in god's word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **delighting in god's word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 3:16](#passage-colossians-3-16), [Luke 2:8-20](#passage-luke-2-8-20), [Psalm 1](#passage-psalm-1), [Psalm 119:105](#passage-psalm-119-105)
 
@@ -198,7 +196,7 @@ References: [Colossians 3:16](#passage-colossians-3-16), [Luke 2:8-20](#passage-
 
 ### Devotion to the Word
 
-*Laine addition.* These passages locate **devotion to the word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **devotion to the word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 17:10-11](#passage-acts-17-10-11), [Acts 2:42](#passage-acts-2-42), [Luke 10:38-42](#passage-luke-10-38-42), [Luke 11:28](#passage-luke-11-28), [Psalm 26:8](#passage-psalm-26-8)
 
@@ -206,7 +204,7 @@ References: [Acts 17:10-11](#passage-acts-17-10-11), [Acts 2:42](#passage-acts-2
 
 ### The Sabbath Fulfilled in Christ
 
-*Laine addition.* These passages locate **the sabbath fulfilled in christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the sabbath fulfilled in christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 2:16-17](#passage-colossians-2-16-17)
 
@@ -214,7 +212,7 @@ References: [Colossians 2:16-17](#passage-colossians-2-16-17)
 
 ### Entering God's Rest
 
-*Laine addition.* These passages locate **entering god's rest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **entering god's rest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Hebrews 4:1](#passage-hebrews-4-1), [Hebrews 4:10](#passage-hebrews-4-10), [Mark 6:30-31](#passage-mark-6-30-31)
 
@@ -222,7 +220,7 @@ References: [Hebrews 4:1](#passage-hebrews-4-1), [Hebrews 4:10](#passage-hebrews
 
 ### Rest in the Lord
 
-*Laine addition.* These passages locate **rest in the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **rest in the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Hebrews 4:1-13](#passage-hebrews-4-1-13), [Mark 4:35-41](#passage-mark-4-35-41), [Psalm 127:2](#passage-psalm-127-2)
 
@@ -230,7 +228,7 @@ References: [Hebrews 4:1-13](#passage-hebrews-4-1-13), [Mark 4:35-41](#passage-m
 
 ### Come to Me and Rest
 
-*Laine addition.* These passages locate **come to me and rest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **come to me and rest** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 5:1-17](#passage-john-5-1-17), [John 7:14-24](#passage-john-7-14-24), [Matthew 11:28](#passage-matthew-11-28), [Psalm 23](#passage-psalm-23), [Revelation 14:13](#passage-revelation-14-13)
 
@@ -238,7 +236,7 @@ References: [John 5:1-17](#passage-john-5-1-17), [John 7:14-24](#passage-john-7-
 
 ### The Word Dwelling in Us
 
-*Laine addition.* These passages locate **the word dwelling in us** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the word dwelling in us** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 4:4-5](#passage-1-timothy-4-4-5), [Colossians 3:16](#passage-colossians-3-16), [Psalm 119:11-13](#passage-psalm-119-11-13)
 
@@ -246,7 +244,7 @@ References: [1 Timothy 4:4-5](#passage-1-timothy-4-4-5), [Colossians 3:16](#pass
 
 ### The Lord's Day
 
-*Laine addition.* These passages locate **the lord's day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the lord's day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 20:7](#passage-acts-20-7), [Colossians 3:15-17](#passage-colossians-3-15-17), [John 20:19-31](#passage-john-20-19-31)
 
@@ -254,7 +252,7 @@ References: [Acts 20:7](#passage-acts-20-7), [Colossians 3:15-17](#passage-colos
 
 ### Lord of the Sabbath
 
-*Laine addition.* These passages locate **lord of the sabbath** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **lord of the sabbath** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Matthew 12:1-8](#passage-matthew-12-1-8), [Romans 14:5-6](#passage-romans-14-5-6)
 
@@ -262,7 +260,7 @@ References: [Matthew 12:1-8](#passage-matthew-12-1-8), [Romans 14:5-6](#passage-
 
 ### The Means of Grace
 
-*Laine addition.* These passages locate **the means of grace** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the means of grace** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 10:16](#passage-1-corinthians-10-16), [1 John 2:2](#passage-1-john-2-2), [2 Thessalonians 2:14](#passage-2-thessalonians-2-14), [Acts 10:43](#passage-acts-10-43), [Acts 20:28](#passage-acts-20-28), [Isaiah 55:10-11](#passage-isaiah-55-10-11), [John 10:16](#passage-john-10-16), [Matthew 28:18-20](#passage-matthew-28-18-20)
 
@@ -270,7 +268,7 @@ References: [1 Corinthians 10:16](#passage-1-corinthians-10-16), [1 John 2:2](#p
 
 ### Gathering on the Lord's Day
 
-*Laine addition.* These passages locate **gathering on the lord's day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **gathering on the lord's day** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 16:1-2](#passage-1-corinthians-16-1-2), [Acts 20:7](#passage-acts-20-7), [Isaiah 66:23](#passage-isaiah-66-23), [Jeremiah 6:10](#passage-jeremiah-6-10), [John 8:47](#passage-john-8-47), [Luke 10:16](#passage-luke-10-16), [Luke 24:1](#passage-luke-24-1), [Luke 4:16](#passage-luke-4-16)
 
@@ -278,7 +276,7 @@ References: [1 Corinthians 16:1-2](#passage-1-corinthians-16-1-2), [Acts 20:7](#
 
 ### The Assembly of the Saints
 
-*Laine addition.* These passages locate **the assembly of the saints** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the assembly of the saints** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 3:16](#passage-colossians-3-16), [Hebrews 10:25](#passage-hebrews-10-25), [Hebrews 12:22-24](#passage-hebrews-12-22-24)
 
@@ -286,7 +284,7 @@ References: [Colossians 3:16](#passage-colossians-3-16), [Hebrews 10:25](#passag
 
 ### The Word Forever Settled
 
-*Laine addition.* These passages locate **the word forever settled** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the word forever settled** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 119:89-96](#passage-psalm-119-89-96)
 
@@ -655,18 +653,18 @@ References: [Psalm 119:89-96](#passage-psalm-119-89-96)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Luke 10:38-42 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Luke 10:38-42 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Exodus 20:8-11. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Exodus 20:8-11. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

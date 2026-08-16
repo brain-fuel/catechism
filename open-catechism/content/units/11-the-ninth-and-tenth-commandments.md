@@ -8,7 +8,6 @@ title: "Contentment and Holy Desire: The Ninth and Tenth Commandments"
 
 
 
-## Svebilius and Luther
 
 **69. How does the Law make us aware of sin?**
 
@@ -122,13 +121,12 @@ Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the i
 
 Answer: God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
 
-## Laine supplementary teaching
 
 <a id="rg-02-9-10-the-ninth-and-tenth-commandments-001"></a>
 
 ### Ahab Covets Naboth's Vineyard
 
-*Laine addition.* These passages locate **ahab covets naboth's vineyard** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **ahab covets naboth's vineyard** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Kings 21:1-16](#passage-1-kings-21-1-16)
 
@@ -136,7 +134,7 @@ References: [1 Kings 21:1-16](#passage-1-kings-21-1-16)
 
 ### The Root of Coveting
 
-*Laine addition.* These passages locate **the root of coveting** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the root of coveting** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [James 4:1-2](#passage-james-4-1-2), [Romans 7:8](#passage-romans-7-8)
 
@@ -144,7 +142,7 @@ References: [James 4:1-2](#passage-james-4-1-2), [Romans 7:8](#passage-romans-7-
 
 ### Greed for More
 
-*Laine addition.* These passages locate **greed for more** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **greed for more** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Isaiah 5:8](#passage-isaiah-5-8), [Micah 2:1-2](#passage-micah-2-1-2)
 
@@ -152,7 +150,7 @@ References: [Isaiah 5:8](#passage-isaiah-5-8), [Micah 2:1-2](#passage-micah-2-1-
 
 ### Coveting What Belongs to Another
 
-*Laine addition.* These passages locate **coveting what belongs to another** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **coveting what belongs to another** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Samuel 11:2-4](#passage-2-samuel-11-2-4), [2 Samuel 15:1-6](#passage-2-samuel-15-1-6), [Ephesians 5:3](#passage-ephesians-5-3)
 
@@ -160,7 +158,7 @@ References: [2 Samuel 11:2-4](#passage-2-samuel-11-2-4), [2 Samuel 15:1-6](#pass
 
 ### Contentment
 
-*Laine addition.* These passages locate **contentment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **contentment** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 6:8-10](#passage-1-timothy-6-8-10), [Hebrews 13:5-6](#passage-hebrews-13-5-6), [Philippians 4:11-13](#passage-philippians-4-11-13), [Proverbs 30:8-9](#passage-proverbs-30-8-9)
 
@@ -168,7 +166,7 @@ References: [1 Timothy 6:8-10](#passage-1-timothy-6-8-10), [Hebrews 13:5-6](#pas
 
 ### Regarding Others' Interests
 
-*Laine addition.* These passages locate **regarding others' interests** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **regarding others' interests** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Philippians 2:4](#passage-philippians-2-4)
 
@@ -176,7 +174,7 @@ References: [Philippians 2:4](#passage-philippians-2-4)
 
 ### The Lord Provides
 
-*Laine addition.* These passages locate **the lord provides** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the lord provides** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Proverbs 10:3](#passage-proverbs-10-3)
 
@@ -184,7 +182,7 @@ References: [Proverbs 10:3](#passage-proverbs-10-3)
 
 ### God Satisfies the Longing Soul
 
-*Laine addition.* These passages locate **god satisfies the longing soul** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god satisfies the longing soul** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 107:6-9](#passage-psalm-107-6-9)
 
@@ -192,7 +190,7 @@ References: [Psalm 107:6-9](#passage-psalm-107-6-9)
 
 ### Desire That Leads to Sin
 
-*Laine addition.* These passages locate **desire that leads to sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **desire that leads to sin** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 3:5](#passage-colossians-3-5), [James 1:13-15](#passage-james-1-13-15)
 
@@ -200,7 +198,7 @@ References: [Colossians 3:5](#passage-colossians-3-5), [James 1:13-15](#passage-
 
 ### Delight in the Lord
 
-*Laine addition.* These passages locate **delight in the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **delight in the lord** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Philippians 4:8](#passage-philippians-4-8), [Psalm 119:35-36](#passage-psalm-119-35-36), [Psalm 37:4](#passage-psalm-37-4)
 
@@ -208,7 +206,7 @@ References: [Philippians 4:8](#passage-philippians-4-8), [Psalm 119:35-36](#pass
 
 ### Do Not Fret
 
-*Laine addition.* These passages locate **do not fret** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **do not fret** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 37](#passage-psalm-37)
 
@@ -343,18 +341,18 @@ References: [Psalm 37](#passage-psalm-37)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read 1 Kings 21:1-16 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read 1 Kings 21:1-16 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read James 4:1-2. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read James 4:1-2. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

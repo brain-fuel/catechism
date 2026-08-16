@@ -8,7 +8,6 @@ title: "The Lord’s Prayer"
 
 
 
-## Svebilius and Luther
 
 **1. What is prayer?**
 
@@ -96,13 +95,12 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
-## Laine supplementary teaching
 
 <a id="rg-04-0-the-lord-s-prayer-001"></a>
 
 ### The Meditation of My Heart
 
-*Laine addition.* These passages locate **the meditation of my heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the meditation of my heart** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 19:14](#passage-psalm-19-14)
 
@@ -110,7 +108,7 @@ References: [Psalm 19:14](#passage-psalm-19-14)
 
 ### Give Thanks Without Ceasing
 
-*Laine addition.* These passages locate **give thanks without ceasing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **give thanks without ceasing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Thessalonians 5:17-18](#passage-1-thessalonians-5-17-18), [Psalm 105:1](#passage-psalm-105-1)
 
@@ -118,7 +116,7 @@ References: [1 Thessalonians 5:17-18](#passage-1-thessalonians-5-17-18), [Psalm 
 
 ### Ask in Faith, Without Doubting
 
-*Laine addition.* These passages locate **ask in faith, without doubting** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **ask in faith, without doubting** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [James 1:6-7](#passage-james-1-6-7), [John 16:24](#passage-john-16-24), [Matthew 21:22](#passage-matthew-21-22)
 
@@ -126,7 +124,7 @@ References: [James 1:6-7](#passage-james-1-6-7), [John 16:24](#passage-john-16-2
 
 ### Pray Then Like This
 
-*Laine addition.* These passages locate **pray then like this** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **pray then like this** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Matthew 6:9](#passage-matthew-6-9)
 
@@ -134,7 +132,7 @@ References: [Matthew 6:9](#passage-matthew-6-9)
 
 ### Jesus Prays the Psalms
 
-*Laine addition.* These passages locate **jesus prays the psalms** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **jesus prays the psalms** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 10](#passage-john-10), [Luke 23:46](#passage-luke-23-46), [Matthew 21:16](#passage-matthew-21-16), [Matthew 22:44](#passage-matthew-22-44), [Matthew 27:46](#passage-matthew-27-46), [Psalm 110:1](#passage-psalm-110-1), [Psalm 22:1](#passage-psalm-22-1), [Psalm 23](#passage-psalm-23), [Psalm 31:5](#passage-psalm-31-5), [Psalm 8:2](#passage-psalm-8-2), [Psalm 95](#passage-psalm-95)
 
@@ -142,7 +140,7 @@ References: [John 10](#passage-john-10), [Luke 23:46](#passage-luke-23-46), [Mat
 
 ### The Psalms Teach Us to Pray
 
-*Laine addition.* These passages locate **the psalms teach us to pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the psalms teach us to pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 10](#passage-psalm-10), [Psalm 118](#passage-psalm-118), [Psalm 136](#passage-psalm-136), [Psalm 22](#passage-psalm-22), [Psalm 51](#passage-psalm-51), [Psalm 82](#passage-psalm-82)
 
@@ -150,7 +148,7 @@ References: [Psalm 10](#passage-psalm-10), [Psalm 118](#passage-psalm-118), [Psa
 
 ### How God Answers Prayer
 
-*Laine addition.* These passages locate **how god answers prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **how god answers prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 12:8-9](#passage-2-corinthians-12-8-9), [Isaiah 65:24](#passage-isaiah-65-24)
 
@@ -158,7 +156,7 @@ References: [2 Corinthians 12:8-9](#passage-2-corinthians-12-8-9), [Isaiah 65:24
 
 ### Faith That Keeps Asking
 
-*Laine addition.* These passages locate **faith that keeps asking** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **faith that keeps asking** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Exodus 3:7-10](#passage-exodus-3-7-10), [Luke 18:1-8](#passage-luke-18-1-8), [Matthew 8:5-13](#passage-matthew-8-5-13), [Matthew 9:1-8](#passage-matthew-9-1-8)
 
@@ -166,7 +164,7 @@ References: [Exodus 3:7-10](#passage-exodus-3-7-10), [Luke 18:1-8](#passage-luke
 
 ### Interceding for Others
 
-*Laine addition.* These passages locate **interceding for others** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **interceding for others** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 2:1-2](#passage-1-timothy-2-1-2), [Acts 7:60](#passage-acts-7-60), [Genesis 18:23-32](#passage-genesis-18-23-32), [Hebrews 9:27](#passage-hebrews-9-27), [Luke 18:13](#passage-luke-18-13), [Luke 23:34](#passage-luke-23-34), [Matthew 15:22-28](#passage-matthew-15-22-28), [Matthew 5:44](#passage-matthew-5-44)
 
@@ -174,7 +172,7 @@ References: [1 Timothy 2:1-2](#passage-1-timothy-2-1-2), [Acts 7:60](#passage-ac
 
 ### Praying Alone and Together
 
-*Laine addition.* These passages locate **praying alone and together** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **praying alone and together** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Timothy 2:8](#passage-1-timothy-2-8), [Acts 12:5](#passage-acts-12-5), [Luke 5:16](#passage-luke-5-16), [Matthew 6:6](#passage-matthew-6-6)
 
@@ -182,7 +180,7 @@ References: [1 Timothy 2:8](#passage-1-timothy-2-8), [Acts 12:5](#passage-acts-1
 
 ### The Rhythm of Daily Prayer
 
-*Laine addition.* These passages locate **the rhythm of daily prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the rhythm of daily prayer** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Thessalonians 5:17-18](#passage-1-thessalonians-5-17-18), [Acts 2:46-3:1](#passage-acts-2-46-3-1), [Luke 18:1](#passage-luke-18-1), [Psalm 119:164](#passage-psalm-119-164), [Psalm 50:15](#passage-psalm-50-15), [Psalm 65:8](#passage-psalm-65-8)
 
@@ -190,7 +188,7 @@ References: [1 Thessalonians 5:17-18](#passage-1-thessalonians-5-17-18), [Acts 2
 
 ### The Spirit Helps Us Pray
 
-*Laine addition.* These passages locate **the spirit helps us pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the spirit helps us pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Romans 8:26](#passage-romans-8-26)
 
@@ -198,7 +196,7 @@ References: [Romans 8:26](#passage-romans-8-26)
 
 ### Lord, Teach Us to Pray
 
-*Laine addition.* These passages locate **lord, teach us to pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **lord, teach us to pray** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 11:1-4](#passage-luke-11-1-4), [Matthew 6:7-13](#passage-matthew-6-7-13)
 
@@ -507,18 +505,18 @@ References: [Luke 11:1-4](#passage-luke-11-1-4), [Matthew 6:7-13](#passage-matth
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Psalm 19:14 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Psalm 19:14 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read 1 Thessalonians 5:17-18. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read 1 Thessalonians 5:17-18. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

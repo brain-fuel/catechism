@@ -8,7 +8,6 @@ title: "Benefits and Promises of Baptism"
 
 
 
-## Svebilius and Luther
 
 **10. What does it mean to baptize in the name of the Father and of the Son and of the Holy Ghost?**
 
@@ -74,13 +73,12 @@ Answer: It signifies that the old Adam in us should, by daily contrition and rep
 
 Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are buried with Christ by baptism into death, that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
-## Laine supplementary teaching
 
 <a id="rg-05-1-2-the-benefits-and-promises-of-baptism-001"></a>
 
 ### The Promise at Pentecost
 
-*Laine addition.* These passages locate **the promise at pentecost** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the promise at pentecost** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 2:1-14](#passage-acts-2-1-14), [Acts 2:29-41](#passage-acts-2-29-41), [Acts 2:38-39](#passage-acts-2-38-39), [Galatians 5:5](#passage-galatians-5-5)
 
@@ -88,7 +86,7 @@ References: [Acts 2:1-14](#passage-acts-2-1-14), [Acts 2:29-41](#passage-acts-2-
 
 ### Baptized for the Forgiveness of Sins
 
-*Laine addition.* These passages locate **baptized for the forgiveness of sins** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **baptized for the forgiveness of sins** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 22:16](#passage-acts-22-16), [Acts 2:38](#passage-acts-2-38)
 
@@ -96,7 +94,7 @@ References: [Acts 22:16](#passage-acts-22-16), [Acts 2:38](#passage-acts-2-38)
 
 ### Buried and Raised with Christ
 
-*Laine addition.* These passages locate **buried and raised with christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **buried and raised with christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 1:13-14](#passage-colossians-1-13-14), [Colossians 2:11-12](#passage-colossians-2-11-12), [Romans 6:3-5](#passage-romans-6-3-5)
 
@@ -104,7 +102,7 @@ References: [Colossians 1:13-14](#passage-colossians-1-13-14), [Colossians 2:11-
 
 ### Baptism Now Saves You
 
-*Laine addition.* These passages locate **baptism now saves you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **baptism now saves you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 3:21](#passage-1-peter-3-21), [Titus 3:5-7](#passage-titus-3-5-7)
 
@@ -112,7 +110,7 @@ References: [1 Peter 3:21](#passage-1-peter-3-21), [Titus 3:5-7](#passage-titus-
 
 ### Reconciliation Poured Out in Baptism
 
-*Laine addition.* These passages locate **reconciliation poured out in baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **reconciliation poured out in baptism** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 2:2](#passage-1-john-2-2), [2 Corinthians 5:18-19](#passage-2-corinthians-5-18-19), [Titus 3:5-7](#passage-titus-3-5-7)
 
@@ -120,7 +118,7 @@ References: [1 John 2:2](#passage-1-john-2-2), [2 Corinthians 5:18-19](#passage-
 
 ### Washed, Sanctified, Justified
 
-*Laine addition.* These passages locate **washed, sanctified, justified** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **washed, sanctified, justified** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 6:11](#passage-1-corinthians-6-11)
 
@@ -128,7 +126,7 @@ References: [1 Corinthians 6:11](#passage-1-corinthians-6-11)
 
 ### The Promise Is for You and Your Children
 
-*Laine addition.* These passages locate **the promise is for you and your children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the promise is for you and your children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Acts 16:25-34](#passage-acts-16-25-34), [Acts 2:39](#passage-acts-2-39)
 
@@ -136,7 +134,7 @@ References: [Acts 16:25-34](#passage-acts-16-25-34), [Acts 2:39](#passage-acts-2
 
 ### Baptized into One Body
 
-*Laine addition.* These passages locate **baptized into one body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **baptized into one body** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 12:12-13](#passage-1-corinthians-12-12-13), [Acts 2:41-47](#passage-acts-2-41-47), [Ephesians 2:19-22](#passage-ephesians-2-19-22), [Galatians 3:27-29](#passage-galatians-3-27-29)
 
@@ -144,7 +142,7 @@ References: [1 Corinthians 12:12-13](#passage-1-corinthians-12-12-13), [Acts 2:4
 
 ### Born Again Through the Living Word
 
-*Laine addition.* These passages locate **born again through the living word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **born again through the living word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 1:23](#passage-1-peter-1-23), [Luke 23:39-43](#passage-luke-23-39-43)
 
@@ -152,7 +150,7 @@ References: [1 Peter 1:23](#passage-1-peter-1-23), [Luke 23:39-43](#passage-luke
 
 ### Take Heed Lest You Fall
 
-*Laine addition.* These passages locate **take heed lest you fall** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **take heed lest you fall** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 10:12](#passage-1-corinthians-10-12), [1 Timothy 4:1](#passage-1-timothy-4-1), [Luke 8:13](#passage-luke-8-13)
 
@@ -160,7 +158,7 @@ References: [1 Corinthians 10:12](#passage-1-corinthians-10-12), [1 Timothy 4:1]
 
 ### No Condemnation in Christ
 
-*Laine addition.* These passages locate **no condemnation in christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **no condemnation in christ** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Romans 8:1](#passage-romans-8-1)
 
@@ -168,7 +166,7 @@ References: [Romans 8:1](#passage-romans-8-1)
 
 ### Heal Me, for I Have Sinned Against You
 
-*Laine addition.* These passages locate **heal me, for i have sinned against you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **heal me, for i have sinned against you** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 41](#passage-psalm-41)
 
@@ -339,18 +337,18 @@ References: [Psalm 41](#passage-psalm-41)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Acts 2:1-14 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Acts 2:1-14 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Acts 2:29-41. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Acts 2:29-41. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

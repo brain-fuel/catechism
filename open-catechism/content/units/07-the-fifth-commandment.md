@@ -8,7 +8,6 @@ title: "Protecting Our Neighbor’s Life: The Fifth Commandment"
 
 
 
-## Svebilius and Luther
 
 **44. How is this promise to be understood?**
 
@@ -130,13 +129,12 @@ Answer: Thus saith the Lord: I the Lord thy God am a jealous God, visiting the i
 
 Answer: God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
 
-## Laine supplementary teaching
 
 <a id="rg-02-5-the-fifth-commandment-001"></a>
 
 ### The Good Samaritan
 
-*Laine addition.* These passages locate **the good samaritan** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the good samaritan** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 10:25-37](#passage-luke-10-25-37)
 
@@ -144,7 +142,7 @@ References: [Luke 10:25-37](#passage-luke-10-25-37)
 
 ### Bloodshed and Murder
 
-*Laine addition.* These passages locate **bloodshed and murder** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **bloodshed and murder** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Samuel 11:15](#passage-2-samuel-11-15), [Genesis 4:8](#passage-genesis-4-8), [Psalm 10:8](#passage-psalm-10-8)
 
@@ -152,7 +150,7 @@ References: [2 Samuel 11:15](#passage-2-samuel-11-15), [Genesis 4:8](#passage-ge
 
 ### Malice and Cruelty
 
-*Laine addition.* These passages locate **malice and cruelty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **malice and cruelty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 4:31-32](#passage-ephesians-4-31-32), [Exodus 1](#passage-exodus-1), [Exodus 5](#passage-exodus-5), [Genesis 37:33-35](#passage-genesis-37-33-35), [Proverbs 24:1-2](#passage-proverbs-24-1-2)
 
@@ -160,7 +158,7 @@ References: [Ephesians 4:31-32](#passage-ephesians-4-31-32), [Exodus 1](#passage
 
 ### Neglecting the Needy
 
-*Laine addition.* These passages locate **neglecting the needy** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **neglecting the needy** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Deuteronomy 15:11](#passage-deuteronomy-15-11), [Matthew 25:42-43](#passage-matthew-25-42-43)
 
@@ -168,7 +166,7 @@ References: [Deuteronomy 15:11](#passage-deuteronomy-15-11), [Matthew 25:42-43](
 
 ### Anger and Hatred
 
-*Laine addition.* These passages locate **anger and hatred** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **anger and hatred** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 4:19-21](#passage-1-john-4-19-21), [Matthew 5:22](#passage-matthew-5-22), [Romans 12:19](#passage-romans-12-19)
 
@@ -176,7 +174,7 @@ References: [1 John 4:19-21](#passage-1-john-4-19-21), [Matthew 5:22](#passage-m
 
 ### Mercy Toward Enemies
 
-*Laine addition.* These passages locate **mercy toward enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **mercy toward enemies** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Samuel 26:1-12](#passage-1-samuel-26-1-12), [Genesis 14:12-16](#passage-genesis-14-12-16), [Luke 10:33-35](#passage-luke-10-33-35), [Romans 12:20](#passage-romans-12-20)
 
@@ -184,7 +182,7 @@ References: [1 Samuel 26:1-12](#passage-1-samuel-26-1-12), [Genesis 14:12-16](#p
 
 ### Defending and Forgiving
 
-*Laine addition.* These passages locate **defending and forgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **defending and forgiving** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Genesis 45:1-16](#passage-genesis-45-1-16), [Proverbs 31:8-9](#passage-proverbs-31-8-9)
 
@@ -192,7 +190,7 @@ References: [Genesis 45:1-16](#passage-genesis-45-1-16), [Proverbs 31:8-9](#pass
 
 ### Compassion and Kindness
 
-*Laine addition.* These passages locate **compassion and kindness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **compassion and kindness** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 3:12-14](#passage-colossians-3-12-14), [Ephesians 4:32](#passage-ephesians-4-32), [Luke 17:11-19](#passage-luke-17-11-19), [Matthew 15:32](#passage-matthew-15-32)
 
@@ -200,7 +198,7 @@ References: [Colossians 3:12-14](#passage-colossians-3-12-14), [Ephesians 4:32](
 
 ### The Sanctity of Life
 
-*Laine addition.* These passages locate **the sanctity of life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the sanctity of life** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Peter 1:18-19](#passage-1-peter-1-18-19), [Exodus 22:26-27](#passage-exodus-22-26-27), [Genesis 9:5-6](#passage-genesis-9-5-6), [Mark 10:45](#passage-mark-10-45), [Matthew 22:39](#passage-matthew-22-39), [Matthew 5:42-45](#passage-matthew-5-42-45)
 
@@ -208,7 +206,7 @@ References: [1 Peter 1:18-19](#passage-1-peter-1-18-19), [Exodus 22:26-27](#pass
 
 ### Life in the Womb
 
-*Laine addition.* These passages locate **life in the womb** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **life in the womb** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Jeremiah 1:5](#passage-jeremiah-1-5), [Luke 1:41-44](#passage-luke-1-41-44), [Psalm 139:16](#passage-psalm-139-16)
 
@@ -216,7 +214,7 @@ References: [Jeremiah 1:5](#passage-jeremiah-1-5), [Luke 1:41-44](#passage-luke-
 
 ### My Times Are in God's Hands
 
-*Laine addition.* These passages locate **my times are in god's hands** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **my times are in god's hands** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 31:14-15](#passage-psalm-31-14-15)
 
@@ -224,7 +222,7 @@ References: [Psalm 31:14-15](#passage-psalm-31-14-15)
 
 ### Not Provoking Family
 
-*Laine addition.* These passages locate **not provoking family** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **not provoking family** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Colossians 3:19](#passage-colossians-3-19), [Colossians 3:21](#passage-colossians-3-21)
 
@@ -232,7 +230,7 @@ References: [Colossians 3:19](#passage-colossians-3-19), [Colossians 3:21](#pass
 
 ### The Body as God's Temple
 
-*Laine addition.* These passages locate **the body as god's temple** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the body as god's temple** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 6:19-20](#passage-1-corinthians-6-19-20)
 
@@ -240,7 +238,7 @@ References: [1 Corinthians 6:19-20](#passage-1-corinthians-6-19-20)
 
 ### One Human Family
 
-*Laine addition.* These passages locate **one human family** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **one human family** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 3:15](#passage-1-john-3-15), [Acts 17:26](#passage-acts-17-26), [James 2:1](#passage-james-2-1), [Revelation 5:9](#passage-revelation-5-9)
 
@@ -248,7 +246,7 @@ References: [1 John 3:15](#passage-1-john-3-15), [Acts 17:26](#passage-acts-17-2
 
 ### Fearfully Made
 
-*Laine addition.* These passages locate **fearfully made** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **fearfully made** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 6:19-20](#passage-1-corinthians-6-19-20), [Psalm 139:13-14](#passage-psalm-139-13-14)
 
@@ -256,7 +254,7 @@ References: [1 Corinthians 6:19-20](#passage-1-corinthians-6-19-20), [Psalm 139:
 
 ### God's Way of Escape
 
-*Laine addition.* These passages locate **god's way of escape** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god's way of escape** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 10:13](#passage-1-corinthians-10-13)
 
@@ -264,7 +262,7 @@ References: [1 Corinthians 10:13](#passage-1-corinthians-10-13)
 
 ### Forgiveness for the Guilty
 
-*Laine addition.* These passages locate **forgiveness for the guilty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **forgiveness for the guilty** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 John 1:7-2:2](#passage-1-john-1-7-2-2), [Psalm 103:10-12](#passage-psalm-103-10-12), [Psalm 130:3-4](#passage-psalm-130-3-4)
 
@@ -272,7 +270,7 @@ References: [1 John 1:7-2:2](#passage-1-john-1-7-2-2), [Psalm 103:10-12](#passag
 
 ### The Sword of Authority
 
-*Laine addition.* These passages locate **the sword of authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the sword of authority** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Romans 13:4](#passage-romans-13-4)
 
@@ -280,7 +278,7 @@ References: [Romans 13:4](#passage-romans-13-4)
 
 ### God Hears the Afflicted
 
-*Laine addition.* These passages locate **god hears the afflicted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **god hears the afflicted** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 10](#passage-psalm-10)
 
@@ -577,18 +575,18 @@ References: [Psalm 10](#passage-psalm-10)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Luke 10:25-37 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Luke 10:25-37 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read 2 Samuel 11:15. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read 2 Samuel 11:15. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 

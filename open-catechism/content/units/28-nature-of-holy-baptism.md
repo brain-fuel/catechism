@@ -8,7 +8,6 @@ title: "Nature of Holy Baptism"
 
 
 
-## Svebilius and Luther
 
 **1. What is a sacrament?**
 
@@ -78,13 +77,12 @@ Answer: It signifies that the old Adam in us should, by daily contrition and rep
 
 Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are buried with Christ by baptism into death, that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
-## Laine supplementary teaching
 
 <a id="rg-05-1-1-the-nature-of-holy-baptism-001"></a>
 
 ### Baptizing in the Triune Name
 
-*Laine addition.* These passages locate **baptizing in the triune name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **baptizing in the triune name** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Matthew 28:19](#passage-matthew-28-19)
 
@@ -92,7 +90,7 @@ References: [Matthew 28:19](#passage-matthew-28-19)
 
 ### The Baptism of Jesus
 
-*Laine addition.* These passages locate **the baptism of jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the baptism of jesus** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Matthew 3:13-17](#passage-matthew-3-13-17)
 
@@ -100,7 +98,7 @@ References: [Matthew 3:13-17](#passage-matthew-3-13-17)
 
 ### The Word Means Washing
 
-*Laine addition.* These passages locate **the word means washing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the word means washing** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Mark 7:4](#passage-mark-7-4)
 
@@ -108,7 +106,7 @@ References: [Mark 7:4](#passage-mark-7-4)
 
 ### The Washing of Water with the Word
 
-*Laine addition.* These passages locate **the washing of water with the word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the washing of water with the word** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Ephesians 5:25-26](#passage-ephesians-5-25-26)
 
@@ -116,7 +114,7 @@ References: [Ephesians 5:25-26](#passage-ephesians-5-25-26)
 
 ### Baptizing and Teaching
 
-*Laine addition.* These passages locate **baptizing and teaching** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **baptizing and teaching** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Matthew 28:19-20](#passage-matthew-28-19-20)
 
@@ -124,7 +122,7 @@ References: [Matthew 28:19-20](#passage-matthew-28-19-20)
 
 ### Where His Name Is, There He Blesses
 
-*Laine addition.* These passages locate **where his name is, there he blesses** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **where his name is, there he blesses** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Kings 8:27-30](#passage-1-kings-8-27-30), [1 Kings 9:3](#passage-1-kings-9-3), [Exodus 20:24](#passage-exodus-20-24), [Numbers 6:23-27](#passage-numbers-6-23-27)
 
@@ -132,7 +130,7 @@ References: [1 Kings 8:27-30](#passage-1-kings-8-27-30), [1 Kings 9:3](#passage-
 
 ### Stewards of the Mysteries
 
-*Laine addition.* These passages locate **stewards of the mysteries** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **stewards of the mysteries** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 4:1](#passage-1-corinthians-4-1)
 
@@ -140,7 +138,7 @@ References: [1 Corinthians 4:1](#passage-1-corinthians-4-1)
 
 ### Households Baptized
 
-*Laine addition.* These passages locate **households baptized** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **households baptized** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [1 Corinthians 1:16](#passage-1-corinthians-1-16), [Acts 16:13-15](#passage-acts-16-13-15), [Acts 16:25-34](#passage-acts-16-25-34), [Acts 2:38-39](#passage-acts-2-38-39), [Matthew 28:19](#passage-matthew-28-19)
 
@@ -148,7 +146,7 @@ References: [1 Corinthians 1:16](#passage-1-corinthians-1-16), [Acts 16:13-15](#
 
 ### Born in Sin, Born Again
 
-*Laine addition.* These passages locate **born in sin, born again** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **born in sin, born again** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [John 3:5-6](#passage-john-3-5-6), [Psalm 51:5](#passage-psalm-51-5), [Romans 5:12](#passage-romans-5-12), [Romans 5:18-19](#passage-romans-5-18-19)
 
@@ -156,7 +154,7 @@ References: [John 3:5-6](#passage-john-3-5-6), [Psalm 51:5](#passage-psalm-51-5)
 
 ### The Faith of Little Children
 
-*Laine addition.* These passages locate **the faith of little children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the faith of little children** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Luke 10](#passage-luke-10), [Luke 10:21](#passage-luke-10-21), [Luke 18](#passage-luke-18), [Luke 18:16](#passage-luke-18-16), [Luke 1:13-17](#passage-luke-1-13-17), [Luke 1:39-45](#passage-luke-1-39-45), [Matthew 18:6](#passage-matthew-18-6), [Matthew 21:16](#passage-matthew-21-16), [Psalm 22:9-10](#passage-psalm-22-9-10), [Psalm 71:5-6](#passage-psalm-71-5-6)
 
@@ -164,7 +162,7 @@ References: [Luke 10](#passage-luke-10), [Luke 10:21](#passage-luke-10-21), [Luk
 
 ### Baptized Without Delay
 
-*Laine addition.* These passages locate **baptized without delay** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **baptized without delay** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [2 Corinthians 6:2](#passage-2-corinthians-6-2), [Acts 16:25-33](#passage-acts-16-25-33), [Acts 2:38-41](#passage-acts-2-38-41), [Acts 8:26-39](#passage-acts-8-26-39), [Luke 18:15-17](#passage-luke-18-15-17), [Mark 10:13-15](#passage-mark-10-13-15), [Matthew 28:19-20](#passage-matthew-28-19-20)
 
@@ -172,7 +170,7 @@ References: [2 Corinthians 6:2](#passage-2-corinthians-6-2), [Acts 16:25-33](#pa
 
 ### The Lord Will Fulfill His Purpose for Me
 
-*Laine addition.* These passages locate **the lord will fulfill his purpose for me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
+These passages locate **the lord will fulfill his purpose for me** within the whole counsel of Holy Scripture. Read them together, distinguish Law and Gospel, and ask how Christ’s gifts shape faith and love.
 
 References: [Psalm 138](#passage-psalm-138)
 
@@ -391,18 +389,18 @@ References: [Psalm 138](#passage-psalm-138)
 ## Bible narratives
 
 ### The word heard
-*Laine addition.* Read Matthew 28:19 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
+Read Matthew 28:19 in its biblical setting. Observe who speaks, what God does, and what promise or command the text gives. This account adds no dialogue or motive beyond the cited text.
 
 ### Faith in daily trial
-*Laine addition.* Read Matthew 3:13-17. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
+Read Matthew 3:13-17. Attend to the actual persons, actions, and outcome named by Scripture; let the inspired text govern the retelling.
 
 ## Church narratives
 
 ### The catechism in the household
-*Laine addition.* Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
+Luther’s 1529 preface directs the head of the household to teach the catechism simply. Lutheran homes have therefore joined fixed words, Scripture, prayer, and patient repetition.
 
 ### Confession under pressure
-*Laine addition.* The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
+The confessors at Augsburg in 1530 publicly set forth the evangelical faith before emperor and estates. Their confession shows that doctrine is spoken for the consolation and unity of consciences, not kept as private opinion.
 
 ## Illustrations
 
