@@ -19,7 +19,7 @@ normalize() {
   perl -pi -e 's/\[([^]\n]+)\]\(#[^)]+\)/$1/g' "$dst"
 }
 
-for src in content/prefaces.md content/units/*.md content/divine-service.md content/divine-name.md; do normalize "$src"; done
+for src in content/prefaces.md content/enchiridion.md content/units/*.md content/divine-service.md content/divine-name.md; do normalize "$src"; done
 
 for src in "$work/full"/*.md; do
   base=$(basename "$src")
@@ -45,12 +45,12 @@ complete() { out=$1; shift; build_pdf "$out" "Svebilius/Laine Edition · Complet
 short() { out=$1; shift; build_pdf "${out}-short" "Short Reading Edition · Passages over 50 words and two verses referenced" "$@"; }
 passages() { out=$1; shift; build_pdf "${out}-passages" "Scripture Passages Companion · Full texts omitted from the short edition" "$@"; }
 
-complete open-catechism "$work/full/prefaces.md" "$work/full"/[0-9][0-9]-*.md "$work/full/divine-service.md" "$work/full/divine-name.md"
-short open-catechism "$work/short/prefaces.md" "$work/short"/[0-9][0-9]-*.md "$work/short/divine-service.md" "$work/short/divine-name.md"
+complete open-catechism "$work/full/prefaces.md" "$work/full/enchiridion.md" "$work/full"/[0-9][0-9]-*.md "$work/full/divine-service.md" "$work/full/divine-name.md"
+short open-catechism "$work/short/prefaces.md" "$work/full/enchiridion.md" "$work/short"/[0-9][0-9]-*.md "$work/short/divine-service.md" "$work/short/divine-name.md"
 passages open-catechism "$work/passages"/[0-9][0-9]-*.md "$work/full/divine-name.md"
 
-complete 01-foundations-commandments "$work/full/prefaces.md" "$work/full"/0[1-9]-*.md "$work/full"/1[0-2]-*.md "$work/full/divine-name.md"
-short 01-foundations-commandments "$work/short/prefaces.md" "$work/short"/0[1-9]-*.md "$work/short"/1[0-2]-*.md "$work/short/divine-name.md"
+complete 01-foundations-commandments "$work/full/prefaces.md" "$work/full/enchiridion.md" "$work/full"/0[1-9]-*.md "$work/full"/1[0-2]-*.md "$work/full/divine-name.md"
+short 01-foundations-commandments "$work/short/prefaces.md" "$work/full/enchiridion.md" "$work/short"/0[1-9]-*.md "$work/short"/1[0-2]-*.md "$work/short/divine-name.md"
 passages 01-foundations-commandments "$work/passages"/0[1-9]-*.md "$work/passages"/1[0-2]-*.md "$work/full/divine-name.md"
 
 complete 02-creed "$work/full"/1[3-6]-*.md "$work/full/divine-name.md"

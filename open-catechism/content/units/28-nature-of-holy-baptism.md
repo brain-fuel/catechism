@@ -79,26 +79,6 @@ Answer: Baptism is not simple water only, but it is water comprehended in God's 
 
 Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Matthew: Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you.
 
-**What gifts or benefits does Baptism bestow?**
-
-Answer: Baptism works forgiveness of sins, delivers from death and the devil, and gives everlasting life to all who believe the words and promises of God.
-
-**What are those words and promises of God?**
-
-Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Mark: He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
-
-**How can water do such great things?**
-
-Answer: It is not the water indeed that does them, but the Word of God which is in and with the water, and faith, which trusts such Word of God in the water. For without the Word of God the water is simple water and no Baptism; but with the Word of God it is a Baptism, that is, a gracious water of life and a washing of regeneration in the Holy Ghost, as St. Paul says in his Epistle to Titus, in the third chapter: According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Savior; that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is a faithful saying.
-
-**What does Baptism signify?**
-
-Answer: It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts; and that again a new man should daily come forth and arise, who shall live before God in righteousness and purity forever.
-
-**Where is this written?**
-
-Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are buried with Christ by baptism into death, that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
-
 
 <a id="rg-05-1-1-the-nature-of-holy-baptism-001"></a>
 

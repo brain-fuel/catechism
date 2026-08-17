@@ -352,19 +352,7 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 **What does this mean?**
 
-Answer: I believe that God has made me together with all His other creatures; that He has given me my body and soul, eyes, ears, and all my other members, my reason, faculties, and understanding, and still preserves them all; that He also gives me abundantly, day by day, food and clothing, home and house, spouse and children, field, cattle, and all that I need for the nourishment of my body; that He still protects and defends me, and wards off and turns away all dangers and perils from me. And all this He does out of pure fatherly and divine goodness and mercy, without any merit or worthiness in me; for all of which it is my duty to thank, praise, honor, hear, and serve Him. This is most certainly true. The Second Article
-
-Of the Son of God and of Redemption. I believe in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Ghost, born of the Virgin Mary; suffered under Pontius Pilate, was crucified, dead, and buried; He descended into hell; the third day He rose again from the dead; He ascended into heaven, and sitteth on the right hand of God the Father Almighty; from thence He shall come to judge the quick and the dead.
-
-**What does this mean?**
-
-Answer: I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord, who has redeemed me, a lost and condemned man, and delivered and freed me from all sin, from death, and from the power of the devil; not with gold or silver, but with His holy and precious blood, and with His innocent suffering and death: that I should be His own, and live under Him in His kingdom as His subject, and serve Him in everlasting righteousness, innocence, and blessedness; even as He is risen from the dead, and lives and reigns to all eternity. This is most certainly true. The Third Article
-
-Of the Holy Ghost and of Sanctification. I believe in the Holy Ghost, one holy Christian Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting. Amen.
-
-**What does this mean?**
-
-Answer: I believe and confess that I cannot by my own reason or strength believe in Jesus Christ my Lord, or come to Him; but the Holy Ghost has called me by the Gospel, enlightened me with His gifts, kept me in the true faith, sanctified and preserved me; even as He calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and preserves it in Jesus Christ through the one true faith; in which Christian Church He daily and richly forgives me and all believers all our sins, and at the last day will raise up me and all the dead, and give unto me and all believers in Christ everlasting life. This is most certainly true.
+Answer: I believe that God has made me together with all His other creatures; that He has given me my body and soul, eyes, ears, and all my other members, my reason, faculties, and understanding, and still preserves them all; that He also gives me abundantly, day by day, food and clothing, home and house, spouse and children, field, cattle, and all that I need for the nourishment of my body; that He still protects and defends me, and wards off and turns away all dangers and perils from me. And all this He does out of pure fatherly and divine goodness and mercy, without any merit or worthiness in me; for all of which it is my duty to thank, praise, honor, hear, and serve Him. This is most certainly true.
 
 
 <a id="rg-03-1-1-the-apostles-creed-first-article-part-1-001"></a>

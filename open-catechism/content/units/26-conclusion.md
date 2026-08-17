@@ -50,57 +50,10 @@ THE FOURTH CHIEF PART
 
 ### Luther’s Small Catechism
 
-As the head of the family should teach it in a simple way to his household. Our Father, which art in heaven.
 
-**What does this mean?**
+The Conclusion
 
-Answer: By this preface God would draw us to believe firmly that He is truly our Father, and we are His dear children, that we may with all boldness and confidence pray unto Him, as dear children ask their parents for what they need. The First Petition. Hallowed be thy name.
-
-**What does this mean?**
-
-Answer: God's name is indeed holy in itself; but we pray in this petition that it may be hallowed among us also.
-
-**How and when does this happen?**
-
-Answer: When the Word of God is taught clearly and purely, and we, as the children of God, live holy lives according to it; to this help us, dear heavenly Father! But whosoever teaches and lives otherwise than the Word of God directs, profanes the name of God among us; from this preserve us, heavenly Father! The Second Petition. Thy kingdom come.
-
-**What does this mean?**
-
-Answer: The kingdom of God comes indeed of itself, without our prayer; but we pray in this petition that it may come unto us also.
-
-**How and when does this happen?**
-
-Answer: When our heavenly Father gives us His Holy Ghost, so that by His grace we believe His Word, and live holy lives here in this world, and hereafter in heaven forever. The Third Petition. Thy will be done on earth as it is in heaven.
-
-**What does this mean?**
-
-Answer: The good and gracious will of God is done indeed without our prayer; but we pray in this petition that it may be done among us also.
-
-**How and when does this happen?**
-
-Answer: When God restrains and breaks the will of our flesh and every evil counsel, and shatters and brings to nothing all the devices of the devil and the world, which will not let us hallow God's name and will not let His kingdom come unto us; and when He keeps us steadfast in His Word and in the true faith unto the end. Thus His good and gracious will is done. The Fourth Petition. Give us this day our daily bread.
-
-**What does this mean?**
-
-Answer: God indeed gives daily bread to all men, even to the wicked, without our prayer; but we pray in this petition that He would make us to know it, and to receive our daily bread with thanksgiving, understanding that the bread by which we are fed is His gift.
-
-**What is meant by daily bread?**
-
-Answer: All that pertains to the nourishment and need of the body; such as food, drink, clothing, home and homestead, field, cattle, money and goods, a good spouse, obedient children, faithful household, godly and good rulers, good government, seasonable weather, peace, health, good order, honorable conduct, good friends, faithful neighbors, and the like. The Fifth Petition. And forgive us our trespasses, as we forgive them that trespass against us.
-
-**What does this mean?**
-
-Answer: We pray in this petition that our heavenly Father would not regard our sins, nor for their sake deny our prayer; for we are worthy of none of the things for which we pray, neither have we deserved them; but that He would grant them all to us by grace, for we sin daily in many ways and deserve nothing but punishment. And so we too will heartily forgive, and gladly do good to, those who sin against us. The Sixth Petition. And lead us not into temptation.
-
-**What does this mean?**
-
-Answer: God indeed tempts no one; but we pray in this petition that God would guard and keep us, so that the devil, the world, and our flesh may not deceive us, nor lead us into unbelief, despair, and other great and shameful sins; and though we be assailed by them, that we may at last overcome and gain the victory. The Seventh Petition. But deliver us from evil.
-
-**What does this mean?**
-
-Answer: We pray in this petition, as in a summary, that our dear heavenly Father would deliver us from every evil, of body and soul, of property and honor, and that
-
-at last, when our hour of death shall come, He would grant us a blessed end, and graciously take us from this vale of tears to Himself in heaven. For thine is the kingdom, and the power, and the glory, for ever. Amen.
+For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 **What does “Amen” mean?**
 

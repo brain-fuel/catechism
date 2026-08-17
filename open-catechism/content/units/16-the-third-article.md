@@ -284,33 +284,13 @@ THE THIRD CHIEF PART
 
 As the head of the family should teach it in a simple way to his household.
 
-The First Article
-
-Of God the Father and of Creation. I believe in God the Father Almighty, Maker of heaven and earth.
-
-**What does this mean?**
-
-Answer: I believe that God has made me together with all His other creatures; that He has given me my body and soul, eyes, ears, and all my other members, my reason, faculties, and understanding, and still preserves them all; that He also gives me abundantly, day by day, food and clothing, home and house, spouse and children, field, cattle, and all that I need for the nourishment of my body; that He still protects and defends me, and wards off and turns away all dangers and perils from me. And all this He does out of pure fatherly and divine goodness and mercy, without any merit or worthiness in me; for all of which it is my duty to thank, praise, honor, hear, and serve Him. This is most certainly true. The Second Article
-
-Of the Son of God and of Redemption. I believe in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Ghost, born of the Virgin Mary; suffered under Pontius Pilate, was crucified, dead, and buried; He descended into hell; the third day He rose again from the dead; He ascended into heaven, and sitteth on the right hand of God the Father Almighty; from thence He shall come to judge the quick and the dead.
-
-**What does this mean?**
-
-Answer: I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord, who has redeemed me, a lost and condemned man, and delivered and freed me from all sin, from death, and from the power of the devil; not with gold or silver, but with His holy and precious blood, and with His innocent suffering and death: that I should be His own, and live under Him in His kingdom as His subject, and serve Him in everlasting righteousness, innocence, and blessedness; even as He is risen from the dead, and lives and reigns to all eternity. This is most certainly true. The Third Article
+The Third Article
 
 Of the Holy Ghost and of Sanctification. I believe in the Holy Ghost, one holy Christian Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting. Amen.
 
 **What does this mean?**
 
 Answer: I believe and confess that I cannot by my own reason or strength believe in Jesus Christ my Lord, or come to Him; but the Holy Ghost has called me by the Gospel, enlightened me with His gifts, kept me in the true faith, sanctified and preserved me; even as He calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and preserves it in Jesus Christ through the one true faith; in which Christian Church He daily and richly forgives me and all believers all our sins, and at the last day will raise up me and all the dead, and give unto me and all believers in Christ everlasting life. This is most certainly true.
-
-## The Athanasian Creed
-
-
-
-Whosoever will be saved, before all things it is necessary that he hold the true, universal, Christian faith. Which faith except everyone keep whole and undefiled, without doubt he shall perish everlastingly. And the true, universal, Christian faith is this: that we worship one God in Trinity, and Trinity in Unity; neither confounding the persons, nor dividing the divine substance. For there is one person of the Father, another of the Son, and another of the Holy Ghost. But the Father, and the Son, and the Holy Ghost are one God, equal in glory, and co-equal in eternal majesty. Such as the Father is, such is the Son, and such is also the Holy Ghost. The Father uncreated, the Son uncreated, and the Holy Ghost uncreated. The Father immeasurable, the Son immeasurable, and the Holy Ghost immeasurable. The Father eternal, the Son eternal, and the Holy Ghost eternal. And yet they are not three eternals, but one eternal. As also there are not three uncreated, nor three immeasurable, but one uncreated and one immeasurable. So likewise the Father is almighty, the Son almighty, and the Holy Ghost almighty. And yet they are not three almighties, but one almighty. So the Father is God, the Son is God, and the Holy Ghost is God. And yet they are not three Gods, but one God. So likewise the Father is Lord, the Son is Lord, and the Holy Ghost is Lord. And yet they are not three Lords, but one Lord. For as the Christian truth compels us to acknowledge every person by Himself to be God and Lord, so are we forbidden by the universal Christian faith to say that there are three Gods, or three Lords. The Father is made of none, neither created, nor begotten. The Son is of the Father alone, not made, nor created, but begotten. The Holy Ghost is of the Father and of the Son, neither made, nor created, nor begotten, but proceeding. So there is one Father, not three Fathers; one Son, not three Sons; one Holy Ghost, not three Holy Ghosts. And in this Trinity none is before or after another; none is greater or less than another. But all three persons are co-eternal together, and altogether equal. So that in all things, as has been said before, three persons in one Godhead, and one God in three persons, are to be worshiped. He therefore that will be saved must thus think of the Trinity. Furthermore, it is necessary to everlasting salvation that we also believe faithfully that our Lord Jesus Christ became man. Now the true faith is this: that we believe and confess that our Lord Jesus Christ, the Son of God, is God and man. God, of the substance of the Father, begotten before all ages; and man, of the substance of His mother, born in time. Perfect God and perfect man, of a reasonable soul and human flesh subsisting. Equal to the Father as touching His Godhead, and inferior to the Father as touching His manhood. Who, although He is God and man, yet He is not two, but one Christ. One; not by conversion of the Godhead into flesh, but by taking of the manhood into God. One altogether; not by confusion of the two natures, but by unity of person. For as the reasonable soul and flesh is one man, so God and man is one Christ. Who suffered for our salvation, descended into hell, rose again the third day from the dead. He ascended into heaven, He sits on the right hand of God the Father Almighty; from thence He shall come to judge the quick and the dead. At whose coming all men shall rise again with their bodies, and shall give account of their own works. And they that have done good shall go into life everlasting; but they that have done evil, into everlasting fire. This is the true, universal, Christian faith; which except a man believe faithfully and firmly, he cannot be saved.
-
-In the name of Jesus! IN THE NAME OF JESUS!
 
 
 
