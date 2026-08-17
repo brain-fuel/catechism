@@ -23,7 +23,7 @@ Naboth would not surrender his fathers’ inheritance, but Ahab coveted it and J
 
 **How does the Law make us aware of sin?**
 
-Answer: When we rightly examine the Ten Commandments of God and test our life, our thoughts, our words, and our deeds by them, then we perceive and find therein, as in the spiritual mirror of the soul, our faults and our lacks; for in many things we all come short.
+**Answer:** When we rightly examine the Ten Commandments of God and test our life, our thoughts, our words, and our deeds by them, then we perceive and find therein, as in the spiritual mirror of the soul, our faults and our lacks; for in many things we all come short.
 
 > **Rom. 3:12**
 >
@@ -32,7 +32,7 @@ Answer: When we rightly examine the Ten Commandments of God and test our life, o
 
 **What is sin?**
 
-Answer: All that strives against the Law of God, angers God, and deserves punishment.
+**Answer:** All that strives against the Law of God, angers God, and deserves punishment.
 
 > **1 John 3:4**
 >
@@ -49,11 +49,11 @@ Answer: All that strives against the Law of God, angers God, and deserves punish
 
 **How many kinds of sin are there?**
 
-Answer: Of two kinds: original sin and actual sin.
+**Answer:** Of two kinds: original sin and actual sin.
 
 **What is original sin?**
 
-Answer: Original sin is not only the loss of the image of God, but also the whole corrupted nature of man and evil desire, in which he is conceived and born a child of wrath, without the fear of God and true faith; in short, it is the powerlessness to all good and the desire to all evil.
+**Answer:** Original sin is not only the loss of the image of God, but also the whole corrupted nature of man and evil desire, in which he is conceived and born a child of wrath, without the fear of God and true faith; in short, it is the powerlessness to all good and the desire to all evil.
 
 > **Rom. 7:18**
 >
@@ -62,7 +62,7 @@ Answer: Original sin is not only the loss of the image of God, but also the whol
 
 **Why is it called original sin?**
 
-Answer: Because we have inherited it through natural birth from our forefathers Adam and Eve.
+**Answer:** Because we have inherited it through natural birth from our forefathers Adam and Eve.
 
 > **Ps. 51:5**
 >
@@ -83,7 +83,7 @@ Thou shalt not covet thy neighbour’s house.
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not by craft seek after our neighbor's inheritance, property, or house, nor obtain it for ourselves under the pretense of any right or the color of law, but help him that he may keep and enjoy it.
+**Answer:** We should fear and love God, so that we do not by craft seek after our neighbor's inheritance, property, or house, nor obtain it for ourselves under the pretense of any right or the color of law, but help him that he may keep and enjoy it.
 
 ### The Tenth Commandment
 
@@ -91,7 +91,7 @@ Thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidser
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not draw away or entice from our neighbor his wife or his servants, but rather help them to stay and do what they are bound to do.
+**Answer:** We should fear and love God, so that we do not draw away or entice from our neighbor his wife or his servants, but rather help them to stay and do what they are bound to do.
 
 
 <a id="rg-02-9-10-the-ninth-and-tenth-commandments-001"></a>

@@ -23,7 +23,7 @@ Moses set before Israel life and good, death and evil, and called the people to 
 
 **What is actual sin?**
 
-Answer: All the sin that we think, speak, and do against God and our neighbour, which comes of original sin.
+**Answer:** All the sin that we think, speak, and do against God and our neighbour, which comes of original sin.
 
 > **Matt. 15:19**
 >
@@ -32,7 +32,7 @@ Answer: All the sin that we think, speak, and do against God and our neighbour, 
 
 **What was the cause of the sin of our forefathers?**
 
-Answer: The envy of the devil, and they themselves, who misused their free will, believed the serpent rather than God, and ate of the fruit of the forbidden tree.
+**Answer:** The envy of the devil, and they themselves, who misused their free will, believed the serpent rather than God, and ate of the fruit of the forbidden tree.
 
 > **Gen. 3:1,4,6**
 >
@@ -41,7 +41,7 @@ Answer: The envy of the devil, and they themselves, who misused their free will,
 
 **Does God punish children for the evil deeds of their parents?**
 
-Answer: The punishment indeed falls especially upon him who commits the sin; but if children are partakers in their parents' sins and walk the same way, then they must suffer both for their own sins and for their parents'.
+**Answer:** The punishment indeed falls especially upon him who commits the sin; but if children are partakers in their parents' sins and walk the same way, then they must suffer both for their own sins and for their parents'.
 
 > **Ezek. 18:4**
 >
@@ -50,7 +50,7 @@ Answer: The punishment indeed falls especially upon him who commits the sin; but
 
 **What punishment do those deserve who break the Law of God?**
 
-Answer: The wrath of God, the curse, all manner of afflictions, death, and eternal damnation.
+**Answer:** The wrath of God, the curse, all manner of afflictions, death, and eternal damnation.
 
 > **Deut. 27:26**
 >
@@ -63,7 +63,7 @@ Answer: The wrath of God, the curse, all manner of afflictions, death, and etern
 
 **How can we be delivered from all such evil?**
 
-Answer: This the Confession of Faith, or the articles of faith, and the Gospel teach.
+**Answer:** This the Confession of Faith, or the articles of faith, and the Gospel teach.
 
 ### Luther’s Small Catechism
 
@@ -73,11 +73,11 @@ As the head of the family should teach them in a simple way to his household.
 
 **What does God say of all these commandments?**
 
-Answer: Thus saith Yahweh: I Yahweh thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
+**Answer:** Thus saith Yahweh: I Yahweh thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
 
 **What does this mean?**
 
-Answer: God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
+**Answer:** God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
 
 
 <a id="rg-02-11-the-close-of-the-commandments-001"></a>

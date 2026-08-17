@@ -20,7 +20,7 @@ When a disciple asked Jesus to teach them to pray, He gave them the words beginn
 
 **What is prayer?**
 
-Answer: Prayer is a humble and faithful discourse with God, wherein, according to His will and in the name of Jesus, we ask of Him both spiritual and bodily needs, and also give thanks and praise unto His holy name.
+**Answer:** Prayer is a humble and faithful discourse with God, wherein, according to His will and in the name of Jesus, we ask of Him both spiritual and bodily needs, and also give thanks and praise unto His holy name.
 
 > **John 16:23**
 >
@@ -37,7 +37,7 @@ Answer: Prayer is a humble and faithful discourse with God, wherein, according t
 
 **What should move us to pray?**
 
-Answer: 1. God's commandment; 2. His promise, that He will hear our prayer; 3. Our own need; 4. The power and worth of prayer.
+**Answer:** 1. God's commandment; 2. His promise, that He will hear our prayer; 3. Our own need; 4. The power and worth of prayer.
 
 > **Matt. 7:7**
 >
@@ -54,7 +54,7 @@ Answer: 1. God's commandment; 2. His promise, that He will hear our prayer; 3. O
 
 **How should we pray rightly?**
 
-Answer: With heart and mouth, in spirit and in truth, that is: according to God's will, in humility of heart, in faith, without doubting, in true repentance, and without hypocrisy.
+**Answer:** With heart and mouth, in spirit and in truth, that is: according to God's will, in humility of heart, in faith, without doubting, in true repentance, and without hypocrisy.
 
 > **Matt. 15:8**
 >
@@ -71,7 +71,7 @@ Answer: With heart and mouth, in spirit and in truth, that is: according to God'
 
 **To whom should we pray?**
 
-Answer: None other than the true and most high God in heaven, whereby the worship of all angels, saints, and also of the Virgin Mary is shut out.
+**Answer:** None other than the true and most high God in heaven, whereby the worship of all angels, saints, and also of the Virgin Mary is shut out.
 
 > **Matt. 4:10**
 >
@@ -84,7 +84,7 @@ Answer: None other than the true and most high God in heaven, whereby the worshi
 
 **What should we pray for?**
 
-Answer: For all that redoundeth to God's honour, and likewise for the good of ourselves and of our neighbours, whether it be in spiritual or in bodily things.
+**Answer:** For all that redoundeth to God's honour, and likewise for the good of ourselves and of our neighbours, whether it be in spiritual or in bodily things.
 
 > **John 16:23**
 >
@@ -93,11 +93,11 @@ Answer: For all that redoundeth to God's honour, and likewise for the good of ou
 
 **What do you call spiritual blessings?**
 
-Answer: All that is for the good of the soul and for eternal salvation, such as the forgiveness of sins, faith, hope, patience, the governance of the Holy Ghost, and other things of like kind.
+**Answer:** All that is for the good of the soul and for eternal salvation, such as the forgiveness of sins, faith, hope, patience, the governance of the Holy Ghost, and other things of like kind.
 
 **What are bodily blessings?**
 
-Answer: That which is needful for us in this bodily and temporal life, such as health and soberness, clothing and food, and whatsoever else pertaineth thereto.
+**Answer:** That which is needful for us in this bodily and temporal life, such as health and soberness, clothing and food, and whatsoever else pertaineth thereto.
 
 ### Luther’s Small Catechism
 
@@ -105,7 +105,7 @@ As the head of the family should teach it in a simple way to his household. Our 
 
 **What does this mean?**
 
-Answer: By this preface God would draw us to believe firmly that He is truly our Father, and we are His dear children, that we may with all boldness and confidence pray unto Him, as dear children ask their parents for what they need.
+**Answer:** By this preface God would draw us to believe firmly that He is truly our Father, and we are His dear children, that we may with all boldness and confidence pray unto Him, as dear children ask their parents for what they need.
 
 The First Petition
 
@@ -113,11 +113,11 @@ Hallowed be thy name.
 
 **What does this mean?**
 
-Answer: God's name is indeed holy in itself; but we pray in this petition that it may be hallowed among us also.
+**Answer:** God's name is indeed holy in itself; but we pray in this petition that it may be hallowed among us also.
 
 **How and when does this happen?**
 
-Answer: When the Word of God is taught clearly and purely, and we, as the children of God, live holy lives according to it; to this help us, dear heavenly Father! But whosoever teaches and lives otherwise than the Word of God directs, profanes the name of God among us; from this preserve us, heavenly Father!
+**Answer:** When the Word of God is taught clearly and purely, and we, as the children of God, live holy lives according to it; to this help us, dear heavenly Father! But whosoever teaches and lives otherwise than the Word of God directs, profanes the name of God among us; from this preserve us, heavenly Father!
 
 The Second Petition
 
@@ -125,11 +125,11 @@ Thy kingdom come.
 
 **What does this mean?**
 
-Answer: The kingdom of God comes indeed of itself, without our prayer; but we pray in this petition that it may come unto us also.
+**Answer:** The kingdom of God comes indeed of itself, without our prayer; but we pray in this petition that it may come unto us also.
 
 **How and when does this happen?**
 
-Answer: When our heavenly Father gives us His Holy Ghost, so that by His grace we believe His Word, and live holy lives here in this world, and hereafter in heaven forever.
+**Answer:** When our heavenly Father gives us His Holy Ghost, so that by His grace we believe His Word, and live holy lives here in this world, and hereafter in heaven forever.
 
 The Third Petition
 
@@ -137,11 +137,11 @@ Thy will be done on earth as it is in heaven.
 
 **What does this mean?**
 
-Answer: The good and gracious will of God is done indeed without our prayer; but we pray in this petition that it may be done among us also.
+**Answer:** The good and gracious will of God is done indeed without our prayer; but we pray in this petition that it may be done among us also.
 
 **How and when does this happen?**
 
-Answer: When God restrains and breaks the will of our flesh and every evil counsel, and shatters and brings to nothing all the devices of the devil and the world, which will not let us hallow God's name and will not let His kingdom come unto us; and when He keeps us steadfast in His Word and in the true faith unto the end. Thus His good and gracious will is done.
+**Answer:** When God restrains and breaks the will of our flesh and every evil counsel, and shatters and brings to nothing all the devices of the devil and the world, which will not let us hallow God's name and will not let His kingdom come unto us; and when He keeps us steadfast in His Word and in the true faith unto the end. Thus His good and gracious will is done.
 
 The Fourth Petition
 
@@ -149,11 +149,11 @@ Give us this day our daily bread.
 
 **What does this mean?**
 
-Answer: God indeed gives daily bread to all men, even to the wicked, without our prayer; but we pray in this petition that He would make us to know it, and to receive our daily bread with thanksgiving, understanding that the bread by which we are fed is His gift.
+**Answer:** God indeed gives daily bread to all men, even to the wicked, without our prayer; but we pray in this petition that He would make us to know it, and to receive our daily bread with thanksgiving, understanding that the bread by which we are fed is His gift.
 
 **What is meant by daily bread?**
 
-Answer: All that pertains to the nourishment and need of the body; such as food, drink, clothing, home and homestead, field, cattle, money and goods, a good spouse, obedient children, faithful household, godly and good rulers, good government, seasonable weather, peace, health, good order, honorable conduct, good friends, faithful neighbors, and the like.
+**Answer:** All that pertains to the nourishment and need of the body; such as food, drink, clothing, home and homestead, field, cattle, money and goods, a good spouse, obedient children, faithful household, godly and good rulers, good government, seasonable weather, peace, health, good order, honorable conduct, good friends, faithful neighbors, and the like.
 
 The Fifth Petition
 
@@ -161,7 +161,7 @@ And forgive us our trespasses, as we forgive them that trespass against us.
 
 **What does this mean?**
 
-Answer: We pray in this petition that our heavenly Father would not regard our sins, nor for their sake deny our prayer; for we are worthy of none of the things for which we pray, neither have we deserved them; but that He would grant them all to us by grace, for we sin daily in many ways and deserve nothing but punishment. And so we too will heartily forgive, and gladly do good to, those who sin against us.
+**Answer:** We pray in this petition that our heavenly Father would not regard our sins, nor for their sake deny our prayer; for we are worthy of none of the things for which we pray, neither have we deserved them; but that He would grant them all to us by grace, for we sin daily in many ways and deserve nothing but punishment. And so we too will heartily forgive, and gladly do good to, those who sin against us.
 
 The Sixth Petition
 
@@ -169,7 +169,7 @@ And lead us not into temptation.
 
 **What does this mean?**
 
-Answer: God indeed tempts no one; but we pray in this petition that God would guard and keep us, so that the devil, the world, and our flesh may not deceive us, nor lead us into unbelief, despair, and other great and shameful sins; and though we be assailed by them, that we may at last overcome and gain the victory.
+**Answer:** God indeed tempts no one; but we pray in this petition that God would guard and keep us, so that the devil, the world, and our flesh may not deceive us, nor lead us into unbelief, despair, and other great and shameful sins; and though we be assailed by them, that we may at last overcome and gain the victory.
 
 The Seventh Petition
 
@@ -177,7 +177,7 @@ But deliver us from evil.
 
 **What does this mean?**
 
-Answer: We pray in this petition, as in a summary, that our dear heavenly Father would deliver us from every evil, of body and soul, of property and honor, and that
+**Answer:** We pray in this petition, as in a summary, that our dear heavenly Father would deliver us from every evil, of body and soul, of property and honor, and that
 
 at last, when our hour of death shall come, He would grant us a blessed end, and graciously take us from this vale of tears to Himself in heaven.
 
@@ -187,7 +187,7 @@ For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 **What does “Amen” mean?**
 
-Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
+**Answer:** That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
 
 <a id="rg-04-0-the-lord-s-prayer-001"></a>

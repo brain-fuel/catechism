@@ -23,7 +23,7 @@ At dawn the women brought spices to Jesus’ tomb and found the stone rolled awa
 
 **Are all who are baptized, then, saved?**
 
-Answer: All who keep the covenant of their Baptism, and remain steadfast in faith unto the end, become saved; but the hypocrites, who suffer themselves to be baptized for custom's sake and for temporal profit, unto them it turneth rather to damnation than to salvation.
+**Answer:** All who keep the covenant of their Baptism, and remain steadfast in faith unto the end, become saved; but the hypocrites, who suffer themselves to be baptized for custom's sake and for temporal profit, unto them it turneth rather to damnation than to salvation.
 
 > **Matt. 10:22**
 >
@@ -36,7 +36,7 @@ Answer: All who keep the covenant of their Baptism, and remain steadfast in fait
 
 **Why is Baptism called the washing of regeneration?**
 
-Answer: Because all men, who are conceived and born in sin, are by nature the children of wrath; but through Baptism they are regenerated and become the children of God, cleansed and washed from sin unto eternal life.
+**Answer:** Because all men, who are conceived and born in sin, are by nature the children of wrath; but through Baptism they are regenerated and become the children of God, cleansed and washed from sin unto eternal life.
 
 > **Ps. 51:5**
 >
@@ -53,7 +53,7 @@ Answer: Because all men, who are conceived and born in sin, are by nature the ch
 
 **Why is Baptism called the renewing of the Holy Ghost?**
 
-Answer: Because the Holy Ghost through Baptism reneweth us both in understanding and in will, and giveth us power unto a new life, so that we more and more withstand sin and become meet for good works, which are called the fruits of the Spirit and of faith.
+**Answer:** Because the Holy Ghost through Baptism reneweth us both in understanding and in will, and giveth us power unto a new life, so that we more and more withstand sin and become meet for good works, which are called the fruits of the Spirit and of faith.
 
 > **Gal. 4:6**
 >
@@ -66,11 +66,11 @@ Answer: Because the Holy Ghost through Baptism reneweth us both in understanding
 
 **What is the old Adam?**
 
-Answer: Our corrupt nature and the evil lust born with us, which we have inherited from our forefather Adam.
+**Answer:** Our corrupt nature and the evil lust born with us, which we have inherited from our forefather Adam.
 
 **How is the old Adam drowned and put to death in us?**
 
-Answer: When, through daily contrition and repentance, as in spiritual water, we drown that evil lust, crucify our flesh, and withstand its sinful desires.
+**Answer:** When, through daily contrition and repentance, as in spiritual water, we drown that evil lust, crucify our flesh, and withstand its sinful desires.
 
 > **Gal. 5:24**
 >
@@ -83,7 +83,7 @@ Answer: When, through daily contrition and repentance, as in spiritual water, we
 
 **Are the evil desire and original sin with which we are born completely taken away in Baptism?**
 
-Answer: Sin is indeed taken away in Baptism and forgiven, so that it is no more imputed unto us, neither can it any more condemn us; but it dwelleth nevertheless in us so long as we live, and is not rooted out until death.
+**Answer:** Sin is indeed taken away in Baptism and forgiven, so that it is no more imputed unto us, neither can it any more condemn us; but it dwelleth nevertheless in us so long as we live, and is not rooted out until death.
 
 > **Rom. 7:17,23,24**
 >
@@ -92,7 +92,7 @@ Answer: Sin is indeed taken away in Baptism and forgiven, so that it is no more 
 
 **What is meant by the new man?**
 
-Answer: He that is regenerated of the Holy Ghost, and liveth in righteousness and purity, putteth off the old man, which through lusts corrupteth himself in error, and is diligent to keep faith and a good conscience.
+**Answer:** He that is regenerated of the Holy Ghost, and liveth in righteousness and purity, putteth off the old man, which through lusts corrupteth himself in error, and is diligent to keep faith and a good conscience.
 
 > **Col. 3:10**
 >
@@ -109,7 +109,7 @@ Answer: He that is regenerated of the Holy Ghost, and liveth in righteousness an
 
 **Can a person take comfort in the covenant of Baptism after breaking it and falling into sin again?**
 
-Answer: He can indeed. For although man on his part breaketh the covenant made, and falleth into sin, yet is God faithful and abideth steadfast in His covenant, whereby He again receiveth the sinner into His grace, as often as he turneth and amendeth himself.
+**Answer:** He can indeed. For although man on his part breaketh the covenant made, and falleth into sin, yet is God faithful and abideth steadfast in His covenant, whereby He again receiveth the sinner into His grace, as often as he turneth and amendeth himself.
 
 > **Ezek. 18:21**
 >
@@ -132,11 +132,11 @@ As the head of the family should teach it in a simple way to his household.
 
 **What does Baptism signify?**
 
-Answer: It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts; and that again a new man should daily come forth and arise, who shall live before God in righteousness and purity forever.
+**Answer:** It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts; and that again a new man should daily come forth and arise, who shall live before God in righteousness and purity forever.
 
 **Where is this written?**
 
-Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are buried with Christ by baptism into death, that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
+**Answer:** St. Paul says in his Epistle to the Romans, in the sixth chapter: We are buried with Christ by baptism into death, that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
 
 <a id="rg-05-1-4-what-baptism-signifies-001"></a>

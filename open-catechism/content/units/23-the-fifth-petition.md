@@ -23,7 +23,7 @@ The younger son returned with a confession after wasting his inheritance (Luke 1
 
 **How should we forgive our neighbour?**
 
-Answer: Not with words only, but also from the heart, so that we harbour no secret hatred against him, but wish and do him all good, though he have done us harm; therein following the example of our heavenly Father, who so forgiveth sins that He remembereth them no more.
+**Answer:** Not with words only, but also from the heart, so that we harbour no secret hatred against him, but wish and do him all good, though he have done us harm; therein following the example of our heavenly Father, who so forgiveth sins that He remembereth them no more.
 
 > **Jer. 31:34**
 >
@@ -38,11 +38,11 @@ The sixth petition
 
 **How many kinds of temptation are there?**
 
-Answer: Of two kinds: the one unto evil and unto damnation, the other unto good and unto salvation.
+**Answer:** Of two kinds: the one unto evil and unto damnation, the other unto good and unto salvation.
 
 **Who tempts a person to evil?**
 
-Answer: The devil, who is therefore called the tempter.
+**Answer:** The devil, who is therefore called the tempter.
 
 > **1 Pet. 5:8**
 >
@@ -55,11 +55,11 @@ Answer: The devil, who is therefore called the tempter.
 
 **By what means does he do this?**
 
-Answer: By the world and by our own flesh.
+**Answer:** By the world and by our own flesh.
 
 **How does he tempt us through the world?**
 
-Answer: Sometimes by persecution, sometimes by allurements, and likewise by evil company and offensive examples.
+**Answer:** Sometimes by persecution, sometimes by allurements, and likewise by evil company and offensive examples.
 
 > **Rev. 12:12**
 >
@@ -80,7 +80,7 @@ Answer: Sometimes by persecution, sometimes by allurements, and likewise by evil
 
 **How does he tempt us through our own flesh?**
 
-Answer: He casteth into our heart evil promptings, wicked lusts and desires.
+**Answer:** He casteth into our heart evil promptings, wicked lusts and desires.
 
 > **Gal. 5:17**
 >
@@ -104,7 +104,7 @@ And forgive us our trespasses, as we forgive them that trespass against us.
 
 **What does this mean?**
 
-Answer: We pray in this petition that our heavenly Father would not regard our sins, nor for their sake deny our prayer; for we are worthy of none of the things for which we pray, neither have we deserved them; but that He would grant them all to us by grace, for we sin daily in many ways and deserve nothing but punishment. And so we too will heartily forgive, and gladly do good to, those who sin against us.
+**Answer:** We pray in this petition that our heavenly Father would not regard our sins, nor for their sake deny our prayer; for we are worthy of none of the things for which we pray, neither have we deserved them; but that He would grant them all to us by grace, for we sin daily in many ways and deserve nothing but punishment. And so we too will heartily forgive, and gladly do good to, those who sin against us.
 
 
 <a id="rg-04-2-5-the-lord-s-prayer-the-fifth-petition-001"></a>

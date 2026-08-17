@@ -23,11 +23,11 @@ Acts 8:26–39 tells how Philip met an Ethiopian court official reading Isaiah. 
 
 **Are you a Christian?**
 
-Answer: I am.
+**Answer:** I am.
 
 **Why are you called a Christian?**
 
-Answer: Because I am baptized in the name of the Father and of the Son and of the Holy Ghost, and in baptism have put on Christ, whom I believe and confess to be my Saviour and the author of my salvation.
+**Answer:** Because I am baptized in the name of the Father and of the Son and of the Holy Ghost, and in baptism have put on Christ, whom I believe and confess to be my Saviour and the author of my salvation.
 
 > **Gal. 3:27**
 >
@@ -40,27 +40,27 @@ Answer: Because I am baptized in the name of the Father and of the Son and of th
 
 **How have you learned and come to know this?**
 
-Answer: From the Catechism.
+**Answer:** From the Catechism.
 
 **What is the Catechism?**
 
-Answer: It is a brief instruction in the necessary articles that belong to our Christianity, set forth in questions and answers; or: the Catechism is a brief summary of Christian doctrine, taken from the Holy Scripture and comprised in short chief articles, together with questions and answers.
+**Answer:** It is a brief instruction in the necessary articles that belong to our Christianity, set forth in questions and answers; or: the Catechism is a brief summary of Christian doctrine, taken from the Holy Scripture and comprised in short chief articles, together with questions and answers.
 
 **How many chief articles are there in the Catechism?**
 
-Answer: Six.
+**Answer:** Six.
 
 **What are they?**
 
-Answer: 1. The Ten Commandments of God. 2. The Confession of Faith. 3. The Lord's Prayer. 4. The Sacrament of Baptism. 5. Confession and Absolution. 6. The Lord's Supper, or the Sacrament of the Altar.
+**Answer:** 1. The Ten Commandments of God. 2. The Confession of Faith. 3. The Lord's Prayer. 4. The Sacrament of Baptism. 5. Confession and Absolution. 6. The Lord's Supper, or the Sacrament of the Altar.
 
 **Is there anything else to be found in the Catechism?**
 
-Answer: There are also prayers: morning and evening prayers, graces at meals, and the table of duties.
+**Answer:** There are also prayers: morning and evening prayers, graces at meals, and the table of duties.
 
 **Why is the Catechism also called instruction for children?**
 
-Answer: Because all ought to learn it from childhood, and therein, as the children of God, to exercise themselves all their lives.
+**Answer:** Because all ought to learn it from childhood, and therein, as the children of God, to exercise themselves all their lives.
 
 > **Deut. 6:6,7**
 >
@@ -77,11 +77,11 @@ Answer: Because all ought to learn it from childhood, and therein, as the childr
 
 **Where is the Catechism taken from?**
 
-Answer: From the Holy Scripture.
+**Answer:** From the Holy Scripture.
 
 **What is Holy Scripture?**
 
-Answer: It is the Word of God, which the prophets, evangelists, and apostles, by the working and revelation of the Holy Ghost, have written and proclaimed, for our instruction, comfort, and eternal salvation.
+**Answer:** It is the Word of God, which the prophets, evangelists, and apostles, by the working and revelation of the Holy Ghost, have written and proclaimed, for our instruction, comfort, and eternal salvation.
 
 > **2 Pet. 1:21**
 >
@@ -98,11 +98,11 @@ Answer: It is the Word of God, which the prophets, evangelists, and apostles, by
 
 **When did they write them?**
 
-Answer: The prophets wrote in the Old, but the evangelists and apostles in the New Testament.
+**Answer:** The prophets wrote in the Old, but the evangelists and apostles in the New Testament.
 
 **What does Holy Scripture contain?**
 
-Answer: Two things: the Law and the Gospel.
+**Answer:** Two things: the Law and the Gospel.
 
 <a id="rg-01-what-is-christianity-001"></a>
 

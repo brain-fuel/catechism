@@ -23,7 +23,7 @@ Jesus received the loaves and fishes, gave thanks, and distributed food until th
 
 **Why do we say, “give us our bread”?**
 
-Answer: Because we pray that God would give us our appointed portion, and that we may eat our own bread, which God giveth us in our labour; and not the bread of others in theft, in wrong, and in idleness.
+**Answer:** Because we pray that God would give us our appointed portion, and that we may eat our own bread, which God giveth us in our labour; and not the bread of others in theft, in wrong, and in idleness.
 
 > **Prov. 30:8**
 >
@@ -36,7 +36,7 @@ Answer: Because we pray that God would give us our appointed portion, and that w
 
 **Why do we ask for daily bread?**
 
-Answer: That we may not, with untimely care and doubting, be anxious for the morrow, but be content with that which we have; for each day hath care enough of itself; let each day be content with its own care.
+**Answer:** That we may not, with untimely care and doubting, be anxious for the morrow, but be content with that which we have; for each day hath care enough of itself; let each day be content with its own care.
 
 > **Matt. 6:34**
 >
@@ -45,7 +45,7 @@ Answer: That we may not, with untimely care and doubting, be anxious for the mor
 
 **What is meant by bread?**
 
-Answer: All temporal things which men need for the sustaining of this life, and which are set forth in the Catechism.
+**Answer:** All temporal things which men need for the sustaining of this life, and which are set forth in the Catechism.
 
 > **Gen. 3:19**
 >
@@ -60,7 +60,7 @@ The fifth petition
 
 **What do we ask in this petition?**
 
-Answer: That God would forgive us our sins: that is, for Christ's sake would blot out and forgive all our trespasses, faults and transgressions, whatsoever they may be.
+**Answer:** That God would forgive us our sins: that is, for Christ's sake would blot out and forgive all our trespasses, faults and transgressions, whatsoever they may be.
 
 > **Matt. 18:27**
 >
@@ -73,7 +73,7 @@ Answer: That God would forgive us our sins: that is, for Christ's sake would blo
 
 **Is anyone free from this fault?**
 
-Answer: Not one, — but Christ alone; for we are all sinners, and have nothing whereof to boast before God.
+**Answer:** Not one, — but Christ alone; for we are all sinners, and have nothing whereof to boast before God.
 
 > **Ps. 14:3**
 >
@@ -86,7 +86,7 @@ Answer: Not one, — but Christ alone; for we are all sinners, and have nothing 
 
 **Why are these words added: “as we forgive those who are indebted to us”?**
 
-Answer: Not because we could by our forgiving earn the grace of God and the forgiveness of sins; but Christ would thereby teach us that we should thereby show our due thankfulness, and forgive those who trespass against us, whether they ask it or not, if we would otherwise be heard of God.
+**Answer:** Not because we could by our forgiving earn the grace of God and the forgiveness of sins; but Christ would thereby teach us that we should thereby show our due thankfulness, and forgive those who trespass against us, whether they ask it or not, if we would otherwise be heard of God.
 
 > **Matt. 5:23,24**
 >
@@ -106,11 +106,11 @@ Give us this day our daily bread.
 
 **What does this mean?**
 
-Answer: God indeed gives daily bread to all men, even to the wicked, without our prayer; but we pray in this petition that He would make us to know it, and to receive our daily bread with thanksgiving, understanding that the bread by which we are fed is His gift.
+**Answer:** God indeed gives daily bread to all men, even to the wicked, without our prayer; but we pray in this petition that He would make us to know it, and to receive our daily bread with thanksgiving, understanding that the bread by which we are fed is His gift.
 
 **What is meant by daily bread?**
 
-Answer: All that pertains to the nourishment and need of the body; such as food, drink, clothing, home and homestead, field, cattle, money and goods, a good spouse, obedient children, faithful household, godly and good rulers, good government, seasonable weather, peace, health, good order, honorable conduct, good friends, faithful neighbors, and the like.
+**Answer:** All that pertains to the nourishment and need of the body; such as food, drink, clothing, home and homestead, field, cattle, money and goods, a good spouse, obedient children, faithful household, godly and good rulers, good government, seasonable weather, peace, health, good order, honorable conduct, good friends, faithful neighbors, and the like.
 
 
 <a id="rg-04-2-4-the-lord-s-prayer-the-fourth-petition-001"></a>

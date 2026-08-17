@@ -23,19 +23,19 @@ Peter denied Jesus three times and went out weeping bitterly (Luke 22:54–62). 
 
 **What does the word Confession mean?**
 
-Answer: The confession of sin.
+**Answer:** The confession of sin.
 
 **What does confession involve?**
 
-Answer: When the sinner is aware of his sins, confesses them before God with a penitent heart, and prays for forgiveness for Christ's sake.
+**Answer:** When the sinner is aware of his sins, confesses them before God with a penitent heart, and prays for forgiveness for Christ's sake.
 
 **In what ways is confession of sin made?**
 
-Answer: It is made in common and in particular.
+**Answer:** It is made in common and in particular.
 
 **What do you call general confession?**
 
-Answer: When the whole congregation together confesses its sins in the common worship of God, or when a common distress is at hand.
+**Answer:** When the whole congregation together confesses its sins in the common worship of God, or when a common distress is at hand.
 
 > **Neh. 9:1,2**
 >
@@ -48,11 +48,11 @@ Answer: When the whole congregation together confesses its sins in the common wo
 
 **What do you call private confession?**
 
-Answer: When someone confesses his sins by himself, or alone.
+**Answer:** When someone confesses his sins by himself, or alone.
 
 **How is it done?**
 
-Answer: In many ways: 1. Before God alone, when someone, being alone by himself, or in his own heart, sighs unto God, confesses his sins and prays that they be forgiven, as David, Manasseh, and the publican did: such a confession of sin is always needful, and ought to be made every day. 2. Before the whole congregation; when a public sinner, who has committed a great transgression, confesses and prays forgiveness for his sins; this is called public confession. 3. Before a neighbour whom someone has angered, and from whom he prays forgiveness for his offence. 4. Before the ministers of the Word sins are also confessed, whether all in common or some particular sin that troubles someone's conscience; this is called private confession and disclosure, and no one may make it known.
+**Answer:** In many ways: 1. Before God alone, when someone, being alone by himself, or in his own heart, sighs unto God, confesses his sins and prays that they be forgiven, as David, Manasseh, and the publican did: such a confession of sin is always needful, and ought to be made every day. 2. Before the whole congregation; when a public sinner, who has committed a great transgression, confesses and prays forgiveness for his sins; this is called public confession. 3. Before a neighbour whom someone has angered, and from whom he prays forgiveness for his offence. 4. Before the ministers of the Word sins are also confessed, whether all in common or some particular sin that troubles someone's conscience; this is called private confession and disclosure, and no one may make it known.
 
 > **Ps. 51:6**
 >
@@ -81,11 +81,11 @@ Answer: In many ways: 1. Before God alone, when someone, being alone by himself,
 
 **Is it necessary to confess in this way?**
 
-Answer: It is; not only needful, but also profitable; for from it a man receives comfort in his heart, and peace and rest for his conscience.
+**Answer:** It is; not only needful, but also profitable; for from it a man receives comfort in his heart, and peace and rest for his conscience.
 
 **Must every sin be listed before a minister of the Word?**
 
-Answer: There is no need of it, nor is it even possible, for who can understand his errors?
+**Answer:** There is no need of it, nor is it even possible, for who can understand his errors?
 
 > **Ps. 19:13**
 >
@@ -94,7 +94,7 @@ Answer: There is no need of it, nor is it even possible, for who can understand 
 
 **How many parts are there in true repentance?**
 
-Answer: Two: first, a true sorrow and contrition for sin; second, faith in Christ.
+**Answer:** Two: first, a true sorrow and contrition for sin; second, faith in Christ.
 
 > **Mark 1:15**
 >
@@ -107,7 +107,7 @@ Answer: Two: first, a true sorrow and contrition for sin; second, faith in Chris
 
 **Where do the knowledge of sin and contrition come from?**
 
-Answer: From the Law of God, which awakens man's conscience, shows him that he has done evil and thereby earned the wrath of God, temporal and eternal punishment.
+**Answer:** From the Law of God, which awakens man's conscience, shows him that he has done evil and thereby earned the wrath of God, temporal and eternal punishment.
 
 > **Rom. 3:20**
 >
@@ -120,7 +120,7 @@ Answer: From the Law of God, which awakens man's conscience, shows him that he h
 
 **Where does faith come from?**
 
-Answer: From the sweet teaching of the Gospel and the promises of grace concerning the forgiveness of sins for Christ's sake.
+**Answer:** From the sweet teaching of the Gospel and the promises of grace concerning the forgiveness of sins for Christ's sake.
 
 > **Rom. 1:16**
 >
@@ -129,11 +129,11 @@ Answer: From the sweet teaching of the Gospel and the promises of grace concerni
 
 **What is Absolution?**
 
-Answer: It is the promise and assurance of the forgiveness of sins, given by the ministers of the Word on Christ's behalf.
+**Answer:** It is the promise and assurance of the forgiveness of sins, given by the ministers of the Word on Christ's behalf.
 
 **Who has given the minister of the Word this power?**
 
-Answer: Christ Jesus, the Son of God.
+**Answer:** Christ Jesus, the Son of God.
 
 > **Acts 13:28**
 >
@@ -142,7 +142,7 @@ Answer: Christ Jesus, the Son of God.
 
 **How do you know this?**
 
-Answer: From Christ’s own words, when He said to His apostles:
+**Answer:** From Christ’s own words, when He said to His apostles:
 
 > **John 20:22-23**
 >
@@ -160,7 +160,7 @@ And to Peter:
 
 **What is meant by the keys of the kingdom of heaven?**
 
-Answer: That power which Christ has given to the congregation, and especially to the ministry of preaching, to forgive and to retain sin.
+**Answer:** That power which Christ has given to the congregation, and especially to the ministry of preaching, to forgive and to retain sin.
 
 > **John 20:23**
 >
@@ -169,11 +169,11 @@ Answer: That power which Christ has given to the congregation, and especially to
 
 **How many of these keys are there?**
 
-Answer: Two: one is called the key of loosing, the other the key of binding, or of retaining.
+**Answer:** Two: one is called the key of loosing, the other the key of binding, or of retaining.
 
 **What is the key of loosing?**
 
-Answer: It is that power which is given to Christ's servants on earth to loose the penitent sinner from his sins and to open to him the kingdom of heaven.
+**Answer:** It is that power which is given to Christ's servants on earth to loose the penitent sinner from his sins and to open to him the kingdom of heaven.
 
 > **2 Cor. 5:20**
 >
@@ -182,7 +182,7 @@ Answer: It is that power which is given to Christ's servants on earth to loose t
 
 **What is the key of binding, or retaining sins?**
 
-Answer: It is the power given whereby the preacher binds the impenitent in his sin and shuts the kingdom of heaven against him, and which is called the ban.
+**Answer:** It is the power given whereby the preacher binds the impenitent in his sin and shuts the kingdom of heaven against him, and which is called the ban.
 
 > **1 Cor. 5:3-5**
 >
@@ -195,11 +195,11 @@ Answer: It is the power given whereby the preacher binds the impenitent in his s
 
 **What is excommunication, or being placed under the ban?**
 
-Answer: It is this: when the impenitent and unworthy sinner is shut out from the Lord's Supper, or also altogether from the fellowship of the congregation; the latter is called the greater ban, but the former the lesser.
+**Answer:** It is this: when the impenitent and unworthy sinner is shut out from the Lord's Supper, or also altogether from the fellowship of the congregation; the latter is called the greater ban, but the former the lesser.
 
 **Can someone who has been excommunicated and bound in his sins be received into grace again?**
 
-Answer: Assuredly he can; when he turns himself, showing true contrition and repentance, he is to be set right with the comfort of the Gospel and assured of God's grace; for the key of retaining is not given for damnation, but for the amendment and setting right of the soul.
+**Answer:** Assuredly he can; when he turns himself, showing true contrition and repentance, he is to be set right with the comfort of the Gospel and assured of God's grace; for the key of retaining is not given for damnation, but for the amendment and setting right of the soul.
 
 > **Ezek. 18:21**
 >
@@ -212,7 +212,7 @@ Answer: Assuredly he can; when he turns himself, showing true contrition and rep
 
 **What, then, does God require of us after we have repented and received the forgiveness of our sins?**
 
-Answer: A new obedience, which shows itself in a holy and godly life, and is called the fruit of repentance.
+**Answer:** A new obedience, which shows itself in a holy and godly life, and is called the fruit of repentance.
 
 > **Matt. 3:8**
 >
@@ -225,7 +225,7 @@ Answer: A new obedience, which shows itself in a holy and godly life, and is cal
 
 **How should we strengthen our faith in the forgiveness of sins?**
 
-Answer: With the Lord's high Supper, or the Sacrament of the Altar.
+**Answer:** With the Lord's high Supper, or the Sacrament of the Altar.
 
 THE SIXTH CHIEF PART
 
@@ -237,17 +237,17 @@ How the simple should be taught to confess their sins.
 
 **What is Confession?**
 
-Answer: Confession consists of two parts: the one, that we confess our sins; the other, that we receive absolution or forgiveness from the confessor, as from God Himself, and in no wise doubt, but firmly believe that our sins are thereby forgiven before God in heaven.
+**Answer:** Confession consists of two parts: the one, that we confess our sins; the other, that we receive absolution or forgiveness from the confessor, as from God Himself, and in no wise doubt, but firmly believe that our sins are thereby forgiven before God in heaven.
 
 ### What Should Be Confessed
 
 **What sins should we confess?**
 
-Answer: Before God we should confess ourselves guilty of all sins, even of those which we do not know, as we do in the Lord's Prayer. But before the confessor we should confess only those sins which we know and feel in our hearts, and which trouble the conscience.
+**Answer:** Before God we should confess ourselves guilty of all sins, even of those which we do not know, as we do in the Lord's Prayer. But before the confessor we should confess only those sins which we know and feel in our hearts, and which trouble the conscience.
 
 **What are they?**
 
-Answer: Consider your station according to the Ten Commandments, whether you are a father, mother, son, daughter, master, mistress, or servant, and the like; whether you have been hard-hearted, unfaithful, slothful, angry, or unchaste in deeds and words; whether you have wronged anyone by words or deeds, stolen, lied, or through carelessness done any harm and injured another's goods.
+**Answer:** Consider your station according to the Ten Commandments, whether you are a father, mother, son, daughter, master, mistress, or servant, and the like; whether you have been hard-hearted, unfaithful, slothful, angry, or unchaste in deeds and words; whether you have wronged anyone by words or deeds, stolen, lied, or through carelessness done any harm and injured another's goods.
 
 ### A Short Form of Confession
 
@@ -309,7 +309,7 @@ The confessor shall ask the one confessing:
 
 **Do you believe that my forgiveness is God's forgiveness?**
 
-Answer: I do believe it.
+**Answer:** I do believe it.
 
 The confessor shall further say:
 

@@ -23,7 +23,7 @@ Genesis 2:1–3 closes creation with God resting from His completed work. He ble
 
 **What does it mean to keep the day of rest holy?**
 
-Answer: That a man leaves all worldly labours and bodily work that hinder the service of God, and spends that day in the hearing of the Word of God, in prayer, and in songs of praise, serving God both in thoughts and in words and deeds.
+**Answer:** That a man leaves all worldly labours and bodily work that hinder the service of God, and spends that day in the hearing of the Word of God, in prayer, and in songs of praise, serving God both in thoughts and in words and deeds.
 
 > **Exod. 31:14**
 >
@@ -40,7 +40,7 @@ Answer: That a man leaves all worldly labours and bodily work that hinder the se
 
 **Then is no work permitted on Sunday?**
 
-Answer: What great need and Christian love require is not forbidden; therefore it is well allowed on the sabbath to help an ox out of the pit.
+**Answer:** What great need and Christian love require is not forbidden; therefore it is well allowed on the sabbath to help an ox out of the pit.
 
 > **Matt. 12:11,12**
 >
@@ -53,7 +53,7 @@ Answer: What great need and Christian love require is not forbidden; therefore i
 
 **What does it mean to regard the Word of God as holy?**
 
-Answer: It is: to hold it as the soul's best treasure; not as the word of men, but as the Word of God, to hear and read it gladly and in humility, to keep it in a holy heart, and to order one's life according to it.
+**Answer:** It is: to hold it as the soul's best treasure; not as the word of men, but as the Word of God, to hear and read it gladly and in humility, to keep it in a holy heart, and to order one's life according to it.
 
 > **1 Thess. 2:13**
 >
@@ -70,7 +70,7 @@ Answer: It is: to hold it as the soul's best treasure; not as the word of men, b
 
 **What does God forbid in the third commandment?**
 
-Answer: That we should not despise preaching and the Word of God, nor forsake and neglect the common service of God, nor defile with unseemly and offensive living this day, which is appointed for the honour of God's name.
+**Answer:** That we should not despise preaching and the Word of God, nor forsake and neglect the common service of God, nor defile with unseemly and offensive living this day, which is appointed for the honour of God's name.
 
 > **Heb. 10:25**
 >
@@ -81,15 +81,15 @@ The second table
 
 **Which commandments are in the second table, and how many are there?**
 
-Answer: The latter seven.
+**Answer:** The latter seven.
 
 **What do they require?**
 
-Answer: Love toward our neighbour.
+**Answer:** Love toward our neighbour.
 
 **How should we love our neighbour?**
 
-Answer: As ourselves.
+**Answer:** As ourselves.
 
 > **Matt. 22:39**
 >
@@ -98,7 +98,7 @@ Answer: As ourselves.
 
 **Who is our neighbour?**
 
-Answer: All men, both friends and enemies, known and unknown, poor and rich, whoever has need of our counsel and our help.
+**Answer:** All men, both friends and enemies, known and unknown, poor and rich, whoever has need of our counsel and our help.
 
 > **Matt. 5:44**
 >
@@ -119,7 +119,7 @@ Remember the sabbath day, to keep it holy.
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not despise preaching and His Word, but hold it sacred, and gladly hear and learn it.
+**Answer:** We should fear and love God, so that we do not despise preaching and His Word, but hold it sacred, and gladly hear and learn it.
 
 
 <a id="rg-02-3-the-third-commandment-001"></a>

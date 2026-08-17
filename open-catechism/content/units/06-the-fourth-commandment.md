@@ -23,7 +23,7 @@ Mary and Joseph brought Jesus to Jerusalem according to the Law, and Simeon rece
 
 **Why is every person called our neighbour?**
 
-Answer: Because we all have one God: we all dwell together here upon the earth; we are all descended from Adam and Eve; all have a like going-out, for all must depart hence.
+**Answer:** Because we all have one God: we all dwell together here upon the earth; we are all descended from Adam and Eve; all have a like going-out, for all must depart hence.
 
 > **Acts 17:26**
 >
@@ -40,11 +40,11 @@ Answer: Because we all have one God: we all dwell together here upon the earth; 
 
 **What does God command in the fourth commandment?**
 
-Answer: To honour father and mother.
+**Answer:** To honour father and mother.
 
 **Who are included under the names of father and mother?**
 
-Answer: Natural parents, father-in-law and mother-in-law, stepfather and stepmother, foster-fathers and foster-mothers, the government, teachers, masters, and all who take a fatherly care of us.
+**Answer:** Natural parents, father-in-law and mother-in-law, stepfather and stepmother, foster-fathers and foster-mothers, the government, teachers, masters, and all who take a fatherly care of us.
 
 > **Luke 2:41,51**
 >
@@ -61,7 +61,7 @@ Answer: Natural parents, father-in-law and mother-in-law, stepfather and stepmot
 
 **What does it mean to honour and esteem them?**
 
-Answer: It is to love them from the heart, to pray for them, to be with them in humility, that we should not anger them nor make them sorrowful; but should serve and honour them in deeds, words, and forbearance, and gladly obey them.
+**Answer:** It is to love them from the heart, to pray for them, to be with them in humility, that we should not anger them nor make them sorrowful; but should serve and honour them in deeds, words, and forbearance, and gladly obey them.
 
 > **Lev. 19:3**
 >
@@ -82,7 +82,7 @@ Answer: It is to love them from the heart, to pray for them, to be with them in 
 
 **Are children bound to obey their parents in all things?**
 
-Answer: In all things that are not against the Word of God and a good conscience, for then God is rather to be obeyed than man.
+**Answer:** In all things that are not against the Word of God and a good conscience, for then God is rather to be obeyed than man.
 
 > **Col. 3:20**
 >
@@ -99,7 +99,7 @@ Answer: In all things that are not against the Word of God and a good conscience
 
 **What does God promise to those who do these things?**
 
-Answer: That they shall prosper and become long-lived upon the earth.
+**Answer:** That they shall prosper and become long-lived upon the earth.
 
 > **Deut. 5:16**
 >
@@ -112,7 +112,7 @@ Answer: That they shall prosper and become long-lived upon the earth.
 
 **Are those who die young, then, always displeasing to God?**
 
-Answer: By no means; for it often comes to pass that God snatches away early from misfortune those whom he loves, and gives them a better life.
+**Answer:** By no means; for it often comes to pass that God snatches away early from misfortune those whom he loves, and gives them a better life.
 
 > **Isa. 57:1,2**
 >
@@ -129,7 +129,7 @@ Honour thy father and thy mother: that thy days may be long upon the land which 
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not despise or anger our parents, our rulers, and our masters, but honor them, serve and obey them, and hold them dear and precious.
+**Answer:** We should fear and love God, so that we do not despise or anger our parents, our rulers, and our masters, but honor them, serve and obey them, and hold them dear and precious.
 
 
 <a id="rg-02-4-the-fourth-commandment-001"></a>

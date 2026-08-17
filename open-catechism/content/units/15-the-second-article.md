@@ -20,7 +20,7 @@ On the evening of the resurrection, Jesus stood among His fearful disciples and 
 
 **What does the Hebrew name “Jesus” mean?**
 
-Answer: A Saviour; for He saved His people from sin.
+**Answer:** A Saviour; for He saved His people from sin.
 
 > **Matt. 1:20,21**
 >
@@ -29,7 +29,7 @@ Answer: A Saviour; for He saved His people from sin.
 
 **What does the Greek word “Christ” mean?**
 
-Answer: The Anointed; for He is anointed, according to His human nature, with the oil of gladness, with the Holy Ghost and with power.
+**Answer:** The Anointed; for He is anointed, according to His human nature, with the oil of gladness, with the Holy Ghost and with power.
 
 > **Ps. 45:8**
 >
@@ -42,15 +42,15 @@ Answer: The Anointed; for He is anointed, according to His human nature, with th
 
 **How many natures are there in Christ?**
 
-Answer: Two: the nature of the Godhead and the nature of manhood.
+**Answer:** Two: the nature of the Godhead and the nature of manhood.
 
 **Are there, then, two persons in Christ?**
 
-Answer: No; Jesus Christ, true God and man, is one person; for the two natures are so personally united in Christ, as the body and soul in man, yet inseparably, so that they can never eternally be parted one from the other.
+**Answer:** No; Jesus Christ, true God and man, is one person; for the two natures are so personally united in Christ, as the body and soul in man, yet inseparably, so that they can never eternally be parted one from the other.
 
 **Why must Christ be God and man?**
 
-Answer: Man He must be, that He might suffer and die; but since mere man could not pay for sin and take away the wrath of God and the curse of the law, nor overcome death, the devil, and hell; therefore He must be true God.
+**Answer:** Man He must be, that He might suffer and die; but since mere man could not pay for sin and take away the wrath of God and the curse of the law, nor overcome death, the devil, and hell; therefore He must be true God.
 
 > **Ps. 49:7,8**
 >
@@ -63,11 +63,11 @@ Answer: Man He must be, that He might suffer and die; but since mere man could n
 
 **To what offices was Jesus anointed?**
 
-Answer: Unto a Prophet, a High Priest, and a King.
+**Answer:** Unto a Prophet, a High Priest, and a King.
 
 **Why is He called a Prophet?**
 
-Answer: Because He has revealed to us the will and counsel of His heavenly Father concerning our salvation.
+**Answer:** Because He has revealed to us the will and counsel of His heavenly Father concerning our salvation.
 
 > **Deut. 18:18**
 >
@@ -80,7 +80,7 @@ Answer: Because He has revealed to us the will and counsel of His heavenly Fathe
 
 **Why is He called a High Priest?**
 
-Answer: Because He once offered up Himself as an atonement for our sins, and daily prays to the Father for us.
+**Answer:** Because He once offered up Himself as an atonement for our sins, and daily prays to the Father for us.
 
 > **Heb. 9:28**
 >
@@ -93,7 +93,7 @@ Answer: Because He once offered up Himself as an atonement for our sins, and dai
 
 **What is His kingly office?**
 
-Answer: This: that He rules, not only over all things that are in heaven and in earth, but also especially in Zion, that is, in His kingdom of grace and in the Christian congregation; and He has also His kingdom of glory in heaven.
+**Answer:** This: that He rules, not only over all things that are in heaven and in earth, but also especially in Zion, that is, in His kingdom of grace and in the Christian congregation; and He has also His kingdom of glory in heaven.
 
 > **Ps. 8:6**
 >
@@ -110,7 +110,7 @@ Answer: This: that He rules, not only over all things that are in heaven and in 
 
 **Why do you say, “I believe that Jesus is my Lord, who has redeemed me”?**
 
-Answer: Because in matters of faith I hold or determine nothing of my own dark reason, but believe simply and appropriate to myself the common redemption of Christ, with the firm hope that He has also redeemed me and brought me unto God, from death unto life and from sin unto righteousness.
+**Answer:** Because in matters of faith I hold or determine nothing of my own dark reason, but believe simply and appropriate to myself the common redemption of Christ, with the firm hope that He has also redeemed me and brought me unto God, from death unto life and from sin unto righteousness.
 
 > **Gal. 3:11**
 >
@@ -119,11 +119,11 @@ Answer: Because in matters of faith I hold or determine nothing of my own dark r
 
 **What two states of Christ should we consider?**
 
-Answer: His humiliation and His exaltation.
+**Answer:** His humiliation and His exaltation.
 
 **What was the humiliation of Christ?**
 
-Answer: It was the lowly estate of Christ, in which He appeared in the form of a servant here upon the earth; He humbled Himself. And He did not always exercise that power and glory of the Godhead which He had received according to His manhood, but only seldom, in certain miracles which He did, when He willed and saw it needful.
+**Answer:** It was the lowly estate of Christ, in which He appeared in the form of a servant here upon the earth; He humbled Himself. And He did not always exercise that power and glory of the Godhead which He had received according to His manhood, but only seldom, in certain miracles which He did, when He willed and saw it needful.
 
 > **Phil. 2:7,8**
 >
@@ -136,15 +136,15 @@ Answer: It was the lowly estate of Christ, in which He appeared in the form of a
 
 **How long did His humiliation last?**
 
-Answer: From His conception and birth unto His descent into hell.
+**Answer:** From His conception and birth unto His descent into hell.
 
 **What belongs to the state of His humiliation?**
 
-Answer: The conception of Christ, His birth (that it was lowly and despised), His passion, death, and burial, likewise His circumcision, His poverty, the flight into Egypt, His baptism, His temptation, the persecution of His enemies, and other such like.
+**Answer:** The conception of Christ, His birth (that it was lowly and despised), His passion, death, and burial, likewise His circumcision, His poverty, the flight into Egypt, His baptism, His temptation, the persecution of His enemies, and other such like.
 
 **Of whom was Christ conceived?**
 
-Answer: Of the Holy Ghost, by His wonderful working in the womb of the Virgin Mary, without sin and without the aid of man.
+**Answer:** Of the Holy Ghost, by His wonderful working in the womb of the Virgin Mary, without sin and without the aid of man.
 
 > **Luke 1:35**
 >
@@ -157,7 +157,7 @@ Answer: Of the Holy Ghost, by His wonderful working in the womb of the Virgin Ma
 
 **Of whom was He born?**
 
-Answer: Of the Virgin Mary, who was a virgin both before and after the birth.
+**Answer:** Of the Virgin Mary, who was a virgin both before and after the birth.
 
 > **Isa. 7:14**
 >
@@ -170,7 +170,7 @@ Answer: Of the Virgin Mary, who was a virgin both before and after the birth.
 
 **Under whose authority did He suffer and was He crucified?**
 
-Answer: Under Pontius Pilate, who, as an imperial and heathen judge, condemned Jesus to death. This is said in the Creed for this reason, that thereby is confirmed the truth of the history of Christ's passion, and the fulfilment of the prophecy that the sceptre had then departed from Judah.
+**Answer:** Under Pontius Pilate, who, as an imperial and heathen judge, condemned Jesus to death. This is said in the Creed for this reason, that thereby is confirmed the truth of the history of Christ's passion, and the fulfilment of the prophecy that the sceptre had then departed from Judah.
 
 > **1 Tim. 6:13**
 >
@@ -183,7 +183,7 @@ Answer: Under Pontius Pilate, who, as an imperial and heathen judge, condemned J
 
 **What do we confess concerning Christ's passion and crucifixion?**
 
-Answer: That He has truly suffered for our sins, both in soul and in body, and upon the tree of the cross was forsaken of God, and for us endured the curse and the anguish of hell.
+**Answer:** That He has truly suffered for our sins, both in soul and in body, and upon the tree of the cross was forsaken of God, and for us endured the curse and the anguish of hell.
 
 > **Isa. 53:4-6**
 >
@@ -200,7 +200,7 @@ Answer: That He has truly suffered for our sins, both in soul and in body, and u
 
 **How did Jesus die?**
 
-Answer: When He had suffered that grievous passion, He gave up His spirit upon the cross, died truly, and by His death merited for us life and salvation.
+**Answer:** When He had suffered that grievous passion, He gave up His spirit upon the cross, died truly, and by His death merited for us life and salvation.
 
 > **John 19:30**
 >
@@ -213,7 +213,7 @@ Answer: When He had suffered that grievous passion, He gave up His spirit upon t
 
 **Why was Christ buried?**
 
-Answer: That He might be seen to be truly dead. And that by His burial He might sanctify our graves into resting-chambers.
+**Answer:** That He might be seen to be truly dead. And that by His burial He might sanctify our graves into resting-chambers.
 
 > **Isa. 57:2**
 >
@@ -222,7 +222,7 @@ Answer: That He might be seen to be truly dead. And that by His burial He might 
 
 **What is the exaltation of Christ?**
 
-Answer: It is the estate into which Christ, according to His manhood, is exalted and set upon the throne of the Godhead, fully to hold and enjoy His majesty, power, and glory, together with the Father and the Holy Ghost.
+**Answer:** It is the estate into which Christ, according to His manhood, is exalted and set upon the throne of the Godhead, fully to hold and enjoy His majesty, power, and glory, together with the Father and the Holy Ghost.
 
 > **Phil. 2:9-11**
 >
@@ -231,7 +231,7 @@ Answer: It is the estate into which Christ, according to His manhood, is exalted
 
 **What belongs to the exaltation of Christ?**
 
-Answer: After Christ became alive again by His own power, and the soul was united with the body, then He, first, descended into hell; second, rose again from the dead; third, ascended into heaven; fourth, now sitteth at the right hand of God the Father; fifth, from thence He shall come again to judge the quick and the dead.
+**Answer:** After Christ became alive again by His own power, and the soul was united with the body, then He, first, descended into hell; second, rose again from the dead; third, ascended into heaven; fourth, now sitteth at the right hand of God the Father; fifth, from thence He shall come again to judge the quick and the dead.
 
 > **1 Pet. 3:18,19**
 >
@@ -248,7 +248,7 @@ Answer: After Christ became alive again by His own power, and the soul was unite
 
 **Why did Christ descend into hell?**
 
-Answer: Openly to show that He has crushed the head of the serpent and overcome the devil and all the power of hell.
+**Answer:** Openly to show that He has crushed the head of the serpent and overcome the devil and all the power of hell.
 
 > **Col. 2:15**
 >
@@ -265,11 +265,11 @@ Answer: Openly to show that He has crushed the head of the serpent and overcome 
 
 **What is the resurrection of Christ?**
 
-Answer: It is this: He rose again from the dead and came forth out of the grave alive, with a glorified body.
+**Answer:** It is this: He rose again from the dead and came forth out of the grave alive, with a glorified body.
 
 **When did this take place?**
 
-Answer: On the third day after His death, which was a Sunday, which we call the day of Easter.
+**Answer:** On the third day after His death, which was a Sunday, which we call the day of Easter.
 
 > **Luke 24:46**
 >
@@ -282,7 +282,7 @@ Answer: On the third day after His death, which was a Sunday, which we call the 
 
 **What is the ascension of Christ into heaven?**
 
-Answer: This, that on the fortieth day after His resurrection He went up in visible form from the Mount of Olives into heaven, and so parted Himself from His visible presence and fellowship upon the earth.
+**Answer:** This, that on the fortieth day after His resurrection He went up in visible form from the Mount of Olives into heaven, and so parted Himself from His visible presence and fellowship upon the earth.
 
 > **Acts 1:9**
 >
@@ -295,7 +295,7 @@ Answer: This, that on the fortieth day after His resurrection He went up in visi
 
 **Is He, then, no longer present with us here on earth?**
 
-Answer: He is indeed; but in an invisible manner He is with us every day, unto the end of the world.
+**Answer:** He is indeed; but in an invisible manner He is with us every day, unto the end of the world.
 
 > **Matt. 28:20**
 >
@@ -304,7 +304,7 @@ Answer: He is indeed; but in an invisible manner He is with us every day, unto t
 
 **What does it mean that Christ sits at the right hand of God the Father?**
 
-Answer: It is this: Christ rules, according to His manhood, now and in all eternity, together with the Father and the Son and the Holy Ghost, in glory, above all creatures in heaven and upon earth.
+**Answer:** It is this: Christ rules, according to His manhood, now and in all eternity, together with the Father and the Son and the Holy Ghost, in glory, above all creatures in heaven and upon earth.
 
 > **Ps. 110:1**
 >
@@ -321,7 +321,7 @@ Answer: It is this: Christ rules, according to His manhood, now and in all etern
 
 **How will Christ come to judge?**
 
-Answer: He shall come in visible form in the clouds of heaven, with great power and glory, and all the holy angels with Him, to judge all peoples, both those then living and all the dead from the very beginning of the world.
+**Answer:** He shall come in visible form in the clouds of heaven, with great power and glory, and all the holy angels with Him, to judge all peoples, both those then living and all the dead from the very beginning of the world.
 
 > **Acts 1:11**
 >
@@ -338,13 +338,13 @@ Answer: He shall come in visible form in the clouds of heaven, with great power 
 
 **What judgment will He pronounce upon them?**
 
-Answer: To the righteous He shall say: Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world; but to the ungodly He shall say: Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels.
+**Answer:** To the righteous He shall say: Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world; but to the ungodly He shall say: Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels.
 
 As is read in Matt. 25:34,41.
 
 **When will this take place?**
 
-Answer: On the last day, when this world comes to its end; but that time is wholly hidden from us.
+**Answer:** On the last day, when this world comes to its end; but that time is wholly hidden from us.
 
 > **Matt. 24:36**
 >
@@ -353,7 +353,7 @@ Answer: On the last day, when this world comes to its end; but that time is whol
 
 **Why has Christ done these good works for us?**
 
-Answer: That we might be His own, might live in His kingdom as His subjects, and might serve Him in eternal righteousness, innocency, and blessedness.
+**Answer:** That we might be His own, might live in His kingdom as His subjects, and might serve Him in eternal righteousness, innocency, and blessedness.
 
 > **Luke 1:75**
 >
@@ -368,7 +368,7 @@ THE THIRD ARTICLE OF FAITH, Of the Holy Ghost and of Sanctification
 
 **Who is the Holy Ghost?**
 
-Answer: He is the third person in the being of the Godhead, who proceeds eternally from the Father and the Son.
+**Answer:** He is the third person in the being of the Godhead, who proceeds eternally from the Father and the Son.
 
 > **John 15:26**
 >
@@ -381,7 +381,7 @@ Answer: He is the third person in the being of the Godhead, who proceeds eternal
 
 **What good works does the Holy Ghost do for us?**
 
-Answer: He calls us through the Word and the sacraments into His congregation, enlightens our darkened reason, sanctifies and keeps us in the right and saving faith, daily forgives us our sins, and shall also on the last day, together with the Father and the Son, raise us from the dead and give us, together with all Christian believers, eternal life.
+**Answer:** He calls us through the Word and the sacraments into His congregation, enlightens our darkened reason, sanctifies and keeps us in the right and saving faith, daily forgives us our sins, and shall also on the last day, together with the Father and the Son, raise us from the dead and give us, together with all Christian believers, eternal life.
 
 > **2 Tim. 1:9**
 >
@@ -414,7 +414,7 @@ Of the Son of God and of Redemption. I believe in Jesus Christ, His only Son, ou
 
 **What does this mean?**
 
-Answer: I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord, who has redeemed me, a lost and condemned man, and delivered and freed me from all sin, from death, and from the power of the devil; not with gold or silver, but with His holy and precious blood, and with His innocent suffering and death: that I should be His own, and live under Him in His kingdom as His subject, and serve Him in everlasting righteousness, innocence, and blessedness; even as He is risen from the dead, and lives and reigns to all eternity. This is most certainly true.
+**Answer:** I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord, who has redeemed me, a lost and condemned man, and delivered and freed me from all sin, from death, and from the power of the devil; not with gold or silver, but with His holy and precious blood, and with His innocent suffering and death: that I should be His own, and live under Him in His kingdom as His subject, and serve Him in everlasting righteousness, innocence, and blessedness; even as He is risen from the dead, and lives and reigns to all eternity. This is most certainly true.
 
 
 <a id="rg-03-2-1-the-apostles-creed-second-article-part-1-001"></a>

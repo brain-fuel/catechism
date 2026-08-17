@@ -23,7 +23,7 @@ Genesis 1:26–31 recounts God’s creation of humankind in His image, male and 
 
 **Is there, then, more than one God?**
 
-Answer: No; He alone is one, but in the being of the Godhead there are three persons: the Father, the Son, and the Holy Ghost, and they are called the Holy Trinity, or the Threefold Unity.
+**Answer:** No; He alone is one, but in the being of the Godhead there are three persons: the Father, the Son, and the Holy Ghost, and they are called the Holy Trinity, or the Threefold Unity.
 
 > **Deut. 6:4**
 >
@@ -36,7 +36,7 @@ Answer: No; He alone is one, but in the being of the Godhead there are three per
 
 **Who is the Father?**
 
-Answer: The Father is the first person in the Divine being, who in eternity has begotten the Son, coexistent with Him and equal to Him.
+**Answer:** The Father is the first person in the Divine being, who in eternity has begotten the Son, coexistent with Him and equal to Him.
 
 > **Ps. 2:7**
 >
@@ -49,11 +49,11 @@ Answer: The Father is the first person in the Divine being, who in eternity has 
 
 **Why is the Father called the first person?**
 
-Answer: Not because He is in any respect more or greater, or in regard to time earlier than the other persons; but He is called the first for the sake of order; for as the Father is eternal (without beginning and end), so is the Son eternal, so is the Holy Ghost eternal. And yet there are not three Gods; but one God, eternal and almighty.
+**Answer:** Not because He is in any respect more or greater, or in regard to time earlier than the other persons; but He is called the first for the sake of order; for as the Father is eternal (without beginning and end), so is the Son eternal, so is the Holy Ghost eternal. And yet there are not three Gods; but one God, eternal and almighty.
 
 **What good works has God the Father done for us?**
 
-Answer: He has created us, cares for us, watches over us, and protects us. He has also given His Son for us.
+**Answer:** He has created us, cares for us, watches over us, and protects us. He has also given His Son for us.
 
 > **Ps. 71:6**
 >
@@ -82,7 +82,7 @@ Answer: He has created us, cares for us, watches over us, and protects us. He ha
 
 **Are the Son and the Holy Ghost, then, excluded from the work of creation?**
 
-Answer: By no means; for the Father has created all things through the Son in the Holy Ghost.
+**Answer:** By no means; for the Father has created all things through the Son in the Holy Ghost.
 
 > **Heb. 1:2**
 >
@@ -103,7 +103,7 @@ Answer: By no means; for the Father has created all things through the Son in th
 
 **What did God make all things from in the beginning?**
 
-Answer: Out of nothing.
+**Answer:** Out of nothing.
 
 > **Heb. 11:3**
 >
@@ -112,7 +112,7 @@ Answer: Out of nothing.
 
 **What, then, has God made?**
 
-Answer: The heaven and the earth, and all that is in them, both visible and invisible.
+**Answer:** The heaven and the earth, and all that is in them, both visible and invisible.
 
 > **Gen. 1:1**
 >
@@ -125,7 +125,7 @@ Answer: The heaven and the earth, and all that is in them, both visible and invi
 
 **In what order did God create all things in the world?**
 
-Answer: In six days God created the heaven and the earth and all that is in them, in this manner, namely: on the first day, all matter and the light; on the second day, the firmament; on the third, the sea and the land, with all the trees and the grass; on the fourth, the sun, the moon, and the stars; on the fifth, the fishes and the birds; on the sixth, the beasts upon the earth, and last of all He created man in His own image.
+**Answer:** In six days God created the heaven and the earth and all that is in them, in this manner, namely: on the first day, all matter and the light; on the second day, the firmament; on the third, the sea and the land, with all the trees and the grass; on the fourth, the sun, the moon, and the stars; on the fifth, the fishes and the birds; on the sixth, the beasts upon the earth, and last of all He created man in His own image.
 
 > **Gen. 1**
 >
@@ -134,7 +134,7 @@ Answer: In six days God created the heaven and the earth and all that is in them
 
 **In what way was man the image of God?**
 
-Answer: In the wisdom, righteousness, and holiness created together with him; he had also the immortality of the body and dominion over all the beasts upon the earth, in the sea, and in the air, and many great advantages, all of which are called the image of God; this, through natural birth, would have passed to their children and descendants, if the first parents had stood fast in the perfection created together with them.
+**Answer:** In the wisdom, righteousness, and holiness created together with him; he had also the immortality of the body and dominion over all the beasts upon the earth, in the sea, and in the air, and many great advantages, all of which are called the image of God; this, through natural birth, would have passed to their children and descendants, if the first parents had stood fast in the perfection created together with them.
 
 > **Gen. 1:27**
 >
@@ -151,11 +151,11 @@ Answer: In the wisdom, righteousness, and holiness created together with him; he
 
 **Did man remain in the blessed state in which he was created?**
 
-Answer: No, God amend it!
+**Answer:** No, God amend it!
 
 **How, then, did he lose the image of God?**
 
-Answer: Through the fall into sin and the transgression of God's commandment.
+**Answer:** Through the fall into sin and the transgression of God's commandment.
 
 > **Gen. 5:3**
 >
@@ -164,7 +164,7 @@ Answer: Through the fall into sin and the transgression of God's commandment.
 
 **Who are the invisible creatures?**
 
-Answer: The angels.
+**Answer:** The angels.
 
 > **Ps. 104:4**
 >
@@ -173,11 +173,11 @@ Answer: The angels.
 
 **What are the angels?**
 
-Answer: The angels are spirits, invisible, created in the beginning in truth, wisdom, honour, power, and righteousness.
+**Answer:** The angels are spirits, invisible, created in the beginning in truth, wisdom, honour, power, and righteousness.
 
 **Did they all remain in this glorious state?**
 
-Answer: No.
+**Answer:** No.
 
 > **John 8:44**
 >
@@ -186,11 +186,11 @@ Answer: No.
 
 **What kinds of angels are there, then?**
 
-Answer: Two kinds: good and evil.
+**Answer:** Two kinds: good and evil.
 
 **Who are the good?**
 
-Answer: Those who stood fast in the honour and righteousness created together with them, and are now so confirmed and steadfast in goodness that they can no more fall; and these are called the good angels and the angels of light.
+**Answer:** Those who stood fast in the honour and righteousness created together with them, and are now so confirmed and steadfast in goodness that they can no more fall; and these are called the good angels and the angels of light.
 
 > **Matt. 18:10**
 >
@@ -199,7 +199,7 @@ Answer: Those who stood fast in the honour and righteousness created together wi
 
 **What is their task?**
 
-Answer: To honour God, to carry out His commandments, and also to serve and preserve those who shall inherit salvation.
+**Answer:** To honour God, to carry out His commandments, and also to serve and preserve those who shall inherit salvation.
 
 > **Heb. 1:14**
 >
@@ -208,7 +208,7 @@ Answer: To honour God, to carry out His commandments, and also to serve and pres
 
 **Whom do you call the evil angels?**
 
-Answer: Those who fall away from God and were cast down into hell, bound with the chains of darkness, reserved unto the day of judgment.
+**Answer:** Those who fall away from God and were cast down into hell, bound with the chains of darkness, reserved unto the day of judgment.
 
 > **Jude v. 6**
 >
@@ -221,7 +221,7 @@ Answer: Those who fall away from God and were cast down into hell, bound with th
 
 **Does God continue to care for all things each day?**
 
-Answer: Truly God cares for all His creatures; but above all for men, and especially for the believers.
+**Answer:** Truly God cares for all His creatures; but above all for men, and especially for the believers.
 
 > **Matt. 6:26**
 >
@@ -242,7 +242,7 @@ Answer: Truly God cares for all His creatures; but above all for men, and especi
 
 **Why does God do all these things?**
 
-Answer: Out of His own pure grace and fatherly goodness, without the least merit on our part.
+**Answer:** Out of His own pure grace and fatherly goodness, without the least merit on our part.
 
 > **Ps. 145:9**
 >
@@ -251,7 +251,7 @@ Answer: Out of His own pure grace and fatherly goodness, without the least merit
 
 **What should be said about all the evil that happens in the world?**
 
-Answer: God does all that is good and furthers that which happens according to His will; but evil He forbids, punishes, and often hinders; yet sometimes He also permits it, setting a certain limit to it, and directs it to a good end.
+**Answer:** God does all that is good and furthers that which happens according to His will; but evil He forbids, punishes, and often hinders; yet sometimes He also permits it, setting a certain limit to it, and directs it to a good end.
 
 > **2 Sam. 17:14**
 >
@@ -268,7 +268,7 @@ Answer: God does all that is good and furthers that which happens according to H
 
 **What do these and God’s other good works oblige us to do?**
 
-Answer: To thanksgiving, praise, obedience, and service.
+**Answer:** To thanksgiving, praise, obedience, and service.
 
 > **Ps. 136:1**
 >
@@ -287,7 +287,7 @@ THE SECOND ARTICLE OF FAITH, Of the Son of God and of Redemption
 
 **Who is the Son of God?**
 
-Answer: The Son of God is the second person in the Godhead, begotten of the Father in eternity, who became man, born of the Virgin Mary.
+**Answer:** The Son of God is the second person in the Godhead, begotten of the Father in eternity, who became man, born of the Virgin Mary.
 
 > **Micah 5:1**
 >
@@ -300,7 +300,7 @@ Answer: The Son of God is the second person in the Godhead, begotten of the Fath
 
 **What good works has the Son of God done for us?**
 
-Answer: He has delivered us from all sins, from death, and from the power of the devil.
+**Answer:** He has delivered us from all sins, from death, and from the power of the devil.
 
 > **1 John 1:7**
 >
@@ -313,7 +313,7 @@ Answer: He has delivered us from all sins, from death, and from the power of the
 
 **By what means did He redeem us?**
 
-Answer: Not with gold nor with silver, but with His holy and precious blood.
+**Answer:** Not with gold nor with silver, but with His holy and precious blood.
 
 > **1 Pet. 1:18,19**
 >
@@ -322,7 +322,7 @@ Answer: Not with gold nor with silver, but with His holy and precious blood.
 
 **What further good has He done for us?**
 
-Answer: He has also fulfilled the law in our stead, by His perfect obedience.
+**Answer:** He has also fulfilled the law in our stead, by His perfect obedience.
 
 > **Gal. 4:4,5**
 >
@@ -335,7 +335,7 @@ Answer: He has also fulfilled the law in our stead, by His perfect obedience.
 
 **What names is He given in this article of faith?**
 
-Answer: Jesus Christ.
+**Answer:** Jesus Christ.
 
 > **1 Cor. 3:11**
 >
@@ -352,7 +352,7 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 **What does this mean?**
 
-Answer: I believe that God has made me together with all His other creatures; that He has given me my body and soul, eyes, ears, and all my other members, my reason, faculties, and understanding, and still preserves them all; that He also gives me abundantly, day by day, food and clothing, home and house, spouse and children, field, cattle, and all that I need for the nourishment of my body; that He still protects and defends me, and wards off and turns away all dangers and perils from me. And all this He does out of pure fatherly and divine goodness and mercy, without any merit or worthiness in me; for all of which it is my duty to thank, praise, honor, hear, and serve Him. This is most certainly true.
+**Answer:** I believe that God has made me together with all His other creatures; that He has given me my body and soul, eyes, ears, and all my other members, my reason, faculties, and understanding, and still preserves them all; that He also gives me abundantly, day by day, food and clothing, home and house, spouse and children, field, cattle, and all that I need for the nourishment of my body; that He still protects and defends me, and wards off and turns away all dangers and perils from me. And all this He does out of pure fatherly and divine goodness and mercy, without any merit or worthiness in me; for all of which it is my duty to thank, praise, honor, hear, and serve Him. This is most certainly true.
 
 
 <a id="rg-03-1-1-the-apostles-creed-first-article-part-1-001"></a>

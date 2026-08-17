@@ -23,7 +23,7 @@ Jesus was transfigured before Peter, James, and John, and the Father declared Hi
 
 **Why is God called Father in this prayer?**
 
-Answer: To this end, that we may put ourselves in remembrance of His fatherly goodness and love, who hath created us and in Baptism hath received us as His children; that we may in no wise doubt of the hearing of our prayer, when we pray unto Him and call upon Him in childlike trust.
+**Answer:** To this end, that we may put ourselves in remembrance of His fatherly goodness and love, who hath created us and in Baptism hath received us as His children; that we may in no wise doubt of the hearing of our prayer, when we pray unto Him and call upon Him in childlike trust.
 
 > **Luke 11:9**
 >
@@ -32,7 +32,7 @@ Answer: To this end, that we may put ourselves in remembrance of His fatherly go
 
 **Why do we say, “Our Father”?**
 
-Answer: That we may in faith trustfully pray unto Him, not for ourselves only, but also for others, and especially for those who are our brethren and sisters in the faith.
+**Answer:** That we may in faith trustfully pray unto Him, not for ourselves only, but also for others, and especially for those who are our brethren and sisters in the faith.
 
 > **Col. 1:9**
 >
@@ -41,7 +41,7 @@ Answer: That we may in faith trustfully pray unto Him, not for ourselves only, b
 
 **What is meant by the words “in heaven”?**
 
-Answer: Not as though God dwelt in the created heaven, as in a particular place, for the heavens and the heaven of heavens cannot contain Him; but thereby is understood the dwelling-place of God's glory and the heavenly height, in that light whereunto no man can attain, neither can comprehend it.
+**Answer:** Not as though God dwelt in the created heaven, as in a particular place, for the heavens and the heaven of heavens cannot contain Him; but thereby is understood the dwelling-place of God's glory and the heavenly height, in that light whereunto no man can attain, neither can comprehend it.
 
 > **Matt. 23:9**
 >
@@ -62,11 +62,11 @@ Answer: Not as though God dwelt in the created heaven, as in a particular place,
 
 **How many petitions are there?**
 
-Answer: Seven. The first petition
+**Answer:** Seven. The first petition
 
 **How do we hallow God’s name?**
 
-Answer: When we rightly know, thank and praise God, hear His word, and order our manner of life according thereto, then is His name hallowed by us.
+**Answer:** When we rightly know, thank and praise God, hear His word, and order our manner of life according thereto, then is His name hallowed by us.
 
 > **1 Pet. 3:15**
 >
@@ -79,7 +79,7 @@ Answer: When we rightly know, thank and praise God, hear His word, and order our
 
 **From what evil do we ask God to preserve us?**
 
-Answer: From false and schismatic doctrine, and likewise from a sinful and offensive life, whereby God's name is dishonoured.
+**Answer:** From false and schismatic doctrine, and likewise from a sinful and offensive life, whereby God's name is dishonoured.
 
 > **Matt. 15:9**
 >
@@ -101,11 +101,11 @@ Hallowed be thy name.
 
 **What does this mean?**
 
-Answer: God's name is indeed holy in itself; but we pray in this petition that it may be hallowed among us also.
+**Answer:** God's name is indeed holy in itself; but we pray in this petition that it may be hallowed among us also.
 
 **How and when does this happen?**
 
-Answer: When the Word of God is taught clearly and purely, and we, as the children of God, live holy lives according to it; to this help us, dear heavenly Father! But whosoever teaches and lives otherwise than the Word of God directs, profanes the name of God among us; from this preserve us, heavenly Father!
+**Answer:** When the Word of God is taught clearly and purely, and we, as the children of God, live holy lives according to it; to this help us, dear heavenly Father! But whosoever teaches and lives otherwise than the Word of God directs, profanes the name of God among us; from this preserve us, heavenly Father!
 
 
 <a id="rg-04-2-1-the-lord-s-prayer-the-first-petition-001"></a>

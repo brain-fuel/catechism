@@ -44,6 +44,9 @@ let ValidateLutherScope () : Unit :=
 let ValidateConfessionStructure () : Unit :=
   Shell "set -eu; for file in content/units/32-confession-and-absolution.md content/enchiridion.md; do for heading in 'The Two Parts of Confession' 'What Should Be Confessed' 'A Short Form of Confession' 'The Absolution' 'Pastoral Consolation' 'Christ’s Command'; do grep -qF \"### ${heading}\" \"$file\"; done; for heading in 'The Penitent’s Request' 'A Servant’s Confession' 'A Head of Household’s Confession' 'Confess Known Sins Without Inventing More' 'A General Confession' 'Another General Confession' 'A Prayer to Christ'; do grep -qF \"#### ${heading}\" \"$file\"; done; ! awk 'length($0) > 1000 {bad=1} END {exit bad}' \"$file\"; done"
 
+let ValidateAnswerLabels () : Unit :=
+  Shell "set -eu; questions=$(grep -RhEc '^\\*\\*[^*]+\\?\\*\\*$' content/units content/enchiridion.md | awk '{s+=$1} END{print s}'); answers=$(grep -RhEc '^\\*\\*Answer:\\*\\*' content/units content/enchiridion.md | awk '{s+=$1} END{print s}'); test \"$questions\" = 430; test \"$answers\" = \"$questions\"; ! grep -Rq '^Answer:' content/units content/enchiridion.md"
+
 let ValidateSacredArt () : Unit :=
   Shell "set -eu; test $(grep -Rl '^## Story and sacred art$' content/units/*.md | wc -l | tr -d ' ') = 35; for f in content/units/*.md; do test \"$(grep '^## ' \"$f\" | head -1)\" = '## Story and sacred art'; done; test $(grep -Rh '^!\\[.*\\](/assets/art/unit-[0-9][0-9]-.*\\.jpg)$' content/units/*.md | wc -l | tr -d ' ') = 35; test $(grep -c '^  - {unit:' assets/sacred-art.yaml) = 35; ! grep -qiE 'NC|ND|unclear' assets/sacred-art.yaml; for src in $(grep -Rho '/assets/art/unit-[0-9][0-9]-[^)]*\\.jpg' content/units | sort -u); do test -s \".${src}\"; done"
 
@@ -71,7 +74,7 @@ let BuildPrintableEditions () : Unit :=
 let main () : Unit := do {
   let line := strings.Join os.Args " ";
   if strings.Contains line " coverage" then Coverage ()
-  else if strings.Contains line " validate" then do { Validate (); ValidateCapitalization (); ValidateFrontMatter (); ValidateImagesAndNames (); ValidateEditorialBoilerplate (); ValidateDecalogue (); ValidateLutherScope (); ValidateConfessionStructure (); ValidateSacredArt (); ValidateDivineService (); ValidateTableOfDuties (); ValidatePenitentialPsalms () }
+  else if strings.Contains line " validate" then do { Validate (); ValidateCapitalization (); ValidateFrontMatter (); ValidateImagesAndNames (); ValidateEditorialBoilerplate (); ValidateDecalogue (); ValidateLutherScope (); ValidateConfessionStructure (); ValidateAnswerLabels (); ValidateSacredArt (); ValidateDivineService (); ValidateTableOfDuties (); ValidatePenitentialPsalms () }
   else if strings.Contains line " sources" then fmt.Println "offline sources synchronized at 94d44842cb242e8aa840330748e03d2803f2a7c1"
   else if strings.Contains line " build" then do {
     Validate ();
@@ -82,6 +85,7 @@ let main () : Unit := do {
     ValidateDecalogue ();
     ValidateLutherScope ();
     ValidateConfessionStructure ();
+    ValidateAnswerLabels ();
     ValidateSacredArt ();
     ValidateDivineService ();
     ValidateTableOfDuties ();

@@ -23,7 +23,7 @@ The women came expecting to find Jesus’ body, but heard that the crucified One
 
 **Does Baptism also deliver us from death?**
 
-Answer: Truly; — for through Baptism Christ liveth in us, and we in Him; therefore can no death harm us.
+**Answer:** Truly; — for through Baptism Christ liveth in us, and we in Him; therefore can no death harm us.
 
 > **Gal. 2:20**
 >
@@ -32,15 +32,15 @@ Answer: Truly; — for through Baptism Christ liveth in us, and we in Him; there
 
 **How many kinds of death are there?**
 
-Answer: Of three kinds: natural, spiritual, and eternal.
+**Answer:** Of three kinds: natural, spiritual, and eternal.
 
 **What is natural death?**
 
-Answer: When the soul and the body are parted the one from the other.
+**Answer:** When the soul and the body are parted the one from the other.
 
 **What is spiritual death?**
 
-Answer: When the soul, through sin, is parted from God.
+**Answer:** When the soul, through sin, is parted from God.
 
 > **Eph. 2:1**
 >
@@ -53,7 +53,7 @@ Answer: When the soul, through sin, is parted from God.
 
 **What is eternal death?**
 
-Answer: When the soul and the body are separated from the presence of God eternally, and cast into outer darkness.
+**Answer:** When the soul and the body are separated from the presence of God eternally, and cast into outer darkness.
 
 > **Matt. 10:28**
 >
@@ -66,7 +66,7 @@ Answer: When the soul and the body are separated from the presence of God eterna
 
 **Are we, through Baptism, delivered from all such death?**
 
-Answer: We are; — for though we must naturally and temporally die, yet that death doth not harm us; for it cannot hold us eternally, but at the last day we shall rise up, as out of sleep, unto eternal life.
+**Answer:** We are; — for though we must naturally and temporally die, yet that death doth not harm us; for it cannot hold us eternally, but at the last day we shall rise up, as out of sleep, unto eternal life.
 
 > **1 Pet. 3:21**
 >
@@ -79,7 +79,7 @@ Answer: We are; — for though we must naturally and temporally die, yet that de
 
 **Are we also delivered from the devil through Baptism?**
 
-Answer: Because of sin we are under the power of the devil; but through Baptism we are translated into the kingdom of Christ, and separated from the devil.
+**Answer:** Because of sin we are under the power of the devil; but through Baptism we are translated into the kingdom of Christ, and separated from the devil.
 
 > **Col. 1:12,13**
 >
@@ -88,7 +88,7 @@ Answer: Because of sin we are under the power of the devil; but through Baptism 
 
 **How does Baptism give eternal life?**
 
-Answer: In this, that it giveth us power to become the children of God; it also maketh us heirs of the kingdom of God and of eternal salvation.
+**Answer:** In this, that it giveth us power to become the children of God; it also maketh us heirs of the kingdom of God and of eternal salvation.
 
 > **John 1:12,13**
 >
@@ -109,7 +109,7 @@ As the head of the family should teach it in a simple way to his household.
 
 **How can water do such great things?**
 
-Answer: It is not the water indeed that does them, but the Word of God which is in and with the water, and faith, which trusts such Word of God in the water. For without the Word of God the water is simple water and no Baptism; but with the Word of God it is a Baptism, that is, a gracious water of life and a washing of regeneration in the Holy Ghost, as St. Paul says in his Epistle to Titus, in the third chapter: According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Savior; that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is a faithful saying.
+**Answer:** It is not the water indeed that does them, but the Word of God which is in and with the water, and faith, which trusts such Word of God in the water. For without the Word of God the water is simple water and no Baptism; but with the Word of God it is a Baptism, that is, a gracious water of life and a washing of regeneration in the Holy Ghost, as St. Paul says in his Epistle to Titus, in the third chapter: According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Savior; that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is a faithful saying.
 
 
 <a id="rg-05-1-3-the-power-of-baptism-001"></a>

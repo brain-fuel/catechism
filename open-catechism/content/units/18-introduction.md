@@ -23,7 +23,7 @@ The Holy Ghost led Simeon into the temple, where he took the infant Jesus in his
 
 **How should we pray for all these things?**
 
-Answer: Spiritual things are to be prayed for without conditions; for we know that God will surely give them unto us, and they are ever needful for us; but temporal things we must ask with a condition, namely, if they be pleasing unto God and profitable unto us.
+**Answer:** Spiritual things are to be prayed for without conditions; for we know that God will surely give them unto us, and they are ever needful for us; but temporal things we must ask with a condition, namely, if they be pleasing unto God and profitable unto us.
 
 > **Luke 18:13**
 >
@@ -36,7 +36,7 @@ Answer: Spiritual things are to be prayed for without conditions; for we know th
 
 **Who taught us the prayer “Our Father”?**
 
-Answer: Christ Himself.
+**Answer:** Christ Himself.
 
 > **Matt. 6:9**
 >
@@ -44,15 +44,15 @@ Answer: Christ Himself.
 
 **How is the Lord’s Prayer arranged?**
 
-Answer: First there is the preface, then the petitions themselves, and lastly the conclusion.
+**Answer:** First there is the preface, then the petitions themselves, and lastly the conclusion.
 
 **What is the preface?**
 
-Answer: Our Father, which art in heaven.
+**Answer:** Our Father, which art in heaven.
 
 **Who is meant by the name “Father”?**
 
-Answer: Thereby is understood not the Father alone, the first Person in the being of the Godhead, but the whole Holy Trinity: Father, Son and Holy Ghost; not as to the Persons, but as to the being.
+**Answer:** Thereby is understood not the Father alone, the first Person in the being of the Godhead, but the whole Holy Trinity: Father, Son and Holy Ghost; not as to the Persons, but as to the being.
 
 > **Isa. 63:16**
 >
@@ -69,7 +69,7 @@ As the head of the family should teach it in a simple way to his household. Our 
 
 **What does this mean?**
 
-Answer: By this preface God would draw us to believe firmly that He is truly our Father, and we are His dear children, that we may with all boldness and confidence pray unto Him, as dear children ask their parents for what they need.
+**Answer:** By this preface God would draw us to believe firmly that He is truly our Father, and we are His dear children, that we may with all boldness and confidence pray unto Him, as dear children ask their parents for what they need.
 
 
 <a id="rg-04-1-the-lord-s-prayer-the-introduction-001"></a>

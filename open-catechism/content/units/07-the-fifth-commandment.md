@@ -23,11 +23,11 @@ Jesus tells of a wounded traveler whom a priest and Levite passed by, but a Sama
 
 **How is this promise to be understood?**
 
-Answer: It is to be understood on this condition: if it is profitable to us and pleasing to God.
+**Answer:** It is to be understood on this condition: if it is profitable to us and pleasing to God.
 
 **What is forbidden in the fourth commandment?**
 
-Answer: Disobedience, contempt, the angering of parents, or of all those who are understood by the name of father and mother.
+**Answer:** Disobedience, contempt, the angering of parents, or of all those who are understood by the name of father and mother.
 
 > **Deut. 27:16**
 >
@@ -40,11 +40,11 @@ Answer: Disobedience, contempt, the angering of parents, or of all those who are
 
 **What does God forbid in the fifth commandment?**
 
-Answer: Killing, or the slaying of a man.
+**Answer:** Killing, or the slaying of a man.
 
 **In what ways is murder committed?**
 
-Answer: When someone, whether himself or through others, secretly or openly, strikes dead, or kills with poison, or harms the life or the members of his neighbour, hates him from his heart, treats him with evil words and behaviour, and persecutes him.
+**Answer:** When someone, whether himself or through others, secretly or openly, strikes dead, or kills with poison, or harms the life or the members of his neighbour, hates him from his heart, treats him with evil words and behaviour, and persecutes him.
 
 > **Gen. 9:6**
 >
@@ -61,15 +61,15 @@ Answer: When someone, whether himself or through others, secretly or openly, str
 
 **Does God, then, forbid all killing and anger?**
 
-Answer: No; the earthly government, into whose hand God has given the sword for the punishment of the wicked, ought to punish the cruel.
+**Answer:** No; the earthly government, into whose hand God has given the sword for the punishment of the wicked, ought to punish the cruel.
 
 **What is commanded in the fifth commandment?**
 
-Answer: That we should help, deliver, and care for our neighbour in all his need.
+**Answer:** That we should help, deliver, and care for our neighbour in all his need.
 
 **How is this done?**
 
-Answer: When we have mercy upon our neighbour and are diligent in all that is for the good of his life and his health, and hinder that which may harm him.
+**Answer:** When we have mercy upon our neighbour and are diligent in all that is for the good of his life and his health, and hinder that which may harm him.
 
 ### Luther’s Small Catechism
 
@@ -81,7 +81,7 @@ Thou shalt not kill.
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do no harm to our neighbor in his body or life, nor do any wrong against him, but help him, care for him, and defend him in every bodily peril.
+**Answer:** We should fear and love God, so that we do no harm to our neighbor in his body or life, nor do any wrong against him, but help him, care for him, and defend him in every bodily peril.
 
 
 <a id="rg-02-5-the-fifth-commandment-001"></a>

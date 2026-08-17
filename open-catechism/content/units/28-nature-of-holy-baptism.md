@@ -20,39 +20,39 @@ Jesus came to John and was baptized; the heavens opened, the Holy Ghost descende
 
 **What is a sacrament?**
 
-Answer: A sacrament is a holy ordinance and work of grace, wherein God, through visible and earthly elements, dealeth out heavenly gifts, and thereby not only offereth unto men the sweet promises of grace of the Gospel, but also giveth and sealeth them in the hearts of those who rightly receive them and enjoy them in faith.
+**Answer:** A sacrament is a holy ordinance and work of grace, wherein God, through visible and earthly elements, dealeth out heavenly gifts, and thereby not only offereth unto men the sweet promises of grace of the Gospel, but also giveth and sealeth them in the hearts of those who rightly receive them and enjoy them in faith.
 
 **How many kinds of sacraments are there?**
 
-Answer: Of two kinds: the one of the Old, the other of the New Testament.
+**Answer:** Of two kinds: the one of the Old, the other of the New Testament.
 
 **What were the sacraments of the Old Testament?**
 
-Answer: Circumcision and the paschal lamb.
+**Answer:** Circumcision and the paschal lamb.
 
 **What are the sacraments of the New Testament?**
 
-Answer: Baptism and the sacrament of the altar, or the Lord's Supper.
+**Answer:** Baptism and the sacrament of the altar, or the Lord's Supper.
 
 **What is Baptism?**
 
-Answer: Baptism is not simply bare water, but is water comprehended in God's command and united with His word.
+**Answer:** Baptism is not simply bare water, but is water comprehended in God's command and united with His word.
 
 **What does it mean that the water is included in God’s command?**
 
-Answer: It is: ordained and commanded of God.
+**Answer:** It is: ordained and commanded of God.
 
 **What does it mean that the water is united with God’s Word?**
 
-Answer: It is: united and hallowed with God's Word and His holy name in a sacramental manner.
+**Answer:** It is: united and hallowed with God's Word and His holy name in a sacramental manner.
 
 **Can you say it more plainly?**
 
-Answer: I can, in this way: Baptism is the first sacrament of the New Testament, in which God, through water and the Word, receives a person into His covenant, cleanses him from his sins, and confirms him in grace and in the right to inherit eternal life. In response, the person renounces the devil and all his works and gives himself entirely (firmly promises or undertakes) to serve God in sincere faith and in true holiness and righteousness.
+**Answer:** I can, in this way: Baptism is the first sacrament of the New Testament, in which God, through water and the Word, receives a person into His covenant, cleanses him from his sins, and confirms him in grace and in the right to inherit eternal life. In response, the person renounces the devil and all his works and gives himself entirely (firmly promises or undertakes) to serve God in sincere faith and in true holiness and righteousness.
 
 **Who instituted and ordained Baptism?**
 
-Answer: God Himself sent John to baptize, and thereafter Jesus Christ commanded His disciples to go out into all the world to make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Ghost.
+**Answer:** God Himself sent John to baptize, and thereafter Jesus Christ commanded His disciples to go out into all the world to make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Ghost.
 
 > **Luke 3:2,3**
 >
@@ -73,11 +73,11 @@ As the head of the family should teach it in a simple way to his household.
 
 **What is Baptism?**
 
-Answer: Baptism is not simple water only, but it is water comprehended in God's command and connected with His Word.
+**Answer:** Baptism is not simple water only, but it is water comprehended in God's command and connected with His Word.
 
 **What are those words of God?**
 
-Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Matthew: Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you.
+**Answer:** Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Matthew: Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you.
 
 
 <a id="rg-05-1-1-the-nature-of-holy-baptism-001"></a>

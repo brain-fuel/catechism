@@ -15,7 +15,7 @@ I am Yahweh thy God, which have brought thee out of the land of Egypt, out of th
 
 **What does this mean?**
 
-Answer: We should fear and love God above all things, and trust in Him alone.
+**Answer:** We should fear and love God above all things, and trust in Him alone.
 
 ### The Second Commandment
 
@@ -23,7 +23,7 @@ Thou shalt not take the name of Yahweh thy God in vain; for Yahweh will not hold
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not curse, swear, practice witchcraft, lie, or deceive by His name, but call upon it in every trouble and distress, pray, praise, and give thanks.
+**Answer:** We should fear and love God, so that we do not curse, swear, practice witchcraft, lie, or deceive by His name, but call upon it in every trouble and distress, pray, praise, and give thanks.
 
 ### The Third Commandment
 
@@ -31,7 +31,7 @@ Remember the sabbath day, to keep it holy.
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not despise preaching and His Word, but hold it sacred, and gladly hear and learn it.
+**Answer:** We should fear and love God, so that we do not despise preaching and His Word, but hold it sacred, and gladly hear and learn it.
 
 ### The Fourth Commandment
 
@@ -39,7 +39,7 @@ Honour thy father and thy mother: that thy days may be long upon the land which 
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not despise or anger our parents, our rulers, and our masters, but honor them, serve and obey them, and hold them dear and precious.
+**Answer:** We should fear and love God, so that we do not despise or anger our parents, our rulers, and our masters, but honor them, serve and obey them, and hold them dear and precious.
 
 ### The Fifth Commandment
 
@@ -47,7 +47,7 @@ Thou shalt not kill.
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do no harm to our neighbor in his body or life, nor do any wrong against him, but help him, care for him, and defend him in every bodily peril.
+**Answer:** We should fear and love God, so that we do no harm to our neighbor in his body or life, nor do any wrong against him, but help him, care for him, and defend him in every bodily peril.
 
 ### The Sixth Commandment
 
@@ -55,7 +55,7 @@ Thou shalt not commit adultery.
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we are pure and chaste in thoughts, words, and deeds, and that each one loves and honors his spouse.
+**Answer:** We should fear and love God, so that we are pure and chaste in thoughts, words, and deeds, and that each one loves and honors his spouse.
 
 ### The Seventh Commandment
 
@@ -63,7 +63,7 @@ Thou shalt not steal.
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not take our neighbor's money or goods, nor get them by any wrong or deceit, but help him to improve and protect his property and living.
+**Answer:** We should fear and love God, so that we do not take our neighbor's money or goods, nor get them by any wrong or deceit, but help him to improve and protect his property and living.
 
 ### The Eighth Commandment
 
@@ -71,7 +71,7 @@ Thou shalt not bear false witness against thy neighbour.
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not lie about our neighbor, nor betray, slander, or bring an evil report upon him, but defend him, think and speak well of him, and put the best construction on all things.
+**Answer:** We should fear and love God, so that we do not lie about our neighbor, nor betray, slander, or bring an evil report upon him, but defend him, think and speak well of him, and put the best construction on all things.
 
 ### The Ninth Commandment
 
@@ -79,7 +79,7 @@ Thou shalt not covet thy neighbour’s house.
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not by craft seek after our neighbor's inheritance, property, or house, nor obtain it for ourselves under the pretense of any right or the color of law, but help him that he may keep and enjoy it.
+**Answer:** We should fear and love God, so that we do not by craft seek after our neighbor's inheritance, property, or house, nor obtain it for ourselves under the pretense of any right or the color of law, but help him that he may keep and enjoy it.
 
 ### The Tenth Commandment
 
@@ -87,15 +87,15 @@ Thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidser
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not draw away or entice from our neighbor his wife or his servants, but rather help them to stay and do what they are bound to do.
+**Answer:** We should fear and love God, so that we do not draw away or entice from our neighbor his wife or his servants, but rather help them to stay and do what they are bound to do.
 
 **What does God say of all these commandments?**
 
-Answer: Thus saith Yahweh: I Yahweh thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
+**Answer:** Thus saith Yahweh: I Yahweh thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto many thousands of them that love me and keep my commandments.
 
 **What does this mean?**
 
-Answer: God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
+**Answer:** God threatens to punish all who break and transgress these His commandments; therefore we should fear His wrath, so that we do not break His commandments. But grace and every good thing He promises to all who keep His commandments; therefore we should love Him, trust in Him, and gladly do according to His commandments.
 
 ## The Apostles’ Creed
 
@@ -107,7 +107,7 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 **What does this mean?**
 
-Answer: I believe that God has made me together with all His other creatures; that He has given me my body and soul, eyes, ears, and all my other members, my reason, faculties, and understanding, and still preserves them all; that He also gives me abundantly, day by day, food and clothing, home and house, spouse and children, field, cattle, and all that I need for the nourishment of my body; that He still protects and defends me, and wards off and turns away all dangers and perils from me. And all this He does out of pure fatherly and divine goodness and mercy, without any merit or worthiness in me; for all of which it is my duty to thank, praise, honor, hear, and serve Him. This is most certainly true.
+**Answer:** I believe that God has made me together with all His other creatures; that He has given me my body and soul, eyes, ears, and all my other members, my reason, faculties, and understanding, and still preserves them all; that He also gives me abundantly, day by day, food and clothing, home and house, spouse and children, field, cattle, and all that I need for the nourishment of my body; that He still protects and defends me, and wards off and turns away all dangers and perils from me. And all this He does out of pure fatherly and divine goodness and mercy, without any merit or worthiness in me; for all of which it is my duty to thank, praise, honor, hear, and serve Him. This is most certainly true.
 
 ### The Second Article
 
@@ -115,7 +115,7 @@ Of the Son of God and of Redemption. I believe in Jesus Christ, His only Son, ou
 
 **What does this mean?**
 
-Answer: I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord, who has redeemed me, a lost and condemned man, and delivered and freed me from all sin, from death, and from the power of the devil; not with gold or silver, but with His holy and precious blood, and with His innocent suffering and death: that I should be His own, and live under Him in His kingdom as His subject, and serve Him in everlasting righteousness, innocence, and blessedness; even as He is risen from the dead, and lives and reigns to all eternity. This is most certainly true.
+**Answer:** I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord, who has redeemed me, a lost and condemned man, and delivered and freed me from all sin, from death, and from the power of the devil; not with gold or silver, but with His holy and precious blood, and with His innocent suffering and death: that I should be His own, and live under Him in His kingdom as His subject, and serve Him in everlasting righteousness, innocence, and blessedness; even as He is risen from the dead, and lives and reigns to all eternity. This is most certainly true.
 
 ### The Third Article
 
@@ -123,7 +123,7 @@ Of the Holy Ghost and of Sanctification. I believe in the Holy Ghost, one holy C
 
 **What does this mean?**
 
-Answer: I believe and confess that I cannot by my own reason or strength believe in Jesus Christ my Lord, or come to Him; but the Holy Ghost has called me by the Gospel, enlightened me with His gifts, kept me in the true faith, sanctified and preserved me; even as He calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and preserves it in Jesus Christ through the one true faith; in which Christian Church He daily and richly forgives me and all believers all our sins, and at the last day will raise up me and all the dead, and give unto me and all believers in Christ everlasting life. This is most certainly true.
+**Answer:** I believe and confess that I cannot by my own reason or strength believe in Jesus Christ my Lord, or come to Him; but the Holy Ghost has called me by the Gospel, enlightened me with His gifts, kept me in the true faith, sanctified and preserved me; even as He calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and preserves it in Jesus Christ through the one true faith; in which Christian Church He daily and richly forgives me and all believers all our sins, and at the last day will raise up me and all the dead, and give unto me and all believers in Christ everlasting life. This is most certainly true.
 
 ## The Lord’s Prayer
 
@@ -131,7 +131,7 @@ As the head of the family should teach it in a simple way to his household. Our 
 
 **What does this mean?**
 
-Answer: By this preface God would draw us to believe firmly that He is truly our Father, and we are His dear children, that we may with all boldness and confidence pray unto Him, as dear children ask their parents for what they need.
+**Answer:** By this preface God would draw us to believe firmly that He is truly our Father, and we are His dear children, that we may with all boldness and confidence pray unto Him, as dear children ask their parents for what they need.
 
 ### The First Petition
 
@@ -139,11 +139,11 @@ Hallowed be thy name.
 
 **What does this mean?**
 
-Answer: God's name is indeed holy in itself; but we pray in this petition that it may be hallowed among us also.
+**Answer:** God's name is indeed holy in itself; but we pray in this petition that it may be hallowed among us also.
 
 **How and when does this happen?**
 
-Answer: When the Word of God is taught clearly and purely, and we, as the children of God, live holy lives according to it; to this help us, dear heavenly Father! But whosoever teaches and lives otherwise than the Word of God directs, profanes the name of God among us; from this preserve us, heavenly Father!
+**Answer:** When the Word of God is taught clearly and purely, and we, as the children of God, live holy lives according to it; to this help us, dear heavenly Father! But whosoever teaches and lives otherwise than the Word of God directs, profanes the name of God among us; from this preserve us, heavenly Father!
 
 ### The Second Petition
 
@@ -151,11 +151,11 @@ Thy kingdom come.
 
 **What does this mean?**
 
-Answer: The kingdom of God comes indeed of itself, without our prayer; but we pray in this petition that it may come unto us also.
+**Answer:** The kingdom of God comes indeed of itself, without our prayer; but we pray in this petition that it may come unto us also.
 
 **How and when does this happen?**
 
-Answer: When our heavenly Father gives us His Holy Ghost, so that by His grace we believe His Word, and live holy lives here in this world, and hereafter in heaven forever.
+**Answer:** When our heavenly Father gives us His Holy Ghost, so that by His grace we believe His Word, and live holy lives here in this world, and hereafter in heaven forever.
 
 ### The Third Petition
 
@@ -163,11 +163,11 @@ Thy will be done on earth as it is in heaven.
 
 **What does this mean?**
 
-Answer: The good and gracious will of God is done indeed without our prayer; but we pray in this petition that it may be done among us also.
+**Answer:** The good and gracious will of God is done indeed without our prayer; but we pray in this petition that it may be done among us also.
 
 **How and when does this happen?**
 
-Answer: When God restrains and breaks the will of our flesh and every evil counsel, and shatters and brings to nothing all the devices of the devil and the world, which will not let us hallow God's name and will not let His kingdom come unto us; and when He keeps us steadfast in His Word and in the true faith unto the end. Thus His good and gracious will is done.
+**Answer:** When God restrains and breaks the will of our flesh and every evil counsel, and shatters and brings to nothing all the devices of the devil and the world, which will not let us hallow God's name and will not let His kingdom come unto us; and when He keeps us steadfast in His Word and in the true faith unto the end. Thus His good and gracious will is done.
 
 ### The Fourth Petition
 
@@ -175,11 +175,11 @@ Give us this day our daily bread.
 
 **What does this mean?**
 
-Answer: God indeed gives daily bread to all men, even to the wicked, without our prayer; but we pray in this petition that He would make us to know it, and to receive our daily bread with thanksgiving, understanding that the bread by which we are fed is His gift.
+**Answer:** God indeed gives daily bread to all men, even to the wicked, without our prayer; but we pray in this petition that He would make us to know it, and to receive our daily bread with thanksgiving, understanding that the bread by which we are fed is His gift.
 
 **What is meant by daily bread?**
 
-Answer: All that pertains to the nourishment and need of the body; such as food, drink, clothing, home and homestead, field, cattle, money and goods, a good spouse, obedient children, faithful household, godly and good rulers, good government, seasonable weather, peace, health, good order, honorable conduct, good friends, faithful neighbors, and the like.
+**Answer:** All that pertains to the nourishment and need of the body; such as food, drink, clothing, home and homestead, field, cattle, money and goods, a good spouse, obedient children, faithful household, godly and good rulers, good government, seasonable weather, peace, health, good order, honorable conduct, good friends, faithful neighbors, and the like.
 
 ### The Fifth Petition
 
@@ -187,7 +187,7 @@ And forgive us our trespasses, as we forgive them that trespass against us.
 
 **What does this mean?**
 
-Answer: We pray in this petition that our heavenly Father would not regard our sins, nor for their sake deny our prayer; for we are worthy of none of the things for which we pray, neither have we deserved them; but that He would grant them all to us by grace, for we sin daily in many ways and deserve nothing but punishment. And so we too will heartily forgive, and gladly do good to, those who sin against us.
+**Answer:** We pray in this petition that our heavenly Father would not regard our sins, nor for their sake deny our prayer; for we are worthy of none of the things for which we pray, neither have we deserved them; but that He would grant them all to us by grace, for we sin daily in many ways and deserve nothing but punishment. And so we too will heartily forgive, and gladly do good to, those who sin against us.
 
 ### The Sixth Petition
 
@@ -195,7 +195,7 @@ And lead us not into temptation.
 
 **What does this mean?**
 
-Answer: God indeed tempts no one; but we pray in this petition that God would guard and keep us, so that the devil, the world, and our flesh may not deceive us, nor lead us into unbelief, despair, and other great and shameful sins; and though we be assailed by them, that we may at last overcome and gain the victory.
+**Answer:** God indeed tempts no one; but we pray in this petition that God would guard and keep us, so that the devil, the world, and our flesh may not deceive us, nor lead us into unbelief, despair, and other great and shameful sins; and though we be assailed by them, that we may at last overcome and gain the victory.
 
 ### The Seventh Petition
 
@@ -203,7 +203,7 @@ But deliver us from evil.
 
 **What does this mean?**
 
-Answer: We pray in this petition, as in a summary, that our dear heavenly Father would deliver us from every evil, of body and soul, of property and honor, and that
+**Answer:** We pray in this petition, as in a summary, that our dear heavenly Father would deliver us from every evil, of body and soul, of property and honor, and that
 
 at last, when our hour of death shall come, He would grant us a blessed end, and graciously take us from this vale of tears to Himself in heaven.
 
@@ -213,7 +213,7 @@ For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 **What does “Amen” mean?**
 
-Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
+**Answer:** That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
 ## The Sacrament of Holy Baptism
 
@@ -221,31 +221,31 @@ As the head of the family should teach it in a simple way to his household.
 
 **What is Baptism?**
 
-Answer: Baptism is not simple water only, but it is water comprehended in God's command and connected with His Word.
+**Answer:** Baptism is not simple water only, but it is water comprehended in God's command and connected with His Word.
 
 **What are those words of God?**
 
-Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Matthew: Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you.
+**Answer:** Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Matthew: Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you.
 
 **What gifts or benefits does Baptism bestow?**
 
-Answer: Baptism works forgiveness of sins, delivers from death and the devil, and gives everlasting life to all who believe the words and promises of God.
+**Answer:** Baptism works forgiveness of sins, delivers from death and the devil, and gives everlasting life to all who believe the words and promises of God.
 
 **What are those words and promises of God?**
 
-Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Mark: He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
+**Answer:** Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Mark: He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 
 **How can water do such great things?**
 
-Answer: It is not the water indeed that does them, but the Word of God which is in and with the water, and faith, which trusts such Word of God in the water. For without the Word of God the water is simple water and no Baptism; but with the Word of God it is a Baptism, that is, a gracious water of life and a washing of regeneration in the Holy Ghost, as St. Paul says in his Epistle to Titus, in the third chapter: According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Savior; that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is a faithful saying.
+**Answer:** It is not the water indeed that does them, but the Word of God which is in and with the water, and faith, which trusts such Word of God in the water. For without the Word of God the water is simple water and no Baptism; but with the Word of God it is a Baptism, that is, a gracious water of life and a washing of regeneration in the Holy Ghost, as St. Paul says in his Epistle to Titus, in the third chapter: According to His mercy He saved us, by the washing of regeneration and renewing of the Holy Ghost, which He shed on us abundantly through Jesus Christ our Savior; that, being justified by His grace, we should be made heirs according to the hope of eternal life. This is a faithful saying.
 
 **What does Baptism signify?**
 
-Answer: It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts; and that again a new man should daily come forth and arise, who shall live before God in righteousness and purity forever.
+**Answer:** It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts; and that again a new man should daily come forth and arise, who shall live before God in righteousness and purity forever.
 
 **Where is this written?**
 
-Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are buried with Christ by baptism into death, that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
+**Answer:** St. Paul says in his Epistle to the Romans, in the sixth chapter: We are buried with Christ by baptism into death, that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
 ## Confession and Absolution
 
@@ -255,17 +255,17 @@ How the simple should be taught to confess their sins.
 
 **What is Confession?**
 
-Answer: Confession consists of two parts: the one, that we confess our sins; the other, that we receive absolution or forgiveness from the confessor, as from God Himself, and in no wise doubt, but firmly believe that our sins are thereby forgiven before God in heaven.
+**Answer:** Confession consists of two parts: the one, that we confess our sins; the other, that we receive absolution or forgiveness from the confessor, as from God Himself, and in no wise doubt, but firmly believe that our sins are thereby forgiven before God in heaven.
 
 ### What Should Be Confessed
 
 **What sins should we confess?**
 
-Answer: Before God we should confess ourselves guilty of all sins, even of those which we do not know, as we do in the Lord's Prayer. But before the confessor we should confess only those sins which we know and feel in our hearts, and which trouble the conscience.
+**Answer:** Before God we should confess ourselves guilty of all sins, even of those which we do not know, as we do in the Lord's Prayer. But before the confessor we should confess only those sins which we know and feel in our hearts, and which trouble the conscience.
 
 **What are they?**
 
-Answer: Consider your station according to the Ten Commandments, whether you are a father, mother, son, daughter, master, mistress, or servant, and the like; whether you have been hard-hearted, unfaithful, slothful, angry, or unchaste in deeds and words; whether you have wronged anyone by words or deeds, stolen, lied, or through carelessness done any harm and injured another's goods.
+**Answer:** Consider your station according to the Ten Commandments, whether you are a father, mother, son, daughter, master, mistress, or servant, and the like; whether you have been hard-hearted, unfaithful, slothful, angry, or unchaste in deeds and words; whether you have wronged anyone by words or deeds, stolen, lied, or through carelessness done any harm and injured another's goods.
 
 ### A Short Form of Confession
 
@@ -327,7 +327,7 @@ The confessor shall ask the one confessing:
 
 **Do you believe that my forgiveness is God's forgiveness?**
 
-Answer: I do believe it.
+**Answer:** I do believe it.
 
 The confessor shall further say:
 
@@ -351,23 +351,23 @@ As the head of the family should teach it in a simple way to his household.
 
 **What is the Sacrament of the Altar?**
 
-Answer: It is the true body and blood of our Lord Jesus Christ, under the bread and wine, given unto us Christians to eat and to drink, as it was instituted and appointed by Christ Himself.
+**Answer:** It is the true body and blood of our Lord Jesus Christ, under the bread and wine, given unto us Christians to eat and to drink, as it was instituted and appointed by Christ Himself.
 
 **Where is this written?**
 
-Answer: Thus write the holy Evangelists Matthew, Mark, Luke, and St. Paul: Our Lord Jesus Christ, in the night in which He was betrayed, took bread, and when He had given thanks, He brake it, and gave it to His disciples, saying: Take, eat; this is my body, which is given for you: this do in remembrance of me. After the same manner also He took the cup, when He had given thanks, and gave it to His disciples, saying: This cup is the New Testament in my blood, which is shed for you and for many for the remission of sins: this do ye, as oft as ye drink it, in remembrance of me.
+**Answer:** Thus write the holy Evangelists Matthew, Mark, Luke, and St. Paul: Our Lord Jesus Christ, in the night in which He was betrayed, took bread, and when He had given thanks, He brake it, and gave it to His disciples, saying: Take, eat; this is my body, which is given for you: this do in remembrance of me. After the same manner also He took the cup, when He had given thanks, and gave it to His disciples, saying: This cup is the New Testament in my blood, which is shed for you and for many for the remission of sins: this do ye, as oft as ye drink it, in remembrance of me.
 
 **What benefits do such eating and drinking give?**
 
-Answer: That is shown us by these words: Given and shed for you for the remission of sins. Namely, that in this Sacrament forgiveness of sins, life, and salvation are given us through these words. For where there is forgiveness of sins, there is also life and salvation.
+**Answer:** That is shown us by these words: Given and shed for you for the remission of sins. Namely, that in this Sacrament forgiveness of sins, life, and salvation are given us through these words. For where there is forgiveness of sins, there is also life and salvation.
 
 **How can bodily eating and drinking do such great things?**
 
-Answer: It is not the eating and drinking indeed that does them, but the words here written: Given and shed for you for the remission of sins. These words, together with the bodily eating and drinking, are the chief thing in the Sacrament; and he who believes these words has what they declare and set forth, namely, the forgiveness of sins.
+**Answer:** It is not the eating and drinking indeed that does them, but the words here written: Given and shed for you for the remission of sins. These words, together with the bodily eating and drinking, are the chief thing in the Sacrament; and he who believes these words has what they declare and set forth, namely, the forgiveness of sins.
 
 **Who receives this Sacrament worthily?**
 
-Answer: Fasting and bodily preparation is indeed a fair outward discipline; but he is truly worthy and well prepared who believes these words: Given and shed for you for the remission of sins. But he who does not believe these words, but doubts, is unworthy and unprepared; for the words "for you" require truly believing hearts.
+**Answer:** Fasting and bodily preparation is indeed a fair outward discipline; but he is truly worthy and well prepared who believes these words: Given and shed for you for the remission of sins. But he who does not believe these words, but doubts, is unworthy and unprepared; for the words "for you" require truly believing hearts.
 
 ## Daily Prayers
 

@@ -23,7 +23,7 @@ At Pentecost the Holy Ghost filled the gathered disciples and enabled them to sp
 
 **Can we come to Christ and believe in Him by our own power?**
 
-Answer: By no means, for we are dead in sin. As now a dead man cannot make himself alive, so neither can we by our own power turn ourselves unto Christ and believe in Him.
+**Answer:** By no means, for we are dead in sin. As now a dead man cannot make himself alive, so neither can we by our own power turn ourselves unto Christ and believe in Him.
 
 > **Eph. 2:1,5**
 >
@@ -40,11 +40,11 @@ Answer: By no means, for we are dead in sin. As now a dead man cannot make himse
 
 **What is meant by the congregation, or the Church?**
 
-Answer: Not the house and building itself, which we call a church; for the first Christians had none such for many years, but they gathered wherever it suited them, to hear the Word and to receive the sacraments; but by it is understood the people who confess the faith of Christ.
+**Answer:** Not the house and building itself, which we call a church; for the first Christians had none such for many years, but they gathered wherever it suited them, to hear the Word and to receive the sacraments; but by it is understood the people who confess the faith of Christ.
 
 **Why is this Church called one?**
 
-Answer: Not because only one company and people is found gathered in the world in a particular place to hear the Word of God, but because one and the same Spirit teaches them, wherever they are; and they have one God, one baptism, one Saviour, one faith, one hope, one confession.
+**Answer:** Not because only one company and people is found gathered in the world in a particular place to hear the Word of God, but because one and the same Spirit teaches them, wherever they are; and they have one God, one baptism, one Saviour, one faith, one hope, one confession.
 
 > **Eph. 4:3-6**
 >
@@ -57,7 +57,7 @@ Answer: Not because only one company and people is found gathered in the world i
 
 **Why is the Church called holy?**
 
-Answer: Because Christ has sanctified the congregation with His blood, and it serves God in holiness and righteousness; the Holy Ghost separates it from all sin and uncleanness, sanctifies it through the Word and the sacraments, and appropriates to it the sanctification of Christ.
+**Answer:** Because Christ has sanctified the congregation with His blood, and it serves God in holiness and righteousness; the Holy Ghost separates it from all sin and uncleanness, sanctifies it through the Word and the sacraments, and appropriates to it the sanctification of Christ.
 
 > **Luke 1:75**
 >
@@ -70,7 +70,7 @@ Answer: Because Christ has sanctified the congregation with His blood, and it se
 
 **Why is the Church called catholic?**
 
-Answer: For the sake of the common faith and doctrine which the congregation confesses, and also because it is not bound to any particular place, nor time, nor to particular men, but is spread throughout all the world.
+**Answer:** For the sake of the common faith and doctrine which the congregation confesses, and also because it is not bound to any particular place, nor time, nor to particular men, but is spread throughout all the world.
 
 > **Acts 15:11**
 >
@@ -87,11 +87,11 @@ Answer: For the sake of the common faith and doctrine which the congregation con
 
 **Where is the holy Christian Church to be found?**
 
-Answer: In all places where the Word of God is clearly and purely taught, and the holy sacraments are administered according to the command and institution of Christ; and wherever the name of Christ is called upon in true faith.
+**Answer:** In all places where the Word of God is clearly and purely taught, and the holy sacraments are administered according to the command and institution of Christ; and wherever the name of Christ is called upon in true faith.
 
 **What is the communion of saints?**
 
-Answer: It is the communion of all Christians, who are partakers of God's gracious promises, common in faith, love, and hope, and are the true members of the spiritual body of Christ, whom God alone sees and knows.
+**Answer:** It is the communion of all Christians, who are partakers of God's gracious promises, common in faith, love, and hope, and are the true members of the spiritual body of Christ, whom God alone sees and knows.
 
 > **1 John 1:3**
 >
@@ -108,7 +108,7 @@ Answer: It is the communion of all Christians, who are partakers of God's gracio
 
 **Do you believe in the forgiveness of sins?**
 
-Answer: I believe it. I am persuaded that God, out of His grace and for Christ's sake, forgives the sins of all those who believe in Him, and does not reckon their evil deeds unto them for condemnation.
+**Answer:** I believe it. I am persuaded that God, out of His grace and for Christ's sake, forgives the sins of all those who believe in Him, and does not reckon their evil deeds unto them for condemnation.
 
 > **Acts 10:43**
 >
@@ -117,7 +117,7 @@ Answer: I believe it. I am persuaded that God, out of His grace and for Christ's
 
 **What is true faith?**
 
-Answer: Right and saving faith is not a bare knowledge of God and of His holy Word, and the holding of it as true, or assent; but it is a firm confidence and hearty trust in God, of the forgiveness of sins and of eternal life, for the sake of the merit of Jesus Christ.
+**Answer:** Right and saving faith is not a bare knowledge of God and of His holy Word, and the holding of it as true, or assent; but it is a firm confidence and hearty trust in God, of the forgiveness of sins and of eternal life, for the sake of the merit of Jesus Christ.
 
 > **Rom. 8:38,39**
 >
@@ -130,11 +130,11 @@ Answer: Right and saving faith is not a bare knowledge of God and of His holy Wo
 
 **Through what means does the Holy Ghost work faith?**
 
-Answer: Through the Word and the sacrament.
+**Answer:** Through the Word and the sacrament.
 
 **Through whom does the Holy Ghost proclaim the Word and administer the sacraments?**
 
-Answer: Through the holy office of preaching, which in Holy Scripture is called the office of the Spirit, the angels of the Lord of hosts, the labourers together with God, the stewards of His mysteries, and ambassadors on Christ's behalf.
+**Answer:** Through the holy office of preaching, which in Holy Scripture is called the office of the Spirit, the angels of the Lord of hosts, the labourers together with God, the stewards of His mysteries, and ambassadors on Christ's behalf.
 
 > **Acts 20:28**
 >
@@ -163,7 +163,7 @@ Answer: Through the holy office of preaching, which in Holy Scripture is called 
 
 **What do you understand by the resurrection of the body?**
 
-Answer: That all men who are dead, both good and evil, shall on the last day rise again and be set before the judgment seat of Christ, to receive according to that which they have done in their life.
+**Answer:** That all men who are dead, both good and evil, shall on the last day rise again and be set before the judgment seat of Christ, to receive according to that which they have done in their life.
 
 > **Dan. 12:2**
 >
@@ -185,7 +185,7 @@ Answer: That all men who are dead, both good and evil, shall on the last day ris
 
 **Does a person die in both soul and body?**
 
-Answer: No; but the body only dies and returns again to earth; but the soul is immortal.
+**Answer:** No; but the body only dies and returns again to earth; but the soul is immortal.
 
 > **Eccles. 12:7**
 >
@@ -198,7 +198,7 @@ Answer: No; but the body only dies and returns again to earth; but the soul is i
 
 **Where, then, do the souls of the dead go?**
 
-Answer: The souls of the believers the holy angels carry into Abraham's bosom, and they receive eternal life; but the souls of the unbelieving into hell, unto the place of torment.
+**Answer:** The souls of the believers the holy angels carry into Abraham's bosom, and they receive eternal life; but the souls of the unbelieving into hell, unto the place of torment.
 
 > **Luke 16:22-24**
 >
@@ -211,7 +211,7 @@ Answer: The souls of the believers the holy angels carry into Abraham's bosom, a
 
 **What will the bodies of believers be like in the resurrection?**
 
-Answer: They shall become like unto the glorious body of Christ, and shall no more need food or drink for their sustenance, as in this life; and they shall be incorruptible, radiant, and glorious, yet with a difference in glory.
+**Answer:** They shall become like unto the glorious body of Christ, and shall no more need food or drink for their sustenance, as in this life; and they shall be incorruptible, radiant, and glorious, yet with a difference in glory.
 
 > **Dan. 12:3**
 >
@@ -228,7 +228,7 @@ Answer: They shall become like unto the glorious body of Christ, and shall no mo
 
 **What is eternal life?**
 
-Answer: It is unspeakable joy and everlasting blessedness with God in heaven, where we, together with all the holy angels and all the elect, shall unceasingly behold God face to face, as the Scripture saith, and see Him as He is.
+**Answer:** It is unspeakable joy and everlasting blessedness with God in heaven, where we, together with all the holy angels and all the elect, shall unceasingly behold God face to face, as the Scripture saith, and see Him as He is.
 
 > **1 Cor. 13:12**
 >
@@ -241,7 +241,7 @@ Answer: It is unspeakable joy and everlasting blessedness with God in heaven, wh
 
 **Who are the elect?**
 
-Answer: Those whom God in eternity saw would abide steadfast in faith in Jesus Christ unto the end.
+**Answer:** Those whom God in eternity saw would abide steadfast in faith in Jesus Christ unto the end.
 
 > **Eph. 1:4**
 >
@@ -250,7 +250,7 @@ Answer: Those whom God in eternity saw would abide steadfast in faith in Jesus C
 
 **Why are not all people saved?**
 
-Answer: Because not all believe in Christ, but despise the means of salvation and resist the working of the Holy Ghost, and are thus themselves guilty of their own condemnation. He that believeth not shall be damned, and the wrath of God abideth on him.
+**Answer:** Because not all believe in Christ, but despise the means of salvation and resist the working of the Holy Ghost, and are thus themselves guilty of their own condemnation. He that believeth not shall be damned, and the wrath of God abideth on him.
 
 > **Matt. 23:37**
 >
@@ -267,7 +267,7 @@ Answer: Because not all believe in Christ, but despise the means of salvation an
 
 **Why does the explanation of every article of faith conclude with the words, “This is most certainly true”?**
 
-Answer: We thereby make known that all which we here confess with our mouth we also firmly believe in our heart, and are willing both to live and to die thereupon.
+**Answer:** We thereby make known that all which we here confess with our mouth we also firmly believe in our heart, and are willing both to live and to die thereupon.
 
 > **2 Tim. 1:12**
 >
@@ -276,7 +276,7 @@ Answer: We thereby make known that all which we here confess with our mouth we a
 
 **Why, and for what benefit, do we make such a Confession of Faith?**
 
-Answer: That we might thereby separate ourselves from all the unbelieving and the hypocrites, and that through such a confession we might also be saved.
+**Answer:** That we might thereby separate ourselves from all the unbelieving and the hypocrites, and that through such a confession we might also be saved.
 
 THE THIRD CHIEF PART
 
@@ -290,7 +290,7 @@ Of the Holy Ghost and of Sanctification. I believe in the Holy Ghost, one holy C
 
 **What does this mean?**
 
-Answer: I believe and confess that I cannot by my own reason or strength believe in Jesus Christ my Lord, or come to Him; but the Holy Ghost has called me by the Gospel, enlightened me with His gifts, kept me in the true faith, sanctified and preserved me; even as He calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and preserves it in Jesus Christ through the one true faith; in which Christian Church He daily and richly forgives me and all believers all our sins, and at the last day will raise up me and all the dead, and give unto me and all believers in Christ everlasting life. This is most certainly true.
+**Answer:** I believe and confess that I cannot by my own reason or strength believe in Jesus Christ my Lord, or come to Him; but the Holy Ghost has called me by the Gospel, enlightened me with His gifts, kept me in the true faith, sanctified and preserved me; even as He calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and preserves it in Jesus Christ through the one true faith; in which Christian Church He daily and richly forgives me and all believers all our sins, and at the last day will raise up me and all the dead, and give unto me and all believers in Christ everlasting life. This is most certainly true.
 
 
 

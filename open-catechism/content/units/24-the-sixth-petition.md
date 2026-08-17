@@ -23,11 +23,11 @@ Jesus was tempted to distrust His Father, seek spectacle, and grasp worldly rule
 
 **Why does he do all these things?**
 
-Answer: To bring us into unbelief, doubting, carelessness, and other great sins, and at last into eternal damnation.
+**Answer:** To bring us into unbelief, doubting, carelessness, and other great sins, and at last into eternal damnation.
 
 **How should we resist and overcome such temptations?**
 
-Answer: With a strong faith and fervent prayer.
+**Answer:** With a strong faith and fervent prayer.
 
 > **Eph. 6:16,18**
 >
@@ -36,7 +36,7 @@ Answer: With a strong faith and fervent prayer.
 
 **Does God tempt anyone?**
 
-Answer: God tempteth no man unto evil, but for good He proveth His children's faith, hope and patience, as He did unto Abraham, when He commanded him to offer up his only son. Jas. 1:13. Let no man say when he is tempted, I am tempted of God: for God is not a tempter unto evil, neither tempteth He any man.
+**Answer:** God tempteth no man unto evil, but for good He proveth His children's faith, hope and patience, as He did unto Abraham, when He commanded him to offer up his only son. Jas. 1:13. Let no man say when he is tempted, I am tempted of God: for God is not a tempter unto evil, neither tempteth He any man.
 
 > **Gen. 22:1,2**
 >
@@ -45,7 +45,7 @@ Answer: God tempteth no man unto evil, but for good He proveth His children's fa
 
 **What kind of temptation do we ask God to turn away from us?**
 
-Answer: The temptation of the devil, which is unto man's damnation; and we are tempted therewith, that we be not overcome of him, but that with God's help we may at last overcome in faith.
+**Answer:** The temptation of the devil, which is unto man's damnation; and we are tempted therewith, that we be not overcome of him, but that with God's help we may at last overcome in faith.
 
 > **2 Tim. 2:3**
 >
@@ -64,7 +64,7 @@ The seventh petition
 
 **What is meant by the word “evil”?**
 
-Answer: The devil and all wickedness, which afflicteth men in this world in body, soul, goods and honour; and likewise, after this life, hell and eternal damnation.
+**Answer:** The devil and all wickedness, which afflicteth men in this world in body, soul, goods and honour; and likewise, after this life, hell and eternal damnation.
 
 > **Eph. 6:16**
 >
@@ -84,7 +84,7 @@ And lead us not into temptation.
 
 **What does this mean?**
 
-Answer: God indeed tempts no one; but we pray in this petition that God would guard and keep us, so that the devil, the world, and our flesh may not deceive us, nor lead us into unbelief, despair, and other great and shameful sins; and though we be assailed by them, that we may at last overcome and gain the victory.
+**Answer:** God indeed tempts no one; but we pray in this petition that God would guard and keep us, so that the devil, the world, and our flesh may not deceive us, nor lead us into unbelief, despair, and other great and shameful sins; and though we be assailed by them, that we may at last overcome and gain the victory.
 
 
 <a id="rg-04-2-6-the-lord-s-prayer-the-sixth-petition-001"></a>

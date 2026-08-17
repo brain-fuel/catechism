@@ -23,7 +23,7 @@ The disciples saw Jesus taken up, and angelic messengers promised that He would 
 
 **What does “Amen” mean?**
 
-Answer: Amen is such a word whereby one not only wisheth unto himself that for which he hath prayed, but also showeth himself assured that God heareth the prayer; whereupon he, as sealing it with a seal, saith: Amen, so let it be!
+**Answer:** Amen is such a word whereby one not only wisheth unto himself that for which he hath prayed, but also showeth himself assured that God heareth the prayer; whereupon he, as sealing it with a seal, saith: Amen, so let it be!
 
 > **Ps. 145:19**
 >
@@ -44,7 +44,7 @@ Answer: Amen is such a word whereby one not only wisheth unto himself that for w
 
 **Why does God sometimes delay His answer?**
 
-Answer: God doth this: 1. thereby to prove our patience and our steadfastness in faith; 2. to put us in remembrance of our own slowness and hardness of hearing, when He calleth and summoneth us unto repentance; 3. that we may pray the more diligently; 4. and rejoice the more, when we are heard and helped.
+**Answer:** God doth this: 1. thereby to prove our patience and our steadfastness in faith; 2. to put us in remembrance of our own slowness and hardness of hearing, when He calleth and summoneth us unto repentance; 3. that we may pray the more diligently; 4. and rejoice the more, when we are heard and helped.
 
 THE FOURTH CHIEF PART
 
@@ -57,7 +57,7 @@ For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 **What does “Amen” mean?**
 
-Answer: That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
+**Answer:** That I should be certain that such petitions are acceptable to our heavenly Father and are heard by Him; for He Himself has commanded us so to pray, and has promised to hear us. Amen, amen; that is, Yea, yea, it shall be so.
 
 
 <a id="rg-04-3-the-lord-s-prayer-the-conclusion-001"></a>

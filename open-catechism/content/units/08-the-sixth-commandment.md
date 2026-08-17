@@ -23,7 +23,7 @@ Jesus, His mother, and His disciples attended a wedding in Cana (John 2:1–11).
 
 **What does God forbid in the sixth commandment?**
 
-Answer: All the sin of lewdness and adultery, which comes to pass in thoughts, words, behaviour, and deeds, both within the estate of marriage and outside of it.
+**Answer:** All the sin of lewdness and adultery, which comes to pass in thoughts, words, behaviour, and deeds, both within the estate of marriage and outside of it.
 
 > **Matt. 5:28**
 >
@@ -36,7 +36,7 @@ Answer: All the sin of lewdness and adultery, which comes to pass in thoughts, w
 
 **What is commanded in the sixth commandment?**
 
-Answer: First, in general, that all men should lead a chaste and pure life and shun all lewdness, its occasion, and whatever leads to it; then, in particular, that each one already in wedlock should love in all faithfulness and hold in honour his spouse.
+**Answer:** First, in general, that all men should lead a chaste and pure life and shun all lewdness, its occasion, and whatever leads to it; then, in particular, that each one already in wedlock should love in all faithfulness and hold in honour his spouse.
 
 > **1 Thess. 4:3-5**
 >
@@ -53,11 +53,11 @@ Answer: First, in general, that all men should lead a chaste and pure life and s
 
 **What is forbidden in the seventh commandment?**
 
-Answer: All manner of theft.
+**Answer:** All manner of theft.
 
 **In what ways is theft committed?**
 
-Answer: In many ways; but especially when someone: 1. Without leave and secretly takes away another's money or property against his will; or by violence robs something from him: 2. Entices and coaxes something from him; 3. Cheats someone in trade with false measure and balance; 4. When the government and teachers are not given their lawful portion that is due to them: 5. When someone does the work of his office lazily; 6. Withholds from a labourer his earned wage, and other such things.
+**Answer:** In many ways; but especially when someone: 1. Without leave and secretly takes away another's money or property against his will; or by violence robs something from him: 2. Entices and coaxes something from him; 3. Cheats someone in trade with false measure and balance; 4. When the government and teachers are not given their lawful portion that is due to them: 5. When someone does the work of his office lazily; 6. Withholds from a labourer his earned wage, and other such things.
 
 > **Eph. 4:28**
 >
@@ -86,7 +86,7 @@ Answer: In many ways; but especially when someone: 1. Without leave and secretly
 
 **What is commanded in the seventh commandment?**
 
-Answer: Faithfulness and honesty toward every one, that no wrong be done to anyone nor anything taken from him that he has by right; but that we should help, so that our neighbour's goods and living may be increased and preserved, and should hinder all manner of harms and dangers whereby his property might be worsened and diminished.
+**Answer:** Faithfulness and honesty toward every one, that no wrong be done to anyone nor anything taken from him that he has by right; but that we should help, so that our neighbour's goods and living may be increased and preserved, and should hinder all manner of harms and dangers whereby his property might be worsened and diminished.
 
 > **Ezek. 33:15**
 >
@@ -95,7 +95,7 @@ Answer: Faithfulness and honesty toward every one, that no wrong be done to anyo
 
 **What does God forbid in the eighth commandment?**
 
-Answer: False witness and lying, which is the offspring of the devil.
+**Answer:** False witness and lying, which is the offspring of the devil.
 
 > **John 8:44**
 >
@@ -104,7 +104,7 @@ Answer: False witness and lying, which is the offspring of the devil.
 
 **In what ways are false witness and lying committed?**
 
-Answer: When someone: 1. Lies about his neighbour and witnesses falsely against him; 2. Betrays him by revealing entrusted secrets; 3. Turns his words and works to the worse and slanders him; 4. By false accusation ruins his good name and worth.
+**Answer:** When someone: 1. Lies about his neighbour and witnesses falsely against him; 2. Betrays him by revealing entrusted secrets; 3. Turns his words and works to the worse and slanders him; 4. By false accusation ruins his good name and worth.
 
 > **Exod. 23:1**
 >
@@ -125,7 +125,7 @@ Thou shalt not commit adultery.
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we are pure and chaste in thoughts, words, and deeds, and that each one loves and honors his spouse.
+**Answer:** We should fear and love God, so that we are pure and chaste in thoughts, words, and deeds, and that each one loves and honors his spouse.
 
 
 <a id="rg-02-6-the-sixth-commandment-001"></a>

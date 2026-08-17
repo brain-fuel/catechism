@@ -23,11 +23,11 @@ At the bush, God sent Moses to Israel and disclosed the Name by which He would b
 
 **What does it mean to swear by the name of God?**
 
-Answer: When someone takes God as witness and avenger, in order thereby to confirm his word.
+**Answer:** When someone takes God as witness and avenger, in order thereby to confirm his word.
 
 **Is every oath completely forbidden?**
 
-Answer: No; when the honour of God and our duty of faithfulness toward the government, or the need of our neighbour and our own, require it; and likewise at the command of a judge, we may take an oath and thereby confirm the truth.
+**Answer:** No; when the honour of God and our duty of faithfulness toward the government, or the need of our neighbour and our own, require it; and likewise at the command of a judge, we may take an oath and thereby confirm the truth.
 
 > **Deut. 6:13**
 >
@@ -48,7 +48,7 @@ Answer: No; when the honour of God and our duty of faithfulness toward the gover
 
 **Which oaths are unlawful?**
 
-Answer: Those which are made by the name of God unlawfully, needlessly, in vain matters, deceitfully, in drunkenness, and in wrath.
+**Answer:** Those which are made by the name of God unlawfully, needlessly, in vain matters, deceitfully, in drunkenness, and in wrath.
 
 > **Lev. 19:12**
 >
@@ -66,7 +66,7 @@ Answer: Those which are made by the name of God unlawfully, needlessly, in vain 
 
 **What is witchcraft?**
 
-Answer: It is, not only when someone by the help of the devil does harm to his neighbour, but also when in superstitions the name and Word of God are wrongly used to soothe and drive away diseases from men and beasts, to enchant, to inquire into secret and hidden things, and other such things.
+**Answer:** It is, not only when someone by the help of the devil does harm to his neighbour, but also when in superstitions the name and Word of God are wrongly used to soothe and drive away diseases from men and beasts, to enchant, to inquire into secret and hidden things, and other such things.
 
 > **Deut. 18:10**
 >
@@ -75,7 +75,7 @@ Answer: It is, not only when someone by the help of the devil does harm to his n
 
 **What is commanded in the second commandment?**
 
-Answer: That we hold the name of Yahweh in honour, which comes to pass when we call upon it in need, pray for help and blessing, thank and praise God for all his good deeds.
+**Answer:** That we hold the name of Yahweh in honour, which comes to pass when we call upon it in need, pray for help and blessing, thank and praise God for all his good deeds.
 
 > **Ps. 50:15**
 >
@@ -96,15 +96,15 @@ Answer: That we hold the name of Yahweh in honour, which comes to pass when we c
 
 **What does God command in the third commandment?**
 
-Answer: That we should remember the sabbath, or the day of rest, so that we keep it holy.
+**Answer:** That we should remember the sabbath, or the day of rest, so that we keep it holy.
 
 **Why does God say, “Remember”?**
 
-Answer: He wills that we bring it to our remembrance when the sabbath, or day of rest, draws near, and that we fittingly prepare ourselves for it.
+**Answer:** He wills that we bring it to our remembrance when the sabbath, or day of rest, draws near, and that we fittingly prepare ourselves for it.
 
 **What is the day of rest?**
 
-Answer: First, in the Old Testament, the seventh day, which was Saturday, was appointed and hallowed as the day of rest; but afterward, in the New Testament, Sunday has been set for it, because our Lord Jesus rose again from the dead on that day, for which reason it is also called the Lord's day.
+**Answer:** First, in the Old Testament, the seventh day, which was Saturday, was appointed and hallowed as the day of rest; but afterward, in the New Testament, Sunday has been set for it, because our Lord Jesus rose again from the dead on that day, for which reason it is also called the Lord's day.
 
 > **Gen. 2:3**
 >
@@ -133,7 +133,7 @@ Thou shalt not take the name of Yahweh thy God in vain; for Yahweh will not hold
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not curse, swear, practice witchcraft, lie, or deceive by His name, but call upon it in every trouble and distress, pray, praise, and give thanks.
+**Answer:** We should fear and love God, so that we do not curse, swear, practice witchcraft, lie, or deceive by His name, but call upon it in every trouble and distress, pray, praise, and give thanks.
 
 
 <a id="rg-02-2-the-second-commandment-001"></a>

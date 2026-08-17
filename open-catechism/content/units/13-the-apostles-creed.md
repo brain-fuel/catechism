@@ -23,15 +23,15 @@ Philip began with Isaiah and preached Jesus to the Ethiopian traveler (Acts 8:30
 
 **What is the doctrine of faith?**
 
-Answer: It is the doctrine of God, of the Holy Trinity, and of His good works; which every Christian person must indeed know and believe, if he would be saved.
+**Answer:** It is the doctrine of God, of the Holy Trinity, and of His good works; which every Christian person must indeed know and believe, if he would be saved.
 
 **What does the Greek word “Gospel” mean?**
 
-Answer: A sweet and good tiding.
+**Answer:** A sweet and good tiding.
 
 **What does the Gospel teach?**
 
-Answer: It teaches that we have a gracious God, through faith in Jesus Christ, so that we obtain the forgiveness of sins and eternal life.
+**Answer:** It teaches that we have a gracious God, through faith in Jesus Christ, so that we obtain the forgiveness of sins and eternal life.
 
 > **John 3:16**
 >
@@ -44,7 +44,7 @@ Answer: It teaches that we have a gracious God, through faith in Jesus Christ, s
 
 **What is the difference between the Law and the Gospel?**
 
-Answer: The law rebukes man for sin and terrifies him; but the Gospel comforts him and assures him of God's grace and of the forgiveness of sins. The law requires works, the Gospel faith. The law is known in some measure by nature; the Gospel is a mystery, hidden from all skill and understanding; but God has brought it forth through His Son. The law promises eternal life to those who keep it out of their own righteousness by perfect obedience; the Gospel promises it also, but through another, namely through the righteousness of Christ, appropriated by faith.
+**Answer:** The law rebukes man for sin and terrifies him; but the Gospel comforts him and assures him of God's grace and of the forgiveness of sins. The law requires works, the Gospel faith. The law is known in some measure by nature; the Gospel is a mystery, hidden from all skill and understanding; but God has brought it forth through His Son. The law promises eternal life to those who keep it out of their own righteousness by perfect obedience; the Gospel promises it also, but through another, namely through the righteousness of Christ, appropriated by faith.
 
 > **Deut. 27:15,17**
 >
@@ -77,17 +77,17 @@ Answer: The law rebukes man for sin and terrifies him; but the Gospel comforts h
 
 **How many articles of faith are there?**
 
-Answer: Three.
+**Answer:** Three.
 
 **What are they?**
 
-Answer: The first, of God the Father and of creation; the second, of the Son of God and of redemption; the third, of the Holy Ghost and of sanctification.
+**Answer:** The first, of God the Father and of creation; the second, of the Son of God and of redemption; the third, of the Holy Ghost and of sanctification.
 
 THE FIRST ARTICLE OF FAITH, Of God the Father and of Creation
 
 **Why do you say, “I believe”?**
 
-Answer: For this reason, that he who would be saved may not trust in the faith of others, but must have for himself a right Christian faith, so that he may say with Paul:
+**Answer:** For this reason, that he who would be saved may not trust in the faith of others, but must have for himself a right Christian faith, so that he may say with Paul:
 
 > **2 Tim. 1:12**
 >
@@ -96,11 +96,11 @@ Answer: For this reason, that he who would be saved may not trust in the faith o
 
 **In whom must we believe?**
 
-Answer: In God.
+**Answer:** In God.
 
 **What is God?**
 
-Answer: God, according to His being, is a Spirit, eternal, almighty, righteous, present in all places, all-knowing, true, and merciful.
+**Answer:** God, according to His being, is a Spirit, eternal, almighty, righteous, present in all places, all-knowing, true, and merciful.
 
 > **John 4:24**
 >
@@ -141,7 +141,7 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 **What does this mean?**
 
-Answer: I believe that God has made me together with all His other creatures; that He has given me my body and soul, eyes, ears, and all my other members, my reason, faculties, and understanding, and still preserves them all; that He also gives me abundantly, day by day, food and clothing, home and house, spouse and children, field, cattle, and all that I need for the nourishment of my body; that He still protects and defends me, and wards off and turns away all dangers and perils from me. And all this He does out of pure fatherly and divine goodness and mercy, without any merit or worthiness in me; for all of which it is my duty to thank, praise, honor, hear, and serve Him. This is most certainly true.
+**Answer:** I believe that God has made me together with all His other creatures; that He has given me my body and soul, eyes, ears, and all my other members, my reason, faculties, and understanding, and still preserves them all; that He also gives me abundantly, day by day, food and clothing, home and house, spouse and children, field, cattle, and all that I need for the nourishment of my body; that He still protects and defends me, and wards off and turns away all dangers and perils from me. And all this He does out of pure fatherly and divine goodness and mercy, without any merit or worthiness in me; for all of which it is my duty to thank, praise, honor, hear, and serve Him. This is most certainly true.
 
 The Second Article
 
@@ -149,7 +149,7 @@ Of the Son of God and of Redemption. I believe in Jesus Christ, His only Son, ou
 
 **What does this mean?**
 
-Answer: I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord, who has redeemed me, a lost and condemned man, and delivered and freed me from all sin, from death, and from the power of the devil; not with gold or silver, but with His holy and precious blood, and with His innocent suffering and death: that I should be His own, and live under Him in His kingdom as His subject, and serve Him in everlasting righteousness, innocence, and blessedness; even as He is risen from the dead, and lives and reigns to all eternity. This is most certainly true.
+**Answer:** I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord, who has redeemed me, a lost and condemned man, and delivered and freed me from all sin, from death, and from the power of the devil; not with gold or silver, but with His holy and precious blood, and with His innocent suffering and death: that I should be His own, and live under Him in His kingdom as His subject, and serve Him in everlasting righteousness, innocence, and blessedness; even as He is risen from the dead, and lives and reigns to all eternity. This is most certainly true.
 
 The Third Article
 
@@ -157,7 +157,7 @@ Of the Holy Ghost and of Sanctification. I believe in the Holy Ghost, one holy C
 
 **What does this mean?**
 
-Answer: I believe and confess that I cannot by my own reason or strength believe in Jesus Christ my Lord, or come to Him; but the Holy Ghost has called me by the Gospel, enlightened me with His gifts, kept me in the true faith, sanctified and preserved me; even as He calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and preserves it in Jesus Christ through the one true faith; in which Christian Church He daily and richly forgives me and all believers all our sins, and at the last day will raise up me and all the dead, and give unto me and all believers in Christ everlasting life. This is most certainly true.
+**Answer:** I believe and confess that I cannot by my own reason or strength believe in Jesus Christ my Lord, or come to Him; but the Holy Ghost has called me by the Gospel, enlightened me with His gifts, kept me in the true faith, sanctified and preserved me; even as He calls, gathers, enlightens, and sanctifies the whole Christian Church on earth, and preserves it in Jesus Christ through the one true faith; in which Christian Church He daily and richly forgives me and all believers all our sins, and at the last day will raise up me and all the dead, and give unto me and all believers in Christ everlasting life. This is most certainly true.
 
 
 <a id="rg-03-0-the-apostles-creed-001"></a>

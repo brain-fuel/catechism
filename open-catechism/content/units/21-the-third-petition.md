@@ -23,15 +23,15 @@ Jesus prayed that the cup might pass from Him, yet submitted to the Father’s w
 
 **What is meant by the world?**
 
-Answer: Wicked men, who live in the world, their evil doings and their offensive life.
+**Answer:** Wicked men, who live in the world, their evil doings and their offensive life.
 
 **What is meant by our own flesh?**
 
-Answer: Our sinful nature and carnal disposition, which is prone unto all wickedness.
+**Answer:** Our sinful nature and carnal disposition, which is prone unto all wickedness.
 
 **Who helps us overcome all these?**
 
-Answer: God, who by His word strengtheneth us and keepeth us steadfast in the faith, He removeth all that hindereth the doing of His will.
+**Answer:** God, who by His word strengtheneth us and keepeth us steadfast in the faith, He removeth all that hindereth the doing of His will.
 
 > **Luke 22:31,32**
 >
@@ -46,7 +46,7 @@ The fourth petition
 
 **Why do we say “give” in this petition?**
 
-Answer: Because without God's blessing we can, by our own work or skill, neither earn nor gather anything; but every good gift cometh down from above, from the Father of lights. Jas. 1:7.
+**Answer:** Because without God's blessing we can, by our own work or skill, neither earn nor gather anything; but every good gift cometh down from above, from the Father of lights. Jas. 1:7.
 
 > **Ps. 127:1**
 >
@@ -59,11 +59,11 @@ Answer: Because without God's blessing we can, by our own work or skill, neither
 
 **Why do we say, “give us”?**
 
-Answer: Because we ought not to ask for ourselves only, but also for our neighbour; and when God giveth us good things, we ought not to keep them for ourselves alone, but to impart them also unto others.
+**Answer:** Because we ought not to ask for ourselves only, but also for our neighbour; and when God giveth us good things, we ought not to keep them for ourselves alone, but to impart them also unto others.
 
 **Why do we say, “give us this day”?**
 
-Answer: As we have need every day of the sustaining of our life, so ought we also to pray for it every day; and we know not, moreover, whether we shall live until the morrow.
+**Answer:** As we have need every day of the sustaining of our life, so ought we also to pray for it every day; and we know not, moreover, whether we shall live until the morrow.
 
 ### Luther’s Small Catechism
 
@@ -74,11 +74,11 @@ Thy will be done on earth as it is in heaven.
 
 **What does this mean?**
 
-Answer: The good and gracious will of God is done indeed without our prayer; but we pray in this petition that it may be done among us also.
+**Answer:** The good and gracious will of God is done indeed without our prayer; but we pray in this petition that it may be done among us also.
 
 **How and when does this happen?**
 
-Answer: When God restrains and breaks the will of our flesh and every evil counsel, and shatters and brings to nothing all the devices of the devil and the world, which will not let us hallow God's name and will not let His kingdom come unto us; and when He keeps us steadfast in His Word and in the true faith unto the end. Thus His good and gracious will is done.
+**Answer:** When God restrains and breaks the will of our flesh and every evil counsel, and shatters and brings to nothing all the devices of the devil and the world, which will not let us hallow God's name and will not let His kingdom come unto us; and when He keeps us steadfast in His Word and in the true faith unto the end. Thus His good and gracious will is done.
 
 
 <a id="rg-04-2-3-the-lord-s-prayer-the-third-petition-001"></a>

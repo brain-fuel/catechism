@@ -23,7 +23,7 @@ After Jesus opened the eyes of a man born blind, interrogators pressed him to co
 
 **What is the sum of the Law?**
 
-Answer: That which Jesus said to the learned Pharisee:
+**Answer:** That which Jesus said to the learned Pharisee:
 
 > **Matt. 22:37-39**
 >
@@ -38,11 +38,11 @@ Answer: That which Jesus said to the learned Pharisee:
 
 **How does the conclusion of the Law, or the Ten Commandments, read?**
 
-Answer: 1. With the threat of punishment to those who break the Law; 2. But with the promise of grace and all good to those who keep and fulfil it.
+**Answer:** 1. With the threat of punishment to those who break the Law; 2. But with the promise of grace and all good to those who keep and fulfil it.
 
 **Can anyone fulfill, or perfectly keep, the Law?**
 
-Answer: No; in the state of innocence, before man fell into sin, he was able to keep the Law perfectly; but now, after the fall into sin, it is impossible for him, for the Law is spiritual, requiring perfect obedience; but we are carnal, and corrupted by evil desire.
+**Answer:** No; in the state of innocence, before man fell into sin, he was able to keep the Law perfectly; but now, after the fall into sin, it is impossible for him, for the Law is spiritual, requiring perfect obedience; but we are carnal, and corrupted by evil desire.
 
 > **Rom. 7:14**
 >
@@ -63,11 +63,11 @@ Answer: No; in the state of innocence, before man fell into sin, he was able to 
 
 **Is God, then, harsh and unjust because He requires of us what we cannot fulfill?**
 
-Answer: God forbid! God is not to blame for this; but he requires by right that again which he lent to our forefathers, namely the power and skill to fulfil the Law; no otherwise than when someone has lent to another, and the other has squandered it, so that he cannot pay it back; he cannot be charged with wrong who seeks out his own from that man's children and heirs.
+**Answer:** God forbid! God is not to blame for this; but he requires by right that again which he lent to our forefathers, namely the power and skill to fulfil the Law; no otherwise than when someone has lent to another, and the other has squandered it, so that he cannot pay it back; he cannot be charged with wrong who seeks out his own from that man's children and heirs.
 
 **What purpose, then, does the Law serve?**
 
-Answer: The Law teaches: 1. What we ought to do and to shun; 2. To know our sin and our corrupted nature; 3. It chastens and drives us to seek Christ, who is the end and fulfiller of the Law; for it shows us, and forcefully concludes in our own conscience, that we cannot by our own power keep it perfectly.
+**Answer:** The Law teaches: 1. What we ought to do and to shun; 2. To know our sin and our corrupted nature; 3. It chastens and drives us to seek Christ, who is the end and fulfiller of the Law; for it shows us, and forcefully concludes in our own conscience, that we cannot by our own power keep it perfectly.
 
 > **Rom. 3:20**
 >
@@ -92,7 +92,7 @@ Thou shalt not bear false witness against thy neighbour.
 
 **What does this mean?**
 
-Answer: We should fear and love God, so that we do not lie about our neighbor, nor betray, slander, or bring an evil report upon him, but defend him, think and speak well of him, and put the best construction on all things.
+**Answer:** We should fear and love God, so that we do not lie about our neighbor, nor betray, slander, or bring an evil report upon him, but defend him, think and speak well of him, and put the best construction on all things.
 
 
 <a id="rg-02-8-the-eighth-commandment-001"></a>

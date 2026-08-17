@@ -23,7 +23,7 @@ Lazarus had lain four days in the tomb when Jesus commanded the stone removed an
 
 **What is meant here by the kingdom of God?**
 
-Answer: First, the kingdom of grace here upon earth, wherein God, through His word and sacraments, offereth His grace unto all men, and forgiveth the penitent their sins; and then the kingdom of glory in heaven, wherein He giveth His chosen eternal life and salvation.
+**Answer:** First, the kingdom of grace here upon earth, wherein God, through His word and sacraments, offereth His grace unto all men, and forgiveth the penitent their sins; and then the kingdom of glory in heaven, wherein He giveth His chosen eternal life and salvation.
 
 > **Rom. 14:17**
 >
@@ -40,15 +40,15 @@ Answer: First, the kingdom of grace here upon earth, wherein God, through His wo
 
 **How does the kingdom of God come by itself?**
 
-Answer: Of the mere grace of God, without our merit, work, or ability.
+**Answer:** Of the mere grace of God, without our merit, work, or ability.
 
 **How does it come to us?**
 
-Answer: When we here, through the grace of God, believe His holy word and abide steadfast therein unto the end, then shall we there in the kingdom of glory live eternally. The third petition
+**Answer:** When we here, through the grace of God, believe His holy word and abide steadfast therein unto the end, then shall we there in the kingdom of glory live eternally. The third petition
 
 **What is the will of God?**
 
-Answer: It is the will of God, which He hath made known unto us in His word, which teacheth us what we ought to believe, to do, and to suffer; namely, out of the law: to lead a holy and blameless life; and out of the Gospel: to believe on Christ; and, when He layeth some cross upon us, that we bear it patiently.
+**Answer:** It is the will of God, which He hath made known unto us in His word, which teacheth us what we ought to believe, to do, and to suffer; namely, out of the law: to lead a holy and blameless life; and out of the Gospel: to believe on Christ; and, when He layeth some cross upon us, that we bear it patiently.
 
 > **1 Thess. 4:3,4**
 >
@@ -65,7 +65,7 @@ Answer: It is the will of God, which He hath made known unto us in His word, whi
 
 **How, and by whom, is God’s will done in heaven?**
 
-Answer: Among the holy angels and the departed saints, in that rejoicing congregation, who with gladness serve, obey and praise God in heaven.
+**Answer:** Among the holy angels and the departed saints, in that rejoicing congregation, who with gladness serve, obey and praise God in heaven.
 
 > **Ps. 103:20**
 >
@@ -78,7 +78,7 @@ Answer: Among the holy angels and the departed saints, in that rejoicing congreg
 
 **Who hinders us from doing God’s will on earth?**
 
-Answer: The devil, the world, and our own flesh.
+**Answer:** The devil, the world, and our own flesh.
 
 > **Rev. 12:9**
 >
@@ -102,11 +102,11 @@ Thy kingdom come.
 
 **What does this mean?**
 
-Answer: The kingdom of God comes indeed of itself, without our prayer; but we pray in this petition that it may come unto us also.
+**Answer:** The kingdom of God comes indeed of itself, without our prayer; but we pray in this petition that it may come unto us also.
 
 **How and when does this happen?**
 
-Answer: When our heavenly Father gives us His Holy Ghost, so that by His grace we believe His Word, and live holy lives here in this world, and hereafter in heaven forever.
+**Answer:** When our heavenly Father gives us His Holy Ghost, so that by His grace we believe His Word, and live holy lives here in this world, and hereafter in heaven forever.
 
 
 <a id="rg-04-2-2-the-lord-s-prayer-the-second-petition-001"></a>

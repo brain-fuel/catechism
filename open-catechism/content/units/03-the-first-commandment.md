@@ -23,7 +23,7 @@ In Exodus 3:1–6, Moses turned aside to see the bush that burned without being 
 
 **What does God forbid in the first commandment?**
 
-Answer: All service of idols, that we should have no strange gods before him or beside him. The reason for this prohibition is that he says: I am Yahweh thy God, that is: I, who speak and command this, am of myself the Lord, the most high, from whom all things have received their being, thy God, who have created and protected thee, and have given thee my Law: therefore thou art also bound to show all obedience to me alone.
+**Answer:** All service of idols, that we should have no strange gods before him or beside him. The reason for this prohibition is that he says: I am Yahweh thy God, that is: I, who speak and command this, am of myself the Lord, the most high, from whom all things have received their being, thy God, who have created and protected thee, and have given thee my Law: therefore thou art also bound to show all obedience to me alone.
 
 > **Matt. 4:10**
 >
@@ -36,11 +36,11 @@ Answer: All service of idols, that we should have no strange gods before him or 
 
 **What does it mean to have other gods?**
 
-Answer: It is: when someone bows down to and prays to others besides the Lord alone, or ventures and trusts in some other thing in the world than in the one true God alone.
+**Answer:** It is: when someone bows down to and prays to others besides the Lord alone, or ventures and trusts in some other thing in the world than in the one true God alone.
 
 **In what ways does such idolatry take place?**
 
-Answer: In many ways: when the sun, the moon, and the stars of heaven are served, and likewise angels, departed saints, images and relics of saints; or when help is sought from the devil and his instruments, such as sorcerers, wizards, forest-spirits, water-spirits, house-goblins, and others of the like.
+**Answer:** In many ways: when the sun, the moon, and the stars of heaven are served, and likewise angels, departed saints, images and relics of saints; or when help is sought from the devil and his instruments, such as sorcerers, wizards, forest-spirits, water-spirits, house-goblins, and others of the like.
 
 > **Deut. 4:15,19**
 >
@@ -61,7 +61,7 @@ Answer: In many ways: when the sun, the moon, and the stars of heaven are served
 
 **Does it take place in still other ways?**
 
-Answer: Indeed it does: when someone trusts in himself, in his wisdom, his riches, and his goods; ventures upon the power and greatness of other men; and likewise, when someone makes his belly his god.
+**Answer:** Indeed it does: when someone trusts in himself, in his wisdom, his riches, and his goods; ventures upon the power and greatness of other men; and likewise, when someone makes his belly his god.
 
 > **Prov. 3:5**
 >
@@ -78,11 +78,11 @@ Answer: Indeed it does: when someone trusts in himself, in his wisdom, his riche
 
 **What does God command in the first commandment?**
 
-Answer: That we should rightly fear him, love him, and trust in him, and likewise call upon him in all our need and praise him.
+**Answer:** That we should rightly fear him, love him, and trust in him, and likewise call upon him in all our need and praise him.
 
 **How should we fear and love God?**
 
-Answer: Above all things, with all our heart, with all our soul, and with all our mind.
+**Answer:** Above all things, with all our heart, with all our soul, and with all our mind.
 
 > **Deut. 6:5**
 >
@@ -95,7 +95,7 @@ Answer: Above all things, with all our heart, with all our soul, and with all ou
 
 **What does it mean to fear and love God above all things?**
 
-Answer: It is: to acknowledge and honour the greatness and righteousness of God, to hold him as our best treasure, to bow down before him, and to hold him dear above all things.
+**Answer:** It is: to acknowledge and honour the greatness and righteousness of God, to hold him as our best treasure, to bow down before him, and to hold him dear above all things.
 
 > **Ps. 18:1,2**
 >
@@ -108,7 +108,7 @@ Answer: It is: to acknowledge and honour the greatness and righteousness of God,
 
 **What does it mean to believe and trust in him alone?**
 
-Answer: It is: to trust perfectly and firmly in the almightiness, goodness, and truth of God, and to venture upon him alone.
+**Answer:** It is: to trust perfectly and firmly in the almightiness, goodness, and truth of God, and to venture upon him alone.
 
 > **Ps. 62:8**
 >
@@ -121,11 +121,11 @@ Answer: It is: to trust perfectly and firmly in the almightiness, goodness, and 
 
 **What is forbidden in the second commandment?**
 
-Answer: That the great and dreadful name of the Lord God should not be taken in vain nor dishonoured.
+**Answer:** That the great and dreadful name of the Lord God should not be taken in vain nor dishonoured.
 
 **What is the name of the Lord God?**
 
-Answer: It is God himself, in respect of his divine being and attributes, and likewise his word, his works, and his praise, or all that has been revealed of him.
+**Answer:** It is God himself, in respect of his divine being and attributes, and likewise his word, his works, and his praise, or all that has been revealed of him.
 
 > **Ps. 48:10**
 >
@@ -138,7 +138,7 @@ Answer: It is God himself, in respect of his divine being and attributes, and li
 
 **How is the name of God taken in vain?**
 
-Answer: When someone mocks and dishonours God, and likewise, out of anger, evil habit, in jest, or from idle wonder, mentions the name of God, as though there were nothing more to it. The taking of God's name in vain also comes to pass when someone in his prayers to God does not keep his thoughts together nor considers whom he is praying to; or when someone hears the Word of God without humility and earnestness, or twists it after his own wrong mind.
+**Answer:** When someone mocks and dishonours God, and likewise, out of anger, evil habit, in jest, or from idle wonder, mentions the name of God, as though there were nothing more to it. The taking of God's name in vain also comes to pass when someone in his prayers to God does not keep his thoughts together nor considers whom he is praying to; or when someone hears the Word of God without humility and earnestness, or twists it after his own wrong mind.
 
 > **Lev. 24:16**
 >
@@ -151,7 +151,7 @@ Answer: When someone mocks and dishonours God, and likewise, out of anger, evil 
 
 **What is cursing?**
 
-Answer: It is, in anger and wrath, to wish upon oneself or one's neighbour all manner of evil.
+**Answer:** It is, in anger and wrath, to wish upon oneself or one's neighbour all manner of evil.
 
 > **Ps. 10:7**
 >
@@ -180,7 +180,7 @@ I am Yahweh thy God, which have brought thee out of the land of Egypt, out of th
 
 **What does this mean?**
 
-Answer: We should fear and love God above all things, and trust in Him alone.
+**Answer:** We should fear and love God above all things, and trust in Him alone.
 
 
 <a id="rg-02-1-the-first-commandment-001"></a>

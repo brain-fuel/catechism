@@ -23,15 +23,15 @@ Paul and Silas spoke the Word of Yahweh to the Philippian jailer and all in his 
 
 **What does it mean to baptize in the name of the Father and of the Son and of the Holy Ghost?**
 
-Answer: It is, according to the command of the Holy Trinity of God, and in the power and the calling upon of His holy name, to immerse, to pour, or to sprinkle a man with water, unto the forgiveness of sins.
+**Answer:** It is, according to the command of the Holy Trinity of God, and in the power and the calling upon of His holy name, to immerse, to pour, or to sprinkle a man with water, unto the forgiveness of sins.
 
 **What is present in Baptism?**
 
-Answer: Two kinds of things: earthly and heavenly.
+**Answer:** Two kinds of things: earthly and heavenly.
 
 **What is the visible earthly element?**
 
-Answer: Natural and pure water, and no other moisture.
+**Answer:** Natural and pure water, and no other moisture.
 
 > **John 3:5**
 >
@@ -44,7 +44,7 @@ Answer: Natural and pure water, and no other moisture.
 
 **What is the invisible heavenly gift?**
 
-Answer: God, the Holy Trinity, and especially the Holy Ghost.
+**Answer:** God, the Holy Trinity, and especially the Holy Ghost.
 
 > **Titus 3:5,6**
 >
@@ -53,7 +53,7 @@ Answer: God, the Holy Trinity, and especially the Holy Ghost.
 
 **Why did you say, “especially the Holy Ghost”?**
 
-Answer: Because the work of regeneration is especially ascribed unto the Holy Ghost, who is poured out upon us with the water of Baptism, yet not shutting out the other Persons; for God the Father taketh him that is baptized to be His child; the Son clotheth him with His righteousness; the Holy Ghost regenerateth him and maketh him His dwelling-place: therefore are we said to be born, not of the Holy Ghost alone, but of God (which work is common to all three Persons).
+**Answer:** Because the work of regeneration is especially ascribed unto the Holy Ghost, who is poured out upon us with the water of Baptism, yet not shutting out the other Persons; for God the Father taketh him that is baptized to be His child; the Son clotheth him with His righteousness; the Holy Ghost regenerateth him and maketh him His dwelling-place: therefore are we said to be born, not of the Holy Ghost alone, but of God (which work is common to all three Persons).
 
 > **Titus 3:5,6**
 >
@@ -70,7 +70,7 @@ Answer: Because the work of regeneration is especially ascribed unto the Holy Gh
 
 **Is Baptism necessary?**
 
-Answer: It is indeed; — for Christ saith: Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
+**Answer:** It is indeed; — for Christ saith: Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
 
 > **John 3:5**
 >
@@ -79,7 +79,7 @@ Answer: It is indeed; — for Christ saith: Except a man be born of water and of
 
 **Does Baptism bring about the forgiveness of sins?**
 
-Answer: Truly; — in Baptism we put on Christ, who covereth all our sins with the robe of righteousness.
+**Answer:** Truly; — in Baptism we put on Christ, who covereth all our sins with the robe of righteousness.
 
 > **Gal. 3:27**
 >
@@ -96,7 +96,7 @@ Answer: Truly; — in Baptism we put on Christ, who covereth all our sins with t
 
 **What does it mean to put on Christ?**
 
-Answer: It is: to be grafted into Christ, and by faith to make His merited righteousness and obedience our own, as though we had ourselves fulfilled the law and suffered for our sins.
+**Answer:** It is: to be grafted into Christ, and by faith to make His merited righteousness and obedience our own, as though we had ourselves fulfilled the law and suffered for our sins.
 
 ### Luther’s Small Catechism
 
@@ -104,11 +104,11 @@ As the head of the family should teach it in a simple way to his household.
 
 **What gifts or benefits does Baptism bestow?**
 
-Answer: Baptism works forgiveness of sins, delivers from death and the devil, and gives everlasting life to all who believe the words and promises of God.
+**Answer:** Baptism works forgiveness of sins, delivers from death and the devil, and gives everlasting life to all who believe the words and promises of God.
 
 **What are those words and promises of God?**
 
-Answer: Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Mark: He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
+**Answer:** Our Lord Jesus Christ says in the last chapter of the Gospel according to St. Mark: He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 
 
 <a id="rg-05-1-2-the-benefits-and-promises-of-baptism-001"></a>

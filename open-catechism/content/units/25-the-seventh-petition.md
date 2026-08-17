@@ -23,7 +23,7 @@ A man living among the tombs could not be restrained, but the unclean spirits re
 
 **What do you understand by deliverance?**
 
-Answer: The taking away of wickedness and the helping out of it; or that the cross be lightened, and grace given to endure it, and at last a wished-for end thereof be brought about.
+**Answer:** The taking away of wickedness and the helping out of it; or that the cross be lightened, and grace given to endure it, and at last a wished-for end thereof be brought about.
 
 > **Jer. 31:13**
 >
@@ -40,7 +40,7 @@ Answer: The taking away of wickedness and the helping out of it; or that the cro
 
 **When are we completely delivered from all evil?**
 
-Answer: When we blessedly, that is, in faith on Christ, depart out of this world.
+**Answer:** When we blessedly, that is, in faith on Christ, depart out of this world.
 
 > **2 Tim. 4:18**
 >
@@ -49,7 +49,7 @@ Answer: When we blessedly, that is, in faith on Christ, depart out of this world
 
 **Should a person wish for death?**
 
-Answer: When it is done out of a godly longing for eternal life, and not out of impatience, then is it fitting that we pray every day for a blessed departure.
+**Answer:** When it is done out of a godly longing for eternal life, and not out of impatience, then is it fitting that we pray every day for a blessed departure.
 
 > **Phil. 1:23**
 >
@@ -62,7 +62,7 @@ Answer: When it is done out of a godly longing for eternal life, and not out of 
 
 **Why does the prayer conclude with the words, “For Thine is the kingdom, and the power, and the glory, for ever. Amen”?**
 
-Answer: That we may be assured of the hearing of our prayer: for He is a King both mighty and merciful, who will and can help, and we are the members and subjects of His kingdom; we ought also thereby to learn to conclude our own prayers with praise and thanksgiving.
+**Answer:** That we may be assured of the hearing of our prayer: for He is a King both mighty and merciful, who will and can help, and we are the members and subjects of His kingdom; we ought also thereby to learn to conclude our own prayers with praise and thanksgiving.
 
 > **Eph. 3:20,21**
 >
@@ -78,7 +78,7 @@ But deliver us from evil.
 
 **What does this mean?**
 
-Answer: We pray in this petition, as in a summary, that our dear heavenly Father would deliver us from every evil, of body and soul, of property and honor, and that
+**Answer:** We pray in this petition, as in a summary, that our dear heavenly Father would deliver us from every evil, of body and soul, of property and honor, and that
 
 at last, when our hour of death shall come, He would grant us a blessed end, and graciously take us from this vale of tears to Himself in heaven.
 
