@@ -251,9 +251,13 @@ Answer: St. Paul says in his Epistle to the Romans, in the sixth chapter: We are
 
 How the simple should be taught to confess their sins.
 
+### The Two Parts of Confession
+
 **What is Confession?**
 
 Answer: Confession consists of two parts: the one, that we confess our sins; the other, that we receive absolution or forgiveness from the confessor, as from God Himself, and in no wise doubt, but firmly believe that our sins are thereby forgiven before God in heaven.
+
+### What Should Be Confessed
 
 **What sins should we confess?**
 
@@ -261,12 +265,85 @@ Answer: Before God we should confess ourselves guilty of all sins, even of those
 
 **What are they?**
 
-Answer: Consider your station according to the Ten Commandments, whether you are a father, mother, son, daughter, master, mistress, or servant, and the like; whether you have been hard-hearted, unfaithful, slothful, angry, or unchaste in deeds and words; whether you have wronged anyone by words or deeds, stolen, lied, or through carelessness done any harm and injured another's goods. A Short Form of Confession. Thus should you speak and confess before the confessor: Reverend and dear sir! I pray you to hear my confession, and to pronounce forgiveness to me for God's sake. If you are a servant, say thus: I, a poor sinner, confess myself guilty of all sins; and in particular I confess before you that I am a servant, and the like; but (alas) in many things I have not done as the heads of the household commanded me. I have provoked them and moved them to scold and curse; I have been slothful and let much harm come; I have been unseemly in words and deeds, impatient and grumbling, quarreled and wrangled with my equals, and the like. For all this I am sorry, and I pray for grace; I will gladly amend my ways. The head of the household should speak thus: In particular I confess before you that I have not faithfully brought up my children and household, nor accustomed them to honor God. I have cursed and taken God's name in vain, and been a bad example both in word and deed; I have done much harm to those who dwell with me, slandered many, cheated with false measure, sold dearly and deceitfully; and whatever else he has done against God's commandments and his station. But if anyone does not find himself burdened with such or greater sins, let him not be anxious about others, nor seek out and invent further sins for himself, thereby making his confession a torment of conscience; but let him name one or two that he knows. Thus: In particular I confess before you that once I cursed, once I spoke unseemly words, once I did such a thing, and then let it rest. But if he cannot name a single one (which is scarcely possible), let him not name any in particular, but receive forgiveness upon the general confession which he makes to God before the confessor, saying thus: I, a poor sinner, conceived and born in sin, and who all the days of my life have lived sinfully, confess with all my heart before You, Almighty and eternal God, my dear heavenly Father, that I have not loved You above all things, nor my neighbor as myself. I have, together with my forefathers, in many ways, by thoughts, words, and deeds, sinned against You and Your holy commandments, and I know therefore that I have deserved everlasting damnation, if You should judge me as Your holy justice demands and as my sins have deserved. But now You, dear heavenly Father, have promised Your grace and mercy to all poor sinners who desire to repent and by heartfelt faith flee to Your incomprehensible mercy and to the refuge of the Savior Jesus Christ. To such You will be merciful, however greatly they have sinned against You, and You will never again reproach them with their sins. In this I too, a poor sinner, put my trust, and pray with confidence: be merciful and gracious to me according to Your same promise, and forgive me all my sins, to the praise and glory of Your holy name. May Almighty and eternal God, for the sake of His great and incomprehensible mercy and of the Savior Jesus Christ, forgive us all our sins and grant us grace, that we may forsake our sinful life and obtain everlasting life with Him. Amen. And likewise: Merciful God, dear heavenly Father, whose mercy has no end! You who are patient and long-suffering, and of Your great mercy forgive iniquities, transgressions, and sins. We have sinned with our fathers, we have done wrong, we have been ungodly and displeased You; against You have we sinned, and done evil in Your sight; but remember not our former iniquities. Have speedy mercy upon us, for we are brought very low. Help us, O God of our salvation, for Your name's sake. Deliver us, and forgive us all our sins, and grant us the grace of Your Holy Ghost, that we may forsake our sinful life and obtain everlasting life with You, through Your Son, Jesus Christ our Lord. Amen. Or: O most merciful crucified Lord Jesus Christ, have mercy on me, a poor sinner, and look upon me with the eyes of Your mercy, as You looked upon Peter in the hall when he had denied You, and as You looked upon the sinful woman at the table in the Pharisee's house, and upon the thief on the cross; and grant me, through Your most holy grace, that with Peter I may weep over my sins, and with the sinful woman love You from my heart, and with the thief behold Your holy face in heaven forever. Amen. Here the confessor shall say: God be merciful to you, and strengthen your faith! Amen. The confessor shall ask the one confessing:
+Answer: Consider your station according to the Ten Commandments, whether you are a father, mother, son, daughter, master, mistress, or servant, and the like; whether you have been hard-hearted, unfaithful, slothful, angry, or unchaste in deeds and words; whether you have wronged anyone by words or deeds, stolen, lied, or through carelessness done any harm and injured another's goods.
+
+### A Short Form of Confession
+
+#### The Penitent’s Request
+
+Thus should you speak and confess before the confessor:
+
+> Reverend and dear sir! I pray you to hear my confession, and to pronounce forgiveness to me for God's sake.
+
+#### A Servant’s Confession
+
+If you are a servant, say thus:
+
+> I, a poor sinner, confess myself guilty of all sins; and in particular I confess before you that I am a servant, and the like; but (alas) in many things I have not done as the heads of the household commanded me. I have provoked them and moved them to scold and curse; I have been slothful and let much harm come; I have been unseemly in words and deeds, impatient and grumbling, quarreled and wrangled with my equals, and the like. For all this I am sorry, and I pray for grace; I will gladly amend my ways.
+
+#### A Head of Household’s Confession
+
+The head of the household should speak thus:
+
+> In particular I confess before you that I have not faithfully brought up my children and household, nor accustomed them to honor God. I have cursed and taken God's name in vain, and been a bad example both in word and deed; I have done much harm to those who dwell with me, slandered many, cheated with false measure, sold dearly and deceitfully; and whatever else he has done against God's commandments and his station.
+
+#### Confess Known Sins Without Inventing More
+
+But if anyone does not find himself burdened with such or greater sins, let him not be anxious about others, nor seek out and invent further sins for himself, thereby making his confession a torment of conscience; but let him name one or two that he knows. Thus:
+
+> In particular I confess before you that once I cursed, once I spoke unseemly words, once I did such a thing, and then let it rest.
+
+But if he cannot name a single one (which is scarcely possible), let him not name any in particular, but receive forgiveness upon the general confession which he makes to God before the confessor.
+
+#### A General Confession
+
+> I, a poor sinner, conceived and born in sin, and who all the days of my life have lived sinfully, confess with all my heart before You, Almighty and eternal God, my dear heavenly Father, that I have not loved You above all things, nor my neighbor as myself. I have, together with my forefathers, in many ways, by thoughts, words, and deeds, sinned against You and Your holy commandments, and I know therefore that I have deserved everlasting damnation, if You should judge me as Your holy justice demands and as my sins have deserved.
+>
+> But now You, dear heavenly Father, have promised Your grace and mercy to all poor sinners who desire to repent and by heartfelt faith flee to Your incomprehensible mercy and to the refuge of the Savior Jesus Christ. To such You will be merciful, however greatly they have sinned against You, and You will never again reproach them with their sins.
+>
+> In this I too, a poor sinner, put my trust, and pray with confidence: be merciful and gracious to me according to Your same promise, and forgive me all my sins, to the praise and glory of Your holy name.
+>
+> May Almighty and eternal God, for the sake of His great and incomprehensible mercy and of the Savior Jesus Christ, forgive us all our sins and grant us grace, that we may forsake our sinful life and obtain everlasting life with Him. Amen.
+
+#### Another General Confession
+
+> Merciful God, dear heavenly Father, whose mercy has no end! You who are patient and long-suffering, and of Your great mercy forgive iniquities, transgressions, and sins. We have sinned with our fathers, we have done wrong, we have been ungodly and displeased You; against You have we sinned, and done evil in Your sight; but remember not our former iniquities.
+>
+> Have speedy mercy upon us, for we are brought very low. Help us, O God of our salvation, for Your name's sake. Deliver us, and forgive us all our sins, and grant us the grace of Your Holy Ghost, that we may forsake our sinful life and obtain everlasting life with You, through Your Son, Jesus Christ our Lord. Amen.
+
+#### A Prayer to Christ
+
+Or:
+
+> O most merciful crucified Lord Jesus Christ, have mercy on me, a poor sinner, and look upon me with the eyes of Your mercy, as You looked upon Peter in the hall when he had denied You, and as You looked upon the sinful woman at the table in the Pharisee's house, and upon the thief on the cross; and grant me, through Your most holy grace, that with Peter I may weep over my sins, and with the sinful woman love You from my heart, and with the thief behold Your holy face in heaven forever. Amen.
+
+### The Absolution
+
+Here the confessor shall say:
+
+> God be merciful to you, and strengthen your faith! Amen.
+
+The confessor shall ask the one confessing:
 
 **Do you believe that my forgiveness is God's forgiveness?**
 
-Answer: I do believe it. The confessor shall further say: As you believe, so be it done unto you! And by the command of our Lord Jesus Christ I forgive you all your sins, in the name of the Father, and of the Son, and of the Holy Ghost. Amen. Go in peace! But those who are burdened in conscience, or in sorrow and distress, the confessor may comfort at greater length and awaken to faith with testimonies of Holy Scripture. This confession is only for the young and simple. This is the command of Christ, when He says: I will give unto thee the keys of the kingdom of heaven; and whatsoever thou shalt bind on earth shall be bound in heaven, and whatsoever thou shalt loose on earth shall be loosed in heaven. Receive ye the Holy Ghost: whosesoever sins ye remit, they are remitted unto them; and whosesoever sins ye retain, they are retained.
+Answer: I do believe it.
 
+The confessor shall further say:
+
+> As you believe, so be it done unto you! And by the command of our Lord Jesus Christ I forgive you all your sins, in the name of the Father, and of the Son, and of the Holy Ghost. Amen. Go in peace!
+
+### Pastoral Consolation
+
+Those who are burdened in conscience, or in sorrow and distress, the confessor may comfort at greater length and awaken to faith with testimonies of Holy Scripture. This confession is only for the young and simple.
+
+### Christ’s Command
+
+This is the command of Christ, when He says:
+
+> I will give unto thee the keys of the kingdom of heaven; and whatsoever thou shalt bind on earth shall be bound in heaven, and whatsoever thou shalt loose on earth shall be loosed in heaven.
+>
+> Receive ye the Holy Ghost: whosesoever sins ye remit, they are remitted unto them; and whosesoever sins ye retain, they are retained.
 
 ## The Sacrament of the Altar
 
