@@ -83,53 +83,6 @@ Philip began with Isaiah and preached Jesus to the Ethiopian traveler (Acts 8:30
 
 **Answer:** The first, of God the Father and of creation; the second, of the Son of God and of redemption; the third, of the Holy Ghost and of sanctification.
 
-THE FIRST ARTICLE OF FAITH, Of God the Father and of Creation
-
-**Why do you say, “I believe”?**
-
-**Answer:** For this reason, that he who would be saved may not trust in the faith of others, but must have for himself a right Christian faith, so that he may say with Paul:
-
-> **2 Tim. 1:12**
->
-> I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day.
-
-
-**In whom must we believe?**
-
-**Answer:** In God.
-
-**What is God?**
-
-**Answer:** God, according to His being, is a Spirit, eternal, almighty, righteous, present in all places, all-knowing, true, and merciful.
-
-> **John 4:24**
->
-> God is a Spirit.
-
-> **Ps. 90:2**
->
-> Before the mountains were brought forth, or ever Thou hadst formed the earth and the world, Thou art God from everlasting to everlasting.
-
-> **Job 42:2**
->
-> I know that Thou canst do all things.
-
-> **Dan. 9:14**
->
-> Yahweh our God is righteous in all His works which He doeth.
-
-> **Ps. 139:1,8,9,10**
->
-> Yahweh, Thou hast searched me, and known me. If I ascend up into heaven, Thou art there; if I make my bed in hell, behold, Thou art there also. If I take the wings of the morning, and dwell in the uttermost parts of the sea, even there shall Thy hand lead me, and Thy right hand shall hold me.
-
-> **John 8:26**
->
-> Jesus said: He that sent me is true.
-
-> **Exod. 34:6**
->
-> Yahweh cried: Yahweh, Yahweh God, merciful and gracious, longsuffering, and abundant in goodness and truth.
-
 
 ### Luther’s Small Catechism
 

@@ -18,6 +18,64 @@ On the evening of the resurrection, Jesus stood among His fearful disciples and 
 <figcaption>A leaf from the Ethiopian Gunda Gunde Gospels.</figcaption>
 </figure>
 
+## The Second Article: The Son of God and Redemption
+
+**Who is the Son of God?**
+
+**Answer:** The Son of God is the second person in the Godhead, begotten of the Father in eternity, who became man, born of the Virgin Mary.
+
+> **Micah 5:1**
+>
+> Bethlehem Ephratah, out of thee shall He come forth that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.
+
+> **Isa. 7:14**
+>
+> Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
+
+
+**What good works has the Son of God done for us?**
+
+**Answer:** He has delivered us from all sins, from death, and from the power of the devil.
+
+> **1 John 1:7**
+>
+> The blood of Jesus Christ, the Son of God, cleanseth us from all sin.
+
+> **Hos. 13:14**
+>
+> I will ransom them from the power of hell, and redeem them from death.
+
+
+**By what means did He redeem us?**
+
+**Answer:** Not with gold nor with silver, but with His holy and precious blood.
+
+> **1 Pet. 1:18,19**
+>
+> Knowing that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot.
+
+
+**What further good has He done for us?**
+
+**Answer:** He has also fulfilled the law in our stead, by His perfect obedience.
+
+> **Gal. 4:4,5**
+>
+> When the fulness of the time was come, God sent forth His Son, made of a woman, made under the law: that He might redeem them that were under the law.
+
+> **Matt. 5:17**
+>
+> I am not come to destroy the law, but to fulfil it.
+
+
+**What names is He given in this article of faith?**
+
+**Answer:** Jesus Christ.
+
+> **1 Cor. 3:11**
+>
+> Other foundation can no man lay than that is laid, which is Jesus Christ.
+
 **What does the Hebrew name “Jesus” mean?**
 
 **Answer:** A Saviour; for He saved His people from sin.
@@ -363,45 +421,6 @@ As is read in Matt. 25:34,41.
 >
 > Christ gave Himself for us, that He might redeem us from all iniquity, and make us zealous of good works.
 
-
-THE THIRD ARTICLE OF FAITH, Of the Holy Ghost and of Sanctification
-
-**Who is the Holy Ghost?**
-
-**Answer:** He is the third person in the being of the Godhead, who proceeds eternally from the Father and the Son.
-
-> **John 15:26**
->
-> When the Comforter is come, whom I will send unto you from the Father, the Spirit of truth, which proceedeth from the Father, He shall testify of me.
-
-> **Gal. 4:6**
->
-> God sent forth the Spirit of His Son into your hearts.
-
-
-**What good works does the Holy Ghost do for us?**
-
-**Answer:** He calls us through the Word and the sacraments into His congregation, enlightens our darkened reason, sanctifies and keeps us in the right and saving faith, daily forgives us our sins, and shall also on the last day, together with the Father and the Son, raise us from the dead and give us, together with all Christian believers, eternal life.
-
-> **2 Tim. 1:9**
->
-> God hath called us with a holy calling.
-
-> **Rom. 10:17**
->
-> Faith cometh by hearing, and hearing by the Word of God.
-
-> **1 Cor. 6:11**
->
-> Ye are washed, ye are sanctified, ye are justified in the name of the Lord Jesus, and by the Spirit of our God.
-
-> **2 Tim. 1:12,14**
->
-> I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day. That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.
-
-> **Rom. 8:11**
->
-> God, that raised up Christ from the dead, shall also quicken your mortal bodies by His Spirit that dwelleth in you.
 
 
 ### Luther’s Small Catechism

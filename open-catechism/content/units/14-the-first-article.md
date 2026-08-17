@@ -21,6 +21,53 @@ Genesis 1:26–31 recounts God’s creation of humankind in His image, male and 
 
 
 
+## The First Article: God the Father and Creation
+
+**Why do you say, “I believe”?**
+
+**Answer:** Because whoever would be saved must not trust in the faith of others, but must himself have a true Christian faith, so that he may say with Paul:
+
+> **2 Tim. 1:12**
+>
+> I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day.
+
+
+**In whom must we believe?**
+
+**Answer:** In God.
+
+**What is God?**
+
+**Answer:** God, according to His being, is a Spirit, eternal, almighty, righteous, present in all places, all-knowing, true, and merciful.
+
+> **John 4:24**
+>
+> God is a Spirit.
+
+> **Ps. 90:2**
+>
+> Before the mountains were brought forth, or ever Thou hadst formed the earth and the world, Thou art God from everlasting to everlasting.
+
+> **Job 42:2**
+>
+> I know that Thou canst do all things.
+
+> **Dan. 9:14**
+>
+> Yahweh our God is righteous in all His works which He doeth.
+
+> **Ps. 139:1,8,9,10**
+>
+> Yahweh, Thou hast searched me, and known me. If I ascend up into heaven, Thou art there; if I make my bed in hell, behold, Thou art there also. If I take the wings of the morning, and dwell in the uttermost parts of the sea, even there shall Thy hand lead me, and Thy right hand shall hold me.
+
+> **John 8:26**
+>
+> Jesus said: He that sent me is true.
+
+> **Exod. 34:6**
+>
+> Yahweh cried: Yahweh, Yahweh God, merciful and gracious, longsuffering, and abundant in goodness and truth.
+
 **Is there, then, more than one God?**
 
 **Answer:** No; He alone is one, but in the being of the Godhead there are three persons: the Father, the Son, and the Holy Ghost, and they are called the Holy Trinity, or the Threefold Unity.
@@ -282,64 +329,6 @@ Genesis 1:26–31 recounts God’s creation of humankind in His image, male and 
 >
 > Zacharias said: Blessed be the Lord God of Israel! For He hath visited and redeemed His people. That we, being delivered out of the hand of our enemies, might serve Him without fear, in holiness and righteousness before Him, all the days of our life.
 
-
-THE SECOND ARTICLE OF FAITH, Of the Son of God and of Redemption
-
-**Who is the Son of God?**
-
-**Answer:** The Son of God is the second person in the Godhead, begotten of the Father in eternity, who became man, born of the Virgin Mary.
-
-> **Micah 5:1**
->
-> Bethlehem Ephratah, out of thee shall He come forth that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.
-
-> **Isa. 7:14**
->
-> Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
-
-
-**What good works has the Son of God done for us?**
-
-**Answer:** He has delivered us from all sins, from death, and from the power of the devil.
-
-> **1 John 1:7**
->
-> The blood of Jesus Christ, the Son of God, cleanseth us from all sin.
-
-> **Hos. 13:14**
->
-> I will ransom them from the power of hell, and redeem them from death.
-
-
-**By what means did He redeem us?**
-
-**Answer:** Not with gold nor with silver, but with His holy and precious blood.
-
-> **1 Pet. 1:18,19**
->
-> Knowing that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot.
-
-
-**What further good has He done for us?**
-
-**Answer:** He has also fulfilled the law in our stead, by His perfect obedience.
-
-> **Gal. 4:4,5**
->
-> When the fulness of the time was come, God sent forth His Son, made of a woman, made under the law: that He might redeem them that were under the law.
-
-> **Matt. 5:17**
->
-> I am not come to destroy the law, but to fulfil it.
-
-
-**What names is He given in this article of faith?**
-
-**Answer:** Jesus Christ.
-
-> **1 Cor. 3:11**
->
-> Other foundation can no man lay than that is laid, which is Jesus Christ.
 
 
 ### Luther’s Small Catechism

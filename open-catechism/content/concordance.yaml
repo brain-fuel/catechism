@@ -35,3 +35,9 @@ changes:
     category: Hebrew liturgical transliteration
     reason: Preserve the Hebrew acclamation as a single transliterated liturgical word rather than the KJV paraphrase.
     evidence: Hebrew הללויה, Strong’s H1984 and H3050 in the pinned Hebrew dataset.
+  - source_id: svebilius-en-q007
+    before: "For this reason, that he who would be saved may not trust in the faith of others, but must have for himself a right Christian faith"
+    after: "Because whoever would be saved must not trust in the faith of others, but must himself have a true Christian faith"
+    category: obvious English correction
+    reason: Correct the awkward English syntax and replace ambiguous “may not” with the obligation expressed by the Finnish witness.
+    evidence: "Finnish: ettei se, joka tahtoo autuaaksi tulla, saa luottaa muitten uskoon, vaan hänelle pitää itsellensä oleman oikea kristillinen usko."

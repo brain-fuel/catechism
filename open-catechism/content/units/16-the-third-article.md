@@ -21,6 +21,45 @@ At Pentecost the Holy Ghost filled the gathered disciples and enabled them to sp
 
 
 
+## The Third Article: The Holy Ghost and Sanctification
+
+**Who is the Holy Ghost?**
+
+**Answer:** He is the third person in the being of the Godhead, who proceeds eternally from the Father and the Son.
+
+> **John 15:26**
+>
+> When the Comforter is come, whom I will send unto you from the Father, the Spirit of truth, which proceedeth from the Father, He shall testify of me.
+
+> **Gal. 4:6**
+>
+> God sent forth the Spirit of His Son into your hearts.
+
+
+**What good works does the Holy Ghost do for us?**
+
+**Answer:** He calls us through the Word and the sacraments into His congregation, enlightens our darkened reason, sanctifies and keeps us in the right and saving faith, daily forgives us our sins, and shall also on the last day, together with the Father and the Son, raise us from the dead and give us, together with all Christian believers, eternal life.
+
+> **2 Tim. 1:9**
+>
+> God hath called us with a holy calling.
+
+> **Rom. 10:17**
+>
+> Faith cometh by hearing, and hearing by the Word of God.
+
+> **1 Cor. 6:11**
+>
+> Ye are washed, ye are sanctified, ye are justified in the name of the Lord Jesus, and by the Spirit of our God.
+
+> **2 Tim. 1:12,14**
+>
+> I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day. That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.
+
+> **Rom. 8:11**
+>
+> God, that raised up Christ from the dead, shall also quicken your mortal bodies by His Spirit that dwelleth in you.
+
 **Can we come to Christ and believe in Him by our own power?**
 
 **Answer:** By no means, for we are dead in sin. As now a dead man cannot make himself alive, so neither can we by our own power turn ourselves unto Christ and believe in Him.
