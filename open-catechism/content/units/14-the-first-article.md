@@ -58,7 +58,13 @@ Genesis 1:26–31 recounts God’s creation of humankind in His image, male and 
 
 > **Ps. 139:1,8,9,10**
 >
-> Yahweh, Thou hast searched me, and known me. If I ascend up into heaven, Thou art there; if I make my bed in hell, behold, Thou art there also. If I take the wings of the morning, and dwell in the uttermost parts of the sea, even there shall Thy hand lead me, and Thy right hand shall hold me.
+> **139:1** Yahweh, Thou hast searched me, and known me.
+>
+> **139:8** If I ascend up into heaven, Thou art there; if I make my bed in hell, behold, Thou art there also.
+>
+> **139:9** If I take the wings of the morning, and dwell in the uttermost parts of the sea,
+>
+> **139:10** Even there shall Thy hand lead me, and Thy right hand shall hold me.
 
 > **John 8:26**
 >
@@ -395,7 +401,11 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 115:15-16**
 >
-> **115:15** Ye are blessed of Yahweh which made heaven and earth. **115:16** The heaven, even the heavens, are Yahweh’s: but the earth hath he given to the children of men.
+>
+>
+> **115:15** Ye are blessed of Yahweh which made heaven and earth.
+>
+> **115:16** The heaven, even the heavens, are Yahweh’s: but the earth hath he given to the children of men.
 
 
 <a id="rg-03-1-1-the-apostles-creed-first-article-part-1-004"></a>
@@ -455,11 +465,25 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 100**
 >
-> **100:1** Make a joyful noise unto Yahweh, all ye lands. **100:2** Serve Yahweh with gladness: come before his presence with singing. **100:3** Know ye that Yahweh he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture. **100:4** Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name. **100:5** For Yahweh is good; his mercy is everlasting; and his truth endureth to all generations.
+>
+>
+> **100:1** Make a joyful noise unto Yahweh, all ye lands.
+>
+> **100:2** Serve Yahweh with gladness: come before his presence with singing.
+>
+> **100:3** Know ye that Yahweh he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.
+>
+> **100:4** Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.
+>
+> **100:5** For Yahweh is good; his mercy is everlasting; and his truth endureth to all generations.
 
 > **Psalm 139:13-14**
 >
-> **139:13** For thou hast possessed my reins: thou hast covered me in my mother’s womb. **139:14** I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
+>
+>
+> **139:13** For thou hast possessed my reins: thou hast covered me in my mother’s womb.
+>
+> **139:14** I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
 
 
 <a id="rg-03-1-1-the-apostles-creed-first-article-part-1-008"></a>
@@ -485,11 +509,21 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 65:5-7**
 >
-> **65:5** By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea: **65:6** Which by his strength setteth fast the mountains; being girded with power: **65:7** Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.
+>
+>
+> **65:5** By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:
+>
+> **65:6** Which by his strength setteth fast the mountains; being girded with power:
+>
+> **65:7** Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.
 
 > **Psalm 95:4-5**
 >
-> **95:4** In his hand are the deep places of the earth: the strength of the hills is his also. **95:5** The sea is his, and he made it: and his hands formed the dry land.
+>
+>
+> **95:4** In his hand are the deep places of the earth: the strength of the hills is his also.
+>
+> **95:5** The sea is his, and he made it: and his hands formed the dry land.
 
 
 <a id="rg-03-1-1-the-apostles-creed-first-article-part-1-009"></a>
@@ -524,6 +558,8 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 > **22:37** Jesus said unto him, Thou shalt love Yahweh thy God with all thy heart, and with all thy soul, and with all thy mind.
 
 > **Psalm 103:1**
+>
+>
 >
 > **103:1** Bless Yahweh, O my soul: and all that is within me, bless his holy name.
 
@@ -567,9 +603,13 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 33:6**
 >
+>
+>
 > **33:6** By the Word of Yahweh were the heavens made; and all the host of them by the breath of his mouth.
 
 > **Psalm 33:9**
+>
+>
 >
 > **33:9** For he spake, and it was done; he commanded, and it stood fast.
 
@@ -697,13 +737,45 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 104:31**
 >
+>
+>
 > **104:31** The glory of Yahweh shall endure for ever: Yahweh shall rejoice in his works.
 
 > **Psalm 148**
 >
-> **148:1** Hallelujah. Praise ye Yahweh from the heavens: praise him in the heights. **148:2** Praise ye him, all his angels: praise ye him, all his hosts. **148:3** Praise ye him, sun and moon: praise him, all ye stars of light. **148:4** Praise him, ye heavens of heavens, and ye waters that be above the heavens. **148:5** Let them praise the name of Yahweh: for he commanded, and they were created. **148:6** He hath also stablished them for ever and ever: he hath made a decree which shall not pass. **148:7** Praise Yahweh from the earth, ye dragons, and all deeps: **148:8** Fire, and hail; snow, and vapour; stormy wind fulfilling his word: **148:9** Mountains, and all hills; fruitful trees, and all cedars: **148:10** Beasts, and all cattle; creeping things, and flying fowl: **148:11** Kings of the earth, and all people; princes, and all judges of the earth: **148:12** Both young men, and maidens; old men, and children: **148:13** Let them praise the name of Yahweh: for his name alone is excellent; his glory is above the earth and heaven. **148:14** He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Hallelujah.
+>
+>
+> **148:1** Hallelujah. Praise ye Yahweh from the heavens: praise him in the heights.
+>
+> **148:2** Praise ye him, all his angels: praise ye him, all his hosts.
+>
+> **148:3** Praise ye him, sun and moon: praise him, all ye stars of light.
+>
+> **148:4** Praise him, ye heavens of heavens, and ye waters that be above the heavens.
+>
+> **148:5** Let them praise the name of Yahweh: for he commanded, and they were created.
+>
+> **148:6** He hath also stablished them for ever and ever: he hath made a decree which shall not pass.
+>
+> **148:7** Praise Yahweh from the earth, ye dragons, and all deeps:
+>
+> **148:8** Fire, and hail; snow, and vapour; stormy wind fulfilling his word:
+>
+> **148:9** Mountains, and all hills; fruitful trees, and all cedars:
+>
+> **148:10** Beasts, and all cattle; creeping things, and flying fowl:
+>
+> **148:11** Kings of the earth, and all people; princes, and all judges of the earth:
+>
+> **148:12** Both young men, and maidens; old men, and children:
+>
+> **148:13** Let them praise the name of Yahweh: for his name alone is excellent; his glory is above the earth and heaven.
+>
+> **148:14** He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Hallelujah.
 
 > **Psalm 150:6**
+>
+>
 >
 > **150:6** Let every thing that hath breath praise Yahweh. Hallelujah.
 
@@ -747,11 +819,19 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 103:20-21**
 >
-> **103:20** Bless Yahweh, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word. **103:21** Bless ye Yahweh, all ye his hosts; ye ministers of his, that do his pleasure.
+>
+>
+> **103:20** Bless Yahweh, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.
+>
+> **103:21** Bless ye Yahweh, all ye his hosts; ye ministers of his, that do his pleasure.
 
 > **Psalm 91:11-12**
 >
-> **91:11** For he shall give his angels charge over thee, to keep thee in all thy ways. **91:12** They shall bear thee up in their hands, lest thou dash thy foot against a stone.
+>
+>
+> **91:11** For he shall give his angels charge over thee, to keep thee in all thy ways.
+>
+> **91:12** They shall bear thee up in their hands, lest thou dash thy foot against a stone.
 
 
 <a id="rg-03-1-1-the-apostles-creed-first-article-part-1-018"></a>
@@ -819,7 +899,15 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 91:9-12**
 >
-> **91:9** Because thou hast made Yahweh, which is my refuge, even the most High, thy habitation; **91:10** There shall no evil befall thee, neither shall any plague come nigh thy dwelling. **91:11** For he shall give his angels charge over thee, to keep thee in all thy ways. **91:12** They shall bear thee up in their hands, lest thou dash thy foot against a stone.
+>
+>
+> **91:9** Because thou hast made Yahweh, which is my refuge, even the most High, thy habitation;
+>
+> **91:10** There shall no evil befall thee, neither shall any plague come nigh thy dwelling.
+>
+> **91:11** For he shall give his angels charge over thee, to keep thee in all thy ways.
+>
+> **91:12** They shall bear thee up in their hands, lest thou dash thy foot against a stone.
 
 > **Revelation 22:8-9**
 >
@@ -833,7 +921,21 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 11**
 >
-> **11:1** In Yahweh put I my trust: how say ye to my soul, Flee as a bird to your mountain? **11:2** For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart. **11:3** If the foundations be destroyed, what can the righteous do? **11:4** Yahweh is in his holy temple, Yahweh’s throne is in heaven: his eyes behold, his eyelids try, the children of men. **11:5** Yahweh trieth the righteous: but the wicked and him that loveth violence his soul hateth. **11:6** Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup. **11:7** For the righteous Yahweh loveth righteousness; his countenance doth behold the upright.
+>
+>
+> **11:1** In Yahweh put I my trust: how say ye to my soul, Flee as a bird to your mountain?
+>
+> **11:2** For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.
+>
+> **11:3** If the foundations be destroyed, what can the righteous do?
+>
+> **11:4** Yahweh is in his holy temple, Yahweh’s throne is in heaven: his eyes behold, his eyelids try, the children of men.
+>
+> **11:5** Yahweh trieth the righteous: but the wicked and him that loveth violence his soul hateth.
+>
+> **11:6** Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.
+>
+> **11:7** For the righteous Yahweh loveth righteousness; his countenance doth behold the upright.
 
 
 <a id="rg-03-1-2-the-apostles-creed-first-article-part-2-001"></a>
@@ -843,7 +945,49 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 104:10-30**
 >
-> **104:10** He sendeth the springs into the valleys, which run among the hills. **104:11** They give drink to every beast of the field: the wild asses quench their thirst. **104:12** By them shall the fowls of the heaven have their habitation, which sing among the branches. **104:13** He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works. **104:14** He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth; **104:15** And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart. **104:16** The trees of Yahweh are full of sap; the cedars of Lebanon, which he hath planted; **104:17** Where the birds make their nests: as for the stork, the fir trees are her house. **104:18** The high hills are a refuge for the wild goats; and the rocks for the conies. **104:19** He appointed the moon for seasons: the sun knoweth his going down. **104:20** Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth. **104:21** The young lions roar after their prey, and seek their meat from God. **104:22** The sun ariseth, they gather themselves together, and lay them down in their dens. **104:23** Man goeth forth unto his work and to his labour until the evening. **104:24** O Yahweh, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches. **104:25** So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts. **104:26** There go the ships: there is that leviathan, whom thou hast made to play therein. **104:27** These wait all upon thee; that thou mayest give them their meat in due season. **104:28** That thou givest them they gather: thou openest thine hand, they are filled with good. **104:29** Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust. **104:30** Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.
+>
+>
+> **104:10** He sendeth the springs into the valleys, which run among the hills.
+>
+> **104:11** They give drink to every beast of the field: the wild asses quench their thirst.
+>
+> **104:12** By them shall the fowls of the heaven have their habitation, which sing among the branches.
+>
+> **104:13** He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works.
+>
+> **104:14** He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;
+>
+> **104:15** And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart.
+>
+> **104:16** The trees of Yahweh are full of sap; the cedars of Lebanon, which he hath planted;
+>
+> **104:17** Where the birds make their nests: as for the stork, the fir trees are her house.
+>
+> **104:18** The high hills are a refuge for the wild goats; and the rocks for the conies.
+>
+> **104:19** He appointed the moon for seasons: the sun knoweth his going down.
+>
+> **104:20** Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth.
+>
+> **104:21** The young lions roar after their prey, and seek their meat from God.
+>
+> **104:22** The sun ariseth, they gather themselves together, and lay them down in their dens.
+>
+> **104:23** Man goeth forth unto his work and to his labour until the evening.
+>
+> **104:24** O Yahweh, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.
+>
+> **104:25** So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts.
+>
+> **104:26** There go the ships: there is that leviathan, whom thou hast made to play therein.
+>
+> **104:27** These wait all upon thee; that thou mayest give them their meat in due season.
+>
+> **104:28** That thou givest them they gather: thou openest thine hand, they are filled with good.
+>
+> **104:29** Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.
+>
+> **104:30** Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.
 
 
 <a id="rg-03-1-2-the-apostles-creed-first-article-part-2-002"></a>
@@ -889,11 +1033,85 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 139**
 >
-> **139:1** O Yahweh, thou hast searched me, and known me. **139:2** Thou knowest my downsitting and mine uprising, thou understandest my thought afar off. **139:3** Thou compassest my path and my lying down, and art acquainted with all my ways. **139:4** For there is not a word in my tongue, but, lo, O Yahweh, thou knowest it altogether. **139:5** Thou hast beset me behind and before, and laid thine hand upon me. **139:6** Such knowledge is too wonderful for me; it is high, I cannot attain unto it. **139:7** Whither shall I go from thy spirit? or whither shall I flee from thy presence? **139:8** If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there. **139:9** If I take the wings of the morning, and dwell in the uttermost parts of the sea; **139:10** Even there shall thy hand lead me, and thy right hand shall hold me. **139:11** If I say, Surely the darkness shall cover me; even the night shall be light about me. **139:12** Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee. **139:13** For thou hast possessed my reins: thou hast covered me in my mother’s womb. **139:14** I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well. **139:15** My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth. **139:16** Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them. **139:17** How precious also are thy thoughts unto me, O God! how great is the sum of them! **139:18** If I should count them, they are more in number than the sand: when I awake, I am still with thee. **139:19** Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men. **139:20** For they speak against thee wickedly, and thine enemies take thy name in vain. **139:21** Do not I hate them, O Yahweh, that hate thee? and am not I grieved with those that rise up against thee? **139:22** I hate them with perfect hatred: I count them mine enemies. **139:23** Search me, O God, and know my heart: try me, and know my thoughts: **139:24** And see if there be any wicked way in me, and lead me in the way everlasting.
+>
+>
+> **139:1** O Yahweh, thou hast searched me, and known me.
+>
+> **139:2** Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.
+>
+> **139:3** Thou compassest my path and my lying down, and art acquainted with all my ways.
+>
+> **139:4** For there is not a word in my tongue, but, lo, O Yahweh, thou knowest it altogether.
+>
+> **139:5** Thou hast beset me behind and before, and laid thine hand upon me.
+>
+> **139:6** Such knowledge is too wonderful for me; it is high, I cannot attain unto it.
+>
+> **139:7** Whither shall I go from thy spirit? or whither shall I flee from thy presence?
+>
+> **139:8** If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.
+>
+> **139:9** If I take the wings of the morning, and dwell in the uttermost parts of the sea;
+>
+> **139:10** Even there shall thy hand lead me, and thy right hand shall hold me.
+>
+> **139:11** If I say, Surely the darkness shall cover me; even the night shall be light about me.
+>
+> **139:12** Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee.
+>
+> **139:13** For thou hast possessed my reins: thou hast covered me in my mother’s womb.
+>
+> **139:14** I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
+>
+> **139:15** My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.
+>
+> **139:16** Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.
+>
+> **139:17** How precious also are thy thoughts unto me, O God! how great is the sum of them!
+>
+> **139:18** If I should count them, they are more in number than the sand: when I awake, I am still with thee.
+>
+> **139:19** Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.
+>
+> **139:20** For they speak against thee wickedly, and thine enemies take thy name in vain.
+>
+> **139:21** Do not I hate them, O Yahweh, that hate thee? and am not I grieved with those that rise up against thee?
+>
+> **139:22** I hate them with perfect hatred: I count them mine enemies.
+>
+> **139:23** Search me, O God, and know my heart: try me, and know my thoughts:
+>
+> **139:24** And see if there be any wicked way in me, and lead me in the way everlasting.
 
 > **Psalm 65**
 >
-> **65:1** Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed. **65:2** O thou that hearest prayer, unto thee shall all flesh come. **65:3** Iniquities prevail against me: as for our transgressions, thou shalt purge them away. **65:4** Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple. **65:5** By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea: **65:6** Which by his strength setteth fast the mountains; being girded with power: **65:7** Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people. **65:8** They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice. **65:9** Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it. **65:10** Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof. **65:11** Thou crownest the year with thy goodness; and thy paths drop fatness. **65:12** They drop upon the pastures of the wilderness: and the little hills rejoice on every side. **65:13** The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.
+>
+>
+> **65:1** Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.
+>
+> **65:2** O thou that hearest prayer, unto thee shall all flesh come.
+>
+> **65:3** Iniquities prevail against me: as for our transgressions, thou shalt purge them away.
+>
+> **65:4** Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple.
+>
+> **65:5** By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:
+>
+> **65:6** Which by his strength setteth fast the mountains; being girded with power:
+>
+> **65:7** Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.
+>
+> **65:8** They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.
+>
+> **65:9** Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.
+>
+> **65:10** Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.
+>
+> **65:11** Thou crownest the year with thy goodness; and thy paths drop fatness.
+>
+> **65:12** They drop upon the pastures of the wilderness: and the little hills rejoice on every side.
+>
+> **65:13** The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.
 
 
 <a id="rg-03-1-2-the-apostles-creed-first-article-part-2-003"></a>
@@ -923,11 +1141,19 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 145:15-16**
 >
-> **145:15** The eyes of all wait upon thee; and thou givest them their meat in due season. **145:16** Thou openest thine hand, and satisfiest the desire of every living thing.
+>
+>
+> **145:15** The eyes of all wait upon thee; and thou givest them their meat in due season.
+>
+> **145:16** Thou openest thine hand, and satisfiest the desire of every living thing.
 
 > **Psalm 147:8-9**
 >
-> **147:8** Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains. **147:9** He giveth to the beast his food, and to the young ravens which cry.
+>
+>
+> **147:8** Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.
+>
+> **147:9** He giveth to the beast his food, and to the young ravens which cry.
 
 
 <a id="rg-03-1-2-the-apostles-creed-first-article-part-2-004"></a>
@@ -953,17 +1179,27 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 104:14-15**
 >
-> **104:14** He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth; **104:15** And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart.
+>
+>
+> **104:14** He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;
+>
+> **104:15** And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart.
 
 > **Psalm 104:23**
+>
+>
 >
 > **104:23** Man goeth forth unto his work and to his labour until the evening.
 
 > **Psalm 127:3**
 >
+>
+>
 > **127:3** Lo, children are an heritage of Yahweh: and the fruit of the womb is his reward.
 
 > **Psalm 68:6**
+>
+>
 >
 > **68:6** God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land.
 
@@ -983,19 +1219,159 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 121:2**
 >
+>
+>
 > **121:2** My help cometh from Yahweh, which made heaven and earth.
 
 > **Psalm 121:7**
+>
+>
 >
 > **121:7** Yahweh shall preserve thee from all evil: he shall preserve thy soul.
 
 > **Psalm 37**
 >
-> **37:1** Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity. **37:2** For they shall soon be cut down like the grass, and wither as the green herb. **37:3** Trust in Yahweh, and do good; so shalt thou dwell in the land, and verily thou shalt be fed. **37:4** Delight thyself also in Yahweh; and he shall give thee the desires of thine heart. **37:5** Commit thy way unto Yahweh; trust also in him; and he shall bring it to pass. **37:6** And he shall bring forth thy righteousness as the light, and thy judgment as the noonday. **37:7** Rest in Yahweh, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass. **37:8** Cease from anger, and forsake wrath: fret not thyself in any wise to do evil. **37:9** For evildoers shall be cut off: but those that wait upon Yahweh, they shall inherit the earth. **37:10** For yet a little while, and the wicked shall not be: yea, thou shalt diligently consider his place, and it shall not be. **37:11** But the meek shall inherit the earth; and shall delight themselves in the abundance of peace. **37:12** The wicked plotteth against the just, and gnasheth upon him with his teeth. **37:13** Yahweh shall laugh at him: for he seeth that his day is coming. **37:14** The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation. **37:15** Their sword shall enter into their own heart, and their bows shall be broken. **37:16** A little that a righteous man hath is better than the riches of many wicked. **37:17** For the arms of the wicked shall be broken: but Yahweh upholdeth the righteous. **37:18** Yahweh knoweth the days of the upright: and their inheritance shall be for ever. **37:19** They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied. **37:20** But the wicked shall perish, and the enemies of Yahweh shall be as the fat of lambs: they shall consume; into smoke shall they consume away. **37:21** The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth. **37:22** For such as be blessed of him shall inherit the earth; and they that be cursed of him shall be cut off. **37:23** The steps of a good man are ordered by Yahweh: and he delighteth in his way. **37:24** Though he fall, he shall not be utterly cast down: for Yahweh upholdeth him with his hand. **37:25** I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread. **37:26** He is ever merciful, and lendeth; and his seed is blessed. **37:27** Depart from evil, and do good; and dwell for evermore. **37:28** For Yahweh loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off. **37:29** The righteous shall inherit the land, and dwell therein for ever. **37:30** The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment. **37:31** The law of his God is in his heart; none of his steps shall slide. **37:32** The wicked watcheth the righteous, and seeketh to slay him. **37:33** Yahweh will not leave him in his hand, nor condemn him when he is judged. **37:34** Wait on Yahweh, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it. **37:35** I have seen the wicked in great power, and spreading himself like a green bay tree. **37:36** Yet he passed away, and, lo, he was not: yea, I sought him, but he could not be found. **37:37** Mark the perfect man, and behold the upright: for the end of that man is peace. **37:38** But the transgressors shall be destroyed together: the end of the wicked shall be cut off. **37:39** But the salvation of the righteous is of Yahweh: he is their strength in the time of trouble. **37:40** And Yahweh shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.
+>
+>
+> **37:1** Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.
+>
+> **37:2** For they shall soon be cut down like the grass, and wither as the green herb.
+>
+> **37:3** Trust in Yahweh, and do good; so shalt thou dwell in the land, and verily thou shalt be fed.
+>
+> **37:4** Delight thyself also in Yahweh; and he shall give thee the desires of thine heart.
+>
+> **37:5** Commit thy way unto Yahweh; trust also in him; and he shall bring it to pass.
+>
+> **37:6** And he shall bring forth thy righteousness as the light, and thy judgment as the noonday.
+>
+> **37:7** Rest in Yahweh, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.
+>
+> **37:8** Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.
+>
+> **37:9** For evildoers shall be cut off: but those that wait upon Yahweh, they shall inherit the earth.
+>
+> **37:10** For yet a little while, and the wicked shall not be: yea, thou shalt diligently consider his place, and it shall not be.
+>
+> **37:11** But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.
+>
+> **37:12** The wicked plotteth against the just, and gnasheth upon him with his teeth.
+>
+> **37:13** Yahweh shall laugh at him: for he seeth that his day is coming.
+>
+> **37:14** The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation.
+>
+> **37:15** Their sword shall enter into their own heart, and their bows shall be broken.
+>
+> **37:16** A little that a righteous man hath is better than the riches of many wicked.
+>
+> **37:17** For the arms of the wicked shall be broken: but Yahweh upholdeth the righteous.
+>
+> **37:18** Yahweh knoweth the days of the upright: and their inheritance shall be for ever.
+>
+> **37:19** They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied.
+>
+> **37:20** But the wicked shall perish, and the enemies of Yahweh shall be as the fat of lambs: they shall consume; into smoke shall they consume away.
+>
+> **37:21** The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.
+>
+> **37:22** For such as be blessed of him shall inherit the earth; and they that be cursed of him shall be cut off.
+>
+> **37:23** The steps of a good man are ordered by Yahweh: and he delighteth in his way.
+>
+> **37:24** Though he fall, he shall not be utterly cast down: for Yahweh upholdeth him with his hand.
+>
+> **37:25** I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread.
+>
+> **37:26** He is ever merciful, and lendeth; and his seed is blessed.
+>
+> **37:27** Depart from evil, and do good; and dwell for evermore.
+>
+> **37:28** For Yahweh loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.
+>
+> **37:29** The righteous shall inherit the land, and dwell therein for ever.
+>
+> **37:30** The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.
+>
+> **37:31** The law of his God is in his heart; none of his steps shall slide.
+>
+> **37:32** The wicked watcheth the righteous, and seeketh to slay him.
+>
+> **37:33** Yahweh will not leave him in his hand, nor condemn him when he is judged.
+>
+> **37:34** Wait on Yahweh, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it.
+>
+> **37:35** I have seen the wicked in great power, and spreading himself like a green bay tree.
+>
+> **37:36** Yet he passed away, and, lo, he was not: yea, I sought him, but he could not be found.
+>
+> **37:37** Mark the perfect man, and behold the upright: for the end of that man is peace.
+>
+> **37:38** But the transgressors shall be destroyed together: the end of the wicked shall be cut off.
+>
+> **37:39** But the salvation of the righteous is of Yahweh: he is their strength in the time of trouble.
+>
+> **37:40** And Yahweh shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.
 
 > **Psalm 73**
 >
-> **73:1** Truly God is good to Israel, even to such as are of a clean heart. **73:2** But as for me, my feet were almost gone; my steps had well nigh slipped. **73:3** For I was envious at the foolish, when I saw the prosperity of the wicked. **73:4** For there are no bands in their death: but their strength is firm. **73:5** They are not in trouble as other men; neither are they plagued like other men. **73:6** Therefore pride compasseth them about as a chain; violence covereth them as a garment. **73:7** Their eyes stand out with fatness: they have more than heart could wish. **73:8** They are corrupt, and speak wickedly concerning oppression: they speak loftily. **73:9** They set their mouth against the heavens, and their tongue walketh through the earth. **73:10** Therefore his people return hither: and waters of a full cup are wrung out to them. **73:11** And they say, How doth God know? and is there knowledge in the most High? **73:12** Behold, these are the ungodly, who prosper in the world; they increase in riches. **73:13** Verily I have cleansed my heart in vain, and washed my hands in innocency. **73:14** For all the day long have I been plagued, and chastened every morning. **73:15** If I say, I will speak thus; behold, I should offend against the generation of thy children. **73:16** When I thought to know this, it was too painful for me; **73:17** Until I went into the sanctuary of God; then understood I their end. **73:18** Surely thou didst set them in slippery places: thou castedst them down into destruction. **73:19** How are they brought into desolation, as in a moment! they are utterly consumed with terrors. **73:20** As a dream when one awaketh; so, O Lord, when thou awakest, thou shalt despise their image. **73:21** Thus my heart was grieved, and I was pricked in my reins. **73:22** So foolish was I, and ignorant: I was as a beast before thee. **73:23** Nevertheless I am continually with thee: thou hast holden me by my right hand. **73:24** Thou shalt guide me with thy counsel, and afterward receive me to glory. **73:25** Whom have I in heaven but thee? and there is none upon earth that I desire beside thee. **73:26** My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever. **73:27** For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee. **73:28** But it is good for me to draw near to God: I have put my trust in the Lord Yahweh, that I may declare all thy works.
+>
+>
+> **73:1** Truly God is good to Israel, even to such as are of a clean heart.
+>
+> **73:2** But as for me, my feet were almost gone; my steps had well nigh slipped.
+>
+> **73:3** For I was envious at the foolish, when I saw the prosperity of the wicked.
+>
+> **73:4** For there are no bands in their death: but their strength is firm.
+>
+> **73:5** They are not in trouble as other men; neither are they plagued like other men.
+>
+> **73:6** Therefore pride compasseth them about as a chain; violence covereth them as a garment.
+>
+> **73:7** Their eyes stand out with fatness: they have more than heart could wish.
+>
+> **73:8** They are corrupt, and speak wickedly concerning oppression: they speak loftily.
+>
+> **73:9** They set their mouth against the heavens, and their tongue walketh through the earth.
+>
+> **73:10** Therefore his people return hither: and waters of a full cup are wrung out to them.
+>
+> **73:11** And they say, How doth God know? and is there knowledge in the most High?
+>
+> **73:12** Behold, these are the ungodly, who prosper in the world; they increase in riches.
+>
+> **73:13** Verily I have cleansed my heart in vain, and washed my hands in innocency.
+>
+> **73:14** For all the day long have I been plagued, and chastened every morning.
+>
+> **73:15** If I say, I will speak thus; behold, I should offend against the generation of thy children.
+>
+> **73:16** When I thought to know this, it was too painful for me;
+>
+> **73:17** Until I went into the sanctuary of God; then understood I their end.
+>
+> **73:18** Surely thou didst set them in slippery places: thou castedst them down into destruction.
+>
+> **73:19** How are they brought into desolation, as in a moment! they are utterly consumed with terrors.
+>
+> **73:20** As a dream when one awaketh; so, O Lord, when thou awakest, thou shalt despise their image.
+>
+> **73:21** Thus my heart was grieved, and I was pricked in my reins.
+>
+> **73:22** So foolish was I, and ignorant: I was as a beast before thee.
+>
+> **73:23** Nevertheless I am continually with thee: thou hast holden me by my right hand.
+>
+> **73:24** Thou shalt guide me with thy counsel, and afterward receive me to glory.
+>
+> **73:25** Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.
+>
+> **73:26** My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.
+>
+> **73:27** For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.
+>
+> **73:28** But it is good for me to draw near to God: I have put my trust in the Lord Yahweh, that I may declare all thy works.
 
 > **Romans 8:28**
 >
@@ -1125,11 +1501,21 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 130:1-2**
 >
-> **130:1** Out of the depths have I cried unto thee, O Yahweh. **130:2** Lord, hear my voice: let thine ears be attentive to the voice of my supplications.
+>
+>
+> **130:1** Out of the depths have I cried unto thee, O Yahweh.
+>
+> **130:2** Lord, hear my voice: let thine ears be attentive to the voice of my supplications.
 
 > **Psalm 90:13-15**
 >
-> **90:13** Return, O Yahweh, how long? and let it repent thee concerning thy servants. **90:14** O satisfy us early with thy mercy; that we may rejoice and be glad all our days. **90:15** Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.
+>
+>
+> **90:13** Return, O Yahweh, how long? and let it repent thee concerning thy servants.
+>
+> **90:14** O satisfy us early with thy mercy; that we may rejoice and be glad all our days.
+>
+> **90:15** Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.
 
 
 <a id="rg-03-1-2-the-apostles-creed-first-article-part-2-013"></a>
@@ -1211,7 +1597,77 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 104**
 >
-> **104:1** Bless Yahweh, O my soul. O Yahweh my God, thou art very great; thou art clothed with honour and majesty. **104:2** Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain: **104:3** Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind: **104:4** Who maketh his angels spirits; his ministers a flaming fire: **104:5** Who laid the foundations of the earth, that it should not be removed for ever. **104:6** Thou coveredst it with the deep as with a garment: the waters stood above the mountains. **104:7** At thy rebuke they fled; at the voice of thy thunder they hasted away. **104:8** They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them. **104:9** Thou hast set a bound that they may not pass over; that they turn not again to cover the earth. **104:10** He sendeth the springs into the valleys, which run among the hills. **104:11** They give drink to every beast of the field: the wild asses quench their thirst. **104:12** By them shall the fowls of the heaven have their habitation, which sing among the branches. **104:13** He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works. **104:14** He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth; **104:15** And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart. **104:16** The trees of Yahweh are full of sap; the cedars of Lebanon, which he hath planted; **104:17** Where the birds make their nests: as for the stork, the fir trees are her house. **104:18** The high hills are a refuge for the wild goats; and the rocks for the conies. **104:19** He appointed the moon for seasons: the sun knoweth his going down. **104:20** Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth. **104:21** The young lions roar after their prey, and seek their meat from God. **104:22** The sun ariseth, they gather themselves together, and lay them down in their dens. **104:23** Man goeth forth unto his work and to his labour until the evening. **104:24** O Yahweh, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches. **104:25** So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts. **104:26** There go the ships: there is that leviathan, whom thou hast made to play therein. **104:27** These wait all upon thee; that thou mayest give them their meat in due season. **104:28** That thou givest them they gather: thou openest thine hand, they are filled with good. **104:29** Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust. **104:30** Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth. **104:31** The glory of Yahweh shall endure for ever: Yahweh shall rejoice in his works. **104:32** He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke. **104:33** I will sing unto Yahweh as long as I live: I will sing praise to my God while I have my being. **104:34** My meditation of him shall be sweet: I will be glad in Yahweh. **104:35** Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou Yahweh, O my soul. Hallelujah.
+>
+>
+> **104:1** Bless Yahweh, O my soul. O Yahweh my God, thou art very great; thou art clothed with honour and majesty.
+>
+> **104:2** Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:
+>
+> **104:3** Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:
+>
+> **104:4** Who maketh his angels spirits; his ministers a flaming fire:
+>
+> **104:5** Who laid the foundations of the earth, that it should not be removed for ever.
+>
+> **104:6** Thou coveredst it with the deep as with a garment: the waters stood above the mountains.
+>
+> **104:7** At thy rebuke they fled; at the voice of thy thunder they hasted away.
+>
+> **104:8** They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them.
+>
+> **104:9** Thou hast set a bound that they may not pass over; that they turn not again to cover the earth.
+>
+> **104:10** He sendeth the springs into the valleys, which run among the hills.
+>
+> **104:11** They give drink to every beast of the field: the wild asses quench their thirst.
+>
+> **104:12** By them shall the fowls of the heaven have their habitation, which sing among the branches.
+>
+> **104:13** He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works.
+>
+> **104:14** He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;
+>
+> **104:15** And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart.
+>
+> **104:16** The trees of Yahweh are full of sap; the cedars of Lebanon, which he hath planted;
+>
+> **104:17** Where the birds make their nests: as for the stork, the fir trees are her house.
+>
+> **104:18** The high hills are a refuge for the wild goats; and the rocks for the conies.
+>
+> **104:19** He appointed the moon for seasons: the sun knoweth his going down.
+>
+> **104:20** Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth.
+>
+> **104:21** The young lions roar after their prey, and seek their meat from God.
+>
+> **104:22** The sun ariseth, they gather themselves together, and lay them down in their dens.
+>
+> **104:23** Man goeth forth unto his work and to his labour until the evening.
+>
+> **104:24** O Yahweh, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.
+>
+> **104:25** So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts.
+>
+> **104:26** There go the ships: there is that leviathan, whom thou hast made to play therein.
+>
+> **104:27** These wait all upon thee; that thou mayest give them their meat in due season.
+>
+> **104:28** That thou givest them they gather: thou openest thine hand, they are filled with good.
+>
+> **104:29** Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.
+>
+> **104:30** Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.
+>
+> **104:31** The glory of Yahweh shall endure for ever: Yahweh shall rejoice in his works.
+>
+> **104:32** He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.
+>
+> **104:33** I will sing unto Yahweh as long as I live: I will sing praise to my God while I have my being.
+>
+> **104:34** My meditation of him shall be sweet: I will be glad in Yahweh.
+>
+> **104:35** Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou Yahweh, O my soul. Hallelujah.
 
 
 <a id="rg-03-1-3-the-apostles-creed-first-article-part-3-001"></a>
@@ -1249,7 +1705,19 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 136:4-9**
 >
-> **136:4** To him who alone doeth great wonders: for his mercy endureth for ever. **136:5** To him that by wisdom made the heavens: for his mercy endureth for ever. **136:6** To him that stretched out the earth above the waters: for his mercy endureth for ever. **136:7** To him that made great lights: for his mercy endureth for ever: **136:8** The sun to rule by day: for his mercy endureth for ever: **136:9** The moon and stars to rule by night: for his mercy endureth for ever.
+>
+>
+> **136:4** To him who alone doeth great wonders: for his mercy endureth for ever.
+>
+> **136:5** To him that by wisdom made the heavens: for his mercy endureth for ever.
+>
+> **136:6** To him that stretched out the earth above the waters: for his mercy endureth for ever.
+>
+> **136:7** To him that made great lights: for his mercy endureth for ever:
+>
+> **136:8** The sun to rule by day: for his mercy endureth for ever:
+>
+> **136:9** The moon and stars to rule by night: for his mercy endureth for ever.
 
 
 <a id="rg-03-1-3-the-apostles-creed-first-article-part-3-004"></a>
@@ -1293,6 +1761,8 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 13:6**
 >
+>
+>
 > **13:6** I will sing unto Yahweh, because he hath dealt bountifully with me.
 
 
@@ -1311,21 +1781,75 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 103**
 >
-> **103:1** Bless Yahweh, O my soul: and all that is within me, bless his holy name. **103:2** Bless Yahweh, O my soul, and forget not all his benefits: **103:3** Who forgiveth all thine iniquities; who healeth all thy diseases; **103:4** Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies; **103:5** Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle’s. **103:6** Yahweh executeth righteousness and judgment for all that are oppressed. **103:7** He made known his ways unto Moses, his acts unto the children of Israel. **103:8** Yahweh is merciful and gracious, slow to anger, and plenteous in mercy. **103:9** He will not always chide: neither will he keep his anger for ever. **103:10** He hath not dealt with us after our sins; nor rewarded us according to our iniquities. **103:11** For as the heaven is high above the earth, so great is his mercy toward them that fear him. **103:12** As far as the east is from the west, so far hath he removed our transgressions from us. **103:13** Like as a father pitieth his children, so Yahweh pitieth them that fear him. **103:14** For he knoweth our frame; he remembereth that we are dust. **103:15** As for man, his days are as grass: as a flower of the field, so he flourisheth. **103:16** For the wind passeth over it, and it is gone; and the place thereof shall know it no more. **103:17** But the mercy of Yahweh is from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children; **103:18** To such as keep his covenant, and to those that remember his commandments to do them. **103:19** Yahweh hath prepared his throne in the heavens; and his kingdom ruleth over all. **103:20** Bless Yahweh, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word. **103:21** Bless ye Yahweh, all ye his hosts; ye ministers of his, that do his pleasure. **103:22** Bless Yahweh, all his works in all places of his dominion: bless Yahweh, O my soul.
+>
+>
+> **103:1** Bless Yahweh, O my soul: and all that is within me, bless his holy name.
+>
+> **103:2** Bless Yahweh, O my soul, and forget not all his benefits:
+>
+> **103:3** Who forgiveth all thine iniquities; who healeth all thy diseases;
+>
+> **103:4** Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;
+>
+> **103:5** Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle’s.
+>
+> **103:6** Yahweh executeth righteousness and judgment for all that are oppressed.
+>
+> **103:7** He made known his ways unto Moses, his acts unto the children of Israel.
+>
+> **103:8** Yahweh is merciful and gracious, slow to anger, and plenteous in mercy.
+>
+> **103:9** He will not always chide: neither will he keep his anger for ever.
+>
+> **103:10** He hath not dealt with us after our sins; nor rewarded us according to our iniquities.
+>
+> **103:11** For as the heaven is high above the earth, so great is his mercy toward them that fear him.
+>
+> **103:12** As far as the east is from the west, so far hath he removed our transgressions from us.
+>
+> **103:13** Like as a father pitieth his children, so Yahweh pitieth them that fear him.
+>
+> **103:14** For he knoweth our frame; he remembereth that we are dust.
+>
+> **103:15** As for man, his days are as grass: as a flower of the field, so he flourisheth.
+>
+> **103:16** For the wind passeth over it, and it is gone; and the place thereof shall know it no more.
+>
+> **103:17** But the mercy of Yahweh is from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;
+>
+> **103:18** To such as keep his covenant, and to those that remember his commandments to do them.
+>
+> **103:19** Yahweh hath prepared his throne in the heavens; and his kingdom ruleth over all.
+>
+> **103:20** Bless Yahweh, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.
+>
+> **103:21** Bless ye Yahweh, all ye his hosts; ye ministers of his, that do his pleasure.
+>
+> **103:22** Bless Yahweh, all his works in all places of his dominion: bless Yahweh, O my soul.
 
 > **Psalm 136:1**
+>
+>
 >
 > **136:1** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
 
 > **Psalm 136:11**
 >
+>
+>
 > **136:11** And brought out Israel from among them: for his mercy endureth for ever:
 
 > **Psalm 136:24-25**
 >
-> **136:24** And hath redeemed us from our enemies: for his mercy endureth for ever. **136:25** Who giveth food to all flesh: for his mercy endureth for ever.
+>
+>
+> **136:24** And hath redeemed us from our enemies: for his mercy endureth for ever.
+>
+> **136:25** Who giveth food to all flesh: for his mercy endureth for ever.
 
 > **Psalm 136:5**
+>
+>
 >
 > **136:5** To him that by wisdom made the heavens: for his mercy endureth for ever.
 
@@ -1349,7 +1873,55 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 71**
 >
-> **71:1** In thee, O Yahweh, do I put my trust: let me never be put to confusion. **71:2** Deliver me in thy righteousness, and cause me to escape: incline thine ear unto me, and save me. **71:3** Be thou my strong habitation, whereunto I may continually resort: thou hast given commandment to save me; for thou art my rock and my fortress. **71:4** Deliver me, O my God, out of the hand of the wicked, out of the hand of the unrighteous and cruel man. **71:5** For thou art my hope, O Lord Yahweh: thou art my trust from my youth. **71:6** By thee have I been holden up from the womb: thou art he that took me out of my mother’s bowels: my praise shall be continually of thee. **71:7** I am as a wonder unto many; but thou art my strong refuge. **71:8** Let my mouth be filled with thy praise and with thy honour all the day. **71:9** Cast me not off in the time of old age; forsake me not when my strength faileth. **71:10** For mine enemies speak against me; and they that lay wait for my soul take counsel together, **71:11** Saying, God hath forsaken him: persecute and take him; for there is none to deliver him. **71:12** O God, be not far from me: O my God, make haste for my help. **71:13** Let them be confounded and consumed that are adversaries to my soul; let them be covered with reproach and dishonour that seek my hurt. **71:14** But I will hope continually, and will yet praise thee more and more. **71:15** My mouth shall shew forth thy righteousness and thy salvation all the day; for I know not the numbers thereof. **71:16** I will go in the strength of the Lord Yahweh: I will make mention of thy righteousness, even of thine only. **71:17** O God, thou hast taught me from my youth: and hitherto have I declared thy wondrous works. **71:18** Now also when I am old and grayheaded, O God, forsake me not; until I have shewed thy strength unto this generation, and thy power to every one that is to come. **71:19** Thy righteousness also, O God, is very high, who hast done great things: O God, who is like unto thee! **71:20** Thou, which hast shewed me great and sore troubles, shalt quicken me again, and shalt bring me up again from the depths of the earth. **71:21** Thou shalt increase my greatness, and comfort me on every side. **71:22** I will also praise thee with the psaltery, even thy truth, O my God: unto thee will I sing with the harp, O thou Holy One of Israel. **71:23** My lips shall greatly rejoice when I sing unto thee; and my soul, which thou hast redeemed. **71:24** My tongue also shall talk of thy righteousness all the day long: for they are confounded, for they are brought unto shame, that seek my hurt.
+>
+>
+> **71:1** In thee, O Yahweh, do I put my trust: let me never be put to confusion.
+>
+> **71:2** Deliver me in thy righteousness, and cause me to escape: incline thine ear unto me, and save me.
+>
+> **71:3** Be thou my strong habitation, whereunto I may continually resort: thou hast given commandment to save me; for thou art my rock and my fortress.
+>
+> **71:4** Deliver me, O my God, out of the hand of the wicked, out of the hand of the unrighteous and cruel man.
+>
+> **71:5** For thou art my hope, O Lord Yahweh: thou art my trust from my youth.
+>
+> **71:6** By thee have I been holden up from the womb: thou art he that took me out of my mother’s bowels: my praise shall be continually of thee.
+>
+> **71:7** I am as a wonder unto many; but thou art my strong refuge.
+>
+> **71:8** Let my mouth be filled with thy praise and with thy honour all the day.
+>
+> **71:9** Cast me not off in the time of old age; forsake me not when my strength faileth.
+>
+> **71:10** For mine enemies speak against me; and they that lay wait for my soul take counsel together,
+>
+> **71:11** Saying, God hath forsaken him: persecute and take him; for there is none to deliver him.
+>
+> **71:12** O God, be not far from me: O my God, make haste for my help.
+>
+> **71:13** Let them be confounded and consumed that are adversaries to my soul; let them be covered with reproach and dishonour that seek my hurt.
+>
+> **71:14** But I will hope continually, and will yet praise thee more and more.
+>
+> **71:15** My mouth shall shew forth thy righteousness and thy salvation all the day; for I know not the numbers thereof.
+>
+> **71:16** I will go in the strength of the Lord Yahweh: I will make mention of thy righteousness, even of thine only.
+>
+> **71:17** O God, thou hast taught me from my youth: and hitherto have I declared thy wondrous works.
+>
+> **71:18** Now also when I am old and grayheaded, O God, forsake me not; until I have shewed thy strength unto this generation, and thy power to every one that is to come.
+>
+> **71:19** Thy righteousness also, O God, is very high, who hast done great things: O God, who is like unto thee!
+>
+> **71:20** Thou, which hast shewed me great and sore troubles, shalt quicken me again, and shalt bring me up again from the depths of the earth.
+>
+> **71:21** Thou shalt increase my greatness, and comfort me on every side.
+>
+> **71:22** I will also praise thee with the psaltery, even thy truth, O my God: unto thee will I sing with the harp, O thou Holy One of Israel.
+>
+> **71:23** My lips shall greatly rejoice when I sing unto thee; and my soul, which thou hast redeemed.
+>
+> **71:24** My tongue also shall talk of thy righteousness all the day long: for they are confounded, for they are brought unto shame, that seek my hurt.
 
 
 <a id="rg-03-1-3-the-apostles-creed-first-article-part-3-008"></a>
@@ -1367,6 +1939,8 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 118:1**
 >
+>
+>
 > **118:1** O give thanks unto Yahweh; for he is good: because his mercy endureth for ever.
 
 
@@ -1377,13 +1951,109 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 136**
 >
-> **136:1** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever. **136:2** O give thanks unto the God of gods: for his mercy endureth for ever. **136:3** O give thanks to the Lord of lords: for his mercy endureth for ever. **136:4** To him who alone doeth great wonders: for his mercy endureth for ever. **136:5** To him that by wisdom made the heavens: for his mercy endureth for ever. **136:6** To him that stretched out the earth above the waters: for his mercy endureth for ever. **136:7** To him that made great lights: for his mercy endureth for ever: **136:8** The sun to rule by day: for his mercy endureth for ever: **136:9** The moon and stars to rule by night: for his mercy endureth for ever. **136:10** To him that smote Egypt in their firstborn: for his mercy endureth for ever: **136:11** And brought out Israel from among them: for his mercy endureth for ever: **136:12** With a strong hand, and with a stretched out arm: for his mercy endureth for ever. **136:13** To him which divided the Red sea into parts: for his mercy endureth for ever: **136:14** And made Israel to pass through the midst of it: for his mercy endureth for ever: **136:15** But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever. **136:16** To him which led his people through the wilderness: for his mercy endureth for ever. **136:17** To him which smote great kings: for his mercy endureth for ever: **136:18** And slew famous kings: for his mercy endureth for ever: **136:19** Sihon king of the Amorites: for his mercy endureth for ever: **136:20** And Og the king of Bashan: for his mercy endureth for ever: **136:21** And gave their land for an heritage: for his mercy endureth for ever: **136:22** Even an heritage unto Israel his servant: for his mercy endureth for ever. **136:23** Who remembered us in our low estate: for his mercy endureth for ever: **136:24** And hath redeemed us from our enemies: for his mercy endureth for ever. **136:25** Who giveth food to all flesh: for his mercy endureth for ever. **136:26** O give thanks unto the God of heaven: for his mercy endureth for ever.
+>
+>
+> **136:1** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
+>
+> **136:2** O give thanks unto the God of gods: for his mercy endureth for ever.
+>
+> **136:3** O give thanks to the Lord of lords: for his mercy endureth for ever.
+>
+> **136:4** To him who alone doeth great wonders: for his mercy endureth for ever.
+>
+> **136:5** To him that by wisdom made the heavens: for his mercy endureth for ever.
+>
+> **136:6** To him that stretched out the earth above the waters: for his mercy endureth for ever.
+>
+> **136:7** To him that made great lights: for his mercy endureth for ever:
+>
+> **136:8** The sun to rule by day: for his mercy endureth for ever:
+>
+> **136:9** The moon and stars to rule by night: for his mercy endureth for ever.
+>
+> **136:10** To him that smote Egypt in their firstborn: for his mercy endureth for ever:
+>
+> **136:11** And brought out Israel from among them: for his mercy endureth for ever:
+>
+> **136:12** With a strong hand, and with a stretched out arm: for his mercy endureth for ever.
+>
+> **136:13** To him which divided the Red sea into parts: for his mercy endureth for ever:
+>
+> **136:14** And made Israel to pass through the midst of it: for his mercy endureth for ever:
+>
+> **136:15** But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever.
+>
+> **136:16** To him which led his people through the wilderness: for his mercy endureth for ever.
+>
+> **136:17** To him which smote great kings: for his mercy endureth for ever:
+>
+> **136:18** And slew famous kings: for his mercy endureth for ever:
+>
+> **136:19** Sihon king of the Amorites: for his mercy endureth for ever:
+>
+> **136:20** And Og the king of Bashan: for his mercy endureth for ever:
+>
+> **136:21** And gave their land for an heritage: for his mercy endureth for ever:
+>
+> **136:22** Even an heritage unto Israel his servant: for his mercy endureth for ever.
+>
+> **136:23** Who remembered us in our low estate: for his mercy endureth for ever:
+>
+> **136:24** And hath redeemed us from our enemies: for his mercy endureth for ever.
+>
+> **136:25** Who giveth food to all flesh: for his mercy endureth for ever.
+>
+> **136:26** O give thanks unto the God of heaven: for his mercy endureth for ever.
 
 > **Psalm 145**
 >
-> **145:1** I will extol thee, my God, O king; and I will bless thy name for ever and ever. **145:2** Every day will I bless thee; and I will praise thy name for ever and ever. **145:3** Great is Yahweh, and greatly to be praised; and his greatness is unsearchable. **145:4** One generation shall praise thy works to another, and shall declare thy mighty acts. **145:5** I will speak of the glorious honour of thy majesty, and of thy wondrous works. **145:6** And men shall speak of the might of thy terrible acts: and I will declare thy greatness. **145:7** They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness. **145:8** Yahweh is gracious, and full of compassion; slow to anger, and of great mercy. **145:9** Yahweh is good to all: and his tender mercies are over all his works. **145:10** All thy works shall praise thee, O Yahweh; and thy saints shall bless thee. **145:11** They shall speak of the glory of thy kingdom, and talk of thy power; **145:12** To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom. **145:13** Thy kingdom is an everlasting kingdom, and thy dominion endureth throughout all generations. **145:14** Yahweh upholdeth all that fall, and raiseth up all those that be bowed down. **145:15** The eyes of all wait upon thee; and thou givest them their meat in due season. **145:16** Thou openest thine hand, and satisfiest the desire of every living thing. **145:17** Yahweh is righteous in all his ways, and holy in all his works. **145:18** Yahweh is nigh unto all them that call upon him, to all that call upon him in truth. **145:19** He will fulfil the desire of them that fear him: he also will hear their cry, and will save them. **145:20** Yahweh preserveth all them that love him: but all the wicked will he destroy. **145:21** My mouth shall speak the praise of Yahweh: and let all flesh bless his holy name for ever and ever.
+>
+>
+> **145:1** I will extol thee, my God, O king; and I will bless thy name for ever and ever.
+>
+> **145:2** Every day will I bless thee; and I will praise thy name for ever and ever.
+>
+> **145:3** Great is Yahweh, and greatly to be praised; and his greatness is unsearchable.
+>
+> **145:4** One generation shall praise thy works to another, and shall declare thy mighty acts.
+>
+> **145:5** I will speak of the glorious honour of thy majesty, and of thy wondrous works.
+>
+> **145:6** And men shall speak of the might of thy terrible acts: and I will declare thy greatness.
+>
+> **145:7** They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness.
+>
+> **145:8** Yahweh is gracious, and full of compassion; slow to anger, and of great mercy.
+>
+> **145:9** Yahweh is good to all: and his tender mercies are over all his works.
+>
+> **145:10** All thy works shall praise thee, O Yahweh; and thy saints shall bless thee.
+>
+> **145:11** They shall speak of the glory of thy kingdom, and talk of thy power;
+>
+> **145:12** To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.
+>
+> **145:13** Thy kingdom is an everlasting kingdom, and thy dominion endureth throughout all generations.
+>
+> **145:14** Yahweh upholdeth all that fall, and raiseth up all those that be bowed down.
+>
+> **145:15** The eyes of all wait upon thee; and thou givest them their meat in due season.
+>
+> **145:16** Thou openest thine hand, and satisfiest the desire of every living thing.
+>
+> **145:17** Yahweh is righteous in all his ways, and holy in all his works.
+>
+> **145:18** Yahweh is nigh unto all them that call upon him, to all that call upon him in truth.
+>
+> **145:19** He will fulfil the desire of them that fear him: he also will hear their cry, and will save them.
+>
+> **145:20** Yahweh preserveth all them that love him: but all the wicked will he destroy.
+>
+> **145:21** My mouth shall speak the praise of Yahweh: and let all flesh bless his holy name for ever and ever.
 
 > **Psalm 40:5**
+>
+>
 >
 > **40:5** Many, O Yahweh my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered.
 
@@ -1403,7 +2073,13 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 95:1-3**
 >
-> **95:1** O come, let us sing unto Yahweh: let us make a joyful noise to the rock of our salvation. **95:2** Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms. **95:3** For Yahweh is a great God, and a great King above all gods.
+>
+>
+> **95:1** O come, let us sing unto Yahweh: let us make a joyful noise to the rock of our salvation.
+>
+> **95:2** Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.
+>
+> **95:3** For Yahweh is a great God, and a great King above all gods.
 
 
 <a id="rg-03-1-3-the-apostles-creed-first-article-part-3-011"></a>
@@ -1421,15 +2097,25 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 115:16**
 >
+>
+>
 > **115:16** The heaven, even the heavens, are Yahweh’s: but the earth hath he given to the children of men.
 
 > **Psalm 24:1-2**
 >
-> **24:1** The earth is Yahweh’s, and the fulness thereof; the world, and they that dwell therein. **24:2** For he hath founded it upon the seas, and established it upon the floods.
+>
+>
+> **24:1** The earth is Yahweh’s, and the fulness thereof; the world, and they that dwell therein.
+>
+> **24:2** For he hath founded it upon the seas, and established it upon the floods.
 
 > **Psalm 8:5-6**
 >
-> **8:5** For thou hast made him a little lower than the angels, and hast crowned him with glory and honour. **8:6** Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:
+>
+>
+> **8:5** For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.
+>
+> **8:6** Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:
 
 
 <a id="rg-03-1-3-the-apostles-creed-first-article-part-3-012"></a>
@@ -1447,7 +2133,11 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 24:1-2**
 >
-> **24:1** The earth is Yahweh’s, and the fulness thereof; the world, and they that dwell therein. **24:2** For he hath founded it upon the seas, and established it upon the floods.
+>
+>
+> **24:1** The earth is Yahweh’s, and the fulness thereof; the world, and they that dwell therein.
+>
+> **24:2** For he hath founded it upon the seas, and established it upon the floods.
 
 
 <a id="rg-03-1-3-the-apostles-creed-first-article-part-3-013"></a>
@@ -1571,7 +2261,93 @@ Of God the Father and of Creation. I believe in God the Father Almighty, Maker o
 
 > **Psalm 107**
 >
-> **107:1** O give thanks unto Yahweh, for he is good: for his mercy endureth for ever. **107:2** Let the redeemed of Yahweh say so, whom he hath redeemed from the hand of the enemy; **107:3** And gathered them out of the lands, from the east, and from the west, from the north, and from the south. **107:4** They wandered in the wilderness in a solitary way; they found no city to dwell in. **107:5** Hungry and thirsty, their soul fainted in them. **107:6** Then they cried unto Yahweh in their trouble, and he delivered them out of their distresses. **107:7** And he led them forth by the right way, that they might go to a city of habitation. **107:8** Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men! **107:9** For he satisfieth the longing soul, and filleth the hungry soul with goodness. **107:10** Such as sit in darkness and in the shadow of death, being bound in affliction and iron; **107:11** Because they rebelled against the words of God, and contemned the counsel of the most High: **107:12** Therefore he brought down their heart with labour; they fell down, and there was none to help. **107:13** Then they cried unto Yahweh in their trouble, and he saved them out of their distresses. **107:14** He brought them out of darkness and the shadow of death, and brake their bands in sunder. **107:15** Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men! **107:16** For he hath broken the gates of brass, and cut the bars of iron in sunder. **107:17** Fools because of their transgression, and because of their iniquities, are afflicted. **107:18** Their soul abhorreth all manner of meat; and they draw near unto the gates of death. **107:19** Then they cry unto Yahweh in their trouble, and he saveth them out of their distresses. **107:20** He sent his word, and healed them, and delivered them from their destructions. **107:21** Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men! **107:22** And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing. **107:23** They that go down to the sea in ships, that do business in great waters; **107:24** These see the works of Yahweh, and his wonders in the deep. **107:25** For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof. **107:26** They mount up to the heaven, they go down again to the depths: their soul is melted because of trouble. **107:27** They reel to and fro, and stagger like a drunken man, and are at their wits’ end. **107:28** Then they cry unto Yahweh in their trouble, and he bringeth them out of their distresses. **107:29** He maketh the storm a calm, so that the waves thereof are still. **107:30** Then are they glad because they be quiet; so he bringeth them unto their desired haven. **107:31** Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men! **107:32** Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders. **107:33** He turneth rivers into a wilderness, and the watersprings into dry ground; **107:34** A fruitful land into barrenness, for the wickedness of them that dwell therein. **107:35** He turneth the wilderness into a standing water, and dry ground into watersprings. **107:36** And there he maketh the hungry to dwell, that they may prepare a city for habitation; **107:37** And sow the fields, and plant vineyards, which may yield fruits of increase. **107:38** He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease. **107:39** Again, they are minished and brought low through oppression, affliction, and sorrow. **107:40** He poureth contempt upon princes, and causeth them to wander in the wilderness, where there is no way. **107:41** Yet setteth he the poor on high from affliction, and maketh him families like a flock. **107:42** The righteous shall see it, and rejoice: and all iniquity shall stop her mouth. **107:43** Whoso is wise, and will observe these things, even they shall understand the lovingkindness of Yahweh.
+>
+>
+> **107:1** O give thanks unto Yahweh, for he is good: for his mercy endureth for ever.
+>
+> **107:2** Let the redeemed of Yahweh say so, whom he hath redeemed from the hand of the enemy;
+>
+> **107:3** And gathered them out of the lands, from the east, and from the west, from the north, and from the south.
+>
+> **107:4** They wandered in the wilderness in a solitary way; they found no city to dwell in.
+>
+> **107:5** Hungry and thirsty, their soul fainted in them.
+>
+> **107:6** Then they cried unto Yahweh in their trouble, and he delivered them out of their distresses.
+>
+> **107:7** And he led them forth by the right way, that they might go to a city of habitation.
+>
+> **107:8** Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men!
+>
+> **107:9** For he satisfieth the longing soul, and filleth the hungry soul with goodness.
+>
+> **107:10** Such as sit in darkness and in the shadow of death, being bound in affliction and iron;
+>
+> **107:11** Because they rebelled against the words of God, and contemned the counsel of the most High:
+>
+> **107:12** Therefore he brought down their heart with labour; they fell down, and there was none to help.
+>
+> **107:13** Then they cried unto Yahweh in their trouble, and he saved them out of their distresses.
+>
+> **107:14** He brought them out of darkness and the shadow of death, and brake their bands in sunder.
+>
+> **107:15** Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men!
+>
+> **107:16** For he hath broken the gates of brass, and cut the bars of iron in sunder.
+>
+> **107:17** Fools because of their transgression, and because of their iniquities, are afflicted.
+>
+> **107:18** Their soul abhorreth all manner of meat; and they draw near unto the gates of death.
+>
+> **107:19** Then they cry unto Yahweh in their trouble, and he saveth them out of their distresses.
+>
+> **107:20** He sent his word, and healed them, and delivered them from their destructions.
+>
+> **107:21** Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men!
+>
+> **107:22** And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.
+>
+> **107:23** They that go down to the sea in ships, that do business in great waters;
+>
+> **107:24** These see the works of Yahweh, and his wonders in the deep.
+>
+> **107:25** For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.
+>
+> **107:26** They mount up to the heaven, they go down again to the depths: their soul is melted because of trouble.
+>
+> **107:27** They reel to and fro, and stagger like a drunken man, and are at their wits’ end.
+>
+> **107:28** Then they cry unto Yahweh in their trouble, and he bringeth them out of their distresses.
+>
+> **107:29** He maketh the storm a calm, so that the waves thereof are still.
+>
+> **107:30** Then are they glad because they be quiet; so he bringeth them unto their desired haven.
+>
+> **107:31** Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men!
+>
+> **107:32** Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders.
+>
+> **107:33** He turneth rivers into a wilderness, and the watersprings into dry ground;
+>
+> **107:34** A fruitful land into barrenness, for the wickedness of them that dwell therein.
+>
+> **107:35** He turneth the wilderness into a standing water, and dry ground into watersprings.
+>
+> **107:36** And there he maketh the hungry to dwell, that they may prepare a city for habitation;
+>
+> **107:37** And sow the fields, and plant vineyards, which may yield fruits of increase.
+>
+> **107:38** He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease.
+>
+> **107:39** Again, they are minished and brought low through oppression, affliction, and sorrow.
+>
+> **107:40** He poureth contempt upon princes, and causeth them to wander in the wilderness, where there is no way.
+>
+> **107:41** Yet setteth he the poor on high from affliction, and maketh him families like a flock.
+>
+> **107:42** The righteous shall see it, and rejoice: and all iniquity shall stop her mouth.
+>
+> **107:43** Whoso is wise, and will observe these things, even they shall understand the lovingkindness of Yahweh.
 
 
 ## Memory and prayer

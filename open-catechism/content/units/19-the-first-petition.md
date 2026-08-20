@@ -151,7 +151,11 @@ Hallowed be thy name.
 
 > **Psalm 9:1-2**
 >
-> **9:1** I will praise thee, O Yahweh, with my whole heart; I will shew forth all thy marvellous works. **9:2** I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.
+>
+>
+> **9:1** I will praise thee, O Yahweh, with my whole heart; I will shew forth all thy marvellous works.
+>
+> **9:2** I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.
 
 
 <a id="rg-04-2-1-the-lord-s-prayer-the-first-petition-004"></a>
@@ -241,7 +245,25 @@ Hallowed be thy name.
 
 > **Psalm 8**
 >
-> **8:1** O Yahweh our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens. **8:2** Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger. **8:3** When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained; **8:4** What is man, that thou art mindful of him? and the son of man, that thou visitest him? **8:5** For thou hast made him a little lower than the angels, and hast crowned him with glory and honour. **8:6** Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet: **8:7** All sheep and oxen, yea, and the beasts of the field; **8:8** The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas. **8:9** O Yahweh our Lord, how excellent is thy name in all the earth!
+>
+>
+> **8:1** O Yahweh our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.
+>
+> **8:2** Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
+>
+> **8:3** When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;
+>
+> **8:4** What is man, that thou art mindful of him? and the son of man, that thou visitest him?
+>
+> **8:5** For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.
+>
+> **8:6** Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:
+>
+> **8:7** All sheep and oxen, yea, and the beasts of the field;
+>
+> **8:8** The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.
+>
+> **8:9** O Yahweh our Lord, how excellent is thy name in all the earth!
 
 
 ## Memory and prayer

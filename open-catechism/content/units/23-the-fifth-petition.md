@@ -128,11 +128,19 @@ And forgive us our trespasses, as we forgive them that trespass against us.
 
 > **Psalm 130:3-4**
 >
-> **130:3** If thou, Yahweh, shouldest mark iniquities, O Lord, who shall stand? **130:4** But there is forgiveness with thee, that thou mayest be feared.
+>
+>
+> **130:3** If thou, Yahweh, shouldest mark iniquities, O Lord, who shall stand?
+>
+> **130:4** But there is forgiveness with thee, that thou mayest be feared.
 
 > **Psalm 51:1-2**
 >
-> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin.
+>
+>
+> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
+>
+> **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin.
 
 
 <a id="rg-04-2-5-the-lord-s-prayer-the-fifth-petition-003"></a>
@@ -149,6 +157,8 @@ And forgive us our trespasses, as we forgive them that trespass against us.
 > **28:13** He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.
 
 > **Psalm 19:12**
+>
+>
 >
 > **19:12** Who can understand his errors? cleanse thou me from secret faults.
 
@@ -182,11 +192,25 @@ And forgive us our trespasses, as we forgive them that trespass against us.
 
 > **Psalm 130:3-4**
 >
-> **130:3** If thou, Yahweh, shouldest mark iniquities, O Lord, who shall stand? **130:4** But there is forgiveness with thee, that thou mayest be feared.
+>
+>
+> **130:3** If thou, Yahweh, shouldest mark iniquities, O Lord, who shall stand?
+>
+> **130:4** But there is forgiveness with thee, that thou mayest be feared.
 
 > **Psalm 32:1-5**
 >
-> **32:1** Blessed is he whose transgression is forgiven, whose sin is covered. **32:2** Blessed is the man unto whom Yahweh imputeth not iniquity, and in whose spirit there is no guile. **32:3** When I kept silence, my bones waxed old through my roaring all the day long. **32:4** For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah. **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah.
+>
+>
+> **32:1** Blessed is he whose transgression is forgiven, whose sin is covered.
+>
+> **32:2** Blessed is the man unto whom Yahweh imputeth not iniquity, and in whose spirit there is no guile.
+>
+> **32:3** When I kept silence, my bones waxed old through my roaring all the day long.
+>
+> **32:4** For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.
+>
+> **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah.
 
 > **Romans 3:23-24**
 >
@@ -272,7 +296,29 @@ And forgive us our trespasses, as we forgive them that trespass against us.
 
 > **Psalm 32**
 >
-> **32:1** Blessed is he whose transgression is forgiven, whose sin is covered. **32:2** Blessed is the man unto whom Yahweh imputeth not iniquity, and in whose spirit there is no guile. **32:3** When I kept silence, my bones waxed old through my roaring all the day long. **32:4** For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah. **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah. **32:6** For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him. **32:7** Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah. **32:8** I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye. **32:9** Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee. **32:10** Many sorrows shall be to the wicked: but he that trusteth in Yahweh, mercy shall compass him about. **32:11** Be glad in Yahweh, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.
+>
+>
+> **32:1** Blessed is he whose transgression is forgiven, whose sin is covered.
+>
+> **32:2** Blessed is the man unto whom Yahweh imputeth not iniquity, and in whose spirit there is no guile.
+>
+> **32:3** When I kept silence, my bones waxed old through my roaring all the day long.
+>
+> **32:4** For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.
+>
+> **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah.
+>
+> **32:6** For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.
+>
+> **32:7** Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.
+>
+> **32:8** I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.
+>
+> **32:9** Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.
+>
+> **32:10** Many sorrows shall be to the wicked: but he that trusteth in Yahweh, mercy shall compass him about.
+>
+> **32:11** Be glad in Yahweh, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.
 
 
 ## Memory and prayer

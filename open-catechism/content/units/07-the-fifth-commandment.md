@@ -109,6 +109,8 @@ Thou shalt not kill.
 
 > **Psalm 10:8**
 >
+>
+>
 > **10:8** He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.
 
 
@@ -273,6 +275,8 @@ Thou shalt not kill.
 
 > **Psalm 139:16**
 >
+>
+>
 > **139:16** Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.
 
 
@@ -283,7 +287,11 @@ Thou shalt not kill.
 
 > **Psalm 31:14-15**
 >
-> **31:14** But I trusted in thee, O Yahweh: I said, Thou art my God. **31:15** My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.
+>
+>
+> **31:14** But I trusted in thee, O Yahweh: I said, Thou art my God.
+>
+> **31:15** My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.
 
 
 <a id="rg-02-5-the-fifth-commandment-012"></a>
@@ -343,7 +351,11 @@ Thou shalt not kill.
 
 > **Psalm 139:13-14**
 >
-> **139:13** For thou hast possessed my reins: thou hast covered me in my mother’s womb. **139:14** I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
+>
+>
+> **139:13** For thou hast possessed my reins: thou hast covered me in my mother’s womb.
+>
+> **139:14** I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
 
 
 <a id="rg-02-5-the-fifth-commandment-016"></a>
@@ -367,11 +379,21 @@ Thou shalt not kill.
 
 > **Psalm 103:10-12**
 >
-> **103:10** He hath not dealt with us after our sins; nor rewarded us according to our iniquities. **103:11** For as the heaven is high above the earth, so great is his mercy toward them that fear him. **103:12** As far as the east is from the west, so far hath he removed our transgressions from us.
+>
+>
+> **103:10** He hath not dealt with us after our sins; nor rewarded us according to our iniquities.
+>
+> **103:11** For as the heaven is high above the earth, so great is his mercy toward them that fear him.
+>
+> **103:12** As far as the east is from the west, so far hath he removed our transgressions from us.
 
 > **Psalm 130:3-4**
 >
-> **130:3** If thou, Yahweh, shouldest mark iniquities, O Lord, who shall stand? **130:4** But there is forgiveness with thee, that thou mayest be feared.
+>
+>
+> **130:3** If thou, Yahweh, shouldest mark iniquities, O Lord, who shall stand?
+>
+> **130:4** But there is forgiveness with thee, that thou mayest be feared.
 
 
 <a id="rg-02-5-the-fifth-commandment-018"></a>
@@ -391,7 +413,43 @@ Thou shalt not kill.
 
 > **Psalm 10**
 >
-> **10:1** Why standest thou afar off, O Yahweh? why hidest thou thyself in times of trouble? **10:2** The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined. **10:3** For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom Yahweh abhorreth. **10:4** The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts. **10:5** His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them. **10:6** He hath said in his heart, I shall not be moved: for I shall never be in adversity. **10:7** His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity. **10:8** He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor. **10:9** He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net. **10:10** He croucheth, and humbleth himself, that the poor may fall by his strong ones. **10:11** He hath said in his heart, God hath forgotten: he hideth his face; he will never see it. **10:12** Arise, O Yahweh; O God, lift up thine hand: forget not the humble. **10:13** Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it. **10:14** Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless. **10:15** Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none. **10:16** Yahweh is King for ever and ever: the heathen are perished out of his land. **10:17** Yahweh, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear: **10:18** To judge the fatherless and the oppressed, that the man of the earth may no more oppress.
+>
+>
+> **10:1** Why standest thou afar off, O Yahweh? why hidest thou thyself in times of trouble?
+>
+> **10:2** The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.
+>
+> **10:3** For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom Yahweh abhorreth.
+>
+> **10:4** The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.
+>
+> **10:5** His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.
+>
+> **10:6** He hath said in his heart, I shall not be moved: for I shall never be in adversity.
+>
+> **10:7** His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity.
+>
+> **10:8** He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.
+>
+> **10:9** He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.
+>
+> **10:10** He croucheth, and humbleth himself, that the poor may fall by his strong ones.
+>
+> **10:11** He hath said in his heart, God hath forgotten: he hideth his face; he will never see it.
+>
+> **10:12** Arise, O Yahweh; O God, lift up thine hand: forget not the humble.
+>
+> **10:13** Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it.
+>
+> **10:14** Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.
+>
+> **10:15** Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none.
+>
+> **10:16** Yahweh is King for ever and ever: the heathen are perished out of his land.
+>
+> **10:17** Yahweh, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:
+>
+> **10:18** To judge the fatherless and the oppressed, that the man of the earth may no more oppress.
 
 
 ## Memory and prayer

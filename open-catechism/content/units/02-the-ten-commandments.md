@@ -286,6 +286,8 @@ Thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidser
 
 > **Psalm 119:105**
 >
+>
+>
 > **119:105**  Thy word is a lamp unto my feet, and a light unto my path.
 
 
@@ -342,9 +344,13 @@ Thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidser
 
 > **Psalm 32:5**
 >
+>
+>
 > **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah.
 
 > **Psalm 38:18**
+>
+>
 >
 > **38:18** For I will declare mine iniquity; I will be sorry for my sin.
 
@@ -389,6 +395,8 @@ Thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidser
 > **3:6** That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.
 
 > **Psalm 51:5**
+>
+>
 >
 > **51:5** Behold, I was shapen in iniquity; and in sin did my mother conceive me.
 

@@ -104,7 +104,11 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 > **Psalm 121:7-8**
 >
-> **121:7** Yahweh shall preserve thee from all evil: he shall preserve thy soul. **121:8** Yahweh shall preserve thy going out and thy coming in from this time forth, and even for evermore.
+>
+>
+> **121:7** Yahweh shall preserve thee from all evil: he shall preserve thy soul.
+>
+> **121:8** Yahweh shall preserve thy going out and thy coming in from this time forth, and even for evermore.
 
 
 <a id="rg-04-2-7-the-lord-s-prayer-the-seventh-petition-003"></a>
@@ -114,9 +118,15 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 > **Psalm 20:1-2**
 >
-> **20:1** Yahweh hear thee in the day of trouble; the name of the God of Jacob defend thee; **20:2** Send thee help from the sanctuary, and strengthen thee out of Zion;
+>
+>
+> **20:1** Yahweh hear thee in the day of trouble; the name of the God of Jacob defend thee;
+>
+> **20:2** Send thee help from the sanctuary, and strengthen thee out of Zion;
 
 > **Psalm 59:1**
+>
+>
 >
 > **59:1** Deliver me from mine enemies, O my God: defend me from them that rise up against me.
 
@@ -144,7 +154,11 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 > **Psalm 91:9-10**
 >
-> **91:9** Because thou hast made Yahweh, which is my refuge, even the most High, thy habitation; **91:10** There shall no evil befall thee, neither shall any plague come nigh thy dwelling.
+>
+>
+> **91:9** Because thou hast made Yahweh, which is my refuge, even the most High, thy habitation;
+>
+> **91:10** There shall no evil befall thee, neither shall any plague come nigh thy dwelling.
 
 
 <a id="rg-04-2-7-the-lord-s-prayer-the-seventh-petition-005"></a>
@@ -236,7 +250,13 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 > **Psalm 46:1-3**
 >
-> **46:1** God is our refuge and strength, a very present help in trouble. **46:2** Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea; **46:3** Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah.
+>
+>
+> **46:1** God is our refuge and strength, a very present help in trouble.
+>
+> **46:2** Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;
+>
+> **46:3** Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah.
 
 
 <a id="rg-04-2-7-the-lord-s-prayer-the-seventh-petition-009"></a>
@@ -246,7 +266,41 @@ at last, when our hour of death shall come, He would grant us a blessed end, and
 
 > **Psalm 90**
 >
-> **90:1** Lord, thou hast been our dwelling place in all generations. **90:2** Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God. **90:3** Thou turnest man to destruction; and sayest, Return, ye children of men. **90:4** For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night. **90:5** Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up. **90:6** In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth. **90:7** For we are consumed by thine anger, and by thy wrath are we troubled. **90:8** Thou hast set our iniquities before thee, our secret sins in the light of thy countenance. **90:9** For all our days are passed away in thy wrath: we spend our years as a tale that is told. **90:10** The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away. **90:11** Who knoweth the power of thine anger? even according to thy fear, so is thy wrath. **90:12** So teach us to number our days, that we may apply our hearts unto wisdom. **90:13** Return, O Yahweh, how long? and let it repent thee concerning thy servants. **90:14** O satisfy us early with thy mercy; that we may rejoice and be glad all our days. **90:15** Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil. **90:16** Let thy work appear unto thy servants, and thy glory unto their children. **90:17** And let the beauty of Yahweh our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.
+>
+>
+> **90:1** Lord, thou hast been our dwelling place in all generations.
+>
+> **90:2** Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.
+>
+> **90:3** Thou turnest man to destruction; and sayest, Return, ye children of men.
+>
+> **90:4** For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night.
+>
+> **90:5** Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.
+>
+> **90:6** In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
+>
+> **90:7** For we are consumed by thine anger, and by thy wrath are we troubled.
+>
+> **90:8** Thou hast set our iniquities before thee, our secret sins in the light of thy countenance.
+>
+> **90:9** For all our days are passed away in thy wrath: we spend our years as a tale that is told.
+>
+> **90:10** The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.
+>
+> **90:11** Who knoweth the power of thine anger? even according to thy fear, so is thy wrath.
+>
+> **90:12** So teach us to number our days, that we may apply our hearts unto wisdom.
+>
+> **90:13** Return, O Yahweh, how long? and let it repent thee concerning thy servants.
+>
+> **90:14** O satisfy us early with thy mercy; that we may rejoice and be glad all our days.
+>
+> **90:15** Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.
+>
+> **90:16** Let thy work appear unto thy servants, and thy glory unto their children.
+>
+> **90:17** And let the beauty of Yahweh our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.
 
 
 ## Memory and prayer

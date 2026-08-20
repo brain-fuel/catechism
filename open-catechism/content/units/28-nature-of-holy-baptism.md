@@ -199,6 +199,8 @@ As the head of the family should teach it in a simple way to his household.
 
 > **Psalm 51:5**
 >
+>
+>
 > **51:5** Behold, I was shapen in iniquity; and in sin did my mother conceive me.
 
 > **Romans 5:12**
@@ -249,11 +251,19 @@ As the head of the family should teach it in a simple way to his household.
 
 > **Psalm 22:9-10**
 >
-> **22:9** But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother’s breasts. **22:10** I was cast upon thee from the womb: thou art my God from my mother’s belly.
+>
+>
+> **22:9** But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother’s breasts.
+>
+> **22:10** I was cast upon thee from the womb: thou art my God from my mother’s belly.
 
 > **Psalm 71:5-6**
 >
-> **71:5** For thou art my hope, O Lord Yahweh: thou art my trust from my youth. **71:6** By thee have I been holden up from the womb: thou art he that took me out of my mother’s bowels: my praise shall be continually of thee.
+>
+>
+> **71:5** For thou art my hope, O Lord Yahweh: thou art my trust from my youth.
+>
+> **71:6** By thee have I been holden up from the womb: thou art he that took me out of my mother’s bowels: my praise shall be continually of thee.
 
 
 <a id="rg-05-1-1-the-nature-of-holy-baptism-011"></a>
@@ -297,7 +307,23 @@ As the head of the family should teach it in a simple way to his household.
 
 > **Psalm 138**
 >
-> **138:1** I will praise thee with my whole heart: before the gods will I sing praise unto thee. **138:2** I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. **138:3** In the day when I cried thou answeredst me, and strengthenedst me with strength in my soul. **138:4** All the kings of the earth shall praise thee, O Yahweh, when they hear the words of thy mouth. **138:5** Yea, they shall sing in the ways of Yahweh: for great is the glory of Yahweh. **138:6** Though Yahweh be high, yet hath he respect unto the lowly: but the proud he knoweth afar off. **138:7** Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me. **138:8** Yahweh will perfect that which concerneth me: thy mercy, O Yahweh, endureth for ever: forsake not the works of thine own hands.
+>
+>
+> **138:1** I will praise thee with my whole heart: before the gods will I sing praise unto thee.
+>
+> **138:2** I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.
+>
+> **138:3** In the day when I cried thou answeredst me, and strengthenedst me with strength in my soul.
+>
+> **138:4** All the kings of the earth shall praise thee, O Yahweh, when they hear the words of thy mouth.
+>
+> **138:5** Yea, they shall sing in the ways of Yahweh: for great is the glory of Yahweh.
+>
+> **138:6** Though Yahweh be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.
+>
+> **138:7** Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.
+>
+> **138:8** Yahweh will perfect that which concerneth me: thy mercy, O Yahweh, endureth for ever: forsake not the works of thine own hands.
 
 
 ## Memory and prayer

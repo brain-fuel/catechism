@@ -158,7 +158,11 @@ Thy will be done on earth as it is in heaven.
 
 > **Psalm 23:4-5**
 >
-> **23:4** Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me. **23:5** Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
+>
+>
+> **23:4** Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
+>
+> **23:5** Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
 
 
 <a id="rg-04-2-3-the-lord-s-prayer-the-third-petition-005"></a>
@@ -316,6 +320,8 @@ Thy will be done on earth as it is in heaven.
 
 > **Psalm 55:22**
 >
+>
+>
 > **55:22** Cast thy burden upon Yahweh, and he shall sustain thee: he shall never suffer the righteous to be moved.
 
 
@@ -334,11 +340,19 @@ Thy will be done on earth as it is in heaven.
 
 > **Psalm 119:105**
 >
+>
+>
 > **119:105**  Thy word is a lamp unto my feet, and a light unto my path.
 
 > **Psalm 1:1-3**
 >
-> **1:1** Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. **1:2** But his delight is in the law of Yahweh; and in his law doth he meditate day and night. **1:3** And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
+>
+>
+> **1:1** Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
+>
+> **1:2** But his delight is in the law of Yahweh; and in his law doth he meditate day and night.
+>
+> **1:3** And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
 
 
 <a id="rg-04-2-3-the-lord-s-prayer-the-third-petition-013"></a>
@@ -386,7 +400,11 @@ Thy will be done on earth as it is in heaven.
 
 > **Psalm 25:4-5**
 >
-> **25:4** Shew me thy ways, O Yahweh; teach me thy paths. **25:5** Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.
+>
+>
+> **25:4** Shew me thy ways, O Yahweh; teach me thy paths.
+>
+> **25:5** Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.
 
 
 <a id="rg-04-2-3-the-lord-s-prayer-the-third-petition-015"></a>
@@ -468,7 +486,15 @@ Thy will be done on earth as it is in heaven.
 
 > **Psalm 51:1-4**
 >
-> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin. **51:3** For I acknowledge my transgressions: and my sin is ever before me. **51:4** Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.
+>
+>
+> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
+>
+> **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin.
+>
+> **51:3** For I acknowledge my transgressions: and my sin is ever before me.
+>
+> **51:4** Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.
 
 > **Romans 6:3-4**
 >
@@ -482,7 +508,35 @@ Thy will be done on earth as it is in heaven.
 
 > **Psalm 19**
 >
-> **19:1** The heavens declare the glory of God; and the firmament sheweth his handywork. **19:2** Day unto day uttereth speech, and night unto night sheweth knowledge. **19:3** There is no speech nor language, where their voice is not heard. **19:4** Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun, **19:5** Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race. **19:6** His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof. **19:7** The law of Yahweh is perfect, converting the soul: the testimony of Yahweh is sure, making wise the simple. **19:8** The statutes of Yahweh are right, rejoicing the heart: the commandment of Yahweh is pure, enlightening the eyes. **19:9** The fear of Yahweh is clean, enduring for ever: the judgments of Yahweh are true and righteous altogether. **19:10** More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb. **19:11** Moreover by them is thy servant warned: and in keeping of them there is great reward. **19:12** Who can understand his errors? cleanse thou me from secret faults. **19:13** Keep back thy servant also from presumptuous sins; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression. **19:14** Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O Yahweh, my strength, and my redeemer.
+>
+>
+> **19:1** The heavens declare the glory of God; and the firmament sheweth his handywork.
+>
+> **19:2** Day unto day uttereth speech, and night unto night sheweth knowledge.
+>
+> **19:3** There is no speech nor language, where their voice is not heard.
+>
+> **19:4** Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,
+>
+> **19:5** Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race.
+>
+> **19:6** His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.
+>
+> **19:7** The law of Yahweh is perfect, converting the soul: the testimony of Yahweh is sure, making wise the simple.
+>
+> **19:8** The statutes of Yahweh are right, rejoicing the heart: the commandment of Yahweh is pure, enlightening the eyes.
+>
+> **19:9** The fear of Yahweh is clean, enduring for ever: the judgments of Yahweh are true and righteous altogether.
+>
+> **19:10** More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.
+>
+> **19:11** Moreover by them is thy servant warned: and in keeping of them there is great reward.
+>
+> **19:12** Who can understand his errors? cleanse thou me from secret faults.
+>
+> **19:13** Keep back thy servant also from presumptuous sins; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.
+>
+> **19:14** Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O Yahweh, my strength, and my redeemer.
 
 
 ## Memory and prayer

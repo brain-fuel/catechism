@@ -62,6 +62,9 @@ let ValidateTableOfDuties () : Unit :=
 let ValidatePenitentialPsalms () : Unit :=
   Shell "set -eu; psalms=$(mktemp); awk '/^## The Seven Penitential Psalms$/{on=1} on && /^<a id=/{exit} on{print}' content/units/34-daily-prayers.md > \"$psalms\"; test $(grep -Ec '^### Psalm (6|32|38|51|102|130|143)$' \"$psalms\") = 7; test $(grep -Ec '^> \\*\\*[0-9]+:[0-9]+\\*\\*' \"$psalms\") = 110; test $(grep -c '^>$' \"$psalms\") = 103; ! grep -Eq '\\*\\*[0-9]+:[0-9]+\\*\\*.*\\*\\*[0-9]+:[0-9]+\\*\\*' \"$psalms\"; grep -qF '> **51:11** Cast me not away from thy presence; and take not thy Holy Ghost from me.' \"$psalms\"; rm \"$psalms\""
 
+let ValidatePsalmVerseLayout () : Unit :=
+  Shell "set -eu; test $(grep -RhEc '^> \\*\\*(Psalm|Ps\\.)[^*]*\\*\\*$' content/units content/enchiridion.md content/divine-service.md | awk '{s+=$1} END{print s}') = 267; awk 'function finish(){if(ps && multi && count<2)bad=1} FNR==1{finish();ps=0} /^> \\*\\*(Psalm|Ps\\.)/{finish();ps=1;count=0;multi=($0 ~ /[-–,]/);next} ps && $0 !~ /^>/{finish();ps=0} ps{line=$0;n=gsub(/\\*\\*[0-9]+:[0-9]+\\*\\*/,\"\",line);if(n>0 && $0 !~ /^> \\*\\*[0-9]+:[0-9]+\\*\\*/)bad=1;if(n>1)bad=1;count+=n} END{finish();exit bad}' content/units/*.md content/enchiridion.md content/divine-service.md"
+
 let BuildWeb () : Unit :=
   Shell "set -eu; test -x .tools/hugo; .tools/hugo --cleanDestinationDir --gc --minify"
 let BuildEPUB () : Unit :=
@@ -77,7 +80,7 @@ let BuildPrintableEditions () : Unit :=
 let main () : Unit := do {
   let line := strings.Join os.Args " ";
   if strings.Contains line " coverage" then Coverage ()
-  else if strings.Contains line " validate" then do { Validate (); ValidateCapitalization (); ValidateFrontMatter (); ValidateImagesAndNames (); ValidateEditorialBoilerplate (); ValidateDecalogue (); ValidateLutherScope (); ValidateSvebiliusCreedScope (); ValidateConfessionStructure (); ValidateAnswerLabels (); ValidateSacredArt (); ValidateDivineService (); ValidateTableOfDuties (); ValidatePenitentialPsalms () }
+  else if strings.Contains line " validate" then do { Validate (); ValidateCapitalization (); ValidateFrontMatter (); ValidateImagesAndNames (); ValidateEditorialBoilerplate (); ValidateDecalogue (); ValidateLutherScope (); ValidateSvebiliusCreedScope (); ValidateConfessionStructure (); ValidateAnswerLabels (); ValidateSacredArt (); ValidateDivineService (); ValidateTableOfDuties (); ValidatePenitentialPsalms (); ValidatePsalmVerseLayout () }
   else if strings.Contains line " sources" then fmt.Println "offline sources synchronized at 94d44842cb242e8aa840330748e03d2803f2a7c1"
   else if strings.Contains line " build" then do {
     Validate ();
@@ -94,6 +97,7 @@ let main () : Unit := do {
     ValidateDivineService ();
     ValidateTableOfDuties ();
     ValidatePenitentialPsalms ();
+    ValidatePsalmVerseLayout ();
     if strings.Contains line "web" || strings.Contains line "all" then BuildWeb () else Nop ();
     if strings.Contains line "epub" || strings.Contains line "all" then BuildEPUB () else Nop ();
     if strings.Contains line "pdf" || strings.Contains line "all" then BuildPrintableEditions () else Nop ();

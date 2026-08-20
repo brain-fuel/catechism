@@ -138,6 +138,8 @@ Of the Holy Ghost and of Sanctification. I believe in the Holy Ghost, one holy C
 
 > **Psalm 19:1**
 >
+>
+>
 > **19:1** The heavens declare the glory of God; and the firmament sheweth his handywork.
 
 > **Romans 1:20**

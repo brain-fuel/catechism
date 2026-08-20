@@ -349,11 +349,23 @@ I, a poor sinful man, who am conceived and born in sin, and have all the days of
 
 > **Psalm 32:3, 5**
 >
-> **32:3** When I kept silence, my bones waxed old through my roaring all the day long. **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah.
+>
+>
+> **32:3** When I kept silence, my bones waxed old through my roaring all the day long.
+>
+> **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah.
 
 > **Psalm 51:1-4**
 >
-> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin. **51:3** For I acknowledge my transgressions: and my sin is ever before me. **51:4** Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.
+>
+>
+> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
+>
+> **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin.
+>
+> **51:3** For I acknowledge my transgressions: and my sin is ever before me.
+>
+> **51:4** Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.
 
 
 <a id="rg-05-2-1-confession-and-absolution-003"></a>
@@ -374,6 +386,8 @@ I, a poor sinful man, who am conceived and born in sin, and have all the days of
 > **15:11** And he said, A certain man had two sons: **15:12** And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. **15:13** And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living. **15:14** And when he had spent all, there arose a mighty famine in that land; and he began to be in want. **15:15** And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine. **15:16** And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him. **15:17** And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger! **15:18** I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee, **15:19** And am no more worthy to be called thy son: make me as one of thy hired servants. **15:20** And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. **15:21** And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. **15:22** But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: **15:23** And bring hither the fatted calf, and kill it; and let us eat, and be merry: **15:24** For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry. **15:25** Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing. **15:26** And he called one of the servants, and asked what these things meant. **15:27** And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound. **15:28** And he was angry, and would not go in: therefore came his father out, and intreated him. **15:29** And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends: **15:30** But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf. **15:31** And he said unto him, Son, thou art ever with me, and all that I have is thine. **15:32** It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
 
 > **Psalm 19:12**
+>
+>
 >
 > **19:12** Who can understand his errors? cleanse thou me from secret faults.
 
@@ -461,6 +475,8 @@ I, a poor sinful man, who am conceived and born in sin, and have all the days of
 
 > **Psalm 103:12**
 >
+>
+>
 > **103:12** As far as the east is from the west, so far hath he removed our transgressions from us.
 
 
@@ -483,9 +499,15 @@ I, a poor sinful man, who am conceived and born in sin, and have all the days of
 
 > **Psalm 130:3-4**
 >
-> **130:3** If thou, Yahweh, shouldest mark iniquities, O Lord, who shall stand? **130:4** But there is forgiveness with thee, that thou mayest be feared.
+>
+>
+> **130:3** If thou, Yahweh, shouldest mark iniquities, O Lord, who shall stand?
+>
+> **130:4** But there is forgiveness with thee, that thou mayest be feared.
 
 > **Psalm 32:2**
+>
+>
 >
 > **32:2** Blessed is the man unto whom Yahweh imputeth not iniquity, and in whose spirit there is no guile.
 
@@ -507,31 +529,251 @@ I, a poor sinful man, who am conceived and born in sin, and have all the days of
 
 > **Psalm 102**
 >
-> **102:1** Hear my prayer, O Yahweh, and let my cry come unto thee. **102:2** Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily. **102:3** For my days are consumed like smoke, and my bones are burned as an hearth. **102:4** My heart is smitten, and withered like grass; so that I forget to eat my bread. **102:5** By reason of the voice of my groaning my bones cleave to my skin. **102:6** I am like a pelican of the wilderness: I am like an owl of the desert. **102:7** I watch, and am as a sparrow alone upon the house top. **102:8** Mine enemies reproach me all the day; and they that are mad against me are sworn against me. **102:9** For I have eaten ashes like bread, and mingled my drink with weeping, **102:10** Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down. **102:11** My days are like a shadow that declineth; and I am withered like grass. **102:12** But thou, O Yahweh, shalt endure for ever; and thy remembrance unto all generations. **102:13** Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come. **102:14** For thy servants take pleasure in her stones, and favour the dust thereof. **102:15** So the heathen shall fear the name of Yahweh, and all the kings of the earth thy glory. **102:16** When Yahweh shall build up Zion, he shall appear in his glory. **102:17** He will regard the prayer of the destitute, and not despise their prayer. **102:18** This shall be written for the generation to come: and the people which shall be created shall praise Yahweh. **102:19** For he hath looked down from the height of his sanctuary; from heaven did Yahweh behold the earth; **102:20** To hear the groaning of the prisoner; to loose those that are appointed to death; **102:21** To declare the name of Yahweh in Zion, and his praise in Jerusalem; **102:22** When the people are gathered together, and the kingdoms, to serve Yahweh. **102:23** He weakened my strength in the way; he shortened my days. **102:24** I said, O my God, take me not away in the midst of my days: thy years are throughout all generations. **102:25** Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands. **102:26** They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed: **102:27** But thou art the same, and thy years shall have no end. **102:28** The children of thy servants shall continue, and their seed shall be established before thee.
+>
+>
+> **102:1** Hear my prayer, O Yahweh, and let my cry come unto thee.
+>
+> **102:2** Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily.
+>
+> **102:3** For my days are consumed like smoke, and my bones are burned as an hearth.
+>
+> **102:4** My heart is smitten, and withered like grass; so that I forget to eat my bread.
+>
+> **102:5** By reason of the voice of my groaning my bones cleave to my skin.
+>
+> **102:6** I am like a pelican of the wilderness: I am like an owl of the desert.
+>
+> **102:7** I watch, and am as a sparrow alone upon the house top.
+>
+> **102:8** Mine enemies reproach me all the day; and they that are mad against me are sworn against me.
+>
+> **102:9** For I have eaten ashes like bread, and mingled my drink with weeping,
+>
+> **102:10** Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down.
+>
+> **102:11** My days are like a shadow that declineth; and I am withered like grass.
+>
+> **102:12** But thou, O Yahweh, shalt endure for ever; and thy remembrance unto all generations.
+>
+> **102:13** Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come.
+>
+> **102:14** For thy servants take pleasure in her stones, and favour the dust thereof.
+>
+> **102:15** So the heathen shall fear the name of Yahweh, and all the kings of the earth thy glory.
+>
+> **102:16** When Yahweh shall build up Zion, he shall appear in his glory.
+>
+> **102:17** He will regard the prayer of the destitute, and not despise their prayer.
+>
+> **102:18** This shall be written for the generation to come: and the people which shall be created shall praise Yahweh.
+>
+> **102:19** For he hath looked down from the height of his sanctuary; from heaven did Yahweh behold the earth;
+>
+> **102:20** To hear the groaning of the prisoner; to loose those that are appointed to death;
+>
+> **102:21** To declare the name of Yahweh in Zion, and his praise in Jerusalem;
+>
+> **102:22** When the people are gathered together, and the kingdoms, to serve Yahweh.
+>
+> **102:23** He weakened my strength in the way; he shortened my days.
+>
+> **102:24** I said, O my God, take me not away in the midst of my days: thy years are throughout all generations.
+>
+> **102:25** Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands.
+>
+> **102:26** They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:
+>
+> **102:27** But thou art the same, and thy years shall have no end.
+>
+> **102:28** The children of thy servants shall continue, and their seed shall be established before thee.
 
 > **Psalm 130**
 >
-> **130:1** Out of the depths have I cried unto thee, O Yahweh. **130:2** Lord, hear my voice: let thine ears be attentive to the voice of my supplications. **130:3** If thou, Yahweh, shouldest mark iniquities, O Lord, who shall stand? **130:4** But there is forgiveness with thee, that thou mayest be feared. **130:5** I wait for Yahweh, my soul doth wait, and in his word do I hope. **130:6** My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning. **130:7** Let Israel hope in Yahweh: for with Yahweh there is mercy, and with him is plenteous redemption. **130:8** And he shall redeem Israel from all his iniquities.
+>
+>
+> **130:1** Out of the depths have I cried unto thee, O Yahweh.
+>
+> **130:2** Lord, hear my voice: let thine ears be attentive to the voice of my supplications.
+>
+> **130:3** If thou, Yahweh, shouldest mark iniquities, O Lord, who shall stand?
+>
+> **130:4** But there is forgiveness with thee, that thou mayest be feared.
+>
+> **130:5** I wait for Yahweh, my soul doth wait, and in his word do I hope.
+>
+> **130:6** My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.
+>
+> **130:7** Let Israel hope in Yahweh: for with Yahweh there is mercy, and with him is plenteous redemption.
+>
+> **130:8** And he shall redeem Israel from all his iniquities.
 
 > **Psalm 143**
 >
-> **143:1** Hear my prayer, O Yahweh, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness. **143:2** And enter not into judgment with thy servant: for in thy sight shall no man living be justified. **143:3** For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead. **143:4** Therefore is my spirit overwhelmed within me; my heart within me is desolate. **143:5** I remember the days of old; I meditate on all thy works; I muse on the work of thy hands. **143:6** I stretch forth my hands unto thee: my soul thirsteth after thee, as a thirsty land. Selah. **143:7** Hear me speedily, O Yahweh: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit. **143:8** Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee. **143:9** Deliver me, O Yahweh, from mine enemies: I flee unto thee to hide me. **143:10** Teach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness. **143:11** Quicken me, O Yahweh, for thy name’s sake: for thy righteousness’ sake bring my soul out of trouble. **143:12** And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I am thy servant.
+>
+>
+> **143:1** Hear my prayer, O Yahweh, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.
+>
+> **143:2** And enter not into judgment with thy servant: for in thy sight shall no man living be justified.
+>
+> **143:3** For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead.
+>
+> **143:4** Therefore is my spirit overwhelmed within me; my heart within me is desolate.
+>
+> **143:5** I remember the days of old; I meditate on all thy works; I muse on the work of thy hands.
+>
+> **143:6** I stretch forth my hands unto thee: my soul thirsteth after thee, as a thirsty land. Selah.
+>
+> **143:7** Hear me speedily, O Yahweh: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit.
+>
+> **143:8** Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.
+>
+> **143:9** Deliver me, O Yahweh, from mine enemies: I flee unto thee to hide me.
+>
+> **143:10** Teach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness.
+>
+> **143:11** Quicken me, O Yahweh, for thy name’s sake: for thy righteousness’ sake bring my soul out of trouble.
+>
+> **143:12** And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I am thy servant.
 
 > **Psalm 32**
 >
-> **32:1** Blessed is he whose transgression is forgiven, whose sin is covered. **32:2** Blessed is the man unto whom Yahweh imputeth not iniquity, and in whose spirit there is no guile. **32:3** When I kept silence, my bones waxed old through my roaring all the day long. **32:4** For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah. **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah. **32:6** For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him. **32:7** Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah. **32:8** I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye. **32:9** Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee. **32:10** Many sorrows shall be to the wicked: but he that trusteth in Yahweh, mercy shall compass him about. **32:11** Be glad in Yahweh, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.
+>
+>
+> **32:1** Blessed is he whose transgression is forgiven, whose sin is covered.
+>
+> **32:2** Blessed is the man unto whom Yahweh imputeth not iniquity, and in whose spirit there is no guile.
+>
+> **32:3** When I kept silence, my bones waxed old through my roaring all the day long.
+>
+> **32:4** For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.
+>
+> **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah.
+>
+> **32:6** For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.
+>
+> **32:7** Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.
+>
+> **32:8** I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.
+>
+> **32:9** Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.
+>
+> **32:10** Many sorrows shall be to the wicked: but he that trusteth in Yahweh, mercy shall compass him about.
+>
+> **32:11** Be glad in Yahweh, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.
 
 > **Psalm 38**
 >
-> **38:1** O Yahweh, rebuke me not in thy wrath: neither chasten me in thy hot displeasure. **38:2** For thine arrows stick fast in me, and thy hand presseth me sore. **38:3** There is no soundness in my flesh because of thine anger; neither is there any rest in my bones because of my sin. **38:4** For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me. **38:5** My wounds stink and are corrupt because of my foolishness. **38:6** I am troubled; I am bowed down greatly; I go mourning all the day long. **38:7** For my loins are filled with a loathsome disease: and there is no soundness in my flesh. **38:8** I am feeble and sore broken: I have roared by reason of the disquietness of my heart. **38:9** Lord, all my desire is before thee; and my groaning is not hid from thee. **38:10** My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me. **38:11** My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off. **38:12** They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long. **38:13** But I, as a deaf man, heard not; and I was as a dumb man that openeth not his mouth. **38:14** Thus I was as a man that heareth not, and in whose mouth are no reproofs. **38:15** For in thee, O Yahweh, do I hope: thou wilt hear, O Lord my God. **38:16** For I said, Hear me, lest otherwise they should rejoice over me: when my foot slippeth, they magnify themselves against me. **38:17** For I am ready to halt, and my sorrow is continually before me. **38:18** For I will declare mine iniquity; I will be sorry for my sin. **38:19** But mine enemies are lively, and they are strong: and they that hate me wrongfully are multiplied. **38:20** They also that render evil for good are mine adversaries; because I follow the thing that good is. **38:21** Forsake me not, O Yahweh: O my God, be not far from me. **38:22** Make haste to help me, O Lord my salvation.
+>
+>
+> **38:1** O Yahweh, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.
+>
+> **38:2** For thine arrows stick fast in me, and thy hand presseth me sore.
+>
+> **38:3** There is no soundness in my flesh because of thine anger; neither is there any rest in my bones because of my sin.
+>
+> **38:4** For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.
+>
+> **38:5** My wounds stink and are corrupt because of my foolishness.
+>
+> **38:6** I am troubled; I am bowed down greatly; I go mourning all the day long.
+>
+> **38:7** For my loins are filled with a loathsome disease: and there is no soundness in my flesh.
+>
+> **38:8** I am feeble and sore broken: I have roared by reason of the disquietness of my heart.
+>
+> **38:9** Lord, all my desire is before thee; and my groaning is not hid from thee.
+>
+> **38:10** My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.
+>
+> **38:11** My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off.
+>
+> **38:12** They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.
+>
+> **38:13** But I, as a deaf man, heard not; and I was as a dumb man that openeth not his mouth.
+>
+> **38:14** Thus I was as a man that heareth not, and in whose mouth are no reproofs.
+>
+> **38:15** For in thee, O Yahweh, do I hope: thou wilt hear, O Lord my God.
+>
+> **38:16** For I said, Hear me, lest otherwise they should rejoice over me: when my foot slippeth, they magnify themselves against me.
+>
+> **38:17** For I am ready to halt, and my sorrow is continually before me.
+>
+> **38:18** For I will declare mine iniquity; I will be sorry for my sin.
+>
+> **38:19** But mine enemies are lively, and they are strong: and they that hate me wrongfully are multiplied.
+>
+> **38:20** They also that render evil for good are mine adversaries; because I follow the thing that good is.
+>
+> **38:21** Forsake me not, O Yahweh: O my God, be not far from me.
+>
+> **38:22** Make haste to help me, O Lord my salvation.
 
 > **Psalm 51**
 >
-> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin. **51:3** For I acknowledge my transgressions: and my sin is ever before me. **51:4** Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest. **51:5** Behold, I was shapen in iniquity; and in sin did my mother conceive me. **51:6** Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom. **51:7** Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow. **51:8** Make me to hear joy and gladness; that the bones which thou hast broken may rejoice. **51:9** Hide thy face from my sins, and blot out all mine iniquities. **51:10** Create in me a clean heart, O God; and renew a right spirit within me. **51:11** Cast me not away from thy presence; and take not thy Holy Ghost from me. **51:12** Restore unto me the joy of thy salvation; and uphold me with thy free spirit. **51:13** Then will I teach transgressors thy ways; and sinners shall be converted unto thee. **51:14** Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness. **51:15** O Lord, open thou my lips; and my mouth shall shew forth thy praise. **51:16** For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering. **51:17** The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise. **51:18** Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem. **51:19** Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
+>
+>
+> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
+>
+> **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin.
+>
+> **51:3** For I acknowledge my transgressions: and my sin is ever before me.
+>
+> **51:4** Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.
+>
+> **51:5** Behold, I was shapen in iniquity; and in sin did my mother conceive me.
+>
+> **51:6** Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.
+>
+> **51:7** Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
+>
+> **51:8** Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.
+>
+> **51:9** Hide thy face from my sins, and blot out all mine iniquities.
+>
+> **51:10** Create in me a clean heart, O God; and renew a right spirit within me.
+>
+> **51:11** Cast me not away from thy presence; and take not thy Holy Ghost from me.
+>
+> **51:12** Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
+>
+> **51:13** Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
+>
+> **51:14** Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.
+>
+> **51:15** O Lord, open thou my lips; and my mouth shall shew forth thy praise.
+>
+> **51:16** For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.
+>
+> **51:17** The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
+>
+> **51:18** Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.
+>
+> **51:19** Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
 
 > **Psalm 6**
 >
-> **6:1** O Yahweh, rebuke me not in thine anger, neither chasten me in thy hot displeasure. **6:2** Have mercy upon me, O Yahweh; for I am weak: O Yahweh, heal me; for my bones are vexed. **6:3** My soul is also sore vexed: but thou, O Yahweh, how long? **6:4** Return, O Yahweh, deliver my soul: oh save me for thy mercies’ sake. **6:5** For in death there is no remembrance of thee: in the grave who shall give thee thanks? **6:6** I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears. **6:7** Mine eye is consumed because of grief; it waxeth old because of all mine enemies. **6:8** Depart from me, all ye workers of iniquity; for Yahweh hath heard the voice of my weeping. **6:9** Yahweh hath heard my supplication; Yahweh will receive my prayer. **6:10** Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly.
+>
+>
+> **6:1** O Yahweh, rebuke me not in thine anger, neither chasten me in thy hot displeasure.
+>
+> **6:2** Have mercy upon me, O Yahweh; for I am weak: O Yahweh, heal me; for my bones are vexed.
+>
+> **6:3** My soul is also sore vexed: but thou, O Yahweh, how long?
+>
+> **6:4** Return, O Yahweh, deliver my soul: oh save me for thy mercies’ sake.
+>
+> **6:5** For in death there is no remembrance of thee: in the grave who shall give thee thanks?
+>
+> **6:6** I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.
+>
+> **6:7** Mine eye is consumed because of grief; it waxeth old because of all mine enemies.
+>
+> **6:8** Depart from me, all ye workers of iniquity; for Yahweh hath heard the voice of my weeping.
+>
+> **6:9** Yahweh hath heard my supplication; Yahweh will receive my prayer.
+>
+> **6:10** Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly.
 
 
 <a id="rg-05-2-1-confession-and-absolution-012"></a>
@@ -579,6 +821,8 @@ I, a poor sinful man, who am conceived and born in sin, and have all the days of
 
 > **Psalm 32:5**
 >
+>
+>
 > **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah.
 
 
@@ -606,6 +850,8 @@ I, a poor sinful man, who am conceived and born in sin, and have all the days of
 > **1:15** And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the Gospel.
 
 > **Psalm 32:5**
+>
+>
 >
 > **32:5** I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah.
 
@@ -771,7 +1017,41 @@ I, a poor sinful man, who am conceived and born in sin, and have all the days of
 
 > **Psalm 40**
 >
-> **40:1** I waited patiently for Yahweh; and he inclined unto me, and heard my cry. **40:2** He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings. **40:3** And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in Yahweh. **40:4** Blessed is that man that maketh Yahweh his trust, and respecteth not the proud, nor such as turn aside to lies. **40:5** Many, O Yahweh my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered. **40:6** Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required. **40:7** Then said I, Lo, I come: in the volume of the book it is written of me, **40:8** I delight to do thy will, O my God: yea, thy law is within my heart. **40:9** I have preached righteousness in the great congregation: lo, I have not refrained my lips, O Yahweh, thou knowest. **40:10** I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation. **40:11** Withhold not thou thy tender mercies from me, O Yahweh: let thy lovingkindness and thy truth continually preserve me. **40:12** For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me. **40:13** Be pleased, O Yahweh, to deliver me: O Yahweh, make haste to help me. **40:14** Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil. **40:15** Let them be desolate for a reward of their shame that say unto me, Aha, aha. **40:16** Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, Yahweh be magnified. **40:17** But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God.
+>
+>
+> **40:1** I waited patiently for Yahweh; and he inclined unto me, and heard my cry.
+>
+> **40:2** He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings.
+>
+> **40:3** And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in Yahweh.
+>
+> **40:4** Blessed is that man that maketh Yahweh his trust, and respecteth not the proud, nor such as turn aside to lies.
+>
+> **40:5** Many, O Yahweh my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered.
+>
+> **40:6** Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required.
+>
+> **40:7** Then said I, Lo, I come: in the volume of the book it is written of me,
+>
+> **40:8** I delight to do thy will, O my God: yea, thy law is within my heart.
+>
+> **40:9** I have preached righteousness in the great congregation: lo, I have not refrained my lips, O Yahweh, thou knowest.
+>
+> **40:10** I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.
+>
+> **40:11** Withhold not thou thy tender mercies from me, O Yahweh: let thy lovingkindness and thy truth continually preserve me.
+>
+> **40:12** For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.
+>
+> **40:13** Be pleased, O Yahweh, to deliver me: O Yahweh, make haste to help me.
+>
+> **40:14** Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil.
+>
+> **40:15** Let them be desolate for a reward of their shame that say unto me, Aha, aha.
+>
+> **40:16** Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, Yahweh be magnified.
+>
+> **40:17** But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God.
 
 
 ## Memory and prayer

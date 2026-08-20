@@ -281,9 +281,13 @@ Thanksgiving after Meat. O give thanks unto Yahweh, for He is good, and His merc
 
 > **Psalm 31:5**
 >
+>
+>
 > **31:5** Into thine hand I commit my spirit: thou hast redeemed me, O Yahweh God of truth.
 
 > **Psalm 91:11**
+>
+>
 >
 > **91:11** For he shall give his angels charge over thee, to keep thee in all thy ways.
 
@@ -295,13 +299,41 @@ Thanksgiving after Meat. O give thanks unto Yahweh, for He is good, and His merc
 
 > **Psalm 121**
 >
-> **121:1** I will lift up mine eyes unto the hills, from whence cometh my help. **121:2** My help cometh from Yahweh, which made heaven and earth. **121:3** He will not suffer thy foot to be moved: he that keepeth thee will not slumber. **121:4** Behold, he that keepeth Israel shall neither slumber nor sleep. **121:5** Yahweh is thy keeper: Yahweh is thy shade upon thy right hand. **121:6** The sun shall not smite thee by day, nor the moon by night. **121:7** Yahweh shall preserve thee from all evil: he shall preserve thy soul. **121:8** Yahweh shall preserve thy going out and thy coming in from this time forth, and even for evermore.
+>
+>
+> **121:1** I will lift up mine eyes unto the hills, from whence cometh my help.
+>
+> **121:2** My help cometh from Yahweh, which made heaven and earth.
+>
+> **121:3** He will not suffer thy foot to be moved: he that keepeth thee will not slumber.
+>
+> **121:4** Behold, he that keepeth Israel shall neither slumber nor sleep.
+>
+> **121:5** Yahweh is thy keeper: Yahweh is thy shade upon thy right hand.
+>
+> **121:6** The sun shall not smite thee by day, nor the moon by night.
+>
+> **121:7** Yahweh shall preserve thee from all evil: he shall preserve thy soul.
+>
+> **121:8** Yahweh shall preserve thy going out and thy coming in from this time forth, and even for evermore.
 
 > **Psalm 127**
 >
-> **127:1** Except Yahweh build the house, they labour in vain that build it: except Yahweh keep the city, the watchman waketh but in vain. **127:2** It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep. **127:3** Lo, children are an heritage of Yahweh: and the fruit of the womb is his reward. **127:4** As arrows are in the hand of a mighty man; so are children of the youth. **127:5** Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.
+>
+>
+> **127:1** Except Yahweh build the house, they labour in vain that build it: except Yahweh keep the city, the watchman waketh but in vain.
+>
+> **127:2** It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.
+>
+> **127:3** Lo, children are an heritage of Yahweh: and the fruit of the womb is his reward.
+>
+> **127:4** As arrows are in the hand of a mighty man; so are children of the youth.
+>
+> **127:5** Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.
 
 > **Psalm 4:8**
+>
+>
 >
 > **4:8** I will both lay me down in peace, and sleep: for thou, Yahweh, only makest me dwell in safety.
 
@@ -313,7 +345,11 @@ Thanksgiving after Meat. O give thanks unto Yahweh, for He is good, and His merc
 
 > **Psalm 145:15-16**
 >
-> **145:15** The eyes of all wait upon thee; and thou givest them their meat in due season. **145:16** Thou openest thine hand, and satisfiest the desire of every living thing.
+>
+>
+> **145:15** The eyes of all wait upon thee; and thou givest them their meat in due season.
+>
+> **145:16** Thou openest thine hand, and satisfiest the desire of every living thing.
 
 
 <a id="rg-06-daily-prayers-004"></a>
@@ -327,15 +363,27 @@ Thanksgiving after Meat. O give thanks unto Yahweh, for He is good, and His merc
 
 > **Psalm 103:2**
 >
+>
+>
 > **103:2** Bless Yahweh, O my soul, and forget not all his benefits:
 
 > **Psalm 136:1, 25**
 >
-> **136:1** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever. **136:25** Who giveth food to all flesh: for his mercy endureth for ever.
+>
+>
+> **136:1** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
+>
+> **136:25** Who giveth food to all flesh: for his mercy endureth for ever.
 
 > **Psalm 147:9-11**
 >
-> **147:9** He giveth to the beast his food, and to the young ravens which cry. **147:10** He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man. **147:11** Yahweh taketh pleasure in them that fear him, in those that hope in his mercy.
+>
+>
+> **147:9** He giveth to the beast his food, and to the young ravens which cry.
+>
+> **147:10** He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.
+>
+> **147:11** Yahweh taketh pleasure in them that fear him, in those that hope in his mercy.
 
 
 ## Memory and prayer

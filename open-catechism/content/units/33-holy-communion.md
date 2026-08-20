@@ -497,7 +497,27 @@ As the head of the family should teach it in a simple way to his household.
 
 > **Psalm 111**
 >
-> **111:1** Hallelujah. I will praise Yahweh with my whole heart, in the assembly of the upright, and in the congregation. **111:2** The works of Yahweh are great, sought out of all them that have pleasure therein. **111:3** His work is honourable and glorious: and his righteousness endureth for ever. **111:4** He hath made his wonderful works to be remembered: Yahweh is gracious and full of compassion. **111:5** He hath given meat unto them that fear him: he will ever be mindful of his covenant. **111:6** He hath shewed his people the power of his works, that he may give them the heritage of the heathen. **111:7** The works of his hands are verity and judgment; all his commandments are sure. **111:8** They stand fast for ever and ever, and are done in truth and uprightness. **111:9** He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name. **111:10** The fear of Yahweh is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
+>
+>
+> **111:1** Hallelujah. I will praise Yahweh with my whole heart, in the assembly of the upright, and in the congregation.
+>
+> **111:2** The works of Yahweh are great, sought out of all them that have pleasure therein.
+>
+> **111:3** His work is honourable and glorious: and his righteousness endureth for ever.
+>
+> **111:4** He hath made his wonderful works to be remembered: Yahweh is gracious and full of compassion.
+>
+> **111:5** He hath given meat unto them that fear him: he will ever be mindful of his covenant.
+>
+> **111:6** He hath shewed his people the power of his works, that he may give them the heritage of the heathen.
+>
+> **111:7** The works of his hands are verity and judgment; all his commandments are sure.
+>
+> **111:8** They stand fast for ever and ever, and are done in truth and uprightness.
+>
+> **111:9** He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name.
+>
+> **111:10** The fear of Yahweh is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
 
 
 <a id="rg-05-3-2-holy-communion-part-2-001"></a>
@@ -615,7 +635,53 @@ As the head of the family should teach it in a simple way to his household.
 
 > **Psalm 50**
 >
-> **50:1** The mighty God, even Yahweh, hath spoken, and called the earth from the rising of the sun unto the going down thereof. **50:2** Out of Zion, the perfection of beauty, God hath shined. **50:3** Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him. **50:4** He shall call to the heavens from above, and to the earth, that he may judge his people. **50:5** Gather my saints together unto me; those that have made a covenant with me by sacrifice. **50:6** And the heavens shall declare his righteousness: for God is judge himself. Selah. **50:7** Hear, O my people, and I will speak; O Israel, and I will testify against thee: I am God, even thy God. **50:8** I will not reprove thee for thy sacrifices or thy burnt offerings, to have been continually before me. **50:9** I will take no bullock out of thy house, nor he goats out of thy folds. **50:10** For every beast of the forest is mine, and the cattle upon a thousand hills. **50:11** I know all the fowls of the mountains: and the wild beasts of the field are mine. **50:12** If I were hungry, I would not tell thee: for the world is mine, and the fulness thereof. **50:13** Will I eat the flesh of bulls, or drink the blood of goats? **50:14** Offer unto God thanksgiving; and pay thy vows unto the most High: **50:15** And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me. **50:16** But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth? **50:17** Seeing thou hatest instruction, and castest my words behind thee. **50:18** When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers. **50:19** Thou givest thy mouth to evil, and thy tongue frameth deceit. **50:20** Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son. **50:21** These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes. **50:22** Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver. **50:23** Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God.
+>
+>
+> **50:1** The mighty God, even Yahweh, hath spoken, and called the earth from the rising of the sun unto the going down thereof.
+>
+> **50:2** Out of Zion, the perfection of beauty, God hath shined.
+>
+> **50:3** Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him.
+>
+> **50:4** He shall call to the heavens from above, and to the earth, that he may judge his people.
+>
+> **50:5** Gather my saints together unto me; those that have made a covenant with me by sacrifice.
+>
+> **50:6** And the heavens shall declare his righteousness: for God is judge himself. Selah.
+>
+> **50:7** Hear, O my people, and I will speak; O Israel, and I will testify against thee: I am God, even thy God.
+>
+> **50:8** I will not reprove thee for thy sacrifices or thy burnt offerings, to have been continually before me.
+>
+> **50:9** I will take no bullock out of thy house, nor he goats out of thy folds.
+>
+> **50:10** For every beast of the forest is mine, and the cattle upon a thousand hills.
+>
+> **50:11** I know all the fowls of the mountains: and the wild beasts of the field are mine.
+>
+> **50:12** If I were hungry, I would not tell thee: for the world is mine, and the fulness thereof.
+>
+> **50:13** Will I eat the flesh of bulls, or drink the blood of goats?
+>
+> **50:14** Offer unto God thanksgiving; and pay thy vows unto the most High:
+>
+> **50:15** And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.
+>
+> **50:16** But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
+>
+> **50:17** Seeing thou hatest instruction, and castest my words behind thee.
+>
+> **50:18** When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.
+>
+> **50:19** Thou givest thy mouth to evil, and thy tongue frameth deceit.
+>
+> **50:20** Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son.
+>
+> **50:21** These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
+>
+> **50:22** Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
+>
+> **50:23** Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God.
 
 
 <a id="rg-05-3-3-holy-communion-part-3-001"></a>
@@ -675,7 +741,19 @@ As the head of the family should teach it in a simple way to his household.
 
 > **Psalm 23**
 >
-> **23:1** Yahweh is my shepherd; I shall not want. **23:2** He maketh me to lie down in green pastures: he leadeth me beside the still waters. **23:3** He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake. **23:4** Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me. **23:5** Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. **23:6** Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of Yahweh for ever.
+>
+>
+> **23:1** Yahweh is my shepherd; I shall not want.
+>
+> **23:2** He maketh me to lie down in green pastures: he leadeth me beside the still waters.
+>
+> **23:3** He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
+>
+> **23:4** Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
+>
+> **23:5** Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
+>
+> **23:6** Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of Yahweh for ever.
 
 
 <a id="rg-05-3-4-holy-communion-part-4-001"></a>
@@ -706,6 +784,8 @@ As the head of the family should teach it in a simple way to his household.
 > **7:10** For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death. **7:11** For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.
 
 > **Psalm 38:18**
+>
+>
 >
 > **38:18** For I will declare mine iniquity; I will be sorry for my sin.
 
@@ -863,7 +943,45 @@ As the head of the family should teach it in a simple way to his household.
 
 > **Psalm 116**
 >
-> **116:1** I love Yahweh, because he hath heard my voice and my supplications. **116:2** Because he hath inclined his ear unto me, therefore will I call upon him as long as I live. **116:3** The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow. **116:4** Then called I upon the name of Yahweh; O Yahweh, I beseech thee, deliver my soul. **116:5** Gracious is Yahweh, and righteous; yea, our God is merciful. **116:6** Yahweh preserveth the simple: I was brought low, and he helped me. **116:7** Return unto thy rest, O my soul; for Yahweh hath dealt bountifully with thee. **116:8** For thou hast delivered my soul from death, mine eyes from tears, and my feet from falling. **116:9** I will walk before Yahweh in the land of the living. **116:10** I believed, therefore have I spoken: I was greatly afflicted: **116:11** I said in my haste, All men are liars. **116:12** What shall I render unto Yahweh for all his benefits toward me? **116:13** I will take the cup of salvation, and call upon the name of Yahweh. **116:14** I will pay my vows unto Yahweh now in the presence of all his people. **116:15** Precious in the sight of Yahweh is the death of his saints. **116:16** O Yahweh, truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds. **116:17** I will offer to thee the sacrifice of thanksgiving, and will call upon the name of Yahweh. **116:18** I will pay my vows unto Yahweh now in the presence of all his people, **116:19** In the courts of Yahweh’s house, in the midst of thee, O Jerusalem. Hallelujah.
+>
+>
+> **116:1** I love Yahweh, because he hath heard my voice and my supplications.
+>
+> **116:2** Because he hath inclined his ear unto me, therefore will I call upon him as long as I live.
+>
+> **116:3** The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow.
+>
+> **116:4** Then called I upon the name of Yahweh; O Yahweh, I beseech thee, deliver my soul.
+>
+> **116:5** Gracious is Yahweh, and righteous; yea, our God is merciful.
+>
+> **116:6** Yahweh preserveth the simple: I was brought low, and he helped me.
+>
+> **116:7** Return unto thy rest, O my soul; for Yahweh hath dealt bountifully with thee.
+>
+> **116:8** For thou hast delivered my soul from death, mine eyes from tears, and my feet from falling.
+>
+> **116:9** I will walk before Yahweh in the land of the living.
+>
+> **116:10** I believed, therefore have I spoken: I was greatly afflicted:
+>
+> **116:11** I said in my haste, All men are liars.
+>
+> **116:12** What shall I render unto Yahweh for all his benefits toward me?
+>
+> **116:13** I will take the cup of salvation, and call upon the name of Yahweh.
+>
+> **116:14** I will pay my vows unto Yahweh now in the presence of all his people.
+>
+> **116:15** Precious in the sight of Yahweh is the death of his saints.
+>
+> **116:16** O Yahweh, truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds.
+>
+> **116:17** I will offer to thee the sacrifice of thanksgiving, and will call upon the name of Yahweh.
+>
+> **116:18** I will pay my vows unto Yahweh now in the presence of all his people,
+>
+> **116:19** In the courts of Yahweh’s house, in the midst of thee, O Jerusalem. Hallelujah.
 
 
 ## Memory and prayer

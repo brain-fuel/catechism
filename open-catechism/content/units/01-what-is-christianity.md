@@ -367,6 +367,8 @@ Acts 8:26–39 tells how Philip met an Ethiopian court official reading Isaiah. 
 
 > **Psalm 119:73**
 >
+>
+>
 > **119:73**  Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.
 
 

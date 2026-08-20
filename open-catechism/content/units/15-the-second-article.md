@@ -112,7 +112,9 @@ On the evening of the resurrection, Jesus stood among His fearful disciples and 
 
 > **Ps. 49:7,8**
 >
-> None can by any means redeem his brother, nor give to God a ransom for him; for the redemption of their soul is precious, so that it must be left undone for ever.
+> **49:7** None can by any means redeem his brother, nor give to God a ransom for him;
+>
+> **49:8** For the redemption of their soul is precious, so that it must be left undone for ever.
 
 > **Rom. 8:3**
 >
@@ -999,7 +1001,31 @@ Of the Son of God and of Redemption. I believe in Jesus Christ, His only Son, ou
 
 > **Psalm 2**
 >
-> **2:1** Why do the heathen rage, and the people imagine a vain thing? **2:2** The kings of the earth set themselves, and the rulers take counsel together, against Yahweh, and against his anointed, saying, **2:3** Let us break their bands asunder, and cast away their cords from us. **2:4** He that sitteth in the heavens shall laugh: Yahweh shall have them in derision. **2:5** Then shall he speak unto them in his wrath, and vex them in his sore displeasure. **2:6** Yet have I set my king upon my holy hill of Zion. **2:7** I will declare the decree: Yahweh hath said unto me, Thou art my Son; this day have I begotten thee. **2:8** Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession. **2:9** Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel. **2:10** Be wise now therefore, O ye kings: be instructed, ye judges of the earth. **2:11** Serve Yahweh with fear, and rejoice with trembling. **2:12** Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
+>
+>
+> **2:1** Why do the heathen rage, and the people imagine a vain thing?
+>
+> **2:2** The kings of the earth set themselves, and the rulers take counsel together, against Yahweh, and against his anointed, saying,
+>
+> **2:3** Let us break their bands asunder, and cast away their cords from us.
+>
+> **2:4** He that sitteth in the heavens shall laugh: Yahweh shall have them in derision.
+>
+> **2:5** Then shall he speak unto them in his wrath, and vex them in his sore displeasure.
+>
+> **2:6** Yet have I set my king upon my holy hill of Zion.
+>
+> **2:7** I will declare the decree: Yahweh hath said unto me, Thou art my Son; this day have I begotten thee.
+>
+> **2:8** Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.
+>
+> **2:9** Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.
+>
+> **2:10** Be wise now therefore, O ye kings: be instructed, ye judges of the earth.
+>
+> **2:11** Serve Yahweh with fear, and rejoice with trembling.
+>
+> **2:12** Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
 
 
 <a id="rg-03-2-2-the-apostles-creed-second-article-part-2-001"></a>
@@ -1056,6 +1082,8 @@ Of the Son of God and of Redemption. I believe in Jesus Christ, His only Son, ou
 > **8:34** Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin. **8:35** And the servant abideth not in the house for ever: but the Son abideth ever. **8:36** If the Son therefore shall make you free, ye shall be free indeed.
 
 > **Psalm 51:5**
+>
+>
 >
 > **51:5** Behold, I was shapen in iniquity; and in sin did my mother conceive me.
 
@@ -1531,7 +1559,69 @@ Of the Son of God and of Redemption. I believe in Jesus Christ, His only Son, ou
 
 > **Psalm 22**
 >
-> **22:1** My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring? **22:2** O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent. **22:3** But thou art holy, O thou that inhabitest the praises of Israel. **22:4** Our fathers trusted in thee: they trusted, and thou didst deliver them. **22:5** They cried unto thee, and were delivered: they trusted in thee, and were not confounded. **22:6** But I am a worm, and no man; a reproach of men, and despised of the people. **22:7** All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying, **22:8** He trusted on Yahweh that he would deliver him: let him deliver him, seeing he delighted in him. **22:9** But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother’s breasts. **22:10** I was cast upon thee from the womb: thou art my God from my mother’s belly. **22:11** Be not far from me; for trouble is near; for there is none to help. **22:12** Many bulls have compassed me: strong bulls of Bashan have beset me round. **22:13** They gaped upon me with their mouths, as a ravening and a roaring lion. **22:14** I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels. **22:15** My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death. **22:16** For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet. **22:17** I may tell all my bones: they look and stare upon me. **22:18** They part my garments among them, and cast lots upon my vesture. **22:19** But be not thou far from me, O Yahweh: O my strength, haste thee to help me. **22:20** Deliver my soul from the sword; my darling from the power of the dog. **22:21** Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns. **22:22** I will declare thy name unto my brethren: in the midst of the congregation will I praise thee. **22:23** Ye that fear Yahweh, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel. **22:24** For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard. **22:25** My praise shall be of thee in the great congregation: I will pay my vows before them that fear him. **22:26** The meek shall eat and be satisfied: they shall praise Yahweh that seek him: your heart shall live for ever. **22:27** All the ends of the world shall remember and turn unto Yahweh: and all the kindreds of the nations shall worship before thee. **22:28** For the kingdom is Yahweh’s: and he is the governor among the nations. **22:29** All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul. **22:30** A seed shall serve him; it shall be accounted to the Lord for a generation. **22:31** They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this.
+>
+>
+> **22:1** My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?
+>
+> **22:2** O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.
+>
+> **22:3** But thou art holy, O thou that inhabitest the praises of Israel.
+>
+> **22:4** Our fathers trusted in thee: they trusted, and thou didst deliver them.
+>
+> **22:5** They cried unto thee, and were delivered: they trusted in thee, and were not confounded.
+>
+> **22:6** But I am a worm, and no man; a reproach of men, and despised of the people.
+>
+> **22:7** All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,
+>
+> **22:8** He trusted on Yahweh that he would deliver him: let him deliver him, seeing he delighted in him.
+>
+> **22:9** But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother’s breasts.
+>
+> **22:10** I was cast upon thee from the womb: thou art my God from my mother’s belly.
+>
+> **22:11** Be not far from me; for trouble is near; for there is none to help.
+>
+> **22:12** Many bulls have compassed me: strong bulls of Bashan have beset me round.
+>
+> **22:13** They gaped upon me with their mouths, as a ravening and a roaring lion.
+>
+> **22:14** I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.
+>
+> **22:15** My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.
+>
+> **22:16** For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
+>
+> **22:17** I may tell all my bones: they look and stare upon me.
+>
+> **22:18** They part my garments among them, and cast lots upon my vesture.
+>
+> **22:19** But be not thou far from me, O Yahweh: O my strength, haste thee to help me.
+>
+> **22:20** Deliver my soul from the sword; my darling from the power of the dog.
+>
+> **22:21** Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.
+>
+> **22:22** I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.
+>
+> **22:23** Ye that fear Yahweh, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.
+>
+> **22:24** For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.
+>
+> **22:25** My praise shall be of thee in the great congregation: I will pay my vows before them that fear him.
+>
+> **22:26** The meek shall eat and be satisfied: they shall praise Yahweh that seek him: your heart shall live for ever.
+>
+> **22:27** All the ends of the world shall remember and turn unto Yahweh: and all the kindreds of the nations shall worship before thee.
+>
+> **22:28** For the kingdom is Yahweh’s: and he is the governor among the nations.
+>
+> **22:29** All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.
+>
+> **22:30** A seed shall serve him; it shall be accounted to the Lord for a generation.
+>
+> **22:31** They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this.
 
 
 <a id="rg-03-2-3-the-apostles-creed-second-article-part-3-001"></a>
@@ -1603,7 +1693,19 @@ Of the Son of God and of Redemption. I believe in Jesus Christ, His only Son, ou
 
 > **Psalm 23**
 >
-> **23:1** Yahweh is my shepherd; I shall not want. **23:2** He maketh me to lie down in green pastures: he leadeth me beside the still waters. **23:3** He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake. **23:4** Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me. **23:5** Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. **23:6** Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of Yahweh for ever.
+>
+>
+> **23:1** Yahweh is my shepherd; I shall not want.
+>
+> **23:2** He maketh me to lie down in green pastures: he leadeth me beside the still waters.
+>
+> **23:3** He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
+>
+> **23:4** Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
+>
+> **23:5** Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
+>
+> **23:6** Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of Yahweh for ever.
 
 
 <a id="rg-03-2-3-the-apostles-creed-second-article-part-3-005"></a>
@@ -1843,6 +1945,8 @@ Of the Son of God and of Redemption. I believe in Jesus Christ, His only Son, ou
 
 > **Psalm 45:7**
 >
+>
+>
 > **45:7** Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.
 
 
@@ -1853,7 +1957,65 @@ Of the Son of God and of Redemption. I believe in Jesus Christ, His only Son, ou
 
 > **Psalm 118**
 >
-> **118:1** O give thanks unto Yahweh; for he is good: because his mercy endureth for ever. **118:2** Let Israel now say, that his mercy endureth for ever. **118:3** Let the house of Aaron now say, that his mercy endureth for ever. **118:4** Let them now that fear Yahweh say, that his mercy endureth for ever. **118:5** I called upon Yahweh in distress: Yahweh answered me, and set me in a large place. **118:6** Yahweh is on my side; I will not fear: what can man do unto me? **118:7** Yahweh taketh my part with them that help me: therefore shall I see my desire upon them that hate me. **118:8** It is better to trust in Yahweh than to put confidence in man. **118:9** It is better to trust in Yahweh than to put confidence in princes. **118:10** All nations compassed me about: but in the name of Yahweh will I destroy them. **118:11** They compassed me about; yea, they compassed me about: but in the name of Yahweh I will destroy them. **118:12** They compassed me about like bees; they are quenched as the fire of thorns: for in the name of Yahweh I will destroy them. **118:13** Thou hast thrust sore at me that I might fall: but Yahweh helped me. **118:14** Yahweh is my strength and song, and is become my salvation. **118:15** The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of Yahweh doeth valiantly. **118:16** The right hand of Yahweh is exalted: the right hand of Yahweh doeth valiantly. **118:17** I shall not die, but live, and declare the works of Yahweh. **118:18** Yahweh hath chastened me sore: but he hath not given me over unto death. **118:19** Open to me the gates of righteousness: I will go into them, and I will praise Yahweh: **118:20** This gate of Yahweh, into which the righteous shall enter. **118:21** I will praise thee: for thou hast heard me, and art become my salvation. **118:22** The stone which the builders refused is become the head stone of the corner. **118:23** This is Yahweh’s doing; it is marvellous in our eyes. **118:24** This is the day which Yahweh hath made; we will rejoice and be glad in it. **118:25** Save now, I beseech thee, O Yahweh: O Yahweh, I beseech thee, send now prosperity. **118:26** Blessed be he that cometh in the name of Yahweh: we have blessed you out of the house of Yahweh. **118:27** God is Yahweh, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar. **118:28** Thou art my God, and I will praise thee: thou art my God, I will exalt thee. **118:29** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
+>
+>
+> **118:1** O give thanks unto Yahweh; for he is good: because his mercy endureth for ever.
+>
+> **118:2** Let Israel now say, that his mercy endureth for ever.
+>
+> **118:3** Let the house of Aaron now say, that his mercy endureth for ever.
+>
+> **118:4** Let them now that fear Yahweh say, that his mercy endureth for ever.
+>
+> **118:5** I called upon Yahweh in distress: Yahweh answered me, and set me in a large place.
+>
+> **118:6** Yahweh is on my side; I will not fear: what can man do unto me?
+>
+> **118:7** Yahweh taketh my part with them that help me: therefore shall I see my desire upon them that hate me.
+>
+> **118:8** It is better to trust in Yahweh than to put confidence in man.
+>
+> **118:9** It is better to trust in Yahweh than to put confidence in princes.
+>
+> **118:10** All nations compassed me about: but in the name of Yahweh will I destroy them.
+>
+> **118:11** They compassed me about; yea, they compassed me about: but in the name of Yahweh I will destroy them.
+>
+> **118:12** They compassed me about like bees; they are quenched as the fire of thorns: for in the name of Yahweh I will destroy them.
+>
+> **118:13** Thou hast thrust sore at me that I might fall: but Yahweh helped me.
+>
+> **118:14** Yahweh is my strength and song, and is become my salvation.
+>
+> **118:15** The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of Yahweh doeth valiantly.
+>
+> **118:16** The right hand of Yahweh is exalted: the right hand of Yahweh doeth valiantly.
+>
+> **118:17** I shall not die, but live, and declare the works of Yahweh.
+>
+> **118:18** Yahweh hath chastened me sore: but he hath not given me over unto death.
+>
+> **118:19** Open to me the gates of righteousness: I will go into them, and I will praise Yahweh:
+>
+> **118:20** This gate of Yahweh, into which the righteous shall enter.
+>
+> **118:21** I will praise thee: for thou hast heard me, and art become my salvation.
+>
+> **118:22** The stone which the builders refused is become the head stone of the corner.
+>
+> **118:23** This is Yahweh’s doing; it is marvellous in our eyes.
+>
+> **118:24** This is the day which Yahweh hath made; we will rejoice and be glad in it.
+>
+> **118:25** Save now, I beseech thee, O Yahweh: O Yahweh, I beseech thee, send now prosperity.
+>
+> **118:26** Blessed be he that cometh in the name of Yahweh: we have blessed you out of the house of Yahweh.
+>
+> **118:27** God is Yahweh, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar.
+>
+> **118:28** Thou art my God, and I will praise thee: thou art my God, I will exalt thee.
+>
+> **118:29** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
 
 
 ## Memory and prayer

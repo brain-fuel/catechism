@@ -68,7 +68,9 @@ The fifth petition
 
 > **Ps. 32:1,2**
 >
-> Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom Yahweh imputeth not iniquity.
+> **32:1** Blessed is he whose transgression is forgiven, whose sin is covered.
+>
+> **32:2** Blessed is the man unto whom Yahweh imputeth not iniquity.
 
 
 **Is anyone free from this fault?**
@@ -138,11 +140,17 @@ Give us this day our daily bread.
 
 > **Psalm 104:21**
 >
+>
+>
 > **104:21** The young lions roar after their prey, and seek their meat from God.
 
 > **Psalm 145:15-16**
 >
-> **145:15** The eyes of all wait upon thee; and thou givest them their meat in due season. **145:16** Thou openest thine hand, and satisfiest the desire of every living thing.
+>
+>
+> **145:15** The eyes of all wait upon thee; and thou givest them their meat in due season.
+>
+> **145:16** Thou openest thine hand, and satisfiest the desire of every living thing.
 
 
 <a id="rg-04-2-4-the-lord-s-prayer-the-fourth-petition-003"></a>
@@ -170,7 +178,13 @@ Give us this day our daily bread.
 
 > **Psalm 104:27-29**
 >
-> **104:27** These wait all upon thee; that thou mayest give them their meat in due season. **104:28** That thou givest them they gather: thou openest thine hand, they are filled with good. **104:29** Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.
+>
+>
+> **104:27** These wait all upon thee; that thou mayest give them their meat in due season.
+>
+> **104:28** That thou givest them they gather: thou openest thine hand, they are filled with good.
+>
+> **104:29** Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.
 
 
 <a id="rg-04-2-4-the-lord-s-prayer-the-fourth-petition-005"></a>
@@ -218,6 +232,8 @@ Give us this day our daily bread.
 
 > **Psalm 106:1**
 >
+>
+>
 > **106:1** Hallelujah. O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
 
 
@@ -250,11 +266,17 @@ Give us this day our daily bread.
 
 > **Psalm 104:14**
 >
+>
+>
 > **104:14** He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;
 
 > **Psalm 145:15-16**
 >
-> **145:15** The eyes of all wait upon thee; and thou givest them their meat in due season. **145:16** Thou openest thine hand, and satisfiest the desire of every living thing.
+>
+>
+> **145:15** The eyes of all wait upon thee; and thou givest them their meat in due season.
+>
+> **145:16** Thou openest thine hand, and satisfiest the desire of every living thing.
 
 
 <a id="rg-04-2-4-the-lord-s-prayer-the-fourth-petition-009"></a>
@@ -302,7 +324,51 @@ Give us this day our daily bread.
 
 > **Psalm 103**
 >
-> **103:1** Bless Yahweh, O my soul: and all that is within me, bless his holy name. **103:2** Bless Yahweh, O my soul, and forget not all his benefits: **103:3** Who forgiveth all thine iniquities; who healeth all thy diseases; **103:4** Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies; **103:5** Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle’s. **103:6** Yahweh executeth righteousness and judgment for all that are oppressed. **103:7** He made known his ways unto Moses, his acts unto the children of Israel. **103:8** Yahweh is merciful and gracious, slow to anger, and plenteous in mercy. **103:9** He will not always chide: neither will he keep his anger for ever. **103:10** He hath not dealt with us after our sins; nor rewarded us according to our iniquities. **103:11** For as the heaven is high above the earth, so great is his mercy toward them that fear him. **103:12** As far as the east is from the west, so far hath he removed our transgressions from us. **103:13** Like as a father pitieth his children, so Yahweh pitieth them that fear him. **103:14** For he knoweth our frame; he remembereth that we are dust. **103:15** As for man, his days are as grass: as a flower of the field, so he flourisheth. **103:16** For the wind passeth over it, and it is gone; and the place thereof shall know it no more. **103:17** But the mercy of Yahweh is from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children; **103:18** To such as keep his covenant, and to those that remember his commandments to do them. **103:19** Yahweh hath prepared his throne in the heavens; and his kingdom ruleth over all. **103:20** Bless Yahweh, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word. **103:21** Bless ye Yahweh, all ye his hosts; ye ministers of his, that do his pleasure. **103:22** Bless Yahweh, all his works in all places of his dominion: bless Yahweh, O my soul.
+>
+>
+> **103:1** Bless Yahweh, O my soul: and all that is within me, bless his holy name.
+>
+> **103:2** Bless Yahweh, O my soul, and forget not all his benefits:
+>
+> **103:3** Who forgiveth all thine iniquities; who healeth all thy diseases;
+>
+> **103:4** Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;
+>
+> **103:5** Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle’s.
+>
+> **103:6** Yahweh executeth righteousness and judgment for all that are oppressed.
+>
+> **103:7** He made known his ways unto Moses, his acts unto the children of Israel.
+>
+> **103:8** Yahweh is merciful and gracious, slow to anger, and plenteous in mercy.
+>
+> **103:9** He will not always chide: neither will he keep his anger for ever.
+>
+> **103:10** He hath not dealt with us after our sins; nor rewarded us according to our iniquities.
+>
+> **103:11** For as the heaven is high above the earth, so great is his mercy toward them that fear him.
+>
+> **103:12** As far as the east is from the west, so far hath he removed our transgressions from us.
+>
+> **103:13** Like as a father pitieth his children, so Yahweh pitieth them that fear him.
+>
+> **103:14** For he knoweth our frame; he remembereth that we are dust.
+>
+> **103:15** As for man, his days are as grass: as a flower of the field, so he flourisheth.
+>
+> **103:16** For the wind passeth over it, and it is gone; and the place thereof shall know it no more.
+>
+> **103:17** But the mercy of Yahweh is from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;
+>
+> **103:18** To such as keep his covenant, and to those that remember his commandments to do them.
+>
+> **103:19** Yahweh hath prepared his throne in the heavens; and his kingdom ruleth over all.
+>
+> **103:20** Bless Yahweh, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.
+>
+> **103:21** Bless ye Yahweh, all ye his hosts; ye ministers of his, that do his pleasure.
+>
+> **103:22** Bless Yahweh, all his works in all places of his dominion: bless Yahweh, O my soul.
 
 
 ## Memory and prayer

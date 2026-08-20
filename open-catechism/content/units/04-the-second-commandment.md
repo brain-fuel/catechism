@@ -87,7 +87,9 @@ At the bush, God sent Moses to Israel and disclosed the Name by which He would b
 
 > **Ps. 146:1,2**
 >
-> Praise Yahweh, O my soul. I will praise Yahweh as long as I live: and I will sing praise unto my God while I have my being.
+> **146:1** Praise Yahweh, O my soul.
+>
+> **146:2** I will praise Yahweh as long as I live: and I will sing praise unto my God while I have my being.
 
 > **Eph. 5:20**
 >
@@ -196,6 +198,8 @@ Thou shalt not take the name of Yahweh thy God in vain; for Yahweh will not hold
 > **44:24** Thus saith Yahweh, thy redeemer, and he that formed thee from the womb, I am Yahweh that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself;
 
 > **Psalm 9:16**
+>
+>
 >
 > **9:16** Yahweh is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.
 
@@ -323,6 +327,8 @@ Thou shalt not take the name of Yahweh thy God in vain; for Yahweh will not hold
 
 > **Psalm 50:15**
 >
+>
+>
 > **50:15** And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.
 
 
@@ -341,17 +347,89 @@ Thou shalt not take the name of Yahweh thy God in vain; for Yahweh will not hold
 
 > **Psalm 118:1**
 >
+>
+>
 > **118:1** O give thanks unto Yahweh; for he is good: because his mercy endureth for ever.
 
 > **Psalm 136**
 >
-> **136:1** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever. **136:2** O give thanks unto the God of gods: for his mercy endureth for ever. **136:3** O give thanks to the Lord of lords: for his mercy endureth for ever. **136:4** To him who alone doeth great wonders: for his mercy endureth for ever. **136:5** To him that by wisdom made the heavens: for his mercy endureth for ever. **136:6** To him that stretched out the earth above the waters: for his mercy endureth for ever. **136:7** To him that made great lights: for his mercy endureth for ever: **136:8** The sun to rule by day: for his mercy endureth for ever: **136:9** The moon and stars to rule by night: for his mercy endureth for ever. **136:10** To him that smote Egypt in their firstborn: for his mercy endureth for ever: **136:11** And brought out Israel from among them: for his mercy endureth for ever: **136:12** With a strong hand, and with a stretched out arm: for his mercy endureth for ever. **136:13** To him which divided the Red sea into parts: for his mercy endureth for ever: **136:14** And made Israel to pass through the midst of it: for his mercy endureth for ever: **136:15** But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever. **136:16** To him which led his people through the wilderness: for his mercy endureth for ever. **136:17** To him which smote great kings: for his mercy endureth for ever: **136:18** And slew famous kings: for his mercy endureth for ever: **136:19** Sihon king of the Amorites: for his mercy endureth for ever: **136:20** And Og the king of Bashan: for his mercy endureth for ever: **136:21** And gave their land for an heritage: for his mercy endureth for ever: **136:22** Even an heritage unto Israel his servant: for his mercy endureth for ever. **136:23** Who remembered us in our low estate: for his mercy endureth for ever: **136:24** And hath redeemed us from our enemies: for his mercy endureth for ever. **136:25** Who giveth food to all flesh: for his mercy endureth for ever. **136:26** O give thanks unto the God of heaven: for his mercy endureth for ever.
+>
+>
+> **136:1** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
+>
+> **136:2** O give thanks unto the God of gods: for his mercy endureth for ever.
+>
+> **136:3** O give thanks to the Lord of lords: for his mercy endureth for ever.
+>
+> **136:4** To him who alone doeth great wonders: for his mercy endureth for ever.
+>
+> **136:5** To him that by wisdom made the heavens: for his mercy endureth for ever.
+>
+> **136:6** To him that stretched out the earth above the waters: for his mercy endureth for ever.
+>
+> **136:7** To him that made great lights: for his mercy endureth for ever:
+>
+> **136:8** The sun to rule by day: for his mercy endureth for ever:
+>
+> **136:9** The moon and stars to rule by night: for his mercy endureth for ever.
+>
+> **136:10** To him that smote Egypt in their firstborn: for his mercy endureth for ever:
+>
+> **136:11** And brought out Israel from among them: for his mercy endureth for ever:
+>
+> **136:12** With a strong hand, and with a stretched out arm: for his mercy endureth for ever.
+>
+> **136:13** To him which divided the Red sea into parts: for his mercy endureth for ever:
+>
+> **136:14** And made Israel to pass through the midst of it: for his mercy endureth for ever:
+>
+> **136:15** But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever.
+>
+> **136:16** To him which led his people through the wilderness: for his mercy endureth for ever.
+>
+> **136:17** To him which smote great kings: for his mercy endureth for ever:
+>
+> **136:18** And slew famous kings: for his mercy endureth for ever:
+>
+> **136:19** Sihon king of the Amorites: for his mercy endureth for ever:
+>
+> **136:20** And Og the king of Bashan: for his mercy endureth for ever:
+>
+> **136:21** And gave their land for an heritage: for his mercy endureth for ever:
+>
+> **136:22** Even an heritage unto Israel his servant: for his mercy endureth for ever.
+>
+> **136:23** Who remembered us in our low estate: for his mercy endureth for ever:
+>
+> **136:24** And hath redeemed us from our enemies: for his mercy endureth for ever.
+>
+> **136:25** Who giveth food to all flesh: for his mercy endureth for ever.
+>
+> **136:26** O give thanks unto the God of heaven: for his mercy endureth for ever.
 
 > **Psalm 138**
 >
-> **138:1** I will praise thee with my whole heart: before the gods will I sing praise unto thee. **138:2** I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. **138:3** In the day when I cried thou answeredst me, and strengthenedst me with strength in my soul. **138:4** All the kings of the earth shall praise thee, O Yahweh, when they hear the words of thy mouth. **138:5** Yea, they shall sing in the ways of Yahweh: for great is the glory of Yahweh. **138:6** Though Yahweh be high, yet hath he respect unto the lowly: but the proud he knoweth afar off. **138:7** Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me. **138:8** Yahweh will perfect that which concerneth me: thy mercy, O Yahweh, endureth for ever: forsake not the works of thine own hands.
+>
+>
+> **138:1** I will praise thee with my whole heart: before the gods will I sing praise unto thee.
+>
+> **138:2** I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.
+>
+> **138:3** In the day when I cried thou answeredst me, and strengthenedst me with strength in my soul.
+>
+> **138:4** All the kings of the earth shall praise thee, O Yahweh, when they hear the words of thy mouth.
+>
+> **138:5** Yea, they shall sing in the ways of Yahweh: for great is the glory of Yahweh.
+>
+> **138:6** Though Yahweh be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.
+>
+> **138:7** Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.
+>
+> **138:8** Yahweh will perfect that which concerneth me: thy mercy, O Yahweh, endureth for ever: forsake not the works of thine own hands.
 
 > **Psalm 150:2**
+>
+>
 >
 > **150:2** Praise him for his mighty acts: praise him according to his excellent greatness.
 
@@ -457,7 +535,49 @@ Thou shalt not take the name of Yahweh thy God in vain; for Yahweh will not hold
 
 > **Psalm 135**
 >
-> **135:1** Hallelujah. Praise ye the name of Yahweh; praise him, O ye servants of Yahweh. **135:2** Ye that stand in the house of Yahweh, in the courts of the house of our God, **135:3** Praise Yahweh; for Yahweh is good: sing praises unto his name; for it is pleasant. **135:4** For Yahweh hath chosen Jacob unto himself, and Israel for his peculiar treasure. **135:5** For I know that Yahweh is great, and that our Lord is above all gods. **135:6** Whatsoever Yahweh pleased, that did he in heaven, and in earth, in the seas, and all deep places. **135:7** He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries. **135:8** Who smote the firstborn of Egypt, both of man and beast. **135:9** Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants. **135:10** Who smote great nations, and slew mighty kings; **135:11** Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan: **135:12** And gave their land for an heritage, an heritage unto Israel his people. **135:13** Thy name, O Yahweh, endureth for ever; and thy memorial, O Yahweh, throughout all generations. **135:14** For Yahweh will judge his people, and he will repent himself concerning his servants. **135:15** The idols of the heathen are silver and gold, the work of men’s hands. **135:16** They have mouths, but they speak not; eyes have they, but they see not; **135:17** They have ears, but they hear not; neither is there any breath in their mouths. **135:18** They that make them are like unto them: so is every one that trusteth in them. **135:19** Bless Yahweh, O house of Israel: bless Yahweh, O house of Aaron: **135:20** Bless Yahweh, O house of Levi: ye that fear Yahweh, bless Yahweh. **135:21** Blessed be Yahweh out of Zion, which dwelleth at Jerusalem. Hallelujah.
+>
+>
+> **135:1** Hallelujah. Praise ye the name of Yahweh; praise him, O ye servants of Yahweh.
+>
+> **135:2** Ye that stand in the house of Yahweh, in the courts of the house of our God,
+>
+> **135:3** Praise Yahweh; for Yahweh is good: sing praises unto his name; for it is pleasant.
+>
+> **135:4** For Yahweh hath chosen Jacob unto himself, and Israel for his peculiar treasure.
+>
+> **135:5** For I know that Yahweh is great, and that our Lord is above all gods.
+>
+> **135:6** Whatsoever Yahweh pleased, that did he in heaven, and in earth, in the seas, and all deep places.
+>
+> **135:7** He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries.
+>
+> **135:8** Who smote the firstborn of Egypt, both of man and beast.
+>
+> **135:9** Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.
+>
+> **135:10** Who smote great nations, and slew mighty kings;
+>
+> **135:11** Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:
+>
+> **135:12** And gave their land for an heritage, an heritage unto Israel his people.
+>
+> **135:13** Thy name, O Yahweh, endureth for ever; and thy memorial, O Yahweh, throughout all generations.
+>
+> **135:14** For Yahweh will judge his people, and he will repent himself concerning his servants.
+>
+> **135:15** The idols of the heathen are silver and gold, the work of men’s hands.
+>
+> **135:16** They have mouths, but they speak not; eyes have they, but they see not;
+>
+> **135:17** They have ears, but they hear not; neither is there any breath in their mouths.
+>
+> **135:18** They that make them are like unto them: so is every one that trusteth in them.
+>
+> **135:19** Bless Yahweh, O house of Israel: bless Yahweh, O house of Aaron:
+>
+> **135:20** Bless Yahweh, O house of Levi: ye that fear Yahweh, bless Yahweh.
+>
+> **135:21** Blessed be Yahweh out of Zion, which dwelleth at Jerusalem. Hallelujah.
 
 
 ## Memory and prayer

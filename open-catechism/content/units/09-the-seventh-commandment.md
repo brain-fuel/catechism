@@ -31,7 +31,9 @@ In Matthew 20:1–16, a householder hired workers for his vineyard and at evenin
 
 > **Ps. 15:1,3**
 >
-> Yahweh, who shall abide in thy tabernacle? He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor dishonoureth his neighbour.
+> **15:1** Yahweh, who shall abide in thy tabernacle?
+>
+> **15:3** He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor dishonoureth his neighbour.
 
 
 **What is forbidden in the ninth commandment?**
@@ -120,7 +122,11 @@ Thou shalt not steal.
 
 > **Psalm 104:14-15**
 >
-> **104:14** He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth; **104:15** And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart.
+>
+>
+> **104:14** He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;
+>
+> **104:15** And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart.
 
 
 <a id="rg-02-7-the-seventh-commandment-003"></a>
@@ -161,6 +167,8 @@ Thou shalt not steal.
 > **19:36** Just balances, just weights, a just ephah, and a just hin, shall ye have: I am Yahweh your God, which brought you out of the land of Egypt.
 
 > **Psalm 37:21**
+>
+>
 >
 > **37:21** The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.
 
@@ -216,9 +224,37 @@ Thou shalt not steal.
 
 > **Psalm 65**
 >
-> **65:1** Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed. **65:2** O thou that hearest prayer, unto thee shall all flesh come. **65:3** Iniquities prevail against me: as for our transgressions, thou shalt purge them away. **65:4** Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple. **65:5** By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea: **65:6** Which by his strength setteth fast the mountains; being girded with power: **65:7** Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people. **65:8** They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice. **65:9** Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it. **65:10** Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof. **65:11** Thou crownest the year with thy goodness; and thy paths drop fatness. **65:12** They drop upon the pastures of the wilderness: and the little hills rejoice on every side. **65:13** The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.
+>
+>
+> **65:1** Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.
+>
+> **65:2** O thou that hearest prayer, unto thee shall all flesh come.
+>
+> **65:3** Iniquities prevail against me: as for our transgressions, thou shalt purge them away.
+>
+> **65:4** Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple.
+>
+> **65:5** By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:
+>
+> **65:6** Which by his strength setteth fast the mountains; being girded with power:
+>
+> **65:7** Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.
+>
+> **65:8** They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.
+>
+> **65:9** Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.
+>
+> **65:10** Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.
+>
+> **65:11** Thou crownest the year with thy goodness; and thy paths drop fatness.
+>
+> **65:12** They drop upon the pastures of the wilderness: and the little hills rejoice on every side.
+>
+> **65:13** The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.
 
 > **Psalm 65:9**
+>
+>
 >
 > **65:9** Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.
 
@@ -326,7 +362,27 @@ Thou shalt not steal.
 
 > **Psalm 112**
 >
-> **112:1** Hallelujah. Blessed is the man that feareth Yahweh, that delighteth greatly in his commandments. **112:2** His seed shall be mighty upon earth: the generation of the upright shall be blessed. **112:3** Wealth and riches shall be in his house: and his righteousness endureth for ever. **112:4** Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous. **112:5** A good man sheweth favour, and lendeth: he will guide his affairs with discretion. **112:6** Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance. **112:7** He shall not be afraid of evil tidings: his heart is fixed, trusting in Yahweh. **112:8** His heart is established, he shall not be afraid, until he see his desire upon his enemies. **112:9** He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour. **112:10** The wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish.
+>
+>
+> **112:1** Hallelujah. Blessed is the man that feareth Yahweh, that delighteth greatly in his commandments.
+>
+> **112:2** His seed shall be mighty upon earth: the generation of the upright shall be blessed.
+>
+> **112:3** Wealth and riches shall be in his house: and his righteousness endureth for ever.
+>
+> **112:4** Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous.
+>
+> **112:5** A good man sheweth favour, and lendeth: he will guide his affairs with discretion.
+>
+> **112:6** Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance.
+>
+> **112:7** He shall not be afraid of evil tidings: his heart is fixed, trusting in Yahweh.
+>
+> **112:8** His heart is established, he shall not be afraid, until he see his desire upon his enemies.
+>
+> **112:9** He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour.
+>
+> **112:10** The wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish.
 
 
 ## Memory and prayer

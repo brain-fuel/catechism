@@ -81,7 +81,11 @@ For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 > **Psalm 103:2-3**
 >
-> **103:2** Bless Yahweh, O my soul, and forget not all his benefits: **103:3** Who forgiveth all thine iniquities; who healeth all thy diseases;
+>
+>
+> **103:2** Bless Yahweh, O my soul, and forget not all his benefits:
+>
+> **103:3** Who forgiveth all thine iniquities; who healeth all thy diseases;
 
 
 <a id="rg-04-3-the-lord-s-prayer-the-conclusion-003"></a>
@@ -99,9 +103,15 @@ For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 > **Psalm 113:4-5**
 >
-> **113:4** Yahweh is high above all nations, and his glory above the heavens. **113:5** Who is like unto Yahweh our God, who dwelleth on high,
+>
+>
+> **113:4** Yahweh is high above all nations, and his glory above the heavens.
+>
+> **113:5** Who is like unto Yahweh our God, who dwelleth on high,
 
 > **Psalm 33:6**
+>
+>
 >
 > **33:6** By the Word of Yahweh were the heavens made; and all the host of them by the breath of his mouth.
 
@@ -127,7 +137,25 @@ For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 > **Psalm 99**
 >
-> **99:1** Yahweh reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved. **99:2** Yahweh is great in Zion; and he is high above all the people. **99:3** Let them praise thy great and terrible name; for it is holy. **99:4** The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob. **99:5** Exalt ye Yahweh our God, and worship at his footstool; for he is holy. **99:6** Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon Yahweh, and he answered them. **99:7** He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them. **99:8** Thou answeredst them, O Yahweh our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions. **99:9** Exalt Yahweh our God, and worship at his holy hill; for Yahweh our God is holy.
+>
+>
+> **99:1** Yahweh reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.
+>
+> **99:2** Yahweh is great in Zion; and he is high above all the people.
+>
+> **99:3** Let them praise thy great and terrible name; for it is holy.
+>
+> **99:4** The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.
+>
+> **99:5** Exalt ye Yahweh our God, and worship at his footstool; for he is holy.
+>
+> **99:6** Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon Yahweh, and he answered them.
+>
+> **99:7** He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them.
+>
+> **99:8** Thou answeredst them, O Yahweh our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.
+>
+> **99:9** Exalt Yahweh our God, and worship at his holy hill; for Yahweh our God is holy.
 
 
 ## Memory and prayer

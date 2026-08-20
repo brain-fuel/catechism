@@ -457,9 +457,13 @@ Thou shalt not commit adultery.
 
 > **Psalm 27:4**
 >
+>
+>
 > **27:4** One thing have I desired of Yahweh, that will I seek after; that I may dwell in the house of Yahweh all the days of my life, to behold the beauty of Yahweh, and to enquire in his temple.
 
 > **Psalm 27:8**
+>
+>
 >
 > **27:8** When thou saidst, Seek ye my face; my heart said unto thee, Thy face, Yahweh, will I seek.
 
@@ -547,7 +551,23 @@ Thou shalt not commit adultery.
 
 > **Psalm 119:9-16**
 >
-> **119:9**  Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word. **119:10** With my whole heart have I sought thee: O let me not wander from thy commandments. **119:11** Thy word have I hid in mine heart, that I might not sin against thee. **119:12** Blessed art thou, O Yahweh: teach me thy statutes. **119:13** With my lips have I declared all the judgments of thy mouth. **119:14** I have rejoiced in the way of thy testimonies, as much as in all riches. **119:15** I will meditate in thy precepts, and have respect unto thy ways. **119:16** I will delight myself in thy statutes: I will not forget thy word.
+>
+>
+> **119:9**  Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.
+>
+> **119:10** With my whole heart have I sought thee: O let me not wander from thy commandments.
+>
+> **119:11** Thy word have I hid in mine heart, that I might not sin against thee.
+>
+> **119:12** Blessed art thou, O Yahweh: teach me thy statutes.
+>
+> **119:13** With my lips have I declared all the judgments of thy mouth.
+>
+> **119:14** I have rejoiced in the way of thy testimonies, as much as in all riches.
+>
+> **119:15** I will meditate in thy precepts, and have respect unto thy ways.
+>
+> **119:16** I will delight myself in thy statutes: I will not forget thy word.
 
 
 ## Memory and prayer

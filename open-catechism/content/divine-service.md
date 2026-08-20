@@ -159,9 +159,10 @@ Hallelujah.
 
 > **Psalm 117:1–2**
 >
-> O praise Yahweh, all ye nations: praise him, all ye people. For his merciful
-> kindness is great toward us: and the truth of Yahweh endureth for ever.
-> Hallelujah.
+> **117:1** O praise Yahweh, all ye nations: praise him, all ye people.
+>
+> **117:2** For his merciful kindness is great toward us: and the truth of
+> Yahweh endureth for ever. Hallelujah.
 
 **Meaning:** The congregation answers one reading with Scripture and prepares
 to hear the Gospel. Joyful acclamation and penitential restraint both serve the

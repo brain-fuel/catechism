@@ -31,7 +31,9 @@ Genesis 2:1–3 closes creation with God resting from His completed work. He ble
 
 > **Ps. 92:1,2**
 >
-> It is a good thing to give thanks unto Yahweh, and to sing praises unto thy name, O thou most High: to shew forth thy lovingkindness in the morning, and thy faithfulness in the evening.
+> **92:1** It is a good thing to give thanks unto Yahweh, and to sing praises unto thy name, O thou most High:
+>
+> **92:2** To shew forth thy lovingkindness in the morning, and thy faithfulness in the evening.
 
 > **Luke 10:16**
 >
@@ -241,9 +243,23 @@ Remember the sabbath day, to keep it holy.
 
 > **Psalm 1**
 >
-> **1:1** Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. **1:2** But his delight is in the law of Yahweh; and in his law doth he meditate day and night. **1:3** And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper. **1:4** The ungodly are not so: but are like the chaff which the wind driveth away. **1:5** Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous. **1:6** For Yahweh knoweth the way of the righteous: but the way of the ungodly shall perish.
+>
+>
+> **1:1** Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
+>
+> **1:2** But his delight is in the law of Yahweh; and in his law doth he meditate day and night.
+>
+> **1:3** And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
+>
+> **1:4** The ungodly are not so: but are like the chaff which the wind driveth away.
+>
+> **1:5** Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.
+>
+> **1:6** For Yahweh knoweth the way of the righteous: but the way of the ungodly shall perish.
 
 > **Psalm 119:105**
+>
+>
 >
 > **119:105**  Thy word is a lamp unto my feet, and a light unto my path.
 
@@ -270,6 +286,8 @@ Remember the sabbath day, to keep it holy.
 > **11:28** But he said, Yea rather, blessed are they that hear the Word of God, and keep it.
 
 > **Psalm 26:8**
+>
+>
 >
 > **26:8** Yahweh, I have loved the habitation of thy house, and the place where thine honour dwelleth.
 
@@ -317,6 +335,8 @@ Remember the sabbath day, to keep it holy.
 
 > **Psalm 127:2**
 >
+>
+>
 > **127:2** It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.
 
 
@@ -339,7 +359,19 @@ Remember the sabbath day, to keep it holy.
 
 > **Psalm 23**
 >
-> **23:1** Yahweh is my shepherd; I shall not want. **23:2** He maketh me to lie down in green pastures: he leadeth me beside the still waters. **23:3** He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake. **23:4** Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me. **23:5** Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. **23:6** Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of Yahweh for ever.
+>
+>
+> **23:1** Yahweh is my shepherd; I shall not want.
+>
+> **23:2** He maketh me to lie down in green pastures: he leadeth me beside the still waters.
+>
+> **23:3** He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
+>
+> **23:4** Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
+>
+> **23:5** Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
+>
+> **23:6** Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of Yahweh for ever.
 
 > **Revelation 14:13**
 >
@@ -361,7 +393,13 @@ Remember the sabbath day, to keep it holy.
 
 > **Psalm 119:11-13**
 >
-> **119:11** Thy word have I hid in mine heart, that I might not sin against thee. **119:12** Blessed art thou, O Yahweh: teach me thy statutes. **119:13** With my lips have I declared all the judgments of thy mouth.
+>
+>
+> **119:11** Thy word have I hid in mine heart, that I might not sin against thee.
+>
+> **119:12** Blessed art thou, O Yahweh: teach me thy statutes.
+>
+> **119:13** With my lips have I declared all the judgments of thy mouth.
 
 
 <a id="rg-02-3-the-third-commandment-014"></a>
@@ -497,7 +535,23 @@ Remember the sabbath day, to keep it holy.
 
 > **Psalm 119:89-96**
 >
-> **119:89**  For ever, O Yahweh, thy word is settled in heaven. **119:90** Thy faithfulness is unto all generations: thou hast established the earth, and it abideth. **119:91** They continue this day according to thine ordinances: for all are thy servants. **119:92** Unless thy law had been my delights, I should then have perished in mine affliction. **119:93** I will never forget thy precepts: for with them thou hast quickened me. **119:94** I am thine, save me; for I have sought thy precepts. **119:95** The wicked have waited for me to destroy me: but I will consider thy testimonies. **119:96** I have seen an end of all perfection: but thy commandment is exceeding broad.
+>
+>
+> **119:89**  For ever, O Yahweh, thy word is settled in heaven.
+>
+> **119:90** Thy faithfulness is unto all generations: thou hast established the earth, and it abideth.
+>
+> **119:91** They continue this day according to thine ordinances: for all are thy servants.
+>
+> **119:92** Unless thy law had been my delights, I should then have perished in mine affliction.
+>
+> **119:93** I will never forget thy precepts: for with them thou hast quickened me.
+>
+> **119:94** I am thine, save me; for I have sought thy precepts.
+>
+> **119:95** The wicked have waited for me to destroy me: but I will consider thy testimonies.
+>
+> **119:96** I have seen an end of all perfection: but thy commandment is exceeding broad.
 
 
 ## Memory and prayer

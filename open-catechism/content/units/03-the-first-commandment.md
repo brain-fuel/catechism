@@ -99,7 +99,9 @@ In Exodus 3:1–6, Moses turned aside to see the bush that burned without being 
 
 > **Ps. 18:1,2**
 >
-> I will love thee, O Yahweh, my strength, Yahweh my rock, my fortress, and my Saviour; my God is my strength, in whom I will trust, my shield, and the horn of my salvation, and my high tower.
+> **18:1** I will love thee, O Yahweh, my strength.
+>
+> **18:2** Yahweh my rock, my fortress, and my Saviour; my God is my strength, in whom I will trust, my shield, and the horn of my salvation, and my high tower.
 
 > **Josh. 24:14**
 >
@@ -248,6 +250,8 @@ I am Yahweh thy God, which have brought thee out of the land of Egypt, out of th
 
 > **Psalm 111:10**
 >
+>
+>
 > **111:10** The fear of Yahweh is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
 
 
@@ -265,6 +269,8 @@ I am Yahweh thy God, which have brought thee out of the land of Egypt, out of th
 > **17:28** For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring. **17:29** Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man's device.
 
 > **Psalm 22:27**
+>
+>
 >
 > **22:27** All the ends of the world shall remember and turn unto Yahweh: and all the kindreds of the nations shall worship before thee.
 
@@ -284,7 +290,27 @@ I am Yahweh thy God, which have brought thee out of the land of Egypt, out of th
 
 > **Psalm 96:4-13**
 >
-> **96:4** For Yahweh is great, and greatly to be praised: he is to be feared above all gods. **96:5** For all the gods of the nations are idols: but Yahweh made the heavens. **96:6** Honour and majesty are before him: strength and beauty are in his sanctuary. **96:7** Give unto Yahweh, O ye kindreds of the people, give unto Yahweh glory and strength. **96:8** Give unto Yahweh the glory due unto his name: bring an offering, and come into his courts. **96:9** O worship Yahweh in the beauty of holiness: fear before him, all the earth. **96:10** Say among the heathen that Yahweh reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously. **96:11** Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof. **96:12** Let the field be joyful, and all that is therein: then shall all the trees of the wood rejoice **96:13** Before Yahweh: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.
+>
+>
+> **96:4** For Yahweh is great, and greatly to be praised: he is to be feared above all gods.
+>
+> **96:5** For all the gods of the nations are idols: but Yahweh made the heavens.
+>
+> **96:6** Honour and majesty are before him: strength and beauty are in his sanctuary.
+>
+> **96:7** Give unto Yahweh, O ye kindreds of the people, give unto Yahweh glory and strength.
+>
+> **96:8** Give unto Yahweh the glory due unto his name: bring an offering, and come into his courts.
+>
+> **96:9** O worship Yahweh in the beauty of holiness: fear before him, all the earth.
+>
+> **96:10** Say among the heathen that Yahweh reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.
+>
+> **96:11** Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.
+>
+> **96:12** Let the field be joyful, and all that is therein: then shall all the trees of the wood rejoice
+>
+> **96:13** Before Yahweh: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.
 
 
 <a id="rg-02-1-the-first-commandment-007"></a>
@@ -302,7 +328,11 @@ I am Yahweh thy God, which have brought thee out of the land of Egypt, out of th
 
 > **Psalm 73:25-26**
 >
-> **73:25** Whom have I in heaven but thee? and there is none upon earth that I desire beside thee. **73:26** My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.
+>
+>
+> **73:25** Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.
+>
+> **73:26** My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.
 
 
 <a id="rg-02-1-the-first-commandment-008"></a>
@@ -331,6 +361,8 @@ I am Yahweh thy God, which have brought thee out of the land of Egypt, out of th
 > **3:5** Trust in Yahweh with all thine heart; and lean not unto thine own understanding. **3:6** In all thy ways acknowledge him, and he shall direct thy paths. **3:7** Be not wise in thine own eyes: fear Yahweh, and depart from evil. **3:8** It shall be health to thy navel, and marrow to thy bones. **3:9** Honour Yahweh with thy substance, and with the firstfruits of all thine increase: **3:10** So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.
 
 > **Psalm 115:4**
+>
+>
 >
 > **115:4** Their idols are silver and gold, the work of men’s hands.
 
@@ -492,13 +524,25 @@ I am Yahweh thy God, which have brought thee out of the land of Egypt, out of th
 
 > **Psalm 116:5**
 >
+>
+>
 > **116:5** Gracious is Yahweh, and righteous; yea, our God is merciful.
 
 > **Psalm 139:1-4**
 >
-> **139:1** O Yahweh, thou hast searched me, and known me. **139:2** Thou knowest my downsitting and mine uprising, thou understandest my thought afar off. **139:3** Thou compassest my path and my lying down, and art acquainted with all my ways. **139:4** For there is not a word in my tongue, but, lo, O Yahweh, thou knowest it altogether.
+>
+>
+> **139:1** O Yahweh, thou hast searched me, and known me.
+>
+> **139:2** Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.
+>
+> **139:3** Thou compassest my path and my lying down, and art acquainted with all my ways.
+>
+> **139:4** For there is not a word in my tongue, but, lo, O Yahweh, thou knowest it altogether.
 
 > **Psalm 145:9**
+>
+>
 >
 > **145:9** Yahweh is good to all: and his tender mercies are over all his works.
 
@@ -548,9 +592,13 @@ I am Yahweh thy God, which have brought thee out of the land of Egypt, out of th
 
 > **Psalm 14:1**
 >
+>
+>
 > **14:1** The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.
 
 > **Psalm 53:1**
+>
+>
 >
 > **53:1** The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.
 
@@ -566,7 +614,19 @@ I am Yahweh thy God, which have brought thee out of the land of Egypt, out of th
 
 > **Psalm 1**
 >
-> **1:1** Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. **1:2** But his delight is in the law of Yahweh; and in his law doth he meditate day and night. **1:3** And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper. **1:4** The ungodly are not so: but are like the chaff which the wind driveth away. **1:5** Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous. **1:6** For Yahweh knoweth the way of the righteous: but the way of the ungodly shall perish.
+>
+>
+> **1:1** Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
+>
+> **1:2** But his delight is in the law of Yahweh; and in his law doth he meditate day and night.
+>
+> **1:3** And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
+>
+> **1:4** The ungodly are not so: but are like the chaff which the wind driveth away.
+>
+> **1:5** Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.
+>
+> **1:6** For Yahweh knoweth the way of the righteous: but the way of the ungodly shall perish.
 
 
 ## Memory and prayer

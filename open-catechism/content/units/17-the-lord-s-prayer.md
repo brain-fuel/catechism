@@ -197,6 +197,8 @@ For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 > **Psalm 19:14**
 >
+>
+>
 > **19:14** Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O Yahweh, my strength, and my redeemer.
 
 
@@ -210,6 +212,8 @@ For thine is the kingdom, and the power, and the glory, for ever. Amen.
 > **5:17** Pray without ceasing. **5:18** In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
 
 > **Psalm 105:1**
+>
+>
 >
 > **105:1** O give thanks unto Yahweh; call upon his name: make known his deeds among the people.
 
@@ -269,27 +273,69 @@ For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 > **Psalm 110:1**
 >
+>
+>
 > **110:1** Yahweh said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
 
 > **Psalm 22:1**
+>
+>
 >
 > **22:1** My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?
 
 > **Psalm 23**
 >
-> **23:1** Yahweh is my shepherd; I shall not want. **23:2** He maketh me to lie down in green pastures: he leadeth me beside the still waters. **23:3** He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake. **23:4** Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me. **23:5** Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. **23:6** Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of Yahweh for ever.
+>
+>
+> **23:1** Yahweh is my shepherd; I shall not want.
+>
+> **23:2** He maketh me to lie down in green pastures: he leadeth me beside the still waters.
+>
+> **23:3** He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
+>
+> **23:4** Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
+>
+> **23:5** Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
+>
+> **23:6** Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of Yahweh for ever.
 
 > **Psalm 31:5**
+>
+>
 >
 > **31:5** Into thine hand I commit my spirit: thou hast redeemed me, O Yahweh God of truth.
 
 > **Psalm 8:2**
 >
+>
+>
 > **8:2** Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
 
 > **Psalm 95**
 >
-> **95:1** O come, let us sing unto Yahweh: let us make a joyful noise to the rock of our salvation. **95:2** Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms. **95:3** For Yahweh is a great God, and a great King above all gods. **95:4** In his hand are the deep places of the earth: the strength of the hills is his also. **95:5** The sea is his, and he made it: and his hands formed the dry land. **95:6** O come, let us worship and bow down: let us kneel before Yahweh our maker. **95:7** For he is our God; and we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice, **95:8** Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness: **95:9** When your fathers tempted me, proved me, and saw my work. **95:10** Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways: **95:11** Unto whom I sware in my wrath that they should not enter into my rest.
+>
+>
+> **95:1** O come, let us sing unto Yahweh: let us make a joyful noise to the rock of our salvation.
+>
+> **95:2** Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.
+>
+> **95:3** For Yahweh is a great God, and a great King above all gods.
+>
+> **95:4** In his hand are the deep places of the earth: the strength of the hills is his also.
+>
+> **95:5** The sea is his, and he made it: and his hands formed the dry land.
+>
+> **95:6** O come, let us worship and bow down: let us kneel before Yahweh our maker.
+>
+> **95:7** For he is our God; and we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,
+>
+> **95:8** Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness:
+>
+> **95:9** When your fathers tempted me, proved me, and saw my work.
+>
+> **95:10** Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:
+>
+> **95:11** Unto whom I sware in my wrath that they should not enter into my rest.
 
 
 <a id="rg-04-0-the-lord-s-prayer-006"></a>
@@ -299,27 +345,289 @@ For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 > **Psalm 10**
 >
-> **10:1** Why standest thou afar off, O Yahweh? why hidest thou thyself in times of trouble? **10:2** The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined. **10:3** For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom Yahweh abhorreth. **10:4** The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts. **10:5** His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them. **10:6** He hath said in his heart, I shall not be moved: for I shall never be in adversity. **10:7** His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity. **10:8** He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor. **10:9** He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net. **10:10** He croucheth, and humbleth himself, that the poor may fall by his strong ones. **10:11** He hath said in his heart, God hath forgotten: he hideth his face; he will never see it. **10:12** Arise, O Yahweh; O God, lift up thine hand: forget not the humble. **10:13** Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it. **10:14** Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless. **10:15** Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none. **10:16** Yahweh is King for ever and ever: the heathen are perished out of his land. **10:17** Yahweh, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear: **10:18** To judge the fatherless and the oppressed, that the man of the earth may no more oppress.
+>
+>
+> **10:1** Why standest thou afar off, O Yahweh? why hidest thou thyself in times of trouble?
+>
+> **10:2** The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.
+>
+> **10:3** For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom Yahweh abhorreth.
+>
+> **10:4** The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.
+>
+> **10:5** His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.
+>
+> **10:6** He hath said in his heart, I shall not be moved: for I shall never be in adversity.
+>
+> **10:7** His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity.
+>
+> **10:8** He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.
+>
+> **10:9** He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.
+>
+> **10:10** He croucheth, and humbleth himself, that the poor may fall by his strong ones.
+>
+> **10:11** He hath said in his heart, God hath forgotten: he hideth his face; he will never see it.
+>
+> **10:12** Arise, O Yahweh; O God, lift up thine hand: forget not the humble.
+>
+> **10:13** Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it.
+>
+> **10:14** Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.
+>
+> **10:15** Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none.
+>
+> **10:16** Yahweh is King for ever and ever: the heathen are perished out of his land.
+>
+> **10:17** Yahweh, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:
+>
+> **10:18** To judge the fatherless and the oppressed, that the man of the earth may no more oppress.
 
 > **Psalm 118**
 >
-> **118:1** O give thanks unto Yahweh; for he is good: because his mercy endureth for ever. **118:2** Let Israel now say, that his mercy endureth for ever. **118:3** Let the house of Aaron now say, that his mercy endureth for ever. **118:4** Let them now that fear Yahweh say, that his mercy endureth for ever. **118:5** I called upon Yahweh in distress: Yahweh answered me, and set me in a large place. **118:6** Yahweh is on my side; I will not fear: what can man do unto me? **118:7** Yahweh taketh my part with them that help me: therefore shall I see my desire upon them that hate me. **118:8** It is better to trust in Yahweh than to put confidence in man. **118:9** It is better to trust in Yahweh than to put confidence in princes. **118:10** All nations compassed me about: but in the name of Yahweh will I destroy them. **118:11** They compassed me about; yea, they compassed me about: but in the name of Yahweh I will destroy them. **118:12** They compassed me about like bees; they are quenched as the fire of thorns: for in the name of Yahweh I will destroy them. **118:13** Thou hast thrust sore at me that I might fall: but Yahweh helped me. **118:14** Yahweh is my strength and song, and is become my salvation. **118:15** The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of Yahweh doeth valiantly. **118:16** The right hand of Yahweh is exalted: the right hand of Yahweh doeth valiantly. **118:17** I shall not die, but live, and declare the works of Yahweh. **118:18** Yahweh hath chastened me sore: but he hath not given me over unto death. **118:19** Open to me the gates of righteousness: I will go into them, and I will praise Yahweh: **118:20** This gate of Yahweh, into which the righteous shall enter. **118:21** I will praise thee: for thou hast heard me, and art become my salvation. **118:22** The stone which the builders refused is become the head stone of the corner. **118:23** This is Yahweh’s doing; it is marvellous in our eyes. **118:24** This is the day which Yahweh hath made; we will rejoice and be glad in it. **118:25** Save now, I beseech thee, O Yahweh: O Yahweh, I beseech thee, send now prosperity. **118:26** Blessed be he that cometh in the name of Yahweh: we have blessed you out of the house of Yahweh. **118:27** God is Yahweh, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar. **118:28** Thou art my God, and I will praise thee: thou art my God, I will exalt thee. **118:29** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
+>
+>
+> **118:1** O give thanks unto Yahweh; for he is good: because his mercy endureth for ever.
+>
+> **118:2** Let Israel now say, that his mercy endureth for ever.
+>
+> **118:3** Let the house of Aaron now say, that his mercy endureth for ever.
+>
+> **118:4** Let them now that fear Yahweh say, that his mercy endureth for ever.
+>
+> **118:5** I called upon Yahweh in distress: Yahweh answered me, and set me in a large place.
+>
+> **118:6** Yahweh is on my side; I will not fear: what can man do unto me?
+>
+> **118:7** Yahweh taketh my part with them that help me: therefore shall I see my desire upon them that hate me.
+>
+> **118:8** It is better to trust in Yahweh than to put confidence in man.
+>
+> **118:9** It is better to trust in Yahweh than to put confidence in princes.
+>
+> **118:10** All nations compassed me about: but in the name of Yahweh will I destroy them.
+>
+> **118:11** They compassed me about; yea, they compassed me about: but in the name of Yahweh I will destroy them.
+>
+> **118:12** They compassed me about like bees; they are quenched as the fire of thorns: for in the name of Yahweh I will destroy them.
+>
+> **118:13** Thou hast thrust sore at me that I might fall: but Yahweh helped me.
+>
+> **118:14** Yahweh is my strength and song, and is become my salvation.
+>
+> **118:15** The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of Yahweh doeth valiantly.
+>
+> **118:16** The right hand of Yahweh is exalted: the right hand of Yahweh doeth valiantly.
+>
+> **118:17** I shall not die, but live, and declare the works of Yahweh.
+>
+> **118:18** Yahweh hath chastened me sore: but he hath not given me over unto death.
+>
+> **118:19** Open to me the gates of righteousness: I will go into them, and I will praise Yahweh:
+>
+> **118:20** This gate of Yahweh, into which the righteous shall enter.
+>
+> **118:21** I will praise thee: for thou hast heard me, and art become my salvation.
+>
+> **118:22** The stone which the builders refused is become the head stone of the corner.
+>
+> **118:23** This is Yahweh’s doing; it is marvellous in our eyes.
+>
+> **118:24** This is the day which Yahweh hath made; we will rejoice and be glad in it.
+>
+> **118:25** Save now, I beseech thee, O Yahweh: O Yahweh, I beseech thee, send now prosperity.
+>
+> **118:26** Blessed be he that cometh in the name of Yahweh: we have blessed you out of the house of Yahweh.
+>
+> **118:27** God is Yahweh, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar.
+>
+> **118:28** Thou art my God, and I will praise thee: thou art my God, I will exalt thee.
+>
+> **118:29** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
 
 > **Psalm 136**
 >
-> **136:1** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever. **136:2** O give thanks unto the God of gods: for his mercy endureth for ever. **136:3** O give thanks to the Lord of lords: for his mercy endureth for ever. **136:4** To him who alone doeth great wonders: for his mercy endureth for ever. **136:5** To him that by wisdom made the heavens: for his mercy endureth for ever. **136:6** To him that stretched out the earth above the waters: for his mercy endureth for ever. **136:7** To him that made great lights: for his mercy endureth for ever: **136:8** The sun to rule by day: for his mercy endureth for ever: **136:9** The moon and stars to rule by night: for his mercy endureth for ever. **136:10** To him that smote Egypt in their firstborn: for his mercy endureth for ever: **136:11** And brought out Israel from among them: for his mercy endureth for ever: **136:12** With a strong hand, and with a stretched out arm: for his mercy endureth for ever. **136:13** To him which divided the Red sea into parts: for his mercy endureth for ever: **136:14** And made Israel to pass through the midst of it: for his mercy endureth for ever: **136:15** But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever. **136:16** To him which led his people through the wilderness: for his mercy endureth for ever. **136:17** To him which smote great kings: for his mercy endureth for ever: **136:18** And slew famous kings: for his mercy endureth for ever: **136:19** Sihon king of the Amorites: for his mercy endureth for ever: **136:20** And Og the king of Bashan: for his mercy endureth for ever: **136:21** And gave their land for an heritage: for his mercy endureth for ever: **136:22** Even an heritage unto Israel his servant: for his mercy endureth for ever. **136:23** Who remembered us in our low estate: for his mercy endureth for ever: **136:24** And hath redeemed us from our enemies: for his mercy endureth for ever. **136:25** Who giveth food to all flesh: for his mercy endureth for ever. **136:26** O give thanks unto the God of heaven: for his mercy endureth for ever.
+>
+>
+> **136:1** O give thanks unto Yahweh; for he is good: for his mercy endureth for ever.
+>
+> **136:2** O give thanks unto the God of gods: for his mercy endureth for ever.
+>
+> **136:3** O give thanks to the Lord of lords: for his mercy endureth for ever.
+>
+> **136:4** To him who alone doeth great wonders: for his mercy endureth for ever.
+>
+> **136:5** To him that by wisdom made the heavens: for his mercy endureth for ever.
+>
+> **136:6** To him that stretched out the earth above the waters: for his mercy endureth for ever.
+>
+> **136:7** To him that made great lights: for his mercy endureth for ever:
+>
+> **136:8** The sun to rule by day: for his mercy endureth for ever:
+>
+> **136:9** The moon and stars to rule by night: for his mercy endureth for ever.
+>
+> **136:10** To him that smote Egypt in their firstborn: for his mercy endureth for ever:
+>
+> **136:11** And brought out Israel from among them: for his mercy endureth for ever:
+>
+> **136:12** With a strong hand, and with a stretched out arm: for his mercy endureth for ever.
+>
+> **136:13** To him which divided the Red sea into parts: for his mercy endureth for ever:
+>
+> **136:14** And made Israel to pass through the midst of it: for his mercy endureth for ever:
+>
+> **136:15** But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever.
+>
+> **136:16** To him which led his people through the wilderness: for his mercy endureth for ever.
+>
+> **136:17** To him which smote great kings: for his mercy endureth for ever:
+>
+> **136:18** And slew famous kings: for his mercy endureth for ever:
+>
+> **136:19** Sihon king of the Amorites: for his mercy endureth for ever:
+>
+> **136:20** And Og the king of Bashan: for his mercy endureth for ever:
+>
+> **136:21** And gave their land for an heritage: for his mercy endureth for ever:
+>
+> **136:22** Even an heritage unto Israel his servant: for his mercy endureth for ever.
+>
+> **136:23** Who remembered us in our low estate: for his mercy endureth for ever:
+>
+> **136:24** And hath redeemed us from our enemies: for his mercy endureth for ever.
+>
+> **136:25** Who giveth food to all flesh: for his mercy endureth for ever.
+>
+> **136:26** O give thanks unto the God of heaven: for his mercy endureth for ever.
 
 > **Psalm 22**
 >
-> **22:1** My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring? **22:2** O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent. **22:3** But thou art holy, O thou that inhabitest the praises of Israel. **22:4** Our fathers trusted in thee: they trusted, and thou didst deliver them. **22:5** They cried unto thee, and were delivered: they trusted in thee, and were not confounded. **22:6** But I am a worm, and no man; a reproach of men, and despised of the people. **22:7** All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying, **22:8** He trusted on Yahweh that he would deliver him: let him deliver him, seeing he delighted in him. **22:9** But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother’s breasts. **22:10** I was cast upon thee from the womb: thou art my God from my mother’s belly. **22:11** Be not far from me; for trouble is near; for there is none to help. **22:12** Many bulls have compassed me: strong bulls of Bashan have beset me round. **22:13** They gaped upon me with their mouths, as a ravening and a roaring lion. **22:14** I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels. **22:15** My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death. **22:16** For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet. **22:17** I may tell all my bones: they look and stare upon me. **22:18** They part my garments among them, and cast lots upon my vesture. **22:19** But be not thou far from me, O Yahweh: O my strength, haste thee to help me. **22:20** Deliver my soul from the sword; my darling from the power of the dog. **22:21** Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns. **22:22** I will declare thy name unto my brethren: in the midst of the congregation will I praise thee. **22:23** Ye that fear Yahweh, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel. **22:24** For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard. **22:25** My praise shall be of thee in the great congregation: I will pay my vows before them that fear him. **22:26** The meek shall eat and be satisfied: they shall praise Yahweh that seek him: your heart shall live for ever. **22:27** All the ends of the world shall remember and turn unto Yahweh: and all the kindreds of the nations shall worship before thee. **22:28** For the kingdom is Yahweh’s: and he is the governor among the nations. **22:29** All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul. **22:30** A seed shall serve him; it shall be accounted to the Lord for a generation. **22:31** They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this.
+>
+>
+> **22:1** My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?
+>
+> **22:2** O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.
+>
+> **22:3** But thou art holy, O thou that inhabitest the praises of Israel.
+>
+> **22:4** Our fathers trusted in thee: they trusted, and thou didst deliver them.
+>
+> **22:5** They cried unto thee, and were delivered: they trusted in thee, and were not confounded.
+>
+> **22:6** But I am a worm, and no man; a reproach of men, and despised of the people.
+>
+> **22:7** All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,
+>
+> **22:8** He trusted on Yahweh that he would deliver him: let him deliver him, seeing he delighted in him.
+>
+> **22:9** But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother’s breasts.
+>
+> **22:10** I was cast upon thee from the womb: thou art my God from my mother’s belly.
+>
+> **22:11** Be not far from me; for trouble is near; for there is none to help.
+>
+> **22:12** Many bulls have compassed me: strong bulls of Bashan have beset me round.
+>
+> **22:13** They gaped upon me with their mouths, as a ravening and a roaring lion.
+>
+> **22:14** I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.
+>
+> **22:15** My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.
+>
+> **22:16** For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
+>
+> **22:17** I may tell all my bones: they look and stare upon me.
+>
+> **22:18** They part my garments among them, and cast lots upon my vesture.
+>
+> **22:19** But be not thou far from me, O Yahweh: O my strength, haste thee to help me.
+>
+> **22:20** Deliver my soul from the sword; my darling from the power of the dog.
+>
+> **22:21** Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.
+>
+> **22:22** I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.
+>
+> **22:23** Ye that fear Yahweh, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.
+>
+> **22:24** For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.
+>
+> **22:25** My praise shall be of thee in the great congregation: I will pay my vows before them that fear him.
+>
+> **22:26** The meek shall eat and be satisfied: they shall praise Yahweh that seek him: your heart shall live for ever.
+>
+> **22:27** All the ends of the world shall remember and turn unto Yahweh: and all the kindreds of the nations shall worship before thee.
+>
+> **22:28** For the kingdom is Yahweh’s: and he is the governor among the nations.
+>
+> **22:29** All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.
+>
+> **22:30** A seed shall serve him; it shall be accounted to the Lord for a generation.
+>
+> **22:31** They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this.
 
 > **Psalm 51**
 >
-> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin. **51:3** For I acknowledge my transgressions: and my sin is ever before me. **51:4** Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest. **51:5** Behold, I was shapen in iniquity; and in sin did my mother conceive me. **51:6** Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom. **51:7** Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow. **51:8** Make me to hear joy and gladness; that the bones which thou hast broken may rejoice. **51:9** Hide thy face from my sins, and blot out all mine iniquities. **51:10** Create in me a clean heart, O God; and renew a right spirit within me. **51:11** Cast me not away from thy presence; and take not thy Holy Ghost from me. **51:12** Restore unto me the joy of thy salvation; and uphold me with thy free spirit. **51:13** Then will I teach transgressors thy ways; and sinners shall be converted unto thee. **51:14** Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness. **51:15** O Lord, open thou my lips; and my mouth shall shew forth thy praise. **51:16** For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering. **51:17** The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise. **51:18** Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem. **51:19** Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
+>
+>
+> **51:1** Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
+>
+> **51:2** Wash me throughly from mine iniquity, and cleanse me from my sin.
+>
+> **51:3** For I acknowledge my transgressions: and my sin is ever before me.
+>
+> **51:4** Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.
+>
+> **51:5** Behold, I was shapen in iniquity; and in sin did my mother conceive me.
+>
+> **51:6** Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.
+>
+> **51:7** Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
+>
+> **51:8** Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.
+>
+> **51:9** Hide thy face from my sins, and blot out all mine iniquities.
+>
+> **51:10** Create in me a clean heart, O God; and renew a right spirit within me.
+>
+> **51:11** Cast me not away from thy presence; and take not thy Holy Ghost from me.
+>
+> **51:12** Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
+>
+> **51:13** Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
+>
+> **51:14** Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.
+>
+> **51:15** O Lord, open thou my lips; and my mouth shall shew forth thy praise.
+>
+> **51:16** For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.
+>
+> **51:17** The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
+>
+> **51:18** Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.
+>
+> **51:19** Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
 
 > **Psalm 82**
 >
-> **82:1** God standeth in the congregation of the mighty; he judgeth among the gods. **82:2** How long will ye judge unjustly, and accept the persons of the wicked? Selah. **82:3** Defend the poor and fatherless: do justice to the afflicted and needy. **82:4** Deliver the poor and needy: rid them out of the hand of the wicked. **82:5** They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course. **82:6** I have said, Ye are gods; and all of you are children of the most High. **82:7** But ye shall die like men, and fall like one of the princes. **82:8** Arise, O God, judge the earth: for thou shalt inherit all nations.
+>
+>
+> **82:1** God standeth in the congregation of the mighty; he judgeth among the gods.
+>
+> **82:2** How long will ye judge unjustly, and accept the persons of the wicked? Selah.
+>
+> **82:3** Defend the poor and fatherless: do justice to the afflicted and needy.
+>
+> **82:4** Deliver the poor and needy: rid them out of the hand of the wicked.
+>
+> **82:5** They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
+>
+> **82:6** I have said, Ye are gods; and all of you are children of the most High.
+>
+> **82:7** But ye shall die like men, and fall like one of the princes.
+>
+> **82:8** Arise, O God, judge the earth: for thou shalt inherit all nations.
 
 
 <a id="rg-04-0-the-lord-s-prayer-007"></a>
@@ -437,13 +745,19 @@ For thine is the kingdom, and the power, and the glory, for ever. Amen.
 
 > **Psalm 119:164**
 >
+>
+>
 > **119:164** Seven times a day do I praise thee because of thy righteous judgments.
 
 > **Psalm 50:15**
 >
+>
+>
 > **50:15** And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.
 
 > **Psalm 65:8**
+>
+>
 >
 > **65:8** They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.
 

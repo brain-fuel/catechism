@@ -129,7 +129,11 @@ Certain passages of Holy Scripture for the several estates, wherein each is admo
 
 > **Psalm 78:5–6**
 >
-> **78:5** For he established a testimony in Jacob, and appointed a Law in Israel, which he commanded our fathers, that they should make them known to their children: **78:6** That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:
+>
+>
+> **78:5** For he established a testimony in Jacob, and appointed a Law in Israel, which he commanded our fathers, that they should make them known to their children:
+>
+> **78:6** That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:
 
 ### For Children
 

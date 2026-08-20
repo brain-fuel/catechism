@@ -295,7 +295,17 @@ Honour thy father and thy mother: that thy days may be long upon the land which 
 
 > **Psalm 127**
 >
-> **127:1** Except Yahweh build the house, they labour in vain that build it: except Yahweh keep the city, the watchman waketh but in vain. **127:2** It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep. **127:3** Lo, children are an heritage of Yahweh: and the fruit of the womb is his reward. **127:4** As arrows are in the hand of a mighty man; so are children of the youth. **127:5** Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.
+>
+>
+> **127:1** Except Yahweh build the house, they labour in vain that build it: except Yahweh keep the city, the watchman waketh but in vain.
+>
+> **127:2** It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.
+>
+> **127:3** Lo, children are an heritage of Yahweh: and the fruit of the womb is his reward.
+>
+> **127:4** As arrows are in the hand of a mighty man; so are children of the youth.
+>
+> **127:5** Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.
 
 
 ## Memory and prayer

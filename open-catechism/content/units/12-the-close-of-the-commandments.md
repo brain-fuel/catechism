@@ -165,6 +165,8 @@ As the head of the family should teach them in a simple way to his household.
 
 > **Psalm 30:5**
 >
+>
+>
 > **30:5** For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.
 
 
@@ -203,13 +205,19 @@ As the head of the family should teach them in a simple way to his household.
 
 > **Psalm 119:2**
 >
+>
+>
 > **119:2** Blessed are they that keep his testimonies, and that seek him with the whole heart.
 
 > **Psalm 119:9**
 >
+>
+>
 > **119:9**  Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.
 
 > **Psalm 40:8**
+>
+>
 >
 > **40:8** I delight to do thy will, O my God: yea, thy law is within my heart.
 
@@ -295,13 +303,43 @@ As the head of the family should teach them in a simple way to his household.
 
 > **Psalm 65**
 >
-> **65:1** Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed. **65:2** O thou that hearest prayer, unto thee shall all flesh come. **65:3** Iniquities prevail against me: as for our transgressions, thou shalt purge them away. **65:4** Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple. **65:5** By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea: **65:6** Which by his strength setteth fast the mountains; being girded with power: **65:7** Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people. **65:8** They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice. **65:9** Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it. **65:10** Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof. **65:11** Thou crownest the year with thy goodness; and thy paths drop fatness. **65:12** They drop upon the pastures of the wilderness: and the little hills rejoice on every side. **65:13** The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.
+>
+>
+> **65:1** Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.
+>
+> **65:2** O thou that hearest prayer, unto thee shall all flesh come.
+>
+> **65:3** Iniquities prevail against me: as for our transgressions, thou shalt purge them away.
+>
+> **65:4** Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple.
+>
+> **65:5** By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:
+>
+> **65:6** Which by his strength setteth fast the mountains; being girded with power:
+>
+> **65:7** Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.
+>
+> **65:8** They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.
+>
+> **65:9** Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.
+>
+> **65:10** Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.
+>
+> **65:11** Thou crownest the year with thy goodness; and thy paths drop fatness.
+>
+> **65:12** They drop upon the pastures of the wilderness: and the little hills rejoice on every side.
+>
+> **65:13** The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.
 
 > **Psalm 67:6**
+>
+>
 >
 > **67:6** Then shall the earth yield her increase; and God, even our own God, shall bless us.
 
 > **Psalm 85:12**
+>
+>
 >
 > **85:12** Yea, Yahweh shall give that which is good; and our land shall yield her increase.
 
@@ -325,11 +363,33 @@ As the head of the family should teach them in a simple way to his household.
 
 > **Psalm 103:13-19**
 >
-> **103:13** Like as a father pitieth his children, so Yahweh pitieth them that fear him. **103:14** For he knoweth our frame; he remembereth that we are dust. **103:15** As for man, his days are as grass: as a flower of the field, so he flourisheth. **103:16** For the wind passeth over it, and it is gone; and the place thereof shall know it no more. **103:17** But the mercy of Yahweh is from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children; **103:18** To such as keep his covenant, and to those that remember his commandments to do them. **103:19** Yahweh hath prepared his throne in the heavens; and his kingdom ruleth over all.
+>
+>
+> **103:13** Like as a father pitieth his children, so Yahweh pitieth them that fear him.
+>
+> **103:14** For he knoweth our frame; he remembereth that we are dust.
+>
+> **103:15** As for man, his days are as grass: as a flower of the field, so he flourisheth.
+>
+> **103:16** For the wind passeth over it, and it is gone; and the place thereof shall know it no more.
+>
+> **103:17** But the mercy of Yahweh is from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;
+>
+> **103:18** To such as keep his covenant, and to those that remember his commandments to do them.
+>
+> **103:19** Yahweh hath prepared his throne in the heavens; and his kingdom ruleth over all.
 
 > **Psalm 78:4-7**
 >
-> **78:4** We will not hide them from their children, shewing to the generation to come the praises of Yahweh, and his strength, and his wonderful works that he hath done. **78:5** For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children: **78:6** That the generation to come might know them, even the children which should be born; who should arise and declare them to their children: **78:7** That they might set their hope in God, and not forget the works of God, but keep his commandments:
+>
+>
+> **78:4** We will not hide them from their children, shewing to the generation to come the praises of Yahweh, and his strength, and his wonderful works that he hath done.
+>
+> **78:5** For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:
+>
+> **78:6** That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:
+>
+> **78:7** That they might set their hope in God, and not forget the works of God, but keep his commandments:
 
 
 <a id="rg-02-11-the-close-of-the-commandments-013"></a>
@@ -415,6 +475,8 @@ As the head of the family should teach them in a simple way to his household.
 
 > **Psalm 106:6**
 >
+>
+>
 > **106:6** We have sinned with our fathers, we have committed iniquity, we have done wickedly.
 
 
@@ -454,6 +516,8 @@ As the head of the family should teach them in a simple way to his household.
 > **64:6** But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.
 
 > **Psalm 14:3**
+>
+>
 >
 > **14:3** They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one.
 
@@ -495,7 +559,21 @@ As the head of the family should teach them in a simple way to his household.
 
 > **Psalm 14**
 >
-> **14:1** The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good. **14:2** Yahweh looked down from heaven upon the children of men, to see if there were any that did understand, and seek God. **14:3** They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one. **14:4** Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon Yahweh. **14:5** There were they in great fear: for God is in the generation of the righteous. **14:6** Ye have shamed the counsel of the poor, because Yahweh is his refuge. **14:7** Oh that the salvation of Israel were come out of Zion! when Yahweh bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.
+>
+>
+> **14:1** The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.
+>
+> **14:2** Yahweh looked down from heaven upon the children of men, to see if there were any that did understand, and seek God.
+>
+> **14:3** They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one.
+>
+> **14:4** Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon Yahweh.
+>
+> **14:5** There were they in great fear: for God is in the generation of the righteous.
+>
+> **14:6** Ye have shamed the counsel of the poor, because Yahweh is his refuge.
+>
+> **14:7** Oh that the salvation of Israel were come out of Zion! when Yahweh bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.
 
 
 ## Memory and prayer
